@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T15:08:37+00:00",
+  "last_updated": "2026-06-09T15:12:09+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -16,9 +16,9 @@
       "latest_mention": null
     },
     {
-      "name": "Shine Chrysalis",
-      "slug": "shine-chrysalis",
-      "file": "data/companies/shine-chrysalis.json",
+      "name": "Chrysalis",
+      "slug": "chrysalis",
+      "file": "data/companies/chrysalis.json",
       "count": 0,
       "latest_mention": null
     },
