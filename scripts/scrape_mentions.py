@@ -2,6 +2,7 @@ import json
 import os
 import re
 import time
+import html
 import hashlib
 from datetime import datetime, timedelta, timezone
 from urllib.parse import quote_plus, urlparse
@@ -37,6 +38,17 @@ def get_domain(url):
         return urlparse(url).netloc.replace("www.", "")
     except Exception:
         return None
+
+
+def clean_text(value):
+    if not value:
+        return ""
+
+    text = html.unescape(value)
+    text = re.sub(r"<[^>]+>", "", text)
+    text = re.sub(r"\s+", " ", text).strip()
+
+    return text
 
 
 def parse_date(value):
@@ -95,7 +107,7 @@ def fetch_news_mentions(query, lookback_days, max_results):
     mentions = []
 
     for entry in feed.entries[:max_results]:
-        title = entry.get("title")
+        title = clean_text(entry.get("title", ""))
         article_url = entry.get("link")
         published_raw = entry.get("published")
         published_at = parse_date(published_raw)
@@ -112,6 +124,9 @@ def fetch_news_mentions(query, lookback_days, max_results):
         if hasattr(entry, "source"):
             source = entry.source.get("title")
 
+        raw_summary = entry.get("summary", "")
+        clean_summary = clean_text(raw_summary)
+
         mentions.append({
             "id": make_id(article_url, title),
             "title": title,
@@ -120,7 +135,8 @@ def fetch_news_mentions(query, lookback_days, max_results):
             "source": source,
             "language": "English",
             "published_at": published_at,
-            "summary": entry.get("summary", ""),
+            "summary": clean_summary,
+            "raw_summary": raw_summary,
             "image": None,
             "source_api": "google_news_rss",
             "collected_at": utc_now_iso(),
