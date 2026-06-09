@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\" OR \"American Electric Power\" OR AEP",
-  "last_updated": "2026-06-09T16:52:12+00:00",
+  "last_updated": "2026-06-09T17:56:28+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 25,
+  "count": 27,
   "mentions": [
     {
       "id": "3605ab041135a7a1",
@@ -31,6 +31,19 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:12+00:00"
+    },
+    {
+      "id": "5409e46c576bb9f7",
+      "title": "American Electric Power Co. Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcUhxSExWaWItLUxJcjBDcVF6dU01YVNTTXlsRUNqdkJGcUJod0RGWHpMWHpDT2NDajZiUVp2NG5YcHlCNTdnQ2xxTDBMeUJ5X3Y2NlExajREbUpsYVIzZ0N6YWV0V3d1LWFUclFiUzdYdG1xLU4yUElCTDR2a1JLZFUxWmFfSDdLdGQyanBwQlpYeDJGUmE1YUNSNnYySUZMS3hqSXJLY3BlUnM3bk9XaTVwa2RRNkFoM3dqSHVjSmFkUklUbjNHS2lxRjZGMW1zcDhIdlRrbFphY0dlZmN2RGxCaW9iN2Z0YmIyLUlYZVRTTDc3ZkZN?oc=5",
+      "domain": "news.google.com",
+      "source": "MarketWatch",
+      "language": "English",
+      "published_at": "2026-06-08T20:44:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcUhxSExWaWItLUxJcjBDcVF6dU01YVNTTXlsRUNqdkJGcUJod0RGWHpMWHpDT2NDajZiUVp2NG5YcHlCNTdnQ2xxTDBMeUJ5X3Y2NlExajREbUpsYVIzZ0N6YWV0V3d1LWFUclFiUzdYdG1xLU4yUElCTDR2a1JLZFUxWmFfSDdLdGQyanBwQlpYeDJGUmE1YUNSNnYySUZMS3hqSXJLY3BlUnM3bk9XaTVwa2RRNkFoM3dqSHVjSmFkUklUbjNHS2lxRjZGMW1zcDhIdlRrbFphY0dlZmN2RGxCaW9iN2Z0YmIyLUlYZVRTTDc3ZkZN?oc=5\" target=\"_blank\">American Electric Power Co. Inc. stock outperforms competitors despite losses on the day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T17:56:28+00:00"
     },
     {
       "id": "4340fe5e113bb385",
@@ -135,6 +148,19 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:12+00:00"
+    },
+    {
+      "id": "76affb37629cfd3b",
+      "title": "American Electric Power : DOE Awards Grants to Upgrade AEP Plants - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2RyTGtDWXozdXlHajhodzY0aXhwTndwSW4yS19zVHAtaGp2RHMwVUQ0RGl2azBJWFpXUVZySkRQUmJfYk9GalpvVzVQdHBPcVp2SVhRcUlhc0dDTW10RUIzZEpfMkU3b2daUlllVm5oSWVtZXNuendjTWJmWU9BTzJ1TmNvQkhfRC1rblVWVVFKZXExclpXb2NiRUc4UHlQRVplczV2NWxZYVh6T19KTGZIYm5UdVk?oc=5",
+      "domain": "news.google.com",
+      "source": "marketscreener.com",
+      "language": "English",
+      "published_at": "2026-06-05T19:21:05+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2RyTGtDWXozdXlHajhodzY0aXhwTndwSW4yS19zVHAtaGp2RHMwVUQ0RGl2azBJWFpXUVZySkRQUmJfYk9GalpvVzVQdHBPcVp2SVhRcUlhc0dDTW10RUIzZEpfMkU3b2daUlllVm5oSWVtZXNuendjTWJmWU9BTzJ1TmNvQkhfRC1rblVWVVFKZXExclpXb2NiRUc4UHlQRVplczV2NWxZYVh6T19KTGZIYm5UdVk?oc=5\" target=\"_blank\">American Electric Power : DOE Awards Grants to Upgrade AEP Plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T17:56:28+00:00"
     },
     {
       "id": "89ed35bdcb8c26e5",

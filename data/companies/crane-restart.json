@@ -2,10 +2,23 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-09T16:52:29+00:00",
+  "last_updated": "2026-06-09T17:56:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 19,
+  "count": 23,
   "mentions": [
+    {
+      "id": "8a11d9d939730318",
+      "title": "NRC issues preliminary EA/FONSI for Crane restart - American Nuclear Society -- ANS",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmVLOUNTQ2VDcDJqejlzSjZWaEZoQnAxamZrcGJVQ3g2SUliRVAzcldFZ2I5OUd4X2VEaUJzNnBhMndNdTZMakpjNXROZVYyMWM0eTRKZV9rX1pHX3hpSGJhRDlGa3JQSS1XRXAwa21NU2NBZDYzd3I4NG9TeGgyZVk1WGI4WWd6Mmlqa1EyOVE?oc=5",
+      "domain": "news.google.com",
+      "source": "American Nuclear Society -- ANS",
+      "language": "English",
+      "published_at": "2026-06-09T17:48:21+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmVLOUNTQ2VDcDJqejlzSjZWaEZoQnAxamZrcGJVQ3g2SUliRVAzcldFZ2I5OUd4X2VEaUJzNnBhMndNdTZMakpjNXROZVYyMWM0eTRKZV9rX1pHX3hpSGJhRDlGa3JQSS1XRXAwa21NU2NBZDYzd3I4NG9TeGgyZVk1WGI4WWd6Mmlqa1EyOVE?oc=5\" target=\"_blank\">NRC issues preliminary EA/FONSI for Crane restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society -- ANS</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T17:56:45+00:00"
+    },
     {
       "id": "2267ee47d2ef2367",
       "title": "Three Mile Island restart operations to provide power to Microsoft’s cloud computing & AI programs - News On AIR",
@@ -44,6 +57,19 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:29+00:00"
+    },
+    {
+      "id": "241410a4cd7eacc1",
+      "title": "FERC approves Constellation waiver request on Crane restart - American Nuclear Society -- ANS",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjNaVWE5c19oVUY4bUlUdXJoRExpbC01Q0ZjYUdtVV9fXzZxLUVjUlVWT1hkRkxkbVE1SXR0VkU4NldBT0gwMnN2ZndOdTRsR0hNbjk2Q3Z4X1Z0NXNtSEQzQjZYdjhrdXlsRTRzdHVZMjB4NWNiVmtKQ05ZN3MxVjVlU0lIQ1dJaGd1Y1ZzYTR1MVJ6eHVfVUZIOU10TUgzaDJoT2laQ2hWVHFKeGc?oc=5",
+      "domain": "news.google.com",
+      "source": "American Nuclear Society -- ANS",
+      "language": "English",
+      "published_at": "2026-06-06T04:13:55+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjNaVWE5c19oVUY4bUlUdXJoRExpbC01Q0ZjYUdtVV9fXzZxLUVjUlVWT1hkRkxkbVE1SXR0VkU4NldBT0gwMnN2ZndOdTRsR0hNbjk2Q3Z4X1Z0NXNtSEQzQjZYdjhrdXlsRTRzdHVZMjB4NWNiVmtKQ05ZN3MxVjVlU0lIQ1dJaGd1Y1ZzYTR1MVJ6eHVfVUZIOU10TUgzaDJoT2laQ2hWVHFKeGc?oc=5\" target=\"_blank\">FERC approves Constellation waiver request on Crane restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society -- ANS</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T17:56:45+00:00"
     },
     {
       "id": "e9c7317dfd950d3e",
@@ -189,6 +215,19 @@
       "collected_at": "2026-06-09T16:52:29+00:00"
     },
     {
+      "id": "8b111d755de52d70",
+      "title": "Constellation secures FERC waiver for accelerated Three Mile Island restart (CEG:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGYzUEYyU1dOTGk3enhjV3ZuTkRMeWtNQkk3UkQ5b3NNV2J3RjhYanRFTWRYVFlQV2JhTlA2REptaHRRY2h4ZnZsQUM3OXhHUU9pZzRTN1N5a054RHZiRnF0c2ZUcGIwNk9wTjFzaEo1UVY3amZtVnJxaTJsaHNUc1k2cG5yc3BOeUt5UjVObnpYVkpjYktGVTdaOWxGSVVpZzRMdjhJVjVIM05ubWdKTFhTbw?oc=5",
+      "domain": "news.google.com",
+      "source": "Seeking Alpha",
+      "language": "English",
+      "published_at": "2026-06-02T20:43:47+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGYzUEYyU1dOTGk3enhjV3ZuTkRMeWtNQkk3UkQ5b3NNV2J3RjhYanRFTWRYVFlQV2JhTlA2REptaHRRY2h4ZnZsQUM3OXhHUU9pZzRTN1N5a054RHZiRnF0c2ZUcGIwNk9wTjFzaEo1UVY3amZtVnJxaTJsaHNUc1k2cG5yc3BOeUt5UjVObnpYVkpjYktGVTdaOWxGSVVpZzRMdjhJVjVIM05ubWdKTFhTbw?oc=5\" target=\"_blank\">Constellation secures FERC waiver for accelerated Three Mile Island restart (CEG:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T17:56:45+00:00"
+    },
+    {
       "id": "c2511892e14b603a",
       "title": "Constellation Wins Key Step for 2027 Three Mile Island Restart - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVNsWTh5NTg2Z09ScTZ0TUZKUjM1VE1oaV94UjExdEZjZXNNTEtCcXB6aUN6V3VLNVY1d0lsQzFoV3ZzN3E2dzlaT3hiY2hZV1RuWkdpOTBscWhIV1R1ZEoyUjRVb3JCOU05UHFCVkdmRHR6RzR5Qnl3aFVLb2thbmhCVWwxVWlMOXdRS1RtTzRZM0xDQVNlSHNCVHZpRFRGZVNXYzR0d2JRZkp4dUJpTjdIbw?oc=5",
@@ -200,6 +239,19 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:29+00:00"
+    },
+    {
+      "id": "6fcd393593266207",
+      "title": "Constellation Wins Key Step for 2027 Three Mile Island Restart - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVNsWTh5NTg2Z09ScTZ0TUZKUjM1VE1oaV94UjExdEZjZXNNTEtCcXB6aUN6V3VLNVY1d0lsQzFoV3ZzN3E2dzlaT3hiY2hZV1RuWkdpOTBscWhIV1R1ZEoyUjRVb3JCOU05UHFCVkdmRHR6RzR5Qnl3aFVLb2thbmhCVWwxVWlMOXdRS1RtTzRZM0xDQVNlSHNCVHZpRFRGZVNXYzR0d2JRZkp4dUJpTjdIbw?oc=5",
+      "domain": "news.google.com",
+      "source": "Bloomberg.com",
+      "language": "English",
+      "published_at": "2026-06-02T20:17:08+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVNsWTh5NTg2Z09ScTZ0TUZKUjM1VE1oaV94UjExdEZjZXNNTEtCcXB6aUN6V3VLNVY1d0lsQzFoV3ZzN3E2dzlaT3hiY2hZV1RuWkdpOTBscWhIV1R1ZEoyUjRVb3JCOU05UHFCVkdmRHR6RzR5Qnl3aFVLb2thbmhCVWwxVWlMOXdRS1RtTzRZM0xDQVNlSHNCVHZpRFRGZVNXYzR0d2JRZkp4dUJpTjdIbw?oc=5\" target=\"_blank\">Constellation Wins Key Step for 2027 Three Mile Island Restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T17:56:45+00:00"
     },
     {
       "id": "ab78863614e5df05",

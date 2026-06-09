@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-09T16:52:45+00:00",
+  "last_updated": "2026-06-09T17:57:01+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 25,
+      "count": 27,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "3605ab041135a7a1",
@@ -25,8 +25,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 10,
-      "new_mentions_this_run": 10,
+      "count": 16,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "43ebcdb352305c3f",
         "title": "Alabama Power launched inaugural Grid Games Energy Hackathon for high schoolers - Alabama News Center",
@@ -53,20 +53,20 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 19,
-      "new_mentions_this_run": 19,
+      "count": 23,
+      "new_mentions_this_run": 17,
       "latest_mention": {
-        "id": "2267ee47d2ef2367",
-        "title": "Three Mile Island restart operations to provide power to Microsoft’s cloud computing & AI programs - News On AIR",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUhkU2FHaU9xZmp2d2RWaUltdjJUa0lIUTZlZm1OWnZ5T0hCRmw5OTZRQ1ZfV3VDNkllWW9wQTdWaTVobWFZRVdvdjhVY29Idk00UnJtWWJUcVRZMF96MkdjX0lFX2NodHJsSEFDT2w0cFpSVi1zT3IwNnZlaUR2MHNiUzlqMERPdV9oNzFuTjNObnhTbmhUbmhlZEd6U2lOMkFjeHktb3hjYWRQdEFZekpiUjNpdWVTV2x5TUxR?oc=5",
+        "id": "8a11d9d939730318",
+        "title": "NRC issues preliminary EA/FONSI for Crane restart - American Nuclear Society -- ANS",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmVLOUNTQ2VDcDJqejlzSjZWaEZoQnAxamZrcGJVQ3g2SUliRVAzcldFZ2I5OUd4X2VEaUJzNnBhMndNdTZMakpjNXROZVYyMWM0eTRKZV9rX1pHX3hpSGJhRDlGa3JQSS1XRXAwa21NU2NBZDYzd3I4NG9TeGgyZVk1WGI4WWd6Mmlqa1EyOVE?oc=5",
         "domain": "news.google.com",
-        "source": "News On AIR",
+        "source": "American Nuclear Society -- ANS",
         "language": "English",
-        "published_at": "2026-06-08T23:34:38+00:00",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUhkU2FHaU9xZmp2d2RWaUltdjJUa0lIUTZlZm1OWnZ5T0hCRmw5OTZRQ1ZfV3VDNkllWW9wQTdWaTVobWFZRVdvdjhVY29Idk00UnJtWWJUcVRZMF96MkdjX0lFX2NodHJsSEFDT2w0cFpSVi1zT3IwNnZlaUR2MHNiUzlqMERPdV9oNzFuTjNObnhTbmhUbmhlZEd6U2lOMkFjeHktb3hjYWRQdEFZekpiUjNpdWVTV2x5TUxR?oc=5\" target=\"_blank\">Three Mile Island restart operations to provide power to Microsoft’s cloud computing & AI programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+        "published_at": "2026-06-09T17:48:21+00:00",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmVLOUNTQ2VDcDJqejlzSjZWaEZoQnAxamZrcGJVQ3g2SUliRVAzcldFZ2I5OUd4X2VEaUJzNnBhMndNdTZMakpjNXROZVYyMWM0eTRKZV9rX1pHX3hpSGJhRDlGa3JQSS1XRXAwa21NU2NBZDYzd3I4NG9TeGgyZVk1WGI4WWd6Mmlqa1EyOVE?oc=5\" target=\"_blank\">NRC issues preliminary EA/FONSI for Crane restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society -- ANS</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-09T16:52:29+00:00"
+        "collected_at": "2026-06-09T17:56:45+00:00"
       }
     },
     {

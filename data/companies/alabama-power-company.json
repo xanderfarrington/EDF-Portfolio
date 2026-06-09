@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-09T16:52:18+00:00",
+  "last_updated": "2026-06-09T17:56:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 10,
+  "count": 16,
   "mentions": [
     {
       "id": "43ebcdb352305c3f",
@@ -18,6 +18,58 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:18+00:00"
+    },
+    {
+      "id": "1abbc96db418dfec",
+      "title": "Alabama Power Is Gearing Up For Another 'stormy' Sunday (Lz5hnikMWc) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYUVlpcUwwU1F6VkQxdWNqMVhvUTNiVTVxWVZGQkpJMjlTcXFWX2xDbEltMm4xRDdsZ0MySmZ3V2NZeUlHVEp2ZThXSkh2SGRYMWtmNVo2elRLaEk1WGF6b3kyMG5UcFB6VjdtMXhWMjdRNHBmZ0E?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-06T11:41:45+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBYUVlpcUwwU1F6VkQxdWNqMVhvUTNiVTVxWVZGQkpJMjlTcXFWX2xDbEltMm4xRDdsZ0MySmZ3V2NZeUlHVEp2ZThXSkh2SGRYMWtmNVo2elRLaEk1WGF6b3kyMG5UcFB6VjdtMXhWMjdRNHBmZ0E?oc=5\" target=\"_blank\">Alabama Power Is Gearing Up For Another 'stormy' Sunday (Lz5hnikMWc)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T17:56:34+00:00"
+    },
+    {
+      "id": "2c725150e389e1cf",
+      "title": "Tips From Alabama Power During Cold Weather (zCyAqvapjK) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1ZDc5RTc1TnhtZDdGMFRWTFZkalBZbFdLWHB6MlRja0wyRUUwalNURmZ1MHFVbjh2LTRlTk9rVHFsS3ZVYjJTVGJJU2lqY2dvTUY3MGRnWFU5ZnlfNTQ4MzZGX1VyaWxzU0h6eGpNa1g?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-06T10:49:03+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB1ZDc5RTc1TnhtZDdGMFRWTFZkalBZbFdLWHB6MlRja0wyRUUwalNURmZ1MHFVbjh2LTRlTk9rVHFsS3ZVYjJTVGJJU2lqY2dvTUY3MGRnWFU5ZnlfNTQ4MzZGX1VyaWxzU0h6eGpNa1g?oc=5\" target=\"_blank\">Tips From Alabama Power During Cold Weather (zCyAqvapjK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T17:56:34+00:00"
+    },
+    {
+      "id": "64b132b9c99c344c",
+      "title": "Alabama Power Has Tips For Cutting Your Energy Costs (Pyex3QsxYp) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2TENoV0lBNW1CN2FLbC05MnlNTzJ0UVlPVDRQV3VtZmpKb0xta244RVBmdU9HRGtvTV96aGg0QTZwb3dBZzVnSFdrNl82eElLbkJVQVJjUVcxMWJrMHdEWl9hNFVBQmhtdnE4WEx4MEVlMVYwVEE?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-06T03:02:42+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA2TENoV0lBNW1CN2FLbC05MnlNTzJ0UVlPVDRQV3VtZmpKb0xta244RVBmdU9HRGtvTV96aGg0QTZwb3dBZzVnSFdrNl82eElLbkJVQVJjUVcxMWJrMHdEWl9hNFVBQmhtdnE4WEx4MEVlMVYwVEE?oc=5\" target=\"_blank\">Alabama Power Has Tips For Cutting Your Energy Costs (Pyex3QsxYp)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T17:56:34+00:00"
+    },
+    {
+      "id": "d8f8da1edcf1577e",
+      "title": "ALABAMA POWER RESIDENTS CONCERNED OVER HIGH BILLS (9frm4yVlqY) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XYmV3ZjlhSk9UV3ljZTJRdFdvbHlFZTlySElaZHVMSW1IZ1VKaHBfMFVtTFZuY2NxQlhPNm92S0ZTeUVTcnMxa3FCT05GbXVROHlFellISFRFVmdBZkxPbU1BbFJONElCZjAweVhqM2Y?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-05T14:31:44+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1XYmV3ZjlhSk9UV3ljZTJRdFdvbHlFZTlySElaZHVMSW1IZ1VKaHBfMFVtTFZuY2NxQlhPNm92S0ZTeUVTcnMxa3FCT05GbXVROHlFellISFRFVmdBZkxPbU1BbFJONElCZjAweVhqM2Y?oc=5\" target=\"_blank\">ALABAMA POWER RESIDENTS CONCERNED OVER HIGH BILLS (9frm4yVlqY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T17:56:34+00:00"
     },
     {
       "id": "878bc115c291ab18",
@@ -122,6 +174,32 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:18+00:00"
+    },
+    {
+      "id": "02c0449c5885f18a",
+      "title": "Alabama Coal Ash Lawsuit Can Continue, Appeals Court Rules - Inside Climate News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVVHZ2ExdFhCTW9GRGNXVDJCam5rY1ZmbXVzVzZFMkpGZFRuTURuT1RuVEUtSUh0Ym13dnBwSWFtRUl3RUxrUTl3RjI1RUppQnJTZUh2blFaVEdpODdZakVGS1FMS0poZGwyUE1VTTlHbmREVFNiVjBVRG1TT09YLQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Inside Climate News",
+      "language": "English",
+      "published_at": "2026-05-19T07:00:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVVHZ2ExdFhCTW9GRGNXVDJCam5rY1ZmbXVzVzZFMkpGZFRuTURuT1RuVEUtSUh0Ym13dnBwSWFtRUl3RUxrUTl3RjI1RUppQnJTZUh2blFaVEdpODdZakVGS1FMS0poZGwyUE1VTTlHbmREVFNiVjBVRG1TT09YLQ?oc=5\" target=\"_blank\">Alabama Coal Ash Lawsuit Can Continue, Appeals Court Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T17:56:34+00:00"
+    },
+    {
+      "id": "1d722b740567de72",
+      "title": "Federal appeals court rules against Alabama Power in Plant Barry coal ash battle - 1819 News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdXJKampReXhvN0E0NWJwTHpEV2o4SldJcG9tWkxwS1VNd1FmR01rZFF6Vko4cUgzME93emt4LWh2cllBSnRDd1RSWUs2SXVJTGJNTmM1bnhraXphNUNJZHJXQmg4YzZiSVk0TEtCTWFXT0std0oyZmd3NVZud0ZuaUVUVlVwUFZrVTFfRUZ3TkpxUnBubUNVTkJFdGR3WEI5LThFOFVvQVhjM0xway1IdQ?oc=5",
+      "domain": "news.google.com",
+      "source": "1819 News",
+      "language": "English",
+      "published_at": "2026-05-19T07:00:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdXJKampReXhvN0E0NWJwTHpEV2o4SldJcG9tWkxwS1VNd1FmR01rZFF6Vko4cUgzME93emt4LWh2cllBSnRDd1RSWUs2SXVJTGJNTmM1bnhraXphNUNJZHJXQmg4YzZiSVk0TEtCTWFXT0std0oyZmd3NVZud0ZuaUVUVlVwUFZrVTFfRUZ3TkpxUnBubUNVTkJFdGR3WEI5LThFOFVvQVhjM0xway1IdQ?oc=5\" target=\"_blank\">Federal appeals court rules against Alabama Power in Plant Barry coal ash battle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T17:56:34+00:00"
     },
     {
       "id": "d5823335cba4c8de",
