@@ -64,13 +64,6 @@ def save_company_file(path, company_name, slug, mentions):
 
 
 def fetch_gdelt_mentions(query, lookback_days, max_results):
-    """
-    Uses GDELT 2.1 DOC API.
-    This avoids scraping individual websites and instead queries a public media database.
-    """
-    start_dt = datetime.now(timezone.utc) - timedelta(days=lookback_days)
-    start_str = start_dt.strftime("%Y%m%d%H%M%S")
-
     encoded_query = quote_plus(query)
 
     url = (
@@ -79,57 +72,58 @@ def fetch_gdelt_mentions(query, lookback_days, max_results):
         "&mode=artlist"
         "&format=json"
         f"&maxrecords={max_results}"
-        f"&startdatetime={start_str}"
-        "&sort=hybridrel"
+        f"&timespan={lookback_days}d"
+        "&sort=datedesc"
     )
 
     headers = {
-        "User-Agent": "media-mentions-tracker/1.0"
+        "User-Agent": "media-mentions-tracker/1.0 xanderfarrington"
     }
 
-    response = requests.get(url, headers=headers, timeout=30)
-    response.raise_for_status()
+    for attempt in range(5):
+        print(f"Attempt {attempt + 1}/5")
+        print(f"GDELT URL: {url}")
 
-    data = response.json()
-    articles = data.get("articles", [])
+        response = requests.get(url, headers=headers, timeout=45)
 
-    mentions = []
-
-    for article in articles:
-        title = article.get("title") or ""
-        article_url = article.get("url") or ""
-        source = article.get("sourceCountry") or article.get("domain") or ""
-        domain = article.get("domain") or ""
-        language = article.get("language") or ""
-        published_raw = article.get("seendate") or article.get("socialimage") or ""
-
-        published_at = None
-        if article.get("seendate"):
-            try:
-                published_at = date_parser.parse(article["seendate"]).replace(
-                    tzinfo=timezone.utc
-                ).isoformat()
-            except Exception:
-                published_at = article.get("seendate")
-
-        if not title or not article_url:
+        if response.status_code == 429:
+            wait_time = 60 * (attempt + 1)
+            print(f"Rate limited by GDELT. Waiting {wait_time} seconds...")
+            time.sleep(wait_time)
             continue
 
-        mentions.append({
-            "id": make_id(article_url, title),
-            "title": title,
-            "url": article_url,
-            "domain": domain,
-            "source": source,
-            "language": language,
-            "published_at": published_at,
-            "summary": article.get("snippet") or "",
-            "image": article.get("socialimage") or None,
-            "source_api": "gdelt",
-            "collected_at": utc_now_iso(),
-        })
+        response.raise_for_status()
 
-    return mentions
+        data = response.json()
+        articles = data.get("articles", [])
+
+        print(f"Articles returned: {len(articles)}")
+
+        mentions = []
+
+        for article in articles:
+            title = article.get("title")
+            article_url = article.get("url")
+
+            if not title or not article_url:
+                continue
+
+            mentions.append({
+                "id": make_id(article_url, title),
+                "title": title,
+                "url": article_url,
+                "domain": article.get("domain"),
+                "source_country": article.get("sourceCountry"),
+                "language": article.get("language"),
+                "published_at": parse_gdelt_date(article.get("seendate")),
+                "image": article.get("socialimage"),
+                "source_api": "gdelt",
+                "collected_at": utc_now_iso(),
+            })
+
+        return mentions
+
+    raise RuntimeError("GDELT rate limit persisted after 5 attempts.")
 
 
 def merge_mentions(existing, incoming):
