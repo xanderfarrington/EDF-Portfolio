@@ -1,4 +1,47 @@
 {
-  "last_updated": "2026-06-09T15:00:38+00:00",
-  "companies": []
+  "last_updated": "2026-06-09T15:08:37+00:00",
+  "companies": [
+    {
+      "name": "AEP Transmission",
+      "slug": "aep-transmission",
+      "file": "data/companies/aep-transmission.json",
+      "count": 0,
+      "latest_mention": null
+    },
+    {
+      "name": "Alabama Power Company",
+      "slug": "alabama-power-company",
+      "file": "data/companies/alabama-power-company.json",
+      "count": 0,
+      "latest_mention": null
+    },
+    {
+      "name": "Shine Chrysalis",
+      "slug": "shine-chrysalis",
+      "file": "data/companies/shine-chrysalis.json",
+      "count": 0,
+      "latest_mention": null
+    },
+    {
+      "name": "Crane Restart",
+      "slug": "crane-restart",
+      "file": "data/companies/crane-restart.json",
+      "count": 0,
+      "latest_mention": null
+    },
+    {
+      "name": "Georgia Power Company",
+      "slug": "georgia-power-company",
+      "file": "data/companies/georgia-power-company.json",
+      "count": 0,
+      "latest_mention": null
+    },
+    {
+      "name": "Energy Dominance Financing",
+      "slug": "energy-dominance-financing",
+      "file": "data/companies/energy-dominance-financing.json",
+      "count": 0,
+      "latest_mention": null
+    }
+  ]
 }
