@@ -1,47 +1,113 @@
 {
-  "last_updated": "2026-06-09T16:20:00+00:00",
+  "last_updated": "2026-06-09T16:52:45+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 0,
-      "latest_mention": null
+      "count": 25,
+      "new_mentions_this_run": 25,
+      "latest_mention": {
+        "id": "3605ab041135a7a1",
+        "title": "A Look At American Electric Power Company (AEP) Valuation After OVEC Overhaul And Data Center Growth Plans - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMWEzS0lsZVBQcXlOQTRUNElvdFFaT2RpQjRZN3k4TkVHTmNXTGtqTGtfVGRKZmM3R19sbTNVN1psTmJoY2tpSVVCS05ocDNfSk5qMnNLV0lhNngzV29aZ1UweTFvV3U3WlFoZDRQTUV5MzgwclFnWlROcnJuNUJqekxaRDZMY0lPNmZMSUhrTTFRRjJ5aUJ4T0VLbHNlR0hFNUxOaldkSWxWTjRsX2F2RnJtbW1jeXhZMW1BbVVZNnNkQklRbjFDSlhHM3ZoRFNjTW5KbmNwci10dWJq0gHiAUFVX3lxTFAxaXdLT3Iyb2pHc2tHbG00WHV1SHJJOFNQR1oxODVoZDFvejk1alJobFJueWZBZ2IwZTU4U1NUWG0yZS1yQ2FpeHpEX1V4cVo0cS1PQTdibWtzTnFHX1VKakhEb1hic3lBai13YzR0TGtiaEZaMmdZdTZCcEVCUTByYkIwV09yNjU3WmFQQkFvSE1IZEtsQWQ0QXFYRlI1a3lYZEZTeklyM1FKUUJGYXl5bVNWSnpFcmMxTDBIaGNYUDA1N19QM1lEWjhCUWxGd1V2Y0M2TUtkWHczTVM5V3BOYmc?oc=5",
+        "domain": "news.google.com",
+        "source": "simplywall.st",
+        "language": "English",
+        "published_at": "2026-06-09T11:23:59+00:00",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMWEzS0lsZVBQcXlOQTRUNElvdFFaT2RpQjRZN3k4TkVHTmNXTGtqTGtfVGRKZmM3R19sbTNVN1psTmJoY2tpSVVCS05ocDNfSk5qMnNLV0lhNngzV29aZ1UweTFvV3U3WlFoZDRQTUV5MzgwclFnWlROcnJuNUJqekxaRDZMY0lPNmZMSUhrTTFRRjJ5aUJ4T0VLbHNlR0hFNUxOaldkSWxWTjRsX2F2RnJtbW1jeXhZMW1BbVVZNnNkQklRbjFDSlhHM3ZoRFNjTW5KbmNwci10dWJq0gHiAUFVX3lxTFAxaXdLT3Iyb2pHc2tHbG00WHV1SHJJOFNQR1oxODVoZDFvejk1alJobFJueWZBZ2IwZTU4U1NUWG0yZS1yQ2FpeHpEX1V4cVo0cS1PQTdibWtzTnFHX1VKakhEb1hic3lBai13YzR0TGtiaEZaMmdZdTZCcEVCUTByYkIwV09yNjU3WmFQQkFvSE1IZEtsQWQ0QXFYRlI1a3lYZEZTeklyM1FKUUJGYXl5bVNWSnpFcmMxTDBIaGNYUDA1N19QM1lEWjhCUWxGd1V2Y0M2TUtkWHczTVM5V3BOYmc?oc=5\" target=\"_blank\">A Look At American Electric Power Company (AEP) Valuation After OVEC Overhaul And Data Center Growth Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+        "image": null,
+        "source_api": "google_news_rss",
+        "collected_at": "2026-06-09T16:52:12+00:00"
+      }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 0,
-      "latest_mention": null
+      "count": 10,
+      "new_mentions_this_run": 10,
+      "latest_mention": {
+        "id": "43ebcdb352305c3f",
+        "title": "Alabama Power launched inaugural Grid Games Energy Hackathon for high schoolers - Alabama News Center",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0R5cmVkc0ZrQWVGMHZITnl2bTZLVXFOdUZfRl94d2d6ZWhFTXg2YTZDem5STGJsejkxNDVXSDJzZWR1OFA3Skcxb3ZNT3d1TFRZcXRLZUFnUEhVM244NnRWX3NLWFhvdHZKVHhjbnRfR0JaTFhjZ1ktcXdfU1NlOE5OQ0poZkxfZWJPX1I5bnFKNHVMbUZveXB0S2JGcUNjU05TTUVuVDZyZ0FiczRDT0V1eGxNY01EWEpIdXhB?oc=5",
+        "domain": "news.google.com",
+        "source": "Alabama News Center",
+        "language": "English",
+        "published_at": "2026-06-09T13:53:13+00:00",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0R5cmVkc0ZrQWVGMHZITnl2bTZLVXFOdUZfRl94d2d6ZWhFTXg2YTZDem5STGJsejkxNDVXSDJzZWR1OFA3Skcxb3ZNT3d1TFRZcXRLZUFnUEhVM244NnRWX3NLWFhvdHZKVHhjbnRfR0JaTFhjZ1ktcXdfU1NlOE5OQ0poZkxfZWJPX1I5bnFKNHVMbUZveXB0S2JGcUNjU05TTUVuVDZyZ0FiczRDT0V1eGxNY01EWEpIdXhB?oc=5\" target=\"_blank\">Alabama Power launched inaugural Grid Games Energy Hackathon for high schoolers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama News Center</font>",
+        "image": null,
+        "source_api": "google_news_rss",
+        "collected_at": "2026-06-09T16:52:18+00:00"
+      }
     },
     {
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 0,
+      "new_mentions_this_run": 0,
       "latest_mention": null
     },
     {
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 0,
-      "latest_mention": null
+      "count": 19,
+      "new_mentions_this_run": 19,
+      "latest_mention": {
+        "id": "2267ee47d2ef2367",
+        "title": "Three Mile Island restart operations to provide power to Microsoft’s cloud computing & AI programs - News On AIR",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUhkU2FHaU9xZmp2d2RWaUltdjJUa0lIUTZlZm1OWnZ5T0hCRmw5OTZRQ1ZfV3VDNkllWW9wQTdWaTVobWFZRVdvdjhVY29Idk00UnJtWWJUcVRZMF96MkdjX0lFX2NodHJsSEFDT2w0cFpSVi1zT3IwNnZlaUR2MHNiUzlqMERPdV9oNzFuTjNObnhTbmhUbmhlZEd6U2lOMkFjeHktb3hjYWRQdEFZekpiUjNpdWVTV2x5TUxR?oc=5",
+        "domain": "news.google.com",
+        "source": "News On AIR",
+        "language": "English",
+        "published_at": "2026-06-08T23:34:38+00:00",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUhkU2FHaU9xZmp2d2RWaUltdjJUa0lIUTZlZm1OWnZ5T0hCRmw5OTZRQ1ZfV3VDNkllWW9wQTdWaTVobWFZRVdvdjhVY29Idk00UnJtWWJUcVRZMF96MkdjX0lFX2NodHJsSEFDT2w0cFpSVi1zT3IwNnZlaUR2MHNiUzlqMERPdV9oNzFuTjNObnhTbmhUbmhlZEd6U2lOMkFjeHktb3hjYWRQdEFZekpiUjNpdWVTV2x5TUxR?oc=5\" target=\"_blank\">Three Mile Island restart operations to provide power to Microsoft’s cloud computing & AI programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+        "image": null,
+        "source_api": "google_news_rss",
+        "collected_at": "2026-06-09T16:52:29+00:00"
+      }
     },
     {
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 0,
-      "latest_mention": null
+      "count": 25,
+      "new_mentions_this_run": 25,
+      "latest_mention": {
+        "id": "7112f066e29cc30f",
+        "title": "Georgia utility commission races test party loyalty after recent power bill hikes - WABE",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPakNDbWNvUkt4aGY5S1RMRGtrSU5jOU00dk5SQzV0QnM1aFZuWXlsczZka2JobjYtN01fUHpmMEdrM1hUb1ZiSzZVX3N4T1JXVFNXcUlQWktCY1NQOTFxZ3VZNFBaM3lrSHd3TER1ME5yLUJETmY3MTlsTS1XU0R0cFlHdlpjSFpFeTFEa2tHRVlwRlpsY2pfQ3FLVWZUd2oxckpjdzB3?oc=5",
+        "domain": "news.google.com",
+        "source": "WABE",
+        "language": "English",
+        "published_at": "2026-06-08T14:11:27+00:00",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPakNDbWNvUkt4aGY5S1RMRGtrSU5jOU00dk5SQzV0QnM1aFZuWXlsczZka2JobjYtN01fUHpmMEdrM1hUb1ZiSzZVX3N4T1JXVFNXcUlQWktCY1NQOTFxZ3VZNFBaM3lrSHd3TER1ME5yLUJETmY3MTlsTS1XU0R0cFlHdlpjSFpFeTFEa2tHRVlwRlpsY2pfQ3FLVWZUd2oxckpjdzB3?oc=5\" target=\"_blank\">Georgia utility commission races test party loyalty after recent power bill hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
+        "image": null,
+        "source_api": "google_news_rss",
+        "collected_at": "2026-06-09T16:52:35+00:00"
+      }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 0,
-      "latest_mention": null
+      "count": 6,
+      "new_mentions_this_run": 6,
+      "latest_mention": {
+        "id": "40a8718d04d0cbe1",
+        "title": "Gregory A. Beard - Department of Energy (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oWU9GQUZXUWFjb29OX3phRzdwdUZ4czlXbnRXd1pUZjh1ZXBiRlA1eDVYbjZKelUwN0NvNGFicnVvZTFlYUFET3Rta29vXy1yMjZHb2F0UQ?oc=5",
+        "domain": "news.google.com",
+        "source": "Department of Energy (.gov)",
+        "language": "English",
+        "published_at": "2026-06-04T21:35:00+00:00",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oWU9GQUZXUWFjb29OX3phRzdwdUZ4czlXbnRXd1pUZjh1ZXBiRlA1eDVYbjZKelUwN0NvNGFicnVvZTFlYUFET3Rta29vXy1yMjZHb2F0UQ?oc=5\" target=\"_blank\">Gregory A. Beard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+        "image": null,
+        "source_api": "google_news_rss",
+        "collected_at": "2026-06-09T16:52:40+00:00"
+      }
     }
   ]
 }

@@ -1,7 +1,88 @@
 {
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
-  "last_updated": "2026-06-09T16:19:30+00:00",
-  "count": 0,
-  "mentions": []
+  "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
+  "last_updated": "2026-06-09T16:52:40+00:00",
+  "archive_policy": "append_only_no_deletion",
+  "count": 6,
+  "mentions": [
+    {
+      "id": "40a8718d04d0cbe1",
+      "title": "Gregory A. Beard - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oWU9GQUZXUWFjb29OX3phRzdwdUZ4czlXbnRXd1pUZjh1ZXBiRlA1eDVYbjZKelUwN0NvNGFicnVvZTFlYUFET3Rta29vXy1yMjZHb2F0UQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-06-04T21:35:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oWU9GQUZXUWFjb29OX3phRzdwdUZ4czlXbnRXd1pUZjh1ZXBiRlA1eDVYbjZKelUwN0NvNGFicnVvZTFlYUFET3Rta29vXy1yMjZHb2F0UQ?oc=5\" target=\"_blank\">Gregory A. Beard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T16:52:40+00:00"
+    },
+    {
+      "id": "f65dc47beea949d8",
+      "title": "Greg Beard Appointed as Office of Energy Dominance Financing (EDF) Director - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3FHV1ViSlhEQ051NHhHREJIZGg0LUNSZFBtUUJTUHFfN1pHMGNPdlZJUlBNOHV5Q1FfaTZ5T1pUSDBWcVJIOThMa0ozU2tlVUpwSmxUWU9pZWg2Zm4xcUltcVVqOHlOWWJ2RGJSMnpEN1YyRlNiaU91YWpXeXFmYmZjZGcwN1JTYzVtOUZFdlU1cVdvZUNjLV9wSWFVQUlvX3UyZGpB?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-06-04T21:35:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3FHV1ViSlhEQ051NHhHREJIZGg0LUNSZFBtUUJTUHFfN1pHMGNPdlZJUlBNOHV5Q1FfaTZ5T1pUSDBWcVJIOThMa0ozU2tlVUpwSmxUWU9pZWg2Zm4xcUltcVVqOHlOWWJ2RGJSMnpEN1YyRlNiaU91YWpXeXFmYmZjZGcwN1JTYzVtOUZFdlU1cVdvZUNjLV9wSWFVQUlvX3UyZGpB?oc=5\" target=\"_blank\">Greg Beard Appointed as Office of Energy Dominance Financing (EDF) Director</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T16:52:40+00:00"
+    },
+    {
+      "id": "b76f821212595f0b",
+      "title": "Rupinder Kaur - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FMEtHcklPZ1hBRFpyUFl3UVJUa0JYQWpTVUdhOUhkQjZlUVh4NTByTHJvOXNpUXRINW0xeGQxR3d5djkybGRNV1NTYWRFbVZjRjQ5bjJCRDNzVzQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-06-04T20:35:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FMEtHcklPZ1hBRFpyUFl3UVJUa0JYQWpTVUdhOUhkQjZlUVh4NTByTHJvOXNpUXRINW0xeGQxR3d5djkybGRNV1NTYWRFbVZjRjQ5bjJCRDNzVzQ?oc=5\" target=\"_blank\">Rupinder Kaur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T16:52:40+00:00"
+    },
+    {
+      "id": "9682f9e8ff50b9a4",
+      "title": "Todd Stribley - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xeHJKS0daT2JHRVRuVXdORVpQTk95NWFYTXNaMkRsMm1nTWQwYWl3cE4tdi1CZVkzV0J4d0U4aUlVUUZZcVl2VUItb09PTEJSREN4OERwaThCSlU?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-06-04T20:35:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xeHJKS0daT2JHRVRuVXdORVpQTk95NWFYTXNaMkRsMm1nTWQwYWl3cE4tdi1CZVkzV0J4d0U4aUlVUUZZcVl2VUItb09PTEJSREN4OERwaThCSlU?oc=5\" target=\"_blank\">Todd Stribley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T16:52:40+00:00"
+    },
+    {
+      "id": "26b32016060a79cb",
+      "title": "DOE Issues Updated Guidance for Energy Dominance Financing Program - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDREQUJEdFk1UGhETUtvRGJFMk9fLVVXd2U0Z3BoZ0RwTHRHT0ZSUzItbDVhYy1yY0dIWTVHS3hReXdtUW5UVDRjRzhKdXlDWHJXRmZyeHJpRVI1NEo0RFU2a252SW5kcW51dXB6aERrTzZaV2V3NXk5VE53V0t5enR4X2ZvQzBjNnlHZmVCdC1wenFUSTRqMVJUZ9IBoAFBVV95cUxNbDlNYnZHOGlVelZmVFRsY2F4VmJaeVNqX1BaT29tM3g5LVpUVF9lSWhpOE9WVjh2Sm9VcXlhQUViYmxjcERSX2lWaTRqRndsZDd3QzdVdjJRTFMyc0hLM3FoaEZyTmQwY1lKTEViM0VQdzBZM2lEWEx4NFNKV3lHZnZITlU2ZUY1TFFjdFZkWDNoU1JrNUd3MlVxMXpCVVBj?oc=5",
+      "domain": "news.google.com",
+      "source": "The National Law Review",
+      "language": "English",
+      "published_at": "2026-05-18T07:00:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDREQUJEdFk1UGhETUtvRGJFMk9fLVVXd2U0Z3BoZ0RwTHRHT0ZSUzItbDVhYy1yY0dIWTVHS3hReXdtUW5UVDRjRzhKdXlDWHJXRmZyeHJpRVI1NEo0RFU2a252SW5kcW51dXB6aERrTzZaV2V3NXk5VE53V0t5enR4X2ZvQzBjNnlHZmVCdC1wenFUSTRqMVJUZ9IBoAFBVV95cUxNbDlNYnZHOGlVelZmVFRsY2F4VmJaeVNqX1BaT29tM3g5LVpUVF9lSWhpOE9WVjh2Sm9VcXlhQUViYmxjcERSX2lWaTRqRndsZDd3QzdVdjJRTFMyc0hLM3FoaEZyTmQwY1lKTEViM0VQdzBZM2lEWEx4NFNKV3lHZnZITlU2ZUY1TFFjdFZkWDNoU1JrNUd3MlVxMXpCVVBj?oc=5\" target=\"_blank\">DOE Issues Updated Guidance for Energy Dominance Financing Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T16:52:40+00:00"
+    },
+    {
+      "id": "3d2c947668711677",
+      "title": "DOE Issues Revised Title 17 Loan Program Guidance - Hunton Andrews Kurth LLP",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbEZYNGZIYUJURm5qOEdqbkRJVHJLNm9URzItNHZ5cncxOHBfZnlQNkhxeHlhTndITDZrcjFDM1NuX01pTEVKN2syZ29vbnlVLUNtaGlEdHlQNW1ONGVXcDljVGVMV0ZfdlVNVUUtSzNVYnRUZHhhMTFpZzVIaE9CYTVJMlptTzFRM0RZRmozbWo?oc=5",
+      "domain": "news.google.com",
+      "source": "Hunton Andrews Kurth LLP",
+      "language": "English",
+      "published_at": "2026-05-18T07:00:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPbEZYNGZIYUJURm5qOEdqbkRJVHJLNm9URzItNHZ5cncxOHBfZnlQNkhxeHlhTndITDZrcjFDM1NuX01pTEVKN2syZ29vbnlVLUNtaGlEdHlQNW1ONGVXcDljVGVMV0ZfdlVNVUUtSzNVYnRUZHhhMTFpZzVIaE9CYTVJMlptTzFRM0RZRmozbWo?oc=5\" target=\"_blank\">DOE Issues Revised Title 17 Loan Program Guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hunton Andrews Kurth LLP</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T16:52:40+00:00"
+    }
+  ]
 }
