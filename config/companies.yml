@@ -1,6 +1,6 @@
 companies:
   - name: AEP Transmission
-    query: '"AEP Transmission" OR "American Electric Power" OR AEP'
+    query: '"AEP Transmission"'
     slug: aep-transmission
 
   - name: Alabama Power Company
