@@ -1,28 +1,28 @@
-Projects:
+companies:
   - name: AEP Transmission
     query: '"AEP Transmission" OR AEP'
-    slug: AEP Transmission
+    slug: aep-transmission
 
   - name: Alabama Power Company
-    query: '"Alabama Power Company" OR Anduril defense'
-    slug: Alabama Power Company
- 
-  - name: Chrysalis
-    query: '"Chrysalis" OR Anduril defense'
-    slug: Chrysalis
+    query: '"Alabama Power Company"'
+    slug: alabama-power-company
+
+  - name: Shine Chrysalis
+    query: '"Chrysalis"'
+    slug: shine-chrysalis
 
   - name: Crane Restart
-    query: '"Crane Restart" OR Anduril defense'
-    slug: Crane Restart
+    query: '"Crane Restart"'
+    slug: crane-restart
 
   - name: Georgia Power Company
-    query: '"Georgia Power Company" OR Palantir'
-    slug: Georgia Power Company
+    query: '"Georgia Power Company"'
+    slug: georgia-power-company
 
   - name: Energy Dominance Financing
-    query: '"Energy Dominance Financing" OR "EDF"'
-    slug: Energy Dominance Financing
+    query: '"Energy Dominance Financing" OR EDF'
+    slug: energy-dominance-financing
 
 settings:
   max_results_per_company: 50
-  lookback_days: 7
+  lookback_days: 30
