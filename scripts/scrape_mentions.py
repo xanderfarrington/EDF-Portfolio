@@ -199,7 +199,7 @@ def main():
             "latest_mention": merged[0] if merged else None,
         })
 
-        time.sleep(2)
+        time.sleep(30)
 
     build_index(summaries)
 
