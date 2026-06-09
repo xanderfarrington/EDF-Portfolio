@@ -61,7 +61,14 @@ def save_company_file(path, company_name, slug, mentions):
 
     with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
+def parse_gdelt_date(value):
+    if not value:
+        return None
 
+    try:
+        return date_parser.parse(value).replace(tzinfo=timezone.utc).isoformat()
+    except Exception:
+        return value
 
 def fetch_gdelt_mentions(query, lookback_days, max_results):
     encoded_query = quote_plus(query)
