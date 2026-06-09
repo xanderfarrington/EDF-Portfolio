@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-09T18:29:15+00:00",
+  "last_updated": "2026-06-09T20:05:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 28,
-      "new_mentions_this_run": 25,
+      "count": 29,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "3605ab041135a7a1",
         "title": "A Look At American Electric Power Company (AEP) Valuation After OVEC Overhaul And Data Center Growth Plans - simplywall.st",
@@ -53,27 +53,28 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 23,
+      "count": 24,
       "new_mentions_this_run": 18,
       "latest_mention": {
-        "id": "8a11d9d939730318",
-        "title": "NRC issues preliminary EA/FONSI for Crane restart - American Nuclear Society -- ANS",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmVLOUNTQ2VDcDJqejlzSjZWaEZoQnAxamZrcGJVQ3g2SUliRVAzcldFZ2I5OUd4X2VEaUJzNnBhMndNdTZMakpjNXROZVYyMWM0eTRKZV9rX1pHX3hpSGJhRDlGa3JQSS1XRXAwa21NU2NBZDYzd3I4NG9TeGgyZVk1WGI4WWd6Mmlqa1EyOVE?oc=5",
+        "id": "4df59d90a2f0b109",
+        "title": "Three Mile Island restart closes in on NRC approval - E&E News by POLITICO",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUm9XTmtNSXJrLTNRQnlVNTJQZFFGRmhpNXRoa3pINGo1MWx5SWFWSERlM3o0N3F2WXE4Um9xRWtqdTBVbjI0bGVhSGxBNVVGcm9PRlZBWGJRdERUWVBqUW01RHFfeFhQWlQ0aWp5ZnB6ZVcyQVdZUzZWeGlaVkpBVTdnSXFmSFN1ZjU4TQ?oc=5",
         "domain": "news.google.com",
-        "source": "American Nuclear Society -- ANS",
+        "source": "E&E News by POLITICO",
         "language": "English",
-        "published_at": "2026-06-09T17:48:21+00:00",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmVLOUNTQ2VDcDJqejlzSjZWaEZoQnAxamZrcGJVQ3g2SUliRVAzcldFZ2I5OUd4X2VEaUJzNnBhMndNdTZMakpjNXROZVYyMWM0eTRKZV9rX1pHX3hpSGJhRDlGa3JQSS1XRXAwa21NU2NBZDYzd3I4NG9TeGgyZVk1WGI4WWd6Mmlqa1EyOVE?oc=5\" target=\"_blank\">NRC issues preliminary EA/FONSI for Crane restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society -- ANS</font>",
+        "published_at": "2026-06-09T19:40:00+00:00",
+        "summary": "Three Mile Island restart closes in on NRC approval E&E News by POLITICO",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNUm9XTmtNSXJrLTNRQnlVNTJQZFFGRmhpNXRoa3pINGo1MWx5SWFWSERlM3o0N3F2WXE4Um9xRWtqdTBVbjI0bGVhSGxBNVVGcm9PRlZBWGJRdERUWVBqUW01RHFfeFhQWlQ0aWp5ZnB6ZVcyQVdZUzZWeGlaVkpBVTdnSXFmSFN1ZjU4TQ?oc=5\" target=\"_blank\">Three Mile Island restart closes in on NRC approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E&amp;E News by POLITICO</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-09T17:56:45+00:00"
+        "collected_at": "2026-06-09T20:04:50+00:00"
       }
     },
     {
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 26,
+      "count": 27,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "7112f066e29cc30f",

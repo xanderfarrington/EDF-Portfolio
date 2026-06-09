@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-09T18:29:04+00:00",
+  "last_updated": "2026-06-09T20:04:55+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 26,
+  "count": 27,
   "mentions": [
     {
       "id": "7112f066e29cc30f",
@@ -344,6 +344,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:35+00:00"
+    },
+    {
+      "id": "8621081c28d086bc",
+      "title": "Hunton Advises on Georgia Power Company’s $1.3B Senior Notes Offerings - Hunton Andrews Kurth LLP",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDhfcXhneWg0U1phbGZiMFZxT0c1VUp0NWl5RXNwYkpvbHNvTUVPLWhyMmV4NHkzUWhvSVdENFJmRFRPTXF3djNDZzJKR0JnbTd4d0d6YVZCTVlzRjVrZlF2Y0w5U2xjRHBnNlRMLXZ6d2tCbDhwcVQxMTA4Z2Jfb0FWeTRkYmdELXdKYVZUU0E1QWlIWXozLU9CVi0?oc=5",
+      "domain": "news.google.com",
+      "source": "Hunton Andrews Kurth LLP",
+      "language": "English",
+      "published_at": "2026-05-22T07:00:00+00:00",
+      "summary": "Hunton Advises on Georgia Power Company’s $1.3B Senior Notes Offerings Hunton Andrews Kurth LLP",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDhfcXhneWg0U1phbGZiMFZxT0c1VUp0NWl5RXNwYkpvbHNvTUVPLWhyMmV4NHkzUWhvSVdENFJmRFRPTXF3djNDZzJKR0JnbTd4d0d6YVZCTVlzRjVrZlF2Y0w5U2xjRHBnNlRMLXZ6d2tCbDhwcVQxMTA4Z2Jfb0FWeTRkYmdELXdKYVZUU0E1QWlIWXozLU9CVi0?oc=5\" target=\"_blank\">Hunton Advises on Georgia Power Company’s $1.3B Senior Notes Offerings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hunton Andrews Kurth LLP</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T20:04:55+00:00"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "company": "AEP Transmission",
   "slug": "aep-transmission",
-  "query": "\"AEP Transmission\" OR \"American Electric Power\" OR AEP",
-  "last_updated": "2026-06-09T18:28:42+00:00",
+  "query": "\"AEP Transmission\"",
+  "last_updated": "2026-06-09T20:04:33+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 28,
+  "count": 29,
   "mentions": [
     {
       "id": "3605ab041135a7a1",
@@ -357,6 +357,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:12+00:00"
+    },
+    {
+      "id": "13f2b62b84329b8f",
+      "title": "Lane closures planned on FM 1538 for AEP transmission line work - kiiitv.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWJKRjBmRE9PQVV5QzBaaGp4YkxpYnFjT3pnYkZLTncxRndMSHRPZzFBZl9OX3R6ZDMwMGpEem5peEh3RjdtVFNMMGI0TVdPTHpOWTNjb2kwMHcyYUJVSzVzQUthUWZSSmd6aDNlMDRMOE9XX1YtSVllampCRnhVMm9qc2tCNm1kdnhRY0VWYVhsbGljRng2TXhxQ3pTUDZwbmRUZWNUUzNRVERS?oc=5",
+      "domain": "news.google.com",
+      "source": "kiiitv.com",
+      "language": "English",
+      "published_at": "2026-05-13T07:00:00+00:00",
+      "summary": "Lane closures planned on FM 1538 for AEP transmission line work kiiitv.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWJKRjBmRE9PQVV5QzBaaGp4YkxpYnFjT3pnYkZLTncxRndMSHRPZzFBZl9OX3R6ZDMwMGpEem5peEh3RjdtVFNMMGI0TVdPTHpOWTNjb2kwMHcyYUJVSzVzQUthUWZSSmd6aDNlMDRMOE9XX1YtSVllampCRnhVMm9qc2tCNm1kdnhRY0VWYVhsbGljRng2TXhxQ3pTUDZwbmRUZWNUUzNRVERS?oc=5\" target=\"_blank\">Lane closures planned on FM 1538 for AEP transmission line work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kiiitv.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T20:04:33+00:00"
     },
     {
       "id": "aa8a9698159a20f9",
