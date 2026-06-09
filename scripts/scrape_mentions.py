@@ -168,8 +168,8 @@ def main():
     companies = config.get("companies", [])
     settings = config.get("settings", {})
 
-    max_results = settings.get("max_results_per_company", 50)
-    lookback_days = settings.get("lookback_days", 7)
+    max_results = settings.get("max_results_per_company", 20)
+    lookback_days = settings.get("lookback_days", 14)
 
     summaries = []
 
