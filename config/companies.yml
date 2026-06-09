@@ -1,0 +1,16 @@
+companies:
+  - name: Anduril
+    query: '"Anduril Industries" OR Anduril defense'
+    slug: anduril
+
+  - name: Palantir
+    query: '"Palantir Technologies" OR Palantir'
+    slug: palantir
+
+  - name: MP Materials
+    query: '"MP Materials" OR "Mountain Pass mine"'
+    slug: mp-materials
+
+settings:
+  max_results_per_company: 50
+  lookback_days: 7
