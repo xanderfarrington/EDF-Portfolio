@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-06-09T20:05:01+00:00",
+  "last_updated": "2026-06-09T23:15:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 6,
+  "count": 7,
   "mentions": [
     {
       "id": "40a8718d04d0cbe1",
@@ -31,6 +31,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:40+00:00"
+    },
+    {
+      "id": "ad8e02e0ab7eafc3",
+      "title": "Crane Restart - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FXzhGcTBEZkEtdVNzSmtGNDUxajRuNXlxd2J6VEw5ZjlsVjVUdkRkUEEyZUlMOC15OGMxSFoxQ2t5d2h6akJlWkhNc3haaUN1Wnc?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-06-04T21:35:00+00:00",
+      "summary": "Crane Restart Department of Energy (.gov)",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FXzhGcTBEZkEtdVNzSmtGNDUxajRuNXlxd2J6VEw5ZjlsVjVUdkRkUEEyZUlMOC15OGMxSFoxQ2t5d2h6akJlWkhNc3haaUN1Wnc?oc=5\" target=\"_blank\">Crane Restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T23:15:31+00:00"
     },
     {
       "id": "b76f821212595f0b",

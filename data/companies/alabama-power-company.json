@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-09T20:04:39+00:00",
+  "last_updated": "2026-06-09T23:15:09+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 16,
+  "count": 17,
   "mentions": [
+    {
+      "id": "4362d7c0f33c3b1a",
+      "title": "Alabama Power works on restoring power after severe storms - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVkpmb0tHV3IzV2NUTGFHVW9iUTdSUkFhb1h0ZXNfeHZzLW1vSTA4SnhHREpiRUNMTFZkSWl4clNpTWctR3FoLXROUWs0TXRDZWlNZ3FJeXdYWWRfQUxYcnlkZlpVOEY1bjlhRFI3OGdmcGN5T1ZJSnRwQkcyODZjXw?oc=5",
+      "domain": "news.google.com",
+      "source": "AOL.com",
+      "language": "English",
+      "published_at": "2026-06-09T19:33:08+00:00",
+      "summary": "Alabama Power works on restoring power after severe storms AOL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOVkpmb0tHV3IzV2NUTGFHVW9iUTdSUkFhb1h0ZXNfeHZzLW1vSTA4SnhHREpiRUNMTFZkSWl4clNpTWctR3FoLXROUWs0TXRDZWlNZ3FJeXdYWWRfQUxYcnlkZlpVOEY1bjlhRFI3OGdmcGN5T1ZJSnRwQkcyODZjXw?oc=5\" target=\"_blank\">Alabama Power works on restoring power after severe storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T23:15:09+00:00"
+    },
     {
       "id": "43ebcdb352305c3f",
       "title": "Alabama Power launched inaugural Grid Games Energy Hackathon for high schoolers - Alabama News Center",

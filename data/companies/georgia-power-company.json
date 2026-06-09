@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-09T20:04:55+00:00",
+  "last_updated": "2026-06-09T23:15:25+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 27,
+  "count": 30,
   "mentions": [
     {
       "id": "7112f066e29cc30f",
@@ -83,6 +83,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:35+00:00"
+    },
+    {
+      "id": "d211a5e7b324c45a",
+      "title": "Georgia Power encourages customers to prepare for hurricane season - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmFTR0F3djlHd1lCdEM0Q0ZObDdwS2ZidUxaNnpiWDZDX3pHcnowejV1NF9BelBPSnZRMG5VeUYyTE44RExrNl9JczN6YklyVDZaZVROczFyTWJIZDFqcUNSUnhHWnZtVHZjaGdsc1FIN1RqMEFmTE0zWk4ybVU1bGRqcWxyU3hCZFV2dnZES1hIVExlVEhrSkhGQnpSanFTZmVxQzNLalptWWR3dkk2bU8weHQwVExEdVVVNTRhaw?oc=5",
+      "domain": "news.google.com",
+      "source": "PR Newswire",
+      "language": "English",
+      "published_at": "2026-06-03T18:51:00+00:00",
+      "summary": "Georgia Power encourages customers to prepare for hurricane season PR Newswire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmFTR0F3djlHd1lCdEM0Q0ZObDdwS2ZidUxaNnpiWDZDX3pHcnowejV1NF9BelBPSnZRMG5VeUYyTE44RExrNl9JczN6YklyVDZaZVROczFyTWJIZDFqcUNSUnhHWnZtVHZjaGdsc1FIN1RqMEFmTE0zWk4ybVU1bGRqcWxyU3hCZFV2dnZES1hIVExlVEhrSkhGQnpSanFTZmVxQzNLalptWWR3dkk2bU8weHQwVExEdVVVNTRhaw?oc=5\" target=\"_blank\">Georgia Power encourages customers to prepare for hurricane season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T23:15:25+00:00"
     },
     {
       "id": "a61772b467409a0a",
@@ -281,6 +295,20 @@
       "collected_at": "2026-06-09T16:52:35+00:00"
     },
     {
+      "id": "75535067b803b925",
+      "title": "Georgia Public Service Commission votes to lower Georgia Power utility rates - 13WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYzNoQVoyUHp6eWpDa1BkTWp1MU9zOUp6NlMzMWl2MDY2UExiNlBBMmVOZnFEWGJYeHFBYnVWSW5tR01PNUJ5SU5hRFNLU0dxUktHMHZXQlVkTXRXR0dRMGY4NXZrWXVuc1NrckVRYzJmVGpRT0w4QTFmMUxDeUFOeXVPZjQ1QS1RWURXMkE2OHo4Ukh4MWFpRU5vZ190NklLTDNyTUo5ZmxUTTYydGRxVnYwMUpHS1hLZlp1Qzd3WUJFbEo5UExxeHBlZw?oc=5",
+      "domain": "news.google.com",
+      "source": "13WMAZ",
+      "language": "English",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "summary": "Georgia Public Service Commission votes to lower Georgia Power utility rates 13WMAZ",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNYzNoQVoyUHp6eWpDa1BkTWp1MU9zOUp6NlMzMWl2MDY2UExiNlBBMmVOZnFEWGJYeHFBYnVWSW5tR01PNUJ5SU5hRFNLU0dxUktHMHZXQlVkTXRXR0dRMGY4NXZrWXVuc1NrckVRYzJmVGpRT0w4QTFmMUxDeUFOeXVPZjQ1QS1RWURXMkE2OHo4Ukh4MWFpRU5vZ190NklLTDNyTUo5ZmxUTTYydGRxVnYwMUpHS1hLZlp1Qzd3WUJFbEo5UExxeHBlZw?oc=5\" target=\"_blank\">Georgia Public Service Commission votes to lower Georgia Power utility rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13WMAZ</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T23:15:25+00:00"
+    },
+    {
       "id": "5af3a71c91cdea9b",
       "title": "Georgia Power customers will see a slight drop in bills - 11Alive.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0lRZnU5VzRMLVREY1lIa2FSbGdMc0ZfSVdhU05OSzlfbU1EbnQxdmR6V3B5S3B5NnNiUC0xcTlFSUkzTkU1NEI1YzNCckJjei1NQk1OcUY2OHhULXh1bTMzOTJwQXQ2QjNzV3pEVHROeDlLbTFIbno2ZjZKM0FVSFo3UVAzaHpDb3lzdjRjNVBES0ZoUndZRldHWWRnbVNKdUdJT2x0R21yOXpUOEJrTFZrLVdZMWZhLV9MMDFWQWE2Nm93Zjd2YnE3MFZTZnhINS1Oeg?oc=5",
@@ -331,6 +359,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:35+00:00"
+    },
+    {
+      "id": "200a7f4fc26c12cf",
+      "title": "Georgia Public Service Commission approves agreement with Georgia Power to lower rates. Here's by how much - 13WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQXzdkM2x6Rk9uU2kzMVBzRUUwdmdDQmFXUU5fZVhqc2ZDRGJZdVNYYW84N3lETk5ldXBFSW9HNnE3UjVjWkxHRDUwaTdOX0k5VWFaSFhYakg0YTVKNnY5cHpOSjNfdnRHX0NTVVdlNWlQRDRWVEkwY0hWYVNMNHFlc2lVa0JUbUtaNVNlRl93dXJiUXNXb0NIVnRyMEkwSS1lOUVCZGtFWmhCUGc0aF9uelhENmZJTXFzcktZYmZPU2QtODNlLS1SU3BMb3RrQTgta0tka25uQUlpNkdGb1BldlBTaVR2THNqVjV6dW1DWnNhZw?oc=5",
+      "domain": "news.google.com",
+      "source": "13WMAZ",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Georgia Public Service Commission approves agreement with Georgia Power to lower rates. Here's by how much 13WMAZ",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQXzdkM2x6Rk9uU2kzMVBzRUUwdmdDQmFXUU5fZVhqc2ZDRGJZdVNYYW84N3lETk5ldXBFSW9HNnE3UjVjWkxHRDUwaTdOX0k5VWFaSFhYakg0YTVKNnY5cHpOSjNfdnRHX0NTVVdlNWlQRDRWVEkwY0hWYVNMNHFlc2lVa0JUbUtaNVNlRl93dXJiUXNXb0NIVnRyMEkwSS1lOUVCZGtFWmhCUGc0aF9uelhENmZJTXFzcktZYmZPU2QtODNlLS1SU3BMb3RrQTgta0tka25uQUlpNkdGb1BldlBTaVR2THNqVjV6dW1DWnNhZw?oc=5\" target=\"_blank\">Georgia Public Service Commission approves agreement with Georgia Power to lower rates. Here's by how much</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13WMAZ</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T23:15:25+00:00"
     },
     {
       "id": "0c358710ac78474b",

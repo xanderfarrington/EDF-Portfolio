@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T20:05:06+00:00",
+  "last_updated": "2026-06-09T23:15:36+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -25,20 +25,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 16,
+      "count": 17,
       "new_mentions_this_run": 16,
       "latest_mention": {
-        "id": "43ebcdb352305c3f",
-        "title": "Alabama Power launched inaugural Grid Games Energy Hackathon for high schoolers - Alabama News Center",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0R5cmVkc0ZrQWVGMHZITnl2bTZLVXFOdUZfRl94d2d6ZWhFTXg2YTZDem5STGJsejkxNDVXSDJzZWR1OFA3Skcxb3ZNT3d1TFRZcXRLZUFnUEhVM244NnRWX3NLWFhvdHZKVHhjbnRfR0JaTFhjZ1ktcXdfU1NlOE5OQ0poZkxfZWJPX1I5bnFKNHVMbUZveXB0S2JGcUNjU05TTUVuVDZyZ0FiczRDT0V1eGxNY01EWEpIdXhB?oc=5",
+        "id": "4362d7c0f33c3b1a",
+        "title": "Alabama Power works on restoring power after severe storms - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVkpmb0tHV3IzV2NUTGFHVW9iUTdSUkFhb1h0ZXNfeHZzLW1vSTA4SnhHREpiRUNMTFZkSWl4clNpTWctR3FoLXROUWs0TXRDZWlNZ3FJeXdYWWRfQUxYcnlkZlpVOEY1bjlhRFI3OGdmcGN5T1ZJSnRwQkcyODZjXw?oc=5",
         "domain": "news.google.com",
-        "source": "Alabama News Center",
+        "source": "AOL.com",
         "language": "English",
-        "published_at": "2026-06-09T13:53:13+00:00",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0R5cmVkc0ZrQWVGMHZITnl2bTZLVXFOdUZfRl94d2d6ZWhFTXg2YTZDem5STGJsejkxNDVXSDJzZWR1OFA3Skcxb3ZNT3d1TFRZcXRLZUFnUEhVM244NnRWX3NLWFhvdHZKVHhjbnRfR0JaTFhjZ1ktcXdfU1NlOE5OQ0poZkxfZWJPX1I5bnFKNHVMbUZveXB0S2JGcUNjU05TTUVuVDZyZ0FiczRDT0V1eGxNY01EWEpIdXhB?oc=5\" target=\"_blank\">Alabama Power launched inaugural Grid Games Energy Hackathon for high schoolers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama News Center</font>",
+        "published_at": "2026-06-09T19:33:08+00:00",
+        "summary": "Alabama Power works on restoring power after severe storms AOL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOVkpmb0tHV3IzV2NUTGFHVW9iUTdSUkFhb1h0ZXNfeHZzLW1vSTA4SnhHREpiRUNMTFZkSWl4clNpTWctR3FoLXROUWs0TXRDZWlNZ3FJeXdYWWRfQUxYcnlkZlpVOEY1bjlhRFI3OGdmcGN5T1ZJSnRwQkcyODZjXw?oc=5\" target=\"_blank\">Alabama Power works on restoring power after severe storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-09T16:52:18+00:00"
+        "collected_at": "2026-06-09T23:15:09+00:00"
       }
     },
     {
@@ -74,7 +75,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 27,
+      "count": 30,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "7112f066e29cc30f",
@@ -94,8 +95,8 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 6,
-      "new_mentions_this_run": 6,
+      "count": 7,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "40a8718d04d0cbe1",
         "title": "Gregory A. Beard - Department of Energy (.gov)",
