@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-09T17:56:50+00:00",
+  "last_updated": "2026-06-09T18:29:04+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 25,
+  "count": 26,
   "mentions": [
     {
       "id": "7112f066e29cc30f",
@@ -148,6 +148,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:35+00:00"
+    },
+    {
+      "id": "7f60dc507eeeb4c5",
+      "title": "Georgia Power names Anthony Oni as vice president of Corporate Affairs - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVRfcUowdjdEY2h2aVZBb0QxVlViOG4yc19FQ1AzeExCZ19uR0tqNUNkMjVMcDVScUJ1M0Q3YUhuQzlzMmY2UFN6WXJ0Vm1xLVpxSTNMbEo1a0V5NFJvWTRnY3ZuRWp0a1lMVzlTTjFUemNXbzM2MGF5cW9lWkNKY1NIRDBkTzQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance Singapore",
+      "language": "English",
+      "published_at": "2026-06-01T18:12:00+00:00",
+      "summary": "Georgia Power names Anthony Oni as vice president of Corporate Affairs Yahoo Finance Singapore",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVRfcUowdjdEY2h2aVZBb0QxVlViOG4yc19FQ1AzeExCZ19uR0tqNUNkMjVMcDVScUJ1M0Q3YUhuQzlzMmY2UFN6WXJ0Vm1xLVpxSTNMbEo1a0V5NFJvWTRnY3ZuRWp0a1lMVzlTTjFUemNXbzM2MGF5cW9lWkNKY1NIRDBkTzQ?oc=5\" target=\"_blank\">Georgia Power names Anthony Oni as vice president of Corporate Affairs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T18:29:04+00:00"
     },
     {
       "id": "bb31d761529761fa",

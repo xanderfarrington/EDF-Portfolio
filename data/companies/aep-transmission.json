@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\" OR \"American Electric Power\" OR AEP",
-  "last_updated": "2026-06-09T17:56:28+00:00",
+  "last_updated": "2026-06-09T18:28:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 27,
+  "count": 28,
   "mentions": [
     {
       "id": "3605ab041135a7a1",
@@ -122,6 +122,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:12+00:00"
+    },
+    {
+      "id": "8cf7b169df83fa2e",
+      "title": "American Electric Power Company, Inc. $AEP Shares Acquired by TD Asset Management Inc - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbV9DT0g5T2J0UUtsc0tWWGZnUWxtc3lkRmtUM1dTdHE4RHJ5bU5YNGpzZllMb25jcHhETGstZUh5TjBtQi1SUzhHclo3Z2RLdlJsaWduTXhEUHkxdWFDSTltQi1keGhMeGZZS2xBd3ZUQnNKZDNaMUl4MFgweHVual8zQmt3aTVjV0JhWUx0cnpMNVRoejlZajNBbFptVFZ3YXhrcW81b215VTFtNkVZMXFTZTlwd2dFSGpjcUhySVYxTF91NUxQZ3dPelN2SURELXdYd1d1eE1WZjQ?oc=5",
+      "domain": "news.google.com",
+      "source": "MarketBeat",
+      "language": "English",
+      "published_at": "2026-06-06T09:56:30+00:00",
+      "summary": "American Electric Power Company, Inc. $AEP Shares Acquired by TD Asset Management Inc MarketBeat",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbV9DT0g5T2J0UUtsc0tWWGZnUWxtc3lkRmtUM1dTdHE4RHJ5bU5YNGpzZllMb25jcHhETGstZUh5TjBtQi1SUzhHclo3Z2RLdlJsaWduTXhEUHkxdWFDSTltQi1keGhMeGZZS2xBd3ZUQnNKZDNaMUl4MFgweHVual8zQmt3aTVjV0JhWUx0cnpMNVRoejlZajNBbFptVFZ3YXhrcW81b215VTFtNkVZMXFTZTlwd2dFSGpjcUhySVYxTF91NUxQZ3dPelN2SURELXdYd1d1eE1WZjQ?oc=5\" target=\"_blank\">American Electric Power Company, Inc. $AEP Shares Acquired by TD Asset Management Inc</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-09T18:28:42+00:00"
     },
     {
       "id": "4b128f28b394ba9c",
