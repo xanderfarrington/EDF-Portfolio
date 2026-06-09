@@ -1,28 +1,29 @@
 companies:
   - name: AEP Transmission
-    query: '("AEP Transmission" OR "American Electric Power" OR AEP)'
+    query: '"AEP Transmission" OR "American Electric Power" OR AEP'
     slug: aep-transmission
 
   - name: Alabama Power Company
-    query: '("Alabama Power" OR "Alabama Power Company")'
+    query: '"Alabama Power" OR "Alabama Power Company"'
     slug: alabama-power-company
 
   - name: Chrysalis
-    query: '("Chrysalis" AND energy)'
+    query: '"Chrysalis" energy'
     slug: chrysalis
 
   - name: Crane Restart
-    query: '("Crane Restart" OR "Crane Clean Energy Center" OR "Three Mile Island restart")'
+    query: '"Crane Restart" OR "Crane Clean Energy Center" OR "Three Mile Island restart"'
     slug: crane-restart
 
   - name: Georgia Power Company
-    query: '("Georgia Power" OR "Georgia Power Company")'
+    query: '"Georgia Power" OR "Georgia Power Company"'
     slug: georgia-power-company
 
   - name: Energy Dominance Financing
-    query: '("Energy Dominance Financing")'
+    query: '"Energy Dominance Financing" OR "energy dominance financing"'
     slug: energy-dominance-financing
 
 settings:
-  max_results_per_company: 100
-  lookback_days: 14
+  max_results_per_company: 25
+  lookback_days: 30
+  sleep_seconds_between_companies: 5
