@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-10T16:55:59+00:00",
+  "last_updated": "2026-06-10T20:22:49+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 35,
+  "count": 38,
   "mentions": [
     {
       "id": "0e9a0929df71e62a",
@@ -32,6 +32,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:35+00:00"
+    },
+    {
+      "id": "07e35ed8feb19872",
+      "title": "Will Georgia Power Rate Deal Help Or Hurt Consumers In The Long Run? Joe Biden (GyZjVsJrew) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwcjU0b3VGVDA3dVZVQmRkOHNSU0U4Nzh2dE1qdkpZWEh1ZFgzSzN5TkRfRFJmeG81Nk9sSXVqUzJibDBIQWhfX1NVV2s0RWFVNExQTXBlNjgwc0k?oc=5",
+      "domain": "news.google.com",
+      "source": "Mshale",
+      "language": "English",
+      "published_at": "2026-06-06T02:45:09+00:00",
+      "summary": "Will Georgia Power Rate Deal Help Or Hurt Consumers In The Long Run? Joe Biden (GyZjVsJrew) Mshale",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwcjU0b3VGVDA3dVZVQmRkOHNSU0U4Nzh2dE1qdkpZWEh1ZFgzSzN5TkRfRFJmeG81Nk9sSXVqUzJibDBIQWhfX1NVV2s0RWFVNExQTXBlNjgwc0k?oc=5\" target=\"_blank\">Will Georgia Power Rate Deal Help Or Hurt Consumers In The Long Run? Joe Biden (GyZjVsJrew)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T20:22:49+00:00"
     },
     {
       "id": "8cf99908ece5e5eb",
@@ -365,6 +379,20 @@
       "collected_at": "2026-06-10T12:51:27+00:00"
     },
     {
+      "id": "d08edb794ec4dd73",
+      "title": "PSC signs off on lower bills for Georgia Power customers - Atlanta Journal-Constitution",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaDI2UmFjWnJmS2FGbTh6M1FGcTNCejN2QTRiaGphN2hUUWtObGc4UlViQm9BYzR3RXp1OHhrX2I2YkxZd1FFbFlsMW5uZUJhLXJHQTIwVDNtTm9zWXQ3ek1wekNKX01WR3B3LVVUNkZCWUNOSlFWeGQ5SXd6RmlSOHFQWjNTeURUU1U1aFFXVW9QQ015RllZSmRB?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta Journal-Constitution",
+      "language": "English",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "summary": "PSC signs off on lower bills for Georgia Power customers Atlanta Journal-Constitution",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQaDI2UmFjWnJmS2FGbTh6M1FGcTNCejN2QTRiaGphN2hUUWtObGc4UlViQm9BYzR3RXp1OHhrX2I2YkxZd1FFbFlsMW5uZUJhLXJHQTIwVDNtTm9zWXQ3ek1wekNKX01WR3B3LVVUNkZCWUNOSlFWeGQ5SXd6RmlSOHFQWjNTeURUU1U1aFFXVW9QQ015RllZSmRB?oc=5\" target=\"_blank\">PSC signs off on lower bills for Georgia Power customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta Journal-Constitution</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T20:22:49+00:00"
+    },
+    {
       "id": "5af3a71c91cdea9b",
       "title": "Georgia Power customers will see a slight drop in bills - 11Alive.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0lRZnU5VzRMLVREY1lIa2FSbGdMc0ZfSVdhU05OSzlfbU1EbnQxdmR6V3B5S3B5NnNiUC0xcTlFSUkzTkU1NEI1YzNCckJjei1NQk1OcUY2OHhULXh1bTMzOTJwQXQ2QjNzV3pEVHROeDlLbTFIbno2ZjZKM0FVSFo3UVAzaHpDb3lzdjRjNVBES0ZoUndZRldHWWRnbVNKdUdJT2x0R21yOXpUOEJrTFZrLVdZMWZhLV9MMDFWQWE2Nm93Zjd2YnE3MFZTZnhINS1Oeg?oc=5",
@@ -429,6 +457,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T23:15:25+00:00"
+    },
+    {
+      "id": "00f4a43fd4f4d3fd",
+      "title": "Georgia PSC approves lower Georgia Power rates, saving customers about $4 a month - WTVM.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHA3b0dOdnlyWTRUMXpSLVNXT2pYMjB6MHBjbWczWkNJdGNySS1neTI4WlNiOWQ4eE5qWGNUdkVibnNvbVR5N0ZTS2t0b2lrZGxOVHR0SHhsTHJJb1F5QU45Tnp2d0M5TVZVTE1CYXpRdC1pT2lUSGUySDkwLUZzd182TkcyazhwM2V5VWJ1YlBnUFozYlUtYkxmb3ZUSWfSAbMBQVVfeXFMTUJYT3hYUHNnaGRfQWV6SmF6VkhKS3lWRVRKU0pTUHFnd1pLYVdCR3J2bEY2cEhhYkVfelJNWFF6YU0yY0V2VHB2N2RpUGx0LTZ3RGE4NEtaaGU1VjZSRDBVeUNubnVERXRSQVU1TlFhRHJ2R095eWM2UHJ5MWpYWWhQanRtOGZESjFXWDNiQkZhUGxzWE9Cd091WjY3MVR1NjlsRWlmYWJVSHpvMWljWk14WVk?oc=5",
+      "domain": "news.google.com",
+      "source": "WTVM.com",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Georgia PSC approves lower Georgia Power rates, saving customers about $4 a month WTVM.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHA3b0dOdnlyWTRUMXpSLVNXT2pYMjB6MHBjbWczWkNJdGNySS1neTI4WlNiOWQ4eE5qWGNUdkVibnNvbVR5N0ZTS2t0b2lrZGxOVHR0SHhsTHJJb1F5QU45Tnp2d0M5TVZVTE1CYXpRdC1pT2lUSGUySDkwLUZzd182TkcyazhwM2V5VWJ1YlBnUFozYlUtYkxmb3ZUSWfSAbMBQVVfeXFMTUJYT3hYUHNnaGRfQWV6SmF6VkhKS3lWRVRKU0pTUHFnd1pLYVdCR3J2bEY2cEhhYkVfelJNWFF6YU0yY0V2VHB2N2RpUGx0LTZ3RGE4NEtaaGU1VjZSRDBVeUNubnVERXRSQVU1TlFhRHJ2R095eWM2UHJ5MWpYWWhQanRtOGZESjFXWDNiQkZhUGxzWE9Cd091WjY3MVR1NjlsRWlmYWJVSHpvMWljWk14WVk?oc=5\" target=\"_blank\">Georgia PSC approves lower Georgia Power rates, saving customers about $4 a month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T20:22:49+00:00"
     },
     {
       "id": "0c358710ac78474b",

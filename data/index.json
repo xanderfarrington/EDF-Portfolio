@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T16:56:10+00:00",
+  "last_updated": "2026-06-10T20:23:00+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -54,28 +54,28 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 27,
-      "new_mentions_this_run": 16,
+      "count": 29,
+      "new_mentions_this_run": 18,
       "latest_mention": {
-        "id": "4df59d90a2f0b109",
-        "title": "Three Mile Island restart closes in on NRC approval - E&E News by POLITICO",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUm9XTmtNSXJrLTNRQnlVNTJQZFFGRmhpNXRoa3pINGo1MWx5SWFWSERlM3o0N3F2WXE4Um9xRWtqdTBVbjI0bGVhSGxBNVVGcm9PRlZBWGJRdERUWVBqUW01RHFfeFhQWlQ0aWp5ZnB6ZVcyQVdZUzZWeGlaVkpBVTdnSXFmSFN1ZjU4TQ?oc=5",
+        "id": "b6508b7441d898f2",
+        "title": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart - SightLine | U308",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFM1TjdRVU9mWHdsXzNHUG1OQTFwWUwyQXBQeEhjcG9PQ3JrVDlUNmVqNEpQdTZrMXNYZUJCTW00ajFRVjlBcUNBSGdxclp3ZGNxSFE2Y2V5RnpPWll2TjVNTXJPQmF1Q3dHQ1F3SUFlRFNiMm1MbmcxRE9qX0E0MklqbERnbm1hLUVyWkZDUGhSb2Z4UVVucmJhVTFHZ2tYVVpHT044WkhDOG1FZHd2aFViLW4yYjRyMmluSVV2ZC1GUW9SOTdF?oc=5",
         "domain": "news.google.com",
-        "source": "E&E News by POLITICO",
+        "source": "SightLine | U308",
         "language": "English",
-        "published_at": "2026-06-09T19:40:00+00:00",
-        "summary": "Three Mile Island restart closes in on NRC approval E&E News by POLITICO",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNUm9XTmtNSXJrLTNRQnlVNTJQZFFGRmhpNXRoa3pINGo1MWx5SWFWSERlM3o0N3F2WXE4Um9xRWtqdTBVbjI0bGVhSGxBNVVGcm9PRlZBWGJRdERUWVBqUW01RHFfeFhQWlQ0aWp5ZnB6ZVcyQVdZUzZWeGlaVkpBVTdnSXFmSFN1ZjU4TQ?oc=5\" target=\"_blank\">Three Mile Island restart closes in on NRC approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E&amp;E News by POLITICO</font>",
+        "published_at": "2026-06-10T18:49:36+00:00",
+        "summary": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart SightLine | U308",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFM1TjdRVU9mWHdsXzNHUG1OQTFwWUwyQXBQeEhjcG9PQ3JrVDlUNmVqNEpQdTZrMXNYZUJCTW00ajFRVjlBcUNBSGdxclp3ZGNxSFE2Y2V5RnpPWll2TjVNTXJPQmF1Q3dHQ1F3SUFlRFNiMm1MbmcxRE9qX0E0MklqbERnbm1hLUVyWkZDUGhSb2Z4UVVucmJhVTFHZ2tYVVpHT044WkhDOG1FZHd2aFViLW4yYjRyMmluSVV2ZC1GUW9SOTdF?oc=5\" target=\"_blank\">NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SightLine | U308</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-09T20:04:50+00:00"
+        "collected_at": "2026-06-10T20:22:44+00:00"
       }
     },
     {
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 35,
+      "count": 38,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "0e9a0929df71e62a",
