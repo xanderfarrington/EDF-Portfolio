@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-09T23:15:20+00:00",
+  "last_updated": "2026-06-10T02:50:04+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 24,
+  "count": 27,
   "mentions": [
     {
       "id": "4df59d90a2f0b109",
@@ -73,6 +73,20 @@
       "collected_at": "2026-06-09T16:52:29+00:00"
     },
     {
+      "id": "9cef6b1b1a445857",
+      "title": "73 million gallons per day | Constellation cleared to draw river water for Three Mile Island restart - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQXzdyQi1xazJnTU9LMFIzTGtfc09QWlRCZjhFNmdNUlhCdUNYLTJ0M3BkcXlqVnlmRDlIemNfMHlkZEdGeEVyV0dTYzNwaTBRZmRHN1Qzbm0xMzJYQktkWXB0YWV5RXk1ejRrTVhJTFI0enVYMUxOS0MwTFZoNUhFNjBQWm9VMmY2dVZsR3F6RnFJMndEN080SFhRWDlmbkw1SFZjVFJ0RFFNT0tCb1BSV1dXM1N4ZWtHay1QOUwwRElfQnNnTGJ3NGExYXMwN2N2SlRKOHJRYUwyb3BOX3lYNzVLYTlVeFo3MWtHdXFzTGMzN1ZvdHNFeUxWWUxKazdtWUJuRDY2dERSRDlVMWxGN1h3Sm1IQTBMTGJBUkNyTGhNX2R5N1JUdmExQTNYakFNVFlWSjN1eDJsdENhVGJxcGpCNlNSbTQwN05jdWtpYXVubnBVQXFwbTF4eXY2NUJYYjJYRlpGdEx1VVZ3V05wTkFFVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "MSN",
+      "language": "English",
+      "published_at": "2026-06-06T09:32:16+00:00",
+      "summary": "73 million gallons per day | Constellation cleared to draw river water for Three Mile Island restart MSN",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wJBVV95cUxQXzdyQi1xazJnTU9LMFIzTGtfc09QWlRCZjhFNmdNUlhCdUNYLTJ0M3BkcXlqVnlmRDlIemNfMHlkZEdGeEVyV0dTYzNwaTBRZmRHN1Qzbm0xMzJYQktkWXB0YWV5RXk1ejRrTVhJTFI0enVYMUxOS0MwTFZoNUhFNjBQWm9VMmY2dVZsR3F6RnFJMndEN080SFhRWDlmbkw1SFZjVFJ0RFFNT0tCb1BSV1dXM1N4ZWtHay1QOUwwRElfQnNnTGJ3NGExYXMwN2N2SlRKOHJRYUwyb3BOX3lYNzVLYTlVeFo3MWtHdXFzTGMzN1ZvdHNFeUxWWUxKazdtWUJuRDY2dERSRDlVMWxGN1h3Sm1IQTBMTGJBUkNyTGhNX2R5N1JUdmExQTNYakFNVFlWSjN1eDJsdENhVGJxcGpCNlNSbTQwN05jdWtpYXVubnBVQXFwbTF4eXY2NUJYYjJYRlpGdEx1VVZ3V05wTkFFVQ?oc=5\" target=\"_blank\">73 million gallons per day | Constellation cleared to draw river water for Three Mile Island restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T02:50:04+00:00"
+    },
+    {
       "id": "241410a4cd7eacc1",
       "title": "FERC approves Constellation waiver request on Crane restart - American Nuclear Society -- ANS",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjNaVWE5c19oVUY4bUlUdXJoRExpbC01Q0ZjYUdtVV9fXzZxLUVjUlVWT1hkRkxkbVE1SXR0VkU4NldBT0gwMnN2ZndOdTRsR0hNbjk2Q3Z4X1Z0NXNtSEQzQjZYdjhrdXlsRTRzdHVZMjB4NWNiVmtKQ05ZN3MxVjVlU0lIQ1dJaGd1Y1ZzYTR1MVJ6eHVfVUZIOU10TUgzaDJoT2laQ2hWVHFKeGc?oc=5",
@@ -97,6 +111,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:29+00:00"
+    },
+    {
+      "id": "4f41a0e62ede6c01",
+      "title": "Three Mile Island restart approved to withdraw water from Susquehanna River - MSN",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2tfMkQ3cVZPRVpUQXNMemVuY2dUcmhJejJ1TjVKNWVSUnU2Z3ZtY3NKcXNXWjhnV0NFUlJ5bGJwZnVDVVFqamQ3LURaVWpkb3pLcjJlSy1RNi15ckhYYVI3X3FuQXZhTzdtTEhKMjlGbERfRDVQenRaRzRWY1locEtUeUNaN1J6M19qRWZQM0tGTk4tbi03NEtIbHZmX20zREgyalJJc1h0cVU1T2VqN1NOX1JraEg4NW5Ock1R?oc=5",
+      "domain": "news.google.com",
+      "source": "MSN",
+      "language": "English",
+      "published_at": "2026-06-05T07:00:00+00:00",
+      "summary": "Three Mile Island restart approved to withdraw water from Susquehanna River MSN",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2tfMkQ3cVZPRVpUQXNMemVuY2dUcmhJejJ1TjVKNWVSUnU2Z3ZtY3NKcXNXWjhnV0NFUlJ5bGJwZnVDVVFqamQ3LURaVWpkb3pLcjJlSy1RNi15ckhYYVI3X3FuQXZhTzdtTEhKMjlGbERfRDVQenRaRzRWY1locEtUeUNaN1J6M19qRWZQM0tGTk4tbi03NEtIbHZmX20zREgyalJJc1h0cVU1T2VqN1NOX1JraEg4NW5Ock1R?oc=5\" target=\"_blank\">Three Mile Island restart approved to withdraw water from Susquehanna River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T02:50:04+00:00"
     },
     {
       "id": "6b3989156e0aa5ce",
@@ -162,6 +190,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:29+00:00"
+    },
+    {
+      "id": "de87b3fea516db82",
+      "title": "Constellation secures FERC waiver for accelerated Three Mile Island restart - MSN",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZmI5ZjhxRVlMcEFTMTZpTXF0Szk0NGFrVWl3bHBNUVVjU0htMk8tUGFsV2VxZG5CdlVBU24zU3pHYWl0NktDM1U0RUlvNDU3RGd3dWF2ZElpclh5UEtzNmROS2pGMGdOSno2Rl9CQnNtMnJqVmliQU5wajl2WUVka2pOVzhfOGktRnZlYUk3b3dxdm01dm9Gd1VtX0NqaDlnMVBqUThIeFlnRHhRc1lSSnZwX0MzcEFJVDR0YzdTUDFMakM5aGNiUVBUSWRsUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "MSN",
+      "language": "English",
+      "published_at": "2026-06-04T09:14:54+00:00",
+      "summary": "Constellation secures FERC waiver for accelerated Three Mile Island restart MSN",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPZmI5ZjhxRVlMcEFTMTZpTXF0Szk0NGFrVWl3bHBNUVVjU0htMk8tUGFsV2VxZG5CdlVBU24zU3pHYWl0NktDM1U0RUlvNDU3RGd3dWF2ZElpclh5UEtzNmROS2pGMGdOSno2Rl9CQnNtMnJqVmliQU5wajl2WUVka2pOVzhfOGktRnZlYUk3b3dxdm01dm9Gd1VtX0NqaDlnMVBqUThIeFlnRHhRc1lSSnZwX0MzcEFJVDR0YzdTUDFMakM5aGNiUVBUSWRsUQ?oc=5\" target=\"_blank\">Constellation secures FERC waiver for accelerated Three Mile Island restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T02:50:04+00:00"
     },
     {
       "id": "196d80359124eb68",

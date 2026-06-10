@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-09T23:15:09+00:00",
+  "last_updated": "2026-06-10T02:49:53+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 17,
+  "count": 19,
   "mentions": [
     {
       "id": "4362d7c0f33c3b1a",
@@ -138,6 +138,20 @@
       "collected_at": "2026-06-09T16:52:18+00:00"
     },
     {
+      "id": "c64d1aa3efcf4d00",
+      "title": "’Stay away’: Alabama Power urges caution around downed power lines - WBRC 6 News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSElDcGFqdDRHbG10WmsteEdUTEZTSTRZVEt1NGdQWFgzNUlGUVA1TGdDaElsVGJySlVwZjJibFhPd3RURmN2VWQycG05ZG81Rm9xV3Nkczd5Tk5TWFJsVGZnYnhoOXZtbzM1ZHI0WGVtRFlScUZmRHoycFZTaXVzVU45dTVqT0Jtc2hDOEJpWGxVMDRqMDBpMFFEUTk?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC 6 News",
+      "language": "English",
+      "published_at": "2026-06-02T12:56:00+00:00",
+      "summary": "’Stay away’: Alabama Power urges caution around downed power lines WBRC 6 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPSElDcGFqdDRHbG10WmsteEdUTEZTSTRZVEt1NGdQWFgzNUlGUVA1TGdDaElsVGJySlVwZjJibFhPd3RURmN2VWQycG05ZG81Rm9xV3Nkczd5Tk5TWFJsVGZnYnhoOXZtbzM1ZHI0WGVtRFlScUZmRHoycFZTaXVzVU45dTVqT0Jtc2hDOEJpWGxVMDRqMDBpMFFEUTk?oc=5\" target=\"_blank\">’Stay away’: Alabama Power urges caution around downed power lines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC 6 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T02:49:53+00:00"
+    },
+    {
       "id": "490f731d3e49b1b3",
       "title": "Alabama Power Crews Continue Restoration Efforts After Severe Storms - WBMA",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWkzbExic2hHY1pKS0lpbjl6Z25xS1VvazRYQWpxU0l6c0JkNjI4dzRJRkFzY1lWVzhHaWY4a0tPeXZjUlpEc1M2dXg1NllUZkowbVlrWlFZalNZejF2OXZOYlBBQlVob1V0VTVGUkU3OWl1SGRYZjlRLWpvQUp5Q2VhR0VoXzJVSTFWOUhTYmxmRzJVTWpYUW1RYjE2YWRy?oc=5",
@@ -175,6 +189,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:18+00:00"
+    },
+    {
+      "id": "3907296bdd39d79f",
+      "title": "Alabama Power launches new online tool to help customers track energy usage during summer heat - WBRC 6 News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUtqaXVuZnZweWo5dVo3XzIxcFNfRFBhcEJDLXlCSmYxVDhjalhGMTNvaFdOZ19Mam1rMFl0bWMwSEcxX19PeE9wcEFfM0RpU1FSSndmc3RhTUJldHFLQ2ZGQnh6akhiQ09NZUcwZDZ6Nzg5QU1LTXdwWHFibGlRQk1GdDhOTlFiS1h5bm1zcjVjLTFJaFdzaHVkeHJrd2NjYXJuUWF3MWcwNUZBM3I1ZlA0NU9OUTFKQVBuZXhiQ2lZZ9IB1gFBVV95cUxNTE9uQkg1bjJEWnhJajBIR2dLQkJ5Ql9hVlhORVA2Y3JZVVJmTzNqTXJEMmVKOW0xU0RWdTlSdlZsRE5WWmxBdGl2d0N4VFFURF9fSzJGNXFtd1NWMFEzMEhnUHU0WjRyblRXNDhaWExrbklCc25NeW83STlJTjBhN05yMmMydFkzR0xnVWlpelhHMGNjY01SNUk5NFVFWG0wWXJjVGZ0LXZ1Yjg4NGlIN29UUnlCci1BLXFoeEdORkxKcTNrR1lKcWhIWmhUTzVWNTgtdDFn?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC 6 News",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Alabama Power launches new online tool to help customers track energy usage during summer heat WBRC 6 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUtqaXVuZnZweWo5dVo3XzIxcFNfRFBhcEJDLXlCSmYxVDhjalhGMTNvaFdOZ19Mam1rMFl0bWMwSEcxX19PeE9wcEFfM0RpU1FSSndmc3RhTUJldHFLQ2ZGQnh6akhiQ09NZUcwZDZ6Nzg5QU1LTXdwWHFibGlRQk1GdDhOTlFiS1h5bm1zcjVjLTFJaFdzaHVkeHJrd2NjYXJuUWF3MWcwNUZBM3I1ZlA0NU9OUTFKQVBuZXhiQ2lZZ9IB1gFBVV95cUxNTE9uQkg1bjJEWnhJajBIR2dLQkJ5Ql9hVlhORVA2Y3JZVVJmTzNqTXJEMmVKOW0xU0RWdTlSdlZsRE5WWmxBdGl2d0N4VFFURF9fSzJGNXFtd1NWMFEzMEhnUHU0WjRyblRXNDhaWExrbklCc25NeW83STlJTjBhN05yMmMydFkzR0xnVWlpelhHMGNjY01SNUk5NFVFWG0wWXJjVGZ0LXZ1Yjg4NGlIN29UUnlCci1BLXFoeEdORkxKcTNrR1lKcWhIWmhUTzVWNTgtdDFn?oc=5\" target=\"_blank\">Alabama Power launches new online tool to help customers track energy usage during summer heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC 6 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T02:49:53+00:00"
     },
     {
       "id": "45a7045fa434a3b6",

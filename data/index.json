@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T23:15:36+00:00",
+  "last_updated": "2026-06-10T02:50:20+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -25,7 +25,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 17,
+      "count": 19,
       "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "4362d7c0f33c3b1a",
@@ -54,8 +54,8 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 24,
-      "new_mentions_this_run": 18,
+      "count": 27,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "4df59d90a2f0b109",
         "title": "Three Mile Island restart closes in on NRC approval - E&E News by POLITICO",
@@ -75,7 +75,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 30,
+      "count": 31,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "7112f066e29cc30f",
