@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-10T08:03:09+00:00",
+  "last_updated": "2026-06-10T12:51:27+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 32,
+  "count": 34,
   "mentions": [
     {
       "id": "0e9a0929df71e62a",
@@ -150,6 +150,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:35+00:00"
+    },
+    {
+      "id": "59ff91984e5dc077",
+      "title": "Community Corner: Georgia Power - WSAV-TV",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44RURBUXp0SU1ra1VHREZoMmtMMEgwTzJ5UUxRbktGWTk1N1BVa0hWeGVYck5jbXRHNVQySVFsVkVQRnpXYmMyVE1OWGZrWXM5N2Q5bUNRR2Zwc01vRWo5Tk1ETmFKQ1ZLWHA3TzdnQzJvQXQ3aEE?oc=5",
+      "domain": "news.google.com",
+      "source": "WSAV-TV",
+      "language": "English",
+      "published_at": "2026-06-02T15:17:04+00:00",
+      "summary": "Community Corner: Georgia Power WSAV-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE44RURBUXp0SU1ra1VHREZoMmtMMEgwTzJ5UUxRbktGWTk1N1BVa0hWeGVYck5jbXRHNVQySVFsVkVQRnpXYmMyVE1OWGZrWXM5N2Q5bUNRR2Zwc01vRWo5Tk1ETmFKQ1ZLWHA3TzdnQzJvQXQ3aEE?oc=5\" target=\"_blank\">Community Corner: Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAV-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T12:51:27+00:00"
     },
     {
       "id": "a043de917de53c1f",
@@ -335,6 +349,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-10T02:50:10+00:00"
+    },
+    {
+      "id": "bfaccf19f353b89e",
+      "title": "Georgia Public Service Commission votes to lower Georgia Power utility rates - WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYzNoQVoyUHp6eWpDa1BkTWp1MU9zOUp6NlMzMWl2MDY2UExiNlBBMmVOZnFEWGJYeHFBYnVWSW5tR01PNUJ5SU5hRFNLU0dxUktHMHZXQlVkTXRXR0dRMGY4NXZrWXVuc1NrckVRYzJmVGpRT0w4QTFmMUxDeUFOeXVPZjQ1QS1RWURXMkE2OHo4Ukh4MWFpRU5vZ190NklLTDNyTUo5ZmxUTTYydGRxVnYwMUpHS1hLZlp1Qzd3WUJFbEo5UExxeHBlZw?oc=5",
+      "domain": "news.google.com",
+      "source": "WMAZ",
+      "language": "English",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "summary": "Georgia Public Service Commission votes to lower Georgia Power utility rates WMAZ",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNYzNoQVoyUHp6eWpDa1BkTWp1MU9zOUp6NlMzMWl2MDY2UExiNlBBMmVOZnFEWGJYeHFBYnVWSW5tR01PNUJ5SU5hRFNLU0dxUktHMHZXQlVkTXRXR0dRMGY4NXZrWXVuc1NrckVRYzJmVGpRT0w4QTFmMUxDeUFOeXVPZjQ1QS1RWURXMkE2OHo4Ukh4MWFpRU5vZ190NklLTDNyTUo5ZmxUTTYydGRxVnYwMUpHS1hLZlp1Qzd3WUJFbEo5UExxeHBlZw?oc=5\" target=\"_blank\">Georgia Public Service Commission votes to lower Georgia Power utility rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WMAZ</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T12:51:27+00:00"
     },
     {
       "id": "5af3a71c91cdea9b",
