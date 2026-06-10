@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-10T12:51:27+00:00",
+  "last_updated": "2026-06-10T16:55:59+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 34,
+  "count": 35,
   "mentions": [
     {
       "id": "0e9a0929df71e62a",
@@ -442,6 +442,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:35+00:00"
+    },
+    {
+      "id": "7245accc38a43fad",
+      "title": "Beth Lowry named to Georgia Power Board of Directors - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXZLUVNNT255UDJGdmhHUXlIWjZDUnp0MkNjWlF1WFVMNk1uQVdwWUppdUh3QURPZDFHZVdFMEY2UzVqc28tUHZKd29BaHRGQlJUeHZScy16WGtxaTZJSVlxSkttNFBOVDdBSWpyam8yWjVVR3dTa0NBQzJZNlctT3J4TktjcU9wM1ppRmlPZXVuX2dJWUxxb09jQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-05-26T07:00:00+00:00",
+      "summary": "Beth Lowry named to Georgia Power Board of Directors Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXZLUVNNT255UDJGdmhHUXlIWjZDUnp0MkNjWlF1WFVMNk1uQVdwWUppdUh3QURPZDFHZVdFMEY2UzVqc28tUHZKd29BaHRGQlJUeHZScy16WGtxaTZJSVlxSkttNFBOVDdBSWpyam8yWjVVR3dTa0NBQzJZNlctT3J4TktjcU9wM1ppRmlPZXVuX2dJWUxxb09jQQ?oc=5\" target=\"_blank\">Beth Lowry named to Georgia Power Board of Directors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T16:55:59+00:00"
     },
     {
       "id": "8621081c28d086bc",

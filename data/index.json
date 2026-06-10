@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T12:51:37+00:00",
+  "last_updated": "2026-06-10T16:56:10+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -25,21 +25,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 19,
-      "new_mentions_this_run": 14,
+      "count": 22,
+      "new_mentions_this_run": 15,
       "latest_mention": {
-        "id": "4362d7c0f33c3b1a",
-        "title": "Alabama Power works on restoring power after severe storms - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVkpmb0tHV3IzV2NUTGFHVW9iUTdSUkFhb1h0ZXNfeHZzLW1vSTA4SnhHREpiRUNMTFZkSWl4clNpTWctR3FoLXROUWs0TXRDZWlNZ3FJeXdYWWRfQUxYcnlkZlpVOEY1bjlhRFI3OGdmcGN5T1ZJSnRwQkcyODZjXw?oc=5",
+        "id": "03c03589788e705e",
+        "title": "Homeowners say Alabama Power drilling project has caused unsafe drinking water - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblVGMEpiTEQtUEltbkNZTFI0cTd6RE9mTVhVN2lvQnhFTWd4aEpIQldQdDdtZkl5S0ZmUE5HVFBYSkZ4enRxMXFyNEZlQWpwT2t4eDF5RGpDckRTQlFIUnJxdUc5MXprMXB1UnhfRXpHbVNiSTNDYjdLRDFxanpJaGVYOXU1OHJTUWFpYnlB?oc=5",
         "domain": "news.google.com",
         "source": "AOL.com",
         "language": "English",
-        "published_at": "2026-06-09T19:33:08+00:00",
-        "summary": "Alabama Power works on restoring power after severe storms AOL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOVkpmb0tHV3IzV2NUTGFHVW9iUTdSUkFhb1h0ZXNfeHZzLW1vSTA4SnhHREpiRUNMTFZkSWl4clNpTWctR3FoLXROUWs0TXRDZWlNZ3FJeXdYWWRfQUxYcnlkZlpVOEY1bjlhRFI3OGdmcGN5T1ZJSnRwQkcyODZjXw?oc=5\" target=\"_blank\">Alabama Power works on restoring power after severe storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "published_at": "2026-06-10T15:06:04+00:00",
+        "summary": "Homeowners say Alabama Power drilling project has caused unsafe drinking water AOL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNblVGMEpiTEQtUEltbkNZTFI0cTd6RE9mTVhVN2lvQnhFTWd4aEpIQldQdDdtZkl5S0ZmUE5HVFBYSkZ4enRxMXFyNEZlQWpwT2t4eDF5RGpDckRTQlFIUnJxdUc5MXprMXB1UnhfRXpHbVNiSTNDYjdLRDFxanpJaGVYOXU1OHJTUWFpYnlB?oc=5\" target=\"_blank\">Homeowners say Alabama Power drilling project has caused unsafe drinking water</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-09T23:15:09+00:00"
+        "collected_at": "2026-06-10T16:55:42+00:00"
       }
     },
     {
@@ -75,7 +75,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 34,
+      "count": 35,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "0e9a0929df71e62a",

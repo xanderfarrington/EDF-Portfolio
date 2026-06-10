@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-10T12:51:10+00:00",
+  "last_updated": "2026-06-10T16:55:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 19,
+  "count": 22,
   "mentions": [
+    {
+      "id": "03c03589788e705e",
+      "title": "Homeowners say Alabama Power drilling project has caused unsafe drinking water - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblVGMEpiTEQtUEltbkNZTFI0cTd6RE9mTVhVN2lvQnhFTWd4aEpIQldQdDdtZkl5S0ZmUE5HVFBYSkZ4enRxMXFyNEZlQWpwT2t4eDF5RGpDckRTQlFIUnJxdUc5MXprMXB1UnhfRXpHbVNiSTNDYjdLRDFxanpJaGVYOXU1OHJTUWFpYnlB?oc=5",
+      "domain": "news.google.com",
+      "source": "AOL.com",
+      "language": "English",
+      "published_at": "2026-06-10T15:06:04+00:00",
+      "summary": "Homeowners say Alabama Power drilling project has caused unsafe drinking water AOL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNblVGMEpiTEQtUEltbkNZTFI0cTd6RE9mTVhVN2lvQnhFTWd4aEpIQldQdDdtZkl5S0ZmUE5HVFBYSkZ4enRxMXFyNEZlQWpwT2t4eDF5RGpDckRTQlFIUnJxdUc5MXprMXB1UnhfRXpHbVNiSTNDYjdLRDFxanpJaGVYOXU1OHJTUWFpYnlB?oc=5\" target=\"_blank\">Homeowners say Alabama Power drilling project has caused unsafe drinking water</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T16:55:42+00:00"
+    },
     {
       "id": "4362d7c0f33c3b1a",
       "title": "Alabama Power works on restoring power after severe storms - AOL.com",
@@ -32,6 +46,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:18+00:00"
+    },
+    {
+      "id": "61906972ed024cf8",
+      "title": "Alabama Power Company Plant Barry Air And Water Public Hearing October 15, 2020 (fKuh8pGGDs) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15aUNVOGREQktMTl9mZHF3d25RYmp6bm5TcW44aFpVNE9hRnFkaF83NDJNcmFlMGh2MDlEeTE1ekYzY2YwdUFCNHkwdFBjc0RqZkZVdGs3bTZzaTBmWEQ3ZXNpZmJJLXRlNTZBdWdrTVV1T21KaFE?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-07T05:38:14+00:00",
+      "summary": "Alabama Power Company Plant Barry Air And Water Public Hearing October 15, 2020 (fKuh8pGGDs) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE15aUNVOGREQktMTl9mZHF3d25RYmp6bm5TcW44aFpVNE9hRnFkaF83NDJNcmFlMGh2MDlEeTE1ekYzY2YwdUFCNHkwdFBjc0RqZkZVdGs3bTZzaTBmWEQ3ZXNpZmJJLXRlNTZBdWdrTVV1T21KaFE?oc=5\" target=\"_blank\">Alabama Power Company Plant Barry Air And Water Public Hearing October 15, 2020 (fKuh8pGGDs)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T16:55:42+00:00"
     },
     {
       "id": "1abbc96db418dfec",
@@ -176,6 +204,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:18+00:00"
+    },
+    {
+      "id": "f05ef1345ea1fc6d",
+      "title": "Safe from the Storm: Alabama Power has new way to prepare for power outages - WAKA 8",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2xQYXQ2TEtsSGJyWGZublBMNzhxQkZobFA1NEk1UmNmNTRBcFlvN21rZFQ4VWdtdnRHWVRQZkJMbGtHZzRPblFNTVJxZmJkQlNBUTdSa2FObFhYcm1WeXU4TUdIU0E1RC0zNEV5dlhoVm1SZW5NeWQ1cWppTXlIQm1Fa2lUbUExeko5UE1QeEVvTWp6STZzbUdEQ1BEOFNBMWhJRDlnUGVBT1U?oc=5",
+      "domain": "news.google.com",
+      "source": "WAKA 8",
+      "language": "English",
+      "published_at": "2026-06-01T20:13:00+00:00",
+      "summary": "Safe from the Storm: Alabama Power has new way to prepare for power outages WAKA 8",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2xQYXQ2TEtsSGJyWGZublBMNzhxQkZobFA1NEk1UmNmNTRBcFlvN21rZFQ4VWdtdnRHWVRQZkJMbGtHZzRPblFNTVJxZmJkQlNBUTdSa2FObFhYcm1WeXU4TUdIU0E1RC0zNEV5dlhoVm1SZW5NeWQ1cWppTXlIQm1Fa2lUbUExeko5UE1QeEVvTWp6STZzbUdEQ1BEOFNBMWhJRDlnUGVBT1U?oc=5\" target=\"_blank\">Safe from the Storm: Alabama Power has new way to prepare for power outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAKA 8</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T16:55:42+00:00"
     },
     {
       "id": "48b443e94d4ef219",
