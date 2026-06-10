@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T02:50:20+00:00",
+  "last_updated": "2026-06-10T08:03:19+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 19,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 14,
       "latest_mention": {
         "id": "4362d7c0f33c3b1a",
         "title": "Alabama Power works on restoring power after severe storms - AOL.com",
@@ -55,7 +55,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 27,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "4df59d90a2f0b109",
         "title": "Three Mile Island restart closes in on NRC approval - E&E News by POLITICO",
@@ -75,20 +75,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 31,
+      "count": 32,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "7112f066e29cc30f",
-        "title": "Georgia utility commission races test party loyalty after recent power bill hikes - WABE",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPakNDbWNvUkt4aGY5S1RMRGtrSU5jOU00dk5SQzV0QnM1aFZuWXlsczZka2JobjYtN01fUHpmMEdrM1hUb1ZiSzZVX3N4T1JXVFNXcUlQWktCY1NQOTFxZ3VZNFBaM3lrSHd3TER1ME5yLUJETmY3MTlsTS1XU0R0cFlHdlpjSFpFeTFEa2tHRVlwRlpsY2pfQ3FLVWZUd2oxckpjdzB3?oc=5",
+        "id": "0e9a0929df71e62a",
+        "title": "Bowen Reichert Shoemaker Gives an Update on Georgia Power Projects - Middle Georgia CEO",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeUJGM1lQZkZaQ2tObDg1eHVnWDQ4M1RZM1MtYm1oRDNGdTZZZWdxV00xZE5KVUtFbF9EQ053clNPY0ZzaTlpWElGRTdwS095QmdMc1h1QlU2V1BscXJLSmJBa2Z1UmF6OExxYk5FTXBsRk5PQVVGdjVhdHUwTGdXZ0dCVWEwbnNFX2JpdFZ2VHFlUlZqQUJ2ck9GRV96SE9EV0ktZ3ptZw?oc=5",
         "domain": "news.google.com",
-        "source": "WABE",
+        "source": "Middle Georgia CEO",
         "language": "English",
-        "published_at": "2026-06-08T14:11:27+00:00",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPakNDbWNvUkt4aGY5S1RMRGtrSU5jOU00dk5SQzV0QnM1aFZuWXlsczZka2JobjYtN01fUHpmMEdrM1hUb1ZiSzZVX3N4T1JXVFNXcUlQWktCY1NQOTFxZ3VZNFBaM3lrSHd3TER1ME5yLUJETmY3MTlsTS1XU0R0cFlHdlpjSFpFeTFEa2tHRVlwRlpsY2pfQ3FLVWZUd2oxckpjdzB3?oc=5\" target=\"_blank\">Georgia utility commission races test party loyalty after recent power bill hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
+        "published_at": "2026-06-10T06:09:26+00:00",
+        "summary": "Bowen Reichert Shoemaker Gives an Update on Georgia Power Projects Middle Georgia CEO",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQeUJGM1lQZkZaQ2tObDg1eHVnWDQ4M1RZM1MtYm1oRDNGdTZZZWdxV00xZE5KVUtFbF9EQ053clNPY0ZzaTlpWElGRTdwS095QmdMc1h1QlU2V1BscXJLSmJBa2Z1UmF6OExxYk5FTXBsRk5PQVVGdjVhdHUwTGdXZ0dCVWEwbnNFX2JpdFZ2VHFlUlZqQUJ2ck9GRV96SE9EV0ktZ3ptZw?oc=5\" target=\"_blank\">Bowen Reichert Shoemaker Gives an Update on Georgia Power Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Middle Georgia CEO</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-09T16:52:35+00:00"
+        "collected_at": "2026-06-10T08:03:09+00:00"
       }
     },
     {
