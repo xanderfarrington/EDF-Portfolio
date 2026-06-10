@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-10T20:22:33+00:00",
+  "last_updated": "2026-06-10T23:21:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 22,
+  "count": 23,
   "mentions": [
+    {
+      "id": "36e1276fd7abbc5e",
+      "title": "Mobile Street to close for Alabama Power work - fox10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLXZmSEhfYVJMaEsxMmNtNVBEUG5OMzJVc19KNG94VDlTenY0a29zY1JZRTRibmVYa2ZGUS1HZklkd2dUQnVVUWxHbFAtVThyZzRCcl9mMWNLVGp2S2dBeVJlVUVGMHhuU3JhSlZtTUxQdExhWUJ6TVdVbkVjQnJ6V2hDclBDMTQ?oc=5",
+      "domain": "news.google.com",
+      "source": "fox10tv.com",
+      "language": "English",
+      "published_at": "2026-06-10T22:37:00+00:00",
+      "summary": "Mobile Street to close for Alabama Power work fox10tv.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNLXZmSEhfYVJMaEsxMmNtNVBEUG5OMzJVc19KNG94VDlTenY0a29zY1JZRTRibmVYa2ZGUS1HZklkd2dUQnVVUWxHbFAtVThyZzRCcl9mMWNLVGp2S2dBeVJlVUVGMHhuU3JhSlZtTUxQdExhWUJ6TVdVbkVjQnJ6V2hDclBDMTQ?oc=5\" target=\"_blank\">Mobile Street to close for Alabama Power work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T23:21:37+00:00"
+    },
     {
       "id": "03c03589788e705e",
       "title": "Homeowners say Alabama Power drilling project has caused unsafe drinking water - AOL.com",

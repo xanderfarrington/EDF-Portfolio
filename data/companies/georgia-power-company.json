@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-10T20:22:49+00:00",
+  "last_updated": "2026-06-10T23:21:53+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 38,
+  "count": 41,
   "mentions": [
     {
       "id": "0e9a0929df71e62a",
@@ -473,6 +473,20 @@
       "collected_at": "2026-06-10T20:22:49+00:00"
     },
     {
+      "id": "a8f0cf93f79d5bda",
+      "title": "Georgia Power Customers to See Lower Bills After PSC Rate Vote - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcE4yeWRScFA5MjNfNHY3SmVfN21NcEk4UW14ZzU1VzM0cUJsZWRvYWJ1WTB0Qko2SDZma045Tk9hbXg0S21CZ0NZUmZzVVVnbmtiVmRLeGZiVE9zbXRRY0hkeFRKeEhxQTNRRFpqR3pfSGtoZUtaRzl0TUhoa0dDTE53QlJyUWNYaXJfTUJ5NHpnMjdBR3pkUkhMemtHdGc?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Georgia Power Customers to See Lower Bills After PSC Rate Vote Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPcE4yeWRScFA5MjNfNHY3SmVfN21NcEk4UW14ZzU1VzM0cUJsZWRvYWJ1WTB0Qko2SDZma045Tk9hbXg0S21CZ0NZUmZzVVVnbmtiVmRLeGZiVE9zbXRRY0hkeFRKeEhxQTNRRFpqR3pfSGtoZUtaRzl0TUhoa0dDTE53QlJyUWNYaXJfTUJ5NHpnMjdBR3pkUkhMemtHdGc?oc=5\" target=\"_blank\">Georgia Power Customers to See Lower Bills After PSC Rate Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T23:21:53+00:00"
+    },
+    {
       "id": "0c358710ac78474b",
       "title": "As Georgia Power rate decision looms, consumer group raises concerns - WRDW",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTG1xaXdVUEdhOVBkUWNlUHhNRFd6dGFWWUZiWWtpdkE0ZmxMYTc3SzBWQlZzOVRzWUpvdXZVMTJvLVEybXJjT0lEbTZpZC1xbzZwWUtNNkFvR3pQM1J6OEFBZnlUaGZ2N1A2TWNoUElBYmlUMTZfc014amliTmZaR0xCdHJhLUxMRXI1VHMwcTdOTXZqYzdrR0tTV1lGd9IBsgFBVV95cUxOQ2p6TkpJNUgzY0w2RmpsQjhHcmgyMmpPb0wwelZVMzJwTnZqTWFfaDNkZHI3UFRNV1k0VVBDWnMtaXBOZmplS3IwN2hJdzNXTGQxSjh3djAtelktRm9vUF9pQVRxcTFraEJSRll1S2xkY2d4eXNlRGxCMURNaXZGYmYxZzJsVURJTER6Z2d6LVVZZ0pDUmtqMnhrTUZCQlVBNkx3SGxNNWZxNldpZDFyX1pR?oc=5",
@@ -512,6 +526,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T20:04:55+00:00"
+    },
+    {
+      "id": "3c592e394c2d3c95",
+      "title": "Georgia Power shares tips, tools and free resources to reduce energy use this summer - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRU5nMzE0SjZMZEpmS29Qa21uNm4wZXBxbXVyQWdWdURBYnlHQ0s3MnlUQXoxUUg0aVFQZWZDY3RZcWFOSDVRYzRMR3VtWVgtRjd0VFUwLWJhalZKU3lfZ2FGQmhpZ2tuSXRQRk1RZl9ZRlVkejhuMldNTFd5aGxHa1h0YndfR1N5YV9HOEVsZnRjZy1BclAzc2hLTlhmSzFsSXllTUdXNTQ2bGdXdDJzaUVTbmhCdEptWXd1UnVNWnRrUmRrQnM4S0tya2otY1Y4NTlnUlBn?oc=5",
+      "domain": "news.google.com",
+      "source": "PR Newswire",
+      "language": "English",
+      "published_at": "2026-05-22T07:00:00+00:00",
+      "summary": "Georgia Power shares tips, tools and free resources to reduce energy use this summer PR Newswire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRU5nMzE0SjZMZEpmS29Qa21uNm4wZXBxbXVyQWdWdURBYnlHQ0s3MnlUQXoxUUg0aVFQZWZDY3RZcWFOSDVRYzRMR3VtWVgtRjd0VFUwLWJhalZKU3lfZ2FGQmhpZ2tuSXRQRk1RZl9ZRlVkejhuMldNTFd5aGxHa1h0YndfR1N5YV9HOEVsZnRjZy1BclAzc2hLTlhmSzFsSXllTUdXNTQ2bGdXdDJzaUVTbmhCdEptWXd1UnVNWnRrUmRrQnM4S0tya2otY1Y4NTlnUlBn?oc=5\" target=\"_blank\">Georgia Power shares tips, tools and free resources to reduce energy use this summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T23:21:53+00:00"
+    },
+    {
+      "id": "abbd862e94a6a8b7",
+      "title": "PSC staff, Georgia Power propose deal to lower electric bills - thecurrentga.org",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUmhHeVRQc3ZmRWtSa0x0WTN6ZmtpMlQxYTgxMV9QZjZCMjFuQld1Y0hVcjZuZDdBMzJuSGktNEVab1lTUW10RzA2RUljVk9SVHdlNjlieW82ODMydjU4U3RTZUFsQUpDTTZRU2JoYkZ2R0szMWg0QW9RcERrZEFObWtsbkRnQ1VPWjVzaU10M1pLTnNhdGNTa3FoWm9hZw?oc=5",
+      "domain": "news.google.com",
+      "source": "thecurrentga.org",
+      "language": "English",
+      "published_at": "2026-05-12T22:09:36+00:00",
+      "summary": "PSC staff, Georgia Power propose deal to lower electric bills thecurrentga.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUmhHeVRQc3ZmRWtSa0x0WTN6ZmtpMlQxYTgxMV9QZjZCMjFuQld1Y0hVcjZuZDdBMzJuSGktNEVab1lTUW10RzA2RUljVk9SVHdlNjlieW82ODMydjU4U3RTZUFsQUpDTTZRU2JoYkZ2R0szMWg0QW9RcERrZEFObWtsbkRnQ1VPWjVzaU10M1pLTnNhdGNTa3FoWm9hZw?oc=5\" target=\"_blank\">PSC staff, Georgia Power propose deal to lower electric bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-10T23:21:53+00:00"
     }
   ]
 }
