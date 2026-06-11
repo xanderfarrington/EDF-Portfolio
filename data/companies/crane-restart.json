@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-11T13:55:25+00:00",
+  "last_updated": "2026-06-11T17:34:29+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 30,
+  "count": 31,
   "mentions": [
     {
       "id": "b6508b7441d898f2",
@@ -376,6 +376,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:29+00:00"
+    },
+    {
+      "id": "c3a6b309a1cd376d",
+      "title": "The Race to Quadruple US Nuclear Generation Is Underway - The National Interest",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSzRhS2lpRnJteFhscHZQakl5RWQyREc1NmhBekxQajVmWlVfd1o2SDJOVVF6dTJuUm4xSjZYcFpaaElKbDI2THpZa1ZsdlhIQThmM3hsNmVOUzIwNG9MSGhFbFhQNkpsQ2JGcU9fZ256VThXOUpQcDl1MkRSM1dvTXRlakRWN3VIZ3d3Y1Y5TW9KXzMxcW1EWkNZODdOWXJGU2d2Tw?oc=5",
+      "domain": "news.google.com",
+      "source": "The National Interest",
+      "language": "English",
+      "published_at": "2026-05-22T07:00:00+00:00",
+      "summary": "The Race to Quadruple US Nuclear Generation Is Underway The National Interest",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSzRhS2lpRnJteFhscHZQakl5RWQyREc1NmhBekxQajVmWlVfd1o2SDJOVVF6dTJuUm4xSjZYcFpaaElKbDI2THpZa1ZsdlhIQThmM3hsNmVOUzIwNG9MSGhFbFhQNkpsQ2JGcU9fZ256VThXOUpQcDl1MkRSM1dvTXRlakRWN3VIZ3d3Y1Y5TW9KXzMxcW1EWkNZODdOWXJGU2d2Tw?oc=5\" target=\"_blank\">The Race to Quadruple US Nuclear Generation Is Underway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Interest</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-11T17:34:29+00:00"
     },
     {
       "id": "7598b7e0ff451792",

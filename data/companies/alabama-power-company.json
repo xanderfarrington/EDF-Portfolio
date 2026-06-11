@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-11T13:55:14+00:00",
+  "last_updated": "2026-06-11T17:34:18+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 28,
+  "count": 30,
   "mentions": [
     {
       "id": "3e2b90ad034598e5",
@@ -49,6 +49,20 @@
       "collected_at": "2026-06-11T13:55:14+00:00"
     },
     {
+      "id": "8de0f13d555d6f50",
+      "title": "Alabama Power Fulvio Collovati (FYuTuQT6Wz) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yazdCbzJBNmtUdW54WHpkcnNDNTcwbWJBdjhiVWRFVmY2XzdXbDNBU0o5eDBVUFg3LVNTNzgwQlhNcFdVY25ERFNjbUliOXVyOUNNQjVIb3RMbXZyZEoyb1Buenk?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-11T00:37:17+00:00",
+      "summary": "Alabama Power Fulvio Collovati (FYuTuQT6Wz) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yazdCbzJBNmtUdW54WHpkcnNDNTcwbWJBdjhiVWRFVmY2XzdXbDNBU0o5eDBVUFg3LVNTNzgwQlhNcFdVY25ERFNjbUliOXVyOUNNQjVIb3RMbXZyZEoyb1Buenk?oc=5\" target=\"_blank\">Alabama Power Fulvio Collovati (FYuTuQT6Wz)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-11T17:34:18+00:00"
+    },
+    {
       "id": "be71b3a9bf218009",
       "title": "Mobile Street to close for Alabama Power work - fox10tv.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95RENlZzdEVW5ZQTVFbEtieUo5b2hhVWtzU29OUTBHV2pmZzZXWW1EXzNsNWFwUTJvR1RsM0VCTGMxUlZ2TGF3cDBvSDVLZ3ZGVWNMa01ZdzRGNUdCRzhUeGJfTjF1N3JrR0tqN1RaS2dkRGFMU1BXNkNNbzJxQ0HSAZMBQVVfeXFMTWdYSzZ4d1BpdzFIQ1Z3cDV6UlVqbDM2MWFhYjZlZjZUb0xyWld1T05yVzBlbkZncUdlUHo4S3NDRFRHcERGRVd6UTlDa0lWWnlmbWVVdktsMi1ma3liNkxfYnE2ZzBfYWRRbEVuSjVDYnJ1SHM4em5aNUhReS1EYTFqNXNWTFBMS1lxWGlaTHRfeUJr?oc=5",
@@ -61,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-11T02:59:22+00:00"
+    },
+    {
+      "id": "1470a3d3f8b56c37",
+      "title": "Alabama Power Crews Back After Helping With Beryl Aftermath Cleveland Cavaliers Vs Detroit Pistons Match Player Stats (NgT2BkarBM) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGbFh4TjFfWlJXRzZ3dEd1SndXRXphbE83R3JnMUQ1TVIwSEZYdFlUeVZpbUZMVUhEbHBXMFctbHRiRG43eV9TUlo2ZTFZSUxVSXlxbFBBbUdYZ1EyT0xMVnJScVI?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-10T22:44:03+00:00",
+      "summary": "Alabama Power Crews Back After Helping With Beryl Aftermath Cleveland Cavaliers Vs Detroit Pistons Match Player Stats (NgT2BkarBM) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGbFh4TjFfWlJXRzZ3dEd1SndXRXphbE83R3JnMUQ1TVIwSEZYdFlUeVZpbUZMVUhEbHBXMFctbHRiRG43eV9TUlo2ZTFZSUxVSXlxbFBBbUdYZ1EyT0xMVnJScVI?oc=5\" target=\"_blank\">Alabama Power Crews Back After Helping With Beryl Aftermath Cleveland Cavaliers Vs Detroit Pistons Match Player Stats (NgT2BkarBM)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-11T17:34:18+00:00"
     },
     {
       "id": "36e1276fd7abbc5e",
