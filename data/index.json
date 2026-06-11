@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T17:34:45+00:00",
+  "last_updated": "2026-06-11T20:14:34+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 30,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "3e2b90ad034598e5",
         "title": "Alabama Power Gives Warning Over Upcoming Rain Impact Forest Game (DXqgWEY6CJ) - Fathom Journal",
@@ -55,7 +55,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 31,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "b6508b7441d898f2",
         "title": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart - SightLine | U308",
@@ -97,7 +97,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 7,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "40a8718d04d0cbe1",
         "title": "Gregory A. Beard - Department of Energy (.gov)",
