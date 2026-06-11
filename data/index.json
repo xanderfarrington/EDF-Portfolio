@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T23:22:04+00:00",
+  "last_updated": "2026-06-11T02:59:49+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -25,21 +25,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 23,
-      "new_mentions_this_run": 9,
+      "count": 24,
+      "new_mentions_this_run": 12,
       "latest_mention": {
-        "id": "36e1276fd7abbc5e",
+        "id": "be71b3a9bf218009",
         "title": "Mobile Street to close for Alabama Power work - fox10tv.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLXZmSEhfYVJMaEsxMmNtNVBEUG5OMzJVc19KNG94VDlTenY0a29zY1JZRTRibmVYa2ZGUS1HZklkd2dUQnVVUWxHbFAtVThyZzRCcl9mMWNLVGp2S2dBeVJlVUVGMHhuU3JhSlZtTUxQdExhWUJ6TVdVbkVjQnJ6V2hDclBDMTQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95RENlZzdEVW5ZQTVFbEtieUo5b2hhVWtzU29OUTBHV2pmZzZXWW1EXzNsNWFwUTJvR1RsM0VCTGMxUlZ2TGF3cDBvSDVLZ3ZGVWNMa01ZdzRGNUdCRzhUeGJfTjF1N3JrR0tqN1RaS2dkRGFMU1BXNkNNbzJxQ0HSAZMBQVVfeXFMTWdYSzZ4d1BpdzFIQ1Z3cDV6UlVqbDM2MWFhYjZlZjZUb0xyWld1T05yVzBlbkZncUdlUHo4S3NDRFRHcERGRVd6UTlDa0lWWnlmbWVVdktsMi1ma3liNkxfYnE2ZzBfYWRRbEVuSjVDYnJ1SHM4em5aNUhReS1EYTFqNXNWTFBMS1lxWGlaTHRfeUJr?oc=5",
         "domain": "news.google.com",
         "source": "fox10tv.com",
         "language": "English",
-        "published_at": "2026-06-10T22:37:00+00:00",
+        "published_at": "2026-06-10T23:24:00+00:00",
         "summary": "Mobile Street to close for Alabama Power work fox10tv.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNLXZmSEhfYVJMaEsxMmNtNVBEUG5OMzJVc19KNG94VDlTenY0a29zY1JZRTRibmVYa2ZGUS1HZklkd2dUQnVVUWxHbFAtVThyZzRCcl9mMWNLVGp2S2dBeVJlVUVGMHhuU3JhSlZtTUxQdExhWUJ6TVdVbkVjQnJ6V2hDclBDMTQ?oc=5\" target=\"_blank\">Mobile Street to close for Alabama Power work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE95RENlZzdEVW5ZQTVFbEtieUo5b2hhVWtzU29OUTBHV2pmZzZXWW1EXzNsNWFwUTJvR1RsM0VCTGMxUlZ2TGF3cDBvSDVLZ3ZGVWNMa01ZdzRGNUdCRzhUeGJfTjF1N3JrR0tqN1RaS2dkRGFMU1BXNkNNbzJxQ0HSAZMBQVVfeXFMTWdYSzZ4d1BpdzFIQ1Z3cDV6UlVqbDM2MWFhYjZlZjZUb0xyWld1T05yVzBlbkZncUdlUHo4S3NDRFRHcERGRVd6UTlDa0lWWnlmbWVVdktsMi1ma3liNkxfYnE2ZzBfYWRRbEVuSjVDYnJ1SHM4em5aNUhReS1EYTFqNXNWTFBMS1lxWGlaTHRfeUJr?oc=5\" target=\"_blank\">Mobile Street to close for Alabama Power work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-10T23:21:37+00:00"
+        "collected_at": "2026-06-11T02:59:22+00:00"
       }
     },
     {
@@ -55,7 +55,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 29,
-      "new_mentions_this_run": 20,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "b6508b7441d898f2",
         "title": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart - SightLine | U308",
@@ -76,7 +76,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 41,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "0e9a0929df71e62a",
         "title": "Bowen Reichert Shoemaker Gives an Update on Georgia Power Projects - Middle Georgia CEO",
