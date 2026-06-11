@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-11T02:59:38+00:00",
+  "last_updated": "2026-06-11T08:39:28+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 41,
+  "count": 42,
   "mentions": [
     {
       "id": "0e9a0929df71e62a",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-10T08:03:09+00:00"
+    },
+    {
+      "id": "3bf76f5f919a0395",
+      "title": "Georgia Power encourages customers to prepare for hurricane season - Grice Connect",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUxjYjJ2a2xoSjBLZkFLa0tVZVVCeWM0UFBwVUd5cElRcVBlbzVRLV95R2dfSXdjcjVzUlFjUzFGUmxtMVZyWmRhcXhKU1RsckJBSkF4NEE3R2kxZUliZ2d1cTNmaXhKZVNXSExhUmswbTIyRkhNSWNrcVExV1JrbDJFOGg4Mm5tUVFJSEpiTjFET285bjZNU1Fra2tRQ3JyX05XZ0FXYVhfSGRKdzl4dTN4cW5OZ9IBuwFBVV95cUxOaFloVGhEVzRwN2ItbHh2TEVsVnVHVGdqUWYtaWN4ZHFiNWVtSkNRX3ZqQnY3YmRfajNHa1RUc2pyay1rRy1kQXR3dUJBc2I2bnl0dkFfQWhsUEdIRlczdXViM2Ewa2lqRXNud2c2cVo4XzNWaWNBNmNIU1gxUXRmTDVCc2o1N2xOYzFyWXRxTHNKSlRFQ3BrQjVac3ItbXh3Sm95V241bDFsSTlfXzlOTGVER2E3R1VrWGRV?oc=5",
+      "domain": "news.google.com",
+      "source": "Grice Connect",
+      "language": "English",
+      "published_at": "2026-06-08T18:36:00+00:00",
+      "summary": "Georgia Power encourages customers to prepare for hurricane season Grice Connect",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUxjYjJ2a2xoSjBLZkFLa0tVZVVCeWM0UFBwVUd5cElRcVBlbzVRLV95R2dfSXdjcjVzUlFjUzFGUmxtMVZyWmRhcXhKU1RsckJBSkF4NEE3R2kxZUliZ2d1cTNmaXhKZVNXSExhUmswbTIyRkhNSWNrcVExV1JrbDJFOGg4Mm5tUVFJSEpiTjFET285bjZNU1Fra2tRQ3JyX05XZ0FXYVhfSGRKdzl4dTN4cW5OZ9IBuwFBVV95cUxOaFloVGhEVzRwN2ItbHh2TEVsVnVHVGdqUWYtaWN4ZHFiNWVtSkNRX3ZqQnY3YmRfajNHa1RUc2pyay1rRy1kQXR3dUJBc2I2bnl0dkFfQWhsUEdIRlczdXViM2Ewa2lqRXNud2c2cVo4XzNWaWNBNmNIU1gxUXRmTDVCc2o1N2xOYzFyWXRxTHNKSlRFQ3BrQjVac3ItbXh3Sm95V241bDFsSTlfXzlOTGVER2E3R1VrWGRV?oc=5\" target=\"_blank\">Georgia Power encourages customers to prepare for hurricane season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-11T08:39:28+00:00"
     },
     {
       "id": "7112f066e29cc30f",

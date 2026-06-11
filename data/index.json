@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T02:59:49+00:00",
+  "last_updated": "2026-06-11T08:39:39+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 24,
-      "new_mentions_this_run": 12,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "be71b3a9bf218009",
         "title": "Mobile Street to close for Alabama Power work - fox10tv.com",
@@ -75,8 +75,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 41,
-      "new_mentions_this_run": 25,
+      "count": 42,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "0e9a0929df71e62a",
         "title": "Bowen Reichert Shoemaker Gives an Update on Georgia Power Projects - Middle Georgia CEO",
