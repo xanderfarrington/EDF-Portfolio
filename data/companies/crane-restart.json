@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-11T08:39:23+00:00",
+  "last_updated": "2026-06-11T13:55:25+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 29,
+  "count": 30,
   "mentions": [
     {
       "id": "b6508b7441d898f2",
@@ -349,6 +349,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:29+00:00"
+    },
+    {
+      "id": "bcd755d2e27370d3",
+      "title": "Constellation Energy advances plans for 2027 Three Mile Island restart - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPaFVTUE1fRUR2a0NjX1RMVWtaZVYzUmNMV0huc1dZODZZS0NiN0NOUFk4UHJlV2w4TUJRZkhseUVpZXRuamFZY3R5TElMcnhPRVNoVVR4S2lENzFRQnfSAWNBVV95cUxNMDA0Q0RxdDctem51eTUwTmF3OTlodWxQdy0tQXlZQkNCbUgwTURuRThBWklLNml2NFBfa2czclNWU1hKQXVaUUVzaVNidnM4YVVVVEM1LVF0Z1NKc1RZRXI0dUk?oc=5",
+      "domain": "news.google.com",
+      "source": "Bitget",
+      "language": "English",
+      "published_at": "2026-06-02T05:57:27+00:00",
+      "summary": "Constellation Energy advances plans for 2027 Three Mile Island restart Bitget",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPaFVTUE1fRUR2a0NjX1RMVWtaZVYzUmNMV0huc1dZODZZS0NiN0NOUFk4UHJlV2w4TUJRZkhseUVpZXRuamFZY3R5TElMcnhPRVNoVVR4S2lENzFRQnfSAWNBVV95cUxNMDA0Q0RxdDctem51eTUwTmF3OTlodWxQdy0tQXlZQkNCbUgwTURuRThBWklLNml2NFBfa2czclNWU1hKQXVaUUVzaVNidnM4YVVVVEM1LVF0Z1NKc1RZRXI0dUk?oc=5\" target=\"_blank\">Constellation Energy advances plans for 2027 Three Mile Island restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-11T13:55:25+00:00"
     },
     {
       "id": "4fe563ee8089f993",

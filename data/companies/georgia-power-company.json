@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-11T08:39:28+00:00",
+  "last_updated": "2026-06-11T13:55:30+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 42,
+  "count": 44,
   "mentions": [
+    {
+      "id": "5d80bee4d9e871b9",
+      "title": "Georgia Power to send smaller electricity bills - Hartwell Sun",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWZKZGVCbkNBdEpCcVRYVEdTTXE4RzlNRVNXeHN5WEZBX240VEtJbmllaXl1SVZFQkVLaXpXem9kbHI1bHo5T2NqRnFOVW9XTlpHZXhFVktvN2xFMWc1c1hqcmdPRFpNQmVENkY4WjhIR2Z6aXQ5cjdkbG5wUHdEbXZiYzMxNXc2Q1phXw?oc=5",
+      "domain": "news.google.com",
+      "source": "Hartwell Sun",
+      "language": "English",
+      "published_at": "2026-06-11T12:57:36+00:00",
+      "summary": "Georgia Power to send smaller electricity bills Hartwell Sun",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWZKZGVCbkNBdEpCcVRYVEdTTXE4RzlNRVNXeHN5WEZBX240VEtJbmllaXl1SVZFQkVLaXpXem9kbHI1bHo5T2NqRnFOVW9XTlpHZXhFVktvN2xFMWc1c1hqcmdPRFpNQmVENkY4WjhIR2Z6aXQ5cjdkbG5wUHdEbXZiYzMxNXc2Q1phXw?oc=5\" target=\"_blank\">Georgia Power to send smaller electricity bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hartwell Sun</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-11T13:55:30+00:00"
+    },
     {
       "id": "0e9a0929df71e62a",
       "title": "Bowen Reichert Shoemaker Gives an Update on Georgia Power Projects - Middle Georgia CEO",
@@ -499,6 +513,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-10T23:21:53+00:00"
+    },
+    {
+      "id": "d339c752af603261",
+      "title": "Georgia PSC approves lower Georgia Power rates, saving customers about $4 a month - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUdxenlOcmZORWFoMGJjNFN1VWoyVDJkNzV1V1ljMkt5MTl4UlBwWkRMelVMWW11VjJ4amVCZUZUbllQSVMwU1dlbEJzbGFxcUtJV1huR2RQMmJxaXZmeXo1MkJ4ckczRTZqQU5xQ1o3TU9NSVhxQ0FpLWlvcGJBSm1Pc1Z5OEZGYWFrM0xNWlpQYkFGRFFoSzlpLWtvYXNUeDM1QWxBbC1WN1VHZU840gHDAUFVX3lxTE94YnZRQzVaNkxQTU1QSXF1WHhSNmUtcDFrRVpuOERZZjgwbUZfMXk5Q0lFdjNkSDExVFBCUkpTd3RBTFQyaTI1c1VLN3I0UmRKM3h2dzRWTlIzVHNhZXROWHBWcW9zaXVrTmlFNmppRlNZRjNhcFBCOU94Vm4wb3RCV3RjOXV3Z1RXM2g4cmc1Zi0yeFRaTVpqM0hBTWFkenRNc3E5N3B5Qmx5U0ZLVzRfalZYV0dCbnhCTURfa09FZzVqbw?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Georgia PSC approves lower Georgia Power rates, saving customers about $4 a month Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUdxenlOcmZORWFoMGJjNFN1VWoyVDJkNzV1V1ljMkt5MTl4UlBwWkRMelVMWW11VjJ4amVCZUZUbllQSVMwU1dlbEJzbGFxcUtJV1huR2RQMmJxaXZmeXo1MkJ4ckczRTZqQU5xQ1o3TU9NSVhxQ0FpLWlvcGJBSm1Pc1Z5OEZGYWFrM0xNWlpQYkFGRFFoSzlpLWtvYXNUeDM1QWxBbC1WN1VHZU840gHDAUFVX3lxTE94YnZRQzVaNkxQTU1QSXF1WHhSNmUtcDFrRVpuOERZZjgwbUZfMXk5Q0lFdjNkSDExVFBCUkpTd3RBTFQyaTI1c1VLN3I0UmRKM3h2dzRWTlIzVHNhZXROWHBWcW9zaXVrTmlFNmppRlNZRjNhcFBCOU94Vm4wb3RCV3RjOXV3Z1RXM2g4cmc1Zi0yeFRaTVpqM0hBTWFkenRNc3E5N3B5Qmx5U0ZLVzRfalZYV0dCbnhCTURfa09FZzVqbw?oc=5\" target=\"_blank\">Georgia PSC approves lower Georgia Power rates, saving customers about $4 a month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-11T13:55:30+00:00"
     },
     {
       "id": "0c358710ac78474b",

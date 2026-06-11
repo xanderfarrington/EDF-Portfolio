@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T08:39:39+00:00",
+  "last_updated": "2026-06-11T13:55:41+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -25,21 +25,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 24,
-      "new_mentions_this_run": 11,
+      "count": 28,
+      "new_mentions_this_run": 17,
       "latest_mention": {
-        "id": "be71b3a9bf218009",
-        "title": "Mobile Street to close for Alabama Power work - fox10tv.com",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95RENlZzdEVW5ZQTVFbEtieUo5b2hhVWtzU29OUTBHV2pmZzZXWW1EXzNsNWFwUTJvR1RsM0VCTGMxUlZ2TGF3cDBvSDVLZ3ZGVWNMa01ZdzRGNUdCRzhUeGJfTjF1N3JrR0tqN1RaS2dkRGFMU1BXNkNNbzJxQ0HSAZMBQVVfeXFMTWdYSzZ4d1BpdzFIQ1Z3cDV6UlVqbDM2MWFhYjZlZjZUb0xyWld1T05yVzBlbkZncUdlUHo4S3NDRFRHcERGRVd6UTlDa0lWWnlmbWVVdktsMi1ma3liNkxfYnE2ZzBfYWRRbEVuSjVDYnJ1SHM4em5aNUhReS1EYTFqNXNWTFBMS1lxWGlaTHRfeUJr?oc=5",
+        "id": "3e2b90ad034598e5",
+        "title": "Alabama Power Gives Warning Over Upcoming Rain Impact Forest Game (DXqgWEY6CJ) - Fathom Journal",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DZUd5VHdyOGdzc25uTmtNT3pjUGpUSGJjX1h5TzMydU9zUWthSWNQSkJxa09lZDJXYmlicXJBWWRFMWl1dmpPS3YtMkNzTjVHU3ZSRzJvNmpUNmZ2UnJuTFVsMEg?oc=5",
         "domain": "news.google.com",
-        "source": "fox10tv.com",
+        "source": "Fathom Journal",
         "language": "English",
-        "published_at": "2026-06-10T23:24:00+00:00",
-        "summary": "Mobile Street to close for Alabama Power work fox10tv.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE95RENlZzdEVW5ZQTVFbEtieUo5b2hhVWtzU29OUTBHV2pmZzZXWW1EXzNsNWFwUTJvR1RsM0VCTGMxUlZ2TGF3cDBvSDVLZ3ZGVWNMa01ZdzRGNUdCRzhUeGJfTjF1N3JrR0tqN1RaS2dkRGFMU1BXNkNNbzJxQ0HSAZMBQVVfeXFMTWdYSzZ4d1BpdzFIQ1Z3cDV6UlVqbDM2MWFhYjZlZjZUb0xyWld1T05yVzBlbkZncUdlUHo4S3NDRFRHcERGRVd6UTlDa0lWWnlmbWVVdktsMi1ma3liNkxfYnE2ZzBfYWRRbEVuSjVDYnJ1SHM4em5aNUhReS1EYTFqNXNWTFBMS1lxWGlaTHRfeUJr?oc=5\" target=\"_blank\">Mobile Street to close for Alabama Power work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+        "published_at": "2026-06-11T12:07:28+00:00",
+        "summary": "Alabama Power Gives Warning Over Upcoming Rain Impact Forest Game (DXqgWEY6CJ) Fathom Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DZUd5VHdyOGdzc25uTmtNT3pjUGpUSGJjX1h5TzMydU9zUWthSWNQSkJxa09lZDJXYmlicXJBWWRFMWl1dmpPS3YtMkNzTjVHU3ZSRzJvNmpUNmZ2UnJuTFVsMEg?oc=5\" target=\"_blank\">Alabama Power Gives Warning Over Upcoming Rain Impact Forest Game (DXqgWEY6CJ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-11T02:59:22+00:00"
+        "collected_at": "2026-06-11T13:55:14+00:00"
       }
     },
     {
@@ -54,8 +54,8 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 29,
-      "new_mentions_this_run": 18,
+      "count": 30,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "b6508b7441d898f2",
         "title": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart - SightLine | U308",
@@ -75,21 +75,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 42,
-      "new_mentions_this_run": 24,
+      "count": 44,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "0e9a0929df71e62a",
-        "title": "Bowen Reichert Shoemaker Gives an Update on Georgia Power Projects - Middle Georgia CEO",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeUJGM1lQZkZaQ2tObDg1eHVnWDQ4M1RZM1MtYm1oRDNGdTZZZWdxV00xZE5KVUtFbF9EQ053clNPY0ZzaTlpWElGRTdwS095QmdMc1h1QlU2V1BscXJLSmJBa2Z1UmF6OExxYk5FTXBsRk5PQVVGdjVhdHUwTGdXZ0dCVWEwbnNFX2JpdFZ2VHFlUlZqQUJ2ck9GRV96SE9EV0ktZ3ptZw?oc=5",
+        "id": "5d80bee4d9e871b9",
+        "title": "Georgia Power to send smaller electricity bills - Hartwell Sun",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWZKZGVCbkNBdEpCcVRYVEdTTXE4RzlNRVNXeHN5WEZBX240VEtJbmllaXl1SVZFQkVLaXpXem9kbHI1bHo5T2NqRnFOVW9XTlpHZXhFVktvN2xFMWc1c1hqcmdPRFpNQmVENkY4WjhIR2Z6aXQ5cjdkbG5wUHdEbXZiYzMxNXc2Q1phXw?oc=5",
         "domain": "news.google.com",
-        "source": "Middle Georgia CEO",
+        "source": "Hartwell Sun",
         "language": "English",
-        "published_at": "2026-06-10T06:09:26+00:00",
-        "summary": "Bowen Reichert Shoemaker Gives an Update on Georgia Power Projects Middle Georgia CEO",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQeUJGM1lQZkZaQ2tObDg1eHVnWDQ4M1RZM1MtYm1oRDNGdTZZZWdxV00xZE5KVUtFbF9EQ053clNPY0ZzaTlpWElGRTdwS095QmdMc1h1QlU2V1BscXJLSmJBa2Z1UmF6OExxYk5FTXBsRk5PQVVGdjVhdHUwTGdXZ0dCVWEwbnNFX2JpdFZ2VHFlUlZqQUJ2ck9GRV96SE9EV0ktZ3ptZw?oc=5\" target=\"_blank\">Bowen Reichert Shoemaker Gives an Update on Georgia Power Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Middle Georgia CEO</font>",
+        "published_at": "2026-06-11T12:57:36+00:00",
+        "summary": "Georgia Power to send smaller electricity bills Hartwell Sun",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWZKZGVCbkNBdEpCcVRYVEdTTXE4RzlNRVNXeHN5WEZBX240VEtJbmllaXl1SVZFQkVLaXpXem9kbHI1bHo5T2NqRnFOVW9XTlpHZXhFVktvN2xFMWc1c1hqcmdPRFpNQmVENkY4WjhIR2Z6aXQ5cjdkbG5wUHdEbXZiYzMxNXc2Q1phXw?oc=5\" target=\"_blank\">Georgia Power to send smaller electricity bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hartwell Sun</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-10T08:03:09+00:00"
+        "collected_at": "2026-06-11T13:55:30+00:00"
       }
     },
     {
@@ -97,7 +97,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 7,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "40a8718d04d0cbe1",
         "title": "Gregory A. Beard - Department of Energy (.gov)",
