@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-11T20:14:24+00:00",
+  "last_updated": "2026-06-11T23:18:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 44,
+  "count": 45,
   "mentions": [
     {
       "id": "5d80bee4d9e871b9",
@@ -582,6 +582,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-10T23:21:53+00:00"
+    },
+    {
+      "id": "bb19631a8863a08c",
+      "title": "Georgia Power shares ways to cut summer energy bills - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2sxOTV6OS1SYUFfV1h6R21XTU1HVnFDbVNYNmI0WFVTRzFqTzZHUXpab1IyaUVFVWt2eDhxdkJIaGtNTk9Pd19HT1lrTnZtNWhCd2lUcjNtSGIwMGM0Q3RvdHBKZk5ucHl5WFlNREQ0SnBuVnQ2YW53ZkpLbXI5WWV6S3RhUUQxRGc?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-05-22T07:00:00+00:00",
+      "summary": "Georgia Power shares ways to cut summer energy bills WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2sxOTV6OS1SYUFfV1h6R21XTU1HVnFDbVNYNmI0WFVTRzFqTzZHUXpab1IyaUVFVWt2eDhxdkJIaGtNTk9Pd19HT1lrTnZtNWhCd2lUcjNtSGIwMGM0Q3RvdHBKZk5ucHl5WFlNREQ0SnBuVnQ2YW53ZkpLbXI5WWV6S3RhUUQxRGc?oc=5\" target=\"_blank\">Georgia Power shares ways to cut summer energy bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-11T23:18:01+00:00"
     },
     {
       "id": "abbd862e94a6a8b7",

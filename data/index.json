@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T20:14:34+00:00",
+  "last_updated": "2026-06-11T23:18:11+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -25,21 +25,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 30,
-      "new_mentions_this_run": 9,
+      "count": 33,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "3e2b90ad034598e5",
-        "title": "Alabama Power Gives Warning Over Upcoming Rain Impact Forest Game (DXqgWEY6CJ) - Fathom Journal",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DZUd5VHdyOGdzc25uTmtNT3pjUGpUSGJjX1h5TzMydU9zUWthSWNQSkJxa09lZDJXYmlicXJBWWRFMWl1dmpPS3YtMkNzTjVHU3ZSRzJvNmpUNmZ2UnJuTFVsMEg?oc=5",
+        "id": "eae00d801e3722b8",
+        "title": "Alabama Power Customers To Receive A $25 Credit This Month Landman (DQZuMpFUii) - Fathom Journal",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fajJpS2trMWR4R0FvUFFhTHRWQ0dUS01fRzZ4bnh3SFVaWU5ubWVSNTVDUXpvcG1jSnFVb2gzR3hnZnRlQnh3N2s1WjJ0NHZ6NExSMXBmellrQ0JSbUs5cl82MnI?oc=5",
         "domain": "news.google.com",
         "source": "Fathom Journal",
         "language": "English",
-        "published_at": "2026-06-11T12:07:28+00:00",
-        "summary": "Alabama Power Gives Warning Over Upcoming Rain Impact Forest Game (DXqgWEY6CJ) Fathom Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DZUd5VHdyOGdzc25uTmtNT3pjUGpUSGJjX1h5TzMydU9zUWthSWNQSkJxa09lZDJXYmlicXJBWWRFMWl1dmpPS3YtMkNzTjVHU3ZSRzJvNmpUNmZ2UnJuTFVsMEg?oc=5\" target=\"_blank\">Alabama Power Gives Warning Over Upcoming Rain Impact Forest Game (DXqgWEY6CJ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+        "published_at": "2026-06-11T17:10:18+00:00",
+        "summary": "Alabama Power Customers To Receive A $25 Credit This Month Landman (DQZuMpFUii) Fathom Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fajJpS2trMWR4R0FvUFFhTHRWQ0dUS01fRzZ4bnh3SFVaWU5ubWVSNTVDUXpvcG1jSnFVb2gzR3hnZnRlQnh3N2s1WjJ0NHZ6NExSMXBmellrQ0JSbUs5cl82MnI?oc=5\" target=\"_blank\">Alabama Power Customers To Receive A $25 Credit This Month Landman (DQZuMpFUii)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-11T13:55:14+00:00"
+        "collected_at": "2026-06-11T23:17:44+00:00"
       }
     },
     {
@@ -75,7 +75,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 44,
+      "count": 45,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "5d80bee4d9e871b9",
