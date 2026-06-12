@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-12T12:52:14+00:00",
+  "last_updated": "2026-06-12T16:41:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 46,
+  "count": 47,
   "mentions": [
     {
       "id": "9534a88dda496ff3",
@@ -260,6 +260,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T18:29:04+00:00"
+    },
+    {
+      "id": "99725cc9fe3528d8",
+      "title": "Georgia PSC approves Georgia Power plan to cut customer bills - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORW9rckE3cXhLcEtObzZadDdnb2xnaDIzdEYwczV2YU5ZT1I2TVY0eThzcHZTSGZlVnFzaU9qRDlPamprRTRHYmZmejhVQ0E1dml4bUF5OEpVSTJLbXNHVjZWNnZJbVpjOG0zMzMyejVIZVhkSEtyTTQxS3laUFM4RUp1NXRBV2xIcGpjMG8tZHZsZzhuRmd4NlE1Nm1lX1NNYzlneUJkdw?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-06-01T15:51:57+00:00",
+      "summary": "Georgia PSC approves Georgia Power plan to cut customer bills Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORW9rckE3cXhLcEtObzZadDdnb2xnaDIzdEYwczV2YU5ZT1I2TVY0eThzcHZTSGZlVnFzaU9qRDlPamprRTRHYmZmejhVQ0E1dml4bUF5OEpVSTJLbXNHVjZWNnZJbVpjOG0zMzMyejVIZVhkSEtyTTQxS3laUFM4RUp1NXRBV2xIcGpjMG8tZHZsZzhuRmd4NlE1Nm1lX1NNYzlneUJkdw?oc=5\" target=\"_blank\">Georgia PSC approves Georgia Power plan to cut customer bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-12T16:41:01+00:00"
     },
     {
       "id": "bb31d761529761fa",

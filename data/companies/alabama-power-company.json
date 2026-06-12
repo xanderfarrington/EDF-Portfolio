@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-12T12:51:57+00:00",
+  "last_updated": "2026-06-12T16:40:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 38,
+  "count": 41,
   "mentions": [
+    {
+      "id": "423656bb21546d2c",
+      "title": "Alabama Power has designed a new tool to help customers find the right balance between comfort and savings. - WVTM",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSTdvS0xtUnVkYXRCT0x4T3lBdjVYZjU2ZmZsZTY0WE5tWFhQTEJ5ZGllRFBQMERYRkJZT3o4Z1RheFRIQ3ctWGtFblo4VkpDWnVGMElSUEtlUXRRVDQ5SDVNZVhONVM4NWtpdEk1QjhiOXJqSDdaVWd6Y1BkNTRVYzJlREdRQjFpVjVEWlQwQ0RFd0VaY28xcFdocEE1TWhzQXF3OFNBdWtTR0kyT0F6VFdsc0Y4T29WT0dUdkxtWUNDa0lwY3RWdE4wdFgzNnZwYktZYg?oc=5",
+      "domain": "news.google.com",
+      "source": "WVTM",
+      "language": "English",
+      "published_at": "2026-06-12T13:26:00+00:00",
+      "summary": "Alabama Power has designed a new tool to help customers find the right balance between comfort and savings. WVTM",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSTdvS0xtUnVkYXRCT0x4T3lBdjVYZjU2ZmZsZTY0WE5tWFhQTEJ5ZGllRFBQMERYRkJZT3o4Z1RheFRIQ3ctWGtFblo4VkpDWnVGMElSUEtlUXRRVDQ5SDVNZVhONVM4NWtpdEk1QjhiOXJqSDdaVWd6Y1BkNTRVYzJlREdRQjFpVjVEWlQwQ0RFd0VaY28xcFdocEE1TWhzQXF3OFNBdWtTR0kyT0F6VFdsc0Y4T29WT0dUdkxtWUNDa0lwY3RWdE4wdFgzNnZwYktZYg?oc=5\" target=\"_blank\">Alabama Power has designed a new tool to help customers find the right balance between comfort and savings.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-12T16:40:45+00:00"
+    },
     {
       "id": "9197acf2c67baad4",
       "title": "A new Alabama Power tool could help you save money on your electricity bill this summer and winter - WVTM",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-12T12:51:57+00:00"
+    },
+    {
+      "id": "9f71ed2088675a04",
+      "title": "A new Alabama Power tool could help you save money on your electricity bill this summer and winter - WVTM",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcE5xVkVoREIxdmEzenZJNEhENUlXWlc0ckxZQVBBc1R4WDNUaWxjSURISmZoZGp3TnlwdFZ0MG1NQ050WjFyM1dKOV9uMGdSZGQtMWNTMGhGVy0xU3licjdoeGFjdUJjYnBxLVlmTlZfTUl5bVozRHgyV185dlhQYlBOeTYxSkp4OUVhRHJTU3p1SERJcWhjbkxnQUZQMElXUmNHQVNJUXN3VzJ5UGNPdFIzdTZyNFVsaTh1c3lQVzlqcXgzOFZGSnBlSmhqNndRNHJr?oc=5",
+      "domain": "news.google.com",
+      "source": "WVTM",
+      "language": "English",
+      "published_at": "2026-06-12T11:39:00+00:00",
+      "summary": "A new Alabama Power tool could help you save money on your electricity bill this summer and winter WVTM",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcE5xVkVoREIxdmEzenZJNEhENUlXWlc0ckxZQVBBc1R4WDNUaWxjSURISmZoZGp3TnlwdFZ0MG1NQ050WjFyM1dKOV9uMGdSZGQtMWNTMGhGVy0xU3licjdoeGFjdUJjYnBxLVlmTlZfTUl5bVozRHgyV185dlhQYlBOeTYxSkp4OUVhRHJTU3p1SERJcWhjbkxnQUZQMElXUmNHQVNJUXN3VzJ5UGNPdFIzdTZyNFVsaTh1c3lQVzlqcXgzOFZGSnBlSmhqNndRNHJr?oc=5\" target=\"_blank\">A new Alabama Power tool could help you save money on your electricity bill this summer and winter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-12T16:40:45+00:00"
     },
     {
       "id": "6c9941d1a054a342",
@@ -215,6 +243,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-11T13:55:14+00:00"
+    },
+    {
+      "id": "ae11a39638c589ef",
+      "title": "Alabama Power Announces Rate Increase For 2023 Approved, Third Hike This Year Mls (ZiThYsadx8) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdHRjVVlBYlBnSjBqV2Q2RFdZX3dyNmZ5eEF1TGhWYkpUVWpzN0picHd2YkdkS1JUWXBKUmxzMGllaG11ajlyNmVUdWJPUWhqQndFRHFXRWZ6VlB2RkhQcW1WbWg?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-10T16:59:42+00:00",
+      "summary": "Alabama Power Announces Rate Increase For 2023 Approved, Third Hike This Year Mls (ZiThYsadx8) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdHRjVVlBYlBnSjBqV2Q2RFdZX3dyNmZ5eEF1TGhWYkpUVWpzN0picHd2YkdkS1JUWXBKUmxzMGllaG11ajlyNmVUdWJPUWhqQndFRHFXRWZ6VlB2RkhQcW1WbWg?oc=5\" target=\"_blank\">Alabama Power Announces Rate Increase For 2023 Approved, Third Hike This Year Mls (ZiThYsadx8)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-12T16:40:45+00:00"
     },
     {
       "id": "03c03589788e705e",
