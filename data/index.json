@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T20:02:15+00:00",
+  "last_updated": "2026-06-12T23:12:14+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -25,21 +25,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 41,
+      "count": 42,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "423656bb21546d2c",
-        "title": "Alabama Power has designed a new tool to help customers find the right balance between comfort and savings. - WVTM",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSTdvS0xtUnVkYXRCT0x4T3lBdjVYZjU2ZmZsZTY0WE5tWFhQTEJ5ZGllRFBQMERYRkJZT3o4Z1RheFRIQ3ctWGtFblo4VkpDWnVGMElSUEtlUXRRVDQ5SDVNZVhONVM4NWtpdEk1QjhiOXJqSDdaVWd6Y1BkNTRVYzJlREdRQjFpVjVEWlQwQ0RFd0VaY28xcFdocEE1TWhzQXF3OFNBdWtTR0kyT0F6VFdsc0Y4T29WT0dUdkxtWUNDa0lwY3RWdE4wdFgzNnZwYktZYg?oc=5",
+        "id": "796dc6ce301e22a5",
+        "title": "Alabama Power Certified Dealer Holds 4.9 Stars After 20+ Years - Carroll County Mirror-Democrat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3dNaTRqd0s3aGtxbVRLX1gyR2lqamw4dWtkQWNtclNJai1EYkttU25Lb3ktek93WVlvcWN2TEh5NXlIX2ZpZDlyOGNZeUFJTjVQckJ3bU1rcTRlaFVFRWdyR09Pd0VBN20tdUhnVGkwNzJySHFpS2VOQkdBT1Q4eWZLSzUyQjJOQVpmY0x1VXBXc1JzUGNJUnZOVkpfMHB4b1FfS3lYSV9XZ0RBUEFhSGJ1RkVNRGc?oc=5",
         "domain": "news.google.com",
-        "source": "WVTM",
+        "source": "Carroll County Mirror-Democrat",
         "language": "English",
-        "published_at": "2026-06-12T13:26:00+00:00",
-        "summary": "Alabama Power has designed a new tool to help customers find the right balance between comfort and savings. WVTM",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSTdvS0xtUnVkYXRCT0x4T3lBdjVYZjU2ZmZsZTY0WE5tWFhQTEJ5ZGllRFBQMERYRkJZT3o4Z1RheFRIQ3ctWGtFblo4VkpDWnVGMElSUEtlUXRRVDQ5SDVNZVhONVM4NWtpdEk1QjhiOXJqSDdaVWd6Y1BkNTRVYzJlREdRQjFpVjVEWlQwQ0RFd0VaY28xcFdocEE1TWhzQXF3OFNBdWtTR0kyT0F6VFdsc0Y4T29WT0dUdkxtWUNDa0lwY3RWdE4wdFgzNnZwYktZYg?oc=5\" target=\"_blank\">Alabama Power has designed a new tool to help customers find the right balance between comfort and savings.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+        "published_at": "2026-06-12T19:25:01+00:00",
+        "summary": "Alabama Power Certified Dealer Holds 4.9 Stars After 20+ Years Carroll County Mirror-Democrat",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3dNaTRqd0s3aGtxbVRLX1gyR2lqamw4dWtkQWNtclNJai1EYkttU25Lb3ktek93WVlvcWN2TEh5NXlIX2ZpZDlyOGNZeUFJTjVQckJ3bU1rcTRlaFVFRWdyR09Pd0VBN20tdUhnVGkwNzJySHFpS2VOQkdBT1Q4eWZLSzUyQjJOQVpmY0x1VXBXc1JzUGNJUnZOVkpfMHB4b1FfS3lYSV9XZ0RBUEFhSGJ1RkVNRGc?oc=5\" target=\"_blank\">Alabama Power Certified Dealer Holds 4.9 Stars After 20+ Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carroll County Mirror-Democrat</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-12T16:40:45+00:00"
+        "collected_at": "2026-06-12T23:11:47+00:00"
       }
     },
     {
@@ -75,21 +75,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 47,
+      "count": 49,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "9534a88dda496ff3",
-        "title": "Georgia Power encourages customers to prepare for hurricane season - Lanier County News",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUHFfaExlT0lGd1NZRlJ0MnYzM1Q1bDJhbXhNRnFiZUxYQWM5TFJLTEZyVEpaeGFFYV9qdVk4N2RENmRjbjRTQWZPcGVfYmppaVhMWHQtUUZhNXRhUVhnc29VQ0Y1RVBKNFdOYk0wbTdlRnhMZVR6OGtqQmdhOFJXenZVdlJUa1RQM0drTXdVaTU0YWk0SktlU0JpTWhfRFl1TC1RZlVpdmJRcTJlZHQ1RHRnUEl2UGtD?oc=5",
+        "id": "fb4425d483d4cd36",
+        "title": "Texas Faces Georgia's Power in CWS Opener - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkw1Xzl6alBXbWF0M1RkZ0plUUdkTWYtNzhXeHdraUJMTkVFeFlEZHlaUVNUaDR2Sm1xMUNtTUNEZm9DTS1jQTRGXzNESXJORVZYWWlJazlKTEhSS09yNWdic213R25LaGRoLWVva1I0cFU3SVgxMjF1SWZRNnNMN0xXTVVyQQ?oc=5",
         "domain": "news.google.com",
-        "source": "Lanier County News",
+        "source": "Yahoo",
         "language": "English",
-        "published_at": "2026-06-12T05:01:25+00:00",
-        "summary": "Georgia Power encourages customers to prepare for hurricane season Lanier County News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUHFfaExlT0lGd1NZRlJ0MnYzM1Q1bDJhbXhNRnFiZUxYQWM5TFJLTEZyVEpaeGFFYV9qdVk4N2RENmRjbjRTQWZPcGVfYmppaVhMWHQtUUZhNXRhUVhnc29VQ0Y1RVBKNFdOYk0wbTdlRnhMZVR6OGtqQmdhOFJXenZVdlJUa1RQM0drTXdVaTU0YWk0SktlU0JpTWhfRFl1TC1RZlVpdmJRcTJlZHQ1RHRnUEl2UGtD?oc=5\" target=\"_blank\">Georgia Power encourages customers to prepare for hurricane season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lanier County News</font>",
+        "published_at": "2026-06-12T19:50:16+00:00",
+        "summary": "Texas Faces Georgia's Power in CWS Opener Yahoo",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkw1Xzl6alBXbWF0M1RkZ0plUUdkTWYtNzhXeHdraUJMTkVFeFlEZHlaUVNUaDR2Sm1xMUNtTUNEZm9DTS1jQTRGXzNESXJORVZYWWlJazlKTEhSS09yNWdic213R25LaGRoLWVva1I0cFU3SVgxMjF1SWZRNnNMN0xXTVVyQQ?oc=5\" target=\"_blank\">Texas Faces Georgia's Power in CWS Opener</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-12T08:19:40+00:00"
+        "collected_at": "2026-06-12T23:12:03+00:00"
       }
     },
     {
@@ -97,7 +97,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 7,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "40a8718d04d0cbe1",
         "title": "Gregory A. Beard - Department of Energy (.gov)",

@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-12T20:02:04+00:00",
+  "last_updated": "2026-06-12T23:12:03+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 47,
+  "count": 49,
   "mentions": [
+    {
+      "id": "fb4425d483d4cd36",
+      "title": "Texas Faces Georgia's Power in CWS Opener - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkw1Xzl6alBXbWF0M1RkZ0plUUdkTWYtNzhXeHdraUJMTkVFeFlEZHlaUVNUaDR2Sm1xMUNtTUNEZm9DTS1jQTRGXzNESXJORVZYWWlJazlKTEhSS09yNWdic213R25LaGRoLWVva1I0cFU3SVgxMjF1SWZRNnNMN0xXTVVyQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-06-12T19:50:16+00:00",
+      "summary": "Texas Faces Georgia's Power in CWS Opener Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkw1Xzl6alBXbWF0M1RkZ0plUUdkTWYtNzhXeHdraUJMTkVFeFlEZHlaUVNUaDR2Sm1xMUNtTUNEZm9DTS1jQTRGXzNESXJORVZYWWlJazlKTEhSS09yNWdic213R25LaGRoLWVva1I0cFU3SVgxMjF1SWZRNnNMN0xXTVVyQQ?oc=5\" target=\"_blank\">Texas Faces Georgia's Power in CWS Opener</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-12T23:12:03+00:00"
+    },
     {
       "id": "9534a88dda496ff3",
       "title": "Georgia Power encourages customers to prepare for hurricane season - Lanier County News",
@@ -555,6 +569,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-11T13:55:30+00:00"
+    },
+    {
+      "id": "39a6f3a624cd9949",
+      "title": "Georgia PSC approves plan to lower overall rates, deliver annual savings of $50 per year for Georgia Power residential customers - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOR0E5ekNBN0ozSWJzUFQ3SGFEb0R4bC1YLVpMNl9meC1TQ09UYlNjWE1oRHRKZGh5UlF4NWs5aEhKbDU2TGRENlBGWkdTVlpBdUpuaEZVbHVjOEhQSEwzX2tNOXJBbm1qRHBoejhYRUZpNnJoMDdNam0zTVhBWHZ0TUZqamtTbW1BeGtNbHRkcXNyckljU0ViRzNkQXQ0bE1FbEtqdkJkUmJOLV85VmhlNlBBcWk1NXhKbEdZU2lPRXQ0Nms3Nm9nbWk2eVQ1cHpPNDhTZ2JRWHgtSEtUcjBYWGdYemlZZGdnUXc5bE04NEx4YzcxSnV5RkF0VnVmam9jZ3MybjFScF9BbUZYaG9v?oc=5",
+      "domain": "news.google.com",
+      "source": "PR Newswire",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Georgia PSC approves plan to lower overall rates, deliver annual savings of $50 per year for Georgia Power residential customers PR Newswire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxOR0E5ekNBN0ozSWJzUFQ3SGFEb0R4bC1YLVpMNl9meC1TQ09UYlNjWE1oRHRKZGh5UlF4NWs5aEhKbDU2TGRENlBGWkdTVlpBdUpuaEZVbHVjOEhQSEwzX2tNOXJBbm1qRHBoejhYRUZpNnJoMDdNam0zTVhBWHZ0TUZqamtTbW1BeGtNbHRkcXNyckljU0ViRzNkQXQ0bE1FbEtqdkJkUmJOLV85VmhlNlBBcWk1NXhKbEdZU2lPRXQ0Nms3Nm9nbWk2eVQ1cHpPNDhTZ2JRWHgtSEtUcjBYWGdYemlZZGdnUXc5bE04NEx4YzcxSnV5RkF0VnVmam9jZ3MybjFScF9BbUZYaG9v?oc=5\" target=\"_blank\">Georgia PSC approves plan to lower overall rates, deliver annual savings of $50 per year for Georgia Power residential customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-12T23:12:03+00:00"
     },
     {
       "id": "0c358710ac78474b",
