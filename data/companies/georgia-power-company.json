@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-12T02:56:40+00:00",
+  "last_updated": "2026-06-12T08:19:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 45,
+  "count": 46,
   "mentions": [
+    {
+      "id": "9534a88dda496ff3",
+      "title": "Georgia Power encourages customers to prepare for hurricane season - Lanier County News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUHFfaExlT0lGd1NZRlJ0MnYzM1Q1bDJhbXhNRnFiZUxYQWM5TFJLTEZyVEpaeGFFYV9qdVk4N2RENmRjbjRTQWZPcGVfYmppaVhMWHQtUUZhNXRhUVhnc29VQ0Y1RVBKNFdOYk0wbTdlRnhMZVR6OGtqQmdhOFJXenZVdlJUa1RQM0drTXdVaTU0YWk0SktlU0JpTWhfRFl1TC1RZlVpdmJRcTJlZHQ1RHRnUEl2UGtD?oc=5",
+      "domain": "news.google.com",
+      "source": "Lanier County News",
+      "language": "English",
+      "published_at": "2026-06-12T05:01:25+00:00",
+      "summary": "Georgia Power encourages customers to prepare for hurricane season Lanier County News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUHFfaExlT0lGd1NZRlJ0MnYzM1Q1bDJhbXhNRnFiZUxYQWM5TFJLTEZyVEpaeGFFYV9qdVk4N2RENmRjbjRTQWZPcGVfYmppaVhMWHQtUUZhNXRhUVhnc29VQ0Y1RVBKNFdOYk0wbTdlRnhMZVR6OGtqQmdhOFJXenZVdlJUa1RQM0drTXdVaTU0YWk0SktlU0JpTWhfRFl1TC1RZlVpdmJRcTJlZHQ1RHRnUEl2UGtD?oc=5\" target=\"_blank\">Georgia Power encourages customers to prepare for hurricane season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lanier County News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-12T08:19:40+00:00"
+    },
     {
       "id": "5d80bee4d9e871b9",
       "title": "Georgia Power to send smaller electricity bills - Hartwell Sun",

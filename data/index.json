@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-12T02:56:50+00:00",
+  "last_updated": "2026-06-12T08:19:51+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 29,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "3605ab041135a7a1",
         "title": "A Look At American Electric Power Company (AEP) Valuation After OVEC Overhaul And Data Center Growth Plans - simplywall.st",
@@ -25,21 +25,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 33,
-      "new_mentions_this_run": 10,
+      "count": 36,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "eae00d801e3722b8",
-        "title": "Alabama Power Customers To Receive A $25 Credit This Month Landman (DQZuMpFUii) - Fathom Journal",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fajJpS2trMWR4R0FvUFFhTHRWQ0dUS01fRzZ4bnh3SFVaWU5ubWVSNTVDUXpvcG1jSnFVb2gzR3hnZnRlQnh3N2s1WjJ0NHZ6NExSMXBmellrQ0JSbUs5cl82MnI?oc=5",
+        "id": "6c9941d1a054a342",
+        "title": "Inaugural Grid Games Energy Hackathon Launched for Alabama High Schoolers - The Birmingham Times",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmpwNHg5SjB1RXp2MlYxNWVuaUJMM28tRURUUzdDTzUzLUpsR29ZTDdqQ3cyOEZEQUhHR3VfVmVZOGlyUzNsRXpjeGlMdGRMaF90em1YcmRsYXBiOFNIMnV2TTVTMzhRRGN0OURvZU51QTdLSlgzVmFYNXdHNjJ4SmdfOXFhS0JJb3lRYk1GazJDUzZxZEJsakhJU1JmaXgzRVFTZE9IWmtwajFnaFh4bHZwQ3Y?oc=5",
         "domain": "news.google.com",
-        "source": "Fathom Journal",
+        "source": "The Birmingham Times",
         "language": "English",
-        "published_at": "2026-06-11T17:10:18+00:00",
-        "summary": "Alabama Power Customers To Receive A $25 Credit This Month Landman (DQZuMpFUii) Fathom Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fajJpS2trMWR4R0FvUFFhTHRWQ0dUS01fRzZ4bnh3SFVaWU5ubWVSNTVDUXpvcG1jSnFVb2gzR3hnZnRlQnh3N2s1WjJ0NHZ6NExSMXBmellrQ0JSbUs5cl82MnI?oc=5\" target=\"_blank\">Alabama Power Customers To Receive A $25 Credit This Month Landman (DQZuMpFUii)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+        "published_at": "2026-06-12T03:48:08+00:00",
+        "summary": "Inaugural Grid Games Energy Hackathon Launched for Alabama High Schoolers The Birmingham Times",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmpwNHg5SjB1RXp2MlYxNWVuaUJMM28tRURUUzdDTzUzLUpsR29ZTDdqQ3cyOEZEQUhHR3VfVmVZOGlyUzNsRXpjeGlMdGRMaF90em1YcmRsYXBiOFNIMnV2TTVTMzhRRGN0OURvZU51QTdLSlgzVmFYNXdHNjJ4SmdfOXFhS0JJb3lRYk1GazJDUzZxZEJsakhJU1JmaXgzRVFTZE9IWmtwajFnaFh4bHZwQ3Y?oc=5\" target=\"_blank\">Inaugural Grid Games Energy Hackathon Launched for Alabama High Schoolers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Birmingham Times</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-11T23:17:44+00:00"
+        "collected_at": "2026-06-12T08:19:24+00:00"
       }
     },
     {
@@ -55,7 +55,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 31,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "b6508b7441d898f2",
         "title": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart - SightLine | U308",
@@ -75,21 +75,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 45,
+      "count": 46,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "5d80bee4d9e871b9",
-        "title": "Georgia Power to send smaller electricity bills - Hartwell Sun",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWZKZGVCbkNBdEpCcVRYVEdTTXE4RzlNRVNXeHN5WEZBX240VEtJbmllaXl1SVZFQkVLaXpXem9kbHI1bHo5T2NqRnFOVW9XTlpHZXhFVktvN2xFMWc1c1hqcmdPRFpNQmVENkY4WjhIR2Z6aXQ5cjdkbG5wUHdEbXZiYzMxNXc2Q1phXw?oc=5",
+        "id": "9534a88dda496ff3",
+        "title": "Georgia Power encourages customers to prepare for hurricane season - Lanier County News",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUHFfaExlT0lGd1NZRlJ0MnYzM1Q1bDJhbXhNRnFiZUxYQWM5TFJLTEZyVEpaeGFFYV9qdVk4N2RENmRjbjRTQWZPcGVfYmppaVhMWHQtUUZhNXRhUVhnc29VQ0Y1RVBKNFdOYk0wbTdlRnhMZVR6OGtqQmdhOFJXenZVdlJUa1RQM0drTXdVaTU0YWk0SktlU0JpTWhfRFl1TC1RZlVpdmJRcTJlZHQ1RHRnUEl2UGtD?oc=5",
         "domain": "news.google.com",
-        "source": "Hartwell Sun",
+        "source": "Lanier County News",
         "language": "English",
-        "published_at": "2026-06-11T12:57:36+00:00",
-        "summary": "Georgia Power to send smaller electricity bills Hartwell Sun",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWZKZGVCbkNBdEpCcVRYVEdTTXE4RzlNRVNXeHN5WEZBX240VEtJbmllaXl1SVZFQkVLaXpXem9kbHI1bHo5T2NqRnFOVW9XTlpHZXhFVktvN2xFMWc1c1hqcmdPRFpNQmVENkY4WjhIR2Z6aXQ5cjdkbG5wUHdEbXZiYzMxNXc2Q1phXw?oc=5\" target=\"_blank\">Georgia Power to send smaller electricity bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hartwell Sun</font>",
+        "published_at": "2026-06-12T05:01:25+00:00",
+        "summary": "Georgia Power encourages customers to prepare for hurricane season Lanier County News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUHFfaExlT0lGd1NZRlJ0MnYzM1Q1bDJhbXhNRnFiZUxYQWM5TFJLTEZyVEpaeGFFYV9qdVk4N2RENmRjbjRTQWZPcGVfYmppaVhMWHQtUUZhNXRhUVhnc29VQ0Y1RVBKNFdOYk0wbTdlRnhMZVR6OGtqQmdhOFJXenZVdlJUa1RQM0drTXdVaTU0YWk0SktlU0JpTWhfRFl1TC1RZlVpdmJRcTJlZHQ1RHRnUEl2UGtD?oc=5\" target=\"_blank\">Georgia Power encourages customers to prepare for hurricane season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lanier County News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-11T13:55:30+00:00"
+        "collected_at": "2026-06-12T08:19:40+00:00"
       }
     },
     {

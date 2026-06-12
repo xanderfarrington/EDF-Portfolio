@@ -2,10 +2,38 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-12T02:56:23+00:00",
+  "last_updated": "2026-06-12T08:19:24+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 33,
+  "count": 36,
   "mentions": [
+    {
+      "id": "6c9941d1a054a342",
+      "title": "Inaugural Grid Games Energy Hackathon Launched for Alabama High Schoolers - The Birmingham Times",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmpwNHg5SjB1RXp2MlYxNWVuaUJMM28tRURUUzdDTzUzLUpsR29ZTDdqQ3cyOEZEQUhHR3VfVmVZOGlyUzNsRXpjeGlMdGRMaF90em1YcmRsYXBiOFNIMnV2TTVTMzhRRGN0OURvZU51QTdLSlgzVmFYNXdHNjJ4SmdfOXFhS0JJb3lRYk1GazJDUzZxZEJsakhJU1JmaXgzRVFTZE9IWmtwajFnaFh4bHZwQ3Y?oc=5",
+      "domain": "news.google.com",
+      "source": "The Birmingham Times",
+      "language": "English",
+      "published_at": "2026-06-12T03:48:08+00:00",
+      "summary": "Inaugural Grid Games Energy Hackathon Launched for Alabama High Schoolers The Birmingham Times",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmpwNHg5SjB1RXp2MlYxNWVuaUJMM28tRURUUzdDTzUzLUpsR29ZTDdqQ3cyOEZEQUhHR3VfVmVZOGlyUzNsRXpjeGlMdGRMaF90em1YcmRsYXBiOFNIMnV2TTVTMzhRRGN0OURvZU51QTdLSlgzVmFYNXdHNjJ4SmdfOXFhS0JJb3lRYk1GazJDUzZxZEJsakhJU1JmaXgzRVFTZE9IWmtwajFnaFh4bHZwQ3Y?oc=5\" target=\"_blank\">Inaugural Grid Games Energy Hackathon Launched for Alabama High Schoolers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Birmingham Times</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-12T08:19:24+00:00"
+    },
+    {
+      "id": "a32446e6cc951bb4",
+      "title": "Federal appeals court revives Mobile Baykeeper lawsuit against Alabama Power over coal ash - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZDRfcEpOemZQZzdVWTVFWXFibF90ejFGMGt4eUFXNnd3ZEJsZzVOYi1BMmdab3AyZk40dEoxbjRKQjdUWFNmbzAtN3o1aEVGQk4tMmx3dXZ1T3g2SDR2RzJBdzZFMU96dlA4QWFBMVVpVTBEODZPVzhtS2h0VGw1S0FkQ1pMYkNrQThzMkd1eGQwQUdOUWI1RUxVYXktYUM1SERLbUh0NzB6RjlMOEctRjlpbmxBaGNRQ3pmaTJsN3BPVndwV05FSXo4eXBScnRuMk8tLXdNZHFEeTdwcjlrQUlVSDVvZFhjZVE?oc=5",
+      "domain": "news.google.com",
+      "source": "MSN",
+      "language": "English",
+      "published_at": "2026-06-11T20:23:34+00:00",
+      "summary": "Federal appeals court revives Mobile Baykeeper lawsuit against Alabama Power over coal ash MSN",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZDRfcEpOemZQZzdVWTVFWXFibF90ejFGMGt4eUFXNnd3ZEJsZzVOYi1BMmdab3AyZk40dEoxbjRKQjdUWFNmbzAtN3o1aEVGQk4tMmx3dXZ1T3g2SDR2RzJBdzZFMU96dlA4QWFBMVVpVTBEODZPVzhtS2h0VGw1S0FkQ1pMYkNrQThzMkd1eGQwQUdOUWI1RUxVYXktYUM1SERLbUh0NzB6RjlMOEctRjlpbmxBaGNRQ3pmaTJsN3BPVndwV05FSXo4eXBScnRuMk8tLXdNZHFEeTdwcjlrQUlVSDVvZFhjZVE?oc=5\" target=\"_blank\">Federal appeals court revives Mobile Baykeeper lawsuit against Alabama Power over coal ash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-12T08:19:24+00:00"
+    },
     {
       "id": "eae00d801e3722b8",
       "title": "Alabama Power Customers To Receive A $25 Credit This Month Landman (DQZuMpFUii) - Fathom Journal",
@@ -75,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-11T13:55:14+00:00"
+    },
+    {
+      "id": "d65fd36023aa16d5",
+      "title": "Jarvis Davis Is An Alabama Power Unsung Hero Royals Vs White Sox (aI2BMa1paJ) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kckNfX2RoTUxWNjUzU1NYVVlwaW9XQVpNaUh4cWxzVTBhaDhVbFZyNkxTZHYwWmhMQTNfZVNYSWhNVXNnb3VONGVYbFVLSGdveG1mdUZVaWRFMGtnQl9uSU1CNkY?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-11T01:20:04+00:00",
+      "summary": "Jarvis Davis Is An Alabama Power Unsung Hero Royals Vs White Sox (aI2BMa1paJ) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kckNfX2RoTUxWNjUzU1NYVVlwaW9XQVpNaUh4cWxzVTBhaDhVbFZyNkxTZHYwWmhMQTNfZVNYSWhNVXNnb3VONGVYbFVLSGdveG1mdUZVaWRFMGtnQl9uSU1CNkY?oc=5\" target=\"_blank\">Jarvis Davis Is An Alabama Power Unsung Hero Royals Vs White Sox (aI2BMa1paJ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-12T08:19:24+00:00"
     },
     {
       "id": "8de0f13d555d6f50",
