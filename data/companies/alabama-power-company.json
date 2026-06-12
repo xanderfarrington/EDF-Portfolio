@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-12T08:19:24+00:00",
+  "last_updated": "2026-06-12T12:51:57+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 36,
+  "count": 38,
   "mentions": [
+    {
+      "id": "9197acf2c67baad4",
+      "title": "A new Alabama Power tool could help you save money on your electricity bill this summer and winter - WVTM",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSTdvS0xtUnVkYXRCT0x4T3lBdjVYZjU2ZmZsZTY0WE5tWFhQTEJ5ZGllRFBQMERYRkJZT3o4Z1RheFRIQ3ctWGtFblo4VkpDWnVGMElSUEtlUXRRVDQ5SDVNZVhONVM4NWtpdEk1QjhiOXJqSDdaVWd6Y1BkNTRVYzJlREdRQjFpVjVEWlQwQ0RFd0VaY28xcFdocEE1TWhzQXF3OFNBdWtTR0kyT0F6VFdsc0Y4T29WT0dUdkxtWUNDa0lwY3RWdE4wdFgzNnZwYktZYg?oc=5",
+      "domain": "news.google.com",
+      "source": "WVTM",
+      "language": "English",
+      "published_at": "2026-06-12T11:39:00+00:00",
+      "summary": "A new Alabama Power tool could help you save money on your electricity bill this summer and winter WVTM",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSTdvS0xtUnVkYXRCT0x4T3lBdjVYZjU2ZmZsZTY0WE5tWFhQTEJ5ZGllRFBQMERYRkJZT3o4Z1RheFRIQ3ctWGtFblo4VkpDWnVGMElSUEtlUXRRVDQ5SDVNZVhONVM4NWtpdEk1QjhiOXJqSDdaVWd6Y1BkNTRVYzJlREdRQjFpVjVEWlQwQ0RFd0VaY28xcFdocEE1TWhzQXF3OFNBdWtTR0kyT0F6VFdsc0Y4T29WT0dUdkxtWUNDa0lwY3RWdE4wdFgzNnZwYktZYg?oc=5\" target=\"_blank\">A new Alabama Power tool could help you save money on your electricity bill this summer and winter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-12T12:51:57+00:00"
+    },
     {
       "id": "6c9941d1a054a342",
       "title": "Inaugural Grid Games Energy Hackathon Launched for Alabama High Schoolers - The Birmingham Times",
@@ -89,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-11T13:55:14+00:00"
+    },
+    {
+      "id": "c959238b6c84171c",
+      "title": "Alabama Power - Freezing Rates Through 2027 Harry Hall (muty3VpKcI) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDc2RkanZSNGl0VDlWN1pMMkM0WXdIV2NrUXFuUm5KbEg0UVJWLWlhaU0tcWg4MndqbVZ4MzN4LThYMjJkczNlYWJ5SnFYQUxleDFpMmxhekY0MnB3OGs3Q0ZrV3k?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-11T09:10:02+00:00",
+      "summary": "Alabama Power - Freezing Rates Through 2027 Harry Hall (muty3VpKcI) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDc2RkanZSNGl0VDlWN1pMMkM0WXdIV2NrUXFuUm5KbEg0UVJWLWlhaU0tcWg4MndqbVZ4MzN4LThYMjJkczNlYWJ5SnFYQUxleDFpMmxhekY0MnB3OGs3Q0ZrV3k?oc=5\" target=\"_blank\">Alabama Power - Freezing Rates Through 2027 Harry Hall (muty3VpKcI)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-12T12:51:57+00:00"
     },
     {
       "id": "0c307991e843c8b6",

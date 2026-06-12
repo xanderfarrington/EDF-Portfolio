@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T08:19:51+00:00",
+  "last_updated": "2026-06-12T12:52:24+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -25,21 +25,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 36,
+      "count": 38,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "6c9941d1a054a342",
-        "title": "Inaugural Grid Games Energy Hackathon Launched for Alabama High Schoolers - The Birmingham Times",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmpwNHg5SjB1RXp2MlYxNWVuaUJMM28tRURUUzdDTzUzLUpsR29ZTDdqQ3cyOEZEQUhHR3VfVmVZOGlyUzNsRXpjeGlMdGRMaF90em1YcmRsYXBiOFNIMnV2TTVTMzhRRGN0OURvZU51QTdLSlgzVmFYNXdHNjJ4SmdfOXFhS0JJb3lRYk1GazJDUzZxZEJsakhJU1JmaXgzRVFTZE9IWmtwajFnaFh4bHZwQ3Y?oc=5",
+        "id": "9197acf2c67baad4",
+        "title": "A new Alabama Power tool could help you save money on your electricity bill this summer and winter - WVTM",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSTdvS0xtUnVkYXRCT0x4T3lBdjVYZjU2ZmZsZTY0WE5tWFhQTEJ5ZGllRFBQMERYRkJZT3o4Z1RheFRIQ3ctWGtFblo4VkpDWnVGMElSUEtlUXRRVDQ5SDVNZVhONVM4NWtpdEk1QjhiOXJqSDdaVWd6Y1BkNTRVYzJlREdRQjFpVjVEWlQwQ0RFd0VaY28xcFdocEE1TWhzQXF3OFNBdWtTR0kyT0F6VFdsc0Y4T29WT0dUdkxtWUNDa0lwY3RWdE4wdFgzNnZwYktZYg?oc=5",
         "domain": "news.google.com",
-        "source": "The Birmingham Times",
+        "source": "WVTM",
         "language": "English",
-        "published_at": "2026-06-12T03:48:08+00:00",
-        "summary": "Inaugural Grid Games Energy Hackathon Launched for Alabama High Schoolers The Birmingham Times",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmpwNHg5SjB1RXp2MlYxNWVuaUJMM28tRURUUzdDTzUzLUpsR29ZTDdqQ3cyOEZEQUhHR3VfVmVZOGlyUzNsRXpjeGlMdGRMaF90em1YcmRsYXBiOFNIMnV2TTVTMzhRRGN0OURvZU51QTdLSlgzVmFYNXdHNjJ4SmdfOXFhS0JJb3lRYk1GazJDUzZxZEJsakhJU1JmaXgzRVFTZE9IWmtwajFnaFh4bHZwQ3Y?oc=5\" target=\"_blank\">Inaugural Grid Games Energy Hackathon Launched for Alabama High Schoolers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Birmingham Times</font>",
+        "published_at": "2026-06-12T11:39:00+00:00",
+        "summary": "A new Alabama Power tool could help you save money on your electricity bill this summer and winter WVTM",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSTdvS0xtUnVkYXRCT0x4T3lBdjVYZjU2ZmZsZTY0WE5tWFhQTEJ5ZGllRFBQMERYRkJZT3o4Z1RheFRIQ3ctWGtFblo4VkpDWnVGMElSUEtlUXRRVDQ5SDVNZVhONVM4NWtpdEk1QjhiOXJqSDdaVWd6Y1BkNTRVYzJlREdRQjFpVjVEWlQwQ0RFd0VaY28xcFdocEE1TWhzQXF3OFNBdWtTR0kyT0F6VFdsc0Y4T29WT0dUdkxtWUNDa0lwY3RWdE4wdFgzNnZwYktZYg?oc=5\" target=\"_blank\">A new Alabama Power tool could help you save money on your electricity bill this summer and winter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-12T08:19:24+00:00"
+        "collected_at": "2026-06-12T12:51:57+00:00"
       }
     },
     {
@@ -55,7 +55,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 31,
-      "new_mentions_this_run": 20,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "b6508b7441d898f2",
         "title": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart - SightLine | U308",
