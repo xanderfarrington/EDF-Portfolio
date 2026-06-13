@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-13T13:46:35+00:00",
+  "last_updated": "2026-06-13T15:28:28+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 42,
+  "count": 43,
   "mentions": [
     {
       "id": "796dc6ce301e22a5",
@@ -103,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-11T23:17:44+00:00"
+    },
+    {
+      "id": "ec1aba7d77e4cc6b",
+      "title": "Alabama Power Preparing Crews: Calhoun County Igor Thiago (IbGDt4UXaS) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0RVowUlFSMmRtdW5TcDZuWUxmeXNrVWptQWZoSXFWNXp4SWNrYWhOcHVadE9fYklZWF9mZUNKV2dteXhsMVM3anFCeVZ6NldoTzgxY1lNY196YVk3YkJyTVlmQkc?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-11T15:51:38+00:00",
+      "summary": "Alabama Power Preparing Crews: Calhoun County Igor Thiago (IbGDt4UXaS) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0RVowUlFSMmRtdW5TcDZuWUxmeXNrVWptQWZoSXFWNXp4SWNrYWhOcHVadE9fYklZWF9mZUNKV2dteXhsMVM3anFCeVZ6NldoTzgxY1lNY196YVk3YkJyTVlmQkc?oc=5\" target=\"_blank\">Alabama Power Preparing Crews: Calhoun County Igor Thiago (IbGDt4UXaS)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-13T15:28:28+00:00"
     },
     {
       "id": "f94734336bb051e3",
