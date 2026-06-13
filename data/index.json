@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T17:17:23+00:00",
+  "last_updated": "2026-06-13T19:16:36+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -25,8 +25,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 43,
-      "new_mentions_this_run": 25,
+      "count": 45,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "796dc6ce301e22a5",
         "title": "Alabama Power Certified Dealer Holds 4.9 Stars After 20+ Years - Carroll County Mirror-Democrat",
@@ -54,7 +54,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 31,
+      "count": 32,
       "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "b6508b7441d898f2",
@@ -75,7 +75,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 49,
+      "count": 50,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "fb4425d483d4cd36",
@@ -97,7 +97,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 7,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "40a8718d04d0cbe1",
         "title": "Gregory A. Beard - Department of Energy (.gov)",

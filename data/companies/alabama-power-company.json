@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-13T17:16:56+00:00",
+  "last_updated": "2026-06-13T19:16:10+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 43,
+  "count": 45,
   "mentions": [
     {
       "id": "796dc6ce301e22a5",
@@ -554,6 +554,20 @@
       "collected_at": "2026-06-09T16:52:18+00:00"
     },
     {
+      "id": "350bad3fac2a1cff",
+      "title": "Alabama coal ash lawsuit can continue, appeals court rules - News From The States",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdW5Pd00wZ3I0bnFnWjlVdG9sWkZFTnA3Zi1WdlNBTGhPMmxmR1BCbTJGV1pra3hpU2M3LW1mcm9oc05CY09lT2VHTEFzSUxsQmxZMU81elVGYWdaX2Ewd1E2U0ZrSDZ5LWdLYkZCXzhTVE1UT25xTWR5NmxOVXR4eGZudEUwdFpCRkVXRXpMN1Bua2lpcGJqekllaVpJNUxJ?oc=5",
+      "domain": "news.google.com",
+      "source": "News From The States",
+      "language": "English",
+      "published_at": "2026-05-24T07:00:00+00:00",
+      "summary": "Alabama coal ash lawsuit can continue, appeals court rules News From The States",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdW5Pd00wZ3I0bnFnWjlVdG9sWkZFTnA3Zi1WdlNBTGhPMmxmR1BCbTJGV1pra3hpU2M3LW1mcm9oc05CY09lT2VHTEFzSUxsQmxZMU81elVGYWdaX2Ewd1E2U0ZrSDZ5LWdLYkZCXzhTVE1UT25xTWR5NmxOVXR4eGZudEUwdFpCRkVXRXpMN1Bua2lpcGJqekllaVpJNUxJ?oc=5\" target=\"_blank\">Alabama coal ash lawsuit can continue, appeals court rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News From The States</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-13T19:16:10+00:00"
+    },
+    {
       "id": "02c0449c5885f18a",
       "title": "Alabama Coal Ash Lawsuit Can Continue, Appeals Court Rules - Inside Climate News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVVHZ2ExdFhCTW9GRGNXVDJCam5rY1ZmbXVzVzZFMkpGZFRuTURuT1RuVEUtSUh0Ym13dnBwSWFtRUl3RUxrUTl3RjI1RUppQnJTZUh2blFaVEdpODdZakVGS1FMS0poZGwyUE1VTTlHbmREVFNiVjBVRG1TT09YLQ?oc=5",
@@ -591,6 +605,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:18+00:00"
+    },
+    {
+      "id": "30ab029db435216b",
+      "title": "Mobile group’s coal ash lawsuit against Alabama Power can move forward, court rules - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQl9EaXRRekxHVFJ5QmJhSVdSM0xBWU9zeDBFcWhyWG1fZTBiZkFzWkI1c3gyb0dDREs5WWhQdXlxeE9ZQXFuSWJMSWJJeWxLX2pjb3hBZ1Q2OFh2SjkzbUdiaEhpWnFIRFc3OUVaZVFQMkJGVDlDdV9jeEc1WU1pVDMwYTdWdGhDY1A2SjlUN05QdGJadnVvQ1c1TzBsN2tMWEw1MEJOVFlxTnpFSTNGNUtLSjZCNVpjdzJTdnhHcnRMdWVf?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-05-18T07:00:00+00:00",
+      "summary": "Mobile group’s coal ash lawsuit against Alabama Power can move forward, court rules AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNQl9EaXRRekxHVFJ5QmJhSVdSM0xBWU9zeDBFcWhyWG1fZTBiZkFzWkI1c3gyb0dDREs5WWhQdXlxeE9ZQXFuSWJMSWJJeWxLX2pjb3hBZ1Q2OFh2SjkzbUdiaEhpWnFIRFc3OUVaZVFQMkJGVDlDdV9jeEc1WU1pVDMwYTdWdGhDY1A2SjlUN05QdGJadnVvQ1c1TzBsN2tMWEw1MEJOVFlxTnpFSTNGNUtLSjZCNVpjdzJTdnhHcnRMdWVf?oc=5\" target=\"_blank\">Mobile group’s coal ash lawsuit against Alabama Power can move forward, court rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-13T19:16:10+00:00"
     }
   ]
 }

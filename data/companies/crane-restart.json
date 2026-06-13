@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-13T17:17:07+00:00",
+  "last_updated": "2026-06-13T19:16:21+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 31,
+  "count": 32,
   "mentions": [
     {
       "id": "b6508b7441d898f2",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-10T20:22:44+00:00"
+    },
+    {
+      "id": "b8df4a19be332bbe",
+      "title": "NRC issues preliminary EA/FONSI for Crane restart - American Nuclear Society -- ANS",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXZyLVNTRWNkbTcwelZ1ZnRzSW1PbElNdWRkaGgyb1dKVkFnZDh4Mzdfb0RXNk1tOTVvZXZidThPWmpaUGpJdUp1cl9oQndMTkRqTjF5QjJZd1dxN3Y0YU9XOXVLZERiZDI4WGJjWGluU014d0xTN1BYSkx0WTVIWWV6MXgwcmhGSW5wdW5HSDdaVTA3ZDlJamVEQXo3LUE?oc=5",
+      "domain": "news.google.com",
+      "source": "American Nuclear Society -- ANS",
+      "language": "English",
+      "published_at": "2026-06-10T03:16:55+00:00",
+      "summary": "NRC issues preliminary EA/FONSI for Crane restart American Nuclear Society -- ANS",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXZyLVNTRWNkbTcwelZ1ZnRzSW1PbElNdWRkaGgyb1dKVkFnZDh4Mzdfb0RXNk1tOTVvZXZidThPWmpaUGpJdUp1cl9oQndMTkRqTjF5QjJZd1dxN3Y0YU9XOXVLZERiZDI4WGJjWGluU014d0xTN1BYSkx0WTVIWWV6MXgwcmhGSW5wdW5HSDdaVTA3ZDlJamVEQXo3LUE?oc=5\" target=\"_blank\">NRC issues preliminary EA/FONSI for Crane restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society -- ANS</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-13T19:16:21+00:00"
     },
     {
       "id": "4df59d90a2f0b109",
