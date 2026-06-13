@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T07:42:01+00:00",
+  "last_updated": "2026-06-13T10:24:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 42,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 12,
       "latest_mention": {
         "id": "796dc6ce301e22a5",
         "title": "Alabama Power Certified Dealer Holds 4.9 Stars After 20+ Years - Carroll County Mirror-Democrat",
