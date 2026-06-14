@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-14T19:17:20+00:00",
+  "last_updated": "2026-06-14T21:04:44+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 50,
+  "count": 51,
   "mentions": [
+    {
+      "id": "6b98e712a0b9979a",
+      "title": "Power outage on Bass Road affects over 1,000 customers, Georgia Power says - 13WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGlCRzVUbjRpTmp5NVZiUTRjc2tQTVVIUjhTTlI5UlpIYVEzcFZHWWxCNjZNMGp2ejNXR25WOWw0VXp0MGV3bkZuSW5SaVkxLTVGU3JLUU5EZzgxTUZaM2dNWWp0MzBMeUgyeVVkd2pfMFhvS3FmamtJLWNkeHZ2c2Z4QXFWR0NBa1lhTDE5MFU0QV82d3NHcVo0eFhtTUZLNXF4LVFCX3BWWTZ4a0ZDVnZpNVQ2Ni1kekxqUkE0T082ZkNpa0p6RnNBaG0?oc=5",
+      "domain": "news.google.com",
+      "source": "13WMAZ",
+      "language": "English",
+      "published_at": "2026-06-14T20:55:00+00:00",
+      "summary": "Power outage on Bass Road affects over 1,000 customers, Georgia Power says 13WMAZ",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGlCRzVUbjRpTmp5NVZiUTRjc2tQTVVIUjhTTlI5UlpIYVEzcFZHWWxCNjZNMGp2ejNXR25WOWw0VXp0MGV3bkZuSW5SaVkxLTVGU3JLUU5EZzgxTUZaM2dNWWp0MzBMeUgyeVVkd2pfMFhvS3FmamtJLWNkeHZ2c2Z4QXFWR0NBa1lhTDE5MFU0QV82d3NHcVo0eFhtTUZLNXF4LVFCX3BWWTZ4a0ZDVnZpNVQ2Ni1kekxqUkE0T082ZkNpa0p6RnNBaG0?oc=5\" target=\"_blank\">Power outage on Bass Road affects over 1,000 customers, Georgia Power says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13WMAZ</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-14T21:04:44+00:00"
+    },
     {
       "id": "fb4425d483d4cd36",
       "title": "Texas Faces Georgia's Power in CWS Opener - Yahoo",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T19:17:30+00:00",
+  "last_updated": "2026-06-14T21:04:55+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 46,
-      "new_mentions_this_run": 13,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "796dc6ce301e22a5",
         "title": "Alabama Power Certified Dealer Holds 4.9 Stars After 20+ Years - Carroll County Mirror-Democrat",
@@ -75,21 +75,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 50,
+      "count": 51,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "fb4425d483d4cd36",
-        "title": "Texas Faces Georgia's Power in CWS Opener - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkw1Xzl6alBXbWF0M1RkZ0plUUdkTWYtNzhXeHdraUJMTkVFeFlEZHlaUVNUaDR2Sm1xMUNtTUNEZm9DTS1jQTRGXzNESXJORVZYWWlJazlKTEhSS09yNWdic213R25LaGRoLWVva1I0cFU3SVgxMjF1SWZRNnNMN0xXTVVyQQ?oc=5",
+        "id": "6b98e712a0b9979a",
+        "title": "Power outage on Bass Road affects over 1,000 customers, Georgia Power says - 13WMAZ",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGlCRzVUbjRpTmp5NVZiUTRjc2tQTVVIUjhTTlI5UlpIYVEzcFZHWWxCNjZNMGp2ejNXR25WOWw0VXp0MGV3bkZuSW5SaVkxLTVGU3JLUU5EZzgxTUZaM2dNWWp0MzBMeUgyeVVkd2pfMFhvS3FmamtJLWNkeHZ2c2Z4QXFWR0NBa1lhTDE5MFU0QV82d3NHcVo0eFhtTUZLNXF4LVFCX3BWWTZ4a0ZDVnZpNVQ2Ni1kekxqUkE0T082ZkNpa0p6RnNBaG0?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo",
+        "source": "13WMAZ",
         "language": "English",
-        "published_at": "2026-06-12T19:50:16+00:00",
-        "summary": "Texas Faces Georgia's Power in CWS Opener Yahoo",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkw1Xzl6alBXbWF0M1RkZ0plUUdkTWYtNzhXeHdraUJMTkVFeFlEZHlaUVNUaDR2Sm1xMUNtTUNEZm9DTS1jQTRGXzNESXJORVZYWWlJazlKTEhSS09yNWdic213R25LaGRoLWVva1I0cFU3SVgxMjF1SWZRNnNMN0xXTVVyQQ?oc=5\" target=\"_blank\">Texas Faces Georgia's Power in CWS Opener</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "published_at": "2026-06-14T20:55:00+00:00",
+        "summary": "Power outage on Bass Road affects over 1,000 customers, Georgia Power says 13WMAZ",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGlCRzVUbjRpTmp5NVZiUTRjc2tQTVVIUjhTTlI5UlpIYVEzcFZHWWxCNjZNMGp2ejNXR25WOWw0VXp0MGV3bkZuSW5SaVkxLTVGU3JLUU5EZzgxTUZaM2dNWWp0MzBMeUgyeVVkd2pfMFhvS3FmamtJLWNkeHZ2c2Z4QXFWR0NBa1lhTDE5MFU0QV82d3NHcVo0eFhtTUZLNXF4LVFCX3BWWTZ4a0ZDVnZpNVQ2Ni1kekxqUkE0T082ZkNpa0p6RnNBaG0?oc=5\" target=\"_blank\">Power outage on Bass Road affects over 1,000 customers, Georgia Power says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13WMAZ</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-12T23:12:03+00:00"
+        "collected_at": "2026-06-14T21:04:44+00:00"
       }
     },
     {
