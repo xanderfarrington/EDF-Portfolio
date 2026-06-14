@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T03:00:21+00:00",
+  "last_updated": "2026-06-14T08:12:01+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 45,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 14,
       "latest_mention": {
         "id": "796dc6ce301e22a5",
         "title": "Alabama Power Certified Dealer Holds 4.9 Stars After 20+ Years - Carroll County Mirror-Democrat",
@@ -55,7 +55,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 32,
-      "new_mentions_this_run": 15,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "b6508b7441d898f2",
         "title": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart - SightLine | U308",
@@ -76,7 +76,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 50,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "fb4425d483d4cd36",
         "title": "Texas Faces Georgia's Power in CWS Opener - Yahoo",
