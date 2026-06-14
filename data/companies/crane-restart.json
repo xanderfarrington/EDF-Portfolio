@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-14T13:49:33+00:00",
+  "last_updated": "2026-06-14T15:45:55+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 32,
+  "count": 33,
   "mentions": [
     {
       "id": "b6508b7441d898f2",
@@ -350,6 +350,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T17:56:45+00:00"
+    },
+    {
+      "id": "0c38ea66ac329013",
+      "title": "US regulator grants waiver for Three Mile Island restart - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm9vVDFRRVE3LXFJWHF0VW9KMXAwVnZVMGNBUTJVSW5BQXpRbGozT2h1U21EbHdnZGdtdVNINFByREcwSUkxSGVEcUtobXNJSko0Y1U2dUtSYjJpeEh2a1RuT0l2R3pVMm5FZlp4Z0JleEw0Wi1xZHpqRE1FS2pqZmVjTHVBajZlYzB1dVdtQml1eHcxcnlwWTV4c0FjUE4ydG03NWgwNGR0bjRISGc?oc=5",
+      "domain": "news.google.com",
+      "source": "marketscreener.com",
+      "language": "English",
+      "published_at": "2026-06-02T16:39:33+00:00",
+      "summary": "US regulator grants waiver for Three Mile Island restart marketscreener.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUm9vVDFRRVE3LXFJWHF0VW9KMXAwVnZVMGNBUTJVSW5BQXpRbGozT2h1U21EbHdnZGdtdVNINFByREcwSUkxSGVEcUtobXNJSko0Y1U2dUtSYjJpeEh2a1RuT0l2R3pVMm5FZlp4Z0JleEw0Wi1xZHpqRE1FS2pqZmVjTHVBajZlYzB1dVdtQml1eHcxcnlwWTV4c0FjUE4ydG03NWgwNGR0bjRISGc?oc=5\" target=\"_blank\">US regulator grants waiver for Three Mile Island restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-14T15:45:55+00:00"
     },
     {
       "id": "ab78863614e5df05",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T13:49:49+00:00",
+  "last_updated": "2026-06-14T15:46:11+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -54,7 +54,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 32,
+      "count": 33,
       "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "b6508b7441d898f2",
@@ -97,7 +97,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 7,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "40a8718d04d0cbe1",
         "title": "Gregory A. Beard - Department of Energy (.gov)",
