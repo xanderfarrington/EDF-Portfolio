@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-14T17:14:31+00:00",
+  "last_updated": "2026-06-14T19:17:03+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 45,
+  "count": 46,
   "mentions": [
     {
       "id": "796dc6ce301e22a5",
@@ -539,6 +539,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-10T02:49:53+00:00"
+    },
+    {
+      "id": "07518674942e5331",
+      "title": "Alabama Power launches new online tool to help customers track energy usage during summer heat - WSFA",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHlYRUliS2dReDNKY1dGLUhFQ1p1SXJxOVoyV1Vwa2dGa0JuTURQaC0wdDR1blNFOGZvQWI1a1JTOXZLaG1zMHFqZDBYek8xSEc1LTB4U0VjX3BiQzBDakRKV0NYYU5Qb0JZd1ljWFJwOEVTU19YNmxHOHVtNFdfc0pvVV9XTngxLUVUVm52Z25JMDhPUjQyS0hYdG1fakZrS1Vva092UWV5bXhKUTZ5MWxid2JsUlpjYzFqTWozWFdjUdIB1gFBVV95cUxPdFB0djJfOFZWY3IzUEp2dzF4Y05LZEdmejFwNGhrSHp6bjhzUTZfTzhVcG1HZjFTMVYxYXRTUWVvckpPenZJMnBGZUs3aW5ER2xiZFZqcVdhUEVpUDZ1ekV3SDllQ0otRkEzVVNwMFV4ZHRObWVCR016ZDczN0ltVUk2MFlrWnNPSW1US1B5ZDRoMk16NWtTeUtfZHNiNUtLdkpKVlRXSGswdTV2M3hIOGs0bWJnUFVucHZ1UzNlR1lPV3VobldfVTdCLUtudUhMdWl5VXR3?oc=5",
+      "domain": "news.google.com",
+      "source": "WSFA",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Alabama Power launches new online tool to help customers track energy usage during summer heat WSFA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHlYRUliS2dReDNKY1dGLUhFQ1p1SXJxOVoyV1Vwa2dGa0JuTURQaC0wdDR1blNFOGZvQWI1a1JTOXZLaG1zMHFqZDBYek8xSEc1LTB4U0VjX3BiQzBDakRKV0NYYU5Qb0JZd1ljWFJwOEVTU19YNmxHOHVtNFdfc0pvVV9XTngxLUVUVm52Z25JMDhPUjQyS0hYdG1fakZrS1Vva092UWV5bXhKUTZ5MWxid2JsUlpjYzFqTWozWFdjUdIB1gFBVV95cUxPdFB0djJfOFZWY3IzUEp2dzF4Y05LZEdmejFwNGhrSHp6bjhzUTZfTzhVcG1HZjFTMVYxYXRTUWVvckpPenZJMnBGZUs3aW5ER2xiZFZqcVdhUEVpUDZ1ekV3SDllQ0otRkEzVVNwMFV4ZHRObWVCR016ZDczN0ltVUk2MFlrWnNPSW1US1B5ZDRoMk16NWtTeUtfZHNiNUtLdkpKVlRXSGswdTV2M3hIOGs0bWJnUFVucHZ1UzNlR1lPV3VobldfVTdCLUtudUhMdWl5VXR3?oc=5\" target=\"_blank\">Alabama Power launches new online tool to help customers track energy usage during summer heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-14T19:17:03+00:00"
     },
     {
       "id": "45a7045fa434a3b6",
