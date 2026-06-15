@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-15T15:44:51+00:00",
+  "last_updated": "2026-06-15T19:41:55+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 33,
+  "count": 34,
   "mentions": [
     {
       "id": "b6508b7441d898f2",
@@ -285,6 +285,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:29+00:00"
+    },
+    {
+      "id": "6c4cb8351d91cda1",
+      "title": "Constellation secures FERC waiver for accelerated Three Mile Island restart - MSN",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa08wYUpDYkJsaDhXREtmNDVfY1J1S2R5aXhRRy1oaDNENUNKNjRKck9OQUR6ZUJXbEhOVEZJRllHU042Q2dldGFIbkxvZnEwcXhYSG1valBnekNpU0lBYWZuYzNzUDVWd2RtS3EwNXZRUm9nc1JCaTNFSFhEck1rWWs2aVRhLUtwaHZGaGlKVTY5bWlTU3ZoTlpQaFk3OUhEMUlJbUJYSXI1YWJldmQ3YkFzTXJPUkY3blF6dUZn?oc=5",
+      "domain": "news.google.com",
+      "source": "MSN",
+      "language": "English",
+      "published_at": "2026-06-02T22:03:35+00:00",
+      "summary": "Constellation secures FERC waiver for accelerated Three Mile Island restart MSN",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOa08wYUpDYkJsaDhXREtmNDVfY1J1S2R5aXhRRy1oaDNENUNKNjRKck9OQUR6ZUJXbEhOVEZJRllHU042Q2dldGFIbkxvZnEwcXhYSG1valBnekNpU0lBYWZuYzNzUDVWd2RtS3EwNXZRUm9nc1JCaTNFSFhEck1rWWs2aVRhLUtwaHZGaGlKVTY5bWlTU3ZoTlpQaFk3OUhEMUlJbUJYSXI1YWJldmQ3YkFzTXJPUkY3blF6dUZn?oc=5\" target=\"_blank\">Constellation secures FERC waiver for accelerated Three Mile Island restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-15T19:41:55+00:00"
     },
     {
       "id": "5cf7dd364b932039",
