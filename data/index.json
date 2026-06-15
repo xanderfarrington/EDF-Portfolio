@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T19:42:11+00:00",
+  "last_updated": "2026-06-15T22:14:01+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -25,21 +25,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 46,
-      "new_mentions_this_run": 12,
+      "count": 47,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "796dc6ce301e22a5",
-        "title": "Alabama Power Certified Dealer Holds 4.9 Stars After 20+ Years - Carroll County Mirror-Democrat",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3dNaTRqd0s3aGtxbVRLX1gyR2lqamw4dWtkQWNtclNJai1EYkttU25Lb3ktek93WVlvcWN2TEh5NXlIX2ZpZDlyOGNZeUFJTjVQckJ3bU1rcTRlaFVFRWdyR09Pd0VBN20tdUhnVGkwNzJySHFpS2VOQkdBT1Q4eWZLSzUyQjJOQVpmY0x1VXBXc1JzUGNJUnZOVkpfMHB4b1FfS3lYSV9XZ0RBUEFhSGJ1RkVNRGc?oc=5",
+        "id": "cc32d1c6c8be29cc",
+        "title": "Alabama Power Announces Bill Increase Beginning In December Bank Of Canada - Banque Du Canada (rizXLVwN3J) - Fathom Journal",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tSTgycUVWZjZ0c1NsUDg2SjVCZGJUc2l1YWYxNjB4Z2tUcW4tTllGczZ6NHJBWWdqYjZEcEM2eVA1bDZyRVk0aDliR0s3ZGxNY09EXzRjUVpCVmp5d1Q1clh4eTNxcHcyS2c?oc=5",
         "domain": "news.google.com",
-        "source": "Carroll County Mirror-Democrat",
+        "source": "Fathom Journal",
         "language": "English",
-        "published_at": "2026-06-12T19:25:01+00:00",
-        "summary": "Alabama Power Certified Dealer Holds 4.9 Stars After 20+ Years Carroll County Mirror-Democrat",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3dNaTRqd0s3aGtxbVRLX1gyR2lqamw4dWtkQWNtclNJai1EYkttU25Lb3ktek93WVlvcWN2TEh5NXlIX2ZpZDlyOGNZeUFJTjVQckJ3bU1rcTRlaFVFRWdyR09Pd0VBN20tdUhnVGkwNzJySHFpS2VOQkdBT1Q4eWZLSzUyQjJOQVpmY0x1VXBXc1JzUGNJUnZOVkpfMHB4b1FfS3lYSV9XZ0RBUEFhSGJ1RkVNRGc?oc=5\" target=\"_blank\">Alabama Power Certified Dealer Holds 4.9 Stars After 20+ Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carroll County Mirror-Democrat</font>",
+        "published_at": "2026-06-15T16:06:36+00:00",
+        "summary": "Alabama Power Announces Bill Increase Beginning In December Bank Of Canada - Banque Du Canada (rizXLVwN3J) Fathom Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8tSTgycUVWZjZ0c1NsUDg2SjVCZGJUc2l1YWYxNjB4Z2tUcW4tTllGczZ6NHJBWWdqYjZEcEM2eVA1bDZyRVk0aDliR0s3ZGxNY09EXzRjUVpCVmp5d1Q1clh4eTNxcHcyS2c?oc=5\" target=\"_blank\">Alabama Power Announces Bill Increase Beginning In December Bank Of Canada - Banque Du Canada (rizXLVwN3J)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-12T23:11:47+00:00"
+        "collected_at": "2026-06-15T22:13:34+00:00"
       }
     },
     {
@@ -88,21 +88,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 55,
-      "new_mentions_this_run": 23,
+      "count": 57,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "9bb5b0ec15b01165",
-        "title": "Typical Georgia Power customers save about $4 per month after PSC-approved rate decrease takes effect - eciks.org",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XNjduLVVlb2JyU18wVS1ta19Ib3dreGtCTDNocHMxUjBwaS1XLVVxTWpRcjNEdktLeXhIYWVGb09zb1pZcXNrdDllck9FTVo3RG1HMGxwRDJOVFFQSHdyZ1Z0Rk1zaVlGVTFSZzJtWGVhQko5?oc=5",
+        "id": "e5b2da9443d58ca2",
+        "title": "Aging Georgia reactors cleared to run decades longer - The Augusta Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMGF2Sm9zOWJmMTNHY2Z4akRmR2pRX0FxVzhJVHk3OVhWNV9pRlRYNzdPWFFwX19xTVVEOVk2ZE0zdGlfbzVUdF9fUGJBT21ocE9lc2RYT2R5N2I3RUczY1FuaGcyem5BTnRHQk45T0lTZ3JtMlFtMGh6a0s4NXZMN0R4eWxVOUtXRGprLVR5ZjRqVEZnSjZ2RExOZUJ6dVZ5bjJNYU1BZl9TZWZXbUFBNVJDWFk3alQ4SVJibWNFSW5UQ2dzRkl0RA?oc=5",
         "domain": "news.google.com",
-        "source": "eciks.org",
+        "source": "The Augusta Chronicle",
         "language": "English",
-        "published_at": "2026-06-15T00:28:24+00:00",
-        "summary": "Typical Georgia Power customers save about $4 per month after PSC-approved rate decrease takes effect eciks.org",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1XNjduLVVlb2JyU18wVS1ta19Ib3dreGtCTDNocHMxUjBwaS1XLVVxTWpRcjNEdktLeXhIYWVGb09zb1pZcXNrdDllck9FTVo3RG1HMGxwRDJOVFFQSHdyZ1Z0Rk1zaVlGVTFSZzJtWGVhQko5?oc=5\" target=\"_blank\">Typical Georgia Power customers save about $4 per month after PSC-approved rate decrease takes effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eciks.org</font>",
+        "published_at": "2026-06-15T21:45:00+00:00",
+        "summary": "Aging Georgia reactors cleared to run decades longer The Augusta Chronicle",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMGF2Sm9zOWJmMTNHY2Z4akRmR2pRX0FxVzhJVHk3OVhWNV9pRlRYNzdPWFFwX19xTVVEOVk2ZE0zdGlfbzVUdF9fUGJBT21ocE9lc2RYT2R5N2I3RUczY1FuaGcyem5BTnRHQk45T0lTZ3JtMlFtMGh6a0s4NXZMN0R4eWxVOUtXRGprLVR5ZjRqVEZnSjZ2RExOZUJ6dVZ5bjJNYU1BZl9TZWZXbUFBNVJDWFk3alQ4SVJibWNFSW5UQ2dzRkl0RA?oc=5\" target=\"_blank\">Aging Georgia reactors cleared to run decades longer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-15T15:44:57+00:00"
+        "collected_at": "2026-06-15T22:13:50+00:00"
       }
     },
     {
@@ -110,7 +110,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 8,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",

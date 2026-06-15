@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-15T19:41:44+00:00",
+  "last_updated": "2026-06-15T22:13:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 46,
+  "count": 47,
   "mentions": [
+    {
+      "id": "cc32d1c6c8be29cc",
+      "title": "Alabama Power Announces Bill Increase Beginning In December Bank Of Canada - Banque Du Canada (rizXLVwN3J) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tSTgycUVWZjZ0c1NsUDg2SjVCZGJUc2l1YWYxNjB4Z2tUcW4tTllGczZ6NHJBWWdqYjZEcEM2eVA1bDZyRVk0aDliR0s3ZGxNY09EXzRjUVpCVmp5d1Q1clh4eTNxcHcyS2c?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-15T16:06:36+00:00",
+      "summary": "Alabama Power Announces Bill Increase Beginning In December Bank Of Canada - Banque Du Canada (rizXLVwN3J) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8tSTgycUVWZjZ0c1NsUDg2SjVCZGJUc2l1YWYxNjB4Z2tUcW4tTllGczZ6NHJBWWdqYjZEcEM2eVA1bDZyRVk0aDliR0s3ZGxNY09EXzRjUVpCVmp5d1Q1clh4eTNxcHcyS2c?oc=5\" target=\"_blank\">Alabama Power Announces Bill Increase Beginning In December Bank Of Canada - Banque Du Canada (rizXLVwN3J)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-15T22:13:34+00:00"
+    },
     {
       "id": "796dc6ce301e22a5",
       "title": "Alabama Power Certified Dealer Holds 4.9 Stars After 20+ Years - Carroll County Mirror-Democrat",
