@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-15T03:34:47+00:00",
+  "last_updated": "2026-06-15T09:56:35+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 52,
+  "count": 53,
   "mentions": [
     {
       "id": "6b98e712a0b9979a",
@@ -75,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-11T13:55:30+00:00"
+    },
+    {
+      "id": "3758369f58e14ef2",
+      "title": "Protest Calling Out Georgia Power's New Substation The Handmaid's Tale (aicFCm1RCL) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUTZXQ1psZGRaTzF4M3VUdGtYaG9PcXh2c3RsWHJmb0NqNzVQbk5fYnZBUFJ6SVc0VFRzQ0ZrYlFYYkxVaWVNa3B3ODRqU1ZobzZZM2dxTHZGVm8?oc=5",
+      "domain": "news.google.com",
+      "source": "Mshale",
+      "language": "English",
+      "published_at": "2026-06-10T19:44:40+00:00",
+      "summary": "Protest Calling Out Georgia Power's New Substation The Handmaid's Tale (aicFCm1RCL) Mshale",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUTZXQ1psZGRaTzF4M3VUdGtYaG9PcXh2c3RsWHJmb0NqNzVQbk5fYnZBUFJ6SVc0VFRzQ0ZrYlFYYkxVaWVNa3B3ODRqU1ZobzZZM2dxTHZGVm8?oc=5\" target=\"_blank\">Protest Calling Out Georgia Power's New Substation The Handmaid's Tale (aicFCm1RCL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-15T09:56:35+00:00"
     },
     {
       "id": "0e9a0929df71e62a",

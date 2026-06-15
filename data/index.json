@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T03:34:58+00:00",
+  "last_updated": "2026-06-15T09:56:46+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -55,7 +55,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 33,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 14,
       "latest_mention": {
         "id": "b6508b7441d898f2",
         "title": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart - SightLine | U308",
@@ -75,8 +75,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 52,
-      "new_mentions_this_run": 25,
+      "count": 53,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "6b98e712a0b9979a",
         "title": "Power outage on Bass Road affects over 1,000 customers, Georgia Power says - 13WMAZ",
@@ -96,20 +96,21 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 7,
-      "new_mentions_this_run": 6,
+      "count": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "40a8718d04d0cbe1",
-        "title": "Gregory A. Beard - Department of Energy (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oWU9GQUZXUWFjb29OX3phRzdwdUZ4czlXbnRXd1pUZjh1ZXBiRlA1eDVYbjZKelUwN0NvNGFicnVvZTFlYUFET3Rta29vXy1yMjZHb2F0UQ?oc=5",
+        "id": "60be11be635412ab",
+        "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5",
         "domain": "news.google.com",
         "source": "Department of Energy (.gov)",
         "language": "English",
-        "published_at": "2026-06-04T21:35:00+00:00",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oWU9GQUZXUWFjb29OX3phRzdwdUZ4czlXbnRXd1pUZjh1ZXBiRlA1eDVYbjZKelUwN0NvNGFicnVvZTFlYUFET3Rta29vXy1yMjZHb2F0UQ?oc=5\" target=\"_blank\">Gregory A. Beard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+        "published_at": "2026-06-10T16:00:00+00:00",
+        "summary": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing Department of Energy (.gov)",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5\" target=\"_blank\">NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-09T16:52:40+00:00"
+        "collected_at": "2026-06-15T09:56:41+00:00"
       }
     }
   ]
