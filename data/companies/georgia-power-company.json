@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-15T09:56:35+00:00",
+  "last_updated": "2026-06-15T15:44:57+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 53,
+  "count": 55,
   "mentions": [
+    {
+      "id": "9bb5b0ec15b01165",
+      "title": "Typical Georgia Power customers save about $4 per month after PSC-approved rate decrease takes effect - eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XNjduLVVlb2JyU18wVS1ta19Ib3dreGtCTDNocHMxUjBwaS1XLVVxTWpRcjNEdktLeXhIYWVGb09zb1pZcXNrdDllck9FTVo3RG1HMGxwRDJOVFFQSHdyZ1Z0Rk1zaVlGVTFSZzJtWGVhQko5?oc=5",
+      "domain": "news.google.com",
+      "source": "eciks.org",
+      "language": "English",
+      "published_at": "2026-06-15T00:28:24+00:00",
+      "summary": "Typical Georgia Power customers save about $4 per month after PSC-approved rate decrease takes effect eciks.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1XNjduLVVlb2JyU18wVS1ta19Ib3dreGtCTDNocHMxUjBwaS1XLVVxTWpRcjNEdktLeXhIYWVGb09zb1pZcXNrdDllck9FTVo3RG1HMGxwRDJOVFFQSHdyZ1Z0Rk1zaVlGVTFSZzJtWGVhQko5?oc=5\" target=\"_blank\">Typical Georgia Power customers save about $4 per month after PSC-approved rate decrease takes effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eciks.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-15T15:44:57+00:00"
+    },
     {
       "id": "6b98e712a0b9979a",
       "title": "Power outage on Bass Road affects over 1,000 customers, Georgia Power says - 13WMAZ",
@@ -33,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-15T03:34:47+00:00"
+    },
+    {
+      "id": "0f00a0e5a021a80f",
+      "title": "Power restored after outage on Bass Road affects over 1,000 customers, Georgia Power says - WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGlCRzVUbjRpTmp5NVZiUTRjc2tQTVVIUjhTTlI5UlpIYVEzcFZHWWxCNjZNMGp2ejNXR25WOWw0VXp0MGV3bkZuSW5SaVkxLTVGU3JLUU5EZzgxTUZaM2dNWWp0MzBMeUgyeVVkd2pfMFhvS3FmamtJLWNkeHZ2c2Z4QXFWR0NBa1lhTDE5MFU0QV82d3NHcVo0eFhtTUZLNXF4LVFCX3BWWTZ4a0ZDVnZpNVQ2Ni1kekxqUkE0T082ZkNpa0p6RnNBaG0?oc=5",
+      "domain": "news.google.com",
+      "source": "WMAZ",
+      "language": "English",
+      "published_at": "2026-06-14T20:55:00+00:00",
+      "summary": "Power restored after outage on Bass Road affects over 1,000 customers, Georgia Power says WMAZ",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGlCRzVUbjRpTmp5NVZiUTRjc2tQTVVIUjhTTlI5UlpIYVEzcFZHWWxCNjZNMGp2ejNXR25WOWw0VXp0MGV3bkZuSW5SaVkxLTVGU3JLUU5EZzgxTUZaM2dNWWp0MzBMeUgyeVVkd2pfMFhvS3FmamtJLWNkeHZ2c2Z4QXFWR0NBa1lhTDE5MFU0QV82d3NHcVo0eFhtTUZLNXF4LVFCX3BWWTZ4a0ZDVnZpNVQ2Ni1kekxqUkE0T082ZkNpa0p6RnNBaG0?oc=5\" target=\"_blank\">Power restored after outage on Bass Road affects over 1,000 customers, Georgia Power says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WMAZ</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-15T15:44:57+00:00"
     },
     {
       "id": "fb4425d483d4cd36",

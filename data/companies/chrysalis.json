@@ -2,8 +2,23 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-06-15T09:56:24+00:00",
+  "last_updated": "2026-06-15T15:44:46+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 0,
-  "mentions": []
+  "count": 1,
+  "mentions": [
+    {
+      "id": "60be11be635412ab",
+      "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-06-10T16:00:00+00:00",
+      "summary": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing Department of Energy (.gov)",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5\" target=\"_blank\">NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-15T15:44:46+00:00"
+    }
+  ]
 }

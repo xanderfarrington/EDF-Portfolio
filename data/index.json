@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T09:56:46+00:00",
+  "last_updated": "2026-06-15T15:45:07+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -46,16 +46,29 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 0,
-      "new_mentions_this_run": 0,
-      "latest_mention": null
+      "count": 1,
+      "new_mentions_this_run": 1,
+      "latest_mention": {
+        "id": "60be11be635412ab",
+        "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5",
+        "domain": "news.google.com",
+        "source": "Department of Energy (.gov)",
+        "language": "English",
+        "published_at": "2026-06-10T16:00:00+00:00",
+        "summary": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing Department of Energy (.gov)",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5\" target=\"_blank\">NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+        "image": null,
+        "source_api": "google_news_rss",
+        "collected_at": "2026-06-15T15:44:46+00:00"
+      }
     },
     {
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 33,
-      "new_mentions_this_run": 14,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "b6508b7441d898f2",
         "title": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart - SightLine | U308",
@@ -75,21 +88,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 53,
-      "new_mentions_this_run": 22,
+      "count": 55,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "6b98e712a0b9979a",
-        "title": "Power outage on Bass Road affects over 1,000 customers, Georgia Power says - 13WMAZ",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGlCRzVUbjRpTmp5NVZiUTRjc2tQTVVIUjhTTlI5UlpIYVEzcFZHWWxCNjZNMGp2ejNXR25WOWw0VXp0MGV3bkZuSW5SaVkxLTVGU3JLUU5EZzgxTUZaM2dNWWp0MzBMeUgyeVVkd2pfMFhvS3FmamtJLWNkeHZ2c2Z4QXFWR0NBa1lhTDE5MFU0QV82d3NHcVo0eFhtTUZLNXF4LVFCX3BWWTZ4a0ZDVnZpNVQ2Ni1kekxqUkE0T082ZkNpa0p6RnNBaG0?oc=5",
+        "id": "9bb5b0ec15b01165",
+        "title": "Typical Georgia Power customers save about $4 per month after PSC-approved rate decrease takes effect - eciks.org",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XNjduLVVlb2JyU18wVS1ta19Ib3dreGtCTDNocHMxUjBwaS1XLVVxTWpRcjNEdktLeXhIYWVGb09zb1pZcXNrdDllck9FTVo3RG1HMGxwRDJOVFFQSHdyZ1Z0Rk1zaVlGVTFSZzJtWGVhQko5?oc=5",
         "domain": "news.google.com",
-        "source": "13WMAZ",
+        "source": "eciks.org",
         "language": "English",
-        "published_at": "2026-06-14T20:55:00+00:00",
-        "summary": "Power outage on Bass Road affects over 1,000 customers, Georgia Power says 13WMAZ",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGlCRzVUbjRpTmp5NVZiUTRjc2tQTVVIUjhTTlI5UlpIYVEzcFZHWWxCNjZNMGp2ejNXR25WOWw0VXp0MGV3bkZuSW5SaVkxLTVGU3JLUU5EZzgxTUZaM2dNWWp0MzBMeUgyeVVkd2pfMFhvS3FmamtJLWNkeHZ2c2Z4QXFWR0NBa1lhTDE5MFU0QV82d3NHcVo0eFhtTUZLNXF4LVFCX3BWWTZ4a0ZDVnZpNVQ2Ni1kekxqUkE0T082ZkNpa0p6RnNBaG0?oc=5\" target=\"_blank\">Power outage on Bass Road affects over 1,000 customers, Georgia Power says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13WMAZ</font>",
+        "published_at": "2026-06-15T00:28:24+00:00",
+        "summary": "Typical Georgia Power customers save about $4 per month after PSC-approved rate decrease takes effect eciks.org",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1XNjduLVVlb2JyU18wVS1ta19Ib3dreGtCTDNocHMxUjBwaS1XLVVxTWpRcjNEdktLeXhIYWVGb09zb1pZcXNrdDllck9FTVo3RG1HMGxwRDJOVFFQSHdyZ1Z0Rk1zaVlGVTFSZzJtWGVhQko5?oc=5\" target=\"_blank\">Typical Georgia Power customers save about $4 per month after PSC-approved rate decrease takes effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eciks.org</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-14T21:04:44+00:00"
+        "collected_at": "2026-06-15T15:44:57+00:00"
       }
     },
     {
@@ -97,7 +110,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 8,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",
