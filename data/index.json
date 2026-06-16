@@ -1,45 +1,46 @@
 {
-  "last_updated": "2026-06-16T09:21:51+00:00",
+  "last_updated": "2026-06-16T15:08:21+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 29,
-      "new_mentions_this_run": 1,
+      "count": 31,
+      "new_mentions_this_run": 3,
       "latest_mention": {
-        "id": "3605ab041135a7a1",
-        "title": "A Look At American Electric Power Company (AEP) Valuation After OVEC Overhaul And Data Center Growth Plans - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMWEzS0lsZVBQcXlOQTRUNElvdFFaT2RpQjRZN3k4TkVHTmNXTGtqTGtfVGRKZmM3R19sbTNVN1psTmJoY2tpSVVCS05ocDNfSk5qMnNLV0lhNngzV29aZ1UweTFvV3U3WlFoZDRQTUV5MzgwclFnWlROcnJuNUJqekxaRDZMY0lPNmZMSUhrTTFRRjJ5aUJ4T0VLbHNlR0hFNUxOaldkSWxWTjRsX2F2RnJtbW1jeXhZMW1BbVVZNnNkQklRbjFDSlhHM3ZoRFNjTW5KbmNwci10dWJq0gHiAUFVX3lxTFAxaXdLT3Iyb2pHc2tHbG00WHV1SHJJOFNQR1oxODVoZDFvejk1alJobFJueWZBZ2IwZTU4U1NUWG0yZS1yQ2FpeHpEX1V4cVo0cS1PQTdibWtzTnFHX1VKakhEb1hic3lBai13YzR0TGtiaEZaMmdZdTZCcEVCUTByYkIwV09yNjU3WmFQQkFvSE1IZEtsQWQ0QXFYRlI1a3lYZEZTeklyM1FKUUJGYXl5bVNWSnpFcmMxTDBIaGNYUDA1N19QM1lEWjhCUWxGd1V2Y0M2TUtkWHczTVM5V3BOYmc?oc=5",
+        "id": "bea9afb09b7745dd",
+        "title": "New grid-resilient twist, American Electric Power’s BOLD line hardens storm-prone networks - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3NaY3p0dnpnWG5LY3RJVUJkZ0t6SjJIb0dULWpFYjZjNk9LNWRqbzZ4Rng5QW96UmFCTV90NDhWNURzclIxbG9qWmgtZ213dFVRLTFjRWpiQTdlNzdUNWtoZkNvUElVQUZyRHR4Ykl1cWpRTkhmQ3dnRjZRdzY5NkNCdzBLaWMwM21zNXZkUUVEQl9sVUJnUXdMekVIVkdOOER5cmdVb3RJVTk2NVY3b1VWaTVxME1ySm4tLTczVmZ4WGZDM0E?oc=5",
         "domain": "news.google.com",
-        "source": "simplywall.st",
+        "source": "AD HOC NEWS",
         "language": "English",
-        "published_at": "2026-06-09T11:23:59+00:00",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMWEzS0lsZVBQcXlOQTRUNElvdFFaT2RpQjRZN3k4TkVHTmNXTGtqTGtfVGRKZmM3R19sbTNVN1psTmJoY2tpSVVCS05ocDNfSk5qMnNLV0lhNngzV29aZ1UweTFvV3U3WlFoZDRQTUV5MzgwclFnWlROcnJuNUJqekxaRDZMY0lPNmZMSUhrTTFRRjJ5aUJ4T0VLbHNlR0hFNUxOaldkSWxWTjRsX2F2RnJtbW1jeXhZMW1BbVVZNnNkQklRbjFDSlhHM3ZoRFNjTW5KbmNwci10dWJq0gHiAUFVX3lxTFAxaXdLT3Iyb2pHc2tHbG00WHV1SHJJOFNQR1oxODVoZDFvejk1alJobFJueWZBZ2IwZTU4U1NUWG0yZS1yQ2FpeHpEX1V4cVo0cS1PQTdibWtzTnFHX1VKakhEb1hic3lBai13YzR0TGtiaEZaMmdZdTZCcEVCUTByYkIwV09yNjU3WmFQQkFvSE1IZEtsQWQ0QXFYRlI1a3lYZEZTeklyM1FKUUJGYXl5bVNWSnpFcmMxTDBIaGNYUDA1N19QM1lEWjhCUWxGd1V2Y0M2TUtkWHczTVM5V3BOYmc?oc=5\" target=\"_blank\">A Look At American Electric Power Company (AEP) Valuation After OVEC Overhaul And Data Center Growth Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+        "published_at": "2026-06-16T13:52:37+00:00",
+        "summary": "New grid-resilient twist, American Electric Power’s BOLD line hardens storm-prone networks AD HOC NEWS",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3NaY3p0dnpnWG5LY3RJVUJkZ0t6SjJIb0dULWpFYjZjNk9LNWRqbzZ4Rng5QW96UmFCTV90NDhWNURzclIxbG9qWmgtZ213dFVRLTFjRWpiQTdlNzdUNWtoZkNvUElVQUZyRHR4Ykl1cWpRTkhmQ3dnRjZRdzY5NkNCdzBLaWMwM21zNXZkUUVEQl9sVUJnUXdMekVIVkdOOER5cmdVb3RJVTk2NVY3b1VWaTVxME1ySm4tLTczVmZ4WGZDM0E?oc=5\" target=\"_blank\">New grid-resilient twist, American Electric Power’s BOLD line hardens storm-prone networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-09T16:52:12+00:00"
+        "collected_at": "2026-06-16T15:07:49+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 48,
+      "count": 49,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "cc32d1c6c8be29cc",
-        "title": "Alabama Power Announces Bill Increase Beginning In December Bank Of Canada - Banque Du Canada (rizXLVwN3J) - Fathom Journal",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tSTgycUVWZjZ0c1NsUDg2SjVCZGJUc2l1YWYxNjB4Z2tUcW4tTllGczZ6NHJBWWdqYjZEcEM2eVA1bDZyRVk0aDliR0s3ZGxNY09EXzRjUVpCVmp5d1Q1clh4eTNxcHcyS2c?oc=5",
+        "id": "96ffdf4f0c1a669f",
+        "title": "Alabama Power Withdraws Intent For Chandler Mountain Project Angels Vs Guardians (aBtKJVJ3Bp) - Fathom Journal",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBc1R2RlUyTmNkczBBUmxKNkFGMFBVRVplT29BSktBSUxNSy1sZy1vOU1pYjdUcUJORFRacHZGRlBTV3E1c3lVY0hkZjczT0tGV1l3aDg2N1RwRFVUMW04TzlobDQ?oc=5",
         "domain": "news.google.com",
         "source": "Fathom Journal",
         "language": "English",
-        "published_at": "2026-06-15T16:06:36+00:00",
-        "summary": "Alabama Power Announces Bill Increase Beginning In December Bank Of Canada - Banque Du Canada (rizXLVwN3J) Fathom Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8tSTgycUVWZjZ0c1NsUDg2SjVCZGJUc2l1YWYxNjB4Z2tUcW4tTllGczZ6NHJBWWdqYjZEcEM2eVA1bDZyRVk0aDliR0s3ZGxNY09EXzRjUVpCVmp5d1Q1clh4eTNxcHcyS2c?oc=5\" target=\"_blank\">Alabama Power Announces Bill Increase Beginning In December Bank Of Canada - Banque Du Canada (rizXLVwN3J)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+        "published_at": "2026-06-16T08:19:13+00:00",
+        "summary": "Alabama Power Withdraws Intent For Chandler Mountain Project Angels Vs Guardians (aBtKJVJ3Bp) Fathom Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBc1R2RlUyTmNkczBBUmxKNkFGMFBVRVplT29BSktBSUxNSy1sZy1vOU1pYjdUcUJORFRacHZGRlBTV3E1c3lVY0hkZjczT0tGV1l3aDg2N1RwRFVUMW04TzlobDQ?oc=5\" target=\"_blank\">Alabama Power Withdraws Intent For Chandler Mountain Project Angels Vs Guardians (aBtKJVJ3Bp)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-15T22:13:34+00:00"
+        "collected_at": "2026-06-16T15:07:54+00:00"
       }
     },
     {
@@ -88,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 58,
+      "count": 60,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "e5b2da9443d58ca2",
-        "title": "Aging Georgia reactors cleared to run decades longer - The Augusta Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMGF2Sm9zOWJmMTNHY2Z4akRmR2pRX0FxVzhJVHk3OVhWNV9pRlRYNzdPWFFwX19xTVVEOVk2ZE0zdGlfbzVUdF9fUGJBT21ocE9lc2RYT2R5N2I3RUczY1FuaGcyem5BTnRHQk45T0lTZ3JtMlFtMGh6a0s4NXZMN0R4eWxVOUtXRGprLVR5ZjRqVEZnSjZ2RExOZUJ6dVZ5bjJNYU1BZl9TZWZXbUFBNVJDWFk3alQ4SVJibWNFSW5UQ2dzRkl0RA?oc=5",
+        "id": "7a637617c29deda2",
+        "title": "Wiregrass celebrates first graduates of Georgia Power-funded Summer Construction Training Program - Douglas Now",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYWgzcGdPRnZKbElDTTNsaXJncE5mR0NESUpCOEtwYXdJOWd0MVhQZjk5ZTlsdFp4dzFuWkhhMHVQNUJyRjl4UF9ZR2lOWF9peEdadzlQWTlOaS1TUVBEUm92Nk5WSVh1eUZzQ1lOYWI1Q2daT2NWeERmMWt0X1dOLUNxdzNWREs2QXJDWkh5dEJBcGhYX2JObzJ1Wk5KcGhpVkxIMzBLaDR3Q2xISE5nLXR6RnRkamJXTHRjYS1n?oc=5",
         "domain": "news.google.com",
-        "source": "The Augusta Chronicle",
+        "source": "Douglas Now",
         "language": "English",
-        "published_at": "2026-06-15T21:45:00+00:00",
-        "summary": "Aging Georgia reactors cleared to run decades longer The Augusta Chronicle",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMGF2Sm9zOWJmMTNHY2Z4akRmR2pRX0FxVzhJVHk3OVhWNV9pRlRYNzdPWFFwX19xTVVEOVk2ZE0zdGlfbzVUdF9fUGJBT21ocE9lc2RYT2R5N2I3RUczY1FuaGcyem5BTnRHQk45T0lTZ3JtMlFtMGh6a0s4NXZMN0R4eWxVOUtXRGprLVR5ZjRqVEZnSjZ2RExOZUJ6dVZ5bjJNYU1BZl9TZWZXbUFBNVJDWFk3alQ4SVJibWNFSW5UQ2dzRkl0RA?oc=5\" target=\"_blank\">Aging Georgia reactors cleared to run decades longer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
+        "published_at": "2026-06-16T12:37:42+00:00",
+        "summary": "Wiregrass celebrates first graduates of Georgia Power-funded Summer Construction Training Program Douglas Now",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQYWgzcGdPRnZKbElDTTNsaXJncE5mR0NESUpCOEtwYXdJOWd0MVhQZjk5ZTlsdFp4dzFuWkhhMHVQNUJyRjl4UF9ZR2lOWF9peEdadzlQWTlOaS1TUVBEUm92Nk5WSVh1eUZzQ1lOYWI1Q2daT2NWeERmMWt0X1dOLUNxdzNWREs2QXJDWkh5dEJBcGhYX2JObzJ1Wk5KcGhpVkxIMzBLaDR3Q2xISE5nLXR6RnRkamJXTHRjYS1n?oc=5\" target=\"_blank\">Wiregrass celebrates first graduates of Georgia Power-funded Summer Construction Training Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Douglas Now</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-15T22:13:50+00:00"
+        "collected_at": "2026-06-16T15:08:11+00:00"
       }
     },
     {
@@ -110,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 9,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",

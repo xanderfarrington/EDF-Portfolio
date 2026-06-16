@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-06-16T09:21:19+00:00",
+  "last_updated": "2026-06-16T15:07:49+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 29,
+  "count": 31,
   "mentions": [
+    {
+      "id": "bea9afb09b7745dd",
+      "title": "New grid-resilient twist, American Electric Power’s BOLD line hardens storm-prone networks - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3NaY3p0dnpnWG5LY3RJVUJkZ0t6SjJIb0dULWpFYjZjNk9LNWRqbzZ4Rng5QW96UmFCTV90NDhWNURzclIxbG9qWmgtZ213dFVRLTFjRWpiQTdlNzdUNWtoZkNvUElVQUZyRHR4Ykl1cWpRTkhmQ3dnRjZRdzY5NkNCdzBLaWMwM21zNXZkUUVEQl9sVUJnUXdMekVIVkdOOER5cmdVb3RJVTk2NVY3b1VWaTVxME1ySm4tLTczVmZ4WGZDM0E?oc=5",
+      "domain": "news.google.com",
+      "source": "AD HOC NEWS",
+      "language": "English",
+      "published_at": "2026-06-16T13:52:37+00:00",
+      "summary": "New grid-resilient twist, American Electric Power’s BOLD line hardens storm-prone networks AD HOC NEWS",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3NaY3p0dnpnWG5LY3RJVUJkZ0t6SjJIb0dULWpFYjZjNk9LNWRqbzZ4Rng5QW96UmFCTV90NDhWNURzclIxbG9qWmgtZ213dFVRLTFjRWpiQTdlNzdUNWtoZkNvUElVQUZyRHR4Ykl1cWpRTkhmQ3dnRjZRdzY5NkNCdzBLaWMwM21zNXZkUUVEQl9sVUJnUXdMekVIVkdOOER5cmdVb3RJVTk2NVY3b1VWaTVxME1ySm4tLTczVmZ4WGZDM0E?oc=5\" target=\"_blank\">New grid-resilient twist, American Electric Power’s BOLD line hardens storm-prone networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-16T15:07:49+00:00"
+    },
     {
       "id": "3605ab041135a7a1",
       "title": "A Look At American Electric Power Company (AEP) Valuation After OVEC Overhaul And Data Center Growth Plans - simplywall.st",
@@ -240,6 +254,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:12+00:00"
+    },
+    {
+      "id": "5ec4dea51c335b4a",
+      "title": "AEP to build $100M transmission control center in Louisiana’s Caddo Parish - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTE5kUkx5WU9wVi1rUnktaDh2Vi1KeE9tNWpaNnhxa0FlaDVPa0Y1LUNVTGczNDZ3MmZMOVpSNkJubGZUZzQ5M2ZqU19DUG9KNThwUEVsaXdxYXUxaEhPaVJRYzEtWUNnY2hSWE9zeV9VNXdqT2hFRm9LTHR5R1psVm44NVFja2VSUGxNZGdJWG1EN0NLSk9yX2lPTk1zZFE5WGdRdktsNmdTR29SM2hqaDNFUHFLSTlSYmgw?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-06-02T12:06:04+00:00",
+      "summary": "AEP to build $100M transmission control center in Louisiana’s Caddo Parish Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTE5kUkx5WU9wVi1rUnktaDh2Vi1KeE9tNWpaNnhxa0FlaDVPa0Y1LUNVTGczNDZ3MmZMOVpSNkJubGZUZzQ5M2ZqU19DUG9KNThwUEVsaXdxYXUxaEhPaVJRYzEtWUNnY2hSWE9zeV9VNXdqT2hFRm9LTHR5R1psVm44NVFja2VSUGxNZGdJWG1EN0NLSk9yX2lPTk1zZFE5WGdRdktsNmdTR29SM2hqaDNFUHFLSTlSYmgw?oc=5\" target=\"_blank\">AEP to build $100M transmission control center in Louisiana’s Caddo Parish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-16T15:07:49+00:00"
     },
     {
       "id": "f94d002c8ad3747c",

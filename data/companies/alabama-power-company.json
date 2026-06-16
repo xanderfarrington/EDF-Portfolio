@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-16T09:21:24+00:00",
+  "last_updated": "2026-06-16T15:07:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 48,
+  "count": 49,
   "mentions": [
+    {
+      "id": "96ffdf4f0c1a669f",
+      "title": "Alabama Power Withdraws Intent For Chandler Mountain Project Angels Vs Guardians (aBtKJVJ3Bp) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBc1R2RlUyTmNkczBBUmxKNkFGMFBVRVplT29BSktBSUxNSy1sZy1vOU1pYjdUcUJORFRacHZGRlBTV3E1c3lVY0hkZjczT0tGV1l3aDg2N1RwRFVUMW04TzlobDQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-16T08:19:13+00:00",
+      "summary": "Alabama Power Withdraws Intent For Chandler Mountain Project Angels Vs Guardians (aBtKJVJ3Bp) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBc1R2RlUyTmNkczBBUmxKNkFGMFBVRVplT29BSktBSUxNSy1sZy1vOU1pYjdUcUJORFRacHZGRlBTV3E1c3lVY0hkZjczT0tGV1l3aDg2N1RwRFVUMW04TzlobDQ?oc=5\" target=\"_blank\">Alabama Power Withdraws Intent For Chandler Mountain Project Angels Vs Guardians (aBtKJVJ3Bp)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-16T15:07:54+00:00"
+    },
     {
       "id": "cc32d1c6c8be29cc",
       "title": "Alabama Power Announces Bill Increase Beginning In December Bank Of Canada - Banque Du Canada (rizXLVwN3J) - Fathom Journal",
