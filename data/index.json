@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T19:30:50+00:00",
+  "last_updated": "2026-06-16T22:07:38+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 50,
-      "new_mentions_this_run": 12,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "7ec9b59e0bf3dfcb",
         "title": "Alabama Power's Safe-T-Zone helps Montevallo, Dothan first responders recognize electrical hazards - Alabama News Center",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 34,
-      "new_mentions_this_run": 14,
+      "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "b6508b7441d898f2",
         "title": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart - SightLine | U308",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 62,
-      "new_mentions_this_run": 21,
+      "count": 64,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "4b0c7a9490dd8a3f",
-        "title": "U.S. Extends the Life of a Georgia Power Plant Another 20 Years - Tomorrow's World Today",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWNONm9GeDNqV012dTBIVkRFeE9TMU5RZEkweGF3YU1mTEdJWlNWUGhZcDFIZkhISWV6aU1NYXIteldOWTJDUFV1OHdJREhJYUNwbWVId2FiV3BOaTZNVlhsTHFjNERKbm82UEdGZVVtSkhDVmlkN0NBMm9BbXhXQmYycWdpYmdaV0lnZGNCOUZWZHlUNXpicnduRDJVcEpnVXhqU2R1ejF4UQ?oc=5",
+        "id": "d5f596dc33ae987a",
+        "title": "Georgia Power talks Hurricane Preparedness Month - WFXG",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUkzdXRnRW14V0NHZFBVeEVyVmhyS2I2UWtPLU1WbklaM0ZjVk9QZ0NsMllCMk1kZmlBQ2FwUG82amlEYXF4S2VrS0dnaFREOXo2M25vWWJmX2xPZW0zSVJGOWtDSXV4UlJhSTQzd3ZGUkk0bVJraTFvdGpaeGJZRVFZa0JRTGczVVdXMVVGSFBOVThHUnNIZ1NXd2hWc0JfTVlWa0N4dVBla294eTZrNUhIVy1HS0RzZjdJTk9UV0d2N1cwLXFaVUtqVEtLTkk?oc=5",
         "domain": "news.google.com",
-        "source": "Tomorrow's World Today",
+        "source": "WFXG",
         "language": "English",
-        "published_at": "2026-06-16T16:35:10+00:00",
-        "summary": "U.S. Extends the Life of a Georgia Power Plant Another 20 Years Tomorrow's World Today",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWNONm9GeDNqV012dTBIVkRFeE9TMU5RZEkweGF3YU1mTEdJWlNWUGhZcDFIZkhISWV6aU1NYXIteldOWTJDUFV1OHdJREhJYUNwbWVId2FiV3BOaTZNVlhsTHFjNERKbm82UEdGZVVtSkhDVmlkN0NBMm9BbXhXQmYycWdpYmdaV0lnZGNCOUZWZHlUNXpicnduRDJVcEpnVXhqU2R1ejF4UQ?oc=5\" target=\"_blank\">U.S. Extends the Life of a Georgia Power Plant Another 20 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tomorrow's World Today</font>",
+        "published_at": "2026-06-16T19:49:00+00:00",
+        "summary": "Georgia Power talks Hurricane Preparedness Month WFXG",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUkzdXRnRW14V0NHZFBVeEVyVmhyS2I2UWtPLU1WbklaM0ZjVk9QZ0NsMllCMk1kZmlBQ2FwUG82amlEYXF4S2VrS0dnaFREOXo2M25vWWJmX2xPZW0zSVJGOWtDSXV4UlJhSTQzd3ZGUkk0bVJraTFvdGpaeGJZRVFZa0JRTGczVVdXMVVGSFBOVThHUnNIZ1NXd2hWc0JfTVlWa0N4dVBla294eTZrNUhIVy1HS0RzZjdJTk9UV0d2N1cwLXFaVUtqVEtLTkk?oc=5\" target=\"_blank\">Georgia Power talks Hurricane Preparedness Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFXG</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-16T19:30:40+00:00"
+        "collected_at": "2026-06-16T22:07:28+00:00"
       }
     },
     {
