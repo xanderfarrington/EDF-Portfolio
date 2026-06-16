@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-16T15:07:54+00:00",
+  "last_updated": "2026-06-16T19:30:23+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 49,
+  "count": 50,
   "mentions": [
+    {
+      "id": "7ec9b59e0bf3dfcb",
+      "title": "Alabama Power's Safe-T-Zone helps Montevallo, Dothan first responders recognize electrical hazards - Alabama News Center",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTDVEeUVHS2RvUF91VDJOQ19NS2tLbE9HdlozVGlWU1QzazBDSk1mMUhZZjRvRlprem1CMWtwUUlXY004UFdZQjhNeG9HRXFESGdBbUZOdW03VnVlb3FLSEJsbDFZUFpCS1pSN1ptbV9jbUYxbzVXaFlnYmxFa0Z3Vm1MaGpoNzJWeTJqXzdWM2gtWm5PWWc4ak04OUt4RXVuRVE0NE5sQUlBVTNjXzFweUhWamlfc0g2bnQ5SkVONFd1RndIeFFKajVXYlI2MGF4aXYzYg?oc=5",
+      "domain": "news.google.com",
+      "source": "Alabama News Center",
+      "language": "English",
+      "published_at": "2026-06-16T19:05:21+00:00",
+      "summary": "Alabama Power's Safe-T-Zone helps Montevallo, Dothan first responders recognize electrical hazards Alabama News Center",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTDVEeUVHS2RvUF91VDJOQ19NS2tLbE9HdlozVGlWU1QzazBDSk1mMUhZZjRvRlprem1CMWtwUUlXY004UFdZQjhNeG9HRXFESGdBbUZOdW03VnVlb3FLSEJsbDFZUFpCS1pSN1ptbV9jbUYxbzVXaFlnYmxFa0Z3Vm1MaGpoNzJWeTJqXzdWM2gtWm5PWWc4ak04OUt4RXVuRVE0NE5sQUlBVTNjXzFweUhWamlfc0g2bnQ5SkVONFd1RndIeFFKajVXYlI2MGF4aXYzYg?oc=5\" target=\"_blank\">Alabama Power's Safe-T-Zone helps Montevallo, Dothan first responders recognize electrical hazards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama News Center</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-16T19:30:23+00:00"
+    },
     {
       "id": "96ffdf4f0c1a669f",
       "title": "Alabama Power Withdraws Intent For Chandler Mountain Project Angels Vs Guardians (aBtKJVJ3Bp) - Fathom Journal",

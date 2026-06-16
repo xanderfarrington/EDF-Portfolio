@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-16T15:08:11+00:00",
+  "last_updated": "2026-06-16T19:30:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 60,
+  "count": 62,
   "mentions": [
+    {
+      "id": "4b0c7a9490dd8a3f",
+      "title": "U.S. Extends the Life of a Georgia Power Plant Another 20 Years - Tomorrow's World Today",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWNONm9GeDNqV012dTBIVkRFeE9TMU5RZEkweGF3YU1mTEdJWlNWUGhZcDFIZkhISWV6aU1NYXIteldOWTJDUFV1OHdJREhJYUNwbWVId2FiV3BOaTZNVlhsTHFjNERKbm82UEdGZVVtSkhDVmlkN0NBMm9BbXhXQmYycWdpYmdaV0lnZGNCOUZWZHlUNXpicnduRDJVcEpnVXhqU2R1ejF4UQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Tomorrow's World Today",
+      "language": "English",
+      "published_at": "2026-06-16T16:35:10+00:00",
+      "summary": "U.S. Extends the Life of a Georgia Power Plant Another 20 Years Tomorrow's World Today",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWNONm9GeDNqV012dTBIVkRFeE9TMU5RZEkweGF3YU1mTEdJWlNWUGhZcDFIZkhISWV6aU1NYXIteldOWTJDUFV1OHdJREhJYUNwbWVId2FiV3BOaTZNVlhsTHFjNERKbm82UEdGZVVtSkhDVmlkN0NBMm9BbXhXQmYycWdpYmdaV0lnZGNCOUZWZHlUNXpicnduRDJVcEpnVXhqU2R1ejF4UQ?oc=5\" target=\"_blank\">U.S. Extends the Life of a Georgia Power Plant Another 20 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tomorrow's World Today</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-16T19:30:40+00:00"
+    },
     {
       "id": "7a637617c29deda2",
       "title": "Wiregrass celebrates first graduates of Georgia Power-funded Summer Construction Training Program - Douglas Now",
@@ -806,6 +820,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-11T23:18:01+00:00"
+    },
+    {
+      "id": "a80d6eff1606ad89",
+      "title": "As power grid expands to meet demands, some Georgians forced to sell their homes - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX09NcjRIcG5aZERCTEZXQ2oyc2NxWEJtbEN6clN2R09EaGNyaXFKZjZ5MEdMVnNLWEpXaHFLNnI4NXhlZHFzMjBidjZVbERzeU9JYVNKV0R2cWFJNUZJdkhXYU4yWktZcEl1RkU1VVA0MW1GZ0xGYm96aC1jVmlFVml0Q2dLOGZBWHNRMXpEdnp2SWU5X1VqSkxaZFd1eEVnVktLWm5uaTQ3WVlrXzMtR0dIYllqUXRvWHEwakNJVGhIclBJSkh5bGIycmUyZjByb3BMN3dLMUtSWWJ2c2fSAfIBQVVfeXFMTjZEcFdpUEpIWDZ1M2MycmpnV3ZJdHJFdDlWZlByRWN1TXlFdVhaNlNJZDQza1NuaFd1czFlTUlXN3lDYkltOWxQSUwydXdxRjkySWQyOVpJS00tYlFIV2liT01DeGxVMm93V3BiNGU2clhNa1NLQkEtUWJrNGJxM01YWUlpYUdoZlJrVHZpQlh2ZXdJcy1mbGJvb05wSXpqcnBwakdpTWlCaGhyZ2tEbVpLaGhQR05oZk5HdDJVTjVLZVkzYzFRcW1KSk9XRk5Eemt4THpvZ20tUlhMVFFtMjAzcEdPVjY3c1lyOV9NejZyaWc?oc=5",
+      "domain": "news.google.com",
+      "source": "WSB-TV",
+      "language": "English",
+      "published_at": "2026-05-20T07:00:00+00:00",
+      "summary": "As power grid expands to meet demands, some Georgians forced to sell their homes WSB-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX09NcjRIcG5aZERCTEZXQ2oyc2NxWEJtbEN6clN2R09EaGNyaXFKZjZ5MEdMVnNLWEpXaHFLNnI4NXhlZHFzMjBidjZVbERzeU9JYVNKV0R2cWFJNUZJdkhXYU4yWktZcEl1RkU1VVA0MW1GZ0xGYm96aC1jVmlFVml0Q2dLOGZBWHNRMXpEdnp2SWU5X1VqSkxaZFd1eEVnVktLWm5uaTQ3WVlrXzMtR0dIYllqUXRvWHEwakNJVGhIclBJSkh5bGIycmUyZjByb3BMN3dLMUtSWWJ2c2fSAfIBQVVfeXFMTjZEcFdpUEpIWDZ1M2MycmpnV3ZJdHJFdDlWZlByRWN1TXlFdVhaNlNJZDQza1NuaFd1czFlTUlXN3lDYkltOWxQSUwydXdxRjkySWQyOVpJS00tYlFIV2liT01DeGxVMm93V3BiNGU2clhNa1NLQkEtUWJrNGJxM01YWUlpYUdoZlJrVHZpQlh2ZXdJcy1mbGJvb05wSXpqcnBwakdpTWlCaGhyZ2tEbVpLaGhQR05oZk5HdDJVTjVLZVkzYzFRcW1KSk9XRk5Eemt4THpvZ20tUlhMVFFtMjAzcEdPVjY3c1lyOV9NejZyaWc?oc=5\" target=\"_blank\">As power grid expands to meet demands, some Georgians forced to sell their homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-16T19:30:40+00:00"
     },
     {
       "id": "abbd862e94a6a8b7",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T15:08:21+00:00",
+  "last_updated": "2026-06-16T19:30:50+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 49,
-      "new_mentions_this_run": 25,
+      "count": 50,
+      "new_mentions_this_run": 12,
       "latest_mention": {
-        "id": "96ffdf4f0c1a669f",
-        "title": "Alabama Power Withdraws Intent For Chandler Mountain Project Angels Vs Guardians (aBtKJVJ3Bp) - Fathom Journal",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBc1R2RlUyTmNkczBBUmxKNkFGMFBVRVplT29BSktBSUxNSy1sZy1vOU1pYjdUcUJORFRacHZGRlBTV3E1c3lVY0hkZjczT0tGV1l3aDg2N1RwRFVUMW04TzlobDQ?oc=5",
+        "id": "7ec9b59e0bf3dfcb",
+        "title": "Alabama Power's Safe-T-Zone helps Montevallo, Dothan first responders recognize electrical hazards - Alabama News Center",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTDVEeUVHS2RvUF91VDJOQ19NS2tLbE9HdlozVGlWU1QzazBDSk1mMUhZZjRvRlprem1CMWtwUUlXY004UFdZQjhNeG9HRXFESGdBbUZOdW03VnVlb3FLSEJsbDFZUFpCS1pSN1ptbV9jbUYxbzVXaFlnYmxFa0Z3Vm1MaGpoNzJWeTJqXzdWM2gtWm5PWWc4ak04OUt4RXVuRVE0NE5sQUlBVTNjXzFweUhWamlfc0g2bnQ5SkVONFd1RndIeFFKajVXYlI2MGF4aXYzYg?oc=5",
         "domain": "news.google.com",
-        "source": "Fathom Journal",
+        "source": "Alabama News Center",
         "language": "English",
-        "published_at": "2026-06-16T08:19:13+00:00",
-        "summary": "Alabama Power Withdraws Intent For Chandler Mountain Project Angels Vs Guardians (aBtKJVJ3Bp) Fathom Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBc1R2RlUyTmNkczBBUmxKNkFGMFBVRVplT29BSktBSUxNSy1sZy1vOU1pYjdUcUJORFRacHZGRlBTV3E1c3lVY0hkZjczT0tGV1l3aDg2N1RwRFVUMW04TzlobDQ?oc=5\" target=\"_blank\">Alabama Power Withdraws Intent For Chandler Mountain Project Angels Vs Guardians (aBtKJVJ3Bp)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+        "published_at": "2026-06-16T19:05:21+00:00",
+        "summary": "Alabama Power's Safe-T-Zone helps Montevallo, Dothan first responders recognize electrical hazards Alabama News Center",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTDVEeUVHS2RvUF91VDJOQ19NS2tLbE9HdlozVGlWU1QzazBDSk1mMUhZZjRvRlprem1CMWtwUUlXY004UFdZQjhNeG9HRXFESGdBbUZOdW03VnVlb3FLSEJsbDFZUFpCS1pSN1ptbV9jbUYxbzVXaFlnYmxFa0Z3Vm1MaGpoNzJWeTJqXzdWM2gtWm5PWWc4ak04OUt4RXVuRVE0NE5sQUlBVTNjXzFweUhWamlfc0g2bnQ5SkVONFd1RndIeFFKajVXYlI2MGF4aXYzYg?oc=5\" target=\"_blank\">Alabama Power's Safe-T-Zone helps Montevallo, Dothan first responders recognize electrical hazards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama News Center</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-16T15:07:54+00:00"
+        "collected_at": "2026-06-16T19:30:23+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 60,
-      "new_mentions_this_run": 25,
+      "count": 62,
+      "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "7a637617c29deda2",
-        "title": "Wiregrass celebrates first graduates of Georgia Power-funded Summer Construction Training Program - Douglas Now",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYWgzcGdPRnZKbElDTTNsaXJncE5mR0NESUpCOEtwYXdJOWd0MVhQZjk5ZTlsdFp4dzFuWkhhMHVQNUJyRjl4UF9ZR2lOWF9peEdadzlQWTlOaS1TUVBEUm92Nk5WSVh1eUZzQ1lOYWI1Q2daT2NWeERmMWt0X1dOLUNxdzNWREs2QXJDWkh5dEJBcGhYX2JObzJ1Wk5KcGhpVkxIMzBLaDR3Q2xISE5nLXR6RnRkamJXTHRjYS1n?oc=5",
+        "id": "4b0c7a9490dd8a3f",
+        "title": "U.S. Extends the Life of a Georgia Power Plant Another 20 Years - Tomorrow's World Today",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWNONm9GeDNqV012dTBIVkRFeE9TMU5RZEkweGF3YU1mTEdJWlNWUGhZcDFIZkhISWV6aU1NYXIteldOWTJDUFV1OHdJREhJYUNwbWVId2FiV3BOaTZNVlhsTHFjNERKbm82UEdGZVVtSkhDVmlkN0NBMm9BbXhXQmYycWdpYmdaV0lnZGNCOUZWZHlUNXpicnduRDJVcEpnVXhqU2R1ejF4UQ?oc=5",
         "domain": "news.google.com",
-        "source": "Douglas Now",
+        "source": "Tomorrow's World Today",
         "language": "English",
-        "published_at": "2026-06-16T12:37:42+00:00",
-        "summary": "Wiregrass celebrates first graduates of Georgia Power-funded Summer Construction Training Program Douglas Now",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQYWgzcGdPRnZKbElDTTNsaXJncE5mR0NESUpCOEtwYXdJOWd0MVhQZjk5ZTlsdFp4dzFuWkhhMHVQNUJyRjl4UF9ZR2lOWF9peEdadzlQWTlOaS1TUVBEUm92Nk5WSVh1eUZzQ1lOYWI1Q2daT2NWeERmMWt0X1dOLUNxdzNWREs2QXJDWkh5dEJBcGhYX2JObzJ1Wk5KcGhpVkxIMzBLaDR3Q2xISE5nLXR6RnRkamJXTHRjYS1n?oc=5\" target=\"_blank\">Wiregrass celebrates first graduates of Georgia Power-funded Summer Construction Training Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Douglas Now</font>",
+        "published_at": "2026-06-16T16:35:10+00:00",
+        "summary": "U.S. Extends the Life of a Georgia Power Plant Another 20 Years Tomorrow's World Today",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWNONm9GeDNqV012dTBIVkRFeE9TMU5RZEkweGF3YU1mTEdJWlNWUGhZcDFIZkhISWV6aU1NYXIteldOWTJDUFV1OHdJREhJYUNwbWVId2FiV3BOaTZNVlhsTHFjNERKbm82UEdGZVVtSkhDVmlkN0NBMm9BbXhXQmYycWdpYmdaV0lnZGNCOUZWZHlUNXpicnduRDJVcEpnVXhqU2R1ejF4UQ?oc=5\" target=\"_blank\">U.S. Extends the Life of a Georgia Power Plant Another 20 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tomorrow's World Today</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-16T15:08:11+00:00"
+        "collected_at": "2026-06-16T19:30:40+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 9,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",
