@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-06-16T03:31:28+00:00",
+  "last_updated": "2026-06-16T09:21:46+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 8,
+  "count": 9,
   "mentions": [
     {
       "id": "60be11be635412ab",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-15T09:56:41+00:00"
+    },
+    {
+      "id": "79916932055581d6",
+      "title": "Updates to the Section 1703 Loan Guarantee Program - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONHZ6MzJXUktlak4xdE12dFVpSFRVZ2xqN1hPNzdHV3NWSnZXSUJoM0JXWjZES2tBTG40Nk81VmU2eExjQ3pCM3hxanEzS29LbldnT0dqUjRTd1VlYmNOMkRPQWFGT2FVU2M5NFpMWU9qV3FnR3ZvMjlJbmJlRDQtT21QaWgzUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-06-10T16:00:00+00:00",
+      "summary": "Updates to the Section 1703 Loan Guarantee Program Department of Energy (.gov)",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONHZ6MzJXUktlak4xdE12dFVpSFRVZ2xqN1hPNzdHV3NWSnZXSUJoM0JXWjZES2tBTG40Nk81VmU2eExjQ3pCM3hxanEzS29LbldnT0dqUjRTd1VlYmNOMkRPQWFGT2FVU2M5NFpMWU9qV3FnR3ZvMjlJbmJlRDQtT21QaWgzUQ?oc=5\" target=\"_blank\">Updates to the Section 1703 Loan Guarantee Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-16T09:21:46+00:00"
     },
     {
       "id": "40a8718d04d0cbe1",

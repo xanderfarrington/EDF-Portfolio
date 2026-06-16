@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-16T03:31:06+00:00",
+  "last_updated": "2026-06-16T09:21:24+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 47,
+  "count": 48,
   "mentions": [
     {
       "id": "cc32d1c6c8be29cc",
@@ -512,6 +512,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-10T16:55:42+00:00"
+    },
+    {
+      "id": "6e250279b6686147",
+      "title": "LIVE UPDATES: Track power outages as storms impact Central Alabama - WVTM",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWVoyRHNTc2dKd3R4bVFKdWZJNk9PdFo3Tmwwdm9iUnBlaXJPTlE4dVpVMTk1YmdmLXMzcjc1YXp0Ul9hU3ozOS1SbThST1lLdGl4YzFNcXFDbi1xdlREWGJHMWNyY3NaMl81TUxKd0VOVC1hT2JnNlE2dFpVXzJ2NWRWQUtmeFk?oc=5",
+      "domain": "news.google.com",
+      "source": "WVTM",
+      "language": "English",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "summary": "LIVE UPDATES: Track power outages as storms impact Central Alabama WVTM",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOWVoyRHNTc2dKd3R4bVFKdWZJNk9PdFo3Tmwwdm9iUnBlaXJPTlE4dVpVMTk1YmdmLXMzcjc1YXp0Ul9hU3ozOS1SbThST1lLdGl4YzFNcXFDbi1xdlREWGJHMWNyY3NaMl81TUxKd0VOVC1hT2JnNlE2dFpVXzJ2NWRWQUtmeFk?oc=5\" target=\"_blank\">LIVE UPDATES: Track power outages as storms impact Central Alabama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-16T09:21:24+00:00"
     },
     {
       "id": "b88d15f2a936b083",

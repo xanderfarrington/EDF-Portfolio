@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-16T03:31:23+00:00",
+  "last_updated": "2026-06-16T09:21:41+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 57,
+  "count": 58,
   "mentions": [
     {
       "id": "e5b2da9443d58ca2",
@@ -559,6 +559,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-10T20:22:49+00:00"
+    },
+    {
+      "id": "a4df4ac32720408d",
+      "title": "Georgia Power rates will go down starting next month - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTEFud19EWGg4QmdtX2FrcjUxcW04cWdScXN2TXZyTkYyZGhNYlNMOV9Qc3VfRGxTWVNPZkE1RHk2SE1OeXdzVmotTGZ5ZHl2dkU2OHVobGROa2xJMjUwNGZocTlORmhQXzE2bm0xSlg5bjB5S2ZoUkVsWDBZdlQwcGVrcnZjeGE4bVA5azlWU0ZVaTZhczVJaXpkalFCQ0RoWnIzNUpkR0V6cTFwOW1qMWRkZw?oc=5",
+      "domain": "news.google.com",
+      "source": "WSB-TV",
+      "language": "English",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "summary": "Georgia Power rates will go down starting next month WSB-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQTEFud19EWGg4QmdtX2FrcjUxcW04cWdScXN2TXZyTkYyZGhNYlNMOV9Qc3VfRGxTWVNPZkE1RHk2SE1OeXdzVmotTGZ5ZHl2dkU2OHVobGROa2xJMjUwNGZocTlORmhQXzE2bm0xSlg5bjB5S2ZoUkVsWDBZdlQwcGVrcnZjeGE4bVA5azlWU0ZVaTZhczVJaXpkalFCQ0RoWnIzNUpkR0V6cTFwOW1qMWRkZw?oc=5\" target=\"_blank\">Georgia Power rates will go down starting next month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-16T09:21:41+00:00"
     },
     {
       "id": "5af3a71c91cdea9b",
