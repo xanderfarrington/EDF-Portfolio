@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-06-16T22:07:38+00:00",
+  "last_updated": "2026-06-17T03:29:16+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 31,
-      "new_mentions_this_run": 3,
+      "count": 32,
+      "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "bea9afb09b7745dd",
-        "title": "New grid-resilient twist, American Electric Power’s BOLD line hardens storm-prone networks - AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3NaY3p0dnpnWG5LY3RJVUJkZ0t6SjJIb0dULWpFYjZjNk9LNWRqbzZ4Rng5QW96UmFCTV90NDhWNURzclIxbG9qWmgtZ213dFVRLTFjRWpiQTdlNzdUNWtoZkNvUElVQUZyRHR4Ykl1cWpRTkhmQ3dnRjZRdzY5NkNCdzBLaWMwM21zNXZkUUVEQl9sVUJnUXdMekVIVkdOOER5cmdVb3RJVTk2NVY3b1VWaTVxME1ySm4tLTczVmZ4WGZDM0E?oc=5",
+        "id": "9d251408e4da7385",
+        "title": "American Electric Power's BOLD line targets bigger power moves on Tuesday - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeDdCQUNMdTVxMFdwcGxFakt0WTlNMUV5aC1wbHBXSVdJZ0M4YlhIN3NIRWk2ek01MXIwQ0RTenB5MUs5TlljMnVwSlZEeHE5amZNWTU1cXpRcHZoSzI4a2p2Um9lTlVSU0szMjQxMXJ6enJHbUtLMFlocXIzYTVoSVZGaU0tdmpyQ04weUJtR2gtYk95TVpwaW1RMmgyaUFnM2o2OUFrTlNjQV9wZTJKSjNBYXVMZmVGajNaY3ExUWVxSWlFV011TEtkMEI?oc=5",
         "domain": "news.google.com",
         "source": "AD HOC NEWS",
         "language": "English",
-        "published_at": "2026-06-16T13:52:37+00:00",
-        "summary": "New grid-resilient twist, American Electric Power’s BOLD line hardens storm-prone networks AD HOC NEWS",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3NaY3p0dnpnWG5LY3RJVUJkZ0t6SjJIb0dULWpFYjZjNk9LNWRqbzZ4Rng5QW96UmFCTV90NDhWNURzclIxbG9qWmgtZ213dFVRLTFjRWpiQTdlNzdUNWtoZkNvUElVQUZyRHR4Ykl1cWpRTkhmQ3dnRjZRdzY5NkNCdzBLaWMwM21zNXZkUUVEQl9sVUJnUXdMekVIVkdOOER5cmdVb3RJVTk2NVY3b1VWaTVxME1ySm4tLTczVmZ4WGZDM0E?oc=5\" target=\"_blank\">New grid-resilient twist, American Electric Power’s BOLD line hardens storm-prone networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+        "published_at": "2026-06-16T23:36:24+00:00",
+        "summary": "American Electric Power's BOLD line targets bigger power moves on Tuesday AD HOC NEWS",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNeDdCQUNMdTVxMFdwcGxFakt0WTlNMUV5aC1wbHBXSVdJZ0M4YlhIN3NIRWk2ek01MXIwQ0RTenB5MUs5TlljMnVwSlZEeHE5amZNWTU1cXpRcHZoSzI4a2p2Um9lTlVSU0szMjQxMXJ6enJHbUtLMFlocXIzYTVoSVZGaU0tdmpyQ04weUJtR2gtYk95TVpwaW1RMmgyaUFnM2o2OUFrTlNjQV9wZTJKSjNBYXVMZmVGajNaY3ExUWVxSWlFV011TEtkMEI?oc=5\" target=\"_blank\">American Electric Power's BOLD line targets bigger power moves on Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-16T15:07:49+00:00"
+        "collected_at": "2026-06-17T03:28:43+00:00"
       }
     },
     {
