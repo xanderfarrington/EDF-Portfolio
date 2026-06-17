@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-17T03:29:16+00:00",
+  "last_updated": "2026-06-17T08:56:47+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 32,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "9d251408e4da7385",
         "title": "American Electric Power's BOLD line targets bigger power moves on Tuesday - AD HOC NEWS",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 50,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 14,
       "latest_mention": {
         "id": "7ec9b59e0bf3dfcb",
         "title": "Alabama Power's Safe-T-Zone helps Montevallo, Dothan first responders recognize electrical hazards - Alabama News Center",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 34,
+      "count": 37,
       "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "b6508b7441d898f2",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 64,
+      "count": 65,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "d5f596dc33ae987a",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 9,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",

@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-17T03:29:00+00:00",
+  "last_updated": "2026-06-17T08:56:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 34,
+  "count": 37,
   "mentions": [
     {
       "id": "b6508b7441d898f2",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-13T19:16:21+00:00"
+    },
+    {
+      "id": "67a21dd598ad6b7d",
+      "title": "NRC issues preliminary EA/FONSI for Crane restart - ANS.org",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXZyLVNTRWNkbTcwelZ1ZnRzSW1PbElNdWRkaGgyb1dKVkFnZDh4Mzdfb0RXNk1tOTVvZXZidThPWmpaUGpJdUp1cl9oQndMTkRqTjF5QjJZd1dxN3Y0YU9XOXVLZERiZDI4WGJjWGluU014d0xTN1BYSkx0WTVIWWV6MXgwcmhGSW5wdW5HSDdaVTA3ZDlJamVEQXo3LUE?oc=5",
+      "domain": "news.google.com",
+      "source": "ANS.org",
+      "language": "English",
+      "published_at": "2026-06-10T03:16:55+00:00",
+      "summary": "NRC issues preliminary EA/FONSI for Crane restart ANS.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXZyLVNTRWNkbTcwelZ1ZnRzSW1PbElNdWRkaGgyb1dKVkFnZDh4Mzdfb0RXNk1tOTVvZXZidThPWmpaUGpJdUp1cl9oQndMTkRqTjF5QjJZd1dxN3Y0YU9XOXVLZERiZDI4WGJjWGluU014d0xTN1BYSkx0WTVIWWV6MXgwcmhGSW5wdW5HSDdaVTA3ZDlJamVEQXo3LUE?oc=5\" target=\"_blank\">NRC issues preliminary EA/FONSI for Crane restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANS.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-17T08:56:31+00:00"
     },
     {
       "id": "4df59d90a2f0b109",
@@ -142,6 +156,20 @@
       "collected_at": "2026-06-09T17:56:45+00:00"
     },
     {
+      "id": "c187f87bb32345af",
+      "title": "FERC approves Constellation waiver request on Crane restart - ANS.org",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjNaVWE5c19oVUY4bUlUdXJoRExpbC01Q0ZjYUdtVV9fXzZxLUVjUlVWT1hkRkxkbVE1SXR0VkU4NldBT0gwMnN2ZndOdTRsR0hNbjk2Q3Z4X1Z0NXNtSEQzQjZYdjhrdXlsRTRzdHVZMjB4NWNiVmtKQ05ZN3MxVjVlU0lIQ1dJaGd1Y1ZzYTR1MVJ6eHVfVUZIOU10TUgzaDJoT2laQ2hWVHFKeGc?oc=5",
+      "domain": "news.google.com",
+      "source": "ANS.org",
+      "language": "English",
+      "published_at": "2026-06-06T04:13:55+00:00",
+      "summary": "FERC approves Constellation waiver request on Crane restart ANS.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjNaVWE5c19oVUY4bUlUdXJoRExpbC01Q0ZjYUdtVV9fXzZxLUVjUlVWT1hkRkxkbVE1SXR0VkU4NldBT0gwMnN2ZndOdTRsR0hNbjk2Q3Z4X1Z0NXNtSEQzQjZYdjhrdXlsRTRzdHVZMjB4NWNiVmtKQ05ZN3MxVjVlU0lIQ1dJaGd1Y1ZzYTR1MVJ6eHVfVUZIOU10TUgzaDJoT2laQ2hWVHFKeGc?oc=5\" target=\"_blank\">FERC approves Constellation waiver request on Crane restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANS.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-17T08:56:31+00:00"
+    },
+    {
       "id": "e9c7317dfd950d3e",
       "title": "FERC approves Constellation waiver request on Crane restart - American Nuclear Society -- ANS",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZHk0bjF4T0pybl9EVUwxYy1mdVN0dHFhYU5tekJDQzVKYXZTZ0EtMWFPWV95XzJySzBBUkFYcTVrTEN2WU1jQVJXNnlIbGwyei1KNEdLZUwza2dDcFlRVTJPaUNkYW9zLXhGOWJrV3lLODQ4VGNTNVMwbFhFMnlZdGxXVi05V0ZNYzVVbnJicGdsSlNWUHFIaFVhZUNreWs?oc=5",
@@ -167,6 +195,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-10T02:50:04+00:00"
+    },
+    {
+      "id": "904be91c178626a0",
+      "title": "Three Mile Island approved to use 73.2M gallons of water daily from Susquehanna River - WJAC",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxObVNFUW9LbHVwa2VWclRvV0t3X0NBTFp6ZzhBaEpLVVcyN0xuMUI4OF9MY015MTBOdER2TXBOSVlabFJ4QzRhTlR3cEppaVN5bVJnazg5Qm51RVdBT2dsdGM3OVl6ZkdET2R4TExvZ0p0RXRsbV92Z3hhSks5dFJoZEF4Z0NxdDd2Nll2bm9GSXdqZkpVejNDZW4tWkg2QTRVUHBtN1VIN0diMzF3c3NFVHdyc3gxbnd5VjU5b2tsdkUtd01RWlF0cWthcjlpM1hfSFFWZjZOWHJwTDFoV0lURUtxT1VmNmlOTll0clAtc2dpY2t3UWVxbU96NWdqMHF4U3RReUJmZW55QVdaWjluX193?oc=5",
+      "domain": "news.google.com",
+      "source": "WJAC",
+      "language": "English",
+      "published_at": "2026-06-05T07:00:00+00:00",
+      "summary": "Three Mile Island approved to use 73.2M gallons of water daily from Susquehanna River WJAC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxObVNFUW9LbHVwa2VWclRvV0t3X0NBTFp6ZzhBaEpLVVcyN0xuMUI4OF9MY015MTBOdER2TXBOSVlabFJ4QzRhTlR3cEppaVN5bVJnazg5Qm51RVdBT2dsdGM3OVl6ZkdET2R4TExvZ0p0RXRsbV92Z3hhSks5dFJoZEF4Z0NxdDd2Nll2bm9GSXdqZkpVejNDZW4tWkg2QTRVUHBtN1VIN0diMzF3c3NFVHdyc3gxbnd5VjU5b2tsdkUtd01RWlF0cWthcjlpM1hfSFFWZjZOWHJwTDFoV0lURUtxT1VmNmlOTll0clAtc2dpY2t3UWVxbU96NWdqMHF4U3RReUJmZW55QVdaWjluX193?oc=5\" target=\"_blank\">Three Mile Island approved to use 73.2M gallons of water daily from Susquehanna River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJAC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-17T08:56:31+00:00"
     },
     {
       "id": "6b3989156e0aa5ce",
