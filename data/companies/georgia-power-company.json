@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-17T20:06:29+00:00",
+  "last_updated": "2026-06-17T23:19:24+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 67,
+  "count": 68,
   "mentions": [
     {
       "id": "c7187c45e8cec513",
@@ -807,6 +807,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-13T19:16:26+00:00"
+    },
+    {
+      "id": "8bc47b526b712238",
+      "title": "Georgia PSC votes to lower Georgia Power utility rates - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2xOa0RWa01PX1FYa0t0ZVRqR0R0VWllR3kxMkFGZDUxNVprTFkyTlVMd05rV2p2T2owaTltSzJQdWZPRnhDb0dYUU1DS1NIc0dDMW51Mk1KSWFDMF9OZmZpQ291V2hHckNhNWJkeERYZVE1SnFVR19jUWx5VGZ3M1VSZ3hOaXBkV0Y2X9IBkgFBVV95cUxPbEIwdGh5OFd4U0FLQUVuV3NCQjJ5UlJKZXRsTldKYUlUMENxVnJjQWY5RnpsaGlwYXMtVEtEd3pvTDlGWGJqUEhMVlVQcmltYklXOFFCYkhmV0ZyZkl5OEVXWGdqel9rMlFyMF9zY2ZTUEdfWEF1bGV4TTRtNFQ5d3d5NXJ5bTJjTjNnRTRDXzl5QQ?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX 5 Atlanta",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Georgia PSC votes to lower Georgia Power utility rates FOX 5 Atlanta",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxON2xOa0RWa01PX1FYa0t0ZVRqR0R0VWllR3kxMkFGZDUxNVprTFkyTlVMd05rV2p2T2owaTltSzJQdWZPRnhDb0dYUU1DS1NIc0dDMW51Mk1KSWFDMF9OZmZpQ291V2hHckNhNWJkeERYZVE1SnFVR19jUWx5VGZ3M1VSZ3hOaXBkV0Y2X9IBkgFBVV95cUxPbEIwdGh5OFd4U0FLQUVuV3NCQjJ5UlJKZXRsTldKYUlUMENxVnJjQWY5RnpsaGlwYXMtVEtEd3pvTDlGWGJqUEhMVlVQcmltYklXOFFCYkhmV0ZyZkl5OEVXWGdqel9rMlFyMF9zY2ZTUEdfWEF1bGV4TTRtNFQ5d3d5NXJ5bTJjTjNnRTRDXzl5QQ?oc=5\" target=\"_blank\">Georgia PSC votes to lower Georgia Power utility rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-17T23:19:24+00:00"
     },
     {
       "id": "0c358710ac78474b",

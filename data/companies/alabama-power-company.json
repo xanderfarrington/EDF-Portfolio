@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-17T20:06:12+00:00",
+  "last_updated": "2026-06-17T23:19:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 54,
+  "count": 55,
   "mentions": [
     {
       "id": "ea273ca916df54d4",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-17T16:52:37+00:00"
+    },
+    {
+      "id": "0febb4a3e5154042",
+      "title": "Alabama Power launches new online tool to help customers track energy usage during summer heat - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWVctWl9UMTBBLVpjN3RXcjFicXlRRF9OUU1sNENGT3VvRUhIelNYaDh0Z1BOTjlvRGZGdjVmMFFMM1ZMQzhsM1V5WEo4UHRNN1ltbXlKQWx4eERhSzhRY2lpZ0x6b3AwT1pDQXZpT3lra3ZxU0djYVViNzBnYWszemxzUTZNLTdWdW16X2hGQTU4bV9oaXVIU1hxeERtS0U3X3RDVDE2UWdLdXBNM0NCR3ZLWDhlVEdWQWxHMkRacExkd0FMWkxnaUJaOTk2QzBPQ0RUeHBNdTJqMFdCc3VrZlVmYTA2dw?oc=5",
+      "domain": "news.google.com",
+      "source": "MSN",
+      "language": "English",
+      "published_at": "2026-06-17T10:07:12+00:00",
+      "summary": "Alabama Power launches new online tool to help customers track energy usage during summer heat MSN",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWVctWl9UMTBBLVpjN3RXcjFicXlRRF9OUU1sNENGT3VvRUhIelNYaDh0Z1BOTjlvRGZGdjVmMFFMM1ZMQzhsM1V5WEo4UHRNN1ltbXlKQWx4eERhSzhRY2lpZ0x6b3AwT1pDQXZpT3lra3ZxU0djYVViNzBnYWszemxzUTZNLTdWdW16X2hGQTU4bV9oaXVIU1hxeERtS0U3X3RDVDE2UWdLdXBNM0NCR3ZLWDhlVEdWQWxHMkRacExkd0FMWkxnaUJaOTk2QzBPQ0RUeHBNdTJqMFdCc3VrZlVmYTA2dw?oc=5\" target=\"_blank\">Alabama Power launches new online tool to help customers track energy usage during summer heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-17T23:19:07+00:00"
     },
     {
       "id": "7ec9b59e0bf3dfcb",

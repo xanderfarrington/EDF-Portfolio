@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-17T20:06:39+00:00",
+  "last_updated": "2026-06-17T23:19:34+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 32,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "9d251408e4da7385",
         "title": "American Electric Power's BOLD line targets bigger power moves on Tuesday - AD HOC NEWS",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 54,
+      "count": 55,
       "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "ea273ca916df54d4",
@@ -47,7 +47,7 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 4,
+      "count": 5,
       "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e3b45f09731955dd",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 38,
-      "new_mentions_this_run": 14,
+      "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "b6508b7441d898f2",
         "title": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart - SightLine | U308",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 67,
-      "new_mentions_this_run": 25,
+      "count": 68,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "c7187c45e8cec513",
         "title": "NRC renews Georgia Power’s Plant Hatch license for 20 years - Daily Energy Insider",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 9,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",
