@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-17T08:56:47+00:00",
+  "last_updated": "2026-06-17T13:38:59+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 32,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "9d251408e4da7385",
         "title": "American Electric Power's BOLD line targets bigger power moves on Tuesday - AD HOC NEWS",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 50,
-      "new_mentions_this_run": 14,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "7ec9b59e0bf3dfcb",
         "title": "Alabama Power's Safe-T-Zone helps Montevallo, Dothan first responders recognize electrical hazards - Alabama News Center",
@@ -47,21 +47,21 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 1,
-      "new_mentions_this_run": 1,
+      "count": 2,
+      "new_mentions_this_run": 2,
       "latest_mention": {
-        "id": "60be11be635412ab",
-        "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5",
+        "id": "7601fe1ebfef7544",
+        "title": "Morrison-Backed Chrysalis Renewables Acquires Two US Solar Projects Through Hanwha Partnership - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNckI5UWpFTEVzU2dKcE5Kak5uWUZKajdOZ3NtdkxkT0pWZ2NXbzh6azM2bWdaZGlGN0RmZnVWTlpDenRrN21VTWVmX05tNlVEN1psWk1uYXRremR1dUJKMjlCLUV4RVlJc0dXSUVKN3JDNjlTTW9ETjZTTGU0eG5NYkZUekh1ZHpRU3BYbTVuaGVWbTUwTF9JS0YyVHBTRUJWamxvRFo3WnVjeVFwR2huV3ZPR2lfbTYzLVZQRFZ6TG53YW92SWdmclBNR3N5WWZXYXVSUFh5TXlyeDlQNW5JbDIycmlUZw?oc=5",
         "domain": "news.google.com",
-        "source": "Department of Energy (.gov)",
+        "source": "Business Wire",
         "language": "English",
-        "published_at": "2026-06-10T16:00:00+00:00",
-        "summary": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing Department of Energy (.gov)",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5\" target=\"_blank\">NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+        "published_at": "2026-06-17T13:00:00+00:00",
+        "summary": "Morrison-Backed Chrysalis Renewables Acquires Two US Solar Projects Through Hanwha Partnership Business Wire",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNckI5UWpFTEVzU2dKcE5Kak5uWUZKajdOZ3NtdkxkT0pWZ2NXbzh6azM2bWdaZGlGN0RmZnVWTlpDenRrN21VTWVmX05tNlVEN1psWk1uYXRremR1dUJKMjlCLUV4RVlJc0dXSUVKN3JDNjlTTW9ETjZTTGU0eG5NYkZUekh1ZHpRU3BYbTVuaGVWbTUwTF9JS0YyVHBTRUJWamxvRFo3WnVjeVFwR2huV3ZPR2lfbTYzLVZQRFZ6TG53YW92SWdmclBNR3N5WWZXYXVSUFh5TXlyeDlQNW5JbDIycmlUZw?oc=5\" target=\"_blank\">Morrison-Backed Chrysalis Renewables Acquires Two US Solar Projects Through Hanwha Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-15T15:44:46+00:00"
+        "collected_at": "2026-06-17T13:38:38+00:00"
       }
     },
     {
