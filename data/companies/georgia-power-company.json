@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-17T16:52:54+00:00",
+  "last_updated": "2026-06-17T20:06:29+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 66,
+  "count": 67,
   "mentions": [
     {
       "id": "c7187c45e8cec513",
@@ -834,6 +834,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-10T16:55:59+00:00"
+    },
+    {
+      "id": "7f929db6d5bc7762",
+      "title": "Beth Lowry named to Georgia Power Board of Directors - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVFhbTRqd0cxX05XVHNtNGpaOHlXdUNuckFFV1otcE5fZ2J6a0xlb0JIX1hrRVFXaDc4RGRiYTA1eEE0U0tqMGVtbVV1a1VFemRpdGJ6Vkk0M1ZKM3VEZmhSTXJpZE05YUR0YjUwa0ozdk52eTBCY2FhSnVaRkhySU5jLUhZSnNCTGhzZkpoRV9mZWdxYUlDeUZ0WVNZYmlBa1VsSm8zdkZ5VFNL?oc=5",
+      "domain": "news.google.com",
+      "source": "PR Newswire",
+      "language": "English",
+      "published_at": "2026-05-26T07:00:00+00:00",
+      "summary": "Beth Lowry named to Georgia Power Board of Directors PR Newswire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVFhbTRqd0cxX05XVHNtNGpaOHlXdUNuckFFV1otcE5fZ2J6a0xlb0JIX1hrRVFXaDc4RGRiYTA1eEE0U0tqMGVtbVV1a1VFemRpdGJ6Vkk0M1ZKM3VEZmhSTXJpZE05YUR0YjUwa0ozdk52eTBCY2FhSnVaRkhySU5jLUhZSnNCTGhzZkpoRV9mZWdxYUlDeUZ0WVNZYmlBa1VsSm8zdkZ5VFNL?oc=5\" target=\"_blank\">Beth Lowry named to Georgia Power Board of Directors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-17T20:06:29+00:00"
     },
     {
       "id": "8621081c28d086bc",

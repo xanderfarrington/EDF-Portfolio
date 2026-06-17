@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T16:53:04+00:00",
+  "last_updated": "2026-06-17T20:06:39+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 52,
+      "count": 54,
       "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "60fcd16c44d27b4f",
-        "title": "Alabama Power, Others On The Ground After Hurricane Helene | Oct. 1, 2024 | News 19 At 6 P.m. Trump Economic Policies Poll (REEtEctBQy) - Fathom Journal",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFbjNvQ1ZjV09pM1FrTXlDRHIxcThhWXBNbVp1VU5YZVdsVDRadjhCSEdlNXZxeGl5Vzg5QVRianZyYkthdGhRQkJYTVl1Uy1QUGtzODcxVG1KaEp2ek01ZGRWbXo?oc=5",
+        "id": "ea273ca916df54d4",
+        "title": "Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather - WBMA",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTnpLSDZBaXI4MFE0N1h4RS1FYncyX2hIMVM0OU9HcVRYdXlCUWhSMW5MMkc3dGh2RVdNZF9oM2tpTEJKUHZhMjhTSURWS1d6QWYtdnZUZmtwQ2RqSzBocGpCb3h2NVVObHlyZFh6bnAwX2VxR1BObUllSG0tVXRXUHFaUnFPNUJMNHdXTDVudTc0YmRaa3hfcGJRUHZ0Wi02OGIxeHN2N1BCd1BFbDFDQg?oc=5",
         "domain": "news.google.com",
-        "source": "Fathom Journal",
+        "source": "WBMA",
         "language": "English",
-        "published_at": "2026-06-17T12:52:42+00:00",
-        "summary": "Alabama Power, Others On The Ground After Hurricane Helene | Oct. 1, 2024 | News 19 At 6 P.m. Trump Economic Policies Poll (REEtEctBQy) Fathom Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFbjNvQ1ZjV09pM1FrTXlDRHIxcThhWXBNbVp1VU5YZVdsVDRadjhCSEdlNXZxeGl5Vzg5QVRianZyYkthdGhRQkJYTVl1Uy1QUGtzODcxVG1KaEp2ek01ZGRWbXo?oc=5\" target=\"_blank\">Alabama Power, Others On The Ground After Hurricane Helene | Oct. 1, 2024 | News 19 At 6 P.m. Trump Economic Policies Poll (REEtEctBQy)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+        "published_at": "2026-06-17T19:56:04+00:00",
+        "summary": "Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather WBMA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTnpLSDZBaXI4MFE0N1h4RS1FYncyX2hIMVM0OU9HcVRYdXlCUWhSMW5MMkc3dGh2RVdNZF9oM2tpTEJKUHZhMjhTSURWS1d6QWYtdnZUZmtwQ2RqSzBocGpCb3h2NVVObHlyZFh6bnAwX2VxR1BObUllSG0tVXRXUHFaUnFPNUJMNHdXTDVudTc0YmRaa3hfcGJRUHZ0Wi02OGIxeHN2N1BCd1BFbDFDQg?oc=5\" target=\"_blank\">Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-17T16:52:37+00:00"
+        "collected_at": "2026-06-17T20:06:12+00:00"
       }
     },
     {
@@ -68,8 +68,8 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 37,
-      "new_mentions_this_run": 15,
+      "count": 38,
+      "new_mentions_this_run": 14,
       "latest_mention": {
         "id": "b6508b7441d898f2",
         "title": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart - SightLine | U308",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 66,
+      "count": 67,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "c7187c45e8cec513",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 9,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",

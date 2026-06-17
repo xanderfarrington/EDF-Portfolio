@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-17T16:52:48+00:00",
+  "last_updated": "2026-06-17T20:06:23+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 37,
+  "count": 38,
   "mentions": [
     {
       "id": "b6508b7441d898f2",
@@ -181,6 +181,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:29+00:00"
+    },
+    {
+      "id": "6097e9dab80133fe",
+      "title": "FERC approves Constellation waiver request on Crane restart - ANS.org",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZHk0bjF4T0pybl9EVUwxYy1mdVN0dHFhYU5tekJDQzVKYXZTZ0EtMWFPWV95XzJySzBBUkFYcTVrTEN2WU1jQVJXNnlIbGwyei1KNEdLZUwza2dDcFlRVTJPaUNkYW9zLXhGOWJrV3lLODQ4VGNTNVMwbFhFMnlZdGxXVi05V0ZNYzVVbnJicGdsSlNWUHFIaFVhZUNreWs?oc=5",
+      "domain": "news.google.com",
+      "source": "ANS.org",
+      "language": "English",
+      "published_at": "2026-06-05T13:22:18+00:00",
+      "summary": "FERC approves Constellation waiver request on Crane restart ANS.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNZHk0bjF4T0pybl9EVUwxYy1mdVN0dHFhYU5tekJDQzVKYXZTZ0EtMWFPWV95XzJySzBBUkFYcTVrTEN2WU1jQVJXNnlIbGwyei1KNEdLZUwza2dDcFlRVTJPaUNkYW9zLXhGOWJrV3lLODQ4VGNTNVMwbFhFMnlZdGxXVi05V0ZNYzVVbnJicGdsSlNWUHFIaFVhZUNreWs?oc=5\" target=\"_blank\">FERC approves Constellation waiver request on Crane restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANS.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-17T20:06:23+00:00"
     },
     {
       "id": "4f41a0e62ede6c01",

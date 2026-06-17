@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-17T16:52:37+00:00",
+  "last_updated": "2026-06-17T20:06:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 52,
+  "count": 54,
   "mentions": [
+    {
+      "id": "ea273ca916df54d4",
+      "title": "Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTnpLSDZBaXI4MFE0N1h4RS1FYncyX2hIMVM0OU9HcVRYdXlCUWhSMW5MMkc3dGh2RVdNZF9oM2tpTEJKUHZhMjhTSURWS1d6QWYtdnZUZmtwQ2RqSzBocGpCb3h2NVVObHlyZFh6bnAwX2VxR1BObUllSG0tVXRXUHFaUnFPNUJMNHdXTDVudTc0YmRaa3hfcGJRUHZ0Wi02OGIxeHN2N1BCd1BFbDFDQg?oc=5",
+      "domain": "news.google.com",
+      "source": "WBMA",
+      "language": "English",
+      "published_at": "2026-06-17T19:56:04+00:00",
+      "summary": "Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather WBMA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTnpLSDZBaXI4MFE0N1h4RS1FYncyX2hIMVM0OU9HcVRYdXlCUWhSMW5MMkc3dGh2RVdNZF9oM2tpTEJKUHZhMjhTSURWS1d6QWYtdnZUZmtwQ2RqSzBocGpCb3h2NVVObHlyZFh6bnAwX2VxR1BObUllSG0tVXRXUHFaUnFPNUJMNHdXTDVudTc0YmRaa3hfcGJRUHZ0Wi02OGIxeHN2N1BCd1BFbDFDQg?oc=5\" target=\"_blank\">Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-17T20:06:12+00:00"
+    },
     {
       "id": "60fcd16c44d27b4f",
       "title": "Alabama Power, Others On The Ground After Hurricane Helene | Oct. 1, 2024 | News 19 At 6 P.m. Trump Economic Policies Poll (REEtEctBQy) - Fathom Journal",
@@ -637,6 +651,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-14T19:17:03+00:00"
+    },
+    {
+      "id": "0fb93eb68b1f0289",
+      "title": "Federal appeals court reinstates lawsuit over Alabama Power coal ash at Plant Barry - Gulf Coast Media",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmtEaEhlM19XaENiNUVqTVRXT3ZxMDktWWRyaHRkaDk1eVRJUF9hTHZRSHFINUpfLVBSYUN6cE1tTGRFelVfc21XY3g4V0RHUmpzNkdvczhRdGt2Zlh0TWhxWjhOTzZNaDZEYWhNZEJ1REFQOFlLSzl6akNPcmVpUUg4ZEFIeVdQbUhkMERBbmRmc2xGZDlCYUlQTEZWX25aTjFlRExMQ3ZnUllHZ3h1OHo1M2pZX2V2QzE2amZVREI4aG9UVG5VLQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Gulf Coast Media",
+      "language": "English",
+      "published_at": "2026-05-27T07:00:00+00:00",
+      "summary": "Federal appeals court reinstates lawsuit over Alabama Power coal ash at Plant Barry Gulf Coast Media",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmtEaEhlM19XaENiNUVqTVRXT3ZxMDktWWRyaHRkaDk1eVRJUF9hTHZRSHFINUpfLVBSYUN6cE1tTGRFelVfc21XY3g4V0RHUmpzNkdvczhRdGt2Zlh0TWhxWjhOTzZNaDZEYWhNZEJ1REFQOFlLSzl6akNPcmVpUUg4ZEFIeVdQbUhkMERBbmRmc2xGZDlCYUlQTEZWX25aTjFlRExMQ3ZnUllHZ3h1OHo1M2pZX2V2QzE2amZVREI4aG9UVG5VLQ?oc=5\" target=\"_blank\">Federal appeals court reinstates lawsuit over Alabama Power coal ash at Plant Barry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf Coast Media</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-17T20:06:12+00:00"
     },
     {
       "id": "45a7045fa434a3b6",
