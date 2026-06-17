@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T13:38:59+00:00",
+  "last_updated": "2026-06-17T16:53:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,42 +26,42 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 50,
+      "count": 52,
       "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "7ec9b59e0bf3dfcb",
-        "title": "Alabama Power's Safe-T-Zone helps Montevallo, Dothan first responders recognize electrical hazards - Alabama News Center",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTDVEeUVHS2RvUF91VDJOQ19NS2tLbE9HdlozVGlWU1QzazBDSk1mMUhZZjRvRlprem1CMWtwUUlXY004UFdZQjhNeG9HRXFESGdBbUZOdW03VnVlb3FLSEJsbDFZUFpCS1pSN1ptbV9jbUYxbzVXaFlnYmxFa0Z3Vm1MaGpoNzJWeTJqXzdWM2gtWm5PWWc4ak04OUt4RXVuRVE0NE5sQUlBVTNjXzFweUhWamlfc0g2bnQ5SkVONFd1RndIeFFKajVXYlI2MGF4aXYzYg?oc=5",
+        "id": "60fcd16c44d27b4f",
+        "title": "Alabama Power, Others On The Ground After Hurricane Helene | Oct. 1, 2024 | News 19 At 6 P.m. Trump Economic Policies Poll (REEtEctBQy) - Fathom Journal",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFbjNvQ1ZjV09pM1FrTXlDRHIxcThhWXBNbVp1VU5YZVdsVDRadjhCSEdlNXZxeGl5Vzg5QVRianZyYkthdGhRQkJYTVl1Uy1QUGtzODcxVG1KaEp2ek01ZGRWbXo?oc=5",
         "domain": "news.google.com",
-        "source": "Alabama News Center",
+        "source": "Fathom Journal",
         "language": "English",
-        "published_at": "2026-06-16T19:05:21+00:00",
-        "summary": "Alabama Power's Safe-T-Zone helps Montevallo, Dothan first responders recognize electrical hazards Alabama News Center",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTDVEeUVHS2RvUF91VDJOQ19NS2tLbE9HdlozVGlWU1QzazBDSk1mMUhZZjRvRlprem1CMWtwUUlXY004UFdZQjhNeG9HRXFESGdBbUZOdW03VnVlb3FLSEJsbDFZUFpCS1pSN1ptbV9jbUYxbzVXaFlnYmxFa0Z3Vm1MaGpoNzJWeTJqXzdWM2gtWm5PWWc4ak04OUt4RXVuRVE0NE5sQUlBVTNjXzFweUhWamlfc0g2bnQ5SkVONFd1RndIeFFKajVXYlI2MGF4aXYzYg?oc=5\" target=\"_blank\">Alabama Power's Safe-T-Zone helps Montevallo, Dothan first responders recognize electrical hazards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama News Center</font>",
+        "published_at": "2026-06-17T12:52:42+00:00",
+        "summary": "Alabama Power, Others On The Ground After Hurricane Helene | Oct. 1, 2024 | News 19 At 6 P.m. Trump Economic Policies Poll (REEtEctBQy) Fathom Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFbjNvQ1ZjV09pM1FrTXlDRHIxcThhWXBNbVp1VU5YZVdsVDRadjhCSEdlNXZxeGl5Vzg5QVRianZyYkthdGhRQkJYTVl1Uy1QUGtzODcxVG1KaEp2ek01ZGRWbXo?oc=5\" target=\"_blank\">Alabama Power, Others On The Ground After Hurricane Helene | Oct. 1, 2024 | News 19 At 6 P.m. Trump Economic Policies Poll (REEtEctBQy)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-16T19:30:23+00:00"
+        "collected_at": "2026-06-17T16:52:37+00:00"
       }
     },
     {
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 2,
-      "new_mentions_this_run": 2,
+      "count": 4,
+      "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "7601fe1ebfef7544",
-        "title": "Morrison-Backed Chrysalis Renewables Acquires Two US Solar Projects Through Hanwha Partnership - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNckI5UWpFTEVzU2dKcE5Kak5uWUZKajdOZ3NtdkxkT0pWZ2NXbzh6azM2bWdaZGlGN0RmZnVWTlpDenRrN21VTWVmX05tNlVEN1psWk1uYXRremR1dUJKMjlCLUV4RVlJc0dXSUVKN3JDNjlTTW9ETjZTTGU0eG5NYkZUekh1ZHpRU3BYbTVuaGVWbTUwTF9JS0YyVHBTRUJWamxvRFo3WnVjeVFwR2huV3ZPR2lfbTYzLVZQRFZ6TG53YW92SWdmclBNR3N5WWZXYXVSUFh5TXlyeDlQNW5JbDIycmlUZw?oc=5",
+        "id": "e3b45f09731955dd",
+        "title": "Morrison's Chrysalis buys 357 MW of Arizona solar under Hanwha deal - Renewables Now",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWTJIZU84WThSV1RKSGYySzlwV01OZ0FvdjBMMjJYdG44OXVzSk02WTdBVzFMS0R5Q0ZGM3phaHc3S0pCWThqN2RFRXJaVkVybldMbVZ1dHA4S2hHbTdITzVHX0JlNF9XbnhvVzJBUGtnd09IYVN1OXc3WVRIMjNXYlJzeHQwUFJxcHg0QkpsdG5VSVNnZUJfajQtVUdodmNPTVFtQ1Y3b2ZXZw?oc=5",
         "domain": "news.google.com",
-        "source": "Business Wire",
+        "source": "Renewables Now",
         "language": "English",
-        "published_at": "2026-06-17T13:00:00+00:00",
-        "summary": "Morrison-Backed Chrysalis Renewables Acquires Two US Solar Projects Through Hanwha Partnership Business Wire",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNckI5UWpFTEVzU2dKcE5Kak5uWUZKajdOZ3NtdkxkT0pWZ2NXbzh6azM2bWdaZGlGN0RmZnVWTlpDenRrN21VTWVmX05tNlVEN1psWk1uYXRremR1dUJKMjlCLUV4RVlJc0dXSUVKN3JDNjlTTW9ETjZTTGU0eG5NYkZUekh1ZHpRU3BYbTVuaGVWbTUwTF9JS0YyVHBTRUJWamxvRFo3WnVjeVFwR2huV3ZPR2lfbTYzLVZQRFZ6TG53YW92SWdmclBNR3N5WWZXYXVSUFh5TXlyeDlQNW5JbDIycmlUZw?oc=5\" target=\"_blank\">Morrison-Backed Chrysalis Renewables Acquires Two US Solar Projects Through Hanwha Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+        "published_at": "2026-06-17T14:26:48+00:00",
+        "summary": "Morrison's Chrysalis buys 357 MW of Arizona solar under Hanwha deal Renewables Now",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWTJIZU84WThSV1RKSGYySzlwV01OZ0FvdjBMMjJYdG44OXVzSk02WTdBVzFMS0R5Q0ZGM3phaHc3S0pCWThqN2RFRXJaVkVybldMbVZ1dHA4S2hHbTdITzVHX0JlNF9XbnhvVzJBUGtnd09IYVN1OXc3WVRIMjNXYlJzeHQwUFJxcHg0QkpsdG5VSVNnZUJfajQtVUdodmNPTVFtQ1Y3b2ZXZw?oc=5\" target=\"_blank\">Morrison's Chrysalis buys 357 MW of Arizona solar under Hanwha deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Renewables Now</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-17T13:38:38+00:00"
+        "collected_at": "2026-06-17T16:52:42+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 65,
+      "count": 66,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "d5f596dc33ae987a",
-        "title": "Georgia Power talks Hurricane Preparedness Month - WFXG",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUkzdXRnRW14V0NHZFBVeEVyVmhyS2I2UWtPLU1WbklaM0ZjVk9QZ0NsMllCMk1kZmlBQ2FwUG82amlEYXF4S2VrS0dnaFREOXo2M25vWWJmX2xPZW0zSVJGOWtDSXV4UlJhSTQzd3ZGUkk0bVJraTFvdGpaeGJZRVFZa0JRTGczVVdXMVVGSFBOVThHUnNIZ1NXd2hWc0JfTVlWa0N4dVBla294eTZrNUhIVy1HS0RzZjdJTk9UV0d2N1cwLXFaVUtqVEtLTkk?oc=5",
+        "id": "c7187c45e8cec513",
+        "title": "NRC renews Georgia Power’s Plant Hatch license for 20 years - Daily Energy Insider",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2hMbXZzcVhBMi1xT0txczhkWFR1YTlScjRiTVhKWDVvTnVLNW1BSTA4MTdSRGExVFJSYk1GV2tqaHY0M3dNRVEyRkdRNEYtcWRXUk1iZlA5QVV6TkkxMFZ2ekIxQ18ySEQ0RTJPVXNBSjgzMTNQODFhSU5tVktrU1FtcmlxRGxfeWtsVFB2X1lnQ0dFSVBHRS0zc2ZWYXhUelpJ?oc=5",
         "domain": "news.google.com",
-        "source": "WFXG",
+        "source": "Daily Energy Insider",
         "language": "English",
-        "published_at": "2026-06-16T19:49:00+00:00",
-        "summary": "Georgia Power talks Hurricane Preparedness Month WFXG",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUkzdXRnRW14V0NHZFBVeEVyVmhyS2I2UWtPLU1WbklaM0ZjVk9QZ0NsMllCMk1kZmlBQ2FwUG82amlEYXF4S2VrS0dnaFREOXo2M25vWWJmX2xPZW0zSVJGOWtDSXV4UlJhSTQzd3ZGUkk0bVJraTFvdGpaeGJZRVFZa0JRTGczVVdXMVVGSFBOVThHUnNIZ1NXd2hWc0JfTVlWa0N4dVBla294eTZrNUhIVy1HS0RzZjdJTk9UV0d2N1cwLXFaVUtqVEtLTkk?oc=5\" target=\"_blank\">Georgia Power talks Hurricane Preparedness Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFXG</font>",
+        "published_at": "2026-06-17T12:26:26+00:00",
+        "summary": "NRC renews Georgia Power’s Plant Hatch license for 20 years Daily Energy Insider",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2hMbXZzcVhBMi1xT0txczhkWFR1YTlScjRiTVhKWDVvTnVLNW1BSTA4MTdSRGExVFJSYk1GV2tqaHY0M3dNRVEyRkdRNEYtcWRXUk1iZlA5QVV6TkkxMFZ2ekIxQ18ySEQ0RTJPVXNBSjgzMTNQODFhSU5tVktrU1FtcmlxRGxfeWtsVFB2X1lnQ0dFSVBHRS0zc2ZWYXhUelpJ?oc=5\" target=\"_blank\">NRC renews Georgia Power’s Plant Hatch license for 20 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-16T22:07:28+00:00"
+        "collected_at": "2026-06-17T16:52:54+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 9,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",

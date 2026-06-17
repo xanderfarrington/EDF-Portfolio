@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-17T13:38:49+00:00",
+  "last_updated": "2026-06-17T16:52:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 65,
+  "count": 66,
   "mentions": [
+    {
+      "id": "c7187c45e8cec513",
+      "title": "NRC renews Georgia Power’s Plant Hatch license for 20 years - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2hMbXZzcVhBMi1xT0txczhkWFR1YTlScjRiTVhKWDVvTnVLNW1BSTA4MTdSRGExVFJSYk1GV2tqaHY0M3dNRVEyRkdRNEYtcWRXUk1iZlA5QVV6TkkxMFZ2ekIxQ18ySEQ0RTJPVXNBSjgzMTNQODFhSU5tVktrU1FtcmlxRGxfeWtsVFB2X1lnQ0dFSVBHRS0zc2ZWYXhUelpJ?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-06-17T12:26:26+00:00",
+      "summary": "NRC renews Georgia Power’s Plant Hatch license for 20 years Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2hMbXZzcVhBMi1xT0txczhkWFR1YTlScjRiTVhKWDVvTnVLNW1BSTA4MTdSRGExVFJSYk1GV2tqaHY0M3dNRVEyRkdRNEYtcWRXUk1iZlA5QVV6TkkxMFZ2ekIxQ18ySEQ0RTJPVXNBSjgzMTNQODFhSU5tVktrU1FtcmlxRGxfeWtsVFB2X1lnQ0dFSVBHRS0zc2ZWYXhUelpJ?oc=5\" target=\"_blank\">NRC renews Georgia Power’s Plant Hatch license for 20 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-17T16:52:54+00:00"
+    },
     {
       "id": "d5f596dc33ae987a",
       "title": "Georgia Power talks Hurricane Preparedness Month - WFXG",
