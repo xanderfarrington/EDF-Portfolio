@@ -2,10 +2,24 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-06-18T12:52:07+00:00",
+  "last_updated": "2026-06-18T16:53:29+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 11,
+  "count": 12,
   "mentions": [
+    {
+      "id": "a861ea2010c56704",
+      "title": "Morrison-Backed Chrysalis Renewables acquires two US solar projects through Hanwha partnership - renewableenergymagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd3JHdE5iaHBFaDA4UmF3YmlMcURpRnpyZWZtVzRkczIxcm15d081UEhJaVVlaFVacDNUZVRQREYtWUh1aEkzT2Zhc3psSGVFbFBWRThNQkxMRHZxMFd3dzA5M2I1MU9WM3o4VG1FTWZ6ZnFYVk8ybHJjMHFYaVBYVWgtYVphVHI4YUVzT01kbjh0VzJRRmF2blhZMzNTWENxUGdmZXk1SksyVnhBWE9qdTFuWXp6UQ?oc=5",
+      "domain": "news.google.com",
+      "source": "renewableenergymagazine.com",
+      "language": "English",
+      "published_at": "2026-06-18T14:05:22+00:00",
+      "summary": "Morrison-Backed Chrysalis Renewables acquires two US solar projects through Hanwha partnership renewableenergymagazine.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOd3JHdE5iaHBFaDA4UmF3YmlMcURpRnpyZWZtVzRkczIxcm15d081UEhJaVVlaFVacDNUZVRQREYtWUh1aEkzT2Zhc3psSGVFbFBWRThNQkxMRHZxMFd3dzA5M2I1MU9WM3o4VG1FTWZ6ZnFYVk8ybHJjMHFYaVBYVWgtYVphVHI4YUVzT01kbjh0VzJRRmF2blhZMzNTWENxUGdmZXk1SksyVnhBWE9qdTFuWXp6UQ?oc=5\" target=\"_blank\">Morrison-Backed Chrysalis Renewables acquires two US solar projects through Hanwha partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">renewableenergymagazine.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-18T16:53:29+00:00"
+    },
     {
       "id": "6db4a462ecd8c7b7",
       "title": "Chrysalis Renewables Completes Acquisition of 357 MW Solar Projects from Hanwha - News and Statistics - IndexBox",
