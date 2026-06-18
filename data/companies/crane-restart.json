@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-18T02:57:15+00:00",
+  "last_updated": "2026-06-18T08:43:43+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 39,
+  "count": 42,
   "mentions": [
+    {
+      "id": "9adb559d9505b91c",
+      "title": "Microsoft-backed Three Mile Island restart faces state permit hurdle - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPc014c0dKelRiN0hrWDVOV3lRSkRXS2hxb1Z3NFlqZTk0YnhmMFpXU2pvaHQ5Tk4ydXpKT0U4dWZtaGdWUVhGVWFoOVNxdGVTUGZWNGZ1cG5qZ2VaaEZOU1FMQkp0b1VjZ0tHNmFuLVZhdGs0ekxqeVJ3c0tpQXFkT0hHZ2l5NUhRTkVCWkNsbldFVnNmc2NHX3VLZXB4eE5sV2t4MzlrS1BENGVEYlh5LU1DdDJpSmlsVDdicVBNYlljdnh0UmxMMnFQR0dSa2ZQdVdtQXpwcWV6RkpjWnNHdk56QVRDMVpXZ09nNFJCUVlRcjJFYWMza29Dc1JNSW8?oc=5",
+      "domain": "news.google.com",
+      "source": "MSN",
+      "language": "English",
+      "published_at": "2026-06-17T07:56:32+00:00",
+      "summary": "Microsoft-backed Three Mile Island restart faces state permit hurdle MSN",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPc014c0dKelRiN0hrWDVOV3lRSkRXS2hxb1Z3NFlqZTk0YnhmMFpXU2pvaHQ5Tk4ydXpKT0U4dWZtaGdWUVhGVWFoOVNxdGVTUGZWNGZ1cG5qZ2VaaEZOU1FMQkp0b1VjZ0tHNmFuLVZhdGs0ekxqeVJ3c0tpQXFkT0hHZ2l5NUhRTkVCWkNsbldFVnNmc2NHX3VLZXB4eE5sV2t4MzlrS1BENGVEYlh5LU1DdDJpSmlsVDdicVBNYlljdnh0UmxMMnFQR0dSa2ZQdVdtQXpwcWV6RkpjWnNHdk56QVRDMVpXZ09nNFJCUVlRcjJFYWMza29Dc1JNSW8?oc=5\" target=\"_blank\">Microsoft-backed Three Mile Island restart faces state permit hurdle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-18T08:43:43+00:00"
+    },
     {
       "id": "769baccd335851c3",
       "title": "NRC advances Three Mile Island restart as Midwest outages persist - MSN",
@@ -75,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-17T08:56:31+00:00"
+    },
+    {
+      "id": "a164414194f2089f",
+      "title": "NRC issues preliminary EA/FONSI for Crane restart - ANS.org",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmVLOUNTQ2VDcDJqejlzSjZWaEZoQnAxamZrcGJVQ3g2SUliRVAzcldFZ2I5OUd4X2VEaUJzNnBhMndNdTZMakpjNXROZVYyMWM0eTRKZV9rX1pHX3hpSGJhRDlGa3JQSS1XRXAwa21NU2NBZDYzd3I4NG9TeGgyZVk1WGI4WWd6Mmlqa1EyOVE?oc=5",
+      "domain": "news.google.com",
+      "source": "ANS.org",
+      "language": "English",
+      "published_at": "2026-06-09T23:48:22+00:00",
+      "summary": "NRC issues preliminary EA/FONSI for Crane restart ANS.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmVLOUNTQ2VDcDJqejlzSjZWaEZoQnAxamZrcGJVQ3g2SUliRVAzcldFZ2I5OUd4X2VEaUJzNnBhMndNdTZMakpjNXROZVYyMWM0eTRKZV9rX1pHX3hpSGJhRDlGa3JQSS1XRXAwa21NU2NBZDYzd3I4NG9TeGgyZVk1WGI4WWd6Mmlqa1EyOVE?oc=5\" target=\"_blank\">NRC issues preliminary EA/FONSI for Crane restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANS.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-18T08:43:43+00:00"
     },
     {
       "id": "4df59d90a2f0b109",
@@ -329,6 +357,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:29+00:00"
+    },
+    {
+      "id": "39a1d9b4d36b639e",
+      "title": "Constellation Wins FERC Approval to Fast-Track Three Mile Island Restart - citybiz.co",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmUwQVZJTUZvdWRhd0F3ZklpeFRURkJUcXlNT2VjUXBhOXRfbERTRTFDS1pYSjdmQXJWQ2YyMDBuNDJxSlRFNngzclRMSGhiWm9DNVdwcF9CbkM0Vi1kR1gtbXZ1clJqbTZpWUU5TzYtYmU1dnhGWDFicEtiamtWbFRTYnpxSlltRkR6YzFnNjVOdEU2VzFsa3hfZXcxRmFxWjNINlNrcG1pOThOZ2I5Ng?oc=5",
+      "domain": "news.google.com",
+      "source": "citybiz.co",
+      "language": "English",
+      "published_at": "2026-06-03T09:50:30+00:00",
+      "summary": "Constellation Wins FERC Approval to Fast-Track Three Mile Island Restart citybiz.co",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxORmUwQVZJTUZvdWRhd0F3ZklpeFRURkJUcXlNT2VjUXBhOXRfbERTRTFDS1pYSjdmQXJWQ2YyMDBuNDJxSlRFNngzclRMSGhiWm9DNVdwcF9CbkM0Vi1kR1gtbXZ1clJqbTZpWUU5TzYtYmU1dnhGWDFicEtiamtWbFRTYnpxSlltRkR6YzFnNjVOdEU2VzFsa3hfZXcxRmFxWjNINlNrcG1pOThOZ2I5Ng?oc=5\" target=\"_blank\">Constellation Wins FERC Approval to Fast-Track Three Mile Island Restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citybiz.co</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-18T08:43:43+00:00"
     },
     {
       "id": "5816b71488742c22",

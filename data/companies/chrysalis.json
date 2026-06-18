@@ -2,10 +2,24 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-06-18T02:57:08+00:00",
+  "last_updated": "2026-06-18T08:43:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 5,
+  "count": 6,
   "mentions": [
+    {
+      "id": "693e4992f489bcf8",
+      "title": "Morrison-Backed Chrysalis Renewables Acquires Two U.S. Solar Projects Through Hanwha Partnership - citybiz.co",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHdmMTNWTHFyYzdPY0lLSk1wN0xudEl4MkJrTkJ2b09pZHhLODZyS1ZEMnJsekU0UTFPNzJjWWZsazlhMXZjbUlrTURDTVVnNk53ZXFRbDhiQXJtNWNOamFEcGo5N1ZEVHdfNE5yZWFjM29fU2E5WEJiUHduR1h3YnJKWFRmZmdJMzNfVkF6aUlzTjdFdXlTUjd6LUdKRGsyMGJxaWt6SThHNndYMVVXa3hxczJWQXFsVFB6M2FlbGdWeFRJTWVacmtlWWxkSjA?oc=5",
+      "domain": "news.google.com",
+      "source": "citybiz.co",
+      "language": "English",
+      "published_at": "2026-06-17T14:29:13+00:00",
+      "summary": "Morrison-Backed Chrysalis Renewables Acquires Two U.S. Solar Projects Through Hanwha Partnership citybiz.co",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHdmMTNWTHFyYzdPY0lLSk1wN0xudEl4MkJrTkJ2b09pZHhLODZyS1ZEMnJsekU0UTFPNzJjWWZsazlhMXZjbUlrTURDTVVnNk53ZXFRbDhiQXJtNWNOamFEcGo5N1ZEVHdfNE5yZWFjM29fU2E5WEJiUHduR1h3YnJKWFRmZmdJMzNfVkF6aUlzTjdFdXlTUjd6LUdKRGsyMGJxaWt6SThHNndYMVVXa3hxczJWQXFsVFB6M2FlbGdWeFRJTWVacmtlWWxkSjA?oc=5\" target=\"_blank\">Morrison-Backed Chrysalis Renewables Acquires Two U.S. Solar Projects Through Hanwha Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citybiz.co</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-18T08:43:37+00:00"
+    },
     {
       "id": "e3b45f09731955dd",
       "title": "Morrison's Chrysalis buys 357 MW of Arizona solar under Hanwha deal - Renewables Now",
