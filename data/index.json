@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T23:19:34+00:00",
+  "last_updated": "2026-06-18T02:57:31+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 55,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 13,
       "latest_mention": {
         "id": "ea273ca916df54d4",
         "title": "Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather - WBMA",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 5,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "e3b45f09731955dd",
         "title": "Morrison's Chrysalis buys 357 MW of Arizona solar under Hanwha deal - Renewables Now",
@@ -68,21 +68,21 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 38,
+      "count": 39,
       "new_mentions_this_run": 15,
       "latest_mention": {
-        "id": "b6508b7441d898f2",
-        "title": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart - SightLine | U308",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFM1TjdRVU9mWHdsXzNHUG1OQTFwWUwyQXBQeEhjcG9PQ3JrVDlUNmVqNEpQdTZrMXNYZUJCTW00ajFRVjlBcUNBSGdxclp3ZGNxSFE2Y2V5RnpPWll2TjVNTXJPQmF1Q3dHQ1F3SUFlRFNiMm1MbmcxRE9qX0E0MklqbERnbm1hLUVyWkZDUGhSb2Z4UVVucmJhVTFHZ2tYVVpHT044WkhDOG1FZHd2aFViLW4yYjRyMmluSVV2ZC1GUW9SOTdF?oc=5",
+        "id": "769baccd335851c3",
+        "title": "NRC advances Three Mile Island restart as Midwest outages persist - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOc3BXanJMTW9tU21ra0I2RVhQLXIzOUxfcTItWF9fTWpwTWkyT2VhbDk5VTU3Q082a1lsMGhMbVJ4YjJKZ0VYSFpnNXk0d0I4WVFBQmNEY0VjWlpLLWJkcTN4QTlibjhSTGdlQXpjOGt4My1YQWVvQlVERERBVkFWbFhfRTE3UHUyek1XN09BMGtGd2pHdWNxZWN0QlQxeHBtZTBpd0dLQks4S1hFcHNFX2hjNWhieGtlcGZtMXZfUkJyUFAtSjNlbWhkWEtJaVBWNzJlWmt5ZlBjQTMwWlFuWU96eGV6aVpCYkh6M1V1RV83Y3lnTGc0anVvRQ?oc=5",
         "domain": "news.google.com",
-        "source": "SightLine | U308",
+        "source": "MSN",
         "language": "English",
-        "published_at": "2026-06-10T18:49:36+00:00",
-        "summary": "NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart SightLine | U308",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFM1TjdRVU9mWHdsXzNHUG1OQTFwWUwyQXBQeEhjcG9PQ3JrVDlUNmVqNEpQdTZrMXNYZUJCTW00ajFRVjlBcUNBSGdxclp3ZGNxSFE2Y2V5RnpPWll2TjVNTXJPQmF1Q3dHQ1F3SUFlRFNiMm1MbmcxRE9qX0E0MklqbERnbm1hLUVyWkZDUGhSb2Z4UVVucmJhVTFHZ2tYVVpHT044WkhDOG1FZHd2aFViLW4yYjRyMmluSVV2ZC1GUW9SOTdF?oc=5\" target=\"_blank\">NRC Finds No Significant Environmental Impact from Proposed Crane Clean Energy Center Restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SightLine | U308</font>",
+        "published_at": "2026-06-15T17:11:03+00:00",
+        "summary": "NRC advances Three Mile Island restart as Midwest outages persist MSN",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOc3BXanJMTW9tU21ra0I2RVhQLXIzOUxfcTItWF9fTWpwTWkyT2VhbDk5VTU3Q082a1lsMGhMbVJ4YjJKZ0VYSFpnNXk0d0I4WVFBQmNEY0VjWlpLLWJkcTN4QTlibjhSTGdlQXpjOGt4My1YQWVvQlVERERBVkFWbFhfRTE3UHUyek1XN09BMGtGd2pHdWNxZWN0QlQxeHBtZTBpd0dLQks4S1hFcHNFX2hjNWhieGtlcGZtMXZfUkJyUFAtSjNlbWhkWEtJaVBWNzJlWmt5ZlBjQTMwWlFuWU96eGV6aVpCYkh6M1V1RV83Y3lnTGc0anVvRQ?oc=5\" target=\"_blank\">NRC advances Three Mile Island restart as Midwest outages persist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-10T20:22:44+00:00"
+        "collected_at": "2026-06-18T02:57:15+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 68,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "c7187c45e8cec513",
         "title": "NRC renews Georgia Power’s Plant Hatch license for 20 years - Daily Energy Insider",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 9,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",
