@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T20:17:03+00:00",
+  "last_updated": "2026-06-18T23:41:31+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,28 +26,28 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 56,
-      "new_mentions_this_run": 15,
+      "count": 57,
+      "new_mentions_this_run": 16,
       "latest_mention": {
-        "id": "ea273ca916df54d4",
-        "title": "Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather - WBMA",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTnpLSDZBaXI4MFE0N1h4RS1FYncyX2hIMVM0OU9HcVRYdXlCUWhSMW5MMkc3dGh2RVdNZF9oM2tpTEJKUHZhMjhTSURWS1d6QWYtdnZUZmtwQ2RqSzBocGpCb3h2NVVObHlyZFh6bnAwX2VxR1BObUllSG0tVXRXUHFaUnFPNUJMNHdXTDVudTc0YmRaa3hfcGJRUHZ0Wi02OGIxeHN2N1BCd1BFbDFDQg?oc=5",
+        "id": "452d41ce01c12dca",
+        "title": "Alabama Power prepared for storms - WBRC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBicExodllrVFl6VDlaME5lMDB4a2VSc2lBRjRiQWRucFcyT05ORFByYnA5aEhWQzljQUZWZ0dtaTB6RTh0YjJJVFFYSm5rbXduWEM5WjdTeVJucjRXOGljbFVhanI5TUZodG1rdHZhcU9SR24wSmFF?oc=5",
         "domain": "news.google.com",
-        "source": "WBMA",
+        "source": "WBRC",
         "language": "English",
-        "published_at": "2026-06-17T19:56:04+00:00",
-        "summary": "Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather WBMA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTnpLSDZBaXI4MFE0N1h4RS1FYncyX2hIMVM0OU9HcVRYdXlCUWhSMW5MMkc3dGh2RVdNZF9oM2tpTEJKUHZhMjhTSURWS1d6QWYtdnZUZmtwQ2RqSzBocGpCb3h2NVVObHlyZFh6bnAwX2VxR1BObUllSG0tVXRXUHFaUnFPNUJMNHdXTDVudTc0YmRaa3hfcGJRUHZ0Wi02OGIxeHN2N1BCd1BFbDFDQg?oc=5\" target=\"_blank\">Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+        "published_at": "2026-06-18T16:47:44+00:00",
+        "summary": "Alabama Power prepared for storms WBRC",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBicExodllrVFl6VDlaME5lMDB4a2VSc2lBRjRiQWRucFcyT05ORFByYnA5aEhWQzljQUZWZ0dtaTB6RTh0YjJJVFFYSm5rbXduWEM5WjdTeVJucjRXOGljbFVhanI5TUZodG1rdHZhcU9SR24wSmFF?oc=5\" target=\"_blank\">Alabama Power prepared for storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-17T20:06:12+00:00"
+        "collected_at": "2026-06-18T23:41:04+00:00"
       }
     },
     {
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 12,
+      "count": 13,
       "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "a861ea2010c56704",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 42,
+      "count": 43,
       "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "9adb559d9505b91c",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 70,
+      "count": 71,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "34b268b5db9f459b",
-        "title": "Why Georgia Power’s Smart Usage program quietly changes how AC feels at home - AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFY3MlJrTS1JVFFBUjZBX24tSVhBQjNZUnk0VVZYNGZyODEyY29pU0FrSG9rYjJmSGZzcGdWU2tJa3ZSX0JrMHJDVFRvZnF6SU4tVHBTVVdJZDBYQml0YUlHSkN2YTNwN0NHTjhTLXNMb1doVDdkSXBONU5HTUZ4YzBSMUlUUkJ3SE4xUC1YcnBnS3dQRVZ6TzNJWndib3dHdkRXWDJ6cDl4U2w4T25GbUNXSHZLTEFTOEZlVU1TaVdtNllId1N2RmRB?oc=5",
+        "id": "a67e1ddba68713d1",
+        "title": "Georgia Power prepared for severe weather and ready to respond - Grice Connect",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd1c3UkpSWXNNYXctdXFBblV4VDdKakpQM3VkR0lZSWlNTWFFcjNxcUxyV3pKUFF1WEozU3pyRERDZVpMODZHVkZHN2V0ZzNwQjVpOUptVDBhYmhLSjk3Xzk3a0hFb2RwWTNmR3RGcTFMNWlRZTcwa0tWY1JMNGtoaVYtZDc5V2V1MmpJQTROTmJaTXZEVjQwRUNsbkRrR3B0SzB2b21GYlJHWVB1aU5GRQ?oc=5",
         "domain": "news.google.com",
-        "source": "AD HOC NEWS",
+        "source": "Grice Connect",
         "language": "English",
-        "published_at": "2026-06-18T18:51:59+00:00",
-        "summary": "Why Georgia Power’s Smart Usage program quietly changes how AC feels at home AD HOC NEWS",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxONFY3MlJrTS1JVFFBUjZBX24tSVhBQjNZUnk0VVZYNGZyODEyY29pU0FrSG9rYjJmSGZzcGdWU2tJa3ZSX0JrMHJDVFRvZnF6SU4tVHBTVVdJZDBYQml0YUlHSkN2YTNwN0NHTjhTLXNMb1doVDdkSXBONU5HTUZ4YzBSMUlUUkJ3SE4xUC1YcnBnS3dQRVZ6TzNJWndib3dHdkRXWDJ6cDl4U2w4T25GbUNXSHZLTEFTOEZlVU1TaVdtNllId1N2RmRB?oc=5\" target=\"_blank\">Why Georgia Power’s Smart Usage program quietly changes how AC feels at home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+        "published_at": "2026-06-18T20:58:00+00:00",
+        "summary": "Georgia Power prepared for severe weather and ready to respond Grice Connect",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQd1c3UkpSWXNNYXctdXFBblV4VDdKakpQM3VkR0lZSWlNTWFFcjNxcUxyV3pKUFF1WEozU3pyRERDZVpMODZHVkZHN2V0ZzNwQjVpOUptVDBhYmhLSjk3Xzk3a0hFb2RwWTNmR3RGcTFMNWlRZTcwa0tWY1JMNGtoaVYtZDc5V2V1MmpJQTROTmJaTXZEVjQwRUNsbkRrR3B0SzB2b21GYlJHWVB1aU5GRQ?oc=5\" target=\"_blank\">Georgia Power prepared for severe weather and ready to respond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-18T20:16:52+00:00"
+        "collected_at": "2026-06-18T23:41:21+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 9,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",

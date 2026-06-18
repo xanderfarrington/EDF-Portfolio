@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-18T20:16:47+00:00",
+  "last_updated": "2026-06-18T23:41:15+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 42,
+  "count": 43,
   "mentions": [
     {
       "id": "9adb559d9505b91c",
@@ -265,6 +265,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-17T08:56:31+00:00"
+    },
+    {
+      "id": "0b3a7850c28e5e95",
+      "title": "Three Mile Island approved to use 73.2M gallons of water daily from Susquehanna River - local21news.com",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWlJRSlc1dFhjYkJ6dG5sTUhEQXdWS0JFbWFidHNBSUFYMXlvZU9Yakt2OVp6V2hNVmlVbGx2bmYwRUZxSm1pREJ3UTAzZVUtc1NNTVhaZk04RWxfNlBFTWJtdXBSQmE1Szhrc0ZMbGFrSUlSOFdOcXNrbXA5Snlxbnl1Y0NJSmRCSEhwWWwzTUxSV0lYMllBS3V1b2diYjlEOV9henFmVEZwZ1N2X3ZFWUd2QUtlalFSN1daQmplTXpZd2oxWVQtRUpuTTZIbTAwSnRHX21jWER0Ql9tU0J1V3ZZTDdNU2MyUDhoNUxyeC12dHlPVDR0b0tYZUVCWjFOU0VJLWtGWUxKSlk1SU5fUUJ1YWp3Xzll?oc=5",
+      "domain": "news.google.com",
+      "source": "local21news.com",
+      "language": "English",
+      "published_at": "2026-06-05T07:00:00+00:00",
+      "summary": "Three Mile Island approved to use 73.2M gallons of water daily from Susquehanna River local21news.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxOWlJRSlc1dFhjYkJ6dG5sTUhEQXdWS0JFbWFidHNBSUFYMXlvZU9Yakt2OVp6V2hNVmlVbGx2bmYwRUZxSm1pREJ3UTAzZVUtc1NNTVhaZk04RWxfNlBFTWJtdXBSQmE1Szhrc0ZMbGFrSUlSOFdOcXNrbXA5Snlxbnl1Y0NJSmRCSEhwWWwzTUxSV0lYMllBS3V1b2diYjlEOV9henFmVEZwZ1N2X3ZFWUd2QUtlalFSN1daQmplTXpZd2oxWVQtRUpuTTZIbTAwSnRHX21jWER0Ql9tU0J1V3ZZTDdNU2MyUDhoNUxyeC12dHlPVDR0b0tYZUVCWjFOU0VJLWtGWUxKSlk1SU5fUUJ1YWp3Xzll?oc=5\" target=\"_blank\">Three Mile Island approved to use 73.2M gallons of water daily from Susquehanna River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">local21news.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-18T23:41:15+00:00"
     },
     {
       "id": "6b3989156e0aa5ce",

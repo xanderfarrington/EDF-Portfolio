@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-18T20:16:52+00:00",
+  "last_updated": "2026-06-18T23:41:21+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 70,
+  "count": 71,
   "mentions": [
+    {
+      "id": "a67e1ddba68713d1",
+      "title": "Georgia Power prepared for severe weather and ready to respond - Grice Connect",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd1c3UkpSWXNNYXctdXFBblV4VDdKakpQM3VkR0lZSWlNTWFFcjNxcUxyV3pKUFF1WEozU3pyRERDZVpMODZHVkZHN2V0ZzNwQjVpOUptVDBhYmhLSjk3Xzk3a0hFb2RwWTNmR3RGcTFMNWlRZTcwa0tWY1JMNGtoaVYtZDc5V2V1MmpJQTROTmJaTXZEVjQwRUNsbkRrR3B0SzB2b21GYlJHWVB1aU5GRQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Grice Connect",
+      "language": "English",
+      "published_at": "2026-06-18T20:58:00+00:00",
+      "summary": "Georgia Power prepared for severe weather and ready to respond Grice Connect",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQd1c3UkpSWXNNYXctdXFBblV4VDdKakpQM3VkR0lZSWlNTWFFcjNxcUxyV3pKUFF1WEozU3pyRERDZVpMODZHVkZHN2V0ZzNwQjVpOUptVDBhYmhLSjk3Xzk3a0hFb2RwWTNmR3RGcTFMNWlRZTcwa0tWY1JMNGtoaVYtZDc5V2V1MmpJQTROTmJaTXZEVjQwRUNsbkRrR3B0SzB2b21GYlJHWVB1aU5GRQ?oc=5\" target=\"_blank\">Georgia Power prepared for severe weather and ready to respond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-18T23:41:21+00:00"
+    },
     {
       "id": "34b268b5db9f459b",
       "title": "Why Georgia Power’s Smart Usage program quietly changes how AC feels at home - AD HOC NEWS",

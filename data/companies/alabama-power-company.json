@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-18T20:16:36+00:00",
+  "last_updated": "2026-06-18T23:41:04+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 56,
+  "count": 57,
   "mentions": [
+    {
+      "id": "452d41ce01c12dca",
+      "title": "Alabama Power prepared for storms - WBRC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBicExodllrVFl6VDlaME5lMDB4a2VSc2lBRjRiQWRucFcyT05ORFByYnA5aEhWQzljQUZWZ0dtaTB6RTh0YjJJVFFYSm5rbXduWEM5WjdTeVJucjRXOGljbFVhanI5TUZodG1rdHZhcU9SR24wSmFF?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC",
+      "language": "English",
+      "published_at": "2026-06-18T16:47:44+00:00",
+      "summary": "Alabama Power prepared for storms WBRC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBicExodllrVFl6VDlaME5lMDB4a2VSc2lBRjRiQWRucFcyT05ORFByYnA5aEhWQzljQUZWZ0dtaTB6RTh0YjJJVFFYSm5rbXduWEM5WjdTeVJucjRXOGljbFVhanI5TUZodG1rdHZhcU9SR24wSmFF?oc=5\" target=\"_blank\">Alabama Power prepared for storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-18T23:41:04+00:00"
+    },
     {
       "id": "ea273ca916df54d4",
       "title": "Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather - WBMA",

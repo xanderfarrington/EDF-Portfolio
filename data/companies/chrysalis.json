@@ -2,9 +2,9 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-06-18T20:16:41+00:00",
+  "last_updated": "2026-06-18T23:41:10+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 12,
+  "count": 13,
   "mentions": [
     {
       "id": "a861ea2010c56704",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-18T12:52:07+00:00"
+    },
+    {
+      "id": "8f436399ba2a967b",
+      "title": "Chrysalis acquires 357MWdc Atlas solar projects from Hanwha in US - PV Tech",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdlpqSzQzUVF4TkxhTURWZi01ekREdkZNbVViNURpT2Y4d3JPT3Jpbkx0Q2RqOWhsQzVIUjdqdUs5b0Z6cHN6Z2tSYWcxYTQ2NG43RVJ0Y2QxU0JxeFZ2TDBHLVltMFhJeEVRWDZ6UGJOV1h6MnJZLThaYml5aW1sSngxdVY0UlppOHBuR01OMjRTTW1pbXo1c2F2ZVVKYmJadkUtNG95U2tfcHhENnpVdDY4UWVHWTdoSEZpYUI3c2h2TllfQjlZU0ZzdHdVdV9KUFBsQ3hIQ2s5OXJ1cVdPbXd6TXdkNTlRX0tZVUJ1UGRUWHk4RmFr?oc=5",
+      "domain": "news.google.com",
+      "source": "PV Tech",
+      "language": "English",
+      "published_at": "2026-06-18T11:20:10+00:00",
+      "summary": "Chrysalis acquires 357MWdc Atlas solar projects from Hanwha in US PV Tech",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdlpqSzQzUVF4TkxhTURWZi01ekREdkZNbVViNURpT2Y4d3JPT3Jpbkx0Q2RqOWhsQzVIUjdqdUs5b0Z6cHN6Z2tSYWcxYTQ2NG43RVJ0Y2QxU0JxeFZ2TDBHLVltMFhJeEVRWDZ6UGJOV1h6MnJZLThaYml5aW1sSngxdVY0UlppOHBuR01OMjRTTW1pbXo1c2F2ZVVKYmJadkUtNG95U2tfcHhENnpVdDY4UWVHWTdoSEZpYUI3c2h2TllfQjlZU0ZzdHdVdV9KUFBsQ3hIQ2s5OXJ1cVdPbXd6TXdkNTlRX0tZVUJ1UGRUWHk4RmFr?oc=5\" target=\"_blank\">Chrysalis acquires 357MWdc Atlas solar projects from Hanwha in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PV Tech</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-18T23:41:10+00:00"
     },
     {
       "id": "0d82f9e69d661125",
