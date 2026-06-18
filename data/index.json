@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T16:53:50+00:00",
+  "last_updated": "2026-06-18T20:17:03+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 56,
-      "new_mentions_this_run": 14,
+      "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "ea273ca916df54d4",
         "title": "Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather - WBMA",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 68,
+      "count": 70,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "c7187c45e8cec513",
-        "title": "NRC renews Georgia Power’s Plant Hatch license for 20 years - Daily Energy Insider",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2hMbXZzcVhBMi1xT0txczhkWFR1YTlScjRiTVhKWDVvTnVLNW1BSTA4MTdSRGExVFJSYk1GV2tqaHY0M3dNRVEyRkdRNEYtcWRXUk1iZlA5QVV6TkkxMFZ2ekIxQ18ySEQ0RTJPVXNBSjgzMTNQODFhSU5tVktrU1FtcmlxRGxfeWtsVFB2X1lnQ0dFSVBHRS0zc2ZWYXhUelpJ?oc=5",
+        "id": "34b268b5db9f459b",
+        "title": "Why Georgia Power’s Smart Usage program quietly changes how AC feels at home - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFY3MlJrTS1JVFFBUjZBX24tSVhBQjNZUnk0VVZYNGZyODEyY29pU0FrSG9rYjJmSGZzcGdWU2tJa3ZSX0JrMHJDVFRvZnF6SU4tVHBTVVdJZDBYQml0YUlHSkN2YTNwN0NHTjhTLXNMb1doVDdkSXBONU5HTUZ4YzBSMUlUUkJ3SE4xUC1YcnBnS3dQRVZ6TzNJWndib3dHdkRXWDJ6cDl4U2w4T25GbUNXSHZLTEFTOEZlVU1TaVdtNllId1N2RmRB?oc=5",
         "domain": "news.google.com",
-        "source": "Daily Energy Insider",
+        "source": "AD HOC NEWS",
         "language": "English",
-        "published_at": "2026-06-17T12:26:26+00:00",
-        "summary": "NRC renews Georgia Power’s Plant Hatch license for 20 years Daily Energy Insider",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2hMbXZzcVhBMi1xT0txczhkWFR1YTlScjRiTVhKWDVvTnVLNW1BSTA4MTdSRGExVFJSYk1GV2tqaHY0M3dNRVEyRkdRNEYtcWRXUk1iZlA5QVV6TkkxMFZ2ekIxQ18ySEQ0RTJPVXNBSjgzMTNQODFhSU5tVktrU1FtcmlxRGxfeWtsVFB2X1lnQ0dFSVBHRS0zc2ZWYXhUelpJ?oc=5\" target=\"_blank\">NRC renews Georgia Power’s Plant Hatch license for 20 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+        "published_at": "2026-06-18T18:51:59+00:00",
+        "summary": "Why Georgia Power’s Smart Usage program quietly changes how AC feels at home AD HOC NEWS",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxONFY3MlJrTS1JVFFBUjZBX24tSVhBQjNZUnk0VVZYNGZyODEyY29pU0FrSG9rYjJmSGZzcGdWU2tJa3ZSX0JrMHJDVFRvZnF6SU4tVHBTVVdJZDBYQml0YUlHSkN2YTNwN0NHTjhTLXNMb1doVDdkSXBONU5HTUZ4YzBSMUlUUkJ3SE4xUC1YcnBnS3dQRVZ6TzNJWndib3dHdkRXWDJ6cDl4U2w4T25GbUNXSHZLTEFTOEZlVU1TaVdtNllId1N2RmRB?oc=5\" target=\"_blank\">Why Georgia Power’s Smart Usage program quietly changes how AC feels at home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-17T16:52:54+00:00"
+        "collected_at": "2026-06-18T20:16:52+00:00"
       }
     },
     {
