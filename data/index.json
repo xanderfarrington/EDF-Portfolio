@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-19T13:31:52+00:00",
+  "last_updated": "2026-06-19T16:30:38+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 32,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "9d251408e4da7385",
         "title": "American Electric Power's BOLD line targets bigger power moves on Tuesday - AD HOC NEWS",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 59,
-      "new_mentions_this_run": 16,
+      "count": 61,
+      "new_mentions_this_run": 18,
       "latest_mention": {
-        "id": "07c590d7aed28c58",
-        "title": "LIVE UPDATES: Track power outages as storms impact Central Alabama - WVTM",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNelhMVlVzcEw4U2x4d0dCYTlFTlEyNTBwdWVaa3gxUWcyZFp2d3VzcHcxR1dzbGpZRUR0b2NLRE40SkhuRFk0SUNvMDdTbGd5STVYOG5HdXpqZk5BNVdCTlI5cjJzLXlKeUIxc2w0c1lNZUdfZHV5a0RXQXNuYzFhblhLWGZiUDQ1dTlWWEZBMDFRdk56MEE?oc=5",
+        "id": "0bc35fa8d04d3d38",
+        "title": "Alabama Power’s service restoration efforts continue after severe weather - WKRG",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jT3pLbHp1WVg5dEtTaHFQbTQwZE51RmN3dnlKZXNIZ19ZMTVITk81aFY0eGdFSWF6VXQ2RWUyb2oyaWtxTUYyX2EtOHgtZlROQ1lYN1RNcDlOR2ZEYTY2LU5DV2dsNDNJa3BXaVNNd1NTaWVqcHfSAXtBVV95cUxPQ0JpcXRIbkVTdUkzUm5iZnB2dTYzblVsTEVxMlZOdC1TRENyX3QtZ1JjRVZlWEFtUUVxX3dwdGh1d0U4UDZwaGp5Z2NfYy11MkNvRUdfa2JMc0F6LWF3R3JHUXBZZGpHSU1Kb005RXN5U1JUSVB2SXBOd1U?oc=5",
         "domain": "news.google.com",
-        "source": "WVTM",
+        "source": "WKRG",
         "language": "English",
-        "published_at": "2026-06-19T00:18:00+00:00",
-        "summary": "LIVE UPDATES: Track power outages as storms impact Central Alabama WVTM",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNelhMVlVzcEw4U2x4d0dCYTlFTlEyNTBwdWVaa3gxUWcyZFp2d3VzcHcxR1dzbGpZRUR0b2NLRE40SkhuRFk0SUNvMDdTbGd5STVYOG5HdXpqZk5BNVdCTlI5cjJzLXlKeUIxc2w0c1lNZUdfZHV5a0RXQXNuYzFhblhLWGZiUDQ1dTlWWEZBMDFRdk56MEE?oc=5\" target=\"_blank\">LIVE UPDATES: Track power outages as storms impact Central Alabama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+        "published_at": "2026-06-19T15:27:03+00:00",
+        "summary": "Alabama Power’s service restoration efforts continue after severe weather WKRG",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1jT3pLbHp1WVg5dEtTaHFQbTQwZE51RmN3dnlKZXNIZ19ZMTVITk81aFY0eGdFSWF6VXQ2RWUyb2oyaWtxTUYyX2EtOHgtZlROQ1lYN1RNcDlOR2ZEYTY2LU5DV2dsNDNJa3BXaVNNd1NTaWVqcHfSAXtBVV95cUxPQ0JpcXRIbkVTdUkzUm5iZnB2dTYzblVsTEVxMlZOdC1TRENyX3QtZ1JjRVZlWEFtUUVxX3dwdGh1d0U4UDZwaGp5Z2NfYy11MkNvRUdfa2JMc0F6LWF3R3JHUXBZZGpHSU1Kb005RXN5U1JUSVB2SXBOd1U?oc=5\" target=\"_blank\">Alabama Power’s service restoration efforts continue after severe weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKRG</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-19T03:43:27+00:00"
+        "collected_at": "2026-06-19T16:30:11+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 74,
+      "count": 75,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "a9299f728b305bbd",
-        "title": "Georgia Power ready for severe weather, customers and visitors urged to prepare - On Common Ground News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWpKNXhBdHllV3Nmd0dGN1B2RUszOHZmemdhZUcwV0xYdVRSenktTXZaSWJoX0xTV1g3UGtpRWEzbXRlc1YxZzFNVWpYWGU2b1d2WkNrdGFlbDZmaVdWckVJZi1FTFZweUFDSFVScko2bHlBRjVZSnRTTjMzaDlhb3B5VWpTNDhKQWoteEl1cjk0R1NzMHZIRS1QYk5ldkVK?oc=5",
+        "id": "1394a2186c4c6266",
+        "title": "Georgia’s Plant Hatch receives 20-year license renewal from the Nuclear Regulatory Commission - Grice Connect",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPekxxdFlMSjRyMnFNaERvWEZ1RUlWNXlxWEE1WXlsRnNCdmNPZUZham9LRXBvWW5UWWFMczB6Y19ZMjhCbGU5XzZNLVpHUi0ybVQ5ci1La3hnRWFuSjN3UmJreGlUUnVlUHJKR1Azc2hBRkhQOTJGNXFCd2ZtbGFkNXFRX3RBcG1aX21xRjF1ZThQU1pIX2Exb1p3LXFsbEdFT1lhZ1h4M2paQzV4dHVyRXVWQVdEN0VJS3JITnlkWC1kUWV4SUxoaWk2RFhuc1NlYjJEbWlSTHHSAd4BQVVfeXFMT25IejRVSXNhMEpNa3RxbTdHbVI3bVVNQzlWMEFfaGFwZGU3RFNLOVY0cl9NWGxKTy1lX0gwcGhZSVZDa2ljWGJqX09YSjZUNUNOa2NvTkdTNU5uam5XN0RXMnZGOGR3d2VwZktWLUFockdpdVV0OEh3d290azFkRlhqYkxjREVYRDVZRHpmbDlkbWpPWXBHM1AyTjhkQUNWZ0c3c2QtZnJDMWxiQ3dRWEEzb1pfNnhKN1dJNm5TTktMYlhOSzNZYU1wUlpGRUVKZHBqSGhmZDhlaU5UaGhn?oc=5",
         "domain": "news.google.com",
-        "source": "On Common Ground News",
+        "source": "Grice Connect",
         "language": "English",
-        "published_at": "2026-06-18T23:48:59+00:00",
-        "summary": "Georgia Power ready for severe weather, customers and visitors urged to prepare On Common Ground News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWpKNXhBdHllV3Nmd0dGN1B2RUszOHZmemdhZUcwV0xYdVRSenktTXZaSWJoX0xTV1g3UGtpRWEzbXRlc1YxZzFNVWpYWGU2b1d2WkNrdGFlbDZmaVdWckVJZi1FTFZweUFDSFVScko2bHlBRjVZSnRTTjMzaDlhb3B5VWpTNDhKQWoteEl1cjk0R1NzMHZIRS1QYk5ldkVK?oc=5\" target=\"_blank\">Georgia Power ready for severe weather, customers and visitors urged to prepare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">On Common Ground News</font>",
+        "published_at": "2026-06-19T14:14:00+00:00",
+        "summary": "Georgia’s Plant Hatch receives 20-year license renewal from the Nuclear Regulatory Commission Grice Connect",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPekxxdFlMSjRyMnFNaERvWEZ1RUlWNXlxWEE1WXlsRnNCdmNPZUZham9LRXBvWW5UWWFMczB6Y19ZMjhCbGU5XzZNLVpHUi0ybVQ5ci1La3hnRWFuSjN3UmJreGlUUnVlUHJKR1Azc2hBRkhQOTJGNXFCd2ZtbGFkNXFRX3RBcG1aX21xRjF1ZThQU1pIX2Exb1p3LXFsbEdFT1lhZ1h4M2paQzV4dHVyRXVWQVdEN0VJS3JITnlkWC1kUWV4SUxoaWk2RFhuc1NlYjJEbWlSTHHSAd4BQVVfeXFMT25IejRVSXNhMEpNa3RxbTdHbVI3bVVNQzlWMEFfaGFwZGU3RFNLOVY0cl9NWGxKTy1lX0gwcGhZSVZDa2ljWGJqX09YSjZUNUNOa2NvTkdTNU5uam5XN0RXMnZGOGR3d2VwZktWLUFockdpdVV0OEh3d290azFkRlhqYkxjREVYRDVZRHpmbDlkbWpPWXBHM1AyTjhkQUNWZ0c3c2QtZnJDMWxiQ3dRWEEzb1pfNnhKN1dJNm5TTktMYlhOSzNZYU1wUlpGRUVKZHBqSGhmZDhlaU5UaGhn?oc=5\" target=\"_blank\">Georgia’s Plant Hatch receives 20-year license renewal from the Nuclear Regulatory Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-19T03:43:43+00:00"
+        "collected_at": "2026-06-19T16:30:27+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 9,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",
