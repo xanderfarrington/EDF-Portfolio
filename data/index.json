@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-19T16:30:38+00:00",
+  "last_updated": "2026-06-19T19:41:39+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 32,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "9d251408e4da7385",
         "title": "American Electric Power's BOLD line targets bigger power moves on Tuesday - AD HOC NEWS",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 61,
-      "new_mentions_this_run": 18,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "0bc35fa8d04d3d38",
         "title": "Alabama Power’s service restoration efforts continue after severe weather - WKRG",
