@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-18T23:41:21+00:00",
+  "last_updated": "2026-06-19T03:43:43+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 71,
+  "count": 74,
   "mentions": [
+    {
+      "id": "a9299f728b305bbd",
+      "title": "Georgia Power ready for severe weather, customers and visitors urged to prepare - On Common Ground News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWpKNXhBdHllV3Nmd0dGN1B2RUszOHZmemdhZUcwV0xYdVRSenktTXZaSWJoX0xTV1g3UGtpRWEzbXRlc1YxZzFNVWpYWGU2b1d2WkNrdGFlbDZmaVdWckVJZi1FTFZweUFDSFVScko2bHlBRjVZSnRTTjMzaDlhb3B5VWpTNDhKQWoteEl1cjk0R1NzMHZIRS1QYk5ldkVK?oc=5",
+      "domain": "news.google.com",
+      "source": "On Common Ground News",
+      "language": "English",
+      "published_at": "2026-06-18T23:48:59+00:00",
+      "summary": "Georgia Power ready for severe weather, customers and visitors urged to prepare On Common Ground News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWpKNXhBdHllV3Nmd0dGN1B2RUszOHZmemdhZUcwV0xYdVRSenktTXZaSWJoX0xTV1g3UGtpRWEzbXRlc1YxZzFNVWpYWGU2b1d2WkNrdGFlbDZmaVdWckVJZi1FTFZweUFDSFVScko2bHlBRjVZSnRTTjMzaDlhb3B5VWpTNDhKQWoteEl1cjk0R1NzMHZIRS1QYk5ldkVK?oc=5\" target=\"_blank\">Georgia Power ready for severe weather, customers and visitors urged to prepare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">On Common Ground News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-19T03:43:43+00:00"
+    },
     {
       "id": "a67e1ddba68713d1",
       "title": "Georgia Power prepared for severe weather and ready to respond - Grice Connect",
@@ -19,6 +33,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-18T23:41:21+00:00"
+    },
+    {
+      "id": "2c3f9f22e6dda77c",
+      "title": "Georgia Power prepared for severe weather and ready to respond - Grice Connect",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSkE3MTNZd3hpaFY4ZlRiNlExNDRMVUVXeWo4UUt3SVlnZXZVVGpMdmw1R0h5Z19wX3g2Z0w1aW9QNFkxWXgwOGNBWW55YWVOVFRNV1pGRzNmR1VFUDc3MlB4ckNPb2ptZG9hRm5GQjhhdV85VmU3X1lFQXFrN2x5NWVDbWhWcUVaVXZGcHBNTzF0ZUVyQ2ctY2liYnA0VDVYVmZiRW1oRDV6WjQ5SXc1VjVkaGZodw?oc=5",
+      "domain": "news.google.com",
+      "source": "Grice Connect",
+      "language": "English",
+      "published_at": "2026-06-18T20:58:00+00:00",
+      "summary": "Georgia Power prepared for severe weather and ready to respond Grice Connect",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSkE3MTNZd3hpaFY4ZlRiNlExNDRMVUVXeWo4UUt3SVlnZXZVVGpMdmw1R0h5Z19wX3g2Z0w1aW9QNFkxWXgwOGNBWW55YWVOVFRNV1pGRzNmR1VFUDc3MlB4ckNPb2ptZG9hRm5GQjhhdV85VmU3X1lFQXFrN2x5NWVDbWhWcUVaVXZGcHBNTzF0ZUVyQ2ctY2liYnA0VDVYVmZiRW1oRDV6WjQ5SXc1VjVkaGZodw?oc=5\" target=\"_blank\">Georgia Power prepared for severe weather and ready to respond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-19T03:43:43+00:00"
+    },
+    {
+      "id": "0f4ef8228dacc6e1",
+      "title": "Georgia Power prepares for severe weather, residents encouraged to stay safe - WRBL",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbVZJdHVKN08xWHBRRE5FR1dSZXlUMzJNTGNxX0FaZHBsMk5LS3F5Zk9YdmVBQzBnekNaNGtsUDVwTGg3QTJVZDl5eFBibE5zcWRnb2pkc1JoaVNOZFViajg0R29UbDNZM2JuT1h0WDZ3MG1GdjJ0VWFMTUhEd0dEeEdySmN6WncyRldMS0o0Z0xSZ21iUzBZM01MVk85RFJLcnpDNVAta3dxVVpkSERSeUI3YTlMd9IBuwFBVV95cUxOUE9GRUo0R3lUX3ZaMDI5TllDdTVrTzN6azlZRFh5Q25nTVF2RllCa3VsaTZWMlBaRl84WFFqbXRGR1loRVJzZ1ExQjRZTFQxUkRpOHQ1R2NDN1V2WlFlWUo4ZXVxeVp5N3ZWbEdkZzBDZGtmTWl0blkxUExLRzVTUXgwc25RTkxRcmxPVG50Zm1OaGVXbGh6RkhhVnN2RVdPNkRSdTFNb1ZIRjR2eHJZSWpXWm1XRDl1Mnd3?oc=5",
+      "domain": "news.google.com",
+      "source": "WRBL",
+      "language": "English",
+      "published_at": "2026-06-18T20:05:15+00:00",
+      "summary": "Georgia Power prepares for severe weather, residents encouraged to stay safe WRBL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNbVZJdHVKN08xWHBRRE5FR1dSZXlUMzJNTGNxX0FaZHBsMk5LS3F5Zk9YdmVBQzBnekNaNGtsUDVwTGg3QTJVZDl5eFBibE5zcWRnb2pkc1JoaVNOZFViajg0R29UbDNZM2JuT1h0WDZ3MG1GdjJ0VWFMTUhEd0dEeEdySmN6WncyRldMS0o0Z0xSZ21iUzBZM01MVk85RFJLcnpDNVAta3dxVVpkSERSeUI3YTlMd9IBuwFBVV95cUxOUE9GRUo0R3lUX3ZaMDI5TllDdTVrTzN6azlZRFh5Q25nTVF2RllCa3VsaTZWMlBaRl84WFFqbXRGR1loRVJzZ1ExQjRZTFQxUkRpOHQ1R2NDN1V2WlFlWUo4ZXVxeVp5N3ZWbEdkZzBDZGtmTWl0blkxUExLRzVTUXgwc25RTkxRcmxPVG50Zm1OaGVXbGh6RkhhVnN2RVdPNkRSdTFNb1ZIRjR2eHJZSWpXWm1XRDl1Mnd3?oc=5\" target=\"_blank\">Georgia Power prepares for severe weather, residents encouraged to stay safe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRBL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-19T03:43:43+00:00"
     },
     {
       "id": "34b268b5db9f459b",
