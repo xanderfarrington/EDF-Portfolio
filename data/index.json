@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T17:20:50+00:00",
+  "last_updated": "2026-06-20T19:16:43+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 64,
-      "new_mentions_this_run": 18,
+      "count": 65,
+      "new_mentions_this_run": 19,
       "latest_mention": {
-        "id": "0bc35fa8d04d3d38",
-        "title": "Alabama Power’s service restoration efforts continue after severe weather - WKRG",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jT3pLbHp1WVg5dEtTaHFQbTQwZE51RmN3dnlKZXNIZ19ZMTVITk81aFY0eGdFSWF6VXQ2RWUyb2oyaWtxTUYyX2EtOHgtZlROQ1lYN1RNcDlOR2ZEYTY2LU5DV2dsNDNJa3BXaVNNd1NTaWVqcHfSAXtBVV95cUxPQ0JpcXRIbkVTdUkzUm5iZnB2dTYzblVsTEVxMlZOdC1TRENyX3QtZ1JjRVZlWEFtUUVxX3dwdGh1d0U4UDZwaGp5Z2NfYy11MkNvRUdfa2JMc0F6LWF3R3JHUXBZZGpHSU1Kb005RXN5U1JUSVB2SXBOd1U?oc=5",
+        "id": "3d8611d2381111e2",
+        "title": "Alabama Power’s service restoration efforts continue after severe weather - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHJCR055dUNETnMwdGlreFNQeHo3V053T2VidnRkdGdaS2cwY3hXUmJLdkNyWDJfNDNSZHJDUFZLb3pRNXN2SVMyRk9mSk92cWxKX09wWmEzamszNmJmZnVjTVR2OXNqdlMtdWlLdnVQdllidno4SWVmeFhSa0pvU3AxRWlIWWstbGc?oc=5",
         "domain": "news.google.com",
-        "source": "WKRG",
+        "source": "AOL.com",
         "language": "English",
-        "published_at": "2026-06-19T15:27:03+00:00",
-        "summary": "Alabama Power’s service restoration efforts continue after severe weather WKRG",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1jT3pLbHp1WVg5dEtTaHFQbTQwZE51RmN3dnlKZXNIZ19ZMTVITk81aFY0eGdFSWF6VXQ2RWUyb2oyaWtxTUYyX2EtOHgtZlROQ1lYN1RNcDlOR2ZEYTY2LU5DV2dsNDNJa3BXaVNNd1NTaWVqcHfSAXtBVV95cUxPQ0JpcXRIbkVTdUkzUm5iZnB2dTYzblVsTEVxMlZOdC1TRENyX3QtZ1JjRVZlWEFtUUVxX3dwdGh1d0U4UDZwaGp5Z2NfYy11MkNvRUdfa2JMc0F6LWF3R3JHUXBZZGpHSU1Kb005RXN5U1JUSVB2SXBOd1U?oc=5\" target=\"_blank\">Alabama Power’s service restoration efforts continue after severe weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKRG</font>",
+        "published_at": "2026-06-20T06:32:06+00:00",
+        "summary": "Alabama Power’s service restoration efforts continue after severe weather AOL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHJCR055dUNETnMwdGlreFNQeHo3V053T2VidnRkdGdaS2cwY3hXUmJLdkNyWDJfNDNSZHJDUFZLb3pRNXN2SVMyRk9mSk92cWxKX09wWmEzamszNmJmZnVjTVR2OXNqdlMtdWlLdnVQdllidno4SWVmeFhSa0pvU3AxRWlIWWstbGc?oc=5\" target=\"_blank\">Alabama Power’s service restoration efforts continue after severe weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-19T16:30:11+00:00"
+        "collected_at": "2026-06-20T19:16:16+00:00"
       }
     },
     {
