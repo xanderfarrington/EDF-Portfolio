@@ -2,9 +2,9 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-06-20T21:10:11+00:00",
+  "last_updated": "2026-06-20T23:01:57+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 14,
+  "count": 15,
   "mentions": [
     {
       "id": "bceb3e4ac3bbf976",
@@ -103,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-18T12:52:07+00:00"
+    },
+    {
+      "id": "1545982882904004",
+      "title": "Chrysalis Renewables acquires two US solar projects through Hanwha partnership - Energy Global",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkhEc0ZBSWYtXy1VTEdwbXU1WDZlMEthZW94VUQweE9qT24yVzZ4TWFVLThUb3RLQXNmLUZxdXIyc2xvMEJQcHI1a2JzdFVEbnBBUVRqeE5IUEY0VDhsRXZhZGl1RThUWVJPTW00TWx5TmNGNTdsMlIyQ2pGRUZoTV9Qa2l6SWpmRllzN1lMN0h3VVE5b25seTZtMUlGOWdyT2xfN0JxaEJyOC01Uk9teG4tUVpucDhhVC1oV0t5RTI?oc=5",
+      "domain": "news.google.com",
+      "source": "Energy Global",
+      "language": "English",
+      "published_at": "2026-06-18T10:28:26+00:00",
+      "summary": "Chrysalis Renewables acquires two US solar projects through Hanwha partnership Energy Global",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkhEc0ZBSWYtXy1VTEdwbXU1WDZlMEthZW94VUQweE9qT24yVzZ4TWFVLThUb3RLQXNmLUZxdXIyc2xvMEJQcHI1a2JzdFVEbnBBUVRqeE5IUEY0VDhsRXZhZGl1RThUWVJPTW00TWx5TmNGNTdsMlIyQ2pGRUZoTV9Qa2l6SWpmRllzN1lMN0h3VVE5b25seTZtMUlGOWdyT2xfN0JxaEJyOC01Uk9teG4tUVpucDhhVC1oV0t5RTI?oc=5\" target=\"_blank\">Chrysalis Renewables acquires two US solar projects through Hanwha partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy Global</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T23:01:57+00:00"
     },
     {
       "id": "693e4992f489bcf8",
