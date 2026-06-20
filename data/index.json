@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T22:50:39+00:00",
+  "last_updated": "2026-06-20T02:48:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 61,
-      "new_mentions_this_run": 17,
+      "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "0bc35fa8d04d3d38",
         "title": "Alabama Power’s service restoration efforts continue after severe weather - WKRG",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 9,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",
