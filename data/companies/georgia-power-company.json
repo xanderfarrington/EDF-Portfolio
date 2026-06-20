@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-20T13:48:35+00:00",
+  "last_updated": "2026-06-20T15:42:41+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 95,
+  "count": 96,
   "mentions": [
     {
       "id": "1394a2186c4c6266",
@@ -1171,6 +1171,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
+      "id": "172fe287018d0e11",
+      "title": "Georgia Power customers will see a slight drop in bills - 11alive.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0lRZnU5VzRMLVREY1lIa2FSbGdMc0ZfSVdhU05OSzlfbU1EbnQxdmR6V3B5S3B5NnNiUC0xcTlFSUkzTkU1NEI1YzNCckJjei1NQk1OcUY2OHhULXh1bTMzOTJwQXQ2QjNzV3pEVHROeDlLbTFIbno2ZjZKM0FVSFo3UVAzaHpDb3lzdjRjNVBES0ZoUndZRldHWWRnbVNKdUdJT2x0R21yOXpUOEJrTFZrLVdZMWZhLV9MMDFWQWE2Nm93Zjd2YnE3MFZTZnhINS1Oeg?oc=5",
+      "domain": "news.google.com",
+      "source": "11alive.com",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Georgia Power customers will see a slight drop in bills 11alive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0lRZnU5VzRMLVREY1lIa2FSbGdMc0ZfSVdhU05OSzlfbU1EbnQxdmR6V3B5S3B5NnNiUC0xcTlFSUkzTkU1NEI1YzNCckJjei1NQk1OcUY2OHhULXh1bTMzOTJwQXQ2QjNzV3pEVHROeDlLbTFIbno2ZjZKM0FVSFo3UVAzaHpDb3lzdjRjNVBES0ZoUndZRldHWWRnbVNKdUdJT2x0R21yOXpUOEJrTFZrLVdZMWZhLV9MMDFWQWE2Nm93Zjd2YnE3MFZTZnhINS1Oeg?oc=5\" target=\"_blank\">Georgia Power customers will see a slight drop in bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11alive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T15:42:41+00:00"
     },
     {
       "id": "0c358710ac78474b",
