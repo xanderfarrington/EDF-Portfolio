@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T02:48:04+00:00",
+  "last_updated": "2026-06-20T07:46:11+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 61,
-      "new_mentions_this_run": 15,
+      "count": 63,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "0bc35fa8d04d3d38",
         "title": "Alabama Power’s service restoration efforts continue after severe weather - WKRG",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 14,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "bceb3e4ac3bbf976",
         "title": "Chrysalis and Hanwha Acquire 357MWdc of Solar Capacity in Arizona Through Strategic Partnership - energynews.pro",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 43,
-      "new_mentions_this_run": 14,
+      "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "9adb559d9505b91c",
         "title": "Microsoft-backed Three Mile Island restart faces state permit hurdle - MSN",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 75,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "1394a2186c4c6266",
         "title": "Georgia’s Plant Hatch receives 20-year license renewal from the Nuclear Regulatory Commission - Grice Connect",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 9,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",

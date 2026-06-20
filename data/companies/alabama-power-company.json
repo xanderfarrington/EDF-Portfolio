@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-20T02:47:37+00:00",
+  "last_updated": "2026-06-20T07:45:44+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 61,
+  "count": 63,
   "mentions": [
     {
       "id": "0bc35fa8d04d3d38",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-19T16:30:11+00:00"
+    },
+    {
+      "id": "1f28c3877e95a93c",
+      "title": "Alabama Power’s service restoration efforts continue after severe weather - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnlzLVItYXlHMlRoSlBTWXNUOTlVY2JyU08yNTNNYnNQTVdWeGVpcm1BSFlIUFVNTnNYX3VFYW5FMVFkWDNmZzJqUVh0WUZ5Q2lJWVJYVEpWNzgxSGhJYWJySFM1MktXLWpmb0dhNHVJNVMtekRTQjZ5ZWRoeVlUOF95cUlROE83MlpFUUFjTWdMeWkxQ2lOcHV5dDlfRmZGMkJVNEhoZ3h5dw?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-06-19T15:27:03+00:00",
+      "summary": "Alabama Power’s service restoration efforts continue after severe weather Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnlzLVItYXlHMlRoSlBTWXNUOTlVY2JyU08yNTNNYnNQTVdWeGVpcm1BSFlIUFVNTnNYX3VFYW5FMVFkWDNmZzJqUVh0WUZ5Q2lJWVJYVEpWNzgxSGhJYWJySFM1MktXLWpmb0dhNHVJNVMtekRTQjZ5ZWRoeVlUOF95cUlROE83MlpFUUFjTWdMeWkxQ2lOcHV5dDlfRmZGMkJVNEhoZ3h5dw?oc=5\" target=\"_blank\">Alabama Power’s service restoration efforts continue after severe weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T07:45:44+00:00"
     },
     {
       "id": "864d3cf2bfd0c888",
@@ -75,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-18T23:41:04+00:00"
+    },
+    {
+      "id": "25e2315d37cde421",
+      "title": "Alabama Power prepared for storms - WBRC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHdDdUwtQ0lKWi1RVUpzdHpBM1pQcXdZZ21XejlCR3d1Y2VkZmZDdUpKd3ZoeWUtZTZVTTFjUUQ0bTVDOEZLRlk1Yi0yT0JYVjJ0WDZPa3ZIZThqZXJkN2tVR2MwR2tVdTNCejlzZmdMekp2dVgwN0xvRElzQ3dMbGRUVDBhVDl2WUJB?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC",
+      "language": "English",
+      "published_at": "2026-06-18T16:00:00+00:00",
+      "summary": "Alabama Power prepared for storms WBRC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHdDdUwtQ0lKWi1RVUpzdHpBM1pQcXdZZ21XejlCR3d1Y2VkZmZDdUpKd3ZoeWUtZTZVTTFjUUQ0bTVDOEZLRlk1Yi0yT0JYVjJ0WDZPa3ZIZThqZXJkN2tVR2MwR2tVdTNCejlzZmdMekp2dVgwN0xvRElzQ3dMbGRUVDBhVDl2WUJB?oc=5\" target=\"_blank\">Alabama Power prepared for storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T07:45:44+00:00"
     },
     {
       "id": "ea273ca916df54d4",
