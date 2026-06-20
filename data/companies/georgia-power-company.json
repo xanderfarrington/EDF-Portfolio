@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-20T07:46:01+00:00",
+  "last_updated": "2026-06-20T10:28:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 75,
+  "count": 94,
   "mentions": [
     {
       "id": "1394a2186c4c6266",
@@ -329,6 +329,20 @@
       "collected_at": "2026-06-15T09:56:35+00:00"
     },
     {
+      "id": "13173911d8c1cd7a",
+      "title": "Bowen Reichert Shoemaker Gives an Update on Georgia Power Projects - Metro Atlanta CEO",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1R0UXMwRnVGUWdldmZYVFdFeHYybG1OR1F0LVVqbkZPX0RlN2ZjaW16VVR5T3VqcG9DWTUycWVZLUppX3h4NWV2RXB3R0VtRUJpSDJQNzhTMDVGRi1BNXUyNEZ3NzlXMURiOFowTm1BTHcxcU1Gamx2MUpIY3BXRHEtWFF6NHFqakFMQUpwemVhNTFwOVNXYUZiczVJVW5SR00yRnJB?oc=5",
+      "domain": "news.google.com",
+      "source": "Metro Atlanta CEO",
+      "language": "English",
+      "published_at": "2026-06-10T09:54:49+00:00",
+      "summary": "Bowen Reichert Shoemaker Gives an Update on Georgia Power Projects Metro Atlanta CEO",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1R0UXMwRnVGUWdldmZYVFdFeHYybG1OR1F0LVVqbkZPX0RlN2ZjaW16VVR5T3VqcG9DWTUycWVZLUppX3h4NWV2RXB3R0VtRUJpSDJQNzhTMDVGRi1BNXUyNEZ3NzlXMURiOFowTm1BTHcxcU1Gamx2MUpIY3BXRHEtWFF6NHFqakFMQUpwemVhNTFwOVNXYUZiczVJVW5SR00yRnJB?oc=5\" target=\"_blank\">Bowen Reichert Shoemaker Gives an Update on Georgia Power Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Metro Atlanta CEO</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
       "id": "0e9a0929df71e62a",
       "title": "Bowen Reichert Shoemaker Gives an Update on Georgia Power Projects - Middle Georgia CEO",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeUJGM1lQZkZaQ2tObDg1eHVnWDQ4M1RZM1MtYm1oRDNGdTZZZWdxV00xZE5KVUtFbF9EQ053clNPY0ZzaTlpWElGRTdwS095QmdMc1h1QlU2V1BscXJLSmJBa2Z1UmF6OExxYk5FTXBsRk5PQVVGdjVhdHUwTGdXZ0dCVWEwbnNFX2JpdFZ2VHFlUlZqQUJ2ck9GRV96SE9EV0ktZ3ptZw?oc=5",
@@ -370,6 +384,20 @@
       "collected_at": "2026-06-09T16:52:35+00:00"
     },
     {
+      "id": "68c088478c9f920e",
+      "title": "Georgia Power Could Raise Rates To Cover Losses From Helene Manchester United (IgnNliZBYr) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kVDlaY1l2VjQzVms5WTUyMkFSZXJfWWNaRnc5WDFucGJtQnMySHZQYi1BNWF3b2FFcmZpSkxzcXphZkM4eUNud1B3MjR1V2tBeXlZZEczeEVsYXM?oc=5",
+      "domain": "news.google.com",
+      "source": "Mshale",
+      "language": "English",
+      "published_at": "2026-06-07T08:15:15+00:00",
+      "summary": "Georgia Power Could Raise Rates To Cover Losses From Helene Manchester United (IgnNliZBYr) Mshale",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kVDlaY1l2VjQzVms5WTUyMkFSZXJfWWNaRnc5WDFucGJtQnMySHZQYi1BNWF3b2FFcmZpSkxzcXphZkM4eUNud1B3MjR1V2tBeXlZZEczeEVsYXM?oc=5\" target=\"_blank\">Georgia Power Could Raise Rates To Cover Losses From Helene Manchester United (IgnNliZBYr)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
       "id": "07e35ed8feb19872",
       "title": "Will Georgia Power Rate Deal Help Or Hurt Consumers In The Long Run? Joe Biden (GyZjVsJrew) - Mshale",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwcjU0b3VGVDA3dVZVQmRkOHNSU0U4Nzh2dE1qdkpZWEh1ZFgzSzN5TkRfRFJmeG81Nk9sSXVqUzJibDBIQWhfX1NVV2s0RWFVNExQTXBlNjgwc0k?oc=5",
@@ -382,6 +410,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-10T20:22:49+00:00"
+    },
+    {
+      "id": "a24ca01c85cbbb18",
+      "title": "PSC Dockets #56002 & #56003 Georgia Power Company 2025 Plans & Applications - 03.25.2025 - Day 1 (QAxpuvMPoh) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aRk5hSjdLRlFTWlBZZGhCTlhpQUUxSGV6OHZkTGpaRXhVZC1QN2ktZ1dsMGZGQ1pBNWZOejlKNDZDci1SY2V3RXBvVExqem9rSzlTZUxkWlB1YnFET1lXMGdicEk2Y1M3UC0tSmI3ZGY3Umh4dmc?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-05T22:25:53+00:00",
+      "summary": "PSC Dockets #56002 & #56003 Georgia Power Company 2025 Plans & Applications - 03.25.2025 - Day 1 (QAxpuvMPoh) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1aRk5hSjdLRlFTWlBZZGhCTlhpQUUxSGV6OHZkTGpaRXhVZC1QN2ktZ1dsMGZGQ1pBNWZOejlKNDZDci1SY2V3RXBvVExqem9rSzlTZUxkWlB1YnFET1lXMGdicEk2Y1M3UC0tSmI3ZGY3Umh4dmc?oc=5\" target=\"_blank\">PSC Dockets #56002 & #56003 Georgia Power Company 2025 Plans & Applications - 03.25.2025 - Day 1 (QAxpuvMPoh)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
     },
     {
       "id": "8cf99908ece5e5eb",
@@ -474,6 +516,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:35+00:00"
+    },
+    {
+      "id": "3827ac0fce15d2e1",
+      "title": "Georgia Power encourages customers to prepare for hurricane season – Company Announcement - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYS1OdUhsbExRREN3ek5IVzRtTnB1VnNncDNQYVF0MlBRc2pzZ09oRktBeGEyYTRiXzdtcVJ2Z1NMcVdHWEVocjhxYjlMMXNUMU82TUl3U0R6R1I4SWEyOTZla0lqYW9UcHgtX2pZYkdRLXhMN0ZMd1dTcjhtWlBGOE9GdWRMZUt3enVNUzltZVFUN1NJdmhQcg?oc=5",
+      "domain": "news.google.com",
+      "source": "Financial Times",
+      "language": "English",
+      "published_at": "2026-06-03T07:00:00+00:00",
+      "summary": "Georgia Power encourages customers to prepare for hurricane season – Company Announcement Financial Times",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQYS1OdUhsbExRREN3ek5IVzRtTnB1VnNncDNQYVF0MlBRc2pzZ09oRktBeGEyYTRiXzdtcVJ2Z1NMcVdHWEVocjhxYjlMMXNUMU82TUl3U0R6R1I4SWEyOTZla0lqYW9UcHgtX2pZYkdRLXhMN0ZMd1dTcjhtWlBGOE9GdWRMZUt3enVNUzltZVFUN1NJdmhQcg?oc=5\" target=\"_blank\">Georgia Power encourages customers to prepare for hurricane season – Company Announcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
     },
     {
       "id": "423f5d06bb74d623",
@@ -583,6 +639,62 @@
       "collected_at": "2026-06-09T16:52:35+00:00"
     },
     {
+      "id": "31cdd2910a39b07d",
+      "title": "Georgia Power names Anthony Oni as vice president of Corporate Affairs - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSzBrOWFvZU1hU0gyRHdsX1FaUkw1T1ZZMFotU2FXc2w5ZEhiZUxSaWkyU2NOdHg2QzFMd09qWXNyUjMyNzdwWkdLaWJBNXU4cTlxUTNNSkc1c2lyUnJkNzRZTURnQTlQTGlpTHpzQ0J1LWZSX3h1SWhxLUNrS1h4OVZUb0FZMHdsODBPVVRTY0VqNHN2QVRpRnNXNHBlUlk0TzROY0ZYWUxqZ1MyN1NFTERjc0JxUGt6QjJIcGlrY19WckFNcUNhd3Y4RQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Morningstar",
+      "language": "English",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "summary": "Georgia Power names Anthony Oni as vice president of Corporate Affairs Morningstar",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPSzBrOWFvZU1hU0gyRHdsX1FaUkw1T1ZZMFotU2FXc2w5ZEhiZUxSaWkyU2NOdHg2QzFMd09qWXNyUjMyNzdwWkdLaWJBNXU4cTlxUTNNSkc1c2lyUnJkNzRZTURnQTlQTGlpTHpzQ0J1LWZSX3h1SWhxLUNrS1h4OVZUb0FZMHdsODBPVVRTY0VqNHN2QVRpRnNXNHBlUlk0TzROY0ZYWUxqZ1MyN1NFTERjc0JxUGt6QjJIcGlrY19WckFNcUNhd3Y4RQ?oc=5\" target=\"_blank\">Georgia Power names Anthony Oni as vice president of Corporate Affairs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
+      "id": "4c05d2b5b09c4c9b",
+      "title": "Georgia Power Plans Major Energy Grid Expansion Scotland Vs Usa (6avfVj4rXu) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ta3NaNmk4Z28zaFdsam1WU3QySUVIakptRFVxODltLUthbWQ2VHhyNmhVNzY4enh0VUpyS2V2d2wwRkNsY2dmSXVMNjdwOHhfOGo3M241T3J4am8?oc=5",
+      "domain": "news.google.com",
+      "source": "Mshale",
+      "language": "English",
+      "published_at": "2026-06-01T03:48:19+00:00",
+      "summary": "Georgia Power Plans Major Energy Grid Expansion Scotland Vs Usa (6avfVj4rXu) Mshale",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ta3NaNmk4Z28zaFdsam1WU3QySUVIakptRFVxODltLUthbWQ2VHhyNmhVNzY4enh0VUpyS2V2d2wwRkNsY2dmSXVMNjdwOHhfOGo3M241T3J4am8?oc=5\" target=\"_blank\">Georgia Power Plans Major Energy Grid Expansion Scotland Vs Usa (6avfVj4rXu)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
+      "id": "869f6795b49f0859",
+      "title": "Georgia Power Taxi (sWMBXwk37j) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UbGxoTnE3aFFKSzNtbmJfLWhZVHRIUVVIU1pDbF9zZlJEVmlPS1ozX0JCT0d5R1pVNWxJUGtIZm56V29TbXgxZXhwbUVMQmNMOFRFcWZTazkwdU0?oc=5",
+      "domain": "news.google.com",
+      "source": "Mshale",
+      "language": "English",
+      "published_at": "2026-05-30T23:14:35+00:00",
+      "summary": "Georgia Power Taxi (sWMBXwk37j) Mshale",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UbGxoTnE3aFFKSzNtbmJfLWhZVHRIUVVIU1pDbF9zZlJEVmlPS1ozX0JCT0d5R1pVNWxJUGtIZm56V29TbXgxZXhwbUVMQmNMOFRFcWZTazkwdU0?oc=5\" target=\"_blank\">Georgia Power Taxi (sWMBXwk37j)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
+      "id": "e43312db06d49607",
+      "title": "Georgia Power Outage Updates Amid Ice Storm Maxime Le Flaguais (GrVsm6o0qM) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tRDdueHJnVEVTWXdqeHc2NmZyNG5yR0dkeGl2Sm12VWVsWmlrd1k0MlJYRGpYMkpaM2w4eXp1SG9LbUNmT21Rb19iMUdrVHliMWVNakN1SUhaMVE?oc=5",
+      "domain": "news.google.com",
+      "source": "Mshale",
+      "language": "English",
+      "published_at": "2026-05-30T07:19:37+00:00",
+      "summary": "Georgia Power Outage Updates Amid Ice Storm Maxime Le Flaguais (GrVsm6o0qM) Mshale",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tRDdueHJnVEVTWXdqeHc2NmZyNG5yR0dkeGl2Sm12VWVsWmlrd1k0MlJYRGpYMkpaM2w4eXp1SG9LbUNmT21Rb19iMUdrVHliMWVNakN1SUhaMVE?oc=5\" target=\"_blank\">Georgia Power Outage Updates Amid Ice Storm Maxime Le Flaguais (GrVsm6o0qM)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
       "id": "ddeaf53a5f51e790",
       "title": "Georgia Power board votes to lower electricity rates - Atlanta News First",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWFuWGVEaUwzSVNXYVpxaWgyb1dKblR4QjhxUVk3N0dYLVpJMHBkQlNld3A0VjRIVThhZ0VCU1ZZamhhTVZZdmN1cEZ3Q1NoQzhoV0UwN2NNNGJDVTFpcDJEWk9IX0Zwd1ZCWGlGOEJJR0JHd0FQd0xoQkxDTVE4RmZ5NXBGeDE0TmdrWVhnaEZnTjlqM0h6Wjl4SllfakNTQ0E?oc=5",
@@ -621,6 +733,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:35+00:00"
+    },
+    {
+      "id": "f94cebe60d7cd785",
+      "title": "PSC Docket 29849: Georgia Power Company’s 22nd VCM Report - 06.25.2020 Alek Manoah (0XyETZRBy8) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxTFNnTFZ3ZENqOHZTN3ZxX3pSdTd0d0l1dnY2S05FLW4zQTRkTTRwWmxLWHlicjVWWXd0NlA3NUN4X3h5SzhVU2JPVjBtOTNXY2wwbG1KZHhGS00?oc=5",
+      "domain": "news.google.com",
+      "source": "Mshale",
+      "language": "English",
+      "published_at": "2026-05-29T10:43:13+00:00",
+      "summary": "PSC Docket 29849: Georgia Power Company’s 22nd VCM Report - 06.25.2020 Alek Manoah (0XyETZRBy8) Mshale",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxTFNnTFZ3ZENqOHZTN3ZxX3pSdTd0d0l1dnY2S05FLW4zQTRkTTRwWmxLWHlicjVWWXd0NlA3NUN4X3h5SzhVU2JPVjBtOTNXY2wwbG1KZHhGS00?oc=5\" target=\"_blank\">PSC Docket 29849: Georgia Power Company’s 22nd VCM Report - 06.25.2020 Alek Manoah (0XyETZRBy8)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
     },
     {
       "id": "ec57ed7efd242953",
@@ -769,6 +895,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-16T09:21:41+00:00"
+    },
+    {
+      "id": "daab0cf8833f1b8e",
+      "title": "Georgia Public Service Commission votes to lower Georgia Power utility rates - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb1diV0Z6cUhRaGZpVm1HUzhzMjNrRmZ5dGhqZUhySVVlem01MVJUZHpNR2ZNX2tHZWdnM1dIVXRKMFFBOXFQMUFHMDRSMjFaWGNIUlJDbFRBbUx0OUJLOFRxZmJSWW9tSHhMMVhKSU9oYnZyUVVQY0lXMVB0MElkRUhHMjBBMXJSSS1KWFBVeUNiU0FjZFZYUVVFaVF3UQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "summary": "Georgia Public Service Commission votes to lower Georgia Power utility rates Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOb1diV0Z6cUhRaGZpVm1HUzhzMjNrRmZ5dGhqZUhySVVlem01MVJUZHpNR2ZNX2tHZWdnM1dIVXRKMFFBOXFQMUFHMDRSMjFaWGNIUlJDbFRBbUx0OUJLOFRxZmJSWW9tSHhMMVhKSU9oYnZyUVVQY0lXMVB0MElkRUhHMjBBMXJSSS1KWFBVeUNiU0FjZFZYUVVFaVF3UQ?oc=5\" target=\"_blank\">Georgia Public Service Commission votes to lower Georgia Power utility rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
+      "id": "91807e2e1be84b24",
+      "title": "Here’s why your Georgia Power bill will be lower - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fZEhnTHdJeHhtaDc5SzhLTWY3NEQxM2cwUk9jVFdwQW4tNE5CZ1Jlb2dja3dfak1ia05ESGYtejJubUZSaVpJd0ZzaGVUVFpMNDg3MldXZ3J2SHEzYzJLcFQ3M1BhVmVGbDlqMU90aGdVbjFxUXVVZjdWZG8?oc=5",
+      "domain": "news.google.com",
+      "source": "AOL.com",
+      "language": "English",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "summary": "Here’s why your Georgia Power bill will be lower AOL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9fZEhnTHdJeHhtaDc5SzhLTWY3NEQxM2cwUk9jVFdwQW4tNE5CZ1Jlb2dja3dfak1ia05ESGYtejJubUZSaVpJd0ZzaGVUVFpMNDg3MldXZ3J2SHEzYzJLcFQ3M1BhVmVGbDlqMU90aGdVbjFxUXVVZjdWZG8?oc=5\" target=\"_blank\">Here’s why your Georgia Power bill will be lower</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
     },
     {
       "id": "5af3a71c91cdea9b",
@@ -921,6 +1075,90 @@
       "collected_at": "2026-06-17T23:19:24+00:00"
     },
     {
+      "id": "ed76834cff490976",
+      "title": "Georgia Power to lower rates, save customers $285 million annually - 11alive.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUW5QUzN6TUl2YWlPTUVackNlZnRRSFBVbG02UFNMZEFDYjRaYXZmRk1aUHF3bjRuYWZEWjN1a3FIR1FfODZXdnF3VHgtcVgyUDFPb2dpa3BfbGI4R2V0akFPNC1FbmdFclI1YlhlOE9DY2JWSjhDSkhIZktnb1AtQU50eGNkMER4TjgySTl3TjU1TFhpTDZOazhHRG9zY2JsQ3ozOU9hc2NoT3JQelV3MWk0a29WaWFBRUtFQkRfMVI1NXUtQjJlUTVTSVFiWDdPVUpDSVk4Vm9MR3llN2c?oc=5",
+      "domain": "news.google.com",
+      "source": "11alive.com",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Georgia Power to lower rates, save customers $285 million annually 11alive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUW5QUzN6TUl2YWlPTUVackNlZnRRSFBVbG02UFNMZEFDYjRaYXZmRk1aUHF3bjRuYWZEWjN1a3FIR1FfODZXdnF3VHgtcVgyUDFPb2dpa3BfbGI4R2V0akFPNC1FbmdFclI1YlhlOE9DY2JWSjhDSkhIZktnb1AtQU50eGNkMER4TjgySTl3TjU1TFhpTDZOazhHRG9zY2JsQ3ozOU9hc2NoT3JQelV3MWk0a29WaWFBRUtFQkRfMVI1NXUtQjJlUTVTSVFiWDdPVUpDSVk4Vm9MR3llN2c?oc=5\" target=\"_blank\">Georgia Power to lower rates, save customers $285 million annually</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11alive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
+      "id": "20fd8d4db0d8d5da",
+      "title": "Georgia Power to send smaller electricity bills after new rate agreement with regulator - Rockdale Citizen",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNM2l0ZGdrV1ZmU0twM3pCMzFtNXd3UTlDalBKNW5Rc2FnUzlMZEhKXzY3SC12WmZ4YlhYaUhGUVV3Y2JBRkRUWHZKUVFCbkg1V0FZdkUxUE1UTHUzdEktcHo3SGVldTRRV2dXMHVmR0RIYjEzbDdUWWtIdDZteE9jbXBuejExT1FRNmJTN2xkRy1zQW5hWFJVMS1Ha0tybWdhVlI1RDVzMG43VHY1TzZwaEYteDhoaVVFUXpKcVprUWpiQzF3RFhnVEtDZUpYRFhkVm5Wa2stdm5XSFl2TVZPb1dGNDVPSjFrcXgzZ19SRkZkRjNQSlFwNnc2aHZ6ek5NRzM2bzJxRXBIXy1j?oc=5",
+      "domain": "news.google.com",
+      "source": "Rockdale Citizen",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Georgia Power to send smaller electricity bills after new rate agreement with regulator Rockdale Citizen",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNM2l0ZGdrV1ZmU0twM3pCMzFtNXd3UTlDalBKNW5Rc2FnUzlMZEhKXzY3SC12WmZ4YlhYaUhGUVV3Y2JBRkRUWHZKUVFCbkg1V0FZdkUxUE1UTHUzdEktcHo3SGVldTRRV2dXMHVmR0RIYjEzbDdUWWtIdDZteE9jbXBuejExT1FRNmJTN2xkRy1zQW5hWFJVMS1Ha0tybWdhVlI1RDVzMG43VHY1TzZwaEYteDhoaVVFUXpKcVprUWpiQzF3RFhnVEtDZUpYRFhkVm5Wa2stdm5XSFl2TVZPb1dGNDVPSjFrcXgzZ19SRkZkRjNQSlFwNnc2aHZ6ek5NRzM2bzJxRXBIXy1j?oc=5\" target=\"_blank\">Georgia Power to send smaller electricity bills after new rate agreement with regulator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rockdale Citizen</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
+      "id": "41a929594e79c765",
+      "title": "Georgia Power to Lower Rates, Providing $285M of Annual Savings - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckF2VWM0bXU3bndxSnE2ak1pOUx1aGpQQmFQM0dwN1dOSGhLbjBCeVByWnpFNVloYjRtUXdPNlctSVN4bkxwUXNmUS0xN2t0NFhtLTNPWHBiN2NqeHlPUVhtNHBybUFPeXR6WU9OUE5YRkxERk5GVUFoX0lnQTdXR2Vhak1YdTRBYTBLYl9lV0U0LWQtcG5mZmdmcUFpTFV0YkxzQTl3?oc=5",
+      "domain": "news.google.com",
+      "source": "Moomoo",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Georgia Power to Lower Rates, Providing $285M of Annual Savings Moomoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNckF2VWM0bXU3bndxSnE2ak1pOUx1aGpQQmFQM0dwN1dOSGhLbjBCeVByWnpFNVloYjRtUXdPNlctSVN4bkxwUXNmUS0xN2t0NFhtLTNPWHBiN2NqeHlPUVhtNHBybUFPeXR6WU9OUE5YRkxERk5GVUFoX0lnQTdXR2Vhak1YdTRBYTBLYl9lV0U0LWQtcG5mZmdmcUFpTFV0YkxzQTl3?oc=5\" target=\"_blank\">Georgia Power to Lower Rates, Providing $285M of Annual Savings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
+      "id": "2c8d90c57237fefe",
+      "title": "Georgia PSC approves plan to lower overall rates, deliver annual savings of $50 per year for Georgia Power residential customers - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3lmQzc5VXdZWTNUNWlPb1o1VVRpYVdFMjNUQTltUUx0VTVGR2ZUdVVDeGhIak5UX3RFeTVsWnE5NmU4OUYyQXhGdmYwTHFpUzdRZlFzNTNfNVRhSGpEY3RuVmdkQVU2X3pjcUpNd0l5M3E5MDl2eU0wakdhaVgwRG5xOFJiUjkzOG1VZmduSG1TYkZZVTZHMGw0cXU?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Georgia PSC approves plan to lower overall rates, deliver annual savings of $50 per year for Georgia Power residential customers Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxON3lmQzc5VXdZWTNUNWlPb1o1VVRpYVdFMjNUQTltUUx0VTVGR2ZUdVVDeGhIak5UX3RFeTVsWnE5NmU4OUYyQXhGdmYwTHFpUzdRZlFzNTNfNVRhSGpEY3RuVmdkQVU2X3pjcUpNd0l5M3E5MDl2eU0wakdhaVgwRG5xOFJiUjkzOG1VZmduSG1TYkZZVTZHMGw0cXU?oc=5\" target=\"_blank\">Georgia PSC approves plan to lower overall rates, deliver annual savings of $50 per year for Georgia Power residential customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
+      "id": "a05bfc25b0407ba5",
+      "title": "Public Service Commission approves Georgia Power storm recovery plan - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFhia0FrRHlyUTFvWHEydUswUGNJN1JqRmFDZFBpR2FUZG9NX3o5YjlrSXFVSDBPQmFhVUtURkMyYlYyWFBrNnZGWmc1UHFEeERvTmJBMlFSdjExYkxwb0ZTZkxFbFZRdG1KWDhnMkpyUFBWcWhWX1dJMlBtWmpaMzNnMUxma01nR19XV2RjNTlOOXVJZ05nQlhB?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Public Service Commission approves Georgia Power storm recovery plan Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFhia0FrRHlyUTFvWHEydUswUGNJN1JqRmFDZFBpR2FUZG9NX3o5YjlrSXFVSDBPQmFhVUtURkMyYlYyWFBrNnZGWmc1UHFEeERvTmJBMlFSdjExYkxwb0ZTZkxFbFZRdG1KWDhnMkpyUFBWcWhWX1dJMlBtWmpaMzNnMUxma01nR19XV2RjNTlOOXVJZ05nQlhB?oc=5\" target=\"_blank\">Public Service Commission approves Georgia Power storm recovery plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
+      "id": "ee55b5538f3cf14d",
+      "title": "Georgia PSC votes to lower Georgia Power utility rates - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXFBQVNQX21DcFpkSm5zMHNKcXhjRl9yM3M1azlXd1pZN2g1RTJBN2VxeXRoMzBlT0M1RDk5eHMtbVhVM0d6S2VuZDltQUgySUhsOFlvWmduWU9TS3VSRU5ob200WHpSZjVkU3JHYzg1bDZSN1FpWGVGOWYtaG1uOTVuTjh6MEtCbUpMdHNla2FpUmZKZ2c?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Georgia PSC votes to lower Georgia Power utility rates Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXFBQVNQX21DcFpkSm5zMHNKcXhjRl9yM3M1azlXd1pZN2g1RTJBN2VxeXRoMzBlT0M1RDk5eHMtbVhVM0d6S2VuZDltQUgySUhsOFlvWmduWU9TS3VSRU5ob200WHpSZjVkU3JHYzg1bDZSN1FpWGVGOWYtaG1uOTVuTjh6MEtCbUpMdHNla2FpUmZKZ2c?oc=5\" target=\"_blank\">Georgia PSC votes to lower Georgia Power utility rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
       "id": "0c358710ac78474b",
       "title": "As Georgia Power rate decision looms, consumer group raises concerns - WRDW",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTG1xaXdVUEdhOVBkUWNlUHhNRFd6dGFWWUZiWWtpdkE0ZmxMYTc3SzBWQlZzOVRzWUpvdXZVMTJvLVEybXJjT0lEbTZpZC1xbzZwWUtNNkFvR3pQM1J6OEFBZnlUaGZ2N1A2TWNoUElBYmlUMTZfc014amliTmZaR0xCdHJhLUxMRXI1VHMwcTdOTXZqYzdrR0tTV1lGd9IBsgFBVV95cUxOQ2p6TkpJNUgzY0w2RmpsQjhHcmgyMmpPb0wwelZVMzJwTnZqTWFfaDNkZHI3UFRNV1k0VVBDWnMtaXBOZmplS3IwN2hJdzNXTGQxSjh3djAtelktRm9vUF9pQVRxcTFraEJSRll1S2xkY2d4eXNlRGxCMURNaXZGYmYxZzJsVURJTER6Z2d6LVVZZ0pDUmtqMnhrTUZCQlVBNkx3SGxNNWZxNldpZDFyX1pR?oc=5",
@@ -932,6 +1170,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:35+00:00"
+    },
+    {
+      "id": "a12d21069c417c48",
+      "title": "Power Outage Reported - Citizen app",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qZlVDS1oxdWVKdjdRNC1Oei1DX3I5OGR5dDh1R2FBMzQ3cnlnY1dVeTh3d1V4NVBhX0dqSEFxaW9OX0RzRkxqNjZtNGNlei1NS1E?oc=5",
+      "domain": "news.google.com",
+      "source": "Citizen app",
+      "language": "English",
+      "published_at": "2026-05-27T07:00:00+00:00",
+      "summary": "Power Outage Reported Citizen app",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qZlVDS1oxdWVKdjdRNC1Oei1DX3I5OGR5dDh1R2FBMzQ3cnlnY1dVeTh3d1V4NVBhX0dqSEFxaW9OX0RzRkxqNjZtNGNlei1NS1E?oc=5\" target=\"_blank\">Power Outage Reported</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Citizen app</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
     },
     {
       "id": "7245accc38a43fad",
@@ -960,6 +1212,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-17T20:06:29+00:00"
+    },
+    {
+      "id": "1e9c2543476f8f0e",
+      "title": "Democrats eye chance to take control of Georgia’s Public Service Commission - Chattanooga Times Free Press",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZkxHeDFXOVF0MDgxbkhYRDM3WC1XdFAwSjFXczBWa294Rmk1VDg1TWYyRWVhREVpcDN0VHI2MTVGYTRTeXlUaWlob3FiWjYtNkVMSFRPc2VtMmJ2RFoySWJFQm5XNzVZUVVHbGZsMGxTdkhwcFBubmF1RU1pQ3JnYVR5UFM3eHJWSEpXQmxfODF1bWUxdVNJanpDeTNwQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Chattanooga Times Free Press",
+      "language": "English",
+      "published_at": "2026-05-24T07:00:00+00:00",
+      "summary": "Democrats eye chance to take control of Georgia’s Public Service Commission Chattanooga Times Free Press",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZkxHeDFXOVF0MDgxbkhYRDM3WC1XdFAwSjFXczBWa294Rmk1VDg1TWYyRWVhREVpcDN0VHI2MTVGYTRTeXlUaWlob3FiWjYtNkVMSFRPc2VtMmJ2RFoySWJFQm5XNzVZUVVHbGZsMGxTdkhwcFBubmF1RU1pQ3JnYVR5UFM3eHJWSEpXQmxfODF1bWUxdVNJanpDeTNwQQ?oc=5\" target=\"_blank\">Democrats eye chance to take control of Georgia’s Public Service Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chattanooga Times Free Press</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:54+00:00"
     },
     {
       "id": "8621081c28d086bc",

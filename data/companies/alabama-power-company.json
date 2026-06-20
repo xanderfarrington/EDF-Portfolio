@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-20T07:45:44+00:00",
+  "last_updated": "2026-06-20T10:28:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 63,
+  "count": 64,
   "mentions": [
     {
       "id": "0bc35fa8d04d3d38",
@@ -681,6 +681,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-18T08:43:32+00:00"
+    },
+    {
+      "id": "847fd235cdc36f2f",
+      "title": "Hunton Advises on Alabama Power Company’s $80M Tax-Exempt Remarketing - Hunton Andrews Kurth LLP",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONElxVW4wX0RnMlY2ekxWVlIySzAzS3pnLS1sVlJKeHVGSUh0YWdSaEx1b0pLUS1oNks3LWFHMC1ubDhwX0tVZTQ4THdDTDFiS1o5elBHR3pEWjNyYzVZOUhHeFk4cmFMQWRRTUpjVVlEYUpRMldQeGhmYmN2T2puTW4xbUd0bzh0UXBwYk5pR0RKb3FBNzM3Vm0tVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Hunton Andrews Kurth LLP",
+      "language": "English",
+      "published_at": "2026-06-02T07:00:00+00:00",
+      "summary": "Hunton Advises on Alabama Power Company’s $80M Tax-Exempt Remarketing Hunton Andrews Kurth LLP",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxONElxVW4wX0RnMlY2ekxWVlIySzAzS3pnLS1sVlJKeHVGSUh0YWdSaEx1b0pLUS1oNks3LWFHMC1ubDhwX0tVZTQ4THdDTDFiS1o5elBHR3pEWjNyYzVZOUhHeFk4cmFMQWRRTUpjVVlEYUpRMldQeGhmYmN2T2puTW4xbUd0bzh0UXBwYk5pR0RKb3FBNzM3Vm0tVQ?oc=5\" target=\"_blank\">Hunton Advises on Alabama Power Company’s $80M Tax-Exempt Remarketing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hunton Andrews Kurth LLP</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-20T10:28:37+00:00"
     },
     {
       "id": "ee03b74c048e3665",

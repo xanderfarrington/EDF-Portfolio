@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T07:46:11+00:00",
+  "last_updated": "2026-06-20T10:29:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 63,
-      "new_mentions_this_run": 17,
+      "count": 64,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "0bc35fa8d04d3d38",
         "title": "Alabama Power’s service restoration efforts continue after severe weather - WKRG",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 75,
-      "new_mentions_this_run": 24,
+      "count": 94,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "1394a2186c4c6266",
         "title": "Georgia’s Plant Hatch receives 20-year license renewal from the Nuclear Regulatory Commission - Grice Connect",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 9,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",
