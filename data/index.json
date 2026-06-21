@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T17:23:32+00:00",
+  "last_updated": "2026-06-21T19:22:26+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 43,
-      "new_mentions_this_run": 15,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "9adb559d9505b91c",
         "title": "Microsoft-backed Three Mile Island restart faces state permit hurdle - MSN",
