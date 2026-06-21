@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-21T08:23:34+00:00",
+  "last_updated": "2026-06-21T12:08:19+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 65,
+  "count": 66,
   "mentions": [
     {
       "id": "3d8611d2381111e2",
@@ -750,6 +750,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-16T09:21:24+00:00"
+    },
+    {
+      "id": "5b0f71163f3d33c3",
+      "title": "The V: Alabama’s power fights move from maps to money - Alabama Political Reporter",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNmJZQmc5RXpfN2pMS2xOajVkczJQX2JMRE5yWXFOakNaMzFwSVlhN2FKSnJxSlNUbzRKa3JFQmNkeVNXMEdmN0RuQlNPRWRfZkhZQzF6VjBUUFpmWExaWUtBNHU1cFhLOW9kc3M4VTJ5c0U2TGZUNmx3VUt5dmpzdHZWd2xJWWtYSFpMOWsxekpYeHN2?oc=5",
+      "domain": "news.google.com",
+      "source": "Alabama Political Reporter",
+      "language": "English",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "summary": "The V: Alabama’s power fights move from maps to money Alabama Political Reporter",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQNmJZQmc5RXpfN2pMS2xOajVkczJQX2JMRE5yWXFOakNaMzFwSVlhN2FKSnJxSlNUbzRKa3JFQmNkeVNXMEdmN0RuQlNPRWRfZkhZQzF6VjBUUFpmWExaWUtBNHU1cFhLOW9kc3M4VTJ5c0U2TGZUNmx3VUt5dmpzdHZWd2xJWWtYSFpMOWsxekpYeHN2?oc=5\" target=\"_blank\">The V: Alabama’s power fights move from maps to money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Political Reporter</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-21T12:08:19+00:00"
     },
     {
       "id": "b88d15f2a936b083",

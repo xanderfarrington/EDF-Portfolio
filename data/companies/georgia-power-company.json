@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-21T08:23:50+00:00",
+  "last_updated": "2026-06-21T12:08:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 97,
+  "count": 98,
   "mentions": [
     {
       "id": "0861d0d4860c10ac",
@@ -679,6 +679,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
+      "id": "7b32e8f2ee674b7b",
+      "title": "Georgia Power names Anthony Oni as vice president of Corporate Affairs - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVZhSm9GbnAyVzUwNElRZVF4WGlJWkE0NHZ6dVZSb0JpSnp1RGhJSmdwX3FleDZoQnZLTDZQdlc5VEduM0RIWTRoc0Jad1BxWjU2RGNZSlRaRFRDOHR3aFRkcW1nRnhXVGNKSmJpRmQ3Z2VFX2NwSU5MVEJtMy1PTEhBeGJTQWVaallaYTNUMnFaTm1oNHdiM3ZIV3JPQ0Y5dHA5MEZIZVZGMUNFWjB4eTNTSVBGM1V6VzFiUEdnemRVdVE5?oc=5",
+      "domain": "news.google.com",
+      "source": "PR Newswire",
+      "language": "English",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "summary": "Georgia Power names Anthony Oni as vice president of Corporate Affairs PR Newswire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVZhSm9GbnAyVzUwNElRZVF4WGlJWkE0NHZ6dVZSb0JpSnp1RGhJSmdwX3FleDZoQnZLTDZQdlc5VEduM0RIWTRoc0Jad1BxWjU2RGNZSlRaRFRDOHR3aFRkcW1nRnhXVGNKSmJpRmQ3Z2VFX2NwSU5MVEJtMy1PTEhBeGJTQWVaallaYTNUMnFaTm1oNHdiM3ZIV3JPQ0Y5dHA5MEZIZVZGMUNFWjB4eTNTSVBGM1V6VzFiUEdnemRVdVE5?oc=5\" target=\"_blank\">Georgia Power names Anthony Oni as vice president of Corporate Affairs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-21T12:08:36+00:00"
     },
     {
       "id": "4c05d2b5b09c4c9b",

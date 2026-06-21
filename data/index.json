@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T08:24:01+00:00",
+  "last_updated": "2026-06-21T12:08:46+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 65,
+      "count": 66,
       "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "3d8611d2381111e2",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 97,
-      "new_mentions_this_run": 23,
+      "count": 98,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "0861d0d4860c10ac",
         "title": "Watching Georgia Power Webinar: Protecting Georgians from another rate hike - PIRG",
