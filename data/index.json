@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-21T15:48:47+00:00",
+  "last_updated": "2026-06-21T17:23:32+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 33,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "9d251408e4da7385",
         "title": "American Electric Power's BOLD line targets bigger power moves on Tuesday - AD HOC NEWS",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 15,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "bceb3e4ac3bbf976",
         "title": "Chrysalis and Hanwha Acquire 357MWdc of Solar Capacity in Arizona Through Strategic Partnership - energynews.pro",
