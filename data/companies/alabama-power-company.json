@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-21T12:08:19+00:00",
+  "last_updated": "2026-06-21T15:48:20+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 66,
+  "count": 68,
   "mentions": [
+    {
+      "id": "af0e1d1956583150",
+      "title": "Alabama Power Service Organization: 7,400 APSO Volunteers, 53,000 Hours Of Service Colson Montgomery (A8aJC6lqf1) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rTTZFYUo0RlhGMG5DWDFCS1AwLXBBZnRnQVVCZ3RqWmdjT2l3NXlrWGQ5NHNlNUhYaTlyTmFtNVdxWHhYVFEwV1FndkE4MWhOX2JRQ0pmZ0ZLSHhsck5Wc2hBTEI?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-21T13:11:37+00:00",
+      "summary": "Alabama Power Service Organization: 7,400 APSO Volunteers, 53,000 Hours Of Service Colson Montgomery (A8aJC6lqf1) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rTTZFYUo0RlhGMG5DWDFCS1AwLXBBZnRnQVVCZ3RqWmdjT2l3NXlrWGQ5NHNlNUhYaTlyTmFtNVdxWHhYVFEwV1FndkE4MWhOX2JRQ0pmZ0ZLSHhsck5Wc2hBTEI?oc=5\" target=\"_blank\">Alabama Power Service Organization: 7,400 APSO Volunteers, 53,000 Hours Of Service Colson Montgomery (A8aJC6lqf1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-21T15:48:20+00:00"
+    },
     {
       "id": "3d8611d2381111e2",
       "title": "Alabama Power’s service restoration efforts continue after severe weather - AOL.com",
@@ -764,6 +778,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-21T12:08:19+00:00"
+    },
+    {
+      "id": "68eb543e94c44d48",
+      "title": "Alabama Electricity Rates & Costs (2026) - ElectricChoice.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01VFdRWWNScjBKUXpMdHREOTJ0dC1PQ3ZRN0l6dXMxLWc4NHZDdEdqY3pHRnJ3dXNFbWM5YktFejJCbXpVQ2h5T3pwM0xpMENPTE5PU0c0RWZicXRqOWVrdFBmN3RRSkxhWDFHMmVVM25MNHEtd0E?oc=5",
+      "domain": "news.google.com",
+      "source": "ElectricChoice.com",
+      "language": "English",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "summary": "Alabama Electricity Rates & Costs (2026) ElectricChoice.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE01VFdRWWNScjBKUXpMdHREOTJ0dC1PQ3ZRN0l6dXMxLWc4NHZDdEdqY3pHRnJ3dXNFbWM5YktFejJCbXpVQ2h5T3pwM0xpMENPTE5PU0c0RWZicXRqOWVrdFBmN3RRSkxhWDFHMmVVM25MNHEtd0E?oc=5\" target=\"_blank\">Alabama Electricity Rates & Costs (2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ElectricChoice.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-21T15:48:20+00:00"
     },
     {
       "id": "b88d15f2a936b083",
