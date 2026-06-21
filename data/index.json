@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-21T03:30:47+00:00",
+  "last_updated": "2026-06-21T08:24:01+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 32,
-      "new_mentions_this_run": 2,
+      "count": 33,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "9d251408e4da7385",
         "title": "American Electric Power's BOLD line targets bigger power moves on Tuesday - AD HOC NEWS",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 96,
+      "count": 97,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "1394a2186c4c6266",
-        "title": "Georgia’s Plant Hatch receives 20-year license renewal from the Nuclear Regulatory Commission - Grice Connect",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPekxxdFlMSjRyMnFNaERvWEZ1RUlWNXlxWEE1WXlsRnNCdmNPZUZham9LRXBvWW5UWWFMczB6Y19ZMjhCbGU5XzZNLVpHUi0ybVQ5ci1La3hnRWFuSjN3UmJreGlUUnVlUHJKR1Azc2hBRkhQOTJGNXFCd2ZtbGFkNXFRX3RBcG1aX21xRjF1ZThQU1pIX2Exb1p3LXFsbEdFT1lhZ1h4M2paQzV4dHVyRXVWQVdEN0VJS3JITnlkWC1kUWV4SUxoaWk2RFhuc1NlYjJEbWlSTHHSAd4BQVVfeXFMT25IejRVSXNhMEpNa3RxbTdHbVI3bVVNQzlWMEFfaGFwZGU3RFNLOVY0cl9NWGxKTy1lX0gwcGhZSVZDa2ljWGJqX09YSjZUNUNOa2NvTkdTNU5uam5XN0RXMnZGOGR3d2VwZktWLUFockdpdVV0OEh3d290azFkRlhqYkxjREVYRDVZRHpmbDlkbWpPWXBHM1AyTjhkQUNWZ0c3c2QtZnJDMWxiQ3dRWEEzb1pfNnhKN1dJNm5TTktMYlhOSzNZYU1wUlpGRUVKZHBqSGhmZDhlaU5UaGhn?oc=5",
+        "id": "0861d0d4860c10ac",
+        "title": "Watching Georgia Power Webinar: Protecting Georgians from another rate hike - PIRG",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnNaU1JxcGEyOERuakFYa2lZVjQ1R1ozUXUyNkFiNHZDeG81TncwMkEtbWdlaG94dm5MNWVQZzktZmFZWDRCQUZDMkRLWE8xam1rbF85UmkySjFXaWU2aHZqSjR4RXowd0VOZTNfR0F5MjFsZnlVSklvR20zZGNLNmtvZjVCSzJvU0tUNE04TlRuUDhMX08tSVowWEhNd2Z2WnMtVnVLWVFFSDBnWnV1bS1yQnQ?oc=5",
         "domain": "news.google.com",
-        "source": "Grice Connect",
+        "source": "PIRG",
         "language": "English",
-        "published_at": "2026-06-19T14:14:00+00:00",
-        "summary": "Georgia’s Plant Hatch receives 20-year license renewal from the Nuclear Regulatory Commission Grice Connect",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPekxxdFlMSjRyMnFNaERvWEZ1RUlWNXlxWEE1WXlsRnNCdmNPZUZham9LRXBvWW5UWWFMczB6Y19ZMjhCbGU5XzZNLVpHUi0ybVQ5ci1La3hnRWFuSjN3UmJreGlUUnVlUHJKR1Azc2hBRkhQOTJGNXFCd2ZtbGFkNXFRX3RBcG1aX21xRjF1ZThQU1pIX2Exb1p3LXFsbEdFT1lhZ1h4M2paQzV4dHVyRXVWQVdEN0VJS3JITnlkWC1kUWV4SUxoaWk2RFhuc1NlYjJEbWlSTHHSAd4BQVVfeXFMT25IejRVSXNhMEpNa3RxbTdHbVI3bVVNQzlWMEFfaGFwZGU3RFNLOVY0cl9NWGxKTy1lX0gwcGhZSVZDa2ljWGJqX09YSjZUNUNOa2NvTkdTNU5uam5XN0RXMnZGOGR3d2VwZktWLUFockdpdVV0OEh3d290azFkRlhqYkxjREVYRDVZRHpmbDlkbWpPWXBHM1AyTjhkQUNWZ0c3c2QtZnJDMWxiQ3dRWEEzb1pfNnhKN1dJNm5TTktMYlhOSzNZYU1wUlpGRUVKZHBqSGhmZDhlaU5UaGhn?oc=5\" target=\"_blank\">Georgia’s Plant Hatch receives 20-year license renewal from the Nuclear Regulatory Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+        "published_at": "2026-06-20T18:57:11+00:00",
+        "summary": "Watching Georgia Power Webinar: Protecting Georgians from another rate hike PIRG",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnNaU1JxcGEyOERuakFYa2lZVjQ1R1ozUXUyNkFiNHZDeG81TncwMkEtbWdlaG94dm5MNWVQZzktZmFZWDRCQUZDMkRLWE8xam1rbF85UmkySjFXaWU2aHZqSjR4RXowd0VOZTNfR0F5MjFsZnlVSklvR20zZGNLNmtvZjVCSzJvU0tUNE04TlRuUDhMX08tSVowWEhNd2Z2WnMtVnVLWVFFSDBnWnV1bS1yQnQ?oc=5\" target=\"_blank\">Watching Georgia Power Webinar: Protecting Georgians from another rate hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PIRG</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-19T16:30:27+00:00"
+        "collected_at": "2026-06-21T08:23:50+00:00"
       }
     },
     {

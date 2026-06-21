@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-06-21T03:30:15+00:00",
+  "last_updated": "2026-06-21T08:23:28+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 32,
+  "count": 33,
   "mentions": [
     {
       "id": "9d251408e4da7385",
@@ -334,6 +334,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:12+00:00"
+    },
+    {
+      "id": "f42cd5e543ce51cb",
+      "title": "Hunton Advises on AEP Transmission Company, LLC’s $650M Senior Notes Offering - Hunton Andrews Kurth LLP",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3R6NXZBeFFYejhqUUxhcXNVQ0oxYmVwV1RsU09QdEFwQlNhR2lDekNacGJwSWRZTENaWjN6RzRuVGZwUGdCdmhXYTZHbkE5V01QVjh1NDhJWUljSUxrRXZjZkcwd3VMc09rR1VtNm80U3RMb0hiaFdobGRUMTdpd0RLNUpFUDJHWkNBWGR1dVZva1RkTUR3MXdRdUhhZ1JJbm11aQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Hunton Andrews Kurth LLP",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Hunton Advises on AEP Transmission Company, LLC’s $650M Senior Notes Offering Hunton Andrews Kurth LLP",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3R6NXZBeFFYejhqUUxhcXNVQ0oxYmVwV1RsU09QdEFwQlNhR2lDekNacGJwSWRZTENaWjN6RzRuVGZwUGdCdmhXYTZHbkE5V01QVjh1NDhJWUljSUxrRXZjZkcwd3VMc09rR1VtNm80U3RMb0hiaFdobGRUMTdpd0RLNUpFUDJHWkNBWGR1dVZva1RkTUR3MXdRdUhhZ1JJbm11aQ?oc=5\" target=\"_blank\">Hunton Advises on AEP Transmission Company, LLC’s $650M Senior Notes Offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hunton Andrews Kurth LLP</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-21T08:23:28+00:00"
     },
     {
       "id": "ca2aa16e433c6554",
