@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-21T23:06:03+00:00",
+  "last_updated": "2026-06-22T03:35:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 68,
+  "count": 69,
   "mentions": [
+    {
+      "id": "36dba59b629b8961",
+      "title": "South Alabama, Alabama Power Unveil Weather Research Center, Student Broadcast Studio Emmy (DUWMniwrGB) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84TnFjdGd1dWJIRTh4b1lwZTJPemV2MUJsbG5UN1FPcHJ2ZllCZkJ6XzFjSHJzaXZyWC12RUxrdF9lQ2R0ZXZycHN4VldtQlJLTmFodTZhRnREQXE5M29SR204b0c?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-21T23:15:33+00:00",
+      "summary": "South Alabama, Alabama Power Unveil Weather Research Center, Student Broadcast Studio Emmy (DUWMniwrGB) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE84TnFjdGd1dWJIRTh4b1lwZTJPemV2MUJsbG5UN1FPcHJ2ZllCZkJ6XzFjSHJzaXZyWC12RUxrdF9lQ2R0ZXZycHN4VldtQlJLTmFodTZhRnREQXE5M29SR204b0c?oc=5\" target=\"_blank\">South Alabama, Alabama Power Unveil Weather Research Center, Student Broadcast Studio Emmy (DUWMniwrGB)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-22T03:35:07+00:00"
+    },
     {
       "id": "af0e1d1956583150",
       "title": "Alabama Power Service Organization: 7,400 APSO Volunteers, 53,000 Hours Of Service Colson Montgomery (A8aJC6lqf1) - Fathom Journal",

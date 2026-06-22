@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T23:06:30+00:00",
+  "last_updated": "2026-06-22T03:35:34+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 68,
+      "count": 69,
       "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "af0e1d1956583150",
-        "title": "Alabama Power Service Organization: 7,400 APSO Volunteers, 53,000 Hours Of Service Colson Montgomery (A8aJC6lqf1) - Fathom Journal",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rTTZFYUo0RlhGMG5DWDFCS1AwLXBBZnRnQVVCZ3RqWmdjT2l3NXlrWGQ5NHNlNUhYaTlyTmFtNVdxWHhYVFEwV1FndkE4MWhOX2JRQ0pmZ0ZLSHhsck5Wc2hBTEI?oc=5",
+        "id": "36dba59b629b8961",
+        "title": "South Alabama, Alabama Power Unveil Weather Research Center, Student Broadcast Studio Emmy (DUWMniwrGB) - Fathom Journal",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84TnFjdGd1dWJIRTh4b1lwZTJPemV2MUJsbG5UN1FPcHJ2ZllCZkJ6XzFjSHJzaXZyWC12RUxrdF9lQ2R0ZXZycHN4VldtQlJLTmFodTZhRnREQXE5M29SR204b0c?oc=5",
         "domain": "news.google.com",
         "source": "Fathom Journal",
         "language": "English",
-        "published_at": "2026-06-21T13:11:37+00:00",
-        "summary": "Alabama Power Service Organization: 7,400 APSO Volunteers, 53,000 Hours Of Service Colson Montgomery (A8aJC6lqf1) Fathom Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rTTZFYUo0RlhGMG5DWDFCS1AwLXBBZnRnQVVCZ3RqWmdjT2l3NXlrWGQ5NHNlNUhYaTlyTmFtNVdxWHhYVFEwV1FndkE4MWhOX2JRQ0pmZ0ZLSHhsck5Wc2hBTEI?oc=5\" target=\"_blank\">Alabama Power Service Organization: 7,400 APSO Volunteers, 53,000 Hours Of Service Colson Montgomery (A8aJC6lqf1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+        "published_at": "2026-06-21T23:15:33+00:00",
+        "summary": "South Alabama, Alabama Power Unveil Weather Research Center, Student Broadcast Studio Emmy (DUWMniwrGB) Fathom Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE84TnFjdGd1dWJIRTh4b1lwZTJPemV2MUJsbG5UN1FPcHJ2ZllCZkJ6XzFjSHJzaXZyWC12RUxrdF9lQ2R0ZXZycHN4VldtQlJLTmFodTZhRnREQXE5M29SR204b0c?oc=5\" target=\"_blank\">South Alabama, Alabama Power Unveil Weather Research Center, Student Broadcast Studio Emmy (DUWMniwrGB)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-21T15:48:20+00:00"
+        "collected_at": "2026-06-22T03:35:07+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 9,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "60be11be635412ab",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - Department of Energy (.gov)",
