@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T21:58:29+00:00",
+  "last_updated": "2026-06-22T23:21:52+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 69,
-      "new_mentions_this_run": 20,
+      "count": 70,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "36dba59b629b8961",
-        "title": "South Alabama, Alabama Power Unveil Weather Research Center, Student Broadcast Studio Emmy (DUWMniwrGB) - Fathom Journal",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84TnFjdGd1dWJIRTh4b1lwZTJPemV2MUJsbG5UN1FPcHJ2ZllCZkJ6XzFjSHJzaXZyWC12RUxrdF9lQ2R0ZXZycHN4VldtQlJLTmFodTZhRnREQXE5M29SR204b0c?oc=5",
+        "id": "1d3fec57b27b0e1c",
+        "title": "Alabama Power CEO Mark Crosswhite Alabama Innovation Awards Video Arnaldi (u5LCFlxY1z) - Fathom Journal",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QRE1INzNFZDdTNk5DMDBpSjlnNldIQ19yN0pRWmg0OW1qeWlCbk9xMU4xdkNnOEg3ekswbjNTUWRGeXhoM1lNRW5KeV9pRXptTlBlRjd6cUVnUGhFRzdzUkZPUlM?oc=5",
         "domain": "news.google.com",
         "source": "Fathom Journal",
         "language": "English",
-        "published_at": "2026-06-21T23:15:33+00:00",
-        "summary": "South Alabama, Alabama Power Unveil Weather Research Center, Student Broadcast Studio Emmy (DUWMniwrGB) Fathom Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE84TnFjdGd1dWJIRTh4b1lwZTJPemV2MUJsbG5UN1FPcHJ2ZllCZkJ6XzFjSHJzaXZyWC12RUxrdF9lQ2R0ZXZycHN4VldtQlJLTmFodTZhRnREQXE5M29SR204b0c?oc=5\" target=\"_blank\">South Alabama, Alabama Power Unveil Weather Research Center, Student Broadcast Studio Emmy (DUWMniwrGB)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+        "published_at": "2026-06-22T21:10:43+00:00",
+        "summary": "Alabama Power CEO Mark Crosswhite Alabama Innovation Awards Video Arnaldi (u5LCFlxY1z) Fathom Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QRE1INzNFZDdTNk5DMDBpSjlnNldIQ19yN0pRWmg0OW1qeWlCbk9xMU4xdkNnOEg3ekswbjNTUWRGeXhoM1lNRW5KeV9pRXptTlBlRjd6cUVnUGhFRzdzUkZPUlM?oc=5\" target=\"_blank\">Alabama Power CEO Mark Crosswhite Alabama Innovation Awards Video Arnaldi (u5LCFlxY1z)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-22T03:35:07+00:00"
+        "collected_at": "2026-06-22T23:21:25+00:00"
       }
     },
     {
