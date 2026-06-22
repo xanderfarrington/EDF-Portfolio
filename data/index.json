@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T15:18:54+00:00",
+  "last_updated": "2026-06-22T19:24:31+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -47,21 +47,21 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 15,
-      "new_mentions_this_run": 8,
+      "count": 16,
+      "new_mentions_this_run": 9,
       "latest_mention": {
-        "id": "bceb3e4ac3bbf976",
-        "title": "Chrysalis and Hanwha Acquire 357MWdc of Solar Capacity in Arizona Through Strategic Partnership - energynews.pro",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYzZ6cU9CQlFxZ3dBZ3M4S3dUeHpNdm1fcnJaNVU1R29pUUxsVlNHTmwxZ2w5NzBNbWRUMzl0bENVaURkY0U4dThxcVE4clFzVURVT2p3V3pOcFZoVjRIWFFvT29ENk1zMjJuZ09QQ09aNjhUYk8tckVUQ0lycXRGWGIxTXR6cHlRbzJyZTc5NXBhTUZVOGFyWllCZ00ybFN4cmZnN2Y0eHR5a3FWc1dybXcyOTlBRU9pbElZb0R3?oc=5",
+        "id": "dd2bcc94d02a3333",
+        "title": "North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More - TaiyangNews",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmtiMmhmM3lMTlUwcy1UUTF6ajZSSkRUc1ZtSDQwdER4TDlEYzRIU1ZEcWFTWi1uUFZrb0UyU3NhcUVMcUZ4VXkwZElRZzV4T01JQTZWd3JIbXJMbXg2eXpwZ0hPX0RXYXJSWWdCalItU2pFcU1DQjRsZTg3Y2RTbk5PVEdMcHpUeXfSAZcBQVVfeXFMUHpLTUFYcXJmYXhoTHdsYUtFd1R0YS10VmVRSGZxRS0wQjR2ZXlrempYNXU0SFAzdHdJUTRHWk9vclFoZDFwcTh5VVByc3Nvem83RzQ2Nkdaekh1X0UtSnR3TGxlaXNvTEJIUXRfOEV2Vy1Na1RhVTZOMVNkdHBYQzgwODJUdFZDYVBsaVBaZVJLTk5Rc1B0SQ?oc=5",
         "domain": "news.google.com",
-        "source": "energynews.pro",
+        "source": "TaiyangNews",
         "language": "English",
-        "published_at": "2026-06-19T00:01:54+00:00",
-        "summary": "Chrysalis and Hanwha Acquire 357MWdc of Solar Capacity in Arizona Through Strategic Partnership energynews.pro",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOYzZ6cU9CQlFxZ3dBZ3M4S3dUeHpNdm1fcnJaNVU1R29pUUxsVlNHTmwxZ2w5NzBNbWRUMzl0bENVaURkY0U4dThxcVE4clFzVURVT2p3V3pOcFZoVjRIWFFvT29ENk1zMjJuZ09QQ09aNjhUYk8tckVUQ0lycXRGWGIxTXR6cHlRbzJyZTc5NXBhTUZVOGFyWllCZ00ybFN4cmZnN2Y0eHR5a3FWc1dybXcyOTlBRU9pbElZb0R3?oc=5\" target=\"_blank\">Chrysalis and Hanwha Acquire 357MWdc of Solar Capacity in Arizona Through Strategic Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energynews.pro</font>",
+        "published_at": "2026-06-22T09:20:19+00:00",
+        "summary": "North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More TaiyangNews",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmtiMmhmM3lMTlUwcy1UUTF6ajZSSkRUc1ZtSDQwdER4TDlEYzRIU1ZEcWFTWi1uUFZrb0UyU3NhcUVMcUZ4VXkwZElRZzV4T01JQTZWd3JIbXJMbXg2eXpwZ0hPX0RXYXJSWWdCalItU2pFcU1DQjRsZTg3Y2RTbk5PVEdMcHpUeXfSAZcBQVVfeXFMUHpLTUFYcXJmYXhoTHdsYUtFd1R0YS10VmVRSGZxRS0wQjR2ZXlrempYNXU0SFAzdHdJUTRHWk9vclFoZDFwcTh5VVByc3Nvem83RzQ2Nkdaekh1X0UtSnR3TGxlaXNvTEJIUXRfOEV2Vy1Na1RhVTZOMVNkdHBYQzgwODJUdFZDYVBsaVBaZVJLTk5Rc1B0SQ?oc=5\" target=\"_blank\">North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TaiyangNews</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-19T03:43:32+00:00"
+        "collected_at": "2026-06-22T19:24:09+00:00"
       }
     },
     {

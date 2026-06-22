@@ -2,10 +2,24 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-06-22T15:18:33+00:00",
+  "last_updated": "2026-06-22T19:24:09+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 15,
+  "count": 16,
   "mentions": [
+    {
+      "id": "dd2bcc94d02a3333",
+      "title": "North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More - TaiyangNews",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmtiMmhmM3lMTlUwcy1UUTF6ajZSSkRUc1ZtSDQwdER4TDlEYzRIU1ZEcWFTWi1uUFZrb0UyU3NhcUVMcUZ4VXkwZElRZzV4T01JQTZWd3JIbXJMbXg2eXpwZ0hPX0RXYXJSWWdCalItU2pFcU1DQjRsZTg3Y2RTbk5PVEdMcHpUeXfSAZcBQVVfeXFMUHpLTUFYcXJmYXhoTHdsYUtFd1R0YS10VmVRSGZxRS0wQjR2ZXlrempYNXU0SFAzdHdJUTRHWk9vclFoZDFwcTh5VVByc3Nvem83RzQ2Nkdaekh1X0UtSnR3TGxlaXNvTEJIUXRfOEV2Vy1Na1RhVTZOMVNkdHBYQzgwODJUdFZDYVBsaVBaZVJLTk5Rc1B0SQ?oc=5",
+      "domain": "news.google.com",
+      "source": "TaiyangNews",
+      "language": "English",
+      "published_at": "2026-06-22T09:20:19+00:00",
+      "summary": "North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More TaiyangNews",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmtiMmhmM3lMTlUwcy1UUTF6ajZSSkRUc1ZtSDQwdER4TDlEYzRIU1ZEcWFTWi1uUFZrb0UyU3NhcUVMcUZ4VXkwZElRZzV4T01JQTZWd3JIbXJMbXg2eXpwZ0hPX0RXYXJSWWdCalItU2pFcU1DQjRsZTg3Y2RTbk5PVEdMcHpUeXfSAZcBQVVfeXFMUHpLTUFYcXJmYXhoTHdsYUtFd1R0YS10VmVRSGZxRS0wQjR2ZXlrempYNXU0SFAzdHdJUTRHWk9vclFoZDFwcTh5VVByc3Nvem83RzQ2Nkdaekh1X0UtSnR3TGxlaXNvTEJIUXRfOEV2Vy1Na1RhVTZOMVNkdHBYQzgwODJUdFZDYVBsaVBaZVJLTk5Rc1B0SQ?oc=5\" target=\"_blank\">North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TaiyangNews</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-22T19:24:09+00:00"
+    },
     {
       "id": "bceb3e4ac3bbf976",
       "title": "Chrysalis and Hanwha Acquire 357MWdc of Solar Capacity in Arizona Through Strategic Partnership - energynews.pro",
