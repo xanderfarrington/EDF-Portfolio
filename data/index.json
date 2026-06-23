@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T19:54:09+00:00",
+  "last_updated": "2026-06-23T21:27:41+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 71,
-      "new_mentions_this_run": 23,
+      "count": 72,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "1d3fec57b27b0e1c",
         "title": "Alabama Power CEO Mark Crosswhite Alabama Innovation Awards Video Arnaldi (u5LCFlxY1z) - Fathom Journal",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 11,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "eb2b0cdfdcf01bb2",
         "title": "DTE Energy gets $1.6B federal loan for gas upgrades in Michigan - MSN",
