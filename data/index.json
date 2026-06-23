@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T17:48:24+00:00",
+  "last_updated": "2026-06-23T19:54:09+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 70,
+      "count": 71,
       "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "1d3fec57b27b0e1c",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 16,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "dd2bcc94d02a3333",
         "title": "North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More - TaiyangNews",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 43,
-      "new_mentions_this_run": 18,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "9adb559d9505b91c",
         "title": "Microsoft-backed Three Mile Island restart faces state permit hurdle - MSN",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 11,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "eb2b0cdfdcf01bb2",
         "title": "DTE Energy gets $1.6B federal loan for gas upgrades in Michigan - MSN",
