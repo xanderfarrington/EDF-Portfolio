@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T02:41:33+00:00",
+  "last_updated": "2026-06-23T07:43:08+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 11,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "eb2b0cdfdcf01bb2",
         "title": "DTE Energy gets $1.6B federal loan for gas upgrades in Michigan - MSN",
