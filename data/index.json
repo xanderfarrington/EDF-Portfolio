@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T14:36:24+00:00",
+  "last_updated": "2026-06-23T17:48:24+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 70,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "1d3fec57b27b0e1c",
         "title": "Alabama Power CEO Mark Crosswhite Alabama Innovation Awards Video Arnaldi (u5LCFlxY1z) - Fathom Journal",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 43,
-      "new_mentions_this_run": 15,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "9adb559d9505b91c",
         "title": "Microsoft-backed Three Mile Island restart faces state permit hurdle - MSN",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 98,
-      "new_mentions_this_run": 21,
+      "count": 99,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "0861d0d4860c10ac",
-        "title": "Watching Georgia Power Webinar: Protecting Georgians from another rate hike - PIRG",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnNaU1JxcGEyOERuakFYa2lZVjQ1R1ozUXUyNkFiNHZDeG81TncwMkEtbWdlaG94dm5MNWVQZzktZmFZWDRCQUZDMkRLWE8xam1rbF85UmkySjFXaWU2aHZqSjR4RXowd0VOZTNfR0F5MjFsZnlVSklvR20zZGNLNmtvZjVCSzJvU0tUNE04TlRuUDhMX08tSVowWEhNd2Z2WnMtVnVLWVFFSDBnWnV1bS1yQnQ?oc=5",
+        "id": "72c2f53042d88240",
+        "title": "Georgia Power has a massive plan for new power lines. What does that mean for the homes near them? - Georgia Public Broadcasting",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa1FpeTlvckZva1M4bGlfSHBuSlZ5NExOYnF1SVlldVJPeXQ1WWwyb2ZPVi01Q0dHOUoxNzF1b2pLTGtMOUV0VGZtd0c1Sm5CUE04Umk4TVVTNzBBNUt4WnV4QmROYnZqUEdkd2JyZ1U3bkV0YWxPLWU3V21zSDZXamRHOEgtcmlmQmVhQWRpa3pUU3N6M1BZUTZsWFBZWWYyVGhXQmtqdzFudC1yd1J4ZmFBdmpuZw?oc=5",
         "domain": "news.google.com",
-        "source": "PIRG",
+        "source": "Georgia Public Broadcasting",
         "language": "English",
-        "published_at": "2026-06-20T18:57:11+00:00",
-        "summary": "Watching Georgia Power Webinar: Protecting Georgians from another rate hike PIRG",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnNaU1JxcGEyOERuakFYa2lZVjQ1R1ozUXUyNkFiNHZDeG81TncwMkEtbWdlaG94dm5MNWVQZzktZmFZWDRCQUZDMkRLWE8xam1rbF85UmkySjFXaWU2aHZqSjR4RXowd0VOZTNfR0F5MjFsZnlVSklvR20zZGNLNmtvZjVCSzJvU0tUNE04TlRuUDhMX08tSVowWEhNd2Z2WnMtVnVLWVFFSDBnWnV1bS1yQnQ?oc=5\" target=\"_blank\">Watching Georgia Power Webinar: Protecting Georgians from another rate hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PIRG</font>",
+        "published_at": "2026-06-23T16:42:05+00:00",
+        "summary": "Georgia Power has a massive plan for new power lines. What does that mean for the homes near them? Georgia Public Broadcasting",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPa1FpeTlvckZva1M4bGlfSHBuSlZ5NExOYnF1SVlldVJPeXQ1WWwyb2ZPVi01Q0dHOUoxNzF1b2pLTGtMOUV0VGZtd0c1Sm5CUE04Umk4TVVTNzBBNUt4WnV4QmROYnZqUEdkd2JyZ1U3bkV0YWxPLWU3V21zSDZXamRHOEgtcmlmQmVhQWRpa3pUU3N6M1BZUTZsWFBZWWYyVGhXQmtqdzFudC1yd1J4ZmFBdmpuZw?oc=5\" target=\"_blank\">Georgia Power has a massive plan for new power lines. What does that mean for the homes near them?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Public Broadcasting</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-21T08:23:50+00:00"
+        "collected_at": "2026-06-23T17:48:13+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 11,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "eb2b0cdfdcf01bb2",
         "title": "DTE Energy gets $1.6B federal loan for gas upgrades in Michigan - MSN",

@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-23T14:36:14+00:00",
+  "last_updated": "2026-06-23T17:48:13+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 98,
+  "count": 99,
   "mentions": [
+    {
+      "id": "72c2f53042d88240",
+      "title": "Georgia Power has a massive plan for new power lines. What does that mean for the homes near them? - Georgia Public Broadcasting",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa1FpeTlvckZva1M4bGlfSHBuSlZ5NExOYnF1SVlldVJPeXQ1WWwyb2ZPVi01Q0dHOUoxNzF1b2pLTGtMOUV0VGZtd0c1Sm5CUE04Umk4TVVTNzBBNUt4WnV4QmROYnZqUEdkd2JyZ1U3bkV0YWxPLWU3V21zSDZXamRHOEgtcmlmQmVhQWRpa3pUU3N6M1BZUTZsWFBZWWYyVGhXQmtqdzFudC1yd1J4ZmFBdmpuZw?oc=5",
+      "domain": "news.google.com",
+      "source": "Georgia Public Broadcasting",
+      "language": "English",
+      "published_at": "2026-06-23T16:42:05+00:00",
+      "summary": "Georgia Power has a massive plan for new power lines. What does that mean for the homes near them? Georgia Public Broadcasting",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPa1FpeTlvckZva1M4bGlfSHBuSlZ5NExOYnF1SVlldVJPeXQ1WWwyb2ZPVi01Q0dHOUoxNzF1b2pLTGtMOUV0VGZtd0c1Sm5CUE04Umk4TVVTNzBBNUt4WnV4QmROYnZqUEdkd2JyZ1U3bkV0YWxPLWU3V21zSDZXamRHOEgtcmlmQmVhQWRpa3pUU3N6M1BZUTZsWFBZWWYyVGhXQmtqdzFudC1yd1J4ZmFBdmpuZw?oc=5\" target=\"_blank\">Georgia Power has a massive plan for new power lines. What does that mean for the homes near them?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Public Broadcasting</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-23T17:48:13+00:00"
+    },
     {
       "id": "0861d0d4860c10ac",
       "title": "Watching Georgia Power Webinar: Protecting Georgians from another rate hike - PIRG",
