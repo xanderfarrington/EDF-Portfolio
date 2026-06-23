@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T10:58:19+00:00",
+  "last_updated": "2026-06-23T14:36:24+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 98,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "0861d0d4860c10ac",
         "title": "Watching Georgia Power Webinar: Protecting Georgians from another rate hike - PIRG",
