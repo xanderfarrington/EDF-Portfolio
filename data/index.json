@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T07:43:08+00:00",
+  "last_updated": "2026-06-23T10:58:19+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 70,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "1d3fec57b27b0e1c",
         "title": "Alabama Power CEO Mark Crosswhite Alabama Innovation Awards Video Arnaldi (u5LCFlxY1z) - Fathom Journal",
