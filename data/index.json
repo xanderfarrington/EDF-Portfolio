@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T14:14:54+00:00",
+  "last_updated": "2026-06-24T17:50:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 44,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "9adb559d9505b91c",
         "title": "Microsoft-backed Three Mile Island restart faces state permit hurdle - MSN",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 102,
+      "count": 103,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "72c2f53042d88240",
-        "title": "Georgia Power has a massive plan for new power lines. What does that mean for the homes near them? - Georgia Public Broadcasting",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa1FpeTlvckZva1M4bGlfSHBuSlZ5NExOYnF1SVlldVJPeXQ1WWwyb2ZPVi01Q0dHOUoxNzF1b2pLTGtMOUV0VGZtd0c1Sm5CUE04Umk4TVVTNzBBNUt4WnV4QmROYnZqUEdkd2JyZ1U3bkV0YWxPLWU3V21zSDZXamRHOEgtcmlmQmVhQWRpa3pUU3N6M1BZUTZsWFBZWWYyVGhXQmtqdzFudC1yd1J4ZmFBdmpuZw?oc=5",
+        "id": "840dfebdb5d17d20",
+        "title": "Georgia Power: Lower rates for a growing Statesboro - Grice Connect",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFo3Y3EteW16Yk1IRWViS2FSeF9wSlhkTU5pc1VpY1R2ekJTaDl3Mk9KNG5icC1ieFBiZkp2dGxReGVFcVBJWERQVGNyUE9RU05ZZ2pOSGg1SUlCMHlpM2ctdmpfOHJWNDBMaC13SkFubU9rMXFUMlFjZjdjX3VHTjNReHN6MkVHVzl5U1lGcDdCZDdhamRHa0JnZ0t0RlU?oc=5",
         "domain": "news.google.com",
-        "source": "Georgia Public Broadcasting",
+        "source": "Grice Connect",
         "language": "English",
-        "published_at": "2026-06-23T16:42:05+00:00",
-        "summary": "Georgia Power has a massive plan for new power lines. What does that mean for the homes near them? Georgia Public Broadcasting",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPa1FpeTlvckZva1M4bGlfSHBuSlZ5NExOYnF1SVlldVJPeXQ1WWwyb2ZPVi01Q0dHOUoxNzF1b2pLTGtMOUV0VGZtd0c1Sm5CUE04Umk4TVVTNzBBNUt4WnV4QmROYnZqUEdkd2JyZ1U3bkV0YWxPLWU3V21zSDZXamRHOEgtcmlmQmVhQWRpa3pUU3N6M1BZUTZsWFBZWWYyVGhXQmtqdzFudC1yd1J4ZmFBdmpuZw?oc=5\" target=\"_blank\">Georgia Power has a massive plan for new power lines. What does that mean for the homes near them?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Public Broadcasting</font>",
+        "published_at": "2026-06-24T16:05:00+00:00",
+        "summary": "Georgia Power: Lower rates for a growing Statesboro Grice Connect",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFo3Y3EteW16Yk1IRWViS2FSeF9wSlhkTU5pc1VpY1R2ekJTaDl3Mk9KNG5icC1ieFBiZkp2dGxReGVFcVBJWERQVGNyUE9RU05ZZ2pOSGg1SUlCMHlpM2ctdmpfOHJWNDBMaC13SkFubU9rMXFUMlFjZjdjX3VHTjNReHN6MkVHVzl5U1lGcDdCZDdhamRHa0JnZ0t0RlU?oc=5\" target=\"_blank\">Georgia Power: Lower rates for a growing Statesboro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-23T17:48:13+00:00"
+        "collected_at": "2026-06-24T17:49:56+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 11,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "eb2b0cdfdcf01bb2",
         "title": "DTE Energy gets $1.6B federal loan for gas upgrades in Michigan - MSN",

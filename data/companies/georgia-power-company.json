@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-24T14:14:44+00:00",
+  "last_updated": "2026-06-24T17:49:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 102,
+  "count": 103,
   "mentions": [
+    {
+      "id": "840dfebdb5d17d20",
+      "title": "Georgia Power: Lower rates for a growing Statesboro - Grice Connect",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFo3Y3EteW16Yk1IRWViS2FSeF9wSlhkTU5pc1VpY1R2ekJTaDl3Mk9KNG5icC1ieFBiZkp2dGxReGVFcVBJWERQVGNyUE9RU05ZZ2pOSGg1SUlCMHlpM2ctdmpfOHJWNDBMaC13SkFubU9rMXFUMlFjZjdjX3VHTjNReHN6MkVHVzl5U1lGcDdCZDdhamRHa0JnZ0t0RlU?oc=5",
+      "domain": "news.google.com",
+      "source": "Grice Connect",
+      "language": "English",
+      "published_at": "2026-06-24T16:05:00+00:00",
+      "summary": "Georgia Power: Lower rates for a growing Statesboro Grice Connect",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFo3Y3EteW16Yk1IRWViS2FSeF9wSlhkTU5pc1VpY1R2ekJTaDl3Mk9KNG5icC1ieFBiZkp2dGxReGVFcVBJWERQVGNyUE9RU05ZZ2pOSGg1SUlCMHlpM2ctdmpfOHJWNDBMaC13SkFubU9rMXFUMlFjZjdjX3VHTjNReHN6MkVHVzl5U1lGcDdCZDdhamRHa0JnZ0t0RlU?oc=5\" target=\"_blank\">Georgia Power: Lower rates for a growing Statesboro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-24T17:49:56+00:00"
+    },
     {
       "id": "72c2f53042d88240",
       "title": "Georgia Power has a massive plan for new power lines. What does that mean for the homes near them? - Georgia Public Broadcasting",
