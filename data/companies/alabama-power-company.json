@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-24T21:18:49+00:00",
+  "last_updated": "2026-06-24T23:00:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 73,
+  "count": 74,
   "mentions": [
     {
       "id": "30837abe25a0aab5",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-22T23:21:25+00:00"
+    },
+    {
+      "id": "3bd3f0be45e19900",
+      "title": "Alabama Power Foundation supports new program for Central Alabama nonprofits - The University of Alabama at Birmingham",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTFUZ1hzLWt2eURxMlYtMnNlRDZGMXEzcjVvSV85ZThJSThCeWVucUM2RVBrd0pXUndTdWRmRmpzdHEyN21wdUtHRHVtNXNBandqSDRRMDVlZlM4aS02YWZ2R1U4ZC1uS2NHcHkzXzNheUZaUnRSMmNmdHVHQzA2NkI1ejlxZWF6emVHd0t4djBKZEZyWjRBa1pkZWgtX3NyVlViV1o4cmxMakJtVllRMFZDNEc2ODNzVG1kMTFGRWxoU1pfLVRaTXUzZ1RVWFRu?oc=5",
+      "domain": "news.google.com",
+      "source": "The University of Alabama at Birmingham",
+      "language": "English",
+      "published_at": "2026-06-22T19:04:32+00:00",
+      "summary": "Alabama Power Foundation supports new program for Central Alabama nonprofits The University of Alabama at Birmingham",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTFUZ1hzLWt2eURxMlYtMnNlRDZGMXEzcjVvSV85ZThJSThCeWVucUM2RVBrd0pXUndTdWRmRmpzdHEyN21wdUtHRHVtNXNBandqSDRRMDVlZlM4aS02YWZ2R1U4ZC1uS2NHcHkzXzNheUZaUnRSMmNmdHVHQzA2NkI1ejlxZWF6emVHd0t4djBKZEZyWjRBa1pkZWgtX3NyVlViV1o4cmxMakJtVllRMFZDNEc2ODNzVG1kMTFGRWxoU1pfLVRaTXUzZ1RVWFRu?oc=5\" target=\"_blank\">Alabama Power Foundation supports new program for Central Alabama nonprofits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The University of Alabama at Birmingham</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-24T23:00:37+00:00"
     },
     {
       "id": "36dba59b629b8961",

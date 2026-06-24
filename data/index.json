@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T21:19:16+00:00",
+  "last_updated": "2026-06-24T23:01:05+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 73,
-      "new_mentions_this_run": 25,
+      "count": 74,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "30837abe25a0aab5",
         "title": "EnergyInnovates - Alabama Power’s Smart Neighborhood™ Travel Warning (ND2i8A6w3k) - Fathom Journal",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 45,
-      "new_mentions_this_run": 18,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "22f298e263449aac",
         "title": "Officials: Man Indicted For Insider Trading Tied To Three Mile Island Restart - First State Update",
