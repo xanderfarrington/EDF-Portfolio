@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-24T02:42:06+00:00",
+  "last_updated": "2026-06-24T07:35:21+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 99,
+  "count": 102,
   "mentions": [
     {
       "id": "72c2f53042d88240",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-23T17:48:13+00:00"
+    },
+    {
+      "id": "dd4c083c645206a5",
+      "title": "PSC Doc 56002 Georgia Power IRP & 56003 Certification, Decert, Amended Demand-Side Management Plan 2 Fort Lauderdale Air Show 2026 (MC5jhXagV7) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NYnBuUXZUSXBVUnNsVUpsbzZPZ29iVjhKN1lsTmczamM5bXZXWXdaZmpXSXowVnM0eU53SklHbEo0WWhnWFpzeTNGVVNUNWk2UzRfMjc5Tk9LSTQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Mshale",
+      "language": "English",
+      "published_at": "2026-06-21T11:01:48+00:00",
+      "summary": "PSC Doc 56002 Georgia Power IRP & 56003 Certification, Decert, Amended Demand-Side Management Plan 2 Fort Lauderdale Air Show 2026 (MC5jhXagV7) Mshale",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NYnBuUXZUSXBVUnNsVUpsbzZPZ29iVjhKN1lsTmczamM5bXZXWXdaZmpXSXowVnM0eU53SklHbEo0WWhnWFpzeTNGVVNUNWk2UzRfMjc5Tk9LSTQ?oc=5\" target=\"_blank\">PSC Doc 56002 Georgia Power IRP & 56003 Certification, Decert, Amended Demand-Side Management Plan 2 Fort Lauderdale Air Show 2026 (MC5jhXagV7)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-24T07:35:21+00:00"
     },
     {
       "id": "0861d0d4860c10ac",
@@ -627,6 +641,20 @@
       "collected_at": "2026-06-09T16:52:35+00:00"
     },
     {
+      "id": "2071b8d6a5beec16",
+      "title": "Community Corner: Georgia Power shares tips, tools and free resources to reduce energy use this summer - WSAV-TV",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOenNyQVVEMFk2N0tPbTdXRlJGOExSOGZwcTNMSnl0MEZrOC1pZm9GWkt2QVJoVWF4V25zVGllcjRFbTFfeklLUHJYZ2FRdnp4VEM1YjEyU2tyR0I2UjQ5YlFVUjlxYmxyaEhSTzdhcHJ2MVRIVU93Y1JubUJNdlNrcXMtV05LZnFNcXAzM3E2QTVDR2xFc0E4czR1X3VnVU01SEdqU0hFU29PcF9LVHF2Q1pwUjNBeTd2S3J0SVJlcFlaeDlhOVhMLUNmTEVOSzVxSVpEVE9WSjhRYThZWGdzSFFZQdIB6AFBVV95cUxQdVJLNEVGRi1QUXdhRWcwR244bXN5NzZXNENiNUxtRklBVW0wNXU5OUQtaFRqeHJfNnA1MDZENno4S3lsM25rYnFrVWFNRDdWNjJQTlJNZ3hXRlJ0Qjc5QUNZdXluS0dlcTQ2QXZZV0JGMnZPc2tEeGlDcU5ac1RJcEQ4eDR2S1NBX3pjeklvS1ZkWlJTZnJiQVZOaFNpc25zYlZfVVVlUHBCdlNOT054U1FvX2dCRzBZN2cydHJMeWNXd3FTSVhXRDZfY3U2cXJ2NF9lLUpMd2c4Mk8tQTFpeXh0MWh6eVFp?oc=5",
+      "domain": "news.google.com",
+      "source": "WSAV-TV",
+      "language": "English",
+      "published_at": "2026-06-02T07:00:00+00:00",
+      "summary": "Community Corner: Georgia Power shares tips, tools and free resources to reduce energy use this summer WSAV-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOenNyQVVEMFk2N0tPbTdXRlJGOExSOGZwcTNMSnl0MEZrOC1pZm9GWkt2QVJoVWF4V25zVGllcjRFbTFfeklLUHJYZ2FRdnp4VEM1YjEyU2tyR0I2UjQ5YlFVUjlxYmxyaEhSTzdhcHJ2MVRIVU93Y1JubUJNdlNrcXMtV05LZnFNcXAzM3E2QTVDR2xFc0E4czR1X3VnVU01SEdqU0hFU29PcF9LVHF2Q1pwUjNBeTd2S3J0SVJlcFlaeDlhOVhMLUNmTEVOSzVxSVpEVE9WSjhRYThZWGdzSFFZQdIB6AFBVV95cUxQdVJLNEVGRi1QUXdhRWcwR244bXN5NzZXNENiNUxtRklBVW0wNXU5OUQtaFRqeHJfNnA1MDZENno4S3lsM25rYnFrVWFNRDdWNjJQTlJNZ3hXRlJ0Qjc5QUNZdXluS0dlcTQ2QXZZV0JGMnZPc2tEeGlDcU5ac1RJcEQ4eDR2S1NBX3pjeklvS1ZkWlJTZnJiQVZOaFNpc25zYlZfVVVlUHBCdlNOT054U1FvX2dCRzBZN2cydHJMeWNXd3FTSVhXRDZfY3U2cXJ2NF9lLUpMd2c4Mk8tQTFpeXh0MWh6eVFp?oc=5\" target=\"_blank\">Community Corner: Georgia Power shares tips, tools and free resources to reduce energy use this summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAV-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-24T07:35:21+00:00"
+    },
+    {
       "id": "a9a420b5ca395480",
       "title": "Before the storm: Georgia Power strengthens coastal grid ahead of future storms - WSAV-TV",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZk1ReXFZajgtb0l1dTFSdjF6RHdyakFUclBWQnFqdF9VRkFDdEVIWjFNTWRVYTFhdWl3RW82X0xZdHUyR21GLUF0bndWd3U4elZXY1duSTl1dTZGbzJUdzgtbEJQRzAybE40UVFfR0JtSmJHSG4xUm9BYnAxTVhUUWZScUZmQU5GaE9zM0lRWGRYb1F1b1ZFMHRBVFlvMXdzcGJLMUpYOGhTTzBXMTFGRm5hdVppaFc1LVN5N2duUy1rd0VpRjREcHIzdzZCVEFnSnfSAdcBQVVfeXFMTWxrek9NZ2lsUmcya0FPSjFWckFnVDZVMXpYT2dmQy1nbW51T1NTWUFjNW1VdkQwX1RGZlIyX3VDV1hHYTBROVRtRE1PS1NrMG1vbVM4dWwzTFRUX1MycDlkTDBqT3FwbmlSX1NZU3hYTXZ0bXNzeFlaOWlPQlBLQ1dIZGxGQXBjM2JzNG9XTHBYNE9jWHV3LUV2MmVubmdiaG1EdW5tQW55T3ZtUzdCLXlSbVVRMGxWakZYc0E3OW9PSHktU2lRUHFkMThjOFpiREhBeXN5cm8?oc=5",
@@ -735,6 +763,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-20T10:28:54+00:00"
+    },
+    {
+      "id": "910baa72c84148ae",
+      "title": "Georgia Power to send smaller electricity bills after new rate agreement with regulator - Grice Connect",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMGZZaEpPZmtkQzkzbEx6TjhqOHpwUW1McXBIVWdLbVlud04yYTZtQnlCSXJIQllTMkp3aDB3c3EwWUQzNkVFSC1VenJGdTRTSDZwWTVKV1VPd0pWZmVEVkp1dEhua1JmZFhqOVBHc1laUncxQnZSTi0xek1YU3V2SktUYzRhZFdrWnJQcmdjXzVkWDd4YUNNaDVRQlgtUW9vZDFkclhDRklVaXpVeDI4Ni05Nmd6ZXYwNEpZVUJnLU1QbmRzOWY2ckNGU3pwYV9RSVHSAdcBQVVfeXFMTzVrYmVITkNlWXAzNWxJcjlZVllVdnVPTHdKR0NsTU52cThnOEpSWjJJczdKUGc2ejM3MC1lTzh3YWdzNmxWVHhxUkZiZVZqMEx1ZkRlMlRZNmQyUmFNLVozRUJxUGxEREpYSzhreFpxVmVaSHZyc3E0eHJmUXI1M2E1d05SRUJHVkltY1pSRm5LYWpGblZranBxNVR1UzY2WmpCU3Z6b0c2cDNqcHZLVU9lMDFaZ05EM2pGQUVRRWZ1dkFSWVY3MGtnNkdTS2VVcHhHME9HVW8?oc=5",
+      "domain": "news.google.com",
+      "source": "Grice Connect",
+      "language": "English",
+      "published_at": "2026-05-30T16:05:00+00:00",
+      "summary": "Georgia Power to send smaller electricity bills after new rate agreement with regulator Grice Connect",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMGZZaEpPZmtkQzkzbEx6TjhqOHpwUW1McXBIVWdLbVlud04yYTZtQnlCSXJIQllTMkp3aDB3c3EwWUQzNkVFSC1VenJGdTRTSDZwWTVKV1VPd0pWZmVEVkp1dEhua1JmZFhqOVBHc1laUncxQnZSTi0xek1YU3V2SktUYzRhZFdrWnJQcmdjXzVkWDd4YUNNaDVRQlgtUW9vZDFkclhDRklVaXpVeDI4Ni05Nmd6ZXYwNEpZVUJnLU1QbmRzOWY2ckNGU3pwYV9RSVHSAdcBQVVfeXFMTzVrYmVITkNlWXAzNWxJcjlZVllVdnVPTHdKR0NsTU52cThnOEpSWjJJczdKUGc2ejM3MC1lTzh3YWdzNmxWVHhxUkZiZVZqMEx1ZkRlMlRZNmQyUmFNLVozRUJxUGxEREpYSzhreFpxVmVaSHZyc3E0eHJmUXI1M2E1d05SRUJHVkltY1pSRm5LYWpGblZranBxNVR1UzY2WmpCU3Z6b0c2cDNqcHZLVU9lMDFaZ05EM2pGQUVRRWZ1dkFSWVY3MGtnNkdTS2VVcHhHME9HVW8?oc=5\" target=\"_blank\">Georgia Power to send smaller electricity bills after new rate agreement with regulator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-24T07:35:21+00:00"
     },
     {
       "id": "e43312db06d49607",

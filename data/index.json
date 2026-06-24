@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T02:42:17+00:00",
+  "last_updated": "2026-06-24T07:35:31+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 43,
+      "count": 44,
       "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "9adb559d9505b91c",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 99,
+      "count": 102,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "72c2f53042d88240",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 11,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "eb2b0cdfdcf01bb2",
         "title": "DTE Energy gets $1.6B federal loan for gas upgrades in Michigan - MSN",

@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-24T02:42:01+00:00",
+  "last_updated": "2026-06-24T07:35:15+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 43,
+  "count": 44,
   "mentions": [
     {
       "id": "9adb559d9505b91c",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-18T08:43:43+00:00"
+    },
+    {
+      "id": "4e8841ca7a223a9b",
+      "title": "Constellation Energy gains as investors refocus on Crane Clean Energy Center restart path - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTzhRN055V1pPWVRVXzR4TXo1cnMzM3E3c0VvMHpWTFAwVEZjcldMZFVoVDVrcG90eXB4XzJsTFhPTGE4ekZGWjQ5SEZnanZBaE5vZjRmTkwxaGwtcTBfc1pzXzdhQjdHZHZsck5jaEotZzdCY3E0YmZ6OGxwUXVKSGJRVEw5MG8tSTlkRHkwYUVYdlVLbmlQNl9UTDRNQjlGYWh6NlVsVjExNi1acm54b0k4bnA1b1NacFN2bjhRRQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Quiver Quantitative",
+      "language": "English",
+      "published_at": "2026-06-16T14:51:00+00:00",
+      "summary": "Constellation Energy gains as investors refocus on Crane Clean Energy Center restart path Quiver Quantitative",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPTzhRN055V1pPWVRVXzR4TXo1cnMzM3E3c0VvMHpWTFAwVEZjcldMZFVoVDVrcG90eXB4XzJsTFhPTGE4ekZGWjQ5SEZnanZBaE5vZjRmTkwxaGwtcTBfc1pzXzdhQjdHZHZsck5jaEotZzdCY3E0YmZ6OGxwUXVKSGJRVEw5MG8tSTlkRHkwYUVYdlVLbmlQNl9UTDRNQjlGYWh6NlVsVjExNi1acm54b0k4bnA1b1NacFN2bjhRRQ?oc=5\" target=\"_blank\">Constellation Energy gains as investors refocus on Crane Clean Energy Center restart path</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-24T07:35:15+00:00"
     },
     {
       "id": "769baccd335851c3",
