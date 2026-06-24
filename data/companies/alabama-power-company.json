@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-24T17:49:39+00:00",
+  "last_updated": "2026-06-24T19:29:24+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 72,
+  "count": 73,
   "mentions": [
+    {
+      "id": "30837abe25a0aab5",
+      "title": "EnergyInnovates - Alabama Power’s Smart Neighborhood™ Travel Warning (ND2i8A6w3k) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByVWJoX1VJcWpwUXhtZDRzb0pyNE5xQldxNElYOW8ySnJHVVRhd2RGcWR4OUpacEY0RUxFUjIzX2RrZnNfV0x6MjJ6UklZVDRBUkRMQ2pVZkdzV01FMTQ1b1BwaHU?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-24T01:41:59+00:00",
+      "summary": "EnergyInnovates - Alabama Power’s Smart Neighborhood™ Travel Warning (ND2i8A6w3k) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFByVWJoX1VJcWpwUXhtZDRzb0pyNE5xQldxNElYOW8ySnJHVVRhd2RGcWR4OUpacEY0RUxFUjIzX2RrZnNfV0x6MjJ6UklZVDRBUkRMQ2pVZkdzV01FMTQ1b1BwaHU?oc=5\" target=\"_blank\">EnergyInnovates - Alabama Power’s Smart Neighborhood™ Travel Warning (ND2i8A6w3k)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-24T19:29:24+00:00"
+    },
     {
       "id": "1d3fec57b27b0e1c",
       "title": "Alabama Power CEO Mark Crosswhite Alabama Innovation Awards Video Arnaldi (u5LCFlxY1z) - Fathom Journal",
