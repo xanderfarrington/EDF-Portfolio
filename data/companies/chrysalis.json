@@ -2,9 +2,9 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-06-24T23:00:42+00:00",
+  "last_updated": "2026-06-25T02:42:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 16,
+  "count": 17,
   "mentions": [
     {
       "id": "dd2bcc94d02a3333",
@@ -131,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-20T23:01:57+00:00"
+    },
+    {
+      "id": "7680bab6db49e1c7",
+      "title": "Morrison-Backed Chrysalis Renewables Acquires Two US Solar Projects Through Hanwha Partnership - 01net",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0NiUTQ1eWhwRmE3SVoyOFB3dkdpQk9VNzVLYzVlT3R0N2h6QTdpN3hiQjJLbEphTTdtTDhMUzNjU01wUFJERjNhRE52MkRoR2dOVmVVdjU5bld0c2hmcXB2R2pvaTZtMmRzdWdoSlBZc0c1QnN1eXg3UGtlNjlQbjlTNGQ0RFZOMmlEbEtjVVJrT2xkQk10c1dBR3pIWW5vSENncWxqS09YdFBYSEJVM0t4b1VZYjg?oc=5",
+      "domain": "news.google.com",
+      "source": "01net",
+      "language": "English",
+      "published_at": "2026-06-17T16:00:00+00:00",
+      "summary": "Morrison-Backed Chrysalis Renewables Acquires Two US Solar Projects Through Hanwha Partnership 01net",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0NiUTQ1eWhwRmE3SVoyOFB3dkdpQk9VNzVLYzVlT3R0N2h6QTdpN3hiQjJLbEphTTdtTDhMUzNjU01wUFJERjNhRE52MkRoR2dOVmVVdjU5bld0c2hmcXB2R2pvaTZtMmRzdWdoSlBZc0c1QnN1eXg3UGtlNjlQbjlTNGQ0RFZOMmlEbEtjVVJrT2xkQk10c1dBR3pIWW5vSENncWxqS09YdFBYSEJVM0t4b1VZYjg?oc=5\" target=\"_blank\">Morrison-Backed Chrysalis Renewables Acquires Two US Solar Projects Through Hanwha Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">01net</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-25T02:42:36+00:00"
     },
     {
       "id": "693e4992f489bcf8",

@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-24T23:00:37+00:00",
+  "last_updated": "2026-06-25T02:42:30+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 74,
+  "count": 77,
   "mentions": [
     {
       "id": "30837abe25a0aab5",
@@ -715,6 +715,20 @@
       "collected_at": "2026-06-09T16:52:18+00:00"
     },
     {
+      "id": "7c5c75c20a59b3a6",
+      "title": "Alabama Power restores service to all customers affected by June 1 storms - alabamanewscenter.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblI2MUdlRVdCM1otYmdhUGxwY25mQ3I2MXNwbnNySmZCa0FEYWtqclRsU3p3dzZZSTJGYnFtanRhWnQ3YjFmSS11MXhUZnREWXJPNk5nOEZMR0Jhd2hvTTVuOXhrRTNtSnBVRGw0bjNiUm5DY28ySlV1RXkzUVRjQy1OWHNfWHRPTFk1WnRqT1MzNlgwdGZKTWlFUU5XaFNiZ051M0VwMUZhbDA1aXJ6eXZMRTlFQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamanewscenter.com",
+      "language": "English",
+      "published_at": "2026-06-05T07:00:00+00:00",
+      "summary": "Alabama Power restores service to all customers affected by June 1 storms alabamanewscenter.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOblI2MUdlRVdCM1otYmdhUGxwY25mQ3I2MXNwbnNySmZCa0FEYWtqclRsU3p3dzZZSTJGYnFtanRhWnQ3YjFmSS11MXhUZnREWXJPNk5nOEZMR0Jhd2hvTTVuOXhrRTNtSnBVRGw0bjNiUm5DY28ySlV1RXkzUVRjQy1OWHNfWHRPTFk1WnRqT1MzNlgwdGZKTWlFUU5XaFNiZ051M0VwMUZhbDA1aXJ6eXZMRTlFQQ?oc=5\" target=\"_blank\">Alabama Power restores service to all customers affected by June 1 storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamanewscenter.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-25T02:42:30+00:00"
+    },
+    {
       "id": "100629cf2e10e36c",
       "title": "Storms affect 93% of Alabama Power service territory, Chilton power back - The Clanton Advertiser",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDc3VWZHM3Qxc3hIQzVNSlhOVkl0SncySDNtZlBfVlU3aWd4c1VjYWFCSWNxNEhBN1RkODRjZFN3UVZ3RW81T05DNEdncnBjdFh1YkhGRDZjSmxmdW50cEtCMGRUMlcxYjc1SUtnQVNRTzBkYlZaZFdIb0dWT2hUYWxhRjRNa3lEbExWTzlvaVlqTkRjdEVEZkhUQnc3Z2RHYnRDNV9LTEFZM29NLTJCeGhGTzhWR3Q1Unc?oc=5",
@@ -878,6 +892,20 @@
       "collected_at": "2026-06-21T15:48:20+00:00"
     },
     {
+      "id": "c0d3178b56e623d1",
+      "title": "Alabama Power makes work brighter for American Apparel military uniform makers - alabamanewscenter.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRC01d1NMZHl5RmZWWGZhVlc0RXBmdDkxdi1lcE9SbjhCek96Uk5xenZfeThpcFdHeTFMaWRhTWs0TDdIM0NfZ1VIQ2lMelV5SHN0cEtpdVh4UEpRT2htZ0RXZUxOWXdQOXRjLXQyamp3WV93OGdOSmlFVGJ5NHFrLWZxVTJqN0hES0Mybmk4eXhKSi1GSlV2Y3lNQXJKaXM1WlozeExIdDktdXdyRXJ4MV9xVGVmNDk4VmVpNQ?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamanewscenter.com",
+      "language": "English",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "summary": "Alabama Power makes work brighter for American Apparel military uniform makers alabamanewscenter.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPRC01d1NMZHl5RmZWWGZhVlc0RXBmdDkxdi1lcE9SbjhCek96Uk5xenZfeThpcFdHeTFMaWRhTWs0TDdIM0NfZ1VIQ2lMelV5SHN0cEtpdVh4UEpRT2htZ0RXZUxOWXdQOXRjLXQyamp3WV93OGdOSmlFVGJ5NHFrLWZxVTJqN0hES0Mybmk4eXhKSi1GSlV2Y3lNQXJKaXM1WlozeExIdDktdXdyRXJ4MV9xVGVmNDk4VmVpNQ?oc=5\" target=\"_blank\">Alabama Power makes work brighter for American Apparel military uniform makers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamanewscenter.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-25T02:42:30+00:00"
+    },
+    {
       "id": "b88d15f2a936b083",
       "title": "Alabama Power named in Newsweek’s Most Trustworthy Companies in America for 2026 - eciks.org",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWEwNWRvUWZmYWxnVGhKNHEzRTB0NzA4NVFnaU1QZUE2dlZWTTdWWUJiTDh1RlVTNUtPaDNDN2Q5SkQtUEliRF8tQkNDcUdfZzJWTEFhZWtmTHZ3Uzh6TEh4R2h2bmJVODRQZzZUVzNRUXNjR0tYXzRTVkVVdWgwQnFTRzZMRWJCUUpGeU5PRFptLS1pVkIxN1lxYV93OXo3RjdyUlQ3RUtlaEo3dlE?oc=5",
@@ -958,6 +986,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:18+00:00"
+    },
+    {
+      "id": "02df93f136f7dfad",
+      "title": "Alabama Power hosts 2150 Center, London School of Economics collaboration - alabamanewscenter.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUTloMmFENHB3VWNadEJkc1I3UDhQd3JWRkw1b0U0aFJwaGpoSkRvVTFYa2F1MVV2Q2ctbnJtSVhxMlFOejRpTTdld0R4dkVmbUFoM3hSRTlpNFlrQTgtcVhPVTRQdGtRaTQwb2dXR2gzMW9tRVpLS25hVGh3TnN5UkhKcHh0cVMyRDFIVnpQaXVEYmFMdFp1Q1BvUG5zQTh2UzdZRDBrUm9DWUloakZIdTVCNmo?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamanewscenter.com",
+      "language": "English",
+      "published_at": "2026-05-26T07:00:00+00:00",
+      "summary": "Alabama Power hosts 2150 Center, London School of Economics collaboration alabamanewscenter.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNUTloMmFENHB3VWNadEJkc1I3UDhQd3JWRkw1b0U0aFJwaGpoSkRvVTFYa2F1MVV2Q2ctbnJtSVhxMlFOejRpTTdld0R4dkVmbUFoM3hSRTlpNFlrQTgtcVhPVTRQdGtRaTQwb2dXR2gzMW9tRVpLS25hVGh3TnN5UkhKcHh0cVMyRDFIVnpQaXVEYmFMdFp1Q1BvUG5zQTh2UzdZRDBrUm9DWUloakZIdTVCNmo?oc=5\" target=\"_blank\">Alabama Power hosts 2150 Center, London School of Economics collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamanewscenter.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-25T02:42:30+00:00"
     },
     {
       "id": "350bad3fac2a1cff",
