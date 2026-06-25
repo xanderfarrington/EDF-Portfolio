@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-06-25T10:37:58+00:00",
+  "last_updated": "2026-06-25T14:12:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 11,
+  "count": 12,
   "mentions": [
+    {
+      "id": "4ffea21237e73894",
+      "title": "US allocates $17.5bn for nuclear supply chain development - Enlit World",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0dubFVDdTlpaVYwVDR3V1ZWRFByYklJcVZuSy1xbDdJY3lKSC04dEpORnBROW1vWVdza3R1TlZjY19EcUhabHY3M0tvYlpFaE9GQWpLNGwtQ3dVdlB2eTBnQnJCbWJUZGJxOHkyb1cyeENXeTJGQThZdjUwdEx1UnhSSWRUQ1VVenhLejJ4U2w?oc=5",
+      "domain": "news.google.com",
+      "source": "Enlit World",
+      "language": "English",
+      "published_at": "2026-06-25T06:00:33+00:00",
+      "summary": "US allocates $17.5bn for nuclear supply chain development Enlit World",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0dubFVDdTlpaVYwVDR3V1ZWRFByYklJcVZuSy1xbDdJY3lKSC04dEpORnBROW1vWVdza3R1TlZjY19EcUhabHY3M0tvYlpFaE9GQWpLNGwtQ3dVdlB2eTBnQnJCbWJUZGJxOHkyb1cyeENXeTJGQThZdjUwdEx1UnhSSWRUQ1VVenhLejJ4U2w?oc=5\" target=\"_blank\">US allocates $17.5bn for nuclear supply chain development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Enlit World</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-25T14:12:56+00:00"
+    },
     {
       "id": "eb2b0cdfdcf01bb2",
       "title": "DTE Energy gets $1.6B federal loan for gas upgrades in Michigan - MSN",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T10:38:03+00:00",
+  "last_updated": "2026-06-25T14:13:01+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 46,
+      "count": 47,
       "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "22f298e263449aac",
@@ -110,21 +110,21 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 11,
-      "new_mentions_this_run": 5,
+      "count": 12,
+      "new_mentions_this_run": 3,
       "latest_mention": {
-        "id": "eb2b0cdfdcf01bb2",
-        "title": "DTE Energy gets $1.6B federal loan for gas upgrades in Michigan - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazRVQmRHSTVZdTlTWGw5dVVSWURrbzE1cTV4S1ZHZ1JrcDlCUFVwSVJnRkdyV3I4elczeHp6ekFsVFFyTEhPTTg2OGhJczFCM05ZWng0QXlIWlM5NmxPVHpYNVk2bElGLXpwdFBua3FadFR3dEExSVVkNWJPcVZFR1dma1BLX2E2MmNPdk1MTTZSN1VHU1pObEJ1V1lvVnZHYlN3RUx5VnRLbDZWQmVweEloaw?oc=5",
+        "id": "4ffea21237e73894",
+        "title": "US allocates $17.5bn for nuclear supply chain development - Enlit World",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0dubFVDdTlpaVYwVDR3V1ZWRFByYklJcVZuSy1xbDdJY3lKSC04dEpORnBROW1vWVdza3R1TlZjY19EcUhabHY3M0tvYlpFaE9GQWpLNGwtQ3dVdlB2eTBnQnJCbWJUZGJxOHkyb1cyeENXeTJGQThZdjUwdEx1UnhSSWRUQ1VVenhLejJ4U2w?oc=5",
         "domain": "news.google.com",
-        "source": "MSN",
+        "source": "Enlit World",
         "language": "English",
-        "published_at": "2026-06-16T23:15:54+00:00",
-        "summary": "DTE Energy gets $1.6B federal loan for gas upgrades in Michigan MSN",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPazRVQmRHSTVZdTlTWGw5dVVSWURrbzE1cTV4S1ZHZ1JrcDlCUFVwSVJnRkdyV3I4elczeHp6ekFsVFFyTEhPTTg2OGhJczFCM05ZWng0QXlIWlM5NmxPVHpYNVk2bElGLXpwdFBua3FadFR3dEExSVVkNWJPcVZFR1dma1BLX2E2MmNPdk1MTTZSN1VHU1pObEJ1V1lvVnZHYlN3RUx5VnRLbDZWQmVweEloaw?oc=5\" target=\"_blank\">DTE Energy gets $1.6B federal loan for gas upgrades in Michigan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "published_at": "2026-06-25T06:00:33+00:00",
+        "summary": "US allocates $17.5bn for nuclear supply chain development Enlit World",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0dubFVDdTlpaVYwVDR3V1ZWRFByYklJcVZuSy1xbDdJY3lKSC04dEpORnBROW1vWVdza3R1TlZjY19EcUhabHY3M0tvYlpFaE9GQWpLNGwtQ3dVdlB2eTBnQnJCbWJUZGJxOHkyb1cyeENXeTJGQThZdjUwdEx1UnhSSWRUQ1VVenhLejJ4U2w?oc=5\" target=\"_blank\">US allocates $17.5bn for nuclear supply chain development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Enlit World</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-23T02:41:28+00:00"
+        "collected_at": "2026-06-25T14:12:56+00:00"
       }
     }
   ]
