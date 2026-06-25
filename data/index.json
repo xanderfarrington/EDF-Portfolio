@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T07:37:57+00:00",
+  "last_updated": "2026-06-25T10:38:03+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 45,
+      "count": 46,
       "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "22f298e263449aac",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 104,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "65c06ee061decaab",
         "title": "Haynes Station neighbors press for data center answers - WRDW",

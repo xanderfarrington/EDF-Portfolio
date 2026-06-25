@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-25T07:37:41+00:00",
+  "last_updated": "2026-06-25T10:37:47+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 45,
+  "count": 46,
   "mentions": [
     {
       "id": "22f298e263449aac",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-24T19:29:35+00:00"
+    },
+    {
+      "id": "8382d8744b87f9a2",
+      "title": "Officials: Man Indicted For Insider Trading Tied To Three Mile Island Restart - First State Update",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2ZuUmtJcGM0S080ZlNJd29qa1JzMXJDaG5KUHQ5Wjd2dW5ucGZoVTdzU09RWm9qRE9aVjRXYy1aamdKNmNMdU9WY3pIaXZLZkZEMHJpUUdFdlFObEFsaFVtRHFHeDdfajZYeVViS1N1ZmVaWFhUR1FoWVVyM19naDcteHhmWEs0VmJxM1VHWFpOdHhpQW15OTk5eEZsYWJTaWJCa2VwbXFBMHcxQXliaFdPN04?oc=5",
+      "domain": "news.google.com",
+      "source": "First State Update",
+      "language": "English",
+      "published_at": "2026-06-24T18:03:02+00:00",
+      "summary": "Officials: Man Indicted For Insider Trading Tied To Three Mile Island Restart First State Update",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2ZuUmtJcGM0S080ZlNJd29qa1JzMXJDaG5KUHQ5Wjd2dW5ucGZoVTdzU09RWm9qRE9aVjRXYy1aamdKNmNMdU9WY3pIaXZLZkZEMHJpUUdFdlFObEFsaFVtRHFHeDdfajZYeVViS1N1ZmVaWFhUR1FoWVVyM19naDcteHhmWEs0VmJxM1VHWFpOdHhpQW15OTk5eEZsYWJTaWJCa2VwbXFBMHcxQXliaFdPN04?oc=5\" target=\"_blank\">Officials: Man Indicted For Insider Trading Tied To Three Mile Island Restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">First State Update</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-25T10:37:47+00:00"
     },
     {
       "id": "9adb559d9505b91c",
