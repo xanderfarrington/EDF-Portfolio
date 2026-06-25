@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-25T02:42:30+00:00",
+  "last_updated": "2026-06-25T07:37:30+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 77,
+  "count": 78,
   "mentions": [
     {
       "id": "30837abe25a0aab5",
@@ -215,6 +215,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-23T19:53:43+00:00"
+    },
+    {
+      "id": "27d797ae1c4b2cab",
+      "title": "Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORlByS044amxaVkdrOVN5cTkweDY5RVNfeF9maFNkZEc0bDViaGI5d0hyQjMyZHVGUE9jRE02bmhNbUd2T2lOOHJQLU92VFdaTVdZeTZweHNlR2EtNUxXVWptZGExVEJ5cmJaOFRQd2o5NXZnN21RN0tucHFTV3N0aU1FQlNTVU5PMnJTYWM3TGQ0ajl2RGpWZXpqeGdkM2JwemR1WFJJdWVQd09WVlhkeDJ1OEtsLXNh?oc=5",
+      "domain": "news.google.com",
+      "source": "WBMA",
+      "language": "English",
+      "published_at": "2026-06-17T20:13:51+00:00",
+      "summary": "Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather WBMA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORlByS044amxaVkdrOVN5cTkweDY5RVNfeF9maFNkZEc0bDViaGI5d0hyQjMyZHVGUE9jRE02bmhNbUd2T2lOOHJQLU92VFdaTVdZeTZweHNlR2EtNUxXVWptZGExVEJ5cmJaOFRQd2o5NXZnN21RN0tucHFTV3N0aU1FQlNTVU5PMnJTYWM3TGQ0ajl2RGpWZXpqeGdkM2JwemR1WFJJdWVQd09WVlhkeDJ1OEtsLXNh?oc=5\" target=\"_blank\">Fearing flood risk? Alabama Power releases safety guidelines for upcoming weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-25T07:37:30+00:00"
     },
     {
       "id": "ea273ca916df54d4",

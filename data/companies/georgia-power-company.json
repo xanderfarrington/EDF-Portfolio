@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-25T02:42:47+00:00",
+  "last_updated": "2026-06-25T07:37:47+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 103,
+  "count": 104,
   "mentions": [
+    {
+      "id": "65c06ee061decaab",
+      "title": "Haynes Station neighbors press for data center answers - WRDW",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbjdXT05Dd3ZSSTBFRS1FWjR6SkNudWViR0NDS0FMQ2dLVTQzMnlEOVJBQ0o2Q0l3S3Z3bURyaUo2RW9WdFlWSHpGemdZR3FsRWlNclBPM25RM3BuR1JKU3RDWmR1cHVRUzVoX2otdjBCb0RNTzdjN1UtUERnX05KcWdfMzd2UEpwUVQzMHFzUEQ2U0U?oc=5",
+      "domain": "news.google.com",
+      "source": "WRDW",
+      "language": "English",
+      "published_at": "2026-06-25T02:18:00+00:00",
+      "summary": "Haynes Station neighbors press for data center answers WRDW",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPbjdXT05Dd3ZSSTBFRS1FWjR6SkNudWViR0NDS0FMQ2dLVTQzMnlEOVJBQ0o2Q0l3S3Z3bURyaUo2RW9WdFlWSHpGemdZR3FsRWlNclBPM25RM3BuR1JKU3RDWmR1cHVRUzVoX2otdjBCb0RNTzdjN1UtUERnX05KcWdfMzd2UEpwUVQzMHFzUEQ2U0U?oc=5\" target=\"_blank\">Haynes Station neighbors press for data center answers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-25T07:37:47+00:00"
+    },
     {
       "id": "840dfebdb5d17d20",
       "title": "Georgia Power: Lower rates for a growing Statesboro - Grice Connect",

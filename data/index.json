@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T02:42:57+00:00",
+  "last_updated": "2026-06-25T07:37:57+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 77,
-      "new_mentions_this_run": 25,
+      "count": 78,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "30837abe25a0aab5",
         "title": "EnergyInnovates - Alabama Power’s Smart Neighborhood™ Travel Warning (ND2i8A6w3k) - Fathom Journal",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 103,
+      "count": 104,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "840dfebdb5d17d20",
-        "title": "Georgia Power: Lower rates for a growing Statesboro - Grice Connect",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFo3Y3EteW16Yk1IRWViS2FSeF9wSlhkTU5pc1VpY1R2ekJTaDl3Mk9KNG5icC1ieFBiZkp2dGxReGVFcVBJWERQVGNyUE9RU05ZZ2pOSGg1SUlCMHlpM2ctdmpfOHJWNDBMaC13SkFubU9rMXFUMlFjZjdjX3VHTjNReHN6MkVHVzl5U1lGcDdCZDdhamRHa0JnZ0t0RlU?oc=5",
+        "id": "65c06ee061decaab",
+        "title": "Haynes Station neighbors press for data center answers - WRDW",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbjdXT05Dd3ZSSTBFRS1FWjR6SkNudWViR0NDS0FMQ2dLVTQzMnlEOVJBQ0o2Q0l3S3Z3bURyaUo2RW9WdFlWSHpGemdZR3FsRWlNclBPM25RM3BuR1JKU3RDWmR1cHVRUzVoX2otdjBCb0RNTzdjN1UtUERnX05KcWdfMzd2UEpwUVQzMHFzUEQ2U0U?oc=5",
         "domain": "news.google.com",
-        "source": "Grice Connect",
+        "source": "WRDW",
         "language": "English",
-        "published_at": "2026-06-24T16:05:00+00:00",
-        "summary": "Georgia Power: Lower rates for a growing Statesboro Grice Connect",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFo3Y3EteW16Yk1IRWViS2FSeF9wSlhkTU5pc1VpY1R2ekJTaDl3Mk9KNG5icC1ieFBiZkp2dGxReGVFcVBJWERQVGNyUE9RU05ZZ2pOSGg1SUlCMHlpM2ctdmpfOHJWNDBMaC13SkFubU9rMXFUMlFjZjdjX3VHTjNReHN6MkVHVzl5U1lGcDdCZDdhamRHa0JnZ0t0RlU?oc=5\" target=\"_blank\">Georgia Power: Lower rates for a growing Statesboro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+        "published_at": "2026-06-25T02:18:00+00:00",
+        "summary": "Haynes Station neighbors press for data center answers WRDW",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPbjdXT05Dd3ZSSTBFRS1FWjR6SkNudWViR0NDS0FMQ2dLVTQzMnlEOVJBQ0o2Q0l3S3Z3bURyaUo2RW9WdFlWSHpGemdZR3FsRWlNclBPM25RM3BuR1JKU3RDWmR1cHVRUzVoX2otdjBCb0RNTzdjN1UtUERnX05KcWdfMzd2UEpwUVQzMHFzUEQ2U0U?oc=5\" target=\"_blank\">Haynes Station neighbors press for data center answers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-24T17:49:56+00:00"
+        "collected_at": "2026-06-25T07:37:47+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 11,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "eb2b0cdfdcf01bb2",
         "title": "DTE Energy gets $1.6B federal loan for gas upgrades in Michigan - MSN",
