@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T21:26:48+00:00",
+  "last_updated": "2026-06-25T23:12:28+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 81,
-      "new_mentions_this_run": 20,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "8ca3c0f006ad3e06",
         "title": "Alabama Power Shares Energy-Saving Tips - Wiregrass Daily News",
@@ -68,8 +68,8 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 48,
-      "new_mentions_this_run": 18,
+      "count": 49,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "49ca5598f6122b02",
         "title": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock - ABC27",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 12,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "4ffea21237e73894",
         "title": "US allocates $17.5bn for nuclear supply chain development - Enlit World",

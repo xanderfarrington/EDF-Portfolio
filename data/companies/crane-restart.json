@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-25T21:26:32+00:00",
+  "last_updated": "2026-06-25T23:12:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 48,
+  "count": 49,
   "mentions": [
     {
       "id": "49ca5598f6122b02",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-25T21:26:32+00:00"
+    },
+    {
+      "id": "7198fe0da229f816",
+      "title": "FERC decision on Crane restart coming in June or July, Constellation execs say - American Nuclear Society -- ANS",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY3JJTXdxRXBpdzdFaWgwWEM3bFY3dFZoT2ZSM2ZQeDAxd1hVdlVfUjQ3UmtETGJXa2JJMlJLaWdlZ1c1R3JUckVBRGFROUVrSWlzMHdYRzdEUHRkbkc0ek13b25Kb3hBRWp1c0VzZWJ2RzJmczdOOEJvMHNIaVhRTjZMRWZEcjdQMktYOUJFYlVPSnhMbDA5TzhTNnJIU0JseV84WldnOFoyNVU5M1hLMmluMlpZSjA?oc=5",
+      "domain": "news.google.com",
+      "source": "American Nuclear Society -- ANS",
+      "language": "English",
+      "published_at": "2026-06-25T12:31:34+00:00",
+      "summary": "FERC decision on Crane restart coming in June or July, Constellation execs say American Nuclear Society -- ANS",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPY3JJTXdxRXBpdzdFaWgwWEM3bFY3dFZoT2ZSM2ZQeDAxd1hVdlVfUjQ3UmtETGJXa2JJMlJLaWdlZ1c1R3JUckVBRGFROUVrSWlzMHdYRzdEUHRkbkc0ek13b25Kb3hBRWp1c0VzZWJ2RzJmczdOOEJvMHNIaVhRTjZMRWZEcjdQMktYOUJFYlVPSnhMbDA5TzhTNnJIU0JseV84WldnOFoyNVU5M1hLMmluMlpZSjA?oc=5\" target=\"_blank\">FERC decision on Crane restart coming in June or July, Constellation execs say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society -- ANS</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-25T23:12:12+00:00"
     },
     {
       "id": "22f298e263449aac",
