@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-25T14:12:34+00:00",
+  "last_updated": "2026-06-25T18:05:48+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 78,
+  "count": 80,
   "mentions": [
+    {
+      "id": "8ca3c0f006ad3e06",
+      "title": "Alabama Power Shares Energy-Saving Tips - Wiregrass Daily News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVRNZkNDU1ZqUEhqbXZVY2dtYXVubFRFajFuS19pOHpVb3A4OG9wbFhEYUhtQlJBZXpvWWlOTlEzRkZrSWRWTFNRQjdGZjRyRUpxN09aVHRseTVfWjJKV01qZm5ZZmdXZ1ptUm1xZnd6d0R2Q2pYNExwV0lyWmNFS2hPTXkzYlp3ZG5HMlU3YWtmZldrY0c1N0tBWHE?oc=5",
+      "domain": "news.google.com",
+      "source": "Wiregrass Daily News",
+      "language": "English",
+      "published_at": "2026-06-25T17:09:49+00:00",
+      "summary": "Alabama Power Shares Energy-Saving Tips Wiregrass Daily News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVRNZkNDU1ZqUEhqbXZVY2dtYXVubFRFajFuS19pOHpVb3A4OG9wbFhEYUhtQlJBZXpvWWlOTlEzRkZrSWRWTFNRQjdGZjRyRUpxN09aVHRseTVfWjJKV01qZm5ZZmdXZ1ptUm1xZnd6d0R2Q2pYNExwV0lyWmNFS2hPTXkzYlp3ZG5HMlU3YWtmZldrY0c1N0tBWHE?oc=5\" target=\"_blank\">Alabama Power Shares Energy-Saving Tips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiregrass Daily News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-25T18:05:48+00:00"
+    },
     {
       "id": "30837abe25a0aab5",
       "title": "EnergyInnovates - Alabama Power’s Smart Neighborhood™ Travel Warning (ND2i8A6w3k) - Fathom Journal",
@@ -313,6 +327,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-16T15:07:54+00:00"
+    },
+    {
+      "id": "280349bb00df9f90",
+      "title": "Hunton Advises on Alabama Power Company’s $80M Tax-Exempt Remarketing - Hunton Andrews Kurth LLP",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblJrdVFsR1VwNmZaQzJVRTRsVkNzQWJsdXFqWXJzdkVqdzRtTnFmVHRuRjM3YUY3azJKUFcxVkJzelVUc3V4dHJVd2ZXeE14M1NrS202X0hjS3I4ZFFyZkxPMjJyR1VwSUhURGdlM1pqTjNhWjVvUkp4VU1reWZ4TFhRSFE2alFheGcwUXkzdTNVN0k?oc=5",
+      "domain": "news.google.com",
+      "source": "Hunton Andrews Kurth LLP",
+      "language": "English",
+      "published_at": "2026-06-16T07:00:00+00:00",
+      "summary": "Hunton Advises on Alabama Power Company’s $80M Tax-Exempt Remarketing Hunton Andrews Kurth LLP",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOblJrdVFsR1VwNmZaQzJVRTRsVkNzQWJsdXFqWXJzdkVqdzRtTnFmVHRuRjM3YUY3azJKUFcxVkJzelVUc3V4dHJVd2ZXeE14M1NrS202X0hjS3I4ZFFyZkxPMjJyR1VwSUhURGdlM1pqTjNhWjVvUkp4VU1reWZ4TFhRSFE2alFheGcwUXkzdTNVN0k?oc=5\" target=\"_blank\">Hunton Advises on Alabama Power Company’s $80M Tax-Exempt Remarketing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hunton Andrews Kurth LLP</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-25T18:05:48+00:00"
     },
     {
       "id": "cc32d1c6c8be29cc",

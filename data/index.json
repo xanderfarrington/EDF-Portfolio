@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T14:13:01+00:00",
+  "last_updated": "2026-06-25T18:06:15+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 78,
-      "new_mentions_this_run": 20,
+      "count": 80,
+      "new_mentions_this_run": 19,
       "latest_mention": {
-        "id": "30837abe25a0aab5",
-        "title": "EnergyInnovates - Alabama Power’s Smart Neighborhood™ Travel Warning (ND2i8A6w3k) - Fathom Journal",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByVWJoX1VJcWpwUXhtZDRzb0pyNE5xQldxNElYOW8ySnJHVVRhd2RGcWR4OUpacEY0RUxFUjIzX2RrZnNfV0x6MjJ6UklZVDRBUkRMQ2pVZkdzV01FMTQ1b1BwaHU?oc=5",
+        "id": "8ca3c0f006ad3e06",
+        "title": "Alabama Power Shares Energy-Saving Tips - Wiregrass Daily News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVRNZkNDU1ZqUEhqbXZVY2dtYXVubFRFajFuS19pOHpVb3A4OG9wbFhEYUhtQlJBZXpvWWlOTlEzRkZrSWRWTFNRQjdGZjRyRUpxN09aVHRseTVfWjJKV01qZm5ZZmdXZ1ptUm1xZnd6d0R2Q2pYNExwV0lyWmNFS2hPTXkzYlp3ZG5HMlU3YWtmZldrY0c1N0tBWHE?oc=5",
         "domain": "news.google.com",
-        "source": "Fathom Journal",
+        "source": "Wiregrass Daily News",
         "language": "English",
-        "published_at": "2026-06-24T01:41:59+00:00",
-        "summary": "EnergyInnovates - Alabama Power’s Smart Neighborhood™ Travel Warning (ND2i8A6w3k) Fathom Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFByVWJoX1VJcWpwUXhtZDRzb0pyNE5xQldxNElYOW8ySnJHVVRhd2RGcWR4OUpacEY0RUxFUjIzX2RrZnNfV0x6MjJ6UklZVDRBUkRMQ2pVZkdzV01FMTQ1b1BwaHU?oc=5\" target=\"_blank\">EnergyInnovates - Alabama Power’s Smart Neighborhood™ Travel Warning (ND2i8A6w3k)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+        "published_at": "2026-06-25T17:09:49+00:00",
+        "summary": "Alabama Power Shares Energy-Saving Tips Wiregrass Daily News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVRNZkNDU1ZqUEhqbXZVY2dtYXVubFRFajFuS19pOHpVb3A4OG9wbFhEYUhtQlJBZXpvWWlOTlEzRkZrSWRWTFNRQjdGZjRyRUpxN09aVHRseTVfWjJKV01qZm5ZZmdXZ1ptUm1xZnd6d0R2Q2pYNExwV0lyWmNFS2hPTXkzYlp3ZG5HMlU3YWtmZldrY0c1N0tBWHE?oc=5\" target=\"_blank\">Alabama Power Shares Energy-Saving Tips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiregrass Daily News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-24T19:29:24+00:00"
+        "collected_at": "2026-06-25T18:05:48+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 104,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "65c06ee061decaab",
         "title": "Haynes Station neighbors press for data center answers - WRDW",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 12,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "4ffea21237e73894",
         "title": "US allocates $17.5bn for nuclear supply chain development - Enlit World",
