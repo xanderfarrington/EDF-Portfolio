@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-26T17:42:58+00:00",
+  "last_updated": "2026-06-26T19:40:21+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 119,
+  "count": 120,
   "mentions": [
     {
       "id": "5ad1c5f45b87f5e3",
@@ -229,6 +229,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-18T20:16:52+00:00"
+    },
+    {
+      "id": "c38bb6d34dd9b016",
+      "title": "Georgia Power crews are ready to respond to severe weather - wrdw.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcVFZeFR0SDhSUVBtbG9IdVFsM1d3TWNuUlBKa3F2b1Y3TjEwcnNWOFJHc0poOHQ2bk5pblFGZG5iXzBkcHp2SnpTbDJkeHhXbGNRdHhVNnEyQXNDYWwtUGFaQ2dxRlJRMVlCZFF5VWVBbjBiQjA5N0lLZmc0QnEwYy1GUUlHbnB3VmxBM0hn?oc=5",
+      "domain": "news.google.com",
+      "source": "wrdw.com",
+      "language": "English",
+      "published_at": "2026-06-18T18:13:00+00:00",
+      "summary": "Georgia Power crews are ready to respond to severe weather wrdw.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcVFZeFR0SDhSUVBtbG9IdVFsM1d3TWNuUlBKa3F2b1Y3TjEwcnNWOFJHc0poOHQ2bk5pblFGZG5iXzBkcHp2SnpTbDJkeHhXbGNRdHhVNnEyQXNDYWwtUGFaQ2dxRlJRMVlCZFF5VWVBbjBiQjA5N0lLZmc0QnEwYy1GUUlHbnB3VmxBM0hn?oc=5\" target=\"_blank\">Georgia Power crews are ready to respond to severe weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wrdw.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T19:40:21+00:00"
     },
     {
       "id": "3c68e5c922a30669",

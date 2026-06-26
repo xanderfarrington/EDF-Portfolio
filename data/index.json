@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T17:43:08+00:00",
+  "last_updated": "2026-06-26T19:40:31+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 83,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "8ca3c0f006ad3e06",
         "title": "Alabama Power Shares Energy-Saving Tips - Wiregrass Daily News",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 119,
+      "count": 120,
       "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "5ad1c5f45b87f5e3",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 12,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "4ffea21237e73894",
         "title": "US allocates $17.5bn for nuclear supply chain development - Enlit World",
