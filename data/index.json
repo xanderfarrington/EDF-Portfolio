@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T10:46:42+00:00",
+  "last_updated": "2026-06-26T14:12:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 83,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "8ca3c0f006ad3e06",
         "title": "Alabama Power Shares Energy-Saving Tips - Wiregrass Daily News",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 106,
-      "new_mentions_this_run": 21,
+      "count": 117,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "75d83cfd1003f6a5",
         "title": "Georgia Power continues to offer options to connect customers to solar - PR Newswire",

@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-26T10:46:31+00:00",
+  "last_updated": "2026-06-26T14:11:55+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 106,
+  "count": 117,
   "mentions": [
     {
       "id": "75d83cfd1003f6a5",
@@ -329,6 +329,20 @@
       "collected_at": "2026-06-15T22:13:50+00:00"
     },
     {
+      "id": "ca240523af92f810",
+      "title": "Georgia's Plant Hatch receives 20-year license renewal from the Nuclear Regulatory Commission - Finviz",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzVvT0VhemVHZ0pXZ2FLYko0cWpQMmdpV2lCYk1DbzEzdzhEZ0pNZnh5WUxNZldYRVVxR1NXUVdvYUlQNURpQ2UtQkg4WnRodzlQN3BtQjVGTmthc1BaZV9OclZfZmJzZU8wdmxBc1RjWW1wZTlkejVoQW5LUjY5VXlqVUZpRlRlNmpUbUhXVk53NjhWYmYtTGdzcXNEb2xQTGdCcHE1ZV9nYnNMQVF1STM3eml6aldweDQ1Wm1yODQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Finviz",
+      "language": "English",
+      "published_at": "2026-06-15T07:00:00+00:00",
+      "summary": "Georgia's Plant Hatch receives 20-year license renewal from the Nuclear Regulatory Commission Finviz",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzVvT0VhemVHZ0pXZ2FLYko0cWpQMmdpV2lCYk1DbzEzdzhEZ0pNZnh5WUxNZldYRVVxR1NXUVdvYUlQNURpQ2UtQkg4WnRodzlQN3BtQjVGTmthc1BaZV9OclZfZmJzZU8wdmxBc1RjWW1wZTlkejVoQW5LUjY5VXlqVUZpRlRlNmpUbUhXVk53NjhWYmYtTGdzcXNEb2xQTGdCcHE1ZV9nYnNMQVF1STM3eml6aldweDQ1Wm1yODQ?oc=5\" target=\"_blank\">Georgia's Plant Hatch receives 20-year license renewal from the Nuclear Regulatory Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finviz</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T14:11:55+00:00"
+    },
+    {
       "id": "9bb5b0ec15b01165",
       "title": "Typical Georgia Power customers save about $4 per month after PSC-approved rate decrease takes effect - eciks.org",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XNjduLVVlb2JyU18wVS1ta19Ib3dreGtCTDNocHMxUjBwaS1XLVVxTWpRcjNEdktLeXhIYWVGb09zb1pZcXNrdDllck9FTVo3RG1HMGxwRDJOVFFQSHdyZ1Z0Rk1zaVlGVTFSZzJtWGVhQko5?oc=5",
@@ -383,6 +397,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-15T15:44:57+00:00"
+    },
+    {
+      "id": "f7ecbad2d3630f8a",
+      "title": "Georgia Power Ready To Respond To Tropical Storm Ian Leon Must Die Forever (QT6O1aHHnK) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yQ3FqMDVmeElOajBId010b1pBSlBIcEl0UUxKYVIzTHVyTk8xYnM0ZnBjVHI5RW0yWS1sdmJvcHJ0SHRkaDhWUlZCVTJLR2RpdmFRSnY1OEZPZXdGaVhvY3hUaHhmZ3FpV1E?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-14T08:14:29+00:00",
+      "summary": "Georgia Power Ready To Respond To Tropical Storm Ian Leon Must Die Forever (QT6O1aHHnK) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0yQ3FqMDVmeElOajBId010b1pBSlBIcEl0UUxKYVIzTHVyTk8xYnM0ZnBjVHI5RW0yWS1sdmJvcHJ0SHRkaDhWUlZCVTJLR2RpdmFRSnY1OEZPZXdGaVhvY3hUaHhmZ3FpV1E?oc=5\" target=\"_blank\">Georgia Power Ready To Respond To Tropical Storm Ian Leon Must Die Forever (QT6O1aHHnK)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T14:11:55+00:00"
     },
     {
       "id": "fb4425d483d4cd36",
@@ -644,6 +672,20 @@
       "collected_at": "2026-06-20T10:28:54+00:00"
     },
     {
+      "id": "218aee8f2a18ce5c",
+      "title": "Georgia Power encourages customers to prepare for hurricane season – Company Announcement - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc1hUZlBtcEZxU1Rfb3Y5eFNoUjBfU0w0dzAxWFFPVFN0QXA5N3duYS1ZQ3dDbHBfYk1TTUlid252ektYTmxMS3ByNlREY1RHTlNhcmVuWUNFZlVnblNodEgwT1M4ZHhtV1JfMzhfWkpzYVMzYXNjLXpaYTFpaDI3eUstOXNPYTBJVkpPcGhWY3A4SWJqZWc?oc=5",
+      "domain": "news.google.com",
+      "source": "Financial Times",
+      "language": "English",
+      "published_at": "2026-06-03T07:00:00+00:00",
+      "summary": "Georgia Power encourages customers to prepare for hurricane season – Company Announcement Financial Times",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQc1hUZlBtcEZxU1Rfb3Y5eFNoUjBfU0w0dzAxWFFPVFN0QXA5N3duYS1ZQ3dDbHBfYk1TTUlid252ektYTmxMS3ByNlREY1RHTlNhcmVuWUNFZlVnblNodEgwT1M4ZHhtV1JfMzhfWkpzYVMzYXNjLXpaYTFpaDI3eUstOXNPYTBJVkpPcGhWY3A4SWJqZWc?oc=5\" target=\"_blank\">Georgia Power encourages customers to prepare for hurricane season – Company Announcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T14:11:55+00:00"
+    },
+    {
       "id": "423f5d06bb74d623",
       "title": "Georgia Power says it’s ready for hurricane season, urges public to prepare - WRDW",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3lOTDhyc3ZmVXZuYkxSdTlSalhIeWhyNVF4STk3Y29zM3pJWkhmRnZzWjQ4eGhodUNxREdLLVZDbHA3OGVwLW9lQ2x1aVVmYnI3TEtRUko0eldicjVmdHJENDBld2cxalJhaWN1LXRZeE5JZnJQZ3NUSnVSeU9HMTFlTmhOOGNLZjhIYTBOaVpCM0czRDVLb2I0Z053WnVv0gG0AUFVX3lxTE5SSGxZZkV3QUE3WG9SXzN5Z19MdlVSSlBLVk14aTBOdjBzTW1ReGQ1V3RUUFBJbkxocU9iSEJWUm5FeGJBbnpHZlNILVVfREFqUERxS2o3Q2hiLUI3aXdMX2xORzdVbnR4eWlTQ2d3U0tidEEtVk9SMW5Ga0dQQ3FhcTZnQWtqVUdycG9sZ051NWF5ZnlPSEFLc0Z5XzNBR2FrWTFfQUh3bjF2Nk5VdHA5QWVHTg?oc=5",
@@ -711,6 +753,20 @@
       "collected_at": "2026-06-24T07:35:21+00:00"
     },
     {
+      "id": "b0d42a2043ecbf2f",
+      "title": "Community Corner: Georgia Power shares tips, tools and free resources to reduce energy use this summer - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRE95TVhNT2lmVXItN2gtc2Q2RHJIN01PZ0V2QVQ1UXZGamwtRXZUSy0tcGN5TUd4Y0k4MnRzanE3b2VDVkltXzZ3S1V4bnpvRVJIa0trTjc3NkZwV21vNTZlNzJtRGN1MXpGaVEtckFOZlQtc0lJU0dHZFdqV3J5cEd4M2szV1RTd2YtOHFjakVCRTF6ZVlXTQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-06-02T07:00:00+00:00",
+      "summary": "Community Corner: Georgia Power shares tips, tools and free resources to reduce energy use this summer Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRE95TVhNT2lmVXItN2gtc2Q2RHJIN01PZ0V2QVQ1UXZGamwtRXZUSy0tcGN5TUd4Y0k4MnRzanE3b2VDVkltXzZ3S1V4bnpvRVJIa0trTjc3NkZwV21vNTZlNzJtRGN1MXpGaVEtckFOZlQtc0lJU0dHZFdqV3J5cEd4M2szV1RTd2YtOHFjakVCRTF6ZVlXTQ?oc=5\" target=\"_blank\">Community Corner: Georgia Power shares tips, tools and free resources to reduce energy use this summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T14:11:55+00:00"
+    },
+    {
       "id": "a9a420b5ca395480",
       "title": "Before the storm: Georgia Power strengthens coastal grid ahead of future storms - WSAV-TV",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZk1ReXFZajgtb0l1dTFSdjF6RHdyakFUclBWQnFqdF9VRkFDdEVIWjFNTWRVYTFhdWl3RW82X0xZdHUyR21GLUF0bndWd3U4elZXY1duSTl1dTZGbzJUdzgtbEJQRzAybE40UVFfR0JtSmJHSG4xUm9BYnAxTVhUUWZScUZmQU5GaE9zM0lRWGRYb1F1b1ZFMHRBVFlvMXdzcGJLMUpYOGhTTzBXMTFGRm5hdVppaFc1LVN5N2duUy1rd0VpRjREcHIzdzZCVEFnSnfSAdcBQVVfeXFMTWxrek9NZ2lsUmcya0FPSjFWckFnVDZVMXpYT2dmQy1nbW51T1NTWUFjNW1VdkQwX1RGZlIyX3VDV1hHYTBROVRtRE1PS1NrMG1vbVM4dWwzTFRUX1MycDlkTDBqT3FwbmlSX1NZU3hYTXZ0bXNzeFlaOWlPQlBLQ1dIZGxGQXBjM2JzNG9XTHBYNE9jWHV3LUV2MmVubmdiaG1EdW5tQW55T3ZtUzdCLXlSbVVRMGxWakZYc0E3OW9PSHktU2lRUHFkMThjOFpiREhBeXN5cm8?oc=5",
@@ -722,6 +778,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:35+00:00"
+    },
+    {
+      "id": "95f6a54f4385df15",
+      "title": "Georgia Power names Anthony Oni VP of corporate affairs By Investing.com - Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFAyLU5UVVowdVIyQXNMSGJaUV9xX1BLcTQteWpRQVhYVUhDb2FyMjVhYWpuVGRUclB5bzVGQmFuV3F2UFJoQ0N1c1hoSHBnR3NJYlVYMkpVU3B1aF8wR2VybWRBNFpBbGxPU0FRY3N5SDMxTWNDRlZlZTVETHMxa0dzdlFhTjJtZElHdGVWRXhaVUJHLVMxRWc4NkNXZEpYRUxTYjNGTVZrSUw0dVhnUS1TcnZDQTQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Investing.com Nigeria",
+      "language": "English",
+      "published_at": "2026-06-01T18:54:51+00:00",
+      "summary": "Georgia Power names Anthony Oni VP of corporate affairs By Investing.com Investing.com Nigeria",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFAyLU5UVVowdVIyQXNMSGJaUV9xX1BLcTQteWpRQVhYVUhDb2FyMjVhYWpuVGRUclB5bzVGQmFuV3F2UFJoQ0N1c1hoSHBnR3NJYlVYMkpVU3B1aF8wR2VybWRBNFpBbGxPU0FRY3N5SDMxTWNDRlZlZTVETHMxa0dzdlFhTjJtZElHdGVWRXhaVUJHLVMxRWc4NkNXZEpYRUxTYjNGTVZrSUw0dVhnUS1TcnZDQTQ?oc=5\" target=\"_blank\">Georgia Power names Anthony Oni VP of corporate affairs By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T14:11:55+00:00"
     },
     {
       "id": "7f60dc507eeeb4c5",
@@ -791,6 +861,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-21T12:08:36+00:00"
+    },
+    {
+      "id": "8d2145b21fdf8ecd",
+      "title": "Investor behind $100M grid fund to lead Georgia Power communications - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3A4aVVWVW9ndFJYY292TmpydVF4YzlzZU4xSTJ1djZrcDI3Y3MteGZHSW1qSUcyV0g4UEdLUkZBbThxY0NkLU1KUERlNlQ5eDkzY3lEdVZKTF9kYkhVaHhQc1FDdENTTW0wT0Q4OVFPMkM3WTZhVHJlTk1qcTFnM2t5MEFaU2VLNnZYRUJVZU5sTExhcWlEakN3TERqajJNVW42YlROOFZPdWlSRE04QnM0NFQ0QQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Stock Titan",
+      "language": "English",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "summary": "Investor behind $100M grid fund to lead Georgia Power communications Stock Titan",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3A4aVVWVW9ndFJYY292TmpydVF4YzlzZU4xSTJ1djZrcDI3Y3MteGZHSW1qSUcyV0g4UEdLUkZBbThxY0NkLU1KUERlNlQ5eDkzY3lEdVZKTF9kYkhVaHhQc1FDdENTTW0wT0Q4OVFPMkM3WTZhVHJlTk1qcTFnM2t5MEFaU2VLNnZYRUJVZU5sTExhcWlEakN3TERqajJNVW42YlROOFZPdWlSRE04QnM0NFQ0QQ?oc=5\" target=\"_blank\">Investor behind $100M grid fund to lead Georgia Power communications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T14:11:55+00:00"
     },
     {
       "id": "4c05d2b5b09c4c9b",
@@ -1079,6 +1163,48 @@
       "collected_at": "2026-06-20T10:28:54+00:00"
     },
     {
+      "id": "94cded45e67d0705",
+      "title": "Georgia Power bills to decrease under PSC plan - The Rome News-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSm55RHRYMEJzZ0l1ZDZWblAtYnAwTkZRb3k3ZGlYbmFpUk9MU0NGa3ptQ0JmVkdMejJIVHR6V0poV29ZODB3NFlwajNzQ0hKYmN2SjI1dGp4NWdFemwxT01wWkFGeVhnT1pLbmhEVDNzUm5nT1VuUWMyRFlydk1EU3VkVGNvUHNwMWprRTk5ZXV0VVFQRTA3eWxudW83SjRyT29UOWh6Q0lJaDVZbm03RnZhOEVDTWd3NGhHTk5jd29qMVFlYkhVb2NHZjFiRHUzeTY3dFhGaERHeXo4VTRuVVRzMW05ZXZmY3dCQ2JRVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "The Rome News-Tribune",
+      "language": "English",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "summary": "Georgia Power bills to decrease under PSC plan The Rome News-Tribune",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSm55RHRYMEJzZ0l1ZDZWblAtYnAwTkZRb3k3ZGlYbmFpUk9MU0NGa3ptQ0JmVkdMejJIVHR6V0poV29ZODB3NFlwajNzQ0hKYmN2SjI1dGp4NWdFemwxT01wWkFGeVhnT1pLbmhEVDNzUm5nT1VuUWMyRFlydk1EU3VkVGNvUHNwMWprRTk5ZXV0VVFQRTA3eWxudW83SjRyT29UOWh6Q0lJaDVZbm03RnZhOEVDTWd3NGhHTk5jd29qMVFlYkhVb2NHZjFiRHUzeTY3dFhGaERHeXo4VTRuVVRzMW05ZXZmY3dCQ2JRVQ?oc=5\" target=\"_blank\">Georgia Power bills to decrease under PSC plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T14:11:55+00:00"
+    },
+    {
+      "id": "d88bec7fdc093da8",
+      "title": "Commission approves Georgia Power fuel rate decrease - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWVWTGVoYXF2bGxXZTJQc3VucmQ4c0U4X1U0ZUNac09RRWYwcXNTTm8zN21mSHlOUnc5UWZpdENwM0lDRzFrOVdrYUtFcWVQOGQyQ0stcXY3dlhaTWprZy15MzluTXp0bG4zWFJORFFRdXpaQUJGR256aTVIQldoeWRvcnpOeldKN2VVeTNCVk82UEs3dFRB?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "summary": "Commission approves Georgia Power fuel rate decrease Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWVWTGVoYXF2bGxXZTJQc3VucmQ4c0U4X1U0ZUNac09RRWYwcXNTTm8zN21mSHlOUnc5UWZpdENwM0lDRzFrOVdrYUtFcWVQOGQyQ0stcXY3dlhaTWprZy15MzluTXp0bG4zWFJORFFRdXpaQUJGR256aTVIQldoeWRvcnpOeldKN2VVeTNCVk82UEs3dFRB?oc=5\" target=\"_blank\">Commission approves Georgia Power fuel rate decrease</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T14:11:55+00:00"
+    },
+    {
+      "id": "406422ba97b70f22",
+      "title": "Georgia Power rates will go down starting next month - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZEpUSm5XYzdsSU4wcjBKQm5GdXA3Wk1vMEdlU2xnbVRHdzV5UXFsbW1pTXQyUzVfajJqTnVDeTQ1MWNLOWg4cjJxZFB1Ynl4SG5lcU5qdmFXZjV4Q0dlMmtYTHNrTXhDai1LdDJpSGI2dHJ5bGM5dndGTzhCdkwwX1FBSEFNTjRTc1VySkF0SUg?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "summary": "Georgia Power rates will go down starting next month Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQZEpUSm5XYzdsSU4wcjBKQm5GdXA3Wk1vMEdlU2xnbVRHdzV5UXFsbW1pTXQyUzVfajJqTnVDeTQ1MWNLOWg4cjJxZFB1Ynl4SG5lcU5qdmFXZjV4Q0dlMmtYTHNrTXhDai1LdDJpSGI2dHJ5bGM5dndGTzhCdkwwX1FBSEFNTjRTc1VySkF0SUg?oc=5\" target=\"_blank\">Georgia Power rates will go down starting next month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T14:11:55+00:00"
+    },
+    {
       "id": "5af3a71c91cdea9b",
       "title": "Georgia Power customers will see a slight drop in bills - 11Alive.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0lRZnU5VzRMLVREY1lIa2FSbGdMc0ZfSVdhU05OSzlfbU1EbnQxdmR6V3B5S3B5NnNiUC0xcTlFSUkzTkU1NEI1YzNCckJjei1NQk1OcUY2OHhULXh1bTMzOTJwQXQ2QjNzV3pEVHROeDlLbTFIbno2ZjZKM0FVSFo3UVAzaHpDb3lzdjRjNVBES0ZoUndZRldHWWRnbVNKdUdJT2x0R21yOXpUOEJrTFZrLVdZMWZhLV9MMDFWQWE2Nm93Zjd2YnE3MFZTZnhINS1Oeg?oc=5",
@@ -1325,6 +1451,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-20T15:42:41+00:00"
+    },
+    {
+      "id": "e5be03f280a05fe5",
+      "title": "Georgia Power to lower rates, save customers $285 million annually - 11Alive.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUW5QUzN6TUl2YWlPTUVackNlZnRRSFBVbG02UFNMZEFDYjRaYXZmRk1aUHF3bjRuYWZEWjN1a3FIR1FfODZXdnF3VHgtcVgyUDFPb2dpa3BfbGI4R2V0akFPNC1FbmdFclI1YlhlOE9DY2JWSjhDSkhIZktnb1AtQU50eGNkMER4TjgySTl3TjU1TFhpTDZOazhHRG9zY2JsQ3ozOU9hc2NoT3JQelV3MWk0a29WaWFBRUtFQkRfMVI1NXUtQjJlUTVTSVFiWDdPVUpDSVk4Vm9MR3llN2c?oc=5",
+      "domain": "news.google.com",
+      "source": "11Alive.com",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Georgia Power to lower rates, save customers $285 million annually 11Alive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUW5QUzN6TUl2YWlPTUVackNlZnRRSFBVbG02UFNMZEFDYjRaYXZmRk1aUHF3bjRuYWZEWjN1a3FIR1FfODZXdnF3VHgtcVgyUDFPb2dpa3BfbGI4R2V0akFPNC1FbmdFclI1YlhlOE9DY2JWSjhDSkhIZktnb1AtQU50eGNkMER4TjgySTl3TjU1TFhpTDZOazhHRG9zY2JsQ3ozOU9hc2NoT3JQelV3MWk0a29WaWFBRUtFQkRfMVI1NXUtQjJlUTVTSVFiWDdPVUpDSVk4Vm9MR3llN2c?oc=5\" target=\"_blank\">Georgia Power to lower rates, save customers $285 million annually</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T14:11:55+00:00"
+    },
+    {
+      "id": "9e4d01a4e54f6732",
+      "title": "Georgia Public Service Commission approves agreement with Georgia Power to lower rates - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjQwSUtvUC1zdzJxUE9MdHl0MmZVeGsyaVlQVnNycGhSX3V4N0FVZkhNVEZCQVc1WkpzWmxmZ0V0cVF3ck5TQ2Q3VEpZYjJHdDF2Wk1vek9yWURBUjZva2tlVTdXbFBaLWtkMW5sSE16RWhjYXBzMVlhYWVHT1J3VC1vX0VCd0pPeXRXVzJPUGhDeklQajRjaDc1RVhfRFk?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-05-28T07:00:00+00:00",
+      "summary": "Georgia Public Service Commission approves agreement with Georgia Power to lower rates Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjQwSUtvUC1zdzJxUE9MdHl0MmZVeGsyaVlQVnNycGhSX3V4N0FVZkhNVEZCQVc1WkpzWmxmZ0V0cVF3ck5TQ2Q3VEpZYjJHdDF2Wk1vek9yWURBUjZva2tlVTdXbFBaLWtkMW5sSE16RWhjYXBzMVlhYWVHT1J3VC1vX0VCd0pPeXRXVzJPUGhDeklQajRjaDc1RVhfRFk?oc=5\" target=\"_blank\">Georgia Public Service Commission approves agreement with Georgia Power to lower rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T14:11:55+00:00"
     },
     {
       "id": "0c358710ac78474b",
