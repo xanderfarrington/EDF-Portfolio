@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T02:46:51+00:00",
+  "last_updated": "2026-06-26T07:45:11+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 82,
-      "new_mentions_this_run": 17,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "8ca3c0f006ad3e06",
         "title": "Alabama Power Shares Energy-Saving Tips - Wiregrass Daily News",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 50,
-      "new_mentions_this_run": 17,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "0399ede822d1c662",
         "title": "Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said. - PennLive.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 106,
-      "new_mentions_this_run": 18,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "75d83cfd1003f6a5",
         "title": "Georgia Power continues to offer options to connect customers to solar - PR Newswire",

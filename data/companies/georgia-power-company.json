@@ -2,7 +2,7 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-26T02:46:40+00:00",
+  "last_updated": "2026-06-26T07:45:00+00:00",
   "archive_policy": "append_only_no_deletion",
   "count": 106,
   "mentions": [
