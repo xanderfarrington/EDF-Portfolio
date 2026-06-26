@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-26T14:11:50+00:00",
+  "last_updated": "2026-06-26T17:42:52+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 51,
+  "count": 53,
   "mentions": [
     {
       "id": "6d666d8d6dbe72a0",
@@ -35,6 +35,20 @@
       "collected_at": "2026-06-26T02:46:34+00:00"
     },
     {
+      "id": "0ebed05677f2464f",
+      "title": "TMI restart deal was secret. An engineer used info to profit $1.4M: grand jury - PennLive.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd01mbG9fdTc0LVZJSk5yQWtPMVN0aGRKQy1xV2hOMDF3bFh5aGpxcERrS29oZGh2c0hyMmVXbExoTTFpVk5MSm5kZ0d2TVhTZ3VZbmJxV1l3NXNiZWsxWDNva1J0dTRpemtSeWdyMjc3RU9McWI3bEdKQjhJb2RIdDZuVVl5M0h3N0c4VGxkQnFvSXhiY1F3OUFGazhZRVktMlZRT2V6MWlRdXM2Q1kzUkYwcHFsem0zTlJJR3BzWGlPdFlEQWd4eXVSSkhPOVd4RTFrT0puRy1LbG8z?oc=5",
+      "domain": "news.google.com",
+      "source": "PennLive.com",
+      "language": "English",
+      "published_at": "2026-06-25T23:31:00+00:00",
+      "summary": "TMI restart deal was secret. An engineer used info to profit $1.4M: grand jury PennLive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd01mbG9fdTc0LVZJSk5yQWtPMVN0aGRKQy1xV2hOMDF3bFh5aGpxcERrS29oZGh2c0hyMmVXbExoTTFpVk5MSm5kZ0d2TVhTZ3VZbmJxV1l3NXNiZWsxWDNva1J0dTRpemtSeWdyMjc3RU9McWI3bEdKQjhJb2RIdDZuVVl5M0h3N0c4VGxkQnFvSXhiY1F3OUFGazhZRVktMlZRT2V6MWlRdXM2Q1kzUkYwcHFsem0zTlJJR3BzWGlPdFlEQWd4eXVSSkhPOVd4RTFrT0puRy1LbG8z?oc=5\" target=\"_blank\">TMI restart deal was secret. An engineer used info to profit $1.4M: grand jury</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PennLive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T17:42:52+00:00"
+    },
+    {
       "id": "49ca5598f6122b02",
       "title": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock - ABC27",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNmV6djFFeHBDNWxSajBlZ3FLOG9PVlVQbUYxcVlMTk9Xa3RhTGU1QzVZQ29HeXBPdGxtN0lLeVFOandzMGYzOXNMb1lxSXFRcUlTdkFtWXpKdXNUdV9NbjV0OHFDb1RaTl9URVJKUXN5YnZ4WmZpX2xjaEIxZEhsTkFFemJHRXJHbDVFZi1UNjRTOEZXbVd2bTdCNG5Xa1BzV2F2RE5qQ2JyVjZ2MUhOeWYtdkNIeWdPM2JUUlVUcERTZF9vMWo4cmZyc0QwRWxOd0o2bjJ0blJQeFowTk1jTWNPUjZvQdIB6wFBVV95cUxNOVlzamR0SXc2TTZpempyemQ0OWo0eFk4UklOclR0UmNDTTIwZDR4YS1UdnRsanZ1RkpSOEJERDlpWHRzNzV3QnRzQkEwY29mQllXdDh1ODJCU01MX3BtQUJubloySS00TzU4OWh1cklGT2lyb2VRUmtPeDlUcGRvTndCWlY4amhBMnUxNUs1NVJDRTI0TU53N2I1d0s2N0pldTBPak5tMWFjcF9aS2libGFUN1U2STRORHFHUE5Nd2lSQnBLLUhPbW95QkVaZzh0Um9XcWdvWTV2VlR2VnduVWNFeWczTmNpZW8w?oc=5",
@@ -47,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-25T21:26:32+00:00"
+    },
+    {
+      "id": "573e94bf0ad68006",
+      "title": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYk9zWkpRaDhqTmVQejRnckhqdU9DRTBFNTdTUmhKallNekJ2cGo1SWlWNlhSdXN6ZXFtdUoyRTJ2S1ZrVGZFc05jdUkzTzRfaU1XOFlOMHRxWlJYQzVZZWl2ZmN3bll1dXZPMXgtb3lZMGtYdm00ZEVDTEQ2MEctRUkxY3lHa1JuSTZj?oc=5",
+      "domain": "news.google.com",
+      "source": "AOL.com",
+      "language": "English",
+      "published_at": "2026-06-25T21:05:12+00:00",
+      "summary": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock AOL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYk9zWkpRaDhqTmVQejRnckhqdU9DRTBFNTdTUmhKallNekJ2cGo1SWlWNlhSdXN6ZXFtdUoyRTJ2S1ZrVGZFc05jdUkzTzRfaU1XOFlOMHRxWlJYQzVZZWl2ZmN3bll1dXZPMXgtb3lZMGtYdm00ZEVDTEQ2MEctRUkxY3lHa1JuSTZj?oc=5\" target=\"_blank\">Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T17:42:52+00:00"
     },
     {
       "id": "7198fe0da229f816",

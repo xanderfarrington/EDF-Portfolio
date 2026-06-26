@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T14:12:06+00:00",
+  "last_updated": "2026-06-26T17:43:08+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 83,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "8ca3c0f006ad3e06",
         "title": "Alabama Power Shares Energy-Saving Tips - Wiregrass Daily News",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 51,
+      "count": 53,
       "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "6d666d8d6dbe72a0",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 117,
-      "new_mentions_this_run": 18,
+      "count": 119,
+      "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "75d83cfd1003f6a5",
-        "title": "Georgia Power continues to offer options to connect customers to solar - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbEp1d25LSnc0UUZIbVlKY2ZLYkU5ampvVlBqT1ZES3hCb054VjZTbFROUHgtNnp2RTRtaFB6ODhwZG1Ib1hZd0NUUERKQnFRMkh3NXRhNXRGWXJnU2huUUxSMFN2V0hxY3MySnF5aEpfU3QyS0g0SDdUV3lPMWxTZzItRVR4Q1hsckx2dkV5MHFhMEpsbVctN2luLW1XcEdZZmJ4QTQ4UFRnS18tLTRDRnlRLWxqR09iYi16a0VGcFV6MnZW?oc=5",
+        "id": "5ad1c5f45b87f5e3",
+        "title": "Georgia Power just lowered its fuel rate. So why are power bills still high? - WABE",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXBTd3N0WmE5WFlQRjNOOXpvcl93LV9QcHhNMEJwSFN5OVRHT0RRRFZ3OVdLdEtJdXlTSE4zYVlCbzU3SUEtRVBxZE5ZM2thT0RUb2g1RmlZV2tTYm9HSE0tODVGZUJ1V3c2NGcwejhVU2drUmVJSnA2RzdtMmhmSVFFYjZCM3lzMUZOU1NOQ0dfaDA0RUxSOVMzQTA?oc=5",
         "domain": "news.google.com",
-        "source": "PR Newswire",
+        "source": "WABE",
         "language": "English",
-        "published_at": "2026-06-25T18:30:00+00:00",
-        "summary": "Georgia Power continues to offer options to connect customers to solar PR Newswire",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNbEp1d25LSnc0UUZIbVlKY2ZLYkU5ampvVlBqT1ZES3hCb054VjZTbFROUHgtNnp2RTRtaFB6ODhwZG1Ib1hZd0NUUERKQnFRMkh3NXRhNXRGWXJnU2huUUxSMFN2V0hxY3MySnF5aEpfU3QyS0g0SDdUV3lPMWxTZzItRVR4Q1hsckx2dkV5MHFhMEpsbVctN2luLW1XcEdZZmJ4QTQ4UFRnS18tLTRDRnlRLWxqR09iYi16a0VGcFV6MnZW?oc=5\" target=\"_blank\">Georgia Power continues to offer options to connect customers to solar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "published_at": "2026-06-26T15:28:44+00:00",
+        "summary": "Georgia Power just lowered its fuel rate. So why are power bills still high? WABE",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXBTd3N0WmE5WFlQRjNOOXpvcl93LV9QcHhNMEJwSFN5OVRHT0RRRFZ3OVdLdEtJdXlTSE4zYVlCbzU3SUEtRVBxZE5ZM2thT0RUb2g1RmlZV2tTYm9HSE0tODVGZUJ1V3c2NGcwejhVU2drUmVJSnA2RzdtMmhmSVFFYjZCM3lzMUZOU1NOQ0dfaDA0RUxSOVMzQTA?oc=5\" target=\"_blank\">Georgia Power just lowered its fuel rate. So why are power bills still high?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-25T21:26:37+00:00"
+        "collected_at": "2026-06-26T17:42:58+00:00"
       }
     },
     {
