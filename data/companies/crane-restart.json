@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-06-26T07:44:55+00:00",
+  "last_updated": "2026-06-26T10:46:26+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 50,
+  "count": 51,
   "mentions": [
+    {
+      "id": "6d666d8d6dbe72a0",
+      "title": "Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said - TribLIVE.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8telZmLUZ1LThPX3RsQzVIbzRRMC1rVFFLU0Z4UzN4X0VQaXFWUzQ2eVV5bnVRaEM2UXRGa0h5aDUyWTlNWHlqZ1dPenM2c0RGUEVZZW13?oc=5",
+      "domain": "news.google.com",
+      "source": "TribLIVE.com",
+      "language": "English",
+      "published_at": "2026-06-26T03:44:41+00:00",
+      "summary": "Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said TribLIVE.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE8telZmLUZ1LThPX3RsQzVIbzRRMC1rVFFLU0Z4UzN4X0VQaXFWUzQ2eVV5bnVRaEM2UXRGa0h5aDUyWTlNWHlqZ1dPenM2c0RGUEVZZW13?oc=5\" target=\"_blank\">Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TribLIVE.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-26T10:46:26+00:00"
+    },
     {
       "id": "0399ede822d1c662",
       "title": "Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said. - PennLive.com",
