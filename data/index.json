@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T17:04:05+00:00",
+  "last_updated": "2026-06-27T19:11:25+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 84,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "8ca3c0f006ad3e06",
         "title": "Alabama Power Shares Energy-Saving Tips - Wiregrass Daily News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 121,
-      "new_mentions_this_run": 24,
+      "count": 122,
+      "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "b09c9cdb7d5977c2",
-        "title": "Energy group praises bill curbing EPA regulatory 'abuses' - The Center Square",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWtxa01DLURrX2t0eENROEJxNmQ0LVQ0N2FxajQ3dk9fSFJHTDlDdXBFcXl1eVVnRFYxVEpST210TzI5c05EczVuVm9qRVZtMy1JV1A5N3dsQ1dZOHV0QzZQbjBUWnlSb0dUNmdIdHNzb3VLNnJfdEpyX3p5R3Z5LTN6b2ZyM1l6V3RrSlZUaE5NWDJj0gGaAUFVX3lxTE9sVUR6dkpXdXV0aXIzVnlkeHdyRmR4MXQwODNHQ1BOV2pkWUJGZXoxRDNhVXlCWHFoVnp2akk5RnNjeEhiamJfZE4zQUhNUkE0SDAwOHRwVVNsV1dGQ2ZzQ2g1QVVmdGl6U2FHaFo1TjBrUUw4cFNjMDAxam1EQ0ZTUzJaZTA0ZzVKOWlwdkxtcFZNUTVoWkZXOXc?oc=5",
+        "id": "3849b529ed26f133",
+        "title": "Georgia Power has a massive plan for new power lines - Now Georgia",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTVNRDJxVmlKWG5VeGZ6aXFQVzFmUUVRdUZPWG1RSmNVMTE0aEZfZ3U1c0xtVmk5R1ZpZFBSLWszSXZtXzBkMWF6VFhCcldpeXUxTUZ1OUdVUlg4eC1JZ3hQZURXbV95T3pLSFlwRkdzLXZ0TTZoLTNiencxb3JUOTZB?oc=5",
         "domain": "news.google.com",
-        "source": "The Center Square",
+        "source": "Now Georgia",
         "language": "English",
-        "published_at": "2026-06-27T13:01:00+00:00",
-        "summary": "Energy group praises bill curbing EPA regulatory 'abuses' The Center Square",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWtxa01DLURrX2t0eENROEJxNmQ0LVQ0N2FxajQ3dk9fSFJHTDlDdXBFcXl1eVVnRFYxVEpST210TzI5c05EczVuVm9qRVZtMy1JV1A5N3dsQ1dZOHV0QzZQbjBUWnlSb0dUNmdIdHNzb3VLNnJfdEpyX3p5R3Z5LTN6b2ZyM1l6V3RrSlZUaE5NWDJj0gGaAUFVX3lxTE9sVUR6dkpXdXV0aXIzVnlkeHdyRmR4MXQwODNHQ1BOV2pkWUJGZXoxRDNhVXlCWHFoVnp2akk5RnNjeEhiamJfZE4zQUhNUkE0SDAwOHRwVVNsV1dGQ2ZzQ2g1QVVmdGl6U2FHaFo1TjBrUUw4cFNjMDAxam1EQ0ZTUzJaZTA0ZzVKOWlwdkxtcFZNUTVoWkZXOXc?oc=5\" target=\"_blank\">Energy group praises bill curbing EPA regulatory 'abuses'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Center Square</font>",
+        "published_at": "2026-06-27T17:30:48+00:00",
+        "summary": "Georgia Power has a massive plan for new power lines Now Georgia",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTVNRDJxVmlKWG5VeGZ6aXFQVzFmUUVRdUZPWG1RSmNVMTE0aEZfZ3U1c0xtVmk5R1ZpZFBSLWszSXZtXzBkMWF6VFhCcldpeXUxTUZ1OUdVUlg4eC1JZ3hQZURXbV95T3pLSFlwRkdzLXZ0TTZoLTNiencxb3JUOTZB?oc=5\" target=\"_blank\">Georgia Power has a massive plan for new power lines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Now Georgia</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-27T17:03:54+00:00"
+        "collected_at": "2026-06-27T19:11:15+00:00"
       }
     },
     {
