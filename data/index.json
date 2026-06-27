@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-27T06:49:27+00:00",
+  "last_updated": "2026-06-27T09:59:49+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 33,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "9d251408e4da7385",
         "title": "American Electric Power's BOLD line targets bigger power moves on Tuesday - AD HOC NEWS",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 53,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "6d666d8d6dbe72a0",
         "title": "Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said - TribLIVE.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 120,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "5ad1c5f45b87f5e3",
         "title": "Georgia Power just lowered its fuel rate. So why are power bills still high? - WABE",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 12,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "4ffea21237e73894",
         "title": "US allocates $17.5bn for nuclear supply chain development - Enlit World",
