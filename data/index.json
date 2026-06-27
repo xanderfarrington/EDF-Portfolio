@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T13:20:33+00:00",
+  "last_updated": "2026-06-27T15:12:35+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 84,
-      "new_mentions_this_run": 15,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "8ca3c0f006ad3e06",
         "title": "Alabama Power Shares Energy-Saving Tips - Wiregrass Daily News",
@@ -47,8 +47,8 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 17,
-      "new_mentions_this_run": 8,
+      "count": 18,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "dd2bcc94d02a3333",
         "title": "North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More - TaiyangNews",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 53,
-      "new_mentions_this_run": 17,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "6d666d8d6dbe72a0",
         "title": "Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said - TribLIVE.com",

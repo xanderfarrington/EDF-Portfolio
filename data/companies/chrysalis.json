@@ -2,9 +2,9 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-06-27T13:20:11+00:00",
+  "last_updated": "2026-06-27T15:12:13+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 17,
+  "count": 18,
   "mentions": [
     {
       "id": "dd2bcc94d02a3333",
@@ -131,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-20T23:01:57+00:00"
+    },
+    {
+      "id": "924d8966f0afd39b",
+      "title": "Morrison-backed Chrysalis Renewables acquires two US solar projects through Hanwha partnership - HRL Morrison & Co.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWXYxM1I2bUs0WjBBRlZsODU4NUtaWE1LVkRhN0ZQbkdzb0NyX3dEck9BQ1lVSTR2UzdOdm9PaGFWamY1aWF3ZUk5UEhpLW9JUktNTVFRWGVPSzAxYmQzakRyX1pxaE9IdkpIWmREOG9VenRDenhWOG13TTF6U25aa0dyMWZFVmN4cVA5dE1HczBGZ1NGVUJnZUxDbWlQVFgtN2ZrRllHa21JRnE4bkVBUWhnenJxS2NDWkhXVVlMcFV1YXpnRXFBLUFnRUNHRGJHQkE?oc=5",
+      "domain": "news.google.com",
+      "source": "HRL Morrison & Co.",
+      "language": "English",
+      "published_at": "2026-06-17T17:24:17+00:00",
+      "summary": "Morrison-backed Chrysalis Renewables acquires two US solar projects through Hanwha partnership HRL Morrison & Co.",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWXYxM1I2bUs0WjBBRlZsODU4NUtaWE1LVkRhN0ZQbkdzb0NyX3dEck9BQ1lVSTR2UzdOdm9PaGFWamY1aWF3ZUk5UEhpLW9JUktNTVFRWGVPSzAxYmQzakRyX1pxaE9IdkpIWmREOG9VenRDenhWOG13TTF6U25aa0dyMWZFVmN4cVA5dE1HczBGZ1NGVUJnZUxDbWlQVFgtN2ZrRllHa21JRnE4bkVBUWhnenJxS2NDWkhXVVlMcFV1YXpnRXFBLUFnRUNHRGJHQkE?oc=5\" target=\"_blank\">Morrison-backed Chrysalis Renewables acquires two US solar projects through Hanwha partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HRL Morrison & Co.</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-27T15:12:13+00:00"
     },
     {
       "id": "7680bab6db49e1c7",
