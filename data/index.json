@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T23:01:10+00:00",
+  "last_updated": "2026-06-27T02:38:07+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 12,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "4ffea21237e73894",
         "title": "US allocates $17.5bn for nuclear supply chain development - Enlit World",
