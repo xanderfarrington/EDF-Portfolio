@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-27T15:12:24+00:00",
+  "last_updated": "2026-06-27T17:03:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 120,
+  "count": 121,
   "mentions": [
+    {
+      "id": "b09c9cdb7d5977c2",
+      "title": "Energy group praises bill curbing EPA regulatory 'abuses' - The Center Square",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWtxa01DLURrX2t0eENROEJxNmQ0LVQ0N2FxajQ3dk9fSFJHTDlDdXBFcXl1eVVnRFYxVEpST210TzI5c05EczVuVm9qRVZtMy1JV1A5N3dsQ1dZOHV0QzZQbjBUWnlSb0dUNmdIdHNzb3VLNnJfdEpyX3p5R3Z5LTN6b2ZyM1l6V3RrSlZUaE5NWDJj0gGaAUFVX3lxTE9sVUR6dkpXdXV0aXIzVnlkeHdyRmR4MXQwODNHQ1BOV2pkWUJGZXoxRDNhVXlCWHFoVnp2akk5RnNjeEhiamJfZE4zQUhNUkE0SDAwOHRwVVNsV1dGQ2ZzQ2g1QVVmdGl6U2FHaFo1TjBrUUw4cFNjMDAxam1EQ0ZTUzJaZTA0ZzVKOWlwdkxtcFZNUTVoWkZXOXc?oc=5",
+      "domain": "news.google.com",
+      "source": "The Center Square",
+      "language": "English",
+      "published_at": "2026-06-27T13:01:00+00:00",
+      "summary": "Energy group praises bill curbing EPA regulatory 'abuses' The Center Square",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWtxa01DLURrX2t0eENROEJxNmQ0LVQ0N2FxajQ3dk9fSFJHTDlDdXBFcXl1eVVnRFYxVEpST210TzI5c05EczVuVm9qRVZtMy1JV1A5N3dsQ1dZOHV0QzZQbjBUWnlSb0dUNmdIdHNzb3VLNnJfdEpyX3p5R3Z5LTN6b2ZyM1l6V3RrSlZUaE5NWDJj0gGaAUFVX3lxTE9sVUR6dkpXdXV0aXIzVnlkeHdyRmR4MXQwODNHQ1BOV2pkWUJGZXoxRDNhVXlCWHFoVnp2akk5RnNjeEhiamJfZE4zQUhNUkE0SDAwOHRwVVNsV1dGQ2ZzQ2g1QVVmdGl6U2FHaFo1TjBrUUw4cFNjMDAxam1EQ0ZTUzJaZTA0ZzVKOWlwdkxtcFZNUTVoWkZXOXc?oc=5\" target=\"_blank\">Energy group praises bill curbing EPA regulatory 'abuses'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Center Square</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-27T17:03:54+00:00"
+    },
     {
       "id": "5ad1c5f45b87f5e3",
       "title": "Georgia Power just lowered its fuel rate. So why are power bills still high? - WABE",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T15:12:35+00:00",
+  "last_updated": "2026-06-27T17:04:05+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 84,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "8ca3c0f006ad3e06",
         "title": "Alabama Power Shares Energy-Saving Tips - Wiregrass Daily News",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 18,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "dd2bcc94d02a3333",
         "title": "North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More - TaiyangNews",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 120,
-      "new_mentions_this_run": 20,
+      "count": 121,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "5ad1c5f45b87f5e3",
-        "title": "Georgia Power just lowered its fuel rate. So why are power bills still high? - WABE",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXBTd3N0WmE5WFlQRjNOOXpvcl93LV9QcHhNMEJwSFN5OVRHT0RRRFZ3OVdLdEtJdXlTSE4zYVlCbzU3SUEtRVBxZE5ZM2thT0RUb2g1RmlZV2tTYm9HSE0tODVGZUJ1V3c2NGcwejhVU2drUmVJSnA2RzdtMmhmSVFFYjZCM3lzMUZOU1NOQ0dfaDA0RUxSOVMzQTA?oc=5",
+        "id": "b09c9cdb7d5977c2",
+        "title": "Energy group praises bill curbing EPA regulatory 'abuses' - The Center Square",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWtxa01DLURrX2t0eENROEJxNmQ0LVQ0N2FxajQ3dk9fSFJHTDlDdXBFcXl1eVVnRFYxVEpST210TzI5c05EczVuVm9qRVZtMy1JV1A5N3dsQ1dZOHV0QzZQbjBUWnlSb0dUNmdIdHNzb3VLNnJfdEpyX3p5R3Z5LTN6b2ZyM1l6V3RrSlZUaE5NWDJj0gGaAUFVX3lxTE9sVUR6dkpXdXV0aXIzVnlkeHdyRmR4MXQwODNHQ1BOV2pkWUJGZXoxRDNhVXlCWHFoVnp2akk5RnNjeEhiamJfZE4zQUhNUkE0SDAwOHRwVVNsV1dGQ2ZzQ2g1QVVmdGl6U2FHaFo1TjBrUUw4cFNjMDAxam1EQ0ZTUzJaZTA0ZzVKOWlwdkxtcFZNUTVoWkZXOXc?oc=5",
         "domain": "news.google.com",
-        "source": "WABE",
+        "source": "The Center Square",
         "language": "English",
-        "published_at": "2026-06-26T15:28:44+00:00",
-        "summary": "Georgia Power just lowered its fuel rate. So why are power bills still high? WABE",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXBTd3N0WmE5WFlQRjNOOXpvcl93LV9QcHhNMEJwSFN5OVRHT0RRRFZ3OVdLdEtJdXlTSE4zYVlCbzU3SUEtRVBxZE5ZM2thT0RUb2g1RmlZV2tTYm9HSE0tODVGZUJ1V3c2NGcwejhVU2drUmVJSnA2RzdtMmhmSVFFYjZCM3lzMUZOU1NOQ0dfaDA0RUxSOVMzQTA?oc=5\" target=\"_blank\">Georgia Power just lowered its fuel rate. So why are power bills still high?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
+        "published_at": "2026-06-27T13:01:00+00:00",
+        "summary": "Energy group praises bill curbing EPA regulatory 'abuses' The Center Square",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWtxa01DLURrX2t0eENROEJxNmQ0LVQ0N2FxajQ3dk9fSFJHTDlDdXBFcXl1eVVnRFYxVEpST210TzI5c05EczVuVm9qRVZtMy1JV1A5N3dsQ1dZOHV0QzZQbjBUWnlSb0dUNmdIdHNzb3VLNnJfdEpyX3p5R3Z5LTN6b2ZyM1l6V3RrSlZUaE5NWDJj0gGaAUFVX3lxTE9sVUR6dkpXdXV0aXIzVnlkeHdyRmR4MXQwODNHQ1BOV2pkWUJGZXoxRDNhVXlCWHFoVnp2akk5RnNjeEhiamJfZE4zQUhNUkE0SDAwOHRwVVNsV1dGQ2ZzQ2g1QVVmdGl6U2FHaFo1TjBrUUw4cFNjMDAxam1EQ0ZTUzJaZTA0ZzVKOWlwdkxtcFZNUTVoWkZXOXc?oc=5\" target=\"_blank\">Energy group praises bill curbing EPA regulatory 'abuses'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Center Square</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-26T17:42:58+00:00"
+        "collected_at": "2026-06-27T17:03:54+00:00"
       }
     },
     {
