@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-27T02:37:40+00:00",
+  "last_updated": "2026-06-27T06:49:00+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 83,
+  "count": 84,
   "mentions": [
     {
       "id": "8ca3c0f006ad3e06",
@@ -718,6 +718,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:18+00:00"
+    },
+    {
+      "id": "213ad7fa6c534d93",
+      "title": "Alabama Power launched inaugural Grid Games Energy Hackathon for high schoolers - alabamanewscenter.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0R5cmVkc0ZrQWVGMHZITnl2bTZLVXFOdUZfRl94d2d6ZWhFTXg2YTZDem5STGJsejkxNDVXSDJzZWR1OFA3Skcxb3ZNT3d1TFRZcXRLZUFnUEhVM244NnRWX3NLWFhvdHZKVHhjbnRfR0JaTFhjZ1ktcXdfU1NlOE5OQ0poZkxfZWJPX1I5bnFKNHVMbUZveXB0S2JGcUNjU05TTUVuVDZyZ0FiczRDT0V1eGxNY01EWEpIdXhB?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamanewscenter.com",
+      "language": "English",
+      "published_at": "2026-06-09T13:53:13+00:00",
+      "summary": "Alabama Power launched inaugural Grid Games Energy Hackathon for high schoolers alabamanewscenter.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0R5cmVkc0ZrQWVGMHZITnl2bTZLVXFOdUZfRl94d2d6ZWhFTXg2YTZDem5STGJsejkxNDVXSDJzZWR1OFA3Skcxb3ZNT3d1TFRZcXRLZUFnUEhVM244NnRWX3NLWFhvdHZKVHhjbnRfR0JaTFhjZ1ktcXdfU1NlOE5OQ0poZkxfZWJPX1I5bnFKNHVMbUZveXB0S2JGcUNjU05TTUVuVDZyZ0FiczRDT0V1eGxNY01EWEpIdXhB?oc=5\" target=\"_blank\">Alabama Power launched inaugural Grid Games Energy Hackathon for high schoolers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamanewscenter.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-27T06:49:00+00:00"
     },
     {
       "id": "61906972ed024cf8",
