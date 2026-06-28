@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T19:10:47+00:00",
+  "last_updated": "2026-06-28T20:56:34+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 85,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 13,
       "latest_mention": {
         "id": "06cdcf00c9cecd16",
         "title": "6 On Your Side Investigates - Alabama Power Rates Bdm Banca (UPgeKGWh6L) - Fathom Journal",
