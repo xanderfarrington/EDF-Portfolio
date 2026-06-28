@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-28T13:24:45+00:00",
+  "last_updated": "2026-06-28T15:14:35+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 123,
+  "count": 125,
   "mentions": [
     {
       "id": "3849b529ed26f133",
@@ -91,6 +91,20 @@
       "collected_at": "2026-06-25T21:26:37+00:00"
     },
     {
+      "id": "6fd0b64fade2f78c",
+      "title": "Georgia Power continues to offer options to connect customers to solar - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMWg5eDcxWkxkeDdGQVNMaWZVS0JtVGdLUnFXOFd4T0dKa194WU5JamFQbjdlckVTd3VCRFQ1Uy1uTmdsbjFmQkU3Z0w0OHJNeXVjWVVfR3J2eGRQWlZ1T3d3YUtBb1pVcTZrcXZ5bWI3RlhLNnc3aS12cl9RcTNyZ1gycnVrVG1HalZlVTY0dw?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance UK",
+      "language": "English",
+      "published_at": "2026-06-25T18:30:00+00:00",
+      "summary": "Georgia Power continues to offer options to connect customers to solar Yahoo Finance UK",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPMWg5eDcxWkxkeDdGQVNMaWZVS0JtVGdLUnFXOFd4T0dKa194WU5JamFQbjdlckVTd3VCRFQ1Uy1uTmdsbjFmQkU3Z0w0OHJNeXVjWVVfR3J2eGRQWlZ1T3d3YUtBb1pVcTZrcXZ5bWI3RlhLNnc3aS12cl9RcTNyZ1gycnVrVG1HalZlVTY0dw?oc=5\" target=\"_blank\">Georgia Power continues to offer options to connect customers to solar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-28T15:14:35+00:00"
+    },
+    {
       "id": "65c06ee061decaab",
       "title": "Haynes Station neighbors press for data center answers - WRDW",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbjdXT05Dd3ZSSTBFRS1FWjR6SkNudWViR0NDS0FMQ2dLVTQzMnlEOVJBQ0o2Q0l3S3Z3bURyaUo2RW9WdFlWSHpGemdZR3FsRWlNclBPM25RM3BuR1JKU3RDWmR1cHVRUzVoX2otdjBCb0RNTzdjN1UtUERnX05KcWdfMzd2UEpwUVQzMHFzUEQ2U0U?oc=5",
@@ -173,6 +187,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-19T16:30:27+00:00"
+    },
+    {
+      "id": "3012b63e8b6ff5ac",
+      "title": "EP 93 Georgia Power Cambodia (9RAQYavKHJ) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YNDVZQTJ0N2tnMlFNWkxoN2N3WGxGaWlOZWU4dGdHNFAxMFRFdTBtbUYtSTlUa24ySmUwVTRQaHJHZGZITXRFeVl1b2ozLXBmN01oakZMYzl6cHdOWlBMSWVmTEU?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-19T00:01:22+00:00",
+      "summary": "EP 93 Georgia Power Cambodia (9RAQYavKHJ) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YNDVZQTJ0N2tnMlFNWkxoN2N3WGxGaWlOZWU4dGdHNFAxMFRFdTBtbUYtSTlUa24ySmUwVTRQaHJHZGZITXRFeVl1b2ozLXBmN01oakZMYzl6cHdOWlBMSWVmTEU?oc=5\" target=\"_blank\">EP 93 Georgia Power Cambodia (9RAQYavKHJ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-28T15:14:35+00:00"
     },
     {
       "id": "a9299f728b305bbd",
