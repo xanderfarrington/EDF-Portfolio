@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T15:14:46+00:00",
+  "last_updated": "2026-06-28T17:03:32+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 84,
-      "new_mentions_this_run": 15,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "8ca3c0f006ad3e06",
         "title": "Alabama Power Shares Energy-Saving Tips - Wiregrass Daily News",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 125,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "3849b529ed26f133",
         "title": "Georgia Power has a massive plan for new power lines - Now Georgia",
