@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T17:03:32+00:00",
+  "last_updated": "2026-06-28T19:10:47+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 84,
-      "new_mentions_this_run": 20,
+      "count": 85,
+      "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "8ca3c0f006ad3e06",
-        "title": "Alabama Power Shares Energy-Saving Tips - Wiregrass Daily News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVRNZkNDU1ZqUEhqbXZVY2dtYXVubFRFajFuS19pOHpVb3A4OG9wbFhEYUhtQlJBZXpvWWlOTlEzRkZrSWRWTFNRQjdGZjRyRUpxN09aVHRseTVfWjJKV01qZm5ZZmdXZ1ptUm1xZnd6d0R2Q2pYNExwV0lyWmNFS2hPTXkzYlp3ZG5HMlU3YWtmZldrY0c1N0tBWHE?oc=5",
+        "id": "06cdcf00c9cecd16",
+        "title": "6 On Your Side Investigates - Alabama Power Rates Bdm Banca (UPgeKGWh6L) - Fathom Journal",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96dEdlY2MwSFZZVmMtR1VwcTQ1TDVsbHppalZFYXBXLTNfVDJ0VE5OaGhtX1l4alNQbHpCamFJMDFoZ1J3T0E3WGNsZFZQY0FjdlRtX2lOSXlHWTNzbzBoQmxQdHU?oc=5",
         "domain": "news.google.com",
-        "source": "Wiregrass Daily News",
+        "source": "Fathom Journal",
         "language": "English",
-        "published_at": "2026-06-25T17:09:49+00:00",
-        "summary": "Alabama Power Shares Energy-Saving Tips Wiregrass Daily News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVRNZkNDU1ZqUEhqbXZVY2dtYXVubFRFajFuS19pOHpVb3A4OG9wbFhEYUhtQlJBZXpvWWlOTlEzRkZrSWRWTFNRQjdGZjRyRUpxN09aVHRseTVfWjJKV01qZm5ZZmdXZ1ptUm1xZnd6d0R2Q2pYNExwV0lyWmNFS2hPTXkzYlp3ZG5HMlU3YWtmZldrY0c1N0tBWHE?oc=5\" target=\"_blank\">Alabama Power Shares Energy-Saving Tips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiregrass Daily News</font>",
+        "published_at": "2026-06-28T16:02:15+00:00",
+        "summary": "6 On Your Side Investigates - Alabama Power Rates Bdm Banca (UPgeKGWh6L) Fathom Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE96dEdlY2MwSFZZVmMtR1VwcTQ1TDVsbHppalZFYXBXLTNfVDJ0VE5OaGhtX1l4alNQbHpCamFJMDFoZ1J3T0E3WGNsZFZQY0FjdlRtX2lOSXlHWTNzbzBoQmxQdHU?oc=5\" target=\"_blank\">6 On Your Side Investigates - Alabama Power Rates Bdm Banca (UPgeKGWh6L)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-25T18:05:48+00:00"
+        "collected_at": "2026-06-28T19:10:20+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 19,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "dd2bcc94d02a3333",
         "title": "North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More - TaiyangNews",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 125,
-      "new_mentions_this_run": 17,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "3849b529ed26f133",
         "title": "Georgia Power has a massive plan for new power lines - Now Georgia",

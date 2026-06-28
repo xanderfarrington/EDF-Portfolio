@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-28T17:03:05+00:00",
+  "last_updated": "2026-06-28T19:10:20+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 84,
+  "count": 85,
   "mentions": [
+    {
+      "id": "06cdcf00c9cecd16",
+      "title": "6 On Your Side Investigates - Alabama Power Rates Bdm Banca (UPgeKGWh6L) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96dEdlY2MwSFZZVmMtR1VwcTQ1TDVsbHppalZFYXBXLTNfVDJ0VE5OaGhtX1l4alNQbHpCamFJMDFoZ1J3T0E3WGNsZFZQY0FjdlRtX2lOSXlHWTNzbzBoQmxQdHU?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-28T16:02:15+00:00",
+      "summary": "6 On Your Side Investigates - Alabama Power Rates Bdm Banca (UPgeKGWh6L) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE96dEdlY2MwSFZZVmMtR1VwcTQ1TDVsbHppalZFYXBXLTNfVDJ0VE5OaGhtX1l4alNQbHpCamFJMDFoZ1J3T0E3WGNsZFZQY0FjdlRtX2lOSXlHWTNzbzBoQmxQdHU?oc=5\" target=\"_blank\">6 On Your Side Investigates - Alabama Power Rates Bdm Banca (UPgeKGWh6L)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-28T19:10:20+00:00"
+    },
     {
       "id": "8ca3c0f006ad3e06",
       "title": "Alabama Power Shares Energy-Saving Tips - Wiregrass Daily News",
