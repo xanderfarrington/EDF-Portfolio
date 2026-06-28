@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T20:56:34+00:00",
+  "last_updated": "2026-06-28T22:58:34+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 85,
-      "new_mentions_this_run": 13,
+      "count": 87,
+      "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "06cdcf00c9cecd16",
-        "title": "6 On Your Side Investigates - Alabama Power Rates Bdm Banca (UPgeKGWh6L) - Fathom Journal",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96dEdlY2MwSFZZVmMtR1VwcTQ1TDVsbHppalZFYXBXLTNfVDJ0VE5OaGhtX1l4alNQbHpCamFJMDFoZ1J3T0E3WGNsZFZQY0FjdlRtX2lOSXlHWTNzbzBoQmxQdHU?oc=5",
+        "id": "f7c24914fc78bda4",
+        "title": "Alabama Power Holds Coal Ash Meeting Feyenoord - Az (tN4WElUGOo) - Fathom Journal",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSDN6N1ZMN3BXdjMyYmt3ZE9vM2VPNTBEXzZxaTVQYkl5ZjhVY21sMEdZZzBiUVN0Tm9UU2xfd2p5WEI3RFVXWE02S3FQSVJKLU1OY08wenlEQldlTGdQZFBJNU8?oc=5",
         "domain": "news.google.com",
         "source": "Fathom Journal",
         "language": "English",
-        "published_at": "2026-06-28T16:02:15+00:00",
-        "summary": "6 On Your Side Investigates - Alabama Power Rates Bdm Banca (UPgeKGWh6L) Fathom Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE96dEdlY2MwSFZZVmMtR1VwcTQ1TDVsbHppalZFYXBXLTNfVDJ0VE5OaGhtX1l4alNQbHpCamFJMDFoZ1J3T0E3WGNsZFZQY0FjdlRtX2lOSXlHWTNzbzBoQmxQdHU?oc=5\" target=\"_blank\">6 On Your Side Investigates - Alabama Power Rates Bdm Banca (UPgeKGWh6L)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+        "published_at": "2026-06-28T20:33:10+00:00",
+        "summary": "Alabama Power Holds Coal Ash Meeting Feyenoord - Az (tN4WElUGOo) Fathom Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSDN6N1ZMN3BXdjMyYmt3ZE9vM2VPNTBEXzZxaTVQYkl5ZjhVY21sMEdZZzBiUVN0Tm9UU2xfd2p5WEI3RFVXWE02S3FQSVJKLU1OY08wenlEQldlTGdQZFBJNU8?oc=5\" target=\"_blank\">Alabama Power Holds Coal Ash Meeting Feyenoord - Az (tN4WElUGOo)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-28T19:10:20+00:00"
+        "collected_at": "2026-06-28T22:58:07+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 16,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "0e29696ae8739b1d",
         "title": "U.S. announces $17.5 bln in loans to accelerate 10 new nuclear reactors - 煤炭资源网",
