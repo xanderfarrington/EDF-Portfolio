@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-06-28T10:23:30+00:00",
+  "last_updated": "2026-06-28T13:24:50+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 12,
+  "count": 16,
   "mentions": [
+    {
+      "id": "0e29696ae8739b1d",
+      "title": "U.S. announces $17.5 bln in loans to accelerate 10 new nuclear reactors - 煤炭资源网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kWDZhRE5hazZaUFZndlZtTnM5S2hCZDY0REZKY3luWGJCcHRRaE8tVEFYMHlJX3c5UnQ5cDNvR1NvV1RNdU1VZjY2cURfYVZCSWE0Ti03RXhzVWROY3FqXzk5Uk5vTWxh?oc=5",
+      "domain": "news.google.com",
+      "source": "煤炭资源网",
+      "language": "English",
+      "published_at": "2026-06-26T14:15:23+00:00",
+      "summary": "U.S. announces $17.5 bln in loans to accelerate 10 new nuclear reactors 煤炭资源网",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kWDZhRE5hazZaUFZndlZtTnM5S2hCZDY0REZKY3luWGJCcHRRaE8tVEFYMHlJX3c5UnQ5cDNvR1NvV1RNdU1VZjY2cURfYVZCSWE0Ti03RXhzVWROY3FqXzk5Uk5vTWxh?oc=5\" target=\"_blank\">U.S. announces $17.5 bln in loans to accelerate 10 new nuclear reactors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">煤炭资源网</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-28T13:24:50+00:00"
+    },
     {
       "id": "4ffea21237e73894",
       "title": "US allocates $17.5bn for nuclear supply chain development - Enlit World",
@@ -21,6 +35,34 @@
       "collected_at": "2026-06-25T14:12:56+00:00"
     },
     {
+      "id": "31fc6328f8b06dfe",
+      "title": "US announces $17.5 billion in loans for nuclear power supply chain - WTVB",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSGxIZmszSkNRbGJyVjBmemFIb05ldTdMUDZkeHhsdzRvVENjWmNVR0dWeFVDYUZidmF4Tl9LZkplUzdITFNFeE02eEVRV0tqcXpOR2QwMzhjREQ0RFlzb2MwSUsyRDUxLVRkS3JpcThCR01JblNFY3lUTzRXWlZVXzhGUWdTTGhpRmozWGZnNFp4aUVYay1VTXhKMA?oc=5",
+      "domain": "news.google.com",
+      "source": "WTVB",
+      "language": "English",
+      "published_at": "2026-06-24T09:12:15+00:00",
+      "summary": "US announces $17.5 billion in loans for nuclear power supply chain WTVB",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNSGxIZmszSkNRbGJyVjBmemFIb05ldTdMUDZkeHhsdzRvVENjWmNVR0dWeFVDYUZidmF4Tl9LZkplUzdITFNFeE02eEVRV0tqcXpOR2QwMzhjREQ0RFlzb2MwSUsyRDUxLVRkS3JpcThCR01JblNFY3lUTzRXWlZVXzhGUWdTTGhpRmozWGZnNFp4aUVYay1VTXhKMA?oc=5\" target=\"_blank\">US announces $17.5 billion in loans for nuclear power supply chain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVB</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-28T13:24:50+00:00"
+    },
+    {
+      "id": "55be1d8f132f3012",
+      "title": "LPO Announces Memorandum of Understanding With NYSERDA on Energy Project Cooperation - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN21xQW1NbEpFTlhEeWZNX0R5NHVncVRxanJBWDdBQzA5Y3RRV1I4TzR0MU5xRl9OMG90STVwd3lybzZxd0NGNGNNQnlwNEJUd01SZTVZRWxjQlNQZzdFTGtnM1pXMFFNbnpQYS1PdFdLU3NvdW9MRkJNZGx1dWo5OFVqclVmQkhlQ0QxVFAySXowWUFuR282WDdfYVhsZ3AzWW4xLUs2WGVqdTZIOUE?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-06-17T20:44:54+00:00",
+      "summary": "LPO Announces Memorandum of Understanding With NYSERDA on Energy Project Cooperation Department of Energy (.gov)",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQN21xQW1NbEpFTlhEeWZNX0R5NHVncVRxanJBWDdBQzA5Y3RRV1I4TzR0MU5xRl9OMG90STVwd3lybzZxd0NGNGNNQnlwNEJUd01SZTVZRWxjQlNQZzdFTGtnM1pXMFFNbnpQYS1PdFdLU3NvdW9MRkJNZGx1dWo5OFVqclVmQkhlQ0QxVFAySXowWUFuR282WDdfYVhsZ3AzWW4xLUs2WGVqdTZIOUE?oc=5\" target=\"_blank\">LPO Announces Memorandum of Understanding With NYSERDA on Energy Project Cooperation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-28T13:24:50+00:00"
+    },
+    {
       "id": "eb2b0cdfdcf01bb2",
       "title": "DTE Energy gets $1.6B federal loan for gas upgrades in Michigan - MSN",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazRVQmRHSTVZdTlTWGw5dVVSWURrbzE1cTV4S1ZHZ1JrcDlCUFVwSVJnRkdyV3I4elczeHp6ekFsVFFyTEhPTTg2OGhJczFCM05ZWng0QXlIWlM5NmxPVHpYNVk2bElGLXpwdFBua3FadFR3dEExSVVkNWJPcVZFR1dma1BLX2E2MmNPdk1MTTZSN1VHU1pObEJ1V1lvVnZHYlN3RUx5VnRLbDZWQmVweEloaw?oc=5",
@@ -33,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-23T02:41:28+00:00"
+    },
+    {
+      "id": "aa471ee16d4a9f63",
+      "title": "DOE finalizes $1.6B loan to DTE Energy for Michigan gas infrastructure upgrades - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNVFg3cDQtc1dmcXBoNTJiSVJHb1RyVENjaWV2NG9TRTExZUxTT25Ldnlvc01mU1RpWkU4T1BsWWFxelRUbVM0LUxUUFA0MDhjVHJvdlljWWc1TWsyaWRoVnE4eGtLM2tKYmNmZGZwZ2NKR3NpcjlIOC1ZQ1JXMjNZVUVmUzU5OUd1TVZydnVxNTVtSlg4SkY5a19PZVNkXzRQRnRpRHV4dXRxRm1BMFVLSVc4QUt5OVR3aWtOZjV2bHpSelRpaFBGWEhscjlqN1ZoVHZ1ekI3Rms3aEhsOFU1ejlKS3MwdGFjUFg3OS1jREhmTGFxUHhUT0NYbjY4dGh0X0lCSGV0d2dOM09XVS1rTjZzMjBXWHR1OGwwWTFUM19JcFlXRlgxd3dlTjBxLWVPeUVzMFlJUWE4MnpmQXZtTldCVmxXVFRiYnFvaVdWNzNFN2RNRU1LcDZvS0lYSnM?oc=5",
+      "domain": "news.google.com",
+      "source": "MSN",
+      "language": "English",
+      "published_at": "2026-06-16T02:51:43+00:00",
+      "summary": "DOE finalizes $1.6B loan to DTE Energy for Michigan gas infrastructure upgrades MSN",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wJBVV95cUxNVFg3cDQtc1dmcXBoNTJiSVJHb1RyVENjaWV2NG9TRTExZUxTT25Ldnlvc01mU1RpWkU4T1BsWWFxelRUbVM0LUxUUFA0MDhjVHJvdlljWWc1TWsyaWRoVnE4eGtLM2tKYmNmZGZwZ2NKR3NpcjlIOC1ZQ1JXMjNZVUVmUzU5OUd1TVZydnVxNTVtSlg4SkY5a19PZVNkXzRQRnRpRHV4dXRxRm1BMFVLSVc4QUt5OVR3aWtOZjV2bHpSelRpaFBGWEhscjlqN1ZoVHZ1ekI3Rms3aEhsOFU1ejlKS3MwdGFjUFg3OS1jREhmTGFxUHhUT0NYbjY4dGh0X0lCSGV0d2dOM09XVS1rTjZzMjBXWHR1OGwwWTFUM19JcFlXRlgxd3dlTjBxLWVPeUVzMFlJUWE4MnpmQXZtTldCVmxXVFRiYnFvaVdWNzNFN2RNRU1LcDZvS0lYSnM?oc=5\" target=\"_blank\">DOE finalizes $1.6B loan to DTE Energy for Michigan gas infrastructure upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-28T13:24:50+00:00"
     },
     {
       "id": "60be11be635412ab",

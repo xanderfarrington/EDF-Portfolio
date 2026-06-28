@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-28T10:23:25+00:00",
+  "last_updated": "2026-06-28T13:24:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 122,
+  "count": 123,
   "mentions": [
     {
       "id": "3849b529ed26f133",
@@ -647,6 +647,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T16:52:35+00:00"
+    },
+    {
+      "id": "b8c355b25952506d",
+      "title": "Family fights Georgia Power substation moving onto cattle farm - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNXzhMUTFvaWdLd3hJdEdjdG5EclN5M2N5T3FVamx0M20yeXhUbjJET1F5LU9fX2VrLVhnV1JmcmtWNGtQUTJmT3ZNX2RwLWduMW1YZVl0OHpKblR3cEZsVHJ2WmE1SmFUVk9FVEp5d1VkaC1ZLWoyeUU4SU1uWWVLM3FSeUd0ajc3Yy1td2Y0WGZadkw2eVQyeWo4VDZBQ3VIcm15N3hZenBTcGxsVUg2WmNwS3R6YnhIaDNfQjFfYzYxWkpWMXloeFU4SGplMjdrMnBFWTNKSQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WSB-TV",
+      "language": "English",
+      "published_at": "2026-06-03T22:59:03+00:00",
+      "summary": "Family fights Georgia Power substation moving onto cattle farm WSB-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNXzhMUTFvaWdLd3hJdEdjdG5EclN5M2N5T3FVamx0M20yeXhUbjJET1F5LU9fX2VrLVhnV1JmcmtWNGtQUTJmT3ZNX2RwLWduMW1YZVl0OHpKblR3cEZsVHJ2WmE1SmFUVk9FVEp5d1VkaC1ZLWoyeUU4SU1uWWVLM3FSeUd0ajc3Yy1td2Y0WGZadkw2eVQyeWo4VDZBQ3VIcm15N3hZenBTcGxsVUg2WmNwS3R6YnhIaDNfQjFfYzYxWkpWMXloeFU4SGplMjdrMnBFWTNKSQ?oc=5\" target=\"_blank\">Family fights Georgia Power substation moving onto cattle farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-28T13:24:45+00:00"
     },
     {
       "id": "6fd55d4fdd692bf3",

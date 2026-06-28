@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T10:23:35+00:00",
+  "last_updated": "2026-06-28T13:24:55+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 122,
+      "count": 123,
       "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "3849b529ed26f133",
@@ -110,21 +110,21 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 12,
-      "new_mentions_this_run": 3,
+      "count": 16,
+      "new_mentions_this_run": 5,
       "latest_mention": {
-        "id": "4ffea21237e73894",
-        "title": "US allocates $17.5bn for nuclear supply chain development - Enlit World",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0dubFVDdTlpaVYwVDR3V1ZWRFByYklJcVZuSy1xbDdJY3lKSC04dEpORnBROW1vWVdza3R1TlZjY19EcUhabHY3M0tvYlpFaE9GQWpLNGwtQ3dVdlB2eTBnQnJCbWJUZGJxOHkyb1cyeENXeTJGQThZdjUwdEx1UnhSSWRUQ1VVenhLejJ4U2w?oc=5",
+        "id": "0e29696ae8739b1d",
+        "title": "U.S. announces $17.5 bln in loans to accelerate 10 new nuclear reactors - 煤炭资源网",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kWDZhRE5hazZaUFZndlZtTnM5S2hCZDY0REZKY3luWGJCcHRRaE8tVEFYMHlJX3c5UnQ5cDNvR1NvV1RNdU1VZjY2cURfYVZCSWE0Ti03RXhzVWROY3FqXzk5Uk5vTWxh?oc=5",
         "domain": "news.google.com",
-        "source": "Enlit World",
+        "source": "煤炭资源网",
         "language": "English",
-        "published_at": "2026-06-25T06:00:33+00:00",
-        "summary": "US allocates $17.5bn for nuclear supply chain development Enlit World",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0dubFVDdTlpaVYwVDR3V1ZWRFByYklJcVZuSy1xbDdJY3lKSC04dEpORnBROW1vWVdza3R1TlZjY19EcUhabHY3M0tvYlpFaE9GQWpLNGwtQ3dVdlB2eTBnQnJCbWJUZGJxOHkyb1cyeENXeTJGQThZdjUwdEx1UnhSSWRUQ1VVenhLejJ4U2w?oc=5\" target=\"_blank\">US allocates $17.5bn for nuclear supply chain development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Enlit World</font>",
+        "published_at": "2026-06-26T14:15:23+00:00",
+        "summary": "U.S. announces $17.5 bln in loans to accelerate 10 new nuclear reactors 煤炭资源网",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kWDZhRE5hazZaUFZndlZtTnM5S2hCZDY0REZKY3luWGJCcHRRaE8tVEFYMHlJX3c5UnQ5cDNvR1NvV1RNdU1VZjY2cURfYVZCSWE0Ti03RXhzVWROY3FqXzk5Uk5vTWxh?oc=5\" target=\"_blank\">U.S. announces $17.5 bln in loans to accelerate 10 new nuclear reactors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">煤炭资源网</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-25T14:12:56+00:00"
+        "collected_at": "2026-06-28T13:24:50+00:00"
       }
     }
   ]
