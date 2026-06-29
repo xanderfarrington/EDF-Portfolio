@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T22:58:34+00:00",
+  "last_updated": "2026-06-29T02:52:34+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 53,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "6d666d8d6dbe72a0",
         "title": "Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said - TribLIVE.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 125,
-      "new_mentions_this_run": 18,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "3849b529ed26f133",
         "title": "Georgia Power has a massive plan for new power lines - Now Georgia",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 16,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "0e29696ae8739b1d",
         "title": "U.S. announces $17.5 bln in loans to accelerate 10 new nuclear reactors - 煤炭资源网",
