@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T08:53:45+00:00",
+  "last_updated": "2026-06-29T14:00:41+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 88,
-      "new_mentions_this_run": 20,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "80bc78ff2aaea7ff",
         "title": "How Alabama Power Is Preparing For Storms Ofcom (HdVXXhWoDi) - Fathom Journal",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 126,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "3849b529ed26f133",
         "title": "Georgia Power has a massive plan for new power lines - Now Georgia",
@@ -110,21 +110,21 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 16,
-      "new_mentions_this_run": 2,
+      "count": 17,
+      "new_mentions_this_run": 3,
       "latest_mention": {
-        "id": "0e29696ae8739b1d",
-        "title": "U.S. announces $17.5 bln in loans to accelerate 10 new nuclear reactors - 煤炭资源网",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kWDZhRE5hazZaUFZndlZtTnM5S2hCZDY0REZKY3luWGJCcHRRaE8tVEFYMHlJX3c5UnQ5cDNvR1NvV1RNdU1VZjY2cURfYVZCSWE0Ti03RXhzVWROY3FqXzk5Uk5vTWxh?oc=5",
+        "id": "c4e09c5445ba4505",
+        "title": "Jeffrey McClure - Department of Energy (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50UzlwaVF4YUdWdDVudldZekgxUlFfZm9LUnMtcnZqLUFxOVR1TXlTMkR2Q21PZFVuTG5JYmZ1dUpaMTBJdFdXZFFtUDdxT3BicjA2V3FDNEVOOWVEbFE?oc=5",
         "domain": "news.google.com",
-        "source": "煤炭资源网",
+        "source": "Department of Energy (.gov)",
         "language": "English",
-        "published_at": "2026-06-26T14:15:23+00:00",
-        "summary": "U.S. announces $17.5 bln in loans to accelerate 10 new nuclear reactors 煤炭资源网",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kWDZhRE5hazZaUFZndlZtTnM5S2hCZDY0REZKY3luWGJCcHRRaE8tVEFYMHlJX3c5UnQ5cDNvR1NvV1RNdU1VZjY2cURfYVZCSWE0Ti03RXhzVWROY3FqXzk5Uk5vTWxh?oc=5\" target=\"_blank\">U.S. announces $17.5 bln in loans to accelerate 10 new nuclear reactors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">煤炭资源网</font>",
+        "published_at": "2026-06-26T17:42:28+00:00",
+        "summary": "Jeffrey McClure Department of Energy (.gov)",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE50UzlwaVF4YUdWdDVudldZekgxUlFfZm9LUnMtcnZqLUFxOVR1TXlTMkR2Q21PZFVuTG5JYmZ1dUpaMTBJdFdXZFFtUDdxT3BicjA2V3FDNEVOOWVEbFE?oc=5\" target=\"_blank\">Jeffrey McClure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-28T13:24:50+00:00"
+        "collected_at": "2026-06-29T14:00:36+00:00"
       }
     }
   ]

@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-06-29T08:53:40+00:00",
+  "last_updated": "2026-06-29T14:00:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 16,
+  "count": 17,
   "mentions": [
+    {
+      "id": "c4e09c5445ba4505",
+      "title": "Jeffrey McClure - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50UzlwaVF4YUdWdDVudldZekgxUlFfZm9LUnMtcnZqLUFxOVR1TXlTMkR2Q21PZFVuTG5JYmZ1dUpaMTBJdFdXZFFtUDdxT3BicjA2V3FDNEVOOWVEbFE?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-06-26T17:42:28+00:00",
+      "summary": "Jeffrey McClure Department of Energy (.gov)",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE50UzlwaVF4YUdWdDVudldZekgxUlFfZm9LUnMtcnZqLUFxOVR1TXlTMkR2Q21PZFVuTG5JYmZ1dUpaMTBJdFdXZFFtUDdxT3BicjA2V3FDNEVOOWVEbFE?oc=5\" target=\"_blank\">Jeffrey McClure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-29T14:00:36+00:00"
+    },
     {
       "id": "0e29696ae8739b1d",
       "title": "U.S. announces $17.5 bln in loans to accelerate 10 new nuclear reactors - 煤炭资源网",
