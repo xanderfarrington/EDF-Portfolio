@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-29T16:56:18+00:00",
+  "last_updated": "2026-06-29T19:49:04+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 88,
+  "count": 89,
   "mentions": [
     {
       "id": "80bc78ff2aaea7ff",
@@ -509,6 +509,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-12T16:40:45+00:00"
+    },
+    {
+      "id": "0c222d8c09aaab57",
+      "title": "Alabama Power has designed a new tool to help customers find the right balance between comfort and savings. - wvtm",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSTdvS0xtUnVkYXRCT0x4T3lBdjVYZjU2ZmZsZTY0WE5tWFhQTEJ5ZGllRFBQMERYRkJZT3o4Z1RheFRIQ3ctWGtFblo4VkpDWnVGMElSUEtlUXRRVDQ5SDVNZVhONVM4NWtpdEk1QjhiOXJqSDdaVWd6Y1BkNTRVYzJlREdRQjFpVjVEWlQwQ0RFd0VaY28xcFdocEE1TWhzQXF3OFNBdWtTR0kyT0F6VFdsc0Y4T29WT0dUdkxtWUNDa0lwY3RWdE4wdFgzNnZwYktZYg?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm",
+      "language": "English",
+      "published_at": "2026-06-12T07:00:00+00:00",
+      "summary": "Alabama Power has designed a new tool to help customers find the right balance between comfort and savings. wvtm",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSTdvS0xtUnVkYXRCT0x4T3lBdjVYZjU2ZmZsZTY0WE5tWFhQTEJ5ZGllRFBQMERYRkJZT3o4Z1RheFRIQ3ctWGtFblo4VkpDWnVGMElSUEtlUXRRVDQ5SDVNZVhONVM4NWtpdEk1QjhiOXJqSDdaVWd6Y1BkNTRVYzJlREdRQjFpVjVEWlQwQ0RFd0VaY28xcFdocEE1TWhzQXF3OFNBdWtTR0kyT0F6VFdsc0Y4T29WT0dUdkxtWUNDa0lwY3RWdE4wdFgzNnZwYktZYg?oc=5\" target=\"_blank\">Alabama Power has designed a new tool to help customers find the right balance between comfort and savings.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-29T19:49:04+00:00"
     },
     {
       "id": "6c9941d1a054a342",
