@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-29T02:52:07+00:00",
+  "last_updated": "2026-06-29T08:53:18+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 87,
+  "count": 88,
   "mentions": [
+    {
+      "id": "80bc78ff2aaea7ff",
+      "title": "How Alabama Power Is Preparing For Storms Ofcom (HdVXXhWoDi) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83bHJNQmdVTUYweHNsRXgxd3FQUFFvUDA1RXdEZndDY1otenk1dmttRXlORUJTSm5GWHpCbWhnVmRMTDZTMmJubXJyZUZZTWpNX2pISzdWa0laNEJQOEJzX254OHI?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-29T05:32:07+00:00",
+      "summary": "How Alabama Power Is Preparing For Storms Ofcom (HdVXXhWoDi) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE83bHJNQmdVTUYweHNsRXgxd3FQUFFvUDA1RXdEZndDY1otenk1dmttRXlORUJTSm5GWHpCbWhnVmRMTDZTMmJubXJyZUZZTWpNX2pISzdWa0laNEJQOEJzX254OHI?oc=5\" target=\"_blank\">How Alabama Power Is Preparing For Storms Ofcom (HdVXXhWoDi)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-29T08:53:18+00:00"
+    },
     {
       "id": "f7c24914fc78bda4",
       "title": "Alabama Power Holds Coal Ash Meeting Feyenoord - Az (tN4WElUGOo) - Fathom Journal",

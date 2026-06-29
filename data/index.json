@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T02:52:34+00:00",
+  "last_updated": "2026-06-29T08:53:45+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 87,
+      "count": 88,
       "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "f7c24914fc78bda4",
-        "title": "Alabama Power Holds Coal Ash Meeting Feyenoord - Az (tN4WElUGOo) - Fathom Journal",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSDN6N1ZMN3BXdjMyYmt3ZE9vM2VPNTBEXzZxaTVQYkl5ZjhVY21sMEdZZzBiUVN0Tm9UU2xfd2p5WEI3RFVXWE02S3FQSVJKLU1OY08wenlEQldlTGdQZFBJNU8?oc=5",
+        "id": "80bc78ff2aaea7ff",
+        "title": "How Alabama Power Is Preparing For Storms Ofcom (HdVXXhWoDi) - Fathom Journal",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83bHJNQmdVTUYweHNsRXgxd3FQUFFvUDA1RXdEZndDY1otenk1dmttRXlORUJTSm5GWHpCbWhnVmRMTDZTMmJubXJyZUZZTWpNX2pISzdWa0laNEJQOEJzX254OHI?oc=5",
         "domain": "news.google.com",
         "source": "Fathom Journal",
         "language": "English",
-        "published_at": "2026-06-28T20:33:10+00:00",
-        "summary": "Alabama Power Holds Coal Ash Meeting Feyenoord - Az (tN4WElUGOo) Fathom Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSDN6N1ZMN3BXdjMyYmt3ZE9vM2VPNTBEXzZxaTVQYkl5ZjhVY21sMEdZZzBiUVN0Tm9UU2xfd2p5WEI3RFVXWE02S3FQSVJKLU1OY08wenlEQldlTGdQZFBJNU8?oc=5\" target=\"_blank\">Alabama Power Holds Coal Ash Meeting Feyenoord - Az (tN4WElUGOo)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+        "published_at": "2026-06-29T05:32:07+00:00",
+        "summary": "How Alabama Power Is Preparing For Storms Ofcom (HdVXXhWoDi) Fathom Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE83bHJNQmdVTUYweHNsRXgxd3FQUFFvUDA1RXdEZndDY1otenk1dmttRXlORUJTSm5GWHpCbWhnVmRMTDZTMmJubXJyZUZZTWpNX2pISzdWa0laNEJQOEJzX254OHI?oc=5\" target=\"_blank\">How Alabama Power Is Preparing For Storms Ofcom (HdVXXhWoDi)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-28T22:58:07+00:00"
+        "collected_at": "2026-06-29T08:53:18+00:00"
       }
     },
     {
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 125,
-      "new_mentions_this_run": 7,
+      "count": 126,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "3849b529ed26f133",
         "title": "Georgia Power has a massive plan for new power lines - Now Georgia",
