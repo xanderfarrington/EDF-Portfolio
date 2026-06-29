@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-29T14:00:31+00:00",
+  "last_updated": "2026-06-29T16:56:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 126,
+  "count": 128,
   "mentions": [
     {
       "id": "3849b529ed26f133",
@@ -103,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-28T15:14:35+00:00"
+    },
+    {
+      "id": "4e613d78ef10340b",
+      "title": "Georgia Power continues to offer options to connect customers to solar - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHRwT3pzSGcxc3lvSm1YYS1jTDFJVjNyTUpRX3ByNzZSNWU4S2loUDlnTVNoRVJVSk5pNFA2TjM5dHJtbHMtWU1aTkM2R1VpMkJQZlNuRDR3NkJWdnJQbngyWC1fUlF2WTRVTnQzQU5SNTJvX2xmYkwtN3JybDJlSEZnbDI2X3owZU5jNEtWVldJcU00NnEyVkxrbDBKdndFcHAzX1RfWWduUmxZaTFNMQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Barchart.com",
+      "language": "English",
+      "published_at": "2026-06-25T18:30:00+00:00",
+      "summary": "Georgia Power continues to offer options to connect customers to solar Barchart.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHRwT3pzSGcxc3lvSm1YYS1jTDFJVjNyTUpRX3ByNzZSNWU4S2loUDlnTVNoRVJVSk5pNFA2TjM5dHJtbHMtWU1aTkM2R1VpMkJQZlNuRDR3NkJWdnJQbngyWC1fUlF2WTRVTnQzQU5SNTJvX2xmYkwtN3JybDJlSEZnbDI2X3owZU5jNEtWVldJcU00NnEyVkxrbDBKdndFcHAzX1RfWWduUmxZaTFNMQ?oc=5\" target=\"_blank\">Georgia Power continues to offer options to connect customers to solar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-29T16:56:34+00:00"
     },
     {
       "id": "65c06ee061decaab",
@@ -509,6 +523,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-26T14:11:55+00:00"
+    },
+    {
+      "id": "dbce6016a532948a",
+      "title": "Power restored after outage on Bass Road affects over 1,000 customers, Georgia Power says - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM1lNYWh4SDM2S3RBMG9NRDA4TnpEcjc5M1M4RlV1M2hBN1FGMTRHaEhad1A1dC1Oc3NqT0tJcXgxWU5qcGZVN1hMSDFwbzV0cE5qMWNPVW43S2FrZkY4dk1rV3o1Yl9MTXlLYk9ROFRQWnZuVlJ5LXBDaHVqQTFrdTdWSmJzd0J1c1VFclZuOG5uZmYyQXpIcWFB?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-06-14T07:00:00+00:00",
+      "summary": "Power restored after outage on Bass Road affects over 1,000 customers, Georgia Power says Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPM1lNYWh4SDM2S3RBMG9NRDA4TnpEcjc5M1M4RlV1M2hBN1FGMTRHaEhad1A1dC1Oc3NqT0tJcXgxWU5qcGZVN1hMSDFwbzV0cE5qMWNPVW43S2FrZkY4dk1rV3o1Yl9MTXlLYk9ROFRQWnZuVlJ5LXBDaHVqQTFrdTdWSmJzd0J1c1VFclZuOG5uZmYyQXpIcWFB?oc=5\" target=\"_blank\">Power restored after outage on Bass Road affects over 1,000 customers, Georgia Power says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-29T16:56:34+00:00"
     },
     {
       "id": "fb4425d483d4cd36",

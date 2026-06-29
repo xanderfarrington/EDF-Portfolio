@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T14:00:41+00:00",
+  "last_updated": "2026-06-29T16:56:45+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 88,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "80bc78ff2aaea7ff",
         "title": "How Alabama Power Is Preparing For Storms Ofcom (HdVXXhWoDi) - Fathom Journal",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 126,
+      "count": 128,
       "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "3849b529ed26f133",
