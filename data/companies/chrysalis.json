@@ -2,10 +2,24 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-06-30T19:46:42+00:00",
+  "last_updated": "2026-06-30T21:23:47+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 19,
+  "count": 20,
   "mentions": [
+    {
+      "id": "2b2733d1b2f69c3b",
+      "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society -- ANS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5",
+      "domain": "news.google.com",
+      "source": "American Nuclear Society -- ANS",
+      "language": "English",
+      "published_at": "2026-06-30T13:35:18+00:00",
+      "summary": "Shine receives $263M conditional DOE loan to complete isotope facility American Nuclear Society -- ANS",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5\" target=\"_blank\">Shine receives $263M conditional DOE loan to complete isotope facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society -- ANS</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-30T21:23:47+00:00"
+    },
     {
       "id": "dd2bcc94d02a3333",
       "title": "North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More - TaiyangNews",

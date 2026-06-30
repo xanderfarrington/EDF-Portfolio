@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T19:47:04+00:00",
+  "last_updated": "2026-06-30T21:24:08+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -47,21 +47,21 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 19,
-      "new_mentions_this_run": 6,
+      "count": 20,
+      "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "dd2bcc94d02a3333",
-        "title": "North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More - TaiyangNews",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmtiMmhmM3lMTlUwcy1UUTF6ajZSSkRUc1ZtSDQwdER4TDlEYzRIU1ZEcWFTWi1uUFZrb0UyU3NhcUVMcUZ4VXkwZElRZzV4T01JQTZWd3JIbXJMbXg2eXpwZ0hPX0RXYXJSWWdCalItU2pFcU1DQjRsZTg3Y2RTbk5PVEdMcHpUeXfSAZcBQVVfeXFMUHpLTUFYcXJmYXhoTHdsYUtFd1R0YS10VmVRSGZxRS0wQjR2ZXlrempYNXU0SFAzdHdJUTRHWk9vclFoZDFwcTh5VVByc3Nvem83RzQ2Nkdaekh1X0UtSnR3TGxlaXNvTEJIUXRfOEV2Vy1Na1RhVTZOMVNkdHBYQzgwODJUdFZDYVBsaVBaZVJLTk5Rc1B0SQ?oc=5",
+        "id": "2b2733d1b2f69c3b",
+        "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society -- ANS",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5",
         "domain": "news.google.com",
-        "source": "TaiyangNews",
+        "source": "American Nuclear Society -- ANS",
         "language": "English",
-        "published_at": "2026-06-22T09:20:19+00:00",
-        "summary": "North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More TaiyangNews",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmtiMmhmM3lMTlUwcy1UUTF6ajZSSkRUc1ZtSDQwdER4TDlEYzRIU1ZEcWFTWi1uUFZrb0UyU3NhcUVMcUZ4VXkwZElRZzV4T01JQTZWd3JIbXJMbXg2eXpwZ0hPX0RXYXJSWWdCalItU2pFcU1DQjRsZTg3Y2RTbk5PVEdMcHpUeXfSAZcBQVVfeXFMUHpLTUFYcXJmYXhoTHdsYUtFd1R0YS10VmVRSGZxRS0wQjR2ZXlrempYNXU0SFAzdHdJUTRHWk9vclFoZDFwcTh5VVByc3Nvem83RzQ2Nkdaekh1X0UtSnR3TGxlaXNvTEJIUXRfOEV2Vy1Na1RhVTZOMVNkdHBYQzgwODJUdFZDYVBsaVBaZVJLTk5Rc1B0SQ?oc=5\" target=\"_blank\">North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TaiyangNews</font>",
+        "published_at": "2026-06-30T13:35:18+00:00",
+        "summary": "Shine receives $263M conditional DOE loan to complete isotope facility American Nuclear Society -- ANS",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5\" target=\"_blank\">Shine receives $263M conditional DOE loan to complete isotope facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society -- ANS</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-22T19:24:09+00:00"
+        "collected_at": "2026-06-30T21:23:47+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 131,
-      "new_mentions_this_run": 17,
+      "count": 132,
+      "new_mentions_this_run": 18,
       "latest_mention": {
-        "id": "bf52990740bc3e09",
-        "title": "Tips on how to lower your power bill amid CSRA’s summer heat - WRDW",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVEyWVFNZnM3b0I5Q2xSTTJjTDV1QmZPMFY5b0JLUUVTYWZvLXlDU05RdXFETGVNN1NkZUV3SklWQW9KWFZ1QnNnQzkyakpNRkhFOGt3cFdBRkpWdjlvUjZQVHdwTnhRSWxDSFBWeHV3MDJ0Mm9zLTZ5WTVKMzRveDhxU3o1MlA3SXJsd2dFY9IBowFBVV95cUxNU2p4bUV0OE9Iek5LVjdnbGJqNHR1VEFqYTFxU1lTejFRSVF2czk2b2FZOWQyMm5Idl9WTmgyYmlVejRDYi1LZnFlOFFMYzByOFFhWThpSnQzS3JwVlMxZ1JqYlNUMHJUdS1yb0lFT0QtVUVhT1ZsQ3AtaW93Q0ZXM2ZiaWZ4cUJPZkpKdFp3dEJ5NnpIZW1hUlJVdWszdmJxUWtR?oc=5",
+        "id": "7a03c4358a104b17",
+        "title": "Georgia Power begins grid upgrades in Savannah neighborhoods - WTOC",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS3g5ZjI3SFlOamRWZzMtcDlHNDhHV2VhUVM5R3RGVEdaOTNva29takRzZlZVbFlLVVphdjIxaTRXRVBOTGd1UElJQl83ZkNuVkY2Q1dEaFlKakVBem5HbzFrN2dYa1pXSjZ0bEdLNW51NzNLYWxlNFNJUEw4TW1KZTgxVFY1N0hpeUtUUGVSTDhjYWM1eE5ZSHhiWlFZTm1ienMxWnFYdWvSAagBQVVfeXFMUEt4OWYyN0hZTmpkVmczLXA5RzQ4R1dlYVFTOUd0RlRHWjkzb2tvbWpEc2ZWVWxZS1VaYXYyMWk0V0VQTkxndVBJSUJfN2ZDblZGNkNXRGhZSmpFQXpuR28xazdnWGtaV0o2dGxHSzVudTczS2FsZTRTSVBMOE1tSmU4MVRWNTdIaXlLVFBlUkw4Y2FjNXhOWUh4YlpRWU5tYnpzMVpxWHVr?oc=5",
         "domain": "news.google.com",
-        "source": "WRDW",
+        "source": "WTOC",
         "language": "English",
-        "published_at": "2026-06-30T18:29:00+00:00",
-        "summary": "Tips on how to lower your power bill amid CSRA’s summer heat WRDW",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVEyWVFNZnM3b0I5Q2xSTTJjTDV1QmZPMFY5b0JLUUVTYWZvLXlDU05RdXFETGVNN1NkZUV3SklWQW9KWFZ1QnNnQzkyakpNRkhFOGt3cFdBRkpWdjlvUjZQVHdwTnhRSWxDSFBWeHV3MDJ0Mm9zLTZ5WTVKMzRveDhxU3o1MlA3SXJsd2dFY9IBowFBVV95cUxNU2p4bUV0OE9Iek5LVjdnbGJqNHR1VEFqYTFxU1lTejFRSVF2czk2b2FZOWQyMm5Idl9WTmgyYmlVejRDYi1LZnFlOFFMYzByOFFhWThpSnQzS3JwVlMxZ1JqYlNUMHJUdS1yb0lFT0QtVUVhT1ZsQ3AtaW93Q0ZXM2ZiaWZ4cUJPZkpKdFp3dEJ5NnpIZW1hUlJVdWszdmJxUWtR?oc=5\" target=\"_blank\">Tips on how to lower your power bill amid CSRA’s summer heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+        "published_at": "2026-06-30T19:33:00+00:00",
+        "summary": "Georgia Power begins grid upgrades in Savannah neighborhoods WTOC",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS3g5ZjI3SFlOamRWZzMtcDlHNDhHV2VhUVM5R3RGVEdaOTNva29takRzZlZVbFlLVVphdjIxaTRXRVBOTGd1UElJQl83ZkNuVkY2Q1dEaFlKakVBem5HbzFrN2dYa1pXSjZ0bEdLNW51NzNLYWxlNFNJUEw4TW1KZTgxVFY1N0hpeUtUUGVSTDhjYWM1eE5ZSHhiWlFZTm1ienMxWnFYdWvSAagBQVVfeXFMUEt4OWYyN0hZTmpkVmczLXA5RzQ4R1dlYVFTOUd0RlRHWjkzb2tvbWpEc2ZWVWxZS1VaYXYyMWk0V0VQTkxndVBJSUJfN2ZDblZGNkNXRGhZSmpFQXpuR28xazdnWGtaV0o2dGxHSzVudTczS2FsZTRTSVBMOE1tSmU4MVRWNTdIaXlLVFBlUkw4Y2FjNXhOWUh4YlpRWU5tYnpzMVpxWHVr?oc=5\" target=\"_blank\">Georgia Power begins grid upgrades in Savannah neighborhoods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-30T19:46:53+00:00"
+        "collected_at": "2026-06-30T21:23:58+00:00"
       }
     },
     {
