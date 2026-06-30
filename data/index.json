@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T14:07:02+00:00",
+  "last_updated": "2026-06-30T17:49:18+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 91,
-      "new_mentions_this_run": 20,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "4692a11d2220da76",
         "title": "Alabama Power During Heat Advisory - WVUA 23",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 128,
-      "new_mentions_this_run": 21,
+      "count": 130,
+      "new_mentions_this_run": 17,
       "latest_mention": {
-        "id": "3849b529ed26f133",
-        "title": "Georgia Power has a massive plan for new power lines - Now Georgia",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTVNRDJxVmlKWG5VeGZ6aXFQVzFmUUVRdUZPWG1RSmNVMTE0aEZfZ3U1c0xtVmk5R1ZpZFBSLWszSXZtXzBkMWF6VFhCcldpeXUxTUZ1OUdVUlg4eC1JZ3hQZURXbV95T3pLSFlwRkdzLXZ0TTZoLTNiencxb3JUOTZB?oc=5",
+        "id": "3b8e36f0f8715e7c",
+        "title": "Georgia Power just lowered its fuel rate. So why are power bills still high? - thecurrentga.org",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMTZPR0V6cGh4X2ZFdFRQeG0xM0tOVm1kcmIwV2UxOUtRdV9Hb2NVTDJQQ1hZTjMyTUdhU1JFTkd0cTVTaVhSVEhUWGVnT2ZWUDZqdVY0YVZENHM2TTJRaHdaVHRYRTdEazNpSWtTYllDSFo5ZE1ncHdfZHJWVzhfMEx0OC01NnBzQjJjMkwybTlhNTNRMWhTQlIyc25WQ19EU3RlTEtzM19oMGZnVjJKcA?oc=5",
         "domain": "news.google.com",
-        "source": "Now Georgia",
+        "source": "thecurrentga.org",
         "language": "English",
-        "published_at": "2026-06-27T17:30:48+00:00",
-        "summary": "Georgia Power has a massive plan for new power lines Now Georgia",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTVNRDJxVmlKWG5VeGZ6aXFQVzFmUUVRdUZPWG1RSmNVMTE0aEZfZ3U1c0xtVmk5R1ZpZFBSLWszSXZtXzBkMWF6VFhCcldpeXUxTUZ1OUdVUlg4eC1JZ3hQZURXbV95T3pLSFlwRkdzLXZ0TTZoLTNiencxb3JUOTZB?oc=5\" target=\"_blank\">Georgia Power has a massive plan for new power lines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Now Georgia</font>",
+        "published_at": "2026-06-30T15:59:15+00:00",
+        "summary": "Georgia Power just lowered its fuel rate. So why are power bills still high? thecurrentga.org",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPMTZPR0V6cGh4X2ZFdFRQeG0xM0tOVm1kcmIwV2UxOUtRdV9Hb2NVTDJQQ1hZTjMyTUdhU1JFTkd0cTVTaVhSVEhUWGVnT2ZWUDZqdVY0YVZENHM2TTJRaHdaVHRYRTdEazNpSWtTYllDSFo5ZE1ncHdfZHJWVzhfMEx0OC01NnBzQjJjMkwybTlhNTNRMWhTQlIyc25WQ19EU3RlTEtzM19oMGZnVjJKcA?oc=5\" target=\"_blank\">Georgia Power just lowered its fuel rate. So why are power bills still high?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-27T19:11:15+00:00"
+        "collected_at": "2026-06-30T17:49:07+00:00"
       }
     },
     {
