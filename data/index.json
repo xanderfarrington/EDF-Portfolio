@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T07:47:32+00:00",
+  "last_updated": "2026-06-30T10:52:30+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 90,
-      "new_mentions_this_run": 20,
+      "count": 91,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "4692a11d2220da76",
         "title": "Alabama Power During Heat Advisory - WVUA 23",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 19,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "dd2bcc94d02a3333",
         "title": "North America Solar PV News Snippets: Origis Energy Raises $900M For Over 5 GW & More - TaiyangNews",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 53,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "6d666d8d6dbe72a0",
         "title": "Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said - TribLIVE.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 128,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "3849b529ed26f133",
         "title": "Georgia Power has a massive plan for new power lines - Now Georgia",

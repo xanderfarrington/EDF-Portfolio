@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-30T07:47:05+00:00",
+  "last_updated": "2026-06-30T10:52:03+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 90,
+  "count": 91,
   "mentions": [
     {
       "id": "4692a11d2220da76",
@@ -747,6 +747,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-11T13:55:14+00:00"
+    },
+    {
+      "id": "cba5e3fc8309a980",
+      "title": "Alabama Power Storm Preps Mike Schmitz (lpYVmFDrMS) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMLVJYSnl6QlFGaHFXdlF6VHBZV203Z2c1dlZEZ1hZNU9RS3NpM1FYVHFvZEZNd2ZrVkJnTW9hc1ZaV0s4dlpHeml4VHlyTEJBMDB2c25ZT1BxVXdBcWVDR3ZJV2M?oc=5",
+      "domain": "news.google.com",
+      "source": "Fathom Journal",
+      "language": "English",
+      "published_at": "2026-06-10T19:53:13+00:00",
+      "summary": "Alabama Power Storm Preps Mike Schmitz (lpYVmFDrMS) Fathom Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMLVJYSnl6QlFGaHFXdlF6VHBZV203Z2c1dlZEZ1hZNU9RS3NpM1FYVHFvZEZNd2ZrVkJnTW9hc1ZaV0s4dlpHeml4VHlyTEJBMDB2c25ZT1BxVXdBcWVDR3ZJV2M?oc=5\" target=\"_blank\">Alabama Power Storm Preps Mike Schmitz (lpYVmFDrMS)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-30T10:52:03+00:00"
     },
     {
       "id": "ae11a39638c589ef",
