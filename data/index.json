@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T21:24:08+00:00",
+  "last_updated": "2026-06-30T23:06:07+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 53,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "6d666d8d6dbe72a0",
         "title": "Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said - TribLIVE.com",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 132,
+      "count": 133,
       "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "7a03c4358a104b17",

@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-30T21:23:58+00:00",
+  "last_updated": "2026-06-30T23:05:57+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 132,
+  "count": 133,
   "mentions": [
     {
       "id": "7a03c4358a104b17",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-30T21:23:58+00:00"
+    },
+    {
+      "id": "5844b611a4fb2110",
+      "title": "Georgia Power begins grid upgrades in Savannah neighborhoods - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeEdiTFowNVFnM21vSk9lYUZrbDVQdlJNS29vMjJpZzdYVFUzYWZPTWFDcnh4U1R4bXdVRC1rVXRPNXZxZUEtTWg5UFllbUxScXdxU2xTel9HUnJ5bnJCelVJSGJqd19ieC1aMVBFeUJBaGxkeTJKR0tobHU3WEhCbjA2Ulc1TlBtR2txOWw0b3FJOFJj0gGoAUFVX3lxTFBLeDlmMjdIWU5qZFZnMy1wOUc0OEdXZWFRUzlHdEZUR1o5M29rb21qRHNmVlVsWUtVWmF2MjFpNFdFUE5MZ3VQSUlCXzdmQ25WRjZDV0RoWUpqRUF6bkdvMWs3Z1hrWldKNnRsR0s1bnU3M0thbGU0U0lQTDhNbUplODFUVjU3SGl5S1RQZVJMOGNhYzV4TllIeGJaUVlObWJ6czFacVh1aw?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-06-30T19:33:00+00:00",
+      "summary": "Georgia Power begins grid upgrades in Savannah neighborhoods WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNeEdiTFowNVFnM21vSk9lYUZrbDVQdlJNS29vMjJpZzdYVFUzYWZPTWFDcnh4U1R4bXdVRC1rVXRPNXZxZUEtTWg5UFllbUxScXdxU2xTel9HUnJ5bnJCelVJSGJqd19ieC1aMVBFeUJBaGxkeTJKR0tobHU3WEhCbjA2Ulc1TlBtR2txOWw0b3FJOFJj0gGoAUFVX3lxTFBLeDlmMjdIWU5qZFZnMy1wOUc0OEdXZWFRUzlHdEZUR1o5M29rb21qRHNmVlVsWUtVWmF2MjFpNFdFUE5MZ3VQSUlCXzdmQ25WRjZDV0RoWUpqRUF6bkdvMWs3Z1hrWldKNnRsR0s1bnU3M0thbGU0U0lQTDhNbUplODFUVjU3SGl5S1RQZVJMOGNhYzV4TllIeGJaUVlObWJ6czFacVh1aw?oc=5\" target=\"_blank\">Georgia Power begins grid upgrades in Savannah neighborhoods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-30T23:05:57+00:00"
     },
     {
       "id": "bf52990740bc3e09",
