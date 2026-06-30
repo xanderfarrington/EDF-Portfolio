@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-06-30T17:49:07+00:00",
+  "last_updated": "2026-06-30T19:46:53+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 130,
+  "count": 131,
   "mentions": [
+    {
+      "id": "bf52990740bc3e09",
+      "title": "Tips on how to lower your power bill amid CSRA’s summer heat - WRDW",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVEyWVFNZnM3b0I5Q2xSTTJjTDV1QmZPMFY5b0JLUUVTYWZvLXlDU05RdXFETGVNN1NkZUV3SklWQW9KWFZ1QnNnQzkyakpNRkhFOGt3cFdBRkpWdjlvUjZQVHdwTnhRSWxDSFBWeHV3MDJ0Mm9zLTZ5WTVKMzRveDhxU3o1MlA3SXJsd2dFY9IBowFBVV95cUxNU2p4bUV0OE9Iek5LVjdnbGJqNHR1VEFqYTFxU1lTejFRSVF2czk2b2FZOWQyMm5Idl9WTmgyYmlVejRDYi1LZnFlOFFMYzByOFFhWThpSnQzS3JwVlMxZ1JqYlNUMHJUdS1yb0lFT0QtVUVhT1ZsQ3AtaW93Q0ZXM2ZiaWZ4cUJPZkpKdFp3dEJ5NnpIZW1hUlJVdWszdmJxUWtR?oc=5",
+      "domain": "news.google.com",
+      "source": "WRDW",
+      "language": "English",
+      "published_at": "2026-06-30T18:29:00+00:00",
+      "summary": "Tips on how to lower your power bill amid CSRA’s summer heat WRDW",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVEyWVFNZnM3b0I5Q2xSTTJjTDV1QmZPMFY5b0JLUUVTYWZvLXlDU05RdXFETGVNN1NkZUV3SklWQW9KWFZ1QnNnQzkyakpNRkhFOGt3cFdBRkpWdjlvUjZQVHdwTnhRSWxDSFBWeHV3MDJ0Mm9zLTZ5WTVKMzRveDhxU3o1MlA3SXJsd2dFY9IBowFBVV95cUxNU2p4bUV0OE9Iek5LVjdnbGJqNHR1VEFqYTFxU1lTejFRSVF2czk2b2FZOWQyMm5Idl9WTmgyYmlVejRDYi1LZnFlOFFMYzByOFFhWThpSnQzS3JwVlMxZ1JqYlNUMHJUdS1yb0lFT0QtVUVhT1ZsQ3AtaW93Q0ZXM2ZiaWZ4cUJPZkpKdFp3dEJ5NnpIZW1hUlJVdWszdmJxUWtR?oc=5\" target=\"_blank\">Tips on how to lower your power bill amid CSRA’s summer heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-30T19:46:53+00:00"
+    },
     {
       "id": "3b8e36f0f8715e7c",
       "title": "Georgia Power just lowered its fuel rate. So why are power bills still high? - thecurrentga.org",

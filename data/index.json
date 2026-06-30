@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T17:49:18+00:00",
+  "last_updated": "2026-06-30T19:47:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 91,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "4692a11d2220da76",
         "title": "Alabama Power During Heat Advisory - WVUA 23",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 130,
+      "count": 131,
       "new_mentions_this_run": 17,
       "latest_mention": {
-        "id": "3b8e36f0f8715e7c",
-        "title": "Georgia Power just lowered its fuel rate. So why are power bills still high? - thecurrentga.org",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMTZPR0V6cGh4X2ZFdFRQeG0xM0tOVm1kcmIwV2UxOUtRdV9Hb2NVTDJQQ1hZTjMyTUdhU1JFTkd0cTVTaVhSVEhUWGVnT2ZWUDZqdVY0YVZENHM2TTJRaHdaVHRYRTdEazNpSWtTYllDSFo5ZE1ncHdfZHJWVzhfMEx0OC01NnBzQjJjMkwybTlhNTNRMWhTQlIyc25WQ19EU3RlTEtzM19oMGZnVjJKcA?oc=5",
+        "id": "bf52990740bc3e09",
+        "title": "Tips on how to lower your power bill amid CSRA’s summer heat - WRDW",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVEyWVFNZnM3b0I5Q2xSTTJjTDV1QmZPMFY5b0JLUUVTYWZvLXlDU05RdXFETGVNN1NkZUV3SklWQW9KWFZ1QnNnQzkyakpNRkhFOGt3cFdBRkpWdjlvUjZQVHdwTnhRSWxDSFBWeHV3MDJ0Mm9zLTZ5WTVKMzRveDhxU3o1MlA3SXJsd2dFY9IBowFBVV95cUxNU2p4bUV0OE9Iek5LVjdnbGJqNHR1VEFqYTFxU1lTejFRSVF2czk2b2FZOWQyMm5Idl9WTmgyYmlVejRDYi1LZnFlOFFMYzByOFFhWThpSnQzS3JwVlMxZ1JqYlNUMHJUdS1yb0lFT0QtVUVhT1ZsQ3AtaW93Q0ZXM2ZiaWZ4cUJPZkpKdFp3dEJ5NnpIZW1hUlJVdWszdmJxUWtR?oc=5",
         "domain": "news.google.com",
-        "source": "thecurrentga.org",
+        "source": "WRDW",
         "language": "English",
-        "published_at": "2026-06-30T15:59:15+00:00",
-        "summary": "Georgia Power just lowered its fuel rate. So why are power bills still high? thecurrentga.org",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPMTZPR0V6cGh4X2ZFdFRQeG0xM0tOVm1kcmIwV2UxOUtRdV9Hb2NVTDJQQ1hZTjMyTUdhU1JFTkd0cTVTaVhSVEhUWGVnT2ZWUDZqdVY0YVZENHM2TTJRaHdaVHRYRTdEazNpSWtTYllDSFo5ZE1ncHdfZHJWVzhfMEx0OC01NnBzQjJjMkwybTlhNTNRMWhTQlIyc25WQ19EU3RlTEtzM19oMGZnVjJKcA?oc=5\" target=\"_blank\">Georgia Power just lowered its fuel rate. So why are power bills still high?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
+        "published_at": "2026-06-30T18:29:00+00:00",
+        "summary": "Tips on how to lower your power bill amid CSRA’s summer heat WRDW",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVEyWVFNZnM3b0I5Q2xSTTJjTDV1QmZPMFY5b0JLUUVTYWZvLXlDU05RdXFETGVNN1NkZUV3SklWQW9KWFZ1QnNnQzkyakpNRkhFOGt3cFdBRkpWdjlvUjZQVHdwTnhRSWxDSFBWeHV3MDJ0Mm9zLTZ5WTVKMzRveDhxU3o1MlA3SXJsd2dFY9IBowFBVV95cUxNU2p4bUV0OE9Iek5LVjdnbGJqNHR1VEFqYTFxU1lTejFRSVF2czk2b2FZOWQyMm5Idl9WTmgyYmlVejRDYi1LZnFlOFFMYzByOFFhWThpSnQzS3JwVlMxZ1JqYlNUMHJUdS1yb0lFT0QtVUVhT1ZsQ3AtaW93Q0ZXM2ZiaWZ4cUJPZkpKdFp3dEJ5NnpIZW1hUlJVdWszdmJxUWtR?oc=5\" target=\"_blank\">Tips on how to lower your power bill amid CSRA’s summer heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-30T17:49:07+00:00"
+        "collected_at": "2026-06-30T19:46:53+00:00"
       }
     },
     {
