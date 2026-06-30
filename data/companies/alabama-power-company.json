@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-06-30T02:46:14+00:00",
+  "last_updated": "2026-06-30T07:47:05+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 89,
+  "count": 90,
   "mentions": [
+    {
+      "id": "4692a11d2220da76",
+      "title": "Alabama Power During Heat Advisory - WVUA 23",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWnVrNWVGcVE2TlB6WElxMWMwS0VtQUU3Z19iS3RYcFVPZ1BfbG1IdHpVcTN0LWZfdC1iZnZsR3M0NUJwZjJWOGs4SUlRVHZxbGFGbk80WE5nX2l3YU1DNGNld254ZV9TRllvYjFvbnJTYkoyZUF0Zmg3VnFvRkZuek5tMDBzNWVNOUZVRmZKdWhNckNPV1ZBaFdVekE1b2tLajFudzFwck5fUUJ0cGdOUFBlOGxYZ2t3NUVUTg?oc=5",
+      "domain": "news.google.com",
+      "source": "WVUA 23",
+      "language": "English",
+      "published_at": "2026-06-30T02:36:00+00:00",
+      "summary": "Alabama Power During Heat Advisory WVUA 23",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPWnVrNWVGcVE2TlB6WElxMWMwS0VtQUU3Z19iS3RYcFVPZ1BfbG1IdHpVcTN0LWZfdC1iZnZsR3M0NUJwZjJWOGs4SUlRVHZxbGFGbk80WE5nX2l3YU1DNGNld254ZV9TRllvYjFvbnJTYkoyZUF0Zmg3VnFvRkZuek5tMDBzNWVNOUZVRmZKdWhNckNPV1ZBaFdVekE1b2tLajFudzFwck5fUUJ0cGdOUFBlOGxYZ2t3NUVUTg?oc=5\" target=\"_blank\">Alabama Power During Heat Advisory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVUA 23</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-06-30T07:47:05+00:00"
+    },
     {
       "id": "80bc78ff2aaea7ff",
       "title": "How Alabama Power Is Preparing For Storms Ofcom (HdVXXhWoDi) - Fathom Journal",
