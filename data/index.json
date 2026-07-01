@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T16:22:04+00:00",
+  "last_updated": "2026-07-01T19:45:23+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 92,
-      "new_mentions_this_run": 15,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "900741f11769165c",
         "title": "Alabama Power - WVUA 23",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 21,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "2b2733d1b2f69c3b",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society -- ANS",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 135,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "199a097289fbcd8a",
         "title": "Georgia Power: Grid ready for AI, population growth - The Newnan Times-Herald",
