@@ -2,9 +2,9 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-07-01T12:30:02+00:00",
+  "last_updated": "2026-07-01T16:21:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 20,
+  "count": 21,
   "mentions": [
     {
       "id": "2b2733d1b2f69c3b",
@@ -159,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-20T23:01:57+00:00"
+    },
+    {
+      "id": "bce6a103eaa556a2",
+      "title": "Chrysalis Renewables Acquires 357 MW Solar Projects in US - Mercomindia.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQk5JMWk3UkNxaXBUdjdZNkh1VzNBNG4taTloTkhBazV5eWJUMWZrbHBZd1JHaHEwa3ptQlhCVXdzWjhDclRERVQ0cE5xRHFlaXpOeWdFN290SEktLU5qc3hqLXhaT191LTFxZDE1SnVXNVZxQ05DVmhkQ3UxRGNpdXFTVTE5RUk4S3hiWllB?oc=5",
+      "domain": "news.google.com",
+      "source": "Mercomindia.com",
+      "language": "English",
+      "published_at": "2026-06-18T07:00:00+00:00",
+      "summary": "Chrysalis Renewables Acquires 357 MW Solar Projects in US Mercomindia.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNQk5JMWk3UkNxaXBUdjdZNkh1VzNBNG4taTloTkhBazV5eWJUMWZrbHBZd1JHaHEwa3ptQlhCVXdzWjhDclRERVQ0cE5xRHFlaXpOeWdFN290SEktLU5qc3hqLXhaT191LTFxZDE1SnVXNVZxQ05DVmhkQ3UxRGNpdXFTVTE5RUk4S3hiWllB?oc=5\" target=\"_blank\">Chrysalis Renewables Acquires 357 MW Solar Projects in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mercomindia.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-01T16:21:42+00:00"
     },
     {
       "id": "924d8966f0afd39b",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T12:30:23+00:00",
+  "last_updated": "2026-07-01T16:22:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 92,
-      "new_mentions_this_run": 20,
+      "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "900741f11769165c",
         "title": "Alabama Power - WVUA 23",
@@ -47,8 +47,8 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 20,
-      "new_mentions_this_run": 5,
+      "count": 21,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "2b2733d1b2f69c3b",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society -- ANS",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 134,
-      "new_mentions_this_run": 19,
+      "count": 135,
+      "new_mentions_this_run": 16,
       "latest_mention": {
-        "id": "7a03c4358a104b17",
-        "title": "Georgia Power begins grid upgrades in Savannah neighborhoods - WTOC",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS3g5ZjI3SFlOamRWZzMtcDlHNDhHV2VhUVM5R3RGVEdaOTNva29takRzZlZVbFlLVVphdjIxaTRXRVBOTGd1UElJQl83ZkNuVkY2Q1dEaFlKakVBem5HbzFrN2dYa1pXSjZ0bEdLNW51NzNLYWxlNFNJUEw4TW1KZTgxVFY1N0hpeUtUUGVSTDhjYWM1eE5ZSHhiWlFZTm1ienMxWnFYdWvSAagBQVVfeXFMUEt4OWYyN0hZTmpkVmczLXA5RzQ4R1dlYVFTOUd0RlRHWjkzb2tvbWpEc2ZWVWxZS1VaYXYyMWk0V0VQTkxndVBJSUJfN2ZDblZGNkNXRGhZSmpFQXpuR28xazdnWGtaV0o2dGxHSzVudTczS2FsZTRTSVBMOE1tSmU4MVRWNTdIaXlLVFBlUkw4Y2FjNXhOWUh4YlpRWU5tYnpzMVpxWHVr?oc=5",
+        "id": "199a097289fbcd8a",
+        "title": "Georgia Power: Grid ready for AI, population growth - The Newnan Times-Herald",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSnhZSWVlQ2dncmsxVEpJU1ljY3ZKcHFlSmFSa25tYjZhbDhFd285cm5lQ1lVaXJLUDhjT2h5cmVCSWdtTkVVQ1ZEZV81aVVTbWl1Rm54YUtLU1lHR1NSNDgwUDFyY2hmS2tBTlEzb01laFdaTU9paHVGOUNHUlJRWXRhdUVFdlloa2hFaHVrY29hc0NTYXJjZUMzaW1IQXROLXZJTFlQZUtnMmhfSzdLV0NpeENTdEhiUGktSDZSRFMwS0IxTEhmVzBEMVR5UQ?oc=5",
         "domain": "news.google.com",
-        "source": "WTOC",
+        "source": "The Newnan Times-Herald",
         "language": "English",
-        "published_at": "2026-06-30T19:33:00+00:00",
-        "summary": "Georgia Power begins grid upgrades in Savannah neighborhoods WTOC",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS3g5ZjI3SFlOamRWZzMtcDlHNDhHV2VhUVM5R3RGVEdaOTNva29takRzZlZVbFlLVVphdjIxaTRXRVBOTGd1UElJQl83ZkNuVkY2Q1dEaFlKakVBem5HbzFrN2dYa1pXSjZ0bEdLNW51NzNLYWxlNFNJUEw4TW1KZTgxVFY1N0hpeUtUUGVSTDhjYWM1eE5ZSHhiWlFZTm1ienMxWnFYdWvSAagBQVVfeXFMUEt4OWYyN0hZTmpkVmczLXA5RzQ4R1dlYVFTOUd0RlRHWjkzb2tvbWpEc2ZWVWxZS1VaYXYyMWk0V0VQTkxndVBJSUJfN2ZDblZGNkNXRGhZSmpFQXpuR28xazdnWGtaV0o2dGxHSzVudTczS2FsZTRTSVBMOE1tSmU4MVRWNTdIaXlLVFBlUkw4Y2FjNXhOWUh4YlpRWU5tYnpzMVpxWHVr?oc=5\" target=\"_blank\">Georgia Power begins grid upgrades in Savannah neighborhoods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+        "published_at": "2026-07-01T15:59:00+00:00",
+        "summary": "Georgia Power: Grid ready for AI, population growth The Newnan Times-Herald",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNSnhZSWVlQ2dncmsxVEpJU1ljY3ZKcHFlSmFSa25tYjZhbDhFd285cm5lQ1lVaXJLUDhjT2h5cmVCSWdtTkVVQ1ZEZV81aVVTbWl1Rm54YUtLU1lHR1NSNDgwUDFyY2hmS2tBTlEzb01laFdaTU9paHVGOUNHUlJRWXRhdUVFdlloa2hFaHVrY29hc0NTYXJjZUMzaW1IQXROLXZJTFlQZUtnMmhfSzdLV0NpeENTdEhiUGktSDZSRFMwS0IxTEhmVzBEMVR5UQ?oc=5\" target=\"_blank\">Georgia Power: Grid ready for AI, population growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Newnan Times-Herald</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-30T21:23:58+00:00"
+        "collected_at": "2026-07-01T16:21:53+00:00"
       }
     },
     {
