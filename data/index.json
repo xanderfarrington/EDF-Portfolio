@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T23:06:07+00:00",
+  "last_updated": "2026-07-01T02:52:34+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 91,
-      "new_mentions_this_run": 20,
+      "count": 92,
+      "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "4692a11d2220da76",
-        "title": "Alabama Power During Heat Advisory - WVUA 23",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWnVrNWVGcVE2TlB6WElxMWMwS0VtQUU3Z19iS3RYcFVPZ1BfbG1IdHpVcTN0LWZfdC1iZnZsR3M0NUJwZjJWOGs4SUlRVHZxbGFGbk80WE5nX2l3YU1DNGNld254ZV9TRllvYjFvbnJTYkoyZUF0Zmg3VnFvRkZuek5tMDBzNWVNOUZVRmZKdWhNckNPV1ZBaFdVekE1b2tLajFudzFwck5fUUJ0cGdOUFBlOGxYZ2t3NUVUTg?oc=5",
+        "id": "900741f11769165c",
+        "title": "Alabama Power - WVUA 23",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkpEdmxySDkxZ2hlQkRhZU42bFgwOHNJdl9jd1MzWnhFMVkzR2I1RDQwUmVTRzZTVWVvR3ZiOHNpeUdWaURySmJxUHB3eXFyWVpOMjFWSGw5M1JtWFQ0MzVEdVc5enI3UGhVaFRfYTJ3SzVnTGpqQktLazVQWFd2OEprdzN5bWxjMk8zMmpXYVkwenc?oc=5",
         "domain": "news.google.com",
         "source": "WVUA 23",
         "language": "English",
-        "published_at": "2026-06-30T02:36:00+00:00",
-        "summary": "Alabama Power During Heat Advisory WVUA 23",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPWnVrNWVGcVE2TlB6WElxMWMwS0VtQUU3Z19iS3RYcFVPZ1BfbG1IdHpVcTN0LWZfdC1iZnZsR3M0NUJwZjJWOGs4SUlRVHZxbGFGbk80WE5nX2l3YU1DNGNld254ZV9TRllvYjFvbnJTYkoyZUF0Zmg3VnFvRkZuek5tMDBzNWVNOUZVRmZKdWhNckNPV1ZBaFdVekE1b2tLajFudzFwck5fUUJ0cGdOUFBlOGxYZ2t3NUVUTg?oc=5\" target=\"_blank\">Alabama Power During Heat Advisory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVUA 23</font>",
+        "published_at": "2026-06-30T18:53:41+00:00",
+        "summary": "Alabama Power WVUA 23",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkpEdmxySDkxZ2hlQkRhZU42bFgwOHNJdl9jd1MzWnhFMVkzR2I1RDQwUmVTRzZTVWVvR3ZiOHNpeUdWaURySmJxUHB3eXFyWVpOMjFWSGw5M1JtWFQ0MzVEdVc5enI3UGhVaFRfYTJ3SzVnTGpqQktLazVQWFd2OEprdzN5bWxjMk8zMmpXYVkwenc?oc=5\" target=\"_blank\">Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVUA 23</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-30T07:47:05+00:00"
+        "collected_at": "2026-07-01T02:52:07+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 20,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "2b2733d1b2f69c3b",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society -- ANS",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 53,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "6d666d8d6dbe72a0",
         "title": "Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said - TribLIVE.com",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 133,
+      "count": 134,
       "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "7a03c4358a104b17",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 17,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "c4e09c5445ba4505",
         "title": "Jeffrey McClure - Department of Energy (.gov)",
