@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-07-01T02:52:18+00:00",
+  "last_updated": "2026-07-01T08:06:25+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 53,
+  "count": 54,
   "mentions": [
     {
       "id": "6d666d8d6dbe72a0",
@@ -256,6 +256,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-09T17:56:45+00:00"
+    },
+    {
+      "id": "1ec9b437004d1691",
+      "title": "Three Mile Island nuclear restart notches another big approval - PennLive.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHlnYWdxcWR5ZUJfdzQ2YU1WeWtzQTBqRnlBbUpyaDJJVkZkUmlBbVRZYjQySmhXRkEyVGFOQmJxQUJDdF91Ukpibkg3QjdIdkJ2VlAwRVpsVEhMSThVQ2ZueUROeC1HSzlDT3B6a19ZSUl6UnNSRXFBUWZ2NUZXQkRzUXhaVF9WWFFLRzdlazItN21yVGdqVTJzMnd2c3hoVVNxTklHSUnSAbwBQVVfeXFMTXJFcXRjeEdhTjVzUGFROHpsZFYwME1lYUNpMUU4cDQwTnJEZmZlNTZ5Q3J1QW9iZHVRU2hTcDhQbGVEanJEMHMyV2Y1OXV0bVRYYUxkN1QtMGZSSEE3UDRWSThHOUstaXRBZElkUXo3S2xqX2xVQzRsMjFOeC1JaW9sMzlpdElSQnE0WDhqb1NBNWdSbFhmMzNJXzZCcHpUOS1zZktCR2pJYVhhMUg4QWttZjg3eDFvWGZfNU0?oc=5",
+      "domain": "news.google.com",
+      "source": "PennLive.com",
+      "language": "English",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "summary": "Three Mile Island nuclear restart notches another big approval PennLive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHlnYWdxcWR5ZUJfdzQ2YU1WeWtzQTBqRnlBbUpyaDJJVkZkUmlBbVRZYjQySmhXRkEyVGFOQmJxQUJDdF91Ukpibkg3QjdIdkJ2VlAwRVpsVEhMSThVQ2ZueUROeC1HSzlDT3B6a19ZSUl6UnNSRXFBUWZ2NUZXQkRzUXhaVF9WWFFLRzdlazItN21yVGdqVTJzMnd2c3hoVVNxTklHSUnSAbwBQVVfeXFMTXJFcXRjeEdhTjVzUGFROHpsZFYwME1lYUNpMUU4cDQwTnJEZmZlNTZ5Q3J1QW9iZHVRU2hTcDhQbGVEanJEMHMyV2Y1OXV0bVRYYUxkN1QtMGZSSEE3UDRWSThHOUstaXRBZElkUXo3S2xqX2xVQzRsMjFOeC1JaW9sMzlpdElSQnE0WDhqb1NBNWdSbFhmMzNJXzZCcHpUOS1zZktCR2pJYVhhMUg4QWttZjg3eDFvWGZfNU0?oc=5\" target=\"_blank\">Three Mile Island nuclear restart notches another big approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PennLive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-01T08:06:25+00:00"
     },
     {
       "id": "2267ee47d2ef2367",
