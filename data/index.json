@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T07:25:55+00:00",
+  "last_updated": "2026-07-02T10:32:28+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 92,
-      "new_mentions_this_run": 12,
+      "new_mentions_this_run": 14,
       "latest_mention": {
         "id": "900741f11769165c",
         "title": "Alabama Power - WVUA 23",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 21,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "2b2733d1b2f69c3b",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society -- ANS",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 135,
+      "count": 136,
       "new_mentions_this_run": 18,
       "latest_mention": {
-        "id": "199a097289fbcd8a",
-        "title": "Georgia Power: Grid ready for AI, population growth - The Newnan Times-Herald",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSnhZSWVlQ2dncmsxVEpJU1ljY3ZKcHFlSmFSa25tYjZhbDhFd285cm5lQ1lVaXJLUDhjT2h5cmVCSWdtTkVVQ1ZEZV81aVVTbWl1Rm54YUtLU1lHR1NSNDgwUDFyY2hmS2tBTlEzb01laFdaTU9paHVGOUNHUlJRWXRhdUVFdlloa2hFaHVrY29hc0NTYXJjZUMzaW1IQXROLXZJTFlQZUtnMmhfSzdLV0NpeENTdEhiUGktSDZSRFMwS0IxTEhmVzBEMVR5UQ?oc=5",
+        "id": "eec5266c315e7652",
+        "title": "July 2 - Georgia Power Begins Work on Key Grid Enhancement Project in Cloverdale, Tremont Park Neighborhoods - Savannah Business Journal",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPR0lqeldYbEI0M252cnZ1NEI2WHlGMGdaRzJUdktvd3d3LWNIRWpRYjAwX0oyUUVUWXpVbTk1Vm9jT1JPTWFsVFpyU2Z2dWphLXZtTlVYNjRLUGpVc1l4eTJhYmI0cy1ueGsxd0E4Y05rUXBfWlRiWlpEZHZSNEhPRG9MVUJLTXJVTW9CX0FqSFYzTnlPdlMzZ3Q1S3ZNWHo0QWpJV2Y0eDEzUTFHMzlmNDJ3WEJGNUc1c2NJUWhCb1A4MThhWGU1N2VSSUVYUGUyZTdqZ0dQLVpacWp3ZG9sZm1oWVEwczdQYTNoU2FtZnBaRGlSR3RYNlBsTm83V2d3WWMtcHpiT3VYZnVsZzBfMlkzVnpqSGM?oc=5",
         "domain": "news.google.com",
-        "source": "The Newnan Times-Herald",
+        "source": "Savannah Business Journal",
         "language": "English",
-        "published_at": "2026-07-01T15:59:00+00:00",
-        "summary": "Georgia Power: Grid ready for AI, population growth The Newnan Times-Herald",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNSnhZSWVlQ2dncmsxVEpJU1ljY3ZKcHFlSmFSa25tYjZhbDhFd285cm5lQ1lVaXJLUDhjT2h5cmVCSWdtTkVVQ1ZEZV81aVVTbWl1Rm54YUtLU1lHR1NSNDgwUDFyY2hmS2tBTlEzb01laFdaTU9paHVGOUNHUlJRWXRhdUVFdlloa2hFaHVrY29hc0NTYXJjZUMzaW1IQXROLXZJTFlQZUtnMmhfSzdLV0NpeENTdEhiUGktSDZSRFMwS0IxTEhmVzBEMVR5UQ?oc=5\" target=\"_blank\">Georgia Power: Grid ready for AI, population growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Newnan Times-Herald</font>",
+        "published_at": "2026-07-02T08:30:00+00:00",
+        "summary": "July 2 - Georgia Power Begins Work on Key Grid Enhancement Project in Cloverdale, Tremont Park Neighborhoods Savannah Business Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxPR0lqeldYbEI0M252cnZ1NEI2WHlGMGdaRzJUdktvd3d3LWNIRWpRYjAwX0oyUUVUWXpVbTk1Vm9jT1JPTWFsVFpyU2Z2dWphLXZtTlVYNjRLUGpVc1l4eTJhYmI0cy1ueGsxd0E4Y05rUXBfWlRiWlpEZHZSNEhPRG9MVUJLTXJVTW9CX0FqSFYzTnlPdlMzZ3Q1S3ZNWHo0QWpJV2Y0eDEzUTFHMzlmNDJ3WEJGNUc1c2NJUWhCb1A4MThhWGU1N2VSSUVYUGUyZTdqZ0dQLVpacWp3ZG9sZm1oWVEwczdQYTNoU2FtZnBaRGlSR3RYNlBsTm83V2d3WWMtcHpiT3VYZnVsZzBfMlkzVnpqSGM?oc=5\" target=\"_blank\">July 2 - Georgia Power Begins Work on Key Grid Enhancement Project in Cloverdale, Tremont Park Neighborhoods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Business Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-01T16:21:53+00:00"
+        "collected_at": "2026-07-02T10:32:18+00:00"
       }
     },
     {

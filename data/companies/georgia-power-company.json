@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-02T07:25:44+00:00",
+  "last_updated": "2026-07-02T10:32:18+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 135,
+  "count": 136,
   "mentions": [
+    {
+      "id": "eec5266c315e7652",
+      "title": "July 2 - Georgia Power Begins Work on Key Grid Enhancement Project in Cloverdale, Tremont Park Neighborhoods - Savannah Business Journal",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPR0lqeldYbEI0M252cnZ1NEI2WHlGMGdaRzJUdktvd3d3LWNIRWpRYjAwX0oyUUVUWXpVbTk1Vm9jT1JPTWFsVFpyU2Z2dWphLXZtTlVYNjRLUGpVc1l4eTJhYmI0cy1ueGsxd0E4Y05rUXBfWlRiWlpEZHZSNEhPRG9MVUJLTXJVTW9CX0FqSFYzTnlPdlMzZ3Q1S3ZNWHo0QWpJV2Y0eDEzUTFHMzlmNDJ3WEJGNUc1c2NJUWhCb1A4MThhWGU1N2VSSUVYUGUyZTdqZ0dQLVpacWp3ZG9sZm1oWVEwczdQYTNoU2FtZnBaRGlSR3RYNlBsTm83V2d3WWMtcHpiT3VYZnVsZzBfMlkzVnpqSGM?oc=5",
+      "domain": "news.google.com",
+      "source": "Savannah Business Journal",
+      "language": "English",
+      "published_at": "2026-07-02T08:30:00+00:00",
+      "summary": "July 2 - Georgia Power Begins Work on Key Grid Enhancement Project in Cloverdale, Tremont Park Neighborhoods Savannah Business Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxPR0lqeldYbEI0M252cnZ1NEI2WHlGMGdaRzJUdktvd3d3LWNIRWpRYjAwX0oyUUVUWXpVbTk1Vm9jT1JPTWFsVFpyU2Z2dWphLXZtTlVYNjRLUGpVc1l4eTJhYmI0cy1ueGsxd0E4Y05rUXBfWlRiWlpEZHZSNEhPRG9MVUJLTXJVTW9CX0FqSFYzTnlPdlMzZ3Q1S3ZNWHo0QWpJV2Y0eDEzUTFHMzlmNDJ3WEJGNUc1c2NJUWhCb1A4MThhWGU1N2VSSUVYUGUyZTdqZ0dQLVpacWp3ZG9sZm1oWVEwczdQYTNoU2FtZnBaRGlSR3RYNlBsTm83V2d3WWMtcHpiT3VYZnVsZzBfMlkzVnpqSGM?oc=5\" target=\"_blank\">July 2 - Georgia Power Begins Work on Key Grid Enhancement Project in Cloverdale, Tremont Park Neighborhoods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Business Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-02T10:32:18+00:00"
+    },
     {
       "id": "199a097289fbcd8a",
       "title": "Georgia Power: Grid ready for AI, population growth - The Newnan Times-Herald",
