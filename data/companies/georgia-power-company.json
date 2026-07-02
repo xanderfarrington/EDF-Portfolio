@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-02T10:32:18+00:00",
+  "last_updated": "2026-07-02T13:45:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 136,
+  "count": 137,
   "mentions": [
     {
       "id": "eec5266c315e7652",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-01T16:21:53+00:00"
+    },
+    {
+      "id": "40cfb6a8fa6f8b16",
+      "title": "Georgia Power continues to offer options to connect customers to solar - The Eatonton Messenger",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV3NZWjAyWWNpcGNKMHc0VlpwRmZCRU5laXFSSnVkcWotNDI5OTNQLVpaN3VjT2FPZGpUMDdPajlWd0paWGlVSjJqZmxPMy14ekNQb0llVDRJcnRKY3A4blZFRTd6dGJnYnhjVURodmNjMjk0Q09hTUFISnpUYU5EektEMmtDR0hvVmVZNm5JNVpKMWlMRXc?oc=5",
+      "domain": "news.google.com",
+      "source": "The Eatonton Messenger",
+      "language": "English",
+      "published_at": "2026-07-01T14:55:00+00:00",
+      "summary": "Georgia Power continues to offer options to connect customers to solar The Eatonton Messenger",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQV3NZWjAyWWNpcGNKMHc0VlpwRmZCRU5laXFSSnVkcWotNDI5OTNQLVpaN3VjT2FPZGpUMDdPajlWd0paWGlVSjJqZmxPMy14ekNQb0llVDRJcnRKY3A4blZFRTd6dGJnYnhjVURodmNjMjk0Q09hTUFISnpUYU5EektEMmtDR0hvVmVZNm5JNVpKMWlMRXc?oc=5\" target=\"_blank\">Georgia Power continues to offer options to connect customers to solar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Eatonton Messenger</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-02T13:45:40+00:00"
     },
     {
       "id": "7a03c4358a104b17",

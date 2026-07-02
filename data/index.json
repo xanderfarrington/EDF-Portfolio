@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T10:32:28+00:00",
+  "last_updated": "2026-07-02T13:45:50+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 92,
-      "new_mentions_this_run": 14,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "900741f11769165c",
         "title": "Alabama Power - WVUA 23",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 54,
-      "new_mentions_this_run": 13,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "6d666d8d6dbe72a0",
         "title": "Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said - TribLIVE.com",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 136,
-      "new_mentions_this_run": 18,
+      "count": 137,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "eec5266c315e7652",
         "title": "July 2 - Georgia Power Begins Work on Key Grid Enhancement Project in Cloverdale, Tremont Park Neighborhoods - Savannah Business Journal",
