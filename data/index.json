@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T16:02:07+00:00",
+  "last_updated": "2026-07-02T19:16:02+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 92,
-      "new_mentions_this_run": 0,
+      "count": 93,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "900741f11769165c",
         "title": "Alabama Power - WVUA 23",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 137,
-      "new_mentions_this_run": 18,
+      "count": 138,
+      "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "eec5266c315e7652",
-        "title": "July 2 - Georgia Power Begins Work on Key Grid Enhancement Project in Cloverdale, Tremont Park Neighborhoods - Savannah Business Journal",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPR0lqeldYbEI0M252cnZ1NEI2WHlGMGdaRzJUdktvd3d3LWNIRWpRYjAwX0oyUUVUWXpVbTk1Vm9jT1JPTWFsVFpyU2Z2dWphLXZtTlVYNjRLUGpVc1l4eTJhYmI0cy1ueGsxd0E4Y05rUXBfWlRiWlpEZHZSNEhPRG9MVUJLTXJVTW9CX0FqSFYzTnlPdlMzZ3Q1S3ZNWHo0QWpJV2Y0eDEzUTFHMzlmNDJ3WEJGNUc1c2NJUWhCb1A4MThhWGU1N2VSSUVYUGUyZTdqZ0dQLVpacWp3ZG9sZm1oWVEwczdQYTNoU2FtZnBaRGlSR3RYNlBsTm83V2d3WWMtcHpiT3VYZnVsZzBfMlkzVnpqSGM?oc=5",
+        "id": "2327e86a8d5cafb5",
+        "title": "Data centers are transforming Georgia Power’s future. What’s the risk? - Macon Telegraph",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ycjRycWIzc0FRa2xLbnhoV1dCWEdBU3UwdjBIMWFsTy1keVpOZnRISUk3bU9jcEdOMUVGSDRIWGt4VEowMUprTUFsWF9sSHR4RjducjY4akhSZFVxejdCb3FxWkRNR29hQnNkTdIBbEFVX3lxTFBUVE5aNEpBUDdiSGdaUkZnaG9ucGdXUlIxdTRSdS0zdmRsaGFsODB5RGp3bHN4UjM1eWJEbm04ZjNkOTdJOHN5aFMxRUdSSGRSRnZuMTZPNjQxWXQ1N1lDQUxlUVdwME9LQnJ2Wg?oc=5",
         "domain": "news.google.com",
-        "source": "Savannah Business Journal",
+        "source": "Macon Telegraph",
         "language": "English",
-        "published_at": "2026-07-02T08:30:00+00:00",
-        "summary": "July 2 - Georgia Power Begins Work on Key Grid Enhancement Project in Cloverdale, Tremont Park Neighborhoods Savannah Business Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxPR0lqeldYbEI0M252cnZ1NEI2WHlGMGdaRzJUdktvd3d3LWNIRWpRYjAwX0oyUUVUWXpVbTk1Vm9jT1JPTWFsVFpyU2Z2dWphLXZtTlVYNjRLUGpVc1l4eTJhYmI0cy1ueGsxd0E4Y05rUXBfWlRiWlpEZHZSNEhPRG9MVUJLTXJVTW9CX0FqSFYzTnlPdlMzZ3Q1S3ZNWHo0QWpJV2Y0eDEzUTFHMzlmNDJ3WEJGNUc1c2NJUWhCb1A4MThhWGU1N2VSSUVYUGUyZTdqZ0dQLVpacWp3ZG9sZm1oWVEwczdQYTNoU2FtZnBaRGlSR3RYNlBsTm83V2d3WWMtcHpiT3VYZnVsZzBfMlkzVnpqSGM?oc=5\" target=\"_blank\">July 2 - Georgia Power Begins Work on Key Grid Enhancement Project in Cloverdale, Tremont Park Neighborhoods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Business Journal</font>",
+        "published_at": "2026-07-02T15:38:33+00:00",
+        "summary": "Data centers are transforming Georgia Power’s future. What’s the risk? Macon Telegraph",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9ycjRycWIzc0FRa2xLbnhoV1dCWEdBU3UwdjBIMWFsTy1keVpOZnRISUk3bU9jcEdOMUVGSDRIWGt4VEowMUprTUFsWF9sSHR4RjducjY4akhSZFVxejdCb3FxWkRNR29hQnNkTdIBbEFVX3lxTFBUVE5aNEpBUDdiSGdaUkZnaG9ucGdXUlIxdTRSdS0zdmRsaGFsODB5RGp3bHN4UjM1eWJEbm04ZjNkOTdJOHN5aFMxRUdSSGRSRnZuMTZPNjQxWXQ1N1lDQUxlUVdwME9LQnJ2Wg?oc=5\" target=\"_blank\">Data centers are transforming Georgia Power’s future. What’s the risk?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macon Telegraph</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-02T10:32:18+00:00"
+        "collected_at": "2026-07-02T19:15:52+00:00"
       }
     },
     {
