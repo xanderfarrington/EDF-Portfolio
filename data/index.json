@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T13:45:50+00:00",
+  "last_updated": "2026-07-02T16:02:07+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 92,
-      "new_mentions_this_run": 18,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "900741f11769165c",
         "title": "Alabama Power - WVUA 23",
@@ -68,21 +68,21 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 54,
-      "new_mentions_this_run": 18,
+      "count": 56,
+      "new_mentions_this_run": 19,
       "latest_mention": {
-        "id": "6d666d8d6dbe72a0",
-        "title": "Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said - TribLIVE.com",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8telZmLUZ1LThPX3RsQzVIbzRRMC1rVFFLU0Z4UzN4X0VQaXFWUzQ2eVV5bnVRaEM2UXRGa0h5aDUyWTlNWHlqZ1dPenM2c0RGUEVZZW13?oc=5",
+        "id": "facdcaa8e9c4972c",
+        "title": "Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion - PennLive.com",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOUgtOXBraDk4TkVnTGE2M291WThIN3lkRm1xYkZsT0ZYSFhJR0tERkFaNnVxQTBfLVZXeXRwOWJvLVIxbzN5VW1CX3BSVXg5aUtqUFJ4ODRiUGpEeHFfQUQxUFpSMkpKNnpCLWVQWFVjSmlFd19GWGlwdXMzZHVldTh1dEFxWlVqR25UV0g4N25vREthSlNtNEYyaHdoSFBicDVYX0U4eEhHYXRqQUl0ZXVTQVlZaDNaclNZTVg1aF9mUmt0YkJRTmd0aUZNLTNWQjZRcllabWhIRnpucUE?oc=5",
         "domain": "news.google.com",
-        "source": "TribLIVE.com",
+        "source": "PennLive.com",
         "language": "English",
-        "published_at": "2026-06-26T03:44:41+00:00",
-        "summary": "Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said TribLIVE.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE8telZmLUZ1LThPX3RsQzVIbzRRMC1rVFFLU0Z4UzN4X0VQaXFWUzQ2eVV5bnVRaEM2UXRGa0h5aDUyWTlNWHlqZ1dPenM2c0RGUEVZZW13?oc=5\" target=\"_blank\">Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TribLIVE.com</font>",
+        "published_at": "2026-07-02T15:01:00+00:00",
+        "summary": "Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion PennLive.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOUgtOXBraDk4TkVnTGE2M291WThIN3lkRm1xYkZsT0ZYSFhJR0tERkFaNnVxQTBfLVZXeXRwOWJvLVIxbzN5VW1CX3BSVXg5aUtqUFJ4ODRiUGpEeHFfQUQxUFpSMkpKNnpCLWVQWFVjSmlFd19GWGlwdXMzZHVldTh1dEFxWlVqR25UV0g4N25vREthSlNtNEYyaHdoSFBicDVYX0U4eEhHYXRqQUl0ZXVTQVlZaDNaclNZTVg1aF9mUmt0YkJRTmd0aUZNLTNWQjZRcllabWhIRnpucUE?oc=5\" target=\"_blank\">Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PennLive.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-26T10:46:26+00:00"
+        "collected_at": "2026-07-02T16:01:51+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 137,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "eec5266c315e7652",
         "title": "July 2 - Georgia Power Begins Work on Key Grid Enhancement Project in Cloverdale, Tremont Park Neighborhoods - Savannah Business Journal",

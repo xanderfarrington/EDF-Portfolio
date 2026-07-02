@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-07-02T13:45:34+00:00",
+  "last_updated": "2026-07-02T16:01:51+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 54,
+  "count": 56,
   "mentions": [
+    {
+      "id": "facdcaa8e9c4972c",
+      "title": "Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion - PennLive.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOUgtOXBraDk4TkVnTGE2M291WThIN3lkRm1xYkZsT0ZYSFhJR0tERkFaNnVxQTBfLVZXeXRwOWJvLVIxbzN5VW1CX3BSVXg5aUtqUFJ4ODRiUGpEeHFfQUQxUFpSMkpKNnpCLWVQWFVjSmlFd19GWGlwdXMzZHVldTh1dEFxWlVqR25UV0g4N25vREthSlNtNEYyaHdoSFBicDVYX0U4eEhHYXRqQUl0ZXVTQVlZaDNaclNZTVg1aF9mUmt0YkJRTmd0aUZNLTNWQjZRcllabWhIRnpucUE?oc=5",
+      "domain": "news.google.com",
+      "source": "PennLive.com",
+      "language": "English",
+      "published_at": "2026-07-02T15:01:00+00:00",
+      "summary": "Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion PennLive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOUgtOXBraDk4TkVnTGE2M291WThIN3lkRm1xYkZsT0ZYSFhJR0tERkFaNnVxQTBfLVZXeXRwOWJvLVIxbzN5VW1CX3BSVXg5aUtqUFJ4ODRiUGpEeHFfQUQxUFpSMkpKNnpCLWVQWFVjSmlFd19GWGlwdXMzZHVldTh1dEFxWlVqR25UV0g4N25vREthSlNtNEYyaHdoSFBicDVYX0U4eEhHYXRqQUl0ZXVTQVlZaDNaclNZTVg1aF9mUmt0YkJRTmd0aUZNLTNWQjZRcllabWhIRnpucUE?oc=5\" target=\"_blank\">Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PennLive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-02T16:01:51+00:00"
+    },
     {
       "id": "6d666d8d6dbe72a0",
       "title": "Three Mile Island restart deal was secret. A nuclear engineer used info to profit $1.4M, grand jury said - TribLIVE.com",
@@ -512,6 +526,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-25T14:12:45+00:00"
+    },
+    {
+      "id": "b35a09fcc4ae73e2",
+      "title": "Regulators approve water use request for Three Mile Island restart - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUTRiRHBxMFRTMUF4V1ZxRVloMG9JY0FXN3E3cGZOYVZhcmRGd3RPYTJaaVgxSFF3TlNzSE1wRVpzck83X2VWZk9SRHNPMDQyMGthQThMN2dndmd6YXZZaFFMTGJqbUptNFBCYXpNNmttQVI5TmFlZFN0ajVnN3NYQlYxM1c5d05LY1I2YTJ6cUtGQmV4WE1lRzdxQk1UQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "yahoo.com",
+      "language": "English",
+      "published_at": "2026-06-04T07:00:00+00:00",
+      "summary": "Regulators approve water use request for Three Mile Island restart yahoo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUTRiRHBxMFRTMUF4V1ZxRVloMG9JY0FXN3E3cGZOYVZhcmRGd3RPYTJaaVgxSFF3TlNzSE1wRVpzck83X2VWZk9SRHNPMDQyMGthQThMN2dndmd6YXZZaFFMTGJqbUptNFBCYXpNNmttQVI5TmFlZFN0ajVnN3NYQlYxM1c5d05LY1I2YTJ6cUtGQmV4WE1lRzdxQk1UQQ?oc=5\" target=\"_blank\">Regulators approve water use request for Three Mile Island restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-02T16:01:51+00:00"
     },
     {
       "id": "196d80359124eb68",
