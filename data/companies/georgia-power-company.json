@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-02T20:58:29+00:00",
+  "last_updated": "2026-07-02T22:59:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 138,
+  "count": 139,
   "mentions": [
     {
       "id": "2327e86a8d5cafb5",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-02T19:15:52+00:00"
+    },
+    {
+      "id": "1015475b33564557",
+      "title": "Data centers are transforming Georgia Power’s future. What’s the risk? - Macon Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUVE5aNEpBUDdiSGdaUkZnaG9ucGdXUlIxdTRSdS0zdmRsaGFsODB5RGp3bHN4UjM1eWJEbm04ZjNkOTdJOHN5aFMxRUdSSGRSRnZuMTZPNjQxWXQ1N1lDQUxlUVdwME9LQnJ2WtIBbEFVX3lxTFBUVE5aNEpBUDdiSGdaUkZnaG9ucGdXUlIxdTRSdS0zdmRsaGFsODB5RGp3bHN4UjM1eWJEbm04ZjNkOTdJOHN5aFMxRUdSSGRSRnZuMTZPNjQxWXQ1N1lDQUxlUVdwME9LQnJ2Wg?oc=5",
+      "domain": "news.google.com",
+      "source": "Macon Telegraph",
+      "language": "English",
+      "published_at": "2026-07-02T15:38:33+00:00",
+      "summary": "Data centers are transforming Georgia Power’s future. What’s the risk? Macon Telegraph",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBUVE5aNEpBUDdiSGdaUkZnaG9ucGdXUlIxdTRSdS0zdmRsaGFsODB5RGp3bHN4UjM1eWJEbm04ZjNkOTdJOHN5aFMxRUdSSGRSRnZuMTZPNjQxWXQ1N1lDQUxlUVdwME9LQnJ2WtIBbEFVX3lxTFBUVE5aNEpBUDdiSGdaUkZnaG9ucGdXUlIxdTRSdS0zdmRsaGFsODB5RGp3bHN4UjM1eWJEbm04ZjNkOTdJOHN5aFMxRUdSSGRSRnZuMTZPNjQxWXQ1N1lDQUxlUVdwME9LQnJ2Wg?oc=5\" target=\"_blank\">Data centers are transforming Georgia Power’s future. What’s the risk?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macon Telegraph</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-02T22:59:40+00:00"
     },
     {
       "id": "eec5266c315e7652",
