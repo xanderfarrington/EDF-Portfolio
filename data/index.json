@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T06:57:32+00:00",
+  "last_updated": "2026-07-03T10:29:59+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 93,
-      "new_mentions_this_run": 17,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "900741f11769165c",
         "title": "Alabama Power - WVUA 23",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 140,
-      "new_mentions_this_run": 19,
+      "count": 141,
+      "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "463dc3c6e0e2fc0b",
-        "title": "Georgia power bills can still jump 30% to 50% this summer, despite a fuel rate cut - The Cool Down",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMi1xOVp3Z0U2eF9aaW1JSkxVaFZZc1Rkb3ZqV0tQMTdhdEdPMF9uS01MbHhtVG4wVW9Id2VUaFVhSFFMWlBQeUx5V2E4SEJpYVlWbThReXVHX3RGbzg2SUlQSEhlTjlxVE1QbFg0SnBlODRpbnJUb1FZWkc5ZndTVkh1aXFrWWZzeURJZ0Z2d3BrUnFHREZzNg?oc=5",
+        "id": "888cb96760906f3b",
+        "title": "Beat the heat and high energy bills with these tips from Georgia Power - WRBL",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1FVRjBhNUdRR3FDZXJXVjBHa3VOQ2t5SDlzZS1FODJvbnpYSUV1bTBfUTNzZG10bGMwMVRPT09SVURzcXBOaC1SZ3ZUZzZWejFfUzAwam1mb1F2TF8taUNEUm5KR2lFYjJKWERRaG5Gak40UEJwMEdWUUZ6QlAtMjI1eXRPZXI3R2FsSTVvM3pFc0ZZRW1wQlhWeGtTYklJTTkzS3N4S3dJSDA?oc=5",
         "domain": "news.google.com",
-        "source": "The Cool Down",
+        "source": "WRBL",
         "language": "English",
-        "published_at": "2026-07-03T00:16:00+00:00",
-        "summary": "Georgia power bills can still jump 30% to 50% this summer, despite a fuel rate cut The Cool Down",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMi1xOVp3Z0U2eF9aaW1JSkxVaFZZc1Rkb3ZqV0tQMTdhdEdPMF9uS01MbHhtVG4wVW9Id2VUaFVhSFFMWlBQeUx5V2E4SEJpYVlWbThReXVHX3RGbzg2SUlQSEhlTjlxVE1QbFg0SnBlODRpbnJUb1FZWkc5ZndTVkh1aXFrWWZzeURJZ0Z2d3BrUnFHREZzNg?oc=5\" target=\"_blank\">Georgia power bills can still jump 30% to 50% this summer, despite a fuel rate cut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cool Down</font>",
+        "published_at": "2026-07-03T01:46:16+00:00",
+        "summary": "Beat the heat and high energy bills with these tips from Georgia Power WRBL",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1FVRjBhNUdRR3FDZXJXVjBHa3VOQ2t5SDlzZS1FODJvbnpYSUV1bTBfUTNzZG10bGMwMVRPT09SVURzcXBOaC1SZ3ZUZzZWejFfUzAwam1mb1F2TF8taUNEUm5KR2lFYjJKWERRaG5Gak40UEJwMEdWUUZ6QlAtMjI1eXRPZXI3R2FsSTVvM3pFc0ZZRW1wQlhWeGtTYklJTTkzS3N4S3dJSDA?oc=5\" target=\"_blank\">Beat the heat and high energy bills with these tips from Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRBL</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-03T02:24:19+00:00"
+        "collected_at": "2026-07-03T10:29:49+00:00"
       }
     },
     {
