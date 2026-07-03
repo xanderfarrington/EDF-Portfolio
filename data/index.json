@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T20:58:01+00:00",
+  "last_updated": "2026-07-03T22:57:31+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 93,
-      "new_mentions_this_run": 17,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "900741f11769165c",
         "title": "Alabama Power - WVUA 23",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 141,
-      "new_mentions_this_run": 19,
+      "count": 144,
+      "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "888cb96760906f3b",
-        "title": "Beat the heat and high energy bills with these tips from Georgia Power - WRBL",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1FVRjBhNUdRR3FDZXJXVjBHa3VOQ2t5SDlzZS1FODJvbnpYSUV1bTBfUTNzZG10bGMwMVRPT09SVURzcXBOaC1SZ3ZUZzZWejFfUzAwam1mb1F2TF8taUNEUm5KR2lFYjJKWERRaG5Gak40UEJwMEdWUUZ6QlAtMjI1eXRPZXI3R2FsSTVvM3pFc0ZZRW1wQlhWeGtTYklJTTkzS3N4S3dJSDA?oc=5",
+        "id": "2af61e4904d63fce",
+        "title": "Cranking the AC? Georgia Power says every degree could save you money - WSB-TV",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWNKX3pERjkxQ2pIc0RBa3NIemU3WnQ5U09hQ0YzQWswN1YzRFJ4VU81NDd3aVZpX0EzQkpmNVltRDRzenB5Qmh2T2dPTkRYWnJsUE5XdDB2a1RUc3didTFxV0NSb2tZUUxKMFZrOXlFUHFWc29wakdTOWxfTTBpVGd0Z2ZSakZzUjZRbnotYmREZ1JZSU5CeHMzdXkxMkQ5SHVQSDgzdy1sMXVSbU9EUzZRdzZiSmVUQVJhSkJCUmMtaXU5dnR3QmM2TUwyMnZ6ck8td1FkMDRMUQ?oc=5",
         "domain": "news.google.com",
-        "source": "WRBL",
+        "source": "WSB-TV",
         "language": "English",
-        "published_at": "2026-07-03T01:46:16+00:00",
-        "summary": "Beat the heat and high energy bills with these tips from Georgia Power WRBL",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1FVRjBhNUdRR3FDZXJXVjBHa3VOQ2t5SDlzZS1FODJvbnpYSUV1bTBfUTNzZG10bGMwMVRPT09SVURzcXBOaC1SZ3ZUZzZWejFfUzAwam1mb1F2TF8taUNEUm5KR2lFYjJKWERRaG5Gak40UEJwMEdWUUZ6QlAtMjI1eXRPZXI3R2FsSTVvM3pFc0ZZRW1wQlhWeGtTYklJTTkzS3N4S3dJSDA?oc=5\" target=\"_blank\">Beat the heat and high energy bills with these tips from Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRBL</font>",
+        "published_at": "2026-07-03T22:17:57+00:00",
+        "summary": "Cranking the AC? Georgia Power says every degree could save you money WSB-TV",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWNKX3pERjkxQ2pIc0RBa3NIemU3WnQ5U09hQ0YzQWswN1YzRFJ4VU81NDd3aVZpX0EzQkpmNVltRDRzenB5Qmh2T2dPTkRYWnJsUE5XdDB2a1RUc3didTFxV0NSb2tZUUxKMFZrOXlFUHFWc29wakdTOWxfTTBpVGd0Z2ZSakZzUjZRbnotYmREZ1JZSU5CeHMzdXkxMkQ5SHVQSDgzdy1sMXVSbU9EUzZRdzZiSmVUQVJhSkJCUmMtaXU5dnR3QmM2TUwyMnZ6ck8td1FkMDRMUQ?oc=5\" target=\"_blank\">Cranking the AC? Georgia Power says every degree could save you money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-03T10:29:49+00:00"
+        "collected_at": "2026-07-03T22:57:20+00:00"
       }
     },
     {

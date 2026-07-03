@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-03T20:57:51+00:00",
+  "last_updated": "2026-07-03T22:57:20+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 141,
+  "count": 144,
   "mentions": [
+    {
+      "id": "2af61e4904d63fce",
+      "title": "Cranking the AC? Georgia Power says every degree could save you money - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWNKX3pERjkxQ2pIc0RBa3NIemU3WnQ5U09hQ0YzQWswN1YzRFJ4VU81NDd3aVZpX0EzQkpmNVltRDRzenB5Qmh2T2dPTkRYWnJsUE5XdDB2a1RUc3didTFxV0NSb2tZUUxKMFZrOXlFUHFWc29wakdTOWxfTTBpVGd0Z2ZSakZzUjZRbnotYmREZ1JZSU5CeHMzdXkxMkQ5SHVQSDgzdy1sMXVSbU9EUzZRdzZiSmVUQVJhSkJCUmMtaXU5dnR3QmM2TUwyMnZ6ck8td1FkMDRMUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WSB-TV",
+      "language": "English",
+      "published_at": "2026-07-03T22:17:57+00:00",
+      "summary": "Cranking the AC? Georgia Power says every degree could save you money WSB-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWNKX3pERjkxQ2pIc0RBa3NIemU3WnQ5U09hQ0YzQWswN1YzRFJ4VU81NDd3aVZpX0EzQkpmNVltRDRzenB5Qmh2T2dPTkRYWnJsUE5XdDB2a1RUc3didTFxV0NSb2tZUUxKMFZrOXlFUHFWc29wakdTOWxfTTBpVGd0Z2ZSakZzUjZRbnotYmREZ1JZSU5CeHMzdXkxMkQ5SHVQSDgzdy1sMXVSbU9EUzZRdzZiSmVUQVJhSkJCUmMtaXU5dnR3QmM2TUwyMnZ6ck8td1FkMDRMUQ?oc=5\" target=\"_blank\">Cranking the AC? Georgia Power says every degree could save you money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-03T22:57:20+00:00"
+    },
+    {
+      "id": "df47ff4205ed6fb0",
+      "title": "Cranking the AC? Georgia Power says every degree could save you money - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZjhMX2FRSWYyTE1qTk1qbm9JUUw0OG8wdGZ6Q1VDMW9qMWJTZERLWXB1alh5dHBJQklfaXBhSlI1S1QyZVhaY1FNOGZ6MEllNDI5Zm1ZaHh6TWFWQlc3cl9wX0xFVF9sVWl6WHpDbTF2LU85U1dfNFRwMjJUc0pxSDFrT3FUdVVvVjlTalc3VzVuQTZXeXg1by1DZFVlRFFfclZaQ21WRDM0T3FvMDJxZDFqQVVuYUVsdC1SZmM2ekFFRnB5TWV6c2ZQb3lPUdIB4gFBVV95cUxPX00yTnNrM2FJd3hOMnMyMEhVTnB5WlJuZlV2WlNJaExZaU9YWTBfTWUyVExFUE5Qem84N0VjQVJlQ3VJemtxUm1jWE1mVm5UWTNzU1JVYmdPY2FmeGh5bTgzeS0xcXdjRTVjN1hPMGpqRnI2Z09CZlcwYno1NHFWTnJqNkxYOFlBaVZJRUhWYkRfdzJsVXUyWnlYekJzZVFnRGNBaGZBbWZoOVB6WWNKY3pzcjVONGZQWDFnWHhGeHJxVF9TZ3BuUVJGRTlPaGtNNVc1WUFxQUFVVEtKbGdSb2N3?oc=5",
+      "domain": "news.google.com",
+      "source": "WSB-TV",
+      "language": "English",
+      "published_at": "2026-07-03T21:45:25+00:00",
+      "summary": "Cranking the AC? Georgia Power says every degree could save you money WSB-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOZjhMX2FRSWYyTE1qTk1qbm9JUUw0OG8wdGZ6Q1VDMW9qMWJTZERLWXB1alh5dHBJQklfaXBhSlI1S1QyZVhaY1FNOGZ6MEllNDI5Zm1ZaHh6TWFWQlc3cl9wX0xFVF9sVWl6WHpDbTF2LU85U1dfNFRwMjJUc0pxSDFrT3FUdVVvVjlTalc3VzVuQTZXeXg1by1DZFVlRFFfclZaQ21WRDM0T3FvMDJxZDFqQVVuYUVsdC1SZmM2ekFFRnB5TWV6c2ZQb3lPUdIB4gFBVV95cUxPX00yTnNrM2FJd3hOMnMyMEhVTnB5WlJuZlV2WlNJaExZaU9YWTBfTWUyVExFUE5Qem84N0VjQVJlQ3VJemtxUm1jWE1mVm5UWTNzU1JVYmdPY2FmeGh5bTgzeS0xcXdjRTVjN1hPMGpqRnI2Z09CZlcwYno1NHFWTnJqNkxYOFlBaVZJRUhWYkRfdzJsVXUyWnlYekJzZVFnRGNBaGZBbWZoOVB6WWNKY3pzcjVONGZQWDFnWHhGeHJxVF9TZ3BuUVJGRTlPaGtNNVc1WUFxQUFVVEtKbGdSb2N3?oc=5\" target=\"_blank\">Cranking the AC? Georgia Power says every degree could save you money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-03T22:57:20+00:00"
+    },
     {
       "id": "888cb96760906f3b",
       "title": "Beat the heat and high energy bills with these tips from Georgia Power - WRBL",
@@ -187,6 +215,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-30T17:49:07+00:00"
+    },
+    {
+      "id": "81c9973787133a12",
+      "title": "Georgia Power shares tips, tools and free resources to beat summer heat - AllOnGeorgia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT3Fza2N3Y2tkNFBLSFYwQ0V2VkpIVmFQbGVuX2hMSmZOM3doSE9uaVIwRC02ZGNneW1nRTBjcmx6aXZyc1hMSkcxN3lud0s3TnB3Mk5mMWJrcTFxQXRaV3NNejd5a3N6a0R6QmNYOHd6STd2NVZtZ2tBby0wU2czS1JzQU1LV1pQWFZfd1JqR1hzdzdWMVlyLThDZ3NGek4wVEtiTHRMY1RXay1OQzlfbG14WFNyU3U2?oc=5",
+      "domain": "news.google.com",
+      "source": "AllOnGeorgia",
+      "language": "English",
+      "published_at": "2026-06-28T15:48:33+00:00",
+      "summary": "Georgia Power shares tips, tools and free resources to beat summer heat AllOnGeorgia",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT3Fza2N3Y2tkNFBLSFYwQ0V2VkpIVmFQbGVuX2hMSmZOM3doSE9uaVIwRC02ZGNneW1nRTBjcmx6aXZyc1hMSkcxN3lud0s3TnB3Mk5mMWJrcTFxQXRaV3NNejd5a3N6a0R6QmNYOHd6STd2NVZtZ2tBby0wU2czS1JzQU1LV1pQWFZfd1JqR1hzdzdWMVlyLThDZ3NGek4wVEtiTHRMY1RXay1OQzlfbG14WFNyU3U2?oc=5\" target=\"_blank\">Georgia Power shares tips, tools and free resources to beat summer heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AllOnGeorgia</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-03T22:57:20+00:00"
     },
     {
       "id": "3849b529ed26f133",
