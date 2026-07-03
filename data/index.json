@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T13:50:49+00:00",
+  "last_updated": "2026-07-03T15:50:43+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 93,
-      "new_mentions_this_run": 18,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "900741f11769165c",
         "title": "Alabama Power - WVUA 23",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 56,
-      "new_mentions_this_run": 14,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "facdcaa8e9c4972c",
         "title": "Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion - PennLive.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 141,
-      "new_mentions_this_run": 20,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "888cb96760906f3b",
         "title": "Beat the heat and high energy bills with these tips from Georgia Power - WRBL",
