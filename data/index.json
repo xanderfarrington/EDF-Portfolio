@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T15:50:43+00:00",
+  "last_updated": "2026-07-03T17:18:37+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 93,
-      "new_mentions_this_run": 17,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "900741f11769165c",
         "title": "Alabama Power - WVUA 23",
