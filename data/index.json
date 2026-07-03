@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T22:59:51+00:00",
+  "last_updated": "2026-07-03T02:24:30+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 139,
+      "count": 140,
       "new_mentions_this_run": 19,
       "latest_mention": {
-        "id": "2327e86a8d5cafb5",
-        "title": "Data centers are transforming Georgia Power’s future. What’s the risk? - Macon Telegraph",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ycjRycWIzc0FRa2xLbnhoV1dCWEdBU3UwdjBIMWFsTy1keVpOZnRISUk3bU9jcEdOMUVGSDRIWGt4VEowMUprTUFsWF9sSHR4RjducjY4akhSZFVxejdCb3FxWkRNR29hQnNkTdIBbEFVX3lxTFBUVE5aNEpBUDdiSGdaUkZnaG9ucGdXUlIxdTRSdS0zdmRsaGFsODB5RGp3bHN4UjM1eWJEbm04ZjNkOTdJOHN5aFMxRUdSSGRSRnZuMTZPNjQxWXQ1N1lDQUxlUVdwME9LQnJ2Wg?oc=5",
+        "id": "463dc3c6e0e2fc0b",
+        "title": "Georgia power bills can still jump 30% to 50% this summer, despite a fuel rate cut - The Cool Down",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMi1xOVp3Z0U2eF9aaW1JSkxVaFZZc1Rkb3ZqV0tQMTdhdEdPMF9uS01MbHhtVG4wVW9Id2VUaFVhSFFMWlBQeUx5V2E4SEJpYVlWbThReXVHX3RGbzg2SUlQSEhlTjlxVE1QbFg0SnBlODRpbnJUb1FZWkc5ZndTVkh1aXFrWWZzeURJZ0Z2d3BrUnFHREZzNg?oc=5",
         "domain": "news.google.com",
-        "source": "Macon Telegraph",
+        "source": "The Cool Down",
         "language": "English",
-        "published_at": "2026-07-02T15:38:33+00:00",
-        "summary": "Data centers are transforming Georgia Power’s future. What’s the risk? Macon Telegraph",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9ycjRycWIzc0FRa2xLbnhoV1dCWEdBU3UwdjBIMWFsTy1keVpOZnRISUk3bU9jcEdOMUVGSDRIWGt4VEowMUprTUFsWF9sSHR4RjducjY4akhSZFVxejdCb3FxWkRNR29hQnNkTdIBbEFVX3lxTFBUVE5aNEpBUDdiSGdaUkZnaG9ucGdXUlIxdTRSdS0zdmRsaGFsODB5RGp3bHN4UjM1eWJEbm04ZjNkOTdJOHN5aFMxRUdSSGRSRnZuMTZPNjQxWXQ1N1lDQUxlUVdwME9LQnJ2Wg?oc=5\" target=\"_blank\">Data centers are transforming Georgia Power’s future. What’s the risk?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macon Telegraph</font>",
+        "published_at": "2026-07-03T00:16:00+00:00",
+        "summary": "Georgia power bills can still jump 30% to 50% this summer, despite a fuel rate cut The Cool Down",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMi1xOVp3Z0U2eF9aaW1JSkxVaFZZc1Rkb3ZqV0tQMTdhdEdPMF9uS01MbHhtVG4wVW9Id2VUaFVhSFFMWlBQeUx5V2E4SEJpYVlWbThReXVHX3RGbzg2SUlQSEhlTjlxVE1QbFg0SnBlODRpbnJUb1FZWkc5ZndTVkh1aXFrWWZzeURJZ0Z2d3BrUnFHREZzNg?oc=5\" target=\"_blank\">Georgia power bills can still jump 30% to 50% this summer, despite a fuel rate cut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cool Down</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-02T19:15:52+00:00"
+        "collected_at": "2026-07-03T02:24:19+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 17,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "c4e09c5445ba4505",
         "title": "Jeffrey McClure - Department of Energy (.gov)",

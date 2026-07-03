@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-02T22:59:40+00:00",
+  "last_updated": "2026-07-03T02:24:19+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 139,
+  "count": 140,
   "mentions": [
+    {
+      "id": "463dc3c6e0e2fc0b",
+      "title": "Georgia power bills can still jump 30% to 50% this summer, despite a fuel rate cut - The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMi1xOVp3Z0U2eF9aaW1JSkxVaFZZc1Rkb3ZqV0tQMTdhdEdPMF9uS01MbHhtVG4wVW9Id2VUaFVhSFFMWlBQeUx5V2E4SEJpYVlWbThReXVHX3RGbzg2SUlQSEhlTjlxVE1QbFg0SnBlODRpbnJUb1FZWkc5ZndTVkh1aXFrWWZzeURJZ0Z2d3BrUnFHREZzNg?oc=5",
+      "domain": "news.google.com",
+      "source": "The Cool Down",
+      "language": "English",
+      "published_at": "2026-07-03T00:16:00+00:00",
+      "summary": "Georgia power bills can still jump 30% to 50% this summer, despite a fuel rate cut The Cool Down",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMi1xOVp3Z0U2eF9aaW1JSkxVaFZZc1Rkb3ZqV0tQMTdhdEdPMF9uS01MbHhtVG4wVW9Id2VUaFVhSFFMWlBQeUx5V2E4SEJpYVlWbThReXVHX3RGbzg2SUlQSEhlTjlxVE1QbFg0SnBlODRpbnJUb1FZWkc5ZndTVkh1aXFrWWZzeURJZ0Z2d3BrUnFHREZzNg?oc=5\" target=\"_blank\">Georgia power bills can still jump 30% to 50% this summer, despite a fuel rate cut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cool Down</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-03T02:24:19+00:00"
+    },
     {
       "id": "2327e86a8d5cafb5",
       "title": "Data centers are transforming Georgia Power’s future. What’s the risk? - Macon Telegraph",
