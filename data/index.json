@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T17:18:37+00:00",
+  "last_updated": "2026-07-03T19:10:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 141,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "888cb96760906f3b",
         "title": "Beat the heat and high energy bills with these tips from Georgia Power - WRBL",
