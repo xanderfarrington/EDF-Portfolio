@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T19:01:49+00:00",
+  "last_updated": "2026-07-04T20:49:07+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 56,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "facdcaa8e9c4972c",
         "title": "Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion - PennLive.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 146,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "2af61e4904d63fce",
         "title": "Cranking the AC? Georgia Power says every degree could save you money - WSB-TV",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 17,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "c4e09c5445ba4505",
         "title": "Jeffrey McClure - Department of Energy (.gov)",
