@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-04T02:22:54+00:00",
+  "last_updated": "2026-07-04T06:42:59+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 145,
+  "count": 146,
   "mentions": [
     {
       "id": "2af61e4904d63fce",
@@ -229,6 +229,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-30T17:49:07+00:00"
+    },
+    {
+      "id": "529473d5b27b1c3c",
+      "title": "Georgia Power has a massive plan for new power lines. What does that mean for the homes near them? - The Macon Melody",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMG9zSXF1Skd4ZU5ocnBSaHY4WlRIWlk4ZWZ5bS1NQ2dpSkR0WmxQVm5Ib3JiX0kzVnhHMU9tSkxQMlpqM3VFTzlmcGR0M2IybTAwYkx2TnYzTk9MY0ItLXMteFpCdDNmbW0wSnpWTGlDU2ZlR0Rhdm11M3BKQkRXQ0VIRDIyV21SUlE1VUsxdjVYT0lJSlJ0MmstLWQzQTYwMU5kQlI1RGNxYWM4TEdwQ0NtM3ZsUmdaRGNUa0ZR?oc=5",
+      "domain": "news.google.com",
+      "source": "The Macon Melody",
+      "language": "English",
+      "published_at": "2026-06-29T10:05:20+00:00",
+      "summary": "Georgia Power has a massive plan for new power lines. What does that mean for the homes near them? The Macon Melody",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNMG9zSXF1Skd4ZU5ocnBSaHY4WlRIWlk4ZWZ5bS1NQ2dpSkR0WmxQVm5Ib3JiX0kzVnhHMU9tSkxQMlpqM3VFTzlmcGR0M2IybTAwYkx2TnYzTk9MY0ItLXMteFpCdDNmbW0wSnpWTGlDU2ZlR0Rhdm11M3BKQkRXQ0VIRDIyV21SUlE1VUsxdjVYT0lJSlJ0MmstLWQzQTYwMU5kQlI1RGNxYWM4TEdwQ0NtM3ZsUmdaRGNUa0ZR?oc=5\" target=\"_blank\">Georgia Power has a massive plan for new power lines. What does that mean for the homes near them?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Macon Melody</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-04T06:42:59+00:00"
     },
     {
       "id": "81c9973787133a12",
