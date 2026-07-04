@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T22:57:31+00:00",
+  "last_updated": "2026-07-04T02:23:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 93,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "900741f11769165c",
         "title": "Alabama Power - WVUA 23",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 144,
-      "new_mentions_this_run": 21,
+      "count": 145,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "2af61e4904d63fce",
         "title": "Cranking the AC? Georgia Power says every degree could save you money - WSB-TV",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 17,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "c4e09c5445ba4505",
         "title": "Jeffrey McClure - Department of Energy (.gov)",
