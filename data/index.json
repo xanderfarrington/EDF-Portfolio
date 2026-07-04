@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T15:01:23+00:00",
+  "last_updated": "2026-07-04T16:58:05+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 146,
-      "new_mentions_this_run": 20,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "2af61e4904d63fce",
         "title": "Cranking the AC? Georgia Power says every degree could save you money - WSB-TV",
