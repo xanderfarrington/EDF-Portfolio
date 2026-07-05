@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T07:19:56+00:00",
+  "last_updated": "2026-07-05T10:05:53+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 149,
+      "count": 150,
       "new_mentions_this_run": 19,
       "latest_mention": {
-        "id": "6d2348e1d3ec0f0d",
-        "title": "Georgia Power search for cause of outage in downtown Savannah - Savannah Morning News",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0psNkJFTGxIWDFmNHdaamgxVEhQS0dLa3ZnOVBXbDVRYzdlWVJHTmtWbkFXUmtDblpjV0JCZGtiOVhvMkk3cHM4S19hSmlqVE5CYlc4VDlWejRmdzFTRVE3andIM1JKcU9xMzB3ZHZzMkxZbUJKaHpRTVY3bUpuaTNSTDlKQXhYVzV6UEJWdWZiRnZLSTJUcm5tWGlYeDF6N0ZHZUZnZ0ZGM3ZuWVpMekdlYV9vVC1uMk9WY2k3OTRxOWgwdWdGM1N4RQ?oc=5",
+        "id": "0bf1f5cb08f8ed87",
+        "title": "Why Georgia Power bills stay high despite rate cuts - Savannah Morning News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelY0U1FLWW9hX0RKTG54ZnJVY2VlbFQ5TGZfN3ViTDVOckRraTBWSmRLd1liRHBfTjVrNk95RDhrSW1fazFKeWR6bEU0aElfOTlENUttY1JlLVJoZkVXcWtqLV95QV9BUzVLMGl1YjIzZ1JxYW5rUEltT1Z3WXlJUzhYdVhHOGdFbEpFTnViaC1KcFBQZVBlbjAxZGlkWkxwTklQTVh6eWk3amxsU1hlWDVTSWNjNmMtVklv?oc=5",
         "domain": "news.google.com",
         "source": "Savannah Morning News",
         "language": "English",
-        "published_at": "2026-07-05T00:11:00+00:00",
-        "summary": "Georgia Power search for cause of outage in downtown Savannah Savannah Morning News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0psNkJFTGxIWDFmNHdaamgxVEhQS0dLa3ZnOVBXbDVRYzdlWVJHTmtWbkFXUmtDblpjV0JCZGtiOVhvMkk3cHM4S19hSmlqVE5CYlc4VDlWejRmdzFTRVE3andIM1JKcU9xMzB3ZHZzMkxZbUJKaHpRTVY3bUpuaTNSTDlKQXhYVzV6UEJWdWZiRnZLSTJUcm5tWGlYeDF6N0ZHZUZnZ0ZGM3ZuWVpMekdlYV9vVC1uMk9WY2k3OTRxOWgwdWdGM1N4RQ?oc=5\" target=\"_blank\">Georgia Power search for cause of outage in downtown Savannah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+        "published_at": "2026-07-05T09:02:00+00:00",
+        "summary": "Why Georgia Power bills stay high despite rate cuts Savannah Morning News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelY0U1FLWW9hX0RKTG54ZnJVY2VlbFQ5TGZfN3ViTDVOckRraTBWSmRLd1liRHBfTjVrNk95RDhrSW1fazFKeWR6bEU0aElfOTlENUttY1JlLVJoZkVXcWtqLV95QV9BUzVLMGl1YjIzZ1JxYW5rUEltT1Z3WXlJUzhYdVhHOGdFbEpFTnViaC1KcFBQZVBlbjAxZGlkWkxwTklQTVh6eWk3amxsU1hlWDVTSWNjNmMtVklv?oc=5\" target=\"_blank\">Why Georgia Power bills stay high despite rate cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-05T02:31:56+00:00"
+        "collected_at": "2026-07-05T10:05:42+00:00"
       }
     },
     {
