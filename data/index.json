@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T17:02:24+00:00",
+  "last_updated": "2026-07-05T19:07:46+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 56,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "facdcaa8e9c4972c",
         "title": "Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion - PennLive.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 151,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "0bf1f5cb08f8ed87",
         "title": "Why Georgia Power bills stay high despite rate cuts - Savannah Morning News",
