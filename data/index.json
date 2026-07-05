@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T22:53:05+00:00",
+  "last_updated": "2026-07-05T02:32:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 93,
-      "new_mentions_this_run": 17,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "900741f11769165c",
         "title": "Alabama Power - WVUA 23",
@@ -47,7 +47,7 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 21,
+      "count": 22,
       "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "2b2733d1b2f69c3b",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 146,
-      "new_mentions_this_run": 19,
+      "count": 149,
+      "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "2af61e4904d63fce",
-        "title": "Cranking the AC? Georgia Power says every degree could save you money - WSB-TV",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWNKX3pERjkxQ2pIc0RBa3NIemU3WnQ5U09hQ0YzQWswN1YzRFJ4VU81NDd3aVZpX0EzQkpmNVltRDRzenB5Qmh2T2dPTkRYWnJsUE5XdDB2a1RUc3didTFxV0NSb2tZUUxKMFZrOXlFUHFWc29wakdTOWxfTTBpVGd0Z2ZSakZzUjZRbnotYmREZ1JZSU5CeHMzdXkxMkQ5SHVQSDgzdy1sMXVSbU9EUzZRdzZiSmVUQVJhSkJCUmMtaXU5dnR3QmM2TUwyMnZ6ck8td1FkMDRMUQ?oc=5",
+        "id": "6d2348e1d3ec0f0d",
+        "title": "Georgia Power search for cause of outage in downtown Savannah - Savannah Morning News",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0psNkJFTGxIWDFmNHdaamgxVEhQS0dLa3ZnOVBXbDVRYzdlWVJHTmtWbkFXUmtDblpjV0JCZGtiOVhvMkk3cHM4S19hSmlqVE5CYlc4VDlWejRmdzFTRVE3andIM1JKcU9xMzB3ZHZzMkxZbUJKaHpRTVY3bUpuaTNSTDlKQXhYVzV6UEJWdWZiRnZLSTJUcm5tWGlYeDF6N0ZHZUZnZ0ZGM3ZuWVpMekdlYV9vVC1uMk9WY2k3OTRxOWgwdWdGM1N4RQ?oc=5",
         "domain": "news.google.com",
-        "source": "WSB-TV",
+        "source": "Savannah Morning News",
         "language": "English",
-        "published_at": "2026-07-03T22:17:57+00:00",
-        "summary": "Cranking the AC? Georgia Power says every degree could save you money WSB-TV",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWNKX3pERjkxQ2pIc0RBa3NIemU3WnQ5U09hQ0YzQWswN1YzRFJ4VU81NDd3aVZpX0EzQkpmNVltRDRzenB5Qmh2T2dPTkRYWnJsUE5XdDB2a1RUc3didTFxV0NSb2tZUUxKMFZrOXlFUHFWc29wakdTOWxfTTBpVGd0Z2ZSakZzUjZRbnotYmREZ1JZSU5CeHMzdXkxMkQ5SHVQSDgzdy1sMXVSbU9EUzZRdzZiSmVUQVJhSkJCUmMtaXU5dnR3QmM2TUwyMnZ6ck8td1FkMDRMUQ?oc=5\" target=\"_blank\">Cranking the AC? Georgia Power says every degree could save you money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "published_at": "2026-07-05T00:11:00+00:00",
+        "summary": "Georgia Power search for cause of outage in downtown Savannah Savannah Morning News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0psNkJFTGxIWDFmNHdaamgxVEhQS0dLa3ZnOVBXbDVRYzdlWVJHTmtWbkFXUmtDblpjV0JCZGtiOVhvMkk3cHM4S19hSmlqVE5CYlc4VDlWejRmdzFTRVE3andIM1JKcU9xMzB3ZHZzMkxZbUJKaHpRTVY3bUpuaTNSTDlKQXhYVzV6UEJWdWZiRnZLSTJUcm5tWGlYeDF6N0ZHZUZnZ0ZGM3ZuWVpMekdlYV9vVC1uMk9WY2k3OTRxOWgwdWdGM1N4RQ?oc=5\" target=\"_blank\">Georgia Power search for cause of outage in downtown Savannah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-03T22:57:20+00:00"
+        "collected_at": "2026-07-05T02:31:56+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 17,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "c4e09c5445ba4505",
         "title": "Jeffrey McClure - Department of Energy (.gov)",

@@ -2,9 +2,9 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-07-04T22:52:43+00:00",
+  "last_updated": "2026-07-05T02:31:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 21,
+  "count": 22,
   "mentions": [
     {
       "id": "2b2733d1b2f69c3b",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-30T21:23:47+00:00"
+    },
+    {
+      "id": "91380aa4123afaa2",
+      "title": "Project Finance Brief: Permanent Power Company Secures $600 Million - Mercom Capital Group",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZExkZHlsOTJMNkhhRjd2NWVYeVRNMUo3bUo1WVRnQnM3ZVNHZGZJZEJaYlJ1OVZzMHc0QzBjVkh3V0RBMndiNmtxT0lPQXVuRy1iUGxRNUpVY2ZNbGFaX2ZNNUhBdUMwTnRCczdmWG9DQUhnRTliLThHcWlpbDVoeEx2MEh5X1pIdHdnNkk1TVBFY3dxekpZ?oc=5",
+      "domain": "news.google.com",
+      "source": "Mercom Capital Group",
+      "language": "English",
+      "published_at": "2026-06-24T07:55:21+00:00",
+      "summary": "Project Finance Brief: Permanent Power Company Secures $600 Million Mercom Capital Group",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNZExkZHlsOTJMNkhhRjd2NWVYeVRNMUo3bUo1WVRnQnM3ZVNHZGZJZEJaYlJ1OVZzMHc0QzBjVkh3V0RBMndiNmtxT0lPQXVuRy1iUGxRNUpVY2ZNbGFaX2ZNNUhBdUMwTnRCczdmWG9DQUhnRTliLThHcWlpbDVoeEx2MEh5X1pIdHdnNkk1TVBFY3dxekpZ?oc=5\" target=\"_blank\">Project Finance Brief: Permanent Power Company Secures $600 Million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mercom Capital Group</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-05T02:31:45+00:00"
     },
     {
       "id": "dd2bcc94d02a3333",
