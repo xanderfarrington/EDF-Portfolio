@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-05T20:51:59+00:00",
+  "last_updated": "2026-07-05T22:57:19+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 151,
+  "count": 152,
   "mentions": [
     {
       "id": "0bf1f5cb08f8ed87",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-05T02:31:56+00:00"
+    },
+    {
+      "id": "cff5da7b7ee13b06",
+      "title": "Georgia Power outage affects downtown Savannah - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYm1KOUNyelp6cHhWeW1MTmRvYk04Vk5lT3piRkREUGdiT1dWVG80dkJSb3hXMkRZTkRZWjJJX2tRMF9UTlZrV21FV3diUkEwUjdDRl9hRm1hMVdxOTR5SlNMSGNNajd6eXNBUU95d0dDS2NxQ1p1djlYTGk2a2pBcmlhSkkweHpJeVVMOUpCdG1SVko1dEE?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-07-04T23:34:56+00:00",
+      "summary": "Georgia Power outage affects downtown Savannah Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYm1KOUNyelp6cHhWeW1MTmRvYk04Vk5lT3piRkREUGdiT1dWVG80dkJSb3hXMkRZTkRZWjJJX2tRMF9UTlZrV21FV3diUkEwUjdDRl9hRm1hMVdxOTR5SlNMSGNNajd6eXNBUU95d0dDS2NxQ1p1djlYTGk2a2pBcmlhSkkweHpJeVVMOUpCdG1SVko1dEE?oc=5\" target=\"_blank\">Georgia Power outage affects downtown Savannah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-05T22:57:19+00:00"
     },
     {
       "id": "948ab376c7afd1c9",

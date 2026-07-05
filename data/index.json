@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T20:52:09+00:00",
+  "last_updated": "2026-07-05T22:57:30+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -47,7 +47,7 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 22,
+      "count": 23,
       "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "2b2733d1b2f69c3b",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 151,
+      "count": 152,
       "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "0bf1f5cb08f8ed87",

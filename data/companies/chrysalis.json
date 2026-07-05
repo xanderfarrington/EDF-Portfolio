@@ -2,9 +2,9 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-07-05T20:51:48+00:00",
+  "last_updated": "2026-07-05T22:57:08+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 22,
+  "count": 23,
   "mentions": [
     {
       "id": "2b2733d1b2f69c3b",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-28T02:51:54+00:00"
+    },
+    {
+      "id": "95d7b0125dfa022d",
+      "title": "Morrison-Backed Chrysalis Renewables Closes First Deal Under Hanwha Partnership with 357 MW US Solar Assets - SolarQuarter",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObEZRZDJhM2pLVEgtWFRsU1JlRVV0dmRkb1pZX2RET1RReE5kRC01a2FKdkotbk5RRm5fV0dFbTRYejlIS2dSWTVtQ2Q2U3Q1TDZ4RVZOTWNKaWZiWmFqZjlwcnFBd2k1WUtCNkxtRWcxa1kxUzVLU182LVYxOWstaGNxbGpqNnNnQjJFWlN2UUpwS3c1UDR5V3dWbk0tcVJSc0JHX3JQb0JvMEI0aGY1MXhiOXRGenJKRlFVVW5BcExXa1l0MjUzbzl30gHPAUFVX3lxTE5GWUtTYmhqc1JfdDJ0SEFnZzh3VzFhaHFlc2FybUN5YzYwcW96TDdCRTBhNHFDT3FTRnBjMm9oSE1UaF8tZXVQZkZZLURNUkgxLUNuUENXY0lDSURGbGtzUHRJUWtmMi11TUprYk1FZENuakd2TkVfZWxEN29yN2VDTlk5dWNJb3JqdEs4dl8zaFVVeU1FNTk0dGZTN282X3RZRUEyQjRFNmpzZ2haeDNQc1NEYmY2WE5CMDhIcldDQ2NpMUhLR1ZSdVFMMHQyRQ?oc=5",
+      "domain": "news.google.com",
+      "source": "SolarQuarter",
+      "language": "English",
+      "published_at": "2026-06-19T07:00:00+00:00",
+      "summary": "Morrison-Backed Chrysalis Renewables Closes First Deal Under Hanwha Partnership with 357 MW US Solar Assets SolarQuarter",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxObEZRZDJhM2pLVEgtWFRsU1JlRVV0dmRkb1pZX2RET1RReE5kRC01a2FKdkotbk5RRm5fV0dFbTRYejlIS2dSWTVtQ2Q2U3Q1TDZ4RVZOTWNKaWZiWmFqZjlwcnFBd2k1WUtCNkxtRWcxa1kxUzVLU182LVYxOWstaGNxbGpqNnNnQjJFWlN2UUpwS3c1UDR5V3dWbk0tcVJSc0JHX3JQb0JvMEI0aGY1MXhiOXRGenJKRlFVVW5BcExXa1l0MjUzbzl30gHPAUFVX3lxTE5GWUtTYmhqc1JfdDJ0SEFnZzh3VzFhaHFlc2FybUN5YzYwcW96TDdCRTBhNHFDT3FTRnBjMm9oSE1UaF8tZXVQZkZZLURNUkgxLUNuUENXY0lDSURGbGtzUHRJUWtmMi11TUprYk1FZENuakd2TkVfZWxEN29yN2VDTlk5dWNJb3JqdEs4dl8zaFVVeU1FNTk0dGZTN282X3RZRUEyQjRFNmpzZ2haeDNQc1NEYmY2WE5CMDhIcldDQ2NpMUhLR1ZSdVFMMHQyRQ?oc=5\" target=\"_blank\">Morrison-Backed Chrysalis Renewables Closes First Deal Under Hanwha Partnership with 357 MW US Solar Assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SolarQuarter</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-05T22:57:08+00:00"
     },
     {
       "id": "bceb3e4ac3bbf976",
