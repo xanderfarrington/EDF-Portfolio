@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T15:09:31+00:00",
+  "last_updated": "2026-07-05T17:02:24+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 22,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "2b2733d1b2f69c3b",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society -- ANS",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 150,
+      "count": 151,
       "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "0bf1f5cb08f8ed87",

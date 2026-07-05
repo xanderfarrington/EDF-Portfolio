@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-05T15:09:20+00:00",
+  "last_updated": "2026-07-05T17:02:14+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 150,
+  "count": 151,
   "mentions": [
     {
       "id": "0bf1f5cb08f8ed87",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-05T02:31:56+00:00"
+    },
+    {
+      "id": "948ab376c7afd1c9",
+      "title": "Georgia Power outage affects downtown Savannah - WSAV-TV",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREk3dWVvZ1ZvY2F5eDROcUtpWFMxcXFSYU1mTEhkRXlYckV4V0pQN2hzYVpDZWNJUUd5ekUwMnNMc3ZjTng0Y3A5ZDZKRnpaOThSV3hiVzFxbEtNZkZzb2hRNEZVa3hnWEJ6SXBOamVQZ0NjYmJmREVDbGFzWXdneE9uLVrSAYQBQVVfeXFMTkRJN3Vlb2dWb2NheXg0TnFLaVhTMXFxUmFNZkxIZEV5WHJFeFdKUDdoc2FaQ2VjSVFHeXpFMDJzTHN2Y054NGNwOWQ2SkZ6Wjk4Uld4YlcxcWxLTWZGc29oUTRGVWt4Z1hCeklwTmplUGdDY2JiZkRFQ2xhc1l3Z3hPbi1a?oc=5",
+      "domain": "news.google.com",
+      "source": "WSAV-TV",
+      "language": "English",
+      "published_at": "2026-07-04T19:34:56+00:00",
+      "summary": "Georgia Power outage affects downtown Savannah WSAV-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOREk3dWVvZ1ZvY2F5eDROcUtpWFMxcXFSYU1mTEhkRXlYckV4V0pQN2hzYVpDZWNJUUd5ekUwMnNMc3ZjTng0Y3A5ZDZKRnpaOThSV3hiVzFxbEtNZkZzb2hRNEZVa3hnWEJ6SXBOamVQZ0NjYmJmREVDbGFzWXdneE9uLVrSAYQBQVVfeXFMTkRJN3Vlb2dWb2NheXg0TnFLaVhTMXFxUmFNZkxIZEV5WHJFeFdKUDdoc2FaQ2VjSVFHeXpFMDJzTHN2Y054NGNwOWQ2SkZ6Wjk4Uld4YlcxcWxLTWZGc29oUTRGVWt4Z1hCeklwTmplUGdDY2JiZkRFQ2xhc1l3Z3hPbi1a?oc=5\" target=\"_blank\">Georgia Power outage affects downtown Savannah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAV-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-05T17:02:14+00:00"
     },
     {
       "id": "2af61e4904d63fce",
