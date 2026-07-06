@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T21:24:28+00:00",
+  "last_updated": "2026-07-06T23:02:00+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 156,
+      "count": 158,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "f933081a18d95390",
-        "title": "The Tide: Kemp, Open AI, Georgia Power meet - thecurrentga.org",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSDhheXBsTlVhRXhob20wT3VmR1RtNWNvUXhwQWtqZnJjQWxldEY5d005MF9NNGQyQjJpbHgxd1p0SjhJdFFSQU5kNXVkZEVZT2NNREZJOHFjYUM5YW9KNDh4eTZrN0hvdkJsWTNHa204LVQ4SHRwOExqMnR3R0YycnRXYw?oc=5",
+        "id": "e027f141dce7a8bf",
+        "title": "Georgia Power lowered fuel rates in June, but many customers are still seeing their bills go up - WTXL ABC 27",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLW5walNzYUkzQmlybThNUV9la3hyeVJBTFFoYklQY2hQVXlzc3MzbW00VTRkZUloS3dQbXp5U01QNE5QY3NGMnZNT0NpdUs0V2pURU80aEFaTm05R2VNN1dPdXR1dElnODcwUTAxY3N3YU13TGRfa3BRUlFEV3lGR25uUUVtY0xGR0ZhYVBZWEtUeThET3pWNWZVRDFzeWl4SEQ0Z1JGMlprdlphbHgxTFpoYWsweG9lVV8xRENZYXdqY2h3NnNzeVdwaUNWQmMwZWpsYkxSTG5MdHJHdzRIaXlpNHF3ek1pMGVKVVlvMmdkX18xM21rbWM1WQ?oc=5",
         "domain": "news.google.com",
-        "source": "thecurrentga.org",
+        "source": "WTXL ABC 27",
         "language": "English",
-        "published_at": "2026-07-06T19:40:37+00:00",
-        "summary": "The Tide: Kemp, Open AI, Georgia Power meet thecurrentga.org",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSDhheXBsTlVhRXhob20wT3VmR1RtNWNvUXhwQWtqZnJjQWxldEY5d005MF9NNGQyQjJpbHgxd1p0SjhJdFFSQU5kNXVkZEVZT2NNREZJOHFjYUM5YW9KNDh4eTZrN0hvdkJsWTNHa204LVQ4SHRwOExqMnR3R0YycnRXYw?oc=5\" target=\"_blank\">The Tide: Kemp, Open AI, Georgia Power meet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
+        "published_at": "2026-07-06T21:23:05+00:00",
+        "summary": "Georgia Power lowered fuel rates in June, but many customers are still seeing their bills go up WTXL ABC 27",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLW5walNzYUkzQmlybThNUV9la3hyeVJBTFFoYklQY2hQVXlzc3MzbW00VTRkZUloS3dQbXp5U01QNE5QY3NGMnZNT0NpdUs0V2pURU80aEFaTm05R2VNN1dPdXR1dElnODcwUTAxY3N3YU13TGRfa3BRUlFEV3lGR25uUUVtY0xGR0ZhYVBZWEtUeThET3pWNWZVRDFzeWl4SEQ0Z1JGMlprdlphbHgxTFpoYWsweG9lVV8xRENZYXdqY2h3NnNzeVdwaUNWQmMwZWpsYkxSTG5MdHJHdzRIaXlpNHF3ek1pMGVKVVlvMmdkX18xM21rbWM1WQ?oc=5\" target=\"_blank\">Georgia Power lowered fuel rates in June, but many customers are still seeing their bills go up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTXL ABC 27</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-06T19:47:46+00:00"
+        "collected_at": "2026-07-06T23:01:50+00:00"
       }
     },
     {
