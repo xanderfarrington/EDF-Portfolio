@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T16:49:52+00:00",
+  "last_updated": "2026-07-06T19:47:57+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 155,
-      "new_mentions_this_run": 24,
+      "count": 156,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "755666c8bbeb39ca",
-        "title": "Powering community growth: Georgia Power’s leadership accelerates New Day Palisades in Cumberland - The Business Journals",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQXQ3bzBIUURhamY3dHM4a2xIMWxUcHJ3LXQ4V0d2SWFZOS1qQ3VGRTM5NzQtV0tCRTY1NWp5eTZCQXNXRWRBNEx1cVllMExPYV9IS2ttV2dzLWJSaEl0RXdMSFp5RkNzeHEzdEl6cXZ3YlA4SXlnOWpQSFltLVVjSVM4RlhONGVjNUhGYlhqOW80WVZ4U1czQkJnSmtWQ3kwMjgw?oc=5",
+        "id": "f933081a18d95390",
+        "title": "The Tide: Kemp, Open AI, Georgia Power meet - thecurrentga.org",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSDhheXBsTlVhRXhob20wT3VmR1RtNWNvUXhwQWtqZnJjQWxldEY5d005MF9NNGQyQjJpbHgxd1p0SjhJdFFSQU5kNXVkZEVZT2NNREZJOHFjYUM5YW9KNDh4eTZrN0hvdkJsWTNHa204LVQ4SHRwOExqMnR3R0YycnRXYw?oc=5",
         "domain": "news.google.com",
-        "source": "The Business Journals",
+        "source": "thecurrentga.org",
         "language": "English",
-        "published_at": "2026-07-06T15:10:00+00:00",
-        "summary": "Powering community growth: Georgia Power’s leadership accelerates New Day Palisades in Cumberland The Business Journals",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPQXQ3bzBIUURhamY3dHM4a2xIMWxUcHJ3LXQ4V0d2SWFZOS1qQ3VGRTM5NzQtV0tCRTY1NWp5eTZCQXNXRWRBNEx1cVllMExPYV9IS2ttV2dzLWJSaEl0RXdMSFp5RkNzeHEzdEl6cXZ3YlA4SXlnOWpQSFltLVVjSVM4RlhONGVjNUhGYlhqOW80WVZ4U1czQkJnSmtWQ3kwMjgw?oc=5\" target=\"_blank\">Powering community growth: Georgia Power’s leadership accelerates New Day Palisades in Cumberland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "published_at": "2026-07-06T19:40:37+00:00",
+        "summary": "The Tide: Kemp, Open AI, Georgia Power meet thecurrentga.org",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSDhheXBsTlVhRXhob20wT3VmR1RtNWNvUXhwQWtqZnJjQWxldEY5d005MF9NNGQyQjJpbHgxd1p0SjhJdFFSQU5kNXVkZEVZT2NNREZJOHFjYUM5YW9KNDh4eTZrN0hvdkJsWTNHa204LVQ4SHRwOExqMnR3R0YycnRXYw?oc=5\" target=\"_blank\">The Tide: Kemp, Open AI, Georgia Power meet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-06T16:49:41+00:00"
+        "collected_at": "2026-07-06T19:47:46+00:00"
       }
     },
     {
