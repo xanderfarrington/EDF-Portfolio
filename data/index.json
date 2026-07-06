@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T13:40:33+00:00",
+  "last_updated": "2026-07-06T16:49:52+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 93,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "900741f11769165c",
         "title": "Alabama Power - WVUA 23",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 56,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "facdcaa8e9c4972c",
         "title": "Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion - PennLive.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 153,
-      "new_mentions_this_run": 19,
+      "count": 155,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "0bf1f5cb08f8ed87",
-        "title": "Why Georgia Power bills stay high despite rate cuts - Savannah Morning News",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelY0U1FLWW9hX0RKTG54ZnJVY2VlbFQ5TGZfN3ViTDVOckRraTBWSmRLd1liRHBfTjVrNk95RDhrSW1fazFKeWR6bEU0aElfOTlENUttY1JlLVJoZkVXcWtqLV95QV9BUzVLMGl1YjIzZ1JxYW5rUEltT1Z3WXlJUzhYdVhHOGdFbEpFTnViaC1KcFBQZVBlbjAxZGlkWkxwTklQTVh6eWk3amxsU1hlWDVTSWNjNmMtVklv?oc=5",
+        "id": "755666c8bbeb39ca",
+        "title": "Powering community growth: Georgia Power’s leadership accelerates New Day Palisades in Cumberland - The Business Journals",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQXQ3bzBIUURhamY3dHM4a2xIMWxUcHJ3LXQ4V0d2SWFZOS1qQ3VGRTM5NzQtV0tCRTY1NWp5eTZCQXNXRWRBNEx1cVllMExPYV9IS2ttV2dzLWJSaEl0RXdMSFp5RkNzeHEzdEl6cXZ3YlA4SXlnOWpQSFltLVVjSVM4RlhONGVjNUhGYlhqOW80WVZ4U1czQkJnSmtWQ3kwMjgw?oc=5",
         "domain": "news.google.com",
-        "source": "Savannah Morning News",
+        "source": "The Business Journals",
         "language": "English",
-        "published_at": "2026-07-05T09:02:00+00:00",
-        "summary": "Why Georgia Power bills stay high despite rate cuts Savannah Morning News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelY0U1FLWW9hX0RKTG54ZnJVY2VlbFQ5TGZfN3ViTDVOckRraTBWSmRLd1liRHBfTjVrNk95RDhrSW1fazFKeWR6bEU0aElfOTlENUttY1JlLVJoZkVXcWtqLV95QV9BUzVLMGl1YjIzZ1JxYW5rUEltT1Z3WXlJUzhYdVhHOGdFbEpFTnViaC1KcFBQZVBlbjAxZGlkWkxwTklQTVh6eWk3amxsU1hlWDVTSWNjNmMtVklv?oc=5\" target=\"_blank\">Why Georgia Power bills stay high despite rate cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+        "published_at": "2026-07-06T15:10:00+00:00",
+        "summary": "Powering community growth: Georgia Power’s leadership accelerates New Day Palisades in Cumberland The Business Journals",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPQXQ3bzBIUURhamY3dHM4a2xIMWxUcHJ3LXQ4V0d2SWFZOS1qQ3VGRTM5NzQtV0tCRTY1NWp5eTZCQXNXRWRBNEx1cVllMExPYV9IS2ttV2dzLWJSaEl0RXdMSFp5RkNzeHEzdEl6cXZ3YlA4SXlnOWpQSFltLVVjSVM4RlhONGVjNUhGYlhqOW80WVZ4U1czQkJnSmtWQ3kwMjgw?oc=5\" target=\"_blank\">Powering community growth: Georgia Power’s leadership accelerates New Day Palisades in Cumberland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-05T10:05:42+00:00"
+        "collected_at": "2026-07-06T16:49:41+00:00"
       }
     },
     {
