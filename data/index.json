@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T08:15:10+00:00",
+  "last_updated": "2026-07-06T13:40:33+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 152,
-      "new_mentions_this_run": 18,
+      "count": 153,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "0bf1f5cb08f8ed87",
         "title": "Why Georgia Power bills stay high despite rate cuts - Savannah Morning News",

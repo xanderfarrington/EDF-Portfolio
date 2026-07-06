@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-06T08:15:00+00:00",
+  "last_updated": "2026-07-06T13:40:23+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 152,
+  "count": 153,
   "mentions": [
     {
       "id": "0bf1f5cb08f8ed87",
@@ -229,6 +229,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-02T13:45:40+00:00"
+    },
+    {
+      "id": "bf7e7e467b37728b",
+      "title": "Georgia Power Rates & Electricity Costs (July 2026) - ElectricChoice.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXaE1UejZOc2k3XzJiNm1saVFGTFJFeWtmdzdYRzh3bjBYS1JsTzNLb2l5Z2NMZjBqbWZWU3JnOEphcDdtVnN3eHlubFpMaXBqN3NPNm56M0dXLUdpZzBLVjd4NFVIdk1tVjlFdndtT1EybnJUNkE?oc=5",
+      "domain": "news.google.com",
+      "source": "ElectricChoice.com",
+      "language": "English",
+      "published_at": "2026-07-01T05:00:00+00:00",
+      "summary": "Georgia Power Rates & Electricity Costs (July 2026) ElectricChoice.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBXaE1UejZOc2k3XzJiNm1saVFGTFJFeWtmdzdYRzh3bjBYS1JsTzNLb2l5Z2NMZjBqbWZWU3JnOEphcDdtVnN3eHlubFpMaXBqN3NPNm56M0dXLUdpZzBLVjd4NFVIdk1tVjlFdndtT1EybnJUNkE?oc=5\" target=\"_blank\">Georgia Power Rates & Electricity Costs (July 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ElectricChoice.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-06T13:40:23+00:00"
     },
     {
       "id": "7a03c4358a104b17",
