@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-07T14:16:06+00:00",
+  "last_updated": "2026-07-07T17:54:32+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 159,
+  "count": 160,
   "mentions": [
     {
       "id": "e027f141dce7a8bf",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-06T23:01:50+00:00"
+    },
+    {
+      "id": "98cdc6dada28cdcb",
+      "title": "Georgia Power lowered fuel rates in June, but many customers are still seeing their bills go up - WTXL ABC 27",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSUtic2JDZnIySnhhSkwzb2RrLVFrcGtPMUQxeFJDLWxOcFJOM19BZTZ3aDlLbHFBcVo3eGUtUm84ZkplRlRYWXZiSy13YmtTS05YRlcyaUNCVEQ5Y0U2dmduX2JIVm1vTlNnQTFQV1piZElSODZ5V3pRSXBQNGRablB6SDQteWQ3dHlXaThVdXBzVzdJZ3pnMDV2TG90cXE4aFEyamFMS3o2a1hVWjBhSmVhWXFnS3pVS2NCb1ZyeVlBXzZ2Zm16dHdGYXZaN0lOa1lKRw?oc=5",
+      "domain": "news.google.com",
+      "source": "WTXL ABC 27",
+      "language": "English",
+      "published_at": "2026-07-06T21:17:47+00:00",
+      "summary": "Georgia Power lowered fuel rates in June, but many customers are still seeing their bills go up WTXL ABC 27",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSUtic2JDZnIySnhhSkwzb2RrLVFrcGtPMUQxeFJDLWxOcFJOM19BZTZ3aDlLbHFBcVo3eGUtUm84ZkplRlRYWXZiSy13YmtTS05YRlcyaUNCVEQ5Y0U2dmduX2JIVm1vTlNnQTFQV1piZElSODZ5V3pRSXBQNGRablB6SDQteWQ3dHlXaThVdXBzVzdJZ3pnMDV2TG90cXE4aFEyamFMS3o2a1hVWjBhSmVhWXFnS3pVS2NCb1ZyeVlBXzZ2Zm16dHdGYXZaN0lOa1lKRw?oc=5\" target=\"_blank\">Georgia Power lowered fuel rates in June, but many customers are still seeing their bills go up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTXL ABC 27</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-07T17:54:32+00:00"
     },
     {
       "id": "14a5e82910b6dd16",
