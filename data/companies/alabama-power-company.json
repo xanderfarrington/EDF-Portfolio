@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-07T19:46:21+00:00",
+  "last_updated": "2026-07-07T21:17:57+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 93,
+  "count": 94,
   "mentions": [
     {
       "id": "900741f11769165c",
@@ -495,6 +495,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-15T22:13:34+00:00"
+    },
+    {
+      "id": "b658754346640253",
+      "title": "Abdul Lewis, South Alabama Jaguars, Power Forward - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mTGFvNl94WnY3M0pSQndTOHVTRHB6ZlA2UnBhWEd2ekJSRldhaEhQYWY4elFxc2M1YmRXREFGak1xNGU4a3FUdnpsUmI1ZGdlNzRhT0FSRThnOU9KcW93WjNaeGxFUm5XVUZoc0tuZw?oc=5",
+      "domain": "news.google.com",
+      "source": "247Sports",
+      "language": "English",
+      "published_at": "2026-06-13T21:18:14+00:00",
+      "summary": "Abdul Lewis, South Alabama Jaguars, Power Forward 247Sports",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9mTGFvNl94WnY3M0pSQndTOHVTRHB6ZlA2UnBhWEd2ekJSRldhaEhQYWY4elFxc2M1YmRXREFGak1xNGU4a3FUdnpsUmI1ZGdlNzRhT0FSRThnOU9KcW93WjNaeGxFUm5XVUZoc0tuZw?oc=5\" target=\"_blank\">Abdul Lewis, South Alabama Jaguars, Power Forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">247Sports</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-07T21:17:57+00:00"
     },
     {
       "id": "796dc6ce301e22a5",

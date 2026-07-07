@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-07T19:46:38+00:00",
+  "last_updated": "2026-07-07T21:18:14+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 163,
+  "count": 166,
   "mentions": [
     {
       "id": "76f5a0e98dbf8553",
@@ -47,6 +47,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-07T19:46:38+00:00"
+    },
+    {
+      "id": "43cc60493c50305e",
+      "title": "Georgia Power continues to offer options to connect customers to solar - Grice Connect",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajlrcmpYZzNsMl82YTZqY1RGejhYNmY4ZktEaTJQNlNQVS05NzRIVU1Wdk15Vy04cWxUdVdfU05hRFZ4blR5RU1OLXg5TlRyS1Y3YWdRZ1llYVM1WDZNR0xDbHVZSzJybG5PMGJsT05wNmRmejk0Rk8wRGVlV01sQ0xac3VqLTk4Y2FPb3FvX3BXQkVxSFVXVDlXTGdzYjRxZjVFbktBZjIwY1hRdG5ONGlsRWdlakZucnduVVpMTTnSAcABQVVfeXFMUGo5a3JqWGczbDJfNmE2amNURno4WDZmOGZLRGkyUDZTUFUtOTc0SFVNVnZNeVctOHFsVHVXX1NOYURWeG5UeUVNTi14OU5UcktWN2FnUWdZZWFTNVg2TUdMQ2x1WUsycmxuTzBibE9OcDZkZno5NEZPMERlZVdNbENMWnN1ai05OGNhT29xb19wV0JFcUhVV1Q5V0xnc2I0cWY1RW5LQWYyMGNYUXRuTjRpbEVnZWpGbnJ3blVaTE05?oc=5",
+      "domain": "news.google.com",
+      "source": "Grice Connect",
+      "language": "English",
+      "published_at": "2026-07-07T18:05:00+00:00",
+      "summary": "Georgia Power continues to offer options to connect customers to solar Grice Connect",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajlrcmpYZzNsMl82YTZqY1RGejhYNmY4ZktEaTJQNlNQVS05NzRIVU1Wdk15Vy04cWxUdVdfU05hRFZ4blR5RU1OLXg5TlRyS1Y3YWdRZ1llYVM1WDZNR0xDbHVZSzJybG5PMGJsT05wNmRmejk0Rk8wRGVlV01sQ0xac3VqLTk4Y2FPb3FvX3BXQkVxSFVXVDlXTGdzYjRxZjVFbktBZjIwY1hRdG5ONGlsRWdlakZucnduVVpMTTnSAcABQVVfeXFMUGo5a3JqWGczbDJfNmE2amNURno4WDZmOGZLRGkyUDZTUFUtOTc0SFVNVnZNeVctOHFsVHVXX1NOYURWeG5UeUVNTi14OU5UcktWN2FnUWdZZWFTNVg2TUdMQ2x1WUsycmxuTzBibE9OcDZkZno5NEZPMERlZVdNbENMWnN1ai05OGNhT29xb19wV0JFcUhVV1Q5V0xnc2I0cWY1RW5LQWYyMGNYUXRuTjRpbEVnZWpGbnJ3blVaTE05?oc=5\" target=\"_blank\">Georgia Power continues to offer options to connect customers to solar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-07T21:18:14+00:00"
+    },
+    {
+      "id": "5753ab6cc79c3a57",
+      "title": "Why Georgia Power bills stay high despite rate cuts - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4teFlfN1pzcC1QMEJya3BDYXpJZVFsQzBHTHcyOU9GdDNvbW1aSUNzLW5IQXVNSFlESWpqVjRPWTl6M1M4SVVJRWFQQkJiSkh3Q2lyVEpjUC01ZW9RY0JMVmY5bGx0WkpIbl9QbFlpU1IyZmswWGVRNlpLV3o?oc=5",
+      "domain": "news.google.com",
+      "source": "AOL.com",
+      "language": "English",
+      "published_at": "2026-07-07T10:19:31+00:00",
+      "summary": "Why Georgia Power bills stay high despite rate cuts AOL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4teFlfN1pzcC1QMEJya3BDYXpJZVFsQzBHTHcyOU9GdDNvbW1aSUNzLW5IQXVNSFlESWpqVjRPWTl6M1M4SVVJRWFQQkJiSkh3Q2lyVEpjUC01ZW9RY0JMVmY5bGx0WkpIbl9QbFlpU1IyZmswWGVRNlpLV3o?oc=5\" target=\"_blank\">Why Georgia Power bills stay high despite rate cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-07T21:18:14+00:00"
     },
     {
       "id": "e027f141dce7a8bf",
@@ -145,6 +173,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-06T16:49:41+00:00"
+    },
+    {
+      "id": "4cf06affc60b3a5b",
+      "title": "Georgia Power search for cause of outage in downtown Savannah - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFweFBFNWk0OVg0Z3ZZSkg5VS12ZFViMTJZODh0bE9YeGJJc1dINVN4d3JfQ1dFVHppVUlSMmVMSFUzdTF1MDBldlNqLWl0Mm1EV2pnY2J0c3hubVlhbjhJRUhDVXJxMll5OVF3dDJFUzc2Z1JDQ0NCTjI4TzZnelQwRQ?oc=5",
+      "domain": "news.google.com",
+      "source": "AOL.com",
+      "language": "English",
+      "published_at": "2026-07-05T22:53:30+00:00",
+      "summary": "Georgia Power search for cause of outage in downtown Savannah AOL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFweFBFNWk0OVg0Z3ZZSkg5VS12ZFViMTJZODh0bE9YeGJJc1dINVN4d3JfQ1dFVHppVUlSMmVMSFUzdTF1MDBldlNqLWl0Mm1EV2pnY2J0c3hubVlhbjhJRUhDVXJxMll5OVF3dDJFUzc2Z1JDQ0NCTjI4TzZnelQwRQ?oc=5\" target=\"_blank\">Georgia Power search for cause of outage in downtown Savannah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-07T21:18:14+00:00"
     },
     {
       "id": "0bf1f5cb08f8ed87",
