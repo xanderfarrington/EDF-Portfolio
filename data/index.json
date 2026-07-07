@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-07T02:32:50+00:00",
+  "last_updated": "2026-07-07T07:33:24+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 33,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "9d251408e4da7385",
         "title": "American Electric Power's BOLD line targets bigger power moves on Tuesday - AD HOC NEWS",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 93,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "900741f11769165c",
         "title": "Alabama Power - WVUA 23",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 23,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "2b2733d1b2f69c3b",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society -- ANS",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 56,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "facdcaa8e9c4972c",
         "title": "Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion - PennLive.com",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 158,
-      "new_mentions_this_run": 0,
+      "count": 159,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "e027f141dce7a8bf",
         "title": "Georgia Power lowered fuel rates in June, but many customers are still seeing their bills go up - WTXL ABC 27",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 17,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "c4e09c5445ba4505",
         "title": "Jeffrey McClure - Department of Energy (.gov)",

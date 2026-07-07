@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-07T02:32:34+00:00",
+  "last_updated": "2026-07-07T07:33:13+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 158,
+  "count": 159,
   "mentions": [
     {
       "id": "e027f141dce7a8bf",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-06T19:47:46+00:00"
+    },
+    {
+      "id": "104f45cd15880819",
+      "title": "The Tide: Kemp, OpenAI, Georgia Power meet - thecurrentga.org",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSDhheXBsTlVhRXhob20wT3VmR1RtNWNvUXhwQWtqZnJjQWxldEY5d005MF9NNGQyQjJpbHgxd1p0SjhJdFFSQU5kNXVkZEVZT2NNREZJOHFjYUM5YW9KNDh4eTZrN0hvdkJsWTNHa204LVQ4SHRwOExqMnR3R0YycnRXYw?oc=5",
+      "domain": "news.google.com",
+      "source": "thecurrentga.org",
+      "language": "English",
+      "published_at": "2026-07-06T19:40:37+00:00",
+      "summary": "The Tide: Kemp, OpenAI, Georgia Power meet thecurrentga.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSDhheXBsTlVhRXhob20wT3VmR1RtNWNvUXhwQWtqZnJjQWxldEY5d005MF9NNGQyQjJpbHgxd1p0SjhJdFFSQU5kNXVkZEVZT2NNREZJOHFjYUM5YW9KNDh4eTZrN0hvdkJsWTNHa204LVQ4SHRwOExqMnR3R0YycnRXYw?oc=5\" target=\"_blank\">The Tide: Kemp, OpenAI, Georgia Power meet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-07T07:33:13+00:00"
     },
     {
       "id": "755666c8bbeb39ca",
