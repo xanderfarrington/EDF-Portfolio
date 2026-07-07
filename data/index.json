@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T17:54:43+00:00",
+  "last_updated": "2026-07-07T19:46:48+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 160,
+      "count": 163,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "e027f141dce7a8bf",
-        "title": "Georgia Power lowered fuel rates in June, but many customers are still seeing their bills go up - WTXL ABC 27",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLW5walNzYUkzQmlybThNUV9la3hyeVJBTFFoYklQY2hQVXlzc3MzbW00VTRkZUloS3dQbXp5U01QNE5QY3NGMnZNT0NpdUs0V2pURU80aEFaTm05R2VNN1dPdXR1dElnODcwUTAxY3N3YU13TGRfa3BRUlFEV3lGR25uUUVtY0xGR0ZhYVBZWEtUeThET3pWNWZVRDFzeWl4SEQ0Z1JGMlprdlphbHgxTFpoYWsweG9lVV8xRENZYXdqY2h3NnNzeVdwaUNWQmMwZWpsYkxSTG5MdHJHdzRIaXlpNHF3ek1pMGVKVVlvMmdkX18xM21rbWM1WQ?oc=5",
+        "id": "76f5a0e98dbf8553",
+        "title": "Kemp holds meeting with OpenAI and Georgia Power in Atlanta - Georgia Recorder",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNF9IZXRsandrWFFfTEVwS25uaHhsVzNVZko1bWNEOXJkeWt2czhsaWVMYVREaEZRamY2SmhYOERuWm96aDFrWUFPTVVoMDR6X1NtMzJpWEllN2hZX0FjWEZKREsycDVHQnM2ZU42X0d1ZGpRcnlyYVVJdDdvby1oN2hqRlBDNnFfMks0OUVscmt5b3MtcVdCZ08wc2VaSnVS?oc=5",
         "domain": "news.google.com",
-        "source": "WTXL ABC 27",
+        "source": "Georgia Recorder",
         "language": "English",
-        "published_at": "2026-07-06T21:23:05+00:00",
-        "summary": "Georgia Power lowered fuel rates in June, but many customers are still seeing their bills go up WTXL ABC 27",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLW5walNzYUkzQmlybThNUV9la3hyeVJBTFFoYklQY2hQVXlzc3MzbW00VTRkZUloS3dQbXp5U01QNE5QY3NGMnZNT0NpdUs0V2pURU80aEFaTm05R2VNN1dPdXR1dElnODcwUTAxY3N3YU13TGRfa3BRUlFEV3lGR25uUUVtY0xGR0ZhYVBZWEtUeThET3pWNWZVRDFzeWl4SEQ0Z1JGMlprdlphbHgxTFpoYWsweG9lVV8xRENZYXdqY2h3NnNzeVdwaUNWQmMwZWpsYkxSTG5MdHJHdzRIaXlpNHF3ek1pMGVKVVlvMmdkX18xM21rbWM1WQ?oc=5\" target=\"_blank\">Georgia Power lowered fuel rates in June, but many customers are still seeing their bills go up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTXL ABC 27</font>",
+        "published_at": "2026-07-07T19:32:38+00:00",
+        "summary": "Kemp holds meeting with OpenAI and Georgia Power in Atlanta Georgia Recorder",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQNF9IZXRsandrWFFfTEVwS25uaHhsVzNVZko1bWNEOXJkeWt2czhsaWVMYVREaEZRamY2SmhYOERuWm96aDFrWUFPTVVoMDR6X1NtMzJpWEllN2hZX0FjWEZKREsycDVHQnM2ZU42X0d1ZGpRcnlyYVVJdDdvby1oN2hqRlBDNnFfMks0OUVscmt5b3MtcVdCZ08wc2VaSnVS?oc=5\" target=\"_blank\">Kemp holds meeting with OpenAI and Georgia Power in Atlanta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Recorder</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-06T23:01:50+00:00"
+        "collected_at": "2026-07-07T19:46:38+00:00"
       }
     },
     {
