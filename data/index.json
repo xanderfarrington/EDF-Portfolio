@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-07-07T21:18:24+00:00",
+  "last_updated": "2026-07-07T22:55:38+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 33,
-      "new_mentions_this_run": 1,
+      "count": 34,
+      "new_mentions_this_run": 2,
       "latest_mention": {
-        "id": "9d251408e4da7385",
-        "title": "American Electric Power's BOLD line targets bigger power moves on Tuesday - AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeDdCQUNMdTVxMFdwcGxFakt0WTlNMUV5aC1wbHBXSVdJZ0M4YlhIN3NIRWk2ek01MXIwQ0RTenB5MUs5TlljMnVwSlZEeHE5amZNWTU1cXpRcHZoSzI4a2p2Um9lTlVSU0szMjQxMXJ6enJHbUtLMFlocXIzYTVoSVZGaU0tdmpyQ04weUJtR2gtYk95TVpwaW1RMmgyaUFnM2o2OUFrTlNjQV9wZTJKSjNBYXVMZmVGajNaY3ExUWVxSWlFV011TEtkMEI?oc=5",
+        "id": "130945e5daeea6c3",
+        "title": "Water Concerns Raised in Extra-High-Voltage Transmission Line Hearing - Texas Scorecard",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3pseWpHWW5pcVpzRVdvSjFiU2RaR24xYmtWTGVsVkJzN2xaby1DdXVyZGJnNW5uNGF1OElNa1FBNTgyend3MVd5NlBKYUxXcC1USHZoMU9UMmRVVkstaEE2QmRMY2F1bjFpM1EwRVIxNlVkUFpkWk1FNk5LM1hMS1RkbnRZd1ZlTFdsb0JNa19RU0lVWTdhZ3ZJRkk4ekJlMjRTbG13?oc=5",
         "domain": "news.google.com",
-        "source": "AD HOC NEWS",
+        "source": "Texas Scorecard",
         "language": "English",
-        "published_at": "2026-06-16T23:36:24+00:00",
-        "summary": "American Electric Power's BOLD line targets bigger power moves on Tuesday AD HOC NEWS",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNeDdCQUNMdTVxMFdwcGxFakt0WTlNMUV5aC1wbHBXSVdJZ0M4YlhIN3NIRWk2ek01MXIwQ0RTenB5MUs5TlljMnVwSlZEeHE5amZNWTU1cXpRcHZoSzI4a2p2Um9lTlVSU0szMjQxMXJ6enJHbUtLMFlocXIzYTVoSVZGaU0tdmpyQ04weUJtR2gtYk95TVpwaW1RMmgyaUFnM2o2OUFrTlNjQV9wZTJKSjNBYXVMZmVGajNaY3ExUWVxSWlFV011TEtkMEI?oc=5\" target=\"_blank\">American Electric Power's BOLD line targets bigger power moves on Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+        "published_at": "2026-07-07T21:06:28+00:00",
+        "summary": "Water Concerns Raised in Extra-High-Voltage Transmission Line Hearing Texas Scorecard",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3pseWpHWW5pcVpzRVdvSjFiU2RaR24xYmtWTGVsVkJzN2xaby1DdXVyZGJnNW5uNGF1OElNa1FBNTgyend3MVd5NlBKYUxXcC1USHZoMU9UMmRVVkstaEE2QmRMY2F1bjFpM1EwRVIxNlVkUFpkWk1FNk5LM1hMS1RkbnRZd1ZlTFdsb0JNa19RU0lVWTdhZ3ZJRkk4ekJlMjRTbG13?oc=5\" target=\"_blank\">Water Concerns Raised in Extra-High-Voltage Transmission Line Hearing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Texas Scorecard</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-17T03:28:43+00:00"
+        "collected_at": "2026-07-07T22:55:06+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 94,
-      "new_mentions_this_run": 7,
+      "count": 95,
+      "new_mentions_this_run": 18,
       "latest_mention": {
-        "id": "900741f11769165c",
-        "title": "Alabama Power - WVUA 23",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkpEdmxySDkxZ2hlQkRhZU42bFgwOHNJdl9jd1MzWnhFMVkzR2I1RDQwUmVTRzZTVWVvR3ZiOHNpeUdWaURySmJxUHB3eXFyWVpOMjFWSGw5M1JtWFQ0MzVEdVc5enI3UGhVaFRfYTJ3SzVnTGpqQktLazVQWFd2OEprdzN5bWxjMk8zMmpXYVkwenc?oc=5",
+        "id": "7f87133712ca2ba7",
+        "title": "PSC seeks to control data centers with ‘balancing act’ between Alabama Power, ratepayers - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQlRRSFhMbHg1Umt5X3FqLTFDSXhXTXl5bF9UNUpBQzREZE5pMERnYmxqb0dkdXlrXzRSRUdydENlLTVSLUpyTlZ3cVBWWEhad2NSYUxFMTRhMk0xT1RuWUZWMmpqSXdKb3VjaXphMXRzakRZS29RY1U3MHZCa1RLUFRVVTBFV1dXQm82Q0Q1NnpBQ2ViSkxRTGZWSGtOV2k3dGZnVFlxbEhWTHlFTDh0WlpjdjRCSnZ6aGJyQ1ZETdIB0wFBVV95cUxOenU2VnhMVXRQR05rN3pUZFc5OGRMUmJlVXJMa2hORGE0QTFwalpIY05sd1Vzck5HU3pUbmhwemNBOURVaVFqVHJvejhtVEdOTWNYQ3FMdHNZR054Y3JDTUhfWktKSERGMDcwS2FKM3NMV3A2aksxRi1XQ21BR1k3b0x6YWdJRXEwYXBQZmpZNlpyZjFSeEc2emJVZVFNMF9CaW94MEZvLWkwUFZfck1IN19FLVpOUk1CZVEtM1RmT0Y5cTJ4bmU0SjR5dHNndElrWWdn?oc=5",
         "domain": "news.google.com",
-        "source": "WVUA 23",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-06-30T18:53:41+00:00",
-        "summary": "Alabama Power WVUA 23",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkpEdmxySDkxZ2hlQkRhZU42bFgwOHNJdl9jd1MzWnhFMVkzR2I1RDQwUmVTRzZTVWVvR3ZiOHNpeUdWaURySmJxUHB3eXFyWVpOMjFWSGw5M1JtWFQ0MzVEdVc5enI3UGhVaFRfYTJ3SzVnTGpqQktLazVQWFd2OEprdzN5bWxjMk8zMmpXYVkwenc?oc=5\" target=\"_blank\">Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVUA 23</font>",
+        "published_at": "2026-07-07T20:29:00+00:00",
+        "summary": "PSC seeks to control data centers with ‘balancing act’ between Alabama Power, ratepayers AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQQlRRSFhMbHg1Umt5X3FqLTFDSXhXTXl5bF9UNUpBQzREZE5pMERnYmxqb0dkdXlrXzRSRUdydENlLTVSLUpyTlZ3cVBWWEhad2NSYUxFMTRhMk0xT1RuWUZWMmpqSXdKb3VjaXphMXRzakRZS29RY1U3MHZCa1RLUFRVVTBFV1dXQm82Q0Q1NnpBQ2ViSkxRTGZWSGtOV2k3dGZnVFlxbEhWTHlFTDh0WlpjdjRCSnZ6aGJyQ1ZETdIB0wFBVV95cUxOenU2VnhMVXRQR05rN3pUZFc5OGRMUmJlVXJMa2hORGE0QTFwalpIY05sd1Vzck5HU3pUbmhwemNBOURVaVFqVHJvejhtVEdOTWNYQ3FMdHNZR054Y3JDTUhfWktKSERGMDcwS2FKM3NMV3A2aksxRi1XQ21BR1k3b0x6YWdJRXEwYXBQZmpZNlpyZjFSeEc2emJVZVFNMF9CaW94MEZvLWkwUFZfck1IN19FLVpOUk1CZVEtM1RmT0Y5cTJ4bmU0SjR5dHNndElrWWdn?oc=5\" target=\"_blank\">PSC seeks to control data centers with ‘balancing act’ between Alabama Power, ratepayers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-01T02:52:07+00:00"
+        "collected_at": "2026-07-07T22:55:11+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 57,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "93e2d109efb1b9e6",
         "title": "Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion - PennLive",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 17,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "c4e09c5445ba4505",
         "title": "Jeffrey McClure - Department of Energy (.gov)",

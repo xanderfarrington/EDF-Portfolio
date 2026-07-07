@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-07T21:17:52+00:00",
+  "last_updated": "2026-07-07T22:55:06+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 33,
+  "count": 34,
   "mentions": [
+    {
+      "id": "130945e5daeea6c3",
+      "title": "Water Concerns Raised in Extra-High-Voltage Transmission Line Hearing - Texas Scorecard",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3pseWpHWW5pcVpzRVdvSjFiU2RaR24xYmtWTGVsVkJzN2xaby1DdXVyZGJnNW5uNGF1OElNa1FBNTgyend3MVd5NlBKYUxXcC1USHZoMU9UMmRVVkstaEE2QmRMY2F1bjFpM1EwRVIxNlVkUFpkWk1FNk5LM1hMS1RkbnRZd1ZlTFdsb0JNa19RU0lVWTdhZ3ZJRkk4ekJlMjRTbG13?oc=5",
+      "domain": "news.google.com",
+      "source": "Texas Scorecard",
+      "language": "English",
+      "published_at": "2026-07-07T21:06:28+00:00",
+      "summary": "Water Concerns Raised in Extra-High-Voltage Transmission Line Hearing Texas Scorecard",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3pseWpHWW5pcVpzRVdvSjFiU2RaR24xYmtWTGVsVkJzN2xaby1DdXVyZGJnNW5uNGF1OElNa1FBNTgyend3MVd5NlBKYUxXcC1USHZoMU9UMmRVVkstaEE2QmRMY2F1bjFpM1EwRVIxNlVkUFpkWk1FNk5LM1hMS1RkbnRZd1ZlTFdsb0JNa19RU0lVWTdhZ3ZJRkk4ekJlMjRTbG13?oc=5\" target=\"_blank\">Water Concerns Raised in Extra-High-Voltage Transmission Line Hearing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Texas Scorecard</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-07T22:55:06+00:00"
+    },
     {
       "id": "9d251408e4da7385",
       "title": "American Electric Power's BOLD line targets bigger power moves on Tuesday - AD HOC NEWS",
