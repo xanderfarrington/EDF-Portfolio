@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T06:23:50+00:00",
+  "last_updated": "2026-07-08T10:11:24+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 57,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "93e2d109efb1b9e6",
         "title": "Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion - PennLive",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 167,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "76f5a0e98dbf8553",
         "title": "Kemp holds meeting with OpenAI and Georgia Power in Atlanta - Georgia Recorder",
