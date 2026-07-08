@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-08T02:06:26+00:00",
+  "last_updated": "2026-07-08T06:23:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 166,
+  "count": 167,
   "mentions": [
     {
       "id": "76f5a0e98dbf8553",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-07T19:46:38+00:00"
+    },
+    {
+      "id": "fc4735b6e8c71614",
+      "title": "A STEAMy summer day: Georgia Power teaches kids at library about energy saving - The Rome News-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPanVjckZOeVhiUnN6alc3Um5acHh1NXlxdElKdXprSC1id1ZWVzBWY3Z1SWQ3NUR2Z1hjOUthM3NoUE1ZQW9CVmJKa0VPM1hrMmw0Z1BGckRXSm85eWZkVmxjdU1kM3BkeVR0N2RUZkFBa0NwNVJ0cllzODdFUTlMdV9GWnVzcnBfdXF6ZzQwMDM3ajExYVZNOWs1T0Y0NWFFM3lmTWhpeE9ucm81ZGQ0Q1VJMjNPVGtxZldNOEhoYkt5VkdRLXVqN1lNM3JPOWM1bUF6a2Z1V0FRVkxpR01YcHQzZFFTQnFTQzVscFRtWEl5RURQVXkxT1JJb29hMzJKeEV3Z3B4bndhdmF5UG03WVZB?oc=5",
+      "domain": "news.google.com",
+      "source": "The Rome News-Tribune",
+      "language": "English",
+      "published_at": "2026-07-07T19:30:00+00:00",
+      "summary": "A STEAMy summer day: Georgia Power teaches kids at library about energy saving The Rome News-Tribune",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPanVjckZOeVhiUnN6alc3Um5acHh1NXlxdElKdXprSC1id1ZWVzBWY3Z1SWQ3NUR2Z1hjOUthM3NoUE1ZQW9CVmJKa0VPM1hrMmw0Z1BGckRXSm85eWZkVmxjdU1kM3BkeVR0N2RUZkFBa0NwNVJ0cllzODdFUTlMdV9GWnVzcnBfdXF6ZzQwMDM3ajExYVZNOWs1T0Y0NWFFM3lmTWhpeE9ucm81ZGQ0Q1VJMjNPVGtxZldNOEhoYkt5VkdRLXVqN1lNM3JPOWM1bUF6a2Z1V0FRVkxpR01YcHQzZFFTQnFTQzVscFRtWEl5RURQVXkxT1JJb29hMzJKeEV3Z3B4bndhdmF5UG03WVZB?oc=5\" target=\"_blank\">A STEAMy summer day: Georgia Power teaches kids at library about energy saving</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-08T06:23:40+00:00"
     },
     {
       "id": "264ab415058db47d",

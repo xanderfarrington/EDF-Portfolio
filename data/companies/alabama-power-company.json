@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-08T02:05:50+00:00",
+  "last_updated": "2026-07-08T06:23:23+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 95,
+  "count": 96,
   "mentions": [
     {
       "id": "7f87133712ca2ba7",
@@ -845,6 +845,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-10T16:55:42+00:00"
+    },
+    {
+      "id": "0794d1bcbcd62d9d",
+      "title": "Mobile Street to close for Alabama Power work - fox10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95RENlZzdEVW5ZQTVFbEtieUo5b2hhVWtzU29OUTBHV2pmZzZXWW1EXzNsNWFwUTJvR1RsM0VCTGMxUlZ2TGF3cDBvSDVLZ3ZGVWNMa01ZdzRGNUdCRzhUeGJfTjF1N3JrR0tqN1RaS2dkRGFMU1BXNkNNbzJxQ0E?oc=5",
+      "domain": "news.google.com",
+      "source": "fox10tv.com",
+      "language": "English",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "summary": "Mobile Street to close for Alabama Power work fox10tv.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE95RENlZzdEVW5ZQTVFbEtieUo5b2hhVWtzU29OUTBHV2pmZzZXWW1EXzNsNWFwUTJvR1RsM0VCTGMxUlZ2TGF3cDBvSDVLZ3ZGVWNMa01ZdzRGNUdCRzhUeGJfTjF1N3JrR0tqN1RaS2dkRGFMU1BXNkNNbzJxQ0E?oc=5\" target=\"_blank\">Mobile Street to close for Alabama Power work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-08T06:23:23+00:00"
     },
     {
       "id": "4362d7c0f33c3b1a",

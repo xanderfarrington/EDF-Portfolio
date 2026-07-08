@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-08T02:06:46+00:00",
+  "last_updated": "2026-07-08T06:23:50+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 34,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "130945e5daeea6c3",
         "title": "Water Concerns Raised in Extra-High-Voltage Transmission Line Hearing - Texas Scorecard",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 95,
-      "new_mentions_this_run": 0,
+      "count": 96,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "7f87133712ca2ba7",
         "title": "PSC seeks to control data centers with ‘balancing act’ between Alabama Power, ratepayers - AL.com",
@@ -47,21 +47,21 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 23,
-      "new_mentions_this_run": 0,
+      "count": 24,
+      "new_mentions_this_run": 8,
       "latest_mention": {
-        "id": "2b2733d1b2f69c3b",
-        "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society -- ANS",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5",
+        "id": "372ab7ffa82231ea",
+        "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUJsb3lhRWt2NDZhSmV4eGZEWjR3UE8weEZxZUtjYmY5eXhaZEJUeGVZQ0kzTEVRcnlDeVFRWmNnREJRRExVS3JUT2U3Q3RnT1pDNVV5WmpwZ3JxMlNRRUtzaW5aaGRvemF0czFxRWFGUHlBVzBtT0VQc1h0VjJtMWlTeVI4aVFGQXVBMGE1NUFHTnR1RWlEVU9zSkFyZ2NzdEl3bFVxNndGelBH?oc=5",
         "domain": "news.google.com",
-        "source": "American Nuclear Society -- ANS",
+        "source": "WPR",
         "language": "English",
-        "published_at": "2026-06-30T13:35:18+00:00",
-        "summary": "Shine receives $263M conditional DOE loan to complete isotope facility American Nuclear Society -- ANS",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5\" target=\"_blank\">Shine receives $263M conditional DOE loan to complete isotope facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society -- ANS</font>",
+        "published_at": "2026-07-07T21:58:20+00:00",
+        "summary": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks WPR",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUJsb3lhRWt2NDZhSmV4eGZEWjR3UE8weEZxZUtjYmY5eXhaZEJUeGVZQ0kzTEVRcnlDeVFRWmNnREJRRExVS3JUT2U3Q3RnT1pDNVV5WmpwZ3JxMlNRRUtzaW5aaGRvemF0czFxRWFGUHlBVzBtT0VQc1h0VjJtMWlTeVI4aVFGQXVBMGE1NUFHTnR1RWlEVU9zSkFyZ2NzdEl3bFVxNndGelBH?oc=5\" target=\"_blank\">A Wisconsin company is using fusion technology to beat supply chain bottlenecks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPR</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-30T21:23:47+00:00"
+        "collected_at": "2026-07-08T06:23:29+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 57,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "93e2d109efb1b9e6",
         "title": "Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion - PennLive",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 166,
-      "new_mentions_this_run": 0,
+      "count": 167,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "76f5a0e98dbf8553",
         "title": "Kemp holds meeting with OpenAI and Georgia Power in Atlanta - Georgia Recorder",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 17,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "c4e09c5445ba4505",
         "title": "Jeffrey McClure - Department of Energy (.gov)",

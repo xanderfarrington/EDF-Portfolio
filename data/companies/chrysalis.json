@@ -2,10 +2,24 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-07-08T02:06:04+00:00",
+  "last_updated": "2026-07-08T06:23:29+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 23,
+  "count": 24,
   "mentions": [
+    {
+      "id": "372ab7ffa82231ea",
+      "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUJsb3lhRWt2NDZhSmV4eGZEWjR3UE8weEZxZUtjYmY5eXhaZEJUeGVZQ0kzTEVRcnlDeVFRWmNnREJRRExVS3JUT2U3Q3RnT1pDNVV5WmpwZ3JxMlNRRUtzaW5aaGRvemF0czFxRWFGUHlBVzBtT0VQc1h0VjJtMWlTeVI4aVFGQXVBMGE1NUFHTnR1RWlEVU9zSkFyZ2NzdEl3bFVxNndGelBH?oc=5",
+      "domain": "news.google.com",
+      "source": "WPR",
+      "language": "English",
+      "published_at": "2026-07-07T21:58:20+00:00",
+      "summary": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks WPR",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUJsb3lhRWt2NDZhSmV4eGZEWjR3UE8weEZxZUtjYmY5eXhaZEJUeGVZQ0kzTEVRcnlDeVFRWmNnREJRRExVS3JUT2U3Q3RnT1pDNVV5WmpwZ3JxMlNRRUtzaW5aaGRvemF0czFxRWFGUHlBVzBtT0VQc1h0VjJtMWlTeVI4aVFGQXVBMGE1NUFHTnR1RWlEVU9zSkFyZ2NzdEl3bFVxNndGelBH?oc=5\" target=\"_blank\">A Wisconsin company is using fusion technology to beat supply chain bottlenecks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPR</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-08T06:23:29+00:00"
+    },
     {
       "id": "2b2733d1b2f69c3b",
       "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society -- ANS",
