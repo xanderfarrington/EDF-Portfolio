@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T17:42:07+00:00",
+  "last_updated": "2026-07-08T19:15:34+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 58,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "b9f7dc4432d14719",
         "title": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock - AOL.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 169,
-      "new_mentions_this_run": 24,
+      "count": 170,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "3374498391000a83",
-        "title": "Georgia regulators to investigate data center energy costs - WABE",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0F2NW9hX29oZnJDM05PbTVLdG1vQTItUWc0VE53bjQ4dkxWUEU4SzNlU3lmN0hfNmkyT1RHd3JHV0IwNnZnYkY3YTVia0pSY05paTNKSFFOaEdUQ1R3SXBRWGRCc29lWWdhZEVSalF5emV2WE1JLWU4NTlwOUIzVWRyUHRtbzA?oc=5",
+        "id": "3d0386c8ce66901a",
+        "title": "Georgia utility regulators greenlight probe into data center costs - Rough Draft Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yTXBzTWZzbWZNdUFXampuVUE5djIxZ2ExRHhEU3dHWEg1dy1SOHp5TUhwdUV2RGdQVlpWTko3OTVMRlZabmxhUVhEV0RlVEFnRXZiR0pxYUFIcFJLcUh3S1E4VUhhdGVPSlRIdlpQYmhzWVFwQmtKSkwxSlpVUQ?oc=5",
         "domain": "news.google.com",
-        "source": "WABE",
+        "source": "Rough Draft Atlanta",
         "language": "English",
-        "published_at": "2026-07-08T16:58:08+00:00",
-        "summary": "Georgia regulators to investigate data center energy costs WABE",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0F2NW9hX29oZnJDM05PbTVLdG1vQTItUWc0VE53bjQ4dkxWUEU4SzNlU3lmN0hfNmkyT1RHd3JHV0IwNnZnYkY3YTVia0pSY05paTNKSFFOaEdUQ1R3SXBRWGRCc29lWWdhZEVSalF5emV2WE1JLWU4NTlwOUIzVWRyUHRtbzA?oc=5\" target=\"_blank\">Georgia regulators to investigate data center energy costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
+        "published_at": "2026-07-08T19:06:50+00:00",
+        "summary": "Georgia utility regulators greenlight probe into data center costs Rough Draft Atlanta",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE8yTXBzTWZzbWZNdUFXampuVUE5djIxZ2ExRHhEU3dHWEg1dy1SOHp5TUhwdUV2RGdQVlpWTko3OTVMRlZabmxhUVhEV0RlVEFnRXZiR0pxYUFIcFJLcUh3S1E4VUhhdGVPSlRIdlpQYmhzWVFwQmtKSkwxSlpVUQ?oc=5\" target=\"_blank\">Georgia utility regulators greenlight probe into data center costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rough Draft Atlanta</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-08T17:41:57+00:00"
+        "collected_at": "2026-07-08T19:15:24+00:00"
       }
     },
     {
