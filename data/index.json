@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-08T21:00:58+00:00",
+  "last_updated": "2026-07-08T22:59:02+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 34,
-      "new_mentions_this_run": 2,
+      "count": 35,
+      "new_mentions_this_run": 3,
       "latest_mention": {
-        "id": "130945e5daeea6c3",
-        "title": "Water Concerns Raised in Extra-High-Voltage Transmission Line Hearing - Texas Scorecard",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3pseWpHWW5pcVpzRVdvSjFiU2RaR24xYmtWTGVsVkJzN2xaby1DdXVyZGJnNW5uNGF1OElNa1FBNTgyend3MVd5NlBKYUxXcC1USHZoMU9UMmRVVkstaEE2QmRMY2F1bjFpM1EwRVIxNlVkUFpkWk1FNk5LM1hMS1RkbnRZd1ZlTFdsb0JNa19RU0lVWTdhZ3ZJRkk4ekJlMjRTbG13?oc=5",
+        "id": "c3d6761379573c6a",
+        "title": "DOE to Loan AEP Texas up to $3.26B for Upgrades - RTO Insider",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1Mzd2laSVJtM21QUmFEQWRLX0RHdklYTEtlWEpudWVXSGZBWkxMd3IwbEZrcWQzNWZNYlhrRzloQ3FhX1JnUlM1V2VXS2ktbl9hN1JsZDhJQzlaaWdYMmZsUlFRbnpDVGxfNWYtZTVwZXVkeGFjbHVicHphR0VlZDhkZnphQTRrZVE?oc=5",
         "domain": "news.google.com",
-        "source": "Texas Scorecard",
+        "source": "RTO Insider",
         "language": "English",
-        "published_at": "2026-07-07T21:06:28+00:00",
-        "summary": "Water Concerns Raised in Extra-High-Voltage Transmission Line Hearing Texas Scorecard",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3pseWpHWW5pcVpzRVdvSjFiU2RaR24xYmtWTGVsVkJzN2xaby1DdXVyZGJnNW5uNGF1OElNa1FBNTgyend3MVd5NlBKYUxXcC1USHZoMU9UMmRVVkstaEE2QmRMY2F1bjFpM1EwRVIxNlVkUFpkWk1FNk5LM1hMS1RkbnRZd1ZlTFdsb0JNa19RU0lVWTdhZ3ZJRkk4ekJlMjRTbG13?oc=5\" target=\"_blank\">Water Concerns Raised in Extra-High-Voltage Transmission Line Hearing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Texas Scorecard</font>",
+        "published_at": "2026-07-08T21:54:25+00:00",
+        "summary": "DOE to Loan AEP Texas up to $3.26B for Upgrades RTO Insider",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1Mzd2laSVJtM21QUmFEQWRLX0RHdklYTEtlWEpudWVXSGZBWkxMd3IwbEZrcWQzNWZNYlhrRzloQ3FhX1JnUlM1V2VXS2ktbl9hN1JsZDhJQzlaaWdYMmZsUlFRbnpDVGxfNWYtZTVwZXVkeGFjbHVicHphR0VlZDhkZnphQTRrZVE?oc=5\" target=\"_blank\">DOE to Loan AEP Texas up to $3.26B for Upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-07T22:55:06+00:00"
+        "collected_at": "2026-07-08T22:58:29+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 170,
-      "new_mentions_this_run": 25,
+      "count": 171,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "3d0386c8ce66901a",
-        "title": "Georgia utility regulators greenlight probe into data center costs - Rough Draft Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yTXBzTWZzbWZNdUFXampuVUE5djIxZ2ExRHhEU3dHWEg1dy1SOHp5TUhwdUV2RGdQVlpWTko3OTVMRlZabmxhUVhEV0RlVEFnRXZiR0pxYUFIcFJLcUh3S1E4VUhhdGVPSlRIdlpQYmhzWVFwQmtKSkwxSlpVUQ?oc=5",
+        "id": "9e88a458fd97bce3",
+        "title": "Georgia Power outage affects downtown Savannah - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMUZEbEVRVVlXU29DdmhLMEwtcTNRLWNmTHVSRjFXa0ptZGRPa215ZHRUWHFaUVQ5aURHUTQ4dlQ5YktHek03QVlHSTczLTNhV2hfRzFHQTF1VlRMenFXR2dINXFnd0JpY3RXeGVsdDF1V2wtVmd3aURkNGRmR0JvQy0yZmtmVklh?oc=5",
         "domain": "news.google.com",
-        "source": "Rough Draft Atlanta",
+        "source": "AOL.com",
         "language": "English",
-        "published_at": "2026-07-08T19:06:50+00:00",
-        "summary": "Georgia utility regulators greenlight probe into data center costs Rough Draft Atlanta",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE8yTXBzTWZzbWZNdUFXampuVUE5djIxZ2ExRHhEU3dHWEg1dy1SOHp5TUhwdUV2RGdQVlpWTko3OTVMRlZabmxhUVhEV0RlVEFnRXZiR0pxYUFIcFJLcUh3S1E4VUhhdGVPSlRIdlpQYmhzWVFwQmtKSkwxSlpVUQ?oc=5\" target=\"_blank\">Georgia utility regulators greenlight probe into data center costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rough Draft Atlanta</font>",
+        "published_at": "2026-07-08T21:17:23+00:00",
+        "summary": "Georgia Power outage affects downtown Savannah AOL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMUZEbEVRVVlXU29DdmhLMEwtcTNRLWNmTHVSRjFXa0ptZGRPa215ZHRUWHFaUVQ5aURHUTQ4dlQ5YktHek03QVlHSTczLTNhV2hfRzFHQTF1VlRMenFXR2dINXFnd0JpY3RXeGVsdDF1V2wtVmd3aURkNGRmR0JvQy0yZmtmVklh?oc=5\" target=\"_blank\">Georgia Power outage affects downtown Savannah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-08T19:15:24+00:00"
+        "collected_at": "2026-07-08T22:58:51+00:00"
       }
     },
     {

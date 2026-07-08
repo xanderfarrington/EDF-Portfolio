@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-08T21:00:26+00:00",
+  "last_updated": "2026-07-08T22:58:29+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 34,
+  "count": 35,
   "mentions": [
+    {
+      "id": "c3d6761379573c6a",
+      "title": "DOE to Loan AEP Texas up to $3.26B for Upgrades - RTO Insider",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1Mzd2laSVJtM21QUmFEQWRLX0RHdklYTEtlWEpudWVXSGZBWkxMd3IwbEZrcWQzNWZNYlhrRzloQ3FhX1JnUlM1V2VXS2ktbl9hN1JsZDhJQzlaaWdYMmZsUlFRbnpDVGxfNWYtZTVwZXVkeGFjbHVicHphR0VlZDhkZnphQTRrZVE?oc=5",
+      "domain": "news.google.com",
+      "source": "RTO Insider",
+      "language": "English",
+      "published_at": "2026-07-08T21:54:25+00:00",
+      "summary": "DOE to Loan AEP Texas up to $3.26B for Upgrades RTO Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1Mzd2laSVJtM21QUmFEQWRLX0RHdklYTEtlWEpudWVXSGZBWkxMd3IwbEZrcWQzNWZNYlhrRzloQ3FhX1JnUlM1V2VXS2ktbl9hN1JsZDhJQzlaaWdYMmZsUlFRbnpDVGxfNWYtZTVwZXVkeGFjbHVicHphR0VlZDhkZnphQTRrZVE?oc=5\" target=\"_blank\">DOE to Loan AEP Texas up to $3.26B for Upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-08T22:58:29+00:00"
+    },
     {
       "id": "130945e5daeea6c3",
       "title": "Water Concerns Raised in Extra-High-Voltage Transmission Line Hearing - Texas Scorecard",
