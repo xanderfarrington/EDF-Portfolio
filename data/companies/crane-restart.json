@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-07-08T13:49:36+00:00",
+  "last_updated": "2026-07-08T15:59:19+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 57,
+  "count": 58,
   "mentions": [
+    {
+      "id": "b9f7dc4432d14719",
+      "title": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc0pGWXpsd1V2RGJ1VktWRERTYlRKX2RGWnQxVGRLWXpxQlRoQU1sd0stc3E4dFpiWkM5bnE0Zkx0MWg1UGpGZ2RoWkk0TERzbkxrRjQxRVE4WDFSczJOUzBRTHo0TmR1OFlkNTY1TllFeHFub0JQejJYc0h6Y1RNYXhNM0FVel80ZTg4NFhaVTQ?oc=5",
+      "domain": "news.google.com",
+      "source": "AOL.com",
+      "language": "English",
+      "published_at": "2026-07-07T15:43:45+00:00",
+      "summary": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock AOL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNc0pGWXpsd1V2RGJ1VktWRERTYlRKX2RGWnQxVGRLWXpxQlRoQU1sd0stc3E4dFpiWkM5bnE0Zkx0MWg1UGpGZ2RoWkk0TERzbkxrRjQxRVE4WDFSczJOUzBRTHo0TmR1OFlkNTY1TllFeHFub0JQejJYc0h6Y1RNYXhNM0FVel80ZTg4NFhaVTQ?oc=5\" target=\"_blank\">Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-08T15:59:19+00:00"
+    },
     {
       "id": "93e2d109efb1b9e6",
       "title": "Three Mile Island restart clears major hurdles and promises hundreds of skilled trades jobs | Opinion - PennLive",
