@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T02:25:08+00:00",
+  "last_updated": "2026-07-09T07:32:57+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 96,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "7f87133712ca2ba7",
         "title": "PSC seeks to control data centers with ‘balancing act’ between Alabama Power, ratepayers - AL.com",
@@ -68,8 +68,8 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 58,
-      "new_mentions_this_run": 8,
+      "count": 59,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "b9f7dc4432d14719",
         "title": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock - AOL.com",
