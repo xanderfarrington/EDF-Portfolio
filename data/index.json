@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T22:59:02+00:00",
+  "last_updated": "2026-07-09T02:25:08+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 96,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "7f87133712ca2ba7",
         "title": "PSC seeks to control data centers with ‘balancing act’ between Alabama Power, ratepayers - AL.com",
