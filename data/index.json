@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-09T17:50:53+00:00",
+  "last_updated": "2026-07-09T19:29:13+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 36,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "c1f703e9b0251dc5",
         "title": "DOE closes up to $3.26B loan to AEP Texas - Utility Dive",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 59,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "b9f7dc4432d14719",
         "title": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock - AOL.com",
