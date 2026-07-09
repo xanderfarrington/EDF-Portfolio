@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-09T14:43:33+00:00",
+  "last_updated": "2026-07-09T17:50:53+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 35,
+      "count": 36,
       "new_mentions_this_run": 3,
       "latest_mention": {
-        "id": "c3d6761379573c6a",
-        "title": "DOE to Loan AEP Texas up to $3.26B for Upgrades - RTO Insider",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1Mzd2laSVJtM21QUmFEQWRLX0RHdklYTEtlWEpudWVXSGZBWkxMd3IwbEZrcWQzNWZNYlhrRzloQ3FhX1JnUlM1V2VXS2ktbl9hN1JsZDhJQzlaaWdYMmZsUlFRbnpDVGxfNWYtZTVwZXVkeGFjbHVicHphR0VlZDhkZnphQTRrZVE?oc=5",
+        "id": "c1f703e9b0251dc5",
+        "title": "DOE closes up to $3.26B loan to AEP Texas - Utility Dive",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTRCYXdnNlAya2puV3F3UHBkYldiYUV0cFYtbXNiZUVuem9Ga3lybjV3MG1kQVduTXkyaDR3T0RlVlZDbkdSc3BKSF9lUnNDdVdLZ0FFSGVoZURfcWhjVTdVLTdXVVpidzhPZlRvYjVqcFpCUEQyOW5fSnY2allJSlAwVDhoWTg?oc=5",
         "domain": "news.google.com",
-        "source": "RTO Insider",
+        "source": "Utility Dive",
         "language": "English",
-        "published_at": "2026-07-08T21:54:25+00:00",
-        "summary": "DOE to Loan AEP Texas up to $3.26B for Upgrades RTO Insider",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1Mzd2laSVJtM21QUmFEQWRLX0RHdklYTEtlWEpudWVXSGZBWkxMd3IwbEZrcWQzNWZNYlhrRzloQ3FhX1JnUlM1V2VXS2ktbl9hN1JsZDhJQzlaaWdYMmZsUlFRbnpDVGxfNWYtZTVwZXVkeGFjbHVicHphR0VlZDhkZnphQTRrZVE?oc=5\" target=\"_blank\">DOE to Loan AEP Texas up to $3.26B for Upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
+        "published_at": "2026-07-09T16:28:28+00:00",
+        "summary": "DOE closes up to $3.26B loan to AEP Texas Utility Dive",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTRCYXdnNlAya2puV3F3UHBkYldiYUV0cFYtbXNiZUVuem9Ga3lybjV3MG1kQVduTXkyaDR3T0RlVlZDbkdSc3BKSF9lUnNDdVdLZ0FFSGVoZURfcWhjVTdVLTdXVVpidzhPZlRvYjVqcFpCUEQyOW5fSnY2allJSlAwVDhoWTg?oc=5\" target=\"_blank\">DOE closes up to $3.26B loan to AEP Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utility Dive</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-08T22:58:29+00:00"
+        "collected_at": "2026-07-09T17:50:21+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 24,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",

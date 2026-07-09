@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-09T14:43:00+00:00",
+  "last_updated": "2026-07-09T17:50:21+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 35,
+  "count": 36,
   "mentions": [
+    {
+      "id": "c1f703e9b0251dc5",
+      "title": "DOE closes up to $3.26B loan to AEP Texas - Utility Dive",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTRCYXdnNlAya2puV3F3UHBkYldiYUV0cFYtbXNiZUVuem9Ga3lybjV3MG1kQVduTXkyaDR3T0RlVlZDbkdSc3BKSF9lUnNDdVdLZ0FFSGVoZURfcWhjVTdVLTdXVVpidzhPZlRvYjVqcFpCUEQyOW5fSnY2allJSlAwVDhoWTg?oc=5",
+      "domain": "news.google.com",
+      "source": "Utility Dive",
+      "language": "English",
+      "published_at": "2026-07-09T16:28:28+00:00",
+      "summary": "DOE closes up to $3.26B loan to AEP Texas Utility Dive",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTRCYXdnNlAya2puV3F3UHBkYldiYUV0cFYtbXNiZUVuem9Ga3lybjV3MG1kQVduTXkyaDR3T0RlVlZDbkdSc3BKSF9lUnNDdVdLZ0FFSGVoZURfcWhjVTdVLTdXVVpidzhPZlRvYjVqcFpCUEQyOW5fSnY2allJSlAwVDhoWTg?oc=5\" target=\"_blank\">DOE closes up to $3.26B loan to AEP Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utility Dive</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-09T17:50:21+00:00"
+    },
     {
       "id": "c3d6761379573c6a",
       "title": "DOE to Loan AEP Texas up to $3.26B for Upgrades - RTO Insider",
