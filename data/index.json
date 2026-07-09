@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T10:49:10+00:00",
+  "last_updated": "2026-07-09T14:43:33+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 96,
-      "new_mentions_this_run": 15,
+      "count": 97,
+      "new_mentions_this_run": 16,
       "latest_mention": {
-        "id": "7f87133712ca2ba7",
-        "title": "PSC seeks to control data centers with ‘balancing act’ between Alabama Power, ratepayers - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQlRRSFhMbHg1Umt5X3FqLTFDSXhXTXl5bF9UNUpBQzREZE5pMERnYmxqb0dkdXlrXzRSRUdydENlLTVSLUpyTlZ3cVBWWEhad2NSYUxFMTRhMk0xT1RuWUZWMmpqSXdKb3VjaXphMXRzakRZS29RY1U3MHZCa1RLUFRVVTBFV1dXQm82Q0Q1NnpBQ2ViSkxRTGZWSGtOV2k3dGZnVFlxbEhWTHlFTDh0WlpjdjRCSnZ6aGJyQ1ZETdIB0wFBVV95cUxOenU2VnhMVXRQR05rN3pUZFc5OGRMUmJlVXJMa2hORGE0QTFwalpIY05sd1Vzck5HU3pUbmhwemNBOURVaVFqVHJvejhtVEdOTWNYQ3FMdHNZR054Y3JDTUhfWktKSERGMDcwS2FKM3NMV3A2aksxRi1XQ21BR1k3b0x6YWdJRXEwYXBQZmpZNlpyZjFSeEc2emJVZVFNMF9CaW94MEZvLWkwUFZfck1IN19FLVpOUk1CZVEtM1RmT0Y5cTJ4bmU0SjR5dHNndElrWWdn?oc=5",
+        "id": "71b28502e86e84b6",
+        "title": "Public Service Commission opens public comment about how it should evaluate data center contracts - Alabama Daily News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl94ZWh1QjI5UndUSzdlT2RmaDJBQS1Ed0lZVktoX0JZNVB5TGlxTW9Jc2hWODJsYlpQRThfTGpwV2NIQjdkWnd5X2N4cTgxdXpXZ0pBcGtublduRUczU0M3a1JPS3c1Vy1ZbjJNbk9BR3pmQlJNekIwOEFFVGd1UEpKTHRBQVpp?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "Alabama Daily News",
         "language": "English",
-        "published_at": "2026-07-07T20:29:00+00:00",
-        "summary": "PSC seeks to control data centers with ‘balancing act’ between Alabama Power, ratepayers AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQQlRRSFhMbHg1Umt5X3FqLTFDSXhXTXl5bF9UNUpBQzREZE5pMERnYmxqb0dkdXlrXzRSRUdydENlLTVSLUpyTlZ3cVBWWEhad2NSYUxFMTRhMk0xT1RuWUZWMmpqSXdKb3VjaXphMXRzakRZS29RY1U3MHZCa1RLUFRVVTBFV1dXQm82Q0Q1NnpBQ2ViSkxRTGZWSGtOV2k3dGZnVFlxbEhWTHlFTDh0WlpjdjRCSnZ6aGJyQ1ZETdIB0wFBVV95cUxOenU2VnhMVXRQR05rN3pUZFc5OGRMUmJlVXJMa2hORGE0QTFwalpIY05sd1Vzck5HU3pUbmhwemNBOURVaVFqVHJvejhtVEdOTWNYQ3FMdHNZR054Y3JDTUhfWktKSERGMDcwS2FKM3NMV3A2aksxRi1XQ21BR1k3b0x6YWdJRXEwYXBQZmpZNlpyZjFSeEc2emJVZVFNMF9CaW94MEZvLWkwUFZfck1IN19FLVpOUk1CZVEtM1RmT0Y5cTJ4bmU0SjR5dHNndElrWWdn?oc=5\" target=\"_blank\">PSC seeks to control data centers with ‘balancing act’ between Alabama Power, ratepayers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-07-09T12:55:33+00:00",
+        "summary": "Public Service Commission opens public comment about how it should evaluate data center contracts Alabama Daily News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl94ZWh1QjI5UndUSzdlT2RmaDJBQS1Ed0lZVktoX0JZNVB5TGlxTW9Jc2hWODJsYlpQRThfTGpwV2NIQjdkWnd5X2N4cTgxdXpXZ0pBcGtublduRUczU0M3a1JPS3c1Vy1ZbjJNbk9BR3pmQlJNekIwOEFFVGd1UEpKTHRBQVpp?oc=5\" target=\"_blank\">Public Service Commission opens public comment about how it should evaluate data center contracts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Daily News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-07T22:55:11+00:00"
+        "collected_at": "2026-07-09T14:43:06+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 59,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "b9f7dc4432d14719",
         "title": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock - AOL.com",

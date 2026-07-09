@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-09T10:48:43+00:00",
+  "last_updated": "2026-07-09T14:43:06+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 96,
+  "count": 97,
   "mentions": [
+    {
+      "id": "71b28502e86e84b6",
+      "title": "Public Service Commission opens public comment about how it should evaluate data center contracts - Alabama Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl94ZWh1QjI5UndUSzdlT2RmaDJBQS1Ed0lZVktoX0JZNVB5TGlxTW9Jc2hWODJsYlpQRThfTGpwV2NIQjdkWnd5X2N4cTgxdXpXZ0pBcGtublduRUczU0M3a1JPS3c1Vy1ZbjJNbk9BR3pmQlJNekIwOEFFVGd1UEpKTHRBQVpp?oc=5",
+      "domain": "news.google.com",
+      "source": "Alabama Daily News",
+      "language": "English",
+      "published_at": "2026-07-09T12:55:33+00:00",
+      "summary": "Public Service Commission opens public comment about how it should evaluate data center contracts Alabama Daily News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl94ZWh1QjI5UndUSzdlT2RmaDJBQS1Ed0lZVktoX0JZNVB5TGlxTW9Jc2hWODJsYlpQRThfTGpwV2NIQjdkWnd5X2N4cTgxdXpXZ0pBcGtublduRUczU0M3a1JPS3c1Vy1ZbjJNbk9BR3pmQlJNekIwOEFFVGd1UEpKTHRBQVpp?oc=5\" target=\"_blank\">Public Service Commission opens public comment about how it should evaluate data center contracts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Daily News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-09T14:43:06+00:00"
+    },
     {
       "id": "7f87133712ca2ba7",
       "title": "PSC seeks to control data centers with ‘balancing act’ between Alabama Power, ratepayers - AL.com",
