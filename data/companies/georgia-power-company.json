@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-10T19:19:59+00:00",
+  "last_updated": "2026-07-10T21:02:09+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 173,
+  "count": 174,
   "mentions": [
+    {
+      "id": "fac7b872ec97f95d",
+      "title": "Governor Kemp, OpenAI, and Georgia Power Discuss Plans - Daily Signal",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjJSLTJzQkVubTNnbl9RVXM4Rlk1ZkFmNnJqTVhkeFRVNVpJSG9fSlRyMFV2dllSYmp6VmFpZXpnODdxTkZpSFlLbHFXbWFsellQYUFrdE1CVHdWRkRBVGZ4TGtEM1lNUU94a2dn?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Signal",
+      "language": "English",
+      "published_at": "2026-07-10T19:55:00+00:00",
+      "summary": "Governor Kemp, OpenAI, and Georgia Power Discuss Plans Daily Signal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjJSLTJzQkVubTNnbl9RVXM4Rlk1ZkFmNnJqTVhkeFRVNVpJSG9fSlRyMFV2dllSYmp6VmFpZXpnODdxTkZpSFlLbHFXbWFsellQYUFrdE1CVHdWRkRBVGZ4TGtEM1lNUU94a2dn?oc=5\" target=\"_blank\">Governor Kemp, OpenAI, and Georgia Power Discuss Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Signal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-10T21:02:09+00:00"
+    },
     {
       "id": "66953bc35ee26de6",
       "title": "Georgia Power offers ways to save on rising summer energy bills - WJBF",
