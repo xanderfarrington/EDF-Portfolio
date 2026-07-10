@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T14:08:39+00:00",
+  "last_updated": "2026-07-10T17:43:37+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 97,
-      "new_mentions_this_run": 14,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "71b28502e86e84b6",
         "title": "Public Service Commission opens public comment about how it should evaluate data center contracts - Alabama Daily News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 171,
+      "count": 173,
       "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "9e88a458fd97bce3",
-        "title": "Georgia Power outage affects downtown Savannah - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMUZEbEVRVVlXU29DdmhLMEwtcTNRLWNmTHVSRjFXa0ptZGRPa215ZHRUWHFaUVQ5aURHUTQ4dlQ5YktHek03QVlHSTczLTNhV2hfRzFHQTF1VlRMenFXR2dINXFnd0JpY3RXeGVsdDF1V2wtVmd3aURkNGRmR0JvQy0yZmtmVklh?oc=5",
+        "id": "66953bc35ee26de6",
+        "title": "Georgia Power offers ways to save on rising summer energy bills - WJBF",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd2RQaXk2M19QbnRpUTc5TDVIMVNoQUpYT01zZkFMY3ZXdzhHclQxdHVsZ2d5T1MzWTJZdWxZQ1h4TnVOeEx3eFRNVmxWRW5RdjVzZTF4dVJlZVZNcTEyekotVHlCNWdOQWd2V25KWWRiODQzeE1IYmVzQVYzcWxydlZlUHotUWMtbUkxLXBVT0RtUjlOY0R0UVQ0TTNIYURMX3c?oc=5",
         "domain": "news.google.com",
-        "source": "AOL.com",
+        "source": "WJBF",
         "language": "English",
-        "published_at": "2026-07-08T21:17:23+00:00",
-        "summary": "Georgia Power outage affects downtown Savannah AOL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMUZEbEVRVVlXU29DdmhLMEwtcTNRLWNmTHVSRjFXa0ptZGRPa215ZHRUWHFaUVQ5aURHUTQ4dlQ5YktHek03QVlHSTczLTNhV2hfRzFHQTF1VlRMenFXR2dINXFnd0JpY3RXeGVsdDF1V2wtVmd3aURkNGRmR0JvQy0yZmtmVklh?oc=5\" target=\"_blank\">Georgia Power outage affects downtown Savannah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "published_at": "2026-07-10T16:16:39+00:00",
+        "summary": "Georgia Power offers ways to save on rising summer energy bills WJBF",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOd2RQaXk2M19QbnRpUTc5TDVIMVNoQUpYT01zZkFMY3ZXdzhHclQxdHVsZ2d5T1MzWTJZdWxZQ1h4TnVOeEx3eFRNVmxWRW5RdjVzZTF4dVJlZVZNcTEyekotVHlCNWdOQWd2V25KWWRiODQzeE1IYmVzQVYzcWxydlZlUHotUWMtbUkxLXBVT0RtUjlOY0R0UVQ0TTNIYURMX3c?oc=5\" target=\"_blank\">Georgia Power offers ways to save on rising summer energy bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJBF</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-08T22:58:51+00:00"
+        "collected_at": "2026-07-10T17:43:26+00:00"
       }
     },
     {
