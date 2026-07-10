@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T02:26:05+00:00",
+  "last_updated": "2026-07-10T07:30:30+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 97,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 14,
       "latest_mention": {
         "id": "71b28502e86e84b6",
         "title": "Public Service Commission opens public comment about how it should evaluate data center contracts - Alabama Daily News",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 171,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "9e88a458fd97bce3",
         "title": "Georgia Power outage affects downtown Savannah - AOL.com",
