@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T21:02:20+00:00",
+  "last_updated": "2026-07-10T22:55:56+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 174,
-      "new_mentions_this_run": 23,
+      "count": 176,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "fac7b872ec97f95d",
-        "title": "Governor Kemp, OpenAI, and Georgia Power Discuss Plans - Daily Signal",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjJSLTJzQkVubTNnbl9RVXM4Rlk1ZkFmNnJqTVhkeFRVNVpJSG9fSlRyMFV2dllSYmp6VmFpZXpnODdxTkZpSFlLbHFXbWFsellQYUFrdE1CVHdWRkRBVGZ4TGtEM1lNUU94a2dn?oc=5",
+        "id": "a0bfe402c07bf2c5",
+        "title": "Georgia Power transmission problem causes major Marietta outage - Marietta Daily Journal",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONGhzUXFLTkduTUhrZWZfbEJyNktpMk1jeERCeHRkd2V1X1JmN21mdW1yaDU2SGdXb2VSd0dMbkZsWGNjdTFHazBtMlN2NGZ1YW1VUlE5VXdPb3VULTdxRHFRMjhCdmVzRWZjMWtRQUpjYmRJQXd6VV9sczg1YlZMeTNaRlRlT3ZhbmdILTZfdFRyV3FVVk1QMjJoX25zZmlfUFBLTUM3bnBmcHY0aTFWWTNpT19LdU00elRGNHlETmJSNUtwaUFXY1Bxb25fUnhQMC1NTGFBZEhxa0FDanNiM2RDUFg?oc=5",
         "domain": "news.google.com",
-        "source": "Daily Signal",
+        "source": "Marietta Daily Journal",
         "language": "English",
-        "published_at": "2026-07-10T19:55:00+00:00",
-        "summary": "Governor Kemp, OpenAI, and Georgia Power Discuss Plans Daily Signal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjJSLTJzQkVubTNnbl9RVXM4Rlk1ZkFmNnJqTVhkeFRVNVpJSG9fSlRyMFV2dllSYmp6VmFpZXpnODdxTkZpSFlLbHFXbWFsellQYUFrdE1CVHdWRkRBVGZ4TGtEM1lNUU94a2dn?oc=5\" target=\"_blank\">Governor Kemp, OpenAI, and Georgia Power Discuss Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Signal</font>",
+        "published_at": "2026-07-10T21:30:00+00:00",
+        "summary": "Georgia Power transmission problem causes major Marietta outage Marietta Daily Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxONGhzUXFLTkduTUhrZWZfbEJyNktpMk1jeERCeHRkd2V1X1JmN21mdW1yaDU2SGdXb2VSd0dMbkZsWGNjdTFHazBtMlN2NGZ1YW1VUlE5VXdPb3VULTdxRHFRMjhCdmVzRWZjMWtRQUpjYmRJQXd6VV9sczg1YlZMeTNaRlRlT3ZhbmdILTZfdFRyV3FVVk1QMjJoX25zZmlfUFBLTUM3bnBmcHY0aTFWWTNpT19LdU00elRGNHlETmJSNUtwaUFXY1Bxb25fUnhQMC1NTGFBZEhxa0FDanNiM2RDUFg?oc=5\" target=\"_blank\">Georgia Power transmission problem causes major Marietta outage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marietta Daily Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-10T21:02:09+00:00"
+        "collected_at": "2026-07-10T22:55:46+00:00"
       }
     },
     {

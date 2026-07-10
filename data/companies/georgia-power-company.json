@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-10T21:02:09+00:00",
+  "last_updated": "2026-07-10T22:55:46+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 174,
+  "count": 176,
   "mentions": [
+    {
+      "id": "a0bfe402c07bf2c5",
+      "title": "Georgia Power transmission problem causes major Marietta outage - Marietta Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONGhzUXFLTkduTUhrZWZfbEJyNktpMk1jeERCeHRkd2V1X1JmN21mdW1yaDU2SGdXb2VSd0dMbkZsWGNjdTFHazBtMlN2NGZ1YW1VUlE5VXdPb3VULTdxRHFRMjhCdmVzRWZjMWtRQUpjYmRJQXd6VV9sczg1YlZMeTNaRlRlT3ZhbmdILTZfdFRyV3FVVk1QMjJoX25zZmlfUFBLTUM3bnBmcHY0aTFWWTNpT19LdU00elRGNHlETmJSNUtwaUFXY1Bxb25fUnhQMC1NTGFBZEhxa0FDanNiM2RDUFg?oc=5",
+      "domain": "news.google.com",
+      "source": "Marietta Daily Journal",
+      "language": "English",
+      "published_at": "2026-07-10T21:30:00+00:00",
+      "summary": "Georgia Power transmission problem causes major Marietta outage Marietta Daily Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxONGhzUXFLTkduTUhrZWZfbEJyNktpMk1jeERCeHRkd2V1X1JmN21mdW1yaDU2SGdXb2VSd0dMbkZsWGNjdTFHazBtMlN2NGZ1YW1VUlE5VXdPb3VULTdxRHFRMjhCdmVzRWZjMWtRQUpjYmRJQXd6VV9sczg1YlZMeTNaRlRlT3ZhbmdILTZfdFRyV3FVVk1QMjJoX25zZmlfUFBLTUM3bnBmcHY0aTFWWTNpT19LdU00elRGNHlETmJSNUtwaUFXY1Bxb25fUnhQMC1NTGFBZEhxa0FDanNiM2RDUFg?oc=5\" target=\"_blank\">Georgia Power transmission problem causes major Marietta outage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marietta Daily Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-10T22:55:46+00:00"
+    },
     {
       "id": "fac7b872ec97f95d",
       "title": "Governor Kemp, OpenAI, and Georgia Power Discuss Plans - Daily Signal",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-10T21:02:09+00:00"
+    },
+    {
+      "id": "4579f5ff42509fba",
+      "title": "Georgia Power offers ways to save on rising summer energy bills - WJBF",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEU4RTk1M0NxVXVaUjRMT0VvZkVHWmdYTEV0R1NsVUZ1Z0hScDliMjBNQ3hHUjEwYXMxcTRsZjhoeGcwLUdYaERjSk5LRXVPSGU2MnFNQTk4OVhRMVo3MW1PZTlKOFU2WFExZnFCbHBjbGhlZXRERkJ2UkdFYTlkSUs4RGk0WTM0UlhWRG82ZjVUQVRZYS1yYnJ1M2tVZWJuZU40VXZ30gGrAUFVX3lxTE55SHdyTUtJYVQ5RXZ6WjNpX213eTRwNVRDcU1Xc3JuSDd2N250cHFaclZlM05sUUhyUmxFZDBEek8zU2o3ZTJyc0JfOGZDRE1wR1V2SUxNa0hqaGd4RFpKME5sTGRSLVF4bW5UeTZHSU1lS3BvWDFmREFKRTRGQXc2QUhQWUhGWXg2YkRJRmNSV1ZaM3UtNmdYNWh4Z1F6aHA2eXJySVJXS0lfVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WJBF",
+      "language": "English",
+      "published_at": "2026-07-10T16:27:13+00:00",
+      "summary": "Georgia Power offers ways to save on rising summer energy bills WJBF",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEU4RTk1M0NxVXVaUjRMT0VvZkVHWmdYTEV0R1NsVUZ1Z0hScDliMjBNQ3hHUjEwYXMxcTRsZjhoeGcwLUdYaERjSk5LRXVPSGU2MnFNQTk4OVhRMVo3MW1PZTlKOFU2WFExZnFCbHBjbGhlZXRERkJ2UkdFYTlkSUs4RGk0WTM0UlhWRG82ZjVUQVRZYS1yYnJ1M2tVZWJuZU40VXZ30gGrAUFVX3lxTE55SHdyTUtJYVQ5RXZ6WjNpX213eTRwNVRDcU1Xc3JuSDd2N250cHFaclZlM05sUUhyUmxFZDBEek8zU2o3ZTJyc0JfOGZDRE1wR1V2SUxNa0hqaGd4RFpKME5sTGRSLVF4bW5UeTZHSU1lS3BvWDFmREFKRTRGQXc2QUhQWUhGWXg2YkRJRmNSV1ZaM3UtNmdYNWh4Z1F6aHA2eXJySVJXS0lfVQ?oc=5\" target=\"_blank\">Georgia Power offers ways to save on rising summer energy bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJBF</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-10T22:55:46+00:00"
     },
     {
       "id": "66953bc35ee26de6",
