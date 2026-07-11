@@ -2,9 +2,9 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-07-10T22:55:35+00:00",
+  "last_updated": "2026-07-11T02:03:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 24,
+  "count": 25,
   "mentions": [
     {
       "id": "372ab7ffa82231ea",
@@ -327,6 +327,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-18T12:52:07+00:00"
+    },
+    {
+      "id": "ea72a89dba95f41e",
+      "title": "SHINE Tapped for EPRI-Led Consortium Building U.S. Nuclear Fuel Recycling Capability - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnRlWHEzTGplamYtWHVZM2hHRlRvSWhRRFFtcEJWbnlXT2JNb0FLMTFNczBFanczZVc0eTE2YV8zNmY4Q0pTNWx2V2JsQlQ4ejhzWmg4U1VWVFJUS3FoZ2NtV212d2hnUkMxREE5ak5feVBlZUx5b19ibFBIemlORWRNYWMxTDlLZ2ZZcWN2ZFZCVzVITVlPZUE0Tk10dU96aEZIb21QX21UTmE5OVFQN3NUVVBzSE1xS0ctck5udmlzQkNVZ3BkZmxFMkpybi16RU9TMg?oc=5",
+      "domain": "news.google.com",
+      "source": "PR Newswire",
+      "language": "English",
+      "published_at": "2026-06-17T07:00:00+00:00",
+      "summary": "SHINE Tapped for EPRI-Led Consortium Building U.S. Nuclear Fuel Recycling Capability PR Newswire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnRlWHEzTGplamYtWHVZM2hHRlRvSWhRRFFtcEJWbnlXT2JNb0FLMTFNczBFanczZVc0eTE2YV8zNmY4Q0pTNWx2V2JsQlQ4ejhzWmg4U1VWVFJUS3FoZ2NtV212d2hnUkMxREE5ak5feVBlZUx5b19ibFBIemlORWRNYWMxTDlLZ2ZZcWN2ZFZCVzVITVlPZUE0Tk10dU96aEZIb21QX21UTmE5OVFQN3NUVVBzSE1xS0ctck5udmlzQkNVZ3BkZmxFMkpybi16RU9TMg?oc=5\" target=\"_blank\">SHINE Tapped for EPRI-Led Consortium Building U.S. Nuclear Fuel Recycling Capability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-11T02:03:45+00:00"
     },
     {
       "id": "60be11be635412ab",

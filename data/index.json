@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T22:55:56+00:00",
+  "last_updated": "2026-07-11T02:04:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -47,8 +47,8 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 24,
-      "new_mentions_this_run": 7,
+      "count": 25,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 176,
+      "count": 177,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "a0bfe402c07bf2c5",
