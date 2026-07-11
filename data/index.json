@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T14:47:19+00:00",
+  "last_updated": "2026-07-11T16:49:41+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 97,
-      "new_mentions_this_run": 14,
+      "new_mentions_this_run": 13,
       "latest_mention": {
         "id": "71b28502e86e84b6",
         "title": "Public Service Commission opens public comment about how it should evaluate data center contracts - Alabama Daily News",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 180,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "76a1719436f0d104",
         "title": "Generation Appreciation Month highlights career opportunities at Georgia Power - Daily Energy Insider",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 17,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "c4e09c5445ba4505",
         "title": "Jeffrey McClure - Department of Energy (.gov)",
