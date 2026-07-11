@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T02:04:06+00:00",
+  "last_updated": "2026-07-11T06:08:54+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 177,
+      "count": 179,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "a0bfe402c07bf2c5",
-        "title": "Georgia Power transmission problem causes major Marietta outage - Marietta Daily Journal",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONGhzUXFLTkduTUhrZWZfbEJyNktpMk1jeERCeHRkd2V1X1JmN21mdW1yaDU2SGdXb2VSd0dMbkZsWGNjdTFHazBtMlN2NGZ1YW1VUlE5VXdPb3VULTdxRHFRMjhCdmVzRWZjMWtRQUpjYmRJQXd6VV9sczg1YlZMeTNaRlRlT3ZhbmdILTZfdFRyV3FVVk1QMjJoX25zZmlfUFBLTUM3bnBmcHY0aTFWWTNpT19LdU00elRGNHlETmJSNUtwaUFXY1Bxb25fUnhQMC1NTGFBZEhxa0FDanNiM2RDUFg?oc=5",
+        "id": "76a1719436f0d104",
+        "title": "Generation Appreciation Month highlights career opportunities at Georgia Power - Daily Energy Insider",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3JKS3VGdUoyM3ZjZXVQMXdjUnZWN2xiRUpWMkZ3Qm1ZTnhidklyaU9JYWF2aGRrVkpSSG96LUFjb0d6MDNQeUVaQzVvcFJfcDZsUlViRm9ad0tRODVwVmhUTkx4LTk3QWJ2V2VPTjA0WWhXVWRPYUszS0p2dkljQ1ZGdnNZM19GZG80b3ZRU0NNcGFTTEhZMnE4Y0Q4cUotSUVuSjNBd1NqUEhMRkhrRFd0Qzl6N00zS0ZCd1FwcTk1ZFBLT0E?oc=5",
         "domain": "news.google.com",
-        "source": "Marietta Daily Journal",
+        "source": "Daily Energy Insider",
         "language": "English",
-        "published_at": "2026-07-10T21:30:00+00:00",
-        "summary": "Georgia Power transmission problem causes major Marietta outage Marietta Daily Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxONGhzUXFLTkduTUhrZWZfbEJyNktpMk1jeERCeHRkd2V1X1JmN21mdW1yaDU2SGdXb2VSd0dMbkZsWGNjdTFHazBtMlN2NGZ1YW1VUlE5VXdPb3VULTdxRHFRMjhCdmVzRWZjMWtRQUpjYmRJQXd6VV9sczg1YlZMeTNaRlRlT3ZhbmdILTZfdFRyV3FVVk1QMjJoX25zZmlfUFBLTUM3bnBmcHY0aTFWWTNpT19LdU00elRGNHlETmJSNUtwaUFXY1Bxb25fUnhQMC1NTGFBZEhxa0FDanNiM2RDUFg?oc=5\" target=\"_blank\">Georgia Power transmission problem causes major Marietta outage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marietta Daily Journal</font>",
+        "published_at": "2026-07-11T01:19:23+00:00",
+        "summary": "Generation Appreciation Month highlights career opportunities at Georgia Power Daily Energy Insider",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3JKS3VGdUoyM3ZjZXVQMXdjUnZWN2xiRUpWMkZ3Qm1ZTnhidklyaU9JYWF2aGRrVkpSSG96LUFjb0d6MDNQeUVaQzVvcFJfcDZsUlViRm9ad0tRODVwVmhUTkx4LTk3QWJ2V2VPTjA0WWhXVWRPYUszS0p2dkljQ1ZGdnNZM19GZG80b3ZRU0NNcGFTTEhZMnE4Y0Q4cUotSUVuSjNBd1NqUEhMRkhrRFd0Qzl6N00zS0ZCd1FwcTk1ZFBLT0E?oc=5\" target=\"_blank\">Generation Appreciation Month highlights career opportunities at Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-10T22:55:46+00:00"
+        "collected_at": "2026-07-11T06:08:44+00:00"
       }
     },
     {

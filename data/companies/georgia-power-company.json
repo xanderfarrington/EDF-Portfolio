@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-11T02:03:56+00:00",
+  "last_updated": "2026-07-11T06:08:44+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 177,
+  "count": 179,
   "mentions": [
+    {
+      "id": "76a1719436f0d104",
+      "title": "Generation Appreciation Month highlights career opportunities at Georgia Power - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3JKS3VGdUoyM3ZjZXVQMXdjUnZWN2xiRUpWMkZ3Qm1ZTnhidklyaU9JYWF2aGRrVkpSSG96LUFjb0d6MDNQeUVaQzVvcFJfcDZsUlViRm9ad0tRODVwVmhUTkx4LTk3QWJ2V2VPTjA0WWhXVWRPYUszS0p2dkljQ1ZGdnNZM19GZG80b3ZRU0NNcGFTTEhZMnE4Y0Q4cUotSUVuSjNBd1NqUEhMRkhrRFd0Qzl6N00zS0ZCd1FwcTk1ZFBLT0E?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-07-11T01:19:23+00:00",
+      "summary": "Generation Appreciation Month highlights career opportunities at Georgia Power Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3JKS3VGdUoyM3ZjZXVQMXdjUnZWN2xiRUpWMkZ3Qm1ZTnhidklyaU9JYWF2aGRrVkpSSG96LUFjb0d6MDNQeUVaQzVvcFJfcDZsUlViRm9ad0tRODVwVmhUTkx4LTk3QWJ2V2VPTjA0WWhXVWRPYUszS0p2dkljQ1ZGdnNZM19GZG80b3ZRU0NNcGFTTEhZMnE4Y0Q4cUotSUVuSjNBd1NqUEhMRkhrRFd0Qzl6N00zS0ZCd1FwcTk1ZFBLT0E?oc=5\" target=\"_blank\">Generation Appreciation Month highlights career opportunities at Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-11T06:08:44+00:00"
+    },
     {
       "id": "a0bfe402c07bf2c5",
       "title": "Georgia Power transmission problem causes major Marietta outage - Marietta Daily Journal",
@@ -89,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-10T17:43:26+00:00"
+    },
+    {
+      "id": "43e1339e89a27596",
+      "title": "Georgia Power offers ways to save on rising summer energy bills - WJBF",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUh3ck1LSWFUOUV2elozaV9td3k0cDVUQ3FNV3Nybkg3djdudHBxWnJWZTNObFFIclJsRWQwRHpPM1NqN2UycnNCXzhmQ0RNcEdVdklMTWtIamhneERaSjBObExkUi1ReG1uVHk2R0lNZUtwb1gxZkRBSkU0RkF3NkFIUFlIRll4NmJESUZjUldWWjN1LTZnWDVoeGdRemhwNnlycklSV0tJX1XSAasBQVVfeXFMTnlId3JNS0lhVDlFdnpaM2lfbXd5NHA1VENxTVdzcm5IN3Y3bnRwcVpyVmUzTmxRSHJSbEVkMER6TzNTajdlMnJzQl84ZkNETXBHVXZJTE1rSGpoZ3hEWkowTmxMZFItUXhtblR5NkdJTWVLcG9YMWZEQUpFNEZBdzZBSFBZSEZZeDZiRElGY1JXVlozdS02Z1g1aHhnUXpocDZ5cnJJUldLSV9V?oc=5",
+      "domain": "news.google.com",
+      "source": "WJBF",
+      "language": "English",
+      "published_at": "2026-07-10T12:27:13+00:00",
+      "summary": "Georgia Power offers ways to save on rising summer energy bills WJBF",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUh3ck1LSWFUOUV2elozaV9td3k0cDVUQ3FNV3Nybkg3djdudHBxWnJWZTNObFFIclJsRWQwRHpPM1NqN2UycnNCXzhmQ0RNcEdVdklMTWtIamhneERaSjBObExkUi1ReG1uVHk2R0lNZUtwb1gxZkRBSkU0RkF3NkFIUFlIRll4NmJESUZjUldWWjN1LTZnWDVoeGdRemhwNnlycklSV0tJX1XSAasBQVVfeXFMTnlId3JNS0lhVDlFdnpaM2lfbXd5NHA1VENxTVdzcm5IN3Y3bnRwcVpyVmUzTmxRSHJSbEVkMER6TzNTajdlMnJzQl84ZkNETXBHVXZJTE1rSGpoZ3hEWkowTmxMZFItUXhtblR5NkdJTWVLcG9YMWZEQUpFNEZBdzZBSFBZSEZZeDZiRElGY1JXVlozdS02Z1g1aHhnUXpocDZ5cnJJUldLSV9V?oc=5\" target=\"_blank\">Georgia Power offers ways to save on rising summer energy bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJBF</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-11T06:08:44+00:00"
     },
     {
       "id": "9e88a458fd97bce3",
