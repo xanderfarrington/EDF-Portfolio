@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T20:38:17+00:00",
+  "last_updated": "2026-07-12T22:41:05+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 97,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "71b28502e86e84b6",
         "title": "Public Service Commission opens public comment about how it should evaluate data center contracts - Alabama Daily News",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 186,
-      "new_mentions_this_run": 24,
+      "count": 187,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "fe91b4c4ad955680",
         "title": "Georgia Power to hold public meeting on proposed 75-mile transmission line project - AOL.com",

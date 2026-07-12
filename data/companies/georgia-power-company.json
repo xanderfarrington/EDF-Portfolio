@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-12T20:38:06+00:00",
+  "last_updated": "2026-07-12T22:40:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 186,
+  "count": 187,
   "mentions": [
     {
       "id": "fe91b4c4ad955680",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-12T06:28:33+00:00"
+    },
+    {
+      "id": "f65f1315cae4cccf",
+      "title": "Georgia Power to hold public meeting on proposed 75-mile transmission line project - WJBF",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFZpR2VWRUpZeTBaSEVIMWlMa0duUkpLVkQyY0JzVmRpVWRrSy1TZ0VOTnhZczFxcHZiUXpuMjktc1FJSHJvSlJKNjU3YVdIMHZQWW0xTzZxZkJkSUs3OTQ4c0RUS2FWX1E2b1FWSF82dFU4MHRkajczRWswODBOa0ZiR2swQnh4RzlaSG8wSlBtdFRINWxjZmowWXp0bjRXMTQ5M3Y3NE92ZW1VLXMxSGVzRdIBswFBVV95cUxPOFZpR2VWRUpZeTBaSEVIMWlMa0duUkpLVkQyY0JzVmRpVWRrSy1TZ0VOTnhZczFxcHZiUXpuMjktc1FJSHJvSlJKNjU3YVdIMHZQWW0xTzZxZkJkSUs3OTQ4c0RUS2FWX1E2b1FWSF82dFU4MHRkajczRWswODBOa0ZiR2swQnh4RzlaSG8wSlBtdFRINWxjZmowWXp0bjRXMTQ5M3Y3NE92ZW1VLXMxSGVzRQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WJBF",
+      "language": "English",
+      "published_at": "2026-07-11T21:58:17+00:00",
+      "summary": "Georgia Power to hold public meeting on proposed 75-mile transmission line project WJBF",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFZpR2VWRUpZeTBaSEVIMWlMa0duUkpLVkQyY0JzVmRpVWRrSy1TZ0VOTnhZczFxcHZiUXpuMjktc1FJSHJvSlJKNjU3YVdIMHZQWW0xTzZxZkJkSUs3OTQ4c0RUS2FWX1E2b1FWSF82dFU4MHRkajczRWswODBOa0ZiR2swQnh4RzlaSG8wSlBtdFRINWxjZmowWXp0bjRXMTQ5M3Y3NE92ZW1VLXMxSGVzRdIBswFBVV95cUxPOFZpR2VWRUpZeTBaSEVIMWlMa0duUkpLVkQyY0JzVmRpVWRrSy1TZ0VOTnhZczFxcHZiUXpuMjktc1FJSHJvSlJKNjU3YVdIMHZQWW0xTzZxZkJkSUs3OTQ4c0RUS2FWX1E2b1FWSF82dFU4MHRkajczRWswODBOa0ZiR2swQnh4RzlaSG8wSlBtdFRINWxjZmowWXp0bjRXMTQ5M3Y3NE92ZW1VLXMxSGVzRQ?oc=5\" target=\"_blank\">Georgia Power to hold public meeting on proposed 75-mile transmission line project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJBF</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-12T22:40:54+00:00"
     },
     {
       "id": "76a1719436f0d104",
