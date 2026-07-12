@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T06:28:43+00:00",
+  "last_updated": "2026-07-12T09:47:05+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 97,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "71b28502e86e84b6",
         "title": "Public Service Commission opens public comment about how it should evaluate data center contracts - Alabama Daily News",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 59,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "b9f7dc4432d14719",
         "title": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock - AOL.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 182,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "f536341120f04af1",
         "title": "Georgia Power to hold public meeting on proposed 75-mile transmission line project - Yahoo",
