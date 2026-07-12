@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T02:07:51+00:00",
+  "last_updated": "2026-07-12T06:28:43+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 97,
-      "new_mentions_this_run": 12,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "71b28502e86e84b6",
         "title": "Public Service Commission opens public comment about how it should evaluate data center contracts - Alabama Daily News",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 25,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 181,
-      "new_mentions_this_run": 24,
+      "count": 182,
+      "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "76a1719436f0d104",
-        "title": "Generation Appreciation Month highlights career opportunities at Georgia Power - Daily Energy Insider",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3JKS3VGdUoyM3ZjZXVQMXdjUnZWN2xiRUpWMkZ3Qm1ZTnhidklyaU9JYWF2aGRrVkpSSG96LUFjb0d6MDNQeUVaQzVvcFJfcDZsUlViRm9ad0tRODVwVmhUTkx4LTk3QWJ2V2VPTjA0WWhXVWRPYUszS0p2dkljQ1ZGdnNZM19GZG80b3ZRU0NNcGFTTEhZMnE4Y0Q4cUotSUVuSjNBd1NqUEhMRkhrRFd0Qzl6N00zS0ZCd1FwcTk1ZFBLT0E?oc=5",
+        "id": "f536341120f04af1",
+        "title": "Georgia Power to hold public meeting on proposed 75-mile transmission line project - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFdaSlBFanRDamREaGRRdHhpM05uTlp0NWpHT2FfcXhSaTJWdHFFN3FSTktOZWlvR0tWRDRQN084MVFlUW5NdjF0UncwQ3dfajFLRU8wZUw4WkROakFsdWRjOVlocmV2SF9pbUlwR25pYmlPS3RUSVVjRUNYcGtaQ29hU1pMYVBpOXBxTC1ZWXU?oc=5",
         "domain": "news.google.com",
-        "source": "Daily Energy Insider",
+        "source": "Yahoo",
         "language": "English",
-        "published_at": "2026-07-11T01:19:23+00:00",
-        "summary": "Generation Appreciation Month highlights career opportunities at Georgia Power Daily Energy Insider",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3JKS3VGdUoyM3ZjZXVQMXdjUnZWN2xiRUpWMkZ3Qm1ZTnhidklyaU9JYWF2aGRrVkpSSG96LUFjb0d6MDNQeUVaQzVvcFJfcDZsUlViRm9ad0tRODVwVmhUTkx4LTk3QWJ2V2VPTjA0WWhXVWRPYUszS0p2dkljQ1ZGdnNZM19GZG80b3ZRU0NNcGFTTEhZMnE4Y0Q4cUotSUVuSjNBd1NqUEhMRkhrRFd0Qzl6N00zS0ZCd1FwcTk1ZFBLT0E?oc=5\" target=\"_blank\">Generation Appreciation Month highlights career opportunities at Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+        "published_at": "2026-07-12T01:58:00+00:00",
+        "summary": "Georgia Power to hold public meeting on proposed 75-mile transmission line project Yahoo",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFdaSlBFanRDamREaGRRdHhpM05uTlp0NWpHT2FfcXhSaTJWdHFFN3FSTktOZWlvR0tWRDRQN084MVFlUW5NdjF0UncwQ3dfajFLRU8wZUw4WkROakFsdWRjOVlocmV2SF9pbUlwR25pYmlPS3RUSVVjRUNYcGtaQ29hU1pMYVBpOXBxTC1ZWXU?oc=5\" target=\"_blank\">Georgia Power to hold public meeting on proposed 75-mile transmission line project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-11T06:08:44+00:00"
+        "collected_at": "2026-07-12T06:28:33+00:00"
       }
     },
     {

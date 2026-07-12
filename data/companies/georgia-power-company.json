@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-12T02:07:40+00:00",
+  "last_updated": "2026-07-12T06:28:33+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 181,
+  "count": 182,
   "mentions": [
+    {
+      "id": "f536341120f04af1",
+      "title": "Georgia Power to hold public meeting on proposed 75-mile transmission line project - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFdaSlBFanRDamREaGRRdHhpM05uTlp0NWpHT2FfcXhSaTJWdHFFN3FSTktOZWlvR0tWRDRQN084MVFlUW5NdjF0UncwQ3dfajFLRU8wZUw4WkROakFsdWRjOVlocmV2SF9pbUlwR25pYmlPS3RUSVVjRUNYcGtaQ29hU1pMYVBpOXBxTC1ZWXU?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-07-12T01:58:00+00:00",
+      "summary": "Georgia Power to hold public meeting on proposed 75-mile transmission line project Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFdaSlBFanRDamREaGRRdHhpM05uTlp0NWpHT2FfcXhSaTJWdHFFN3FSTktOZWlvR0tWRDRQN084MVFlUW5NdjF0UncwQ3dfajFLRU8wZUw4WkROakFsdWRjOVlocmV2SF9pbUlwR25pYmlPS3RUSVVjRUNYcGtaQ29hU1pMYVBpOXBxTC1ZWXU?oc=5\" target=\"_blank\">Georgia Power to hold public meeting on proposed 75-mile transmission line project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-12T06:28:33+00:00"
+    },
     {
       "id": "76a1719436f0d104",
       "title": "Generation Appreciation Month highlights career opportunities at Georgia Power - Daily Energy Insider",
