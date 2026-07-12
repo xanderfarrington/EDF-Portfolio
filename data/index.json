@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T13:05:50+00:00",
+  "last_updated": "2026-07-12T14:50:53+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 97,
-      "new_mentions_this_run": 11,
+      "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "71b28502e86e84b6",
         "title": "Public Service Commission opens public comment about how it should evaluate data center contracts - Alabama Daily News",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 25,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 184,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "f536341120f04af1",
         "title": "Georgia Power to hold public meeting on proposed 75-mile transmission line project - Yahoo",
