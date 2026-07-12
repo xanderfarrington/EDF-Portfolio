@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T18:57:28+00:00",
+  "last_updated": "2026-07-12T20:38:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 59,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "b9f7dc4432d14719",
         "title": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock - AOL.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 185,
-      "new_mentions_this_run": 23,
+      "count": 186,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "f536341120f04af1",
-        "title": "Georgia Power to hold public meeting on proposed 75-mile transmission line project - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFdaSlBFanRDamREaGRRdHhpM05uTlp0NWpHT2FfcXhSaTJWdHFFN3FSTktOZWlvR0tWRDRQN084MVFlUW5NdjF0UncwQ3dfajFLRU8wZUw4WkROakFsdWRjOVlocmV2SF9pbUlwR25pYmlPS3RUSVVjRUNYcGtaQ29hU1pMYVBpOXBxTC1ZWXU?oc=5",
+        "id": "fe91b4c4ad955680",
+        "title": "Georgia Power to hold public meeting on proposed 75-mile transmission line project - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHlNTU9wOUJ3VXpXdS0yR3dvektIWDhzdnI2UVlTUVhqSUo4NWM5dkdUMDVVYUJVQ0gtSjFtbUR4cmNLY08xY1lPamhTTVk3bDVfOVRfMWt4YnNLSjJnSGhlMXpETDJiYVdZVFFDdWx5cFNKSHdtS0ZxR2dSUXFYVlZLSQ?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo",
+        "source": "AOL.com",
         "language": "English",
-        "published_at": "2026-07-12T01:58:00+00:00",
-        "summary": "Georgia Power to hold public meeting on proposed 75-mile transmission line project Yahoo",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFdaSlBFanRDamREaGRRdHhpM05uTlp0NWpHT2FfcXhSaTJWdHFFN3FSTktOZWlvR0tWRDRQN084MVFlUW5NdjF0UncwQ3dfajFLRU8wZUw4WkROakFsdWRjOVlocmV2SF9pbUlwR25pYmlPS3RUSVVjRUNYcGtaQ29hU1pMYVBpOXBxTC1ZWXU?oc=5\" target=\"_blank\">Georgia Power to hold public meeting on proposed 75-mile transmission line project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "published_at": "2026-07-12T03:19:23+00:00",
+        "summary": "Georgia Power to hold public meeting on proposed 75-mile transmission line project AOL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHlNTU9wOUJ3VXpXdS0yR3dvektIWDhzdnI2UVlTUVhqSUo4NWM5dkdUMDVVYUJVQ0gtSjFtbUR4cmNLY08xY1lPamhTTVk3bDVfOVRfMWt4YnNLSjJnSGhlMXpETDJiYVdZVFFDdWx5cFNKSHdtS0ZxR2dSUXFYVlZLSQ?oc=5\" target=\"_blank\">Georgia Power to hold public meeting on proposed 75-mile transmission line project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-12T06:28:33+00:00"
+        "collected_at": "2026-07-12T20:38:06+00:00"
       }
     },
     {
