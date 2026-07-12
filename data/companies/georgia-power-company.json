@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-12T09:46:54+00:00",
+  "last_updated": "2026-07-12T11:06:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 182,
+  "count": 183,
   "mentions": [
     {
       "id": "f536341120f04af1",
@@ -145,6 +145,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-11T06:08:44+00:00"
+    },
+    {
+      "id": "63fa62039656ef35",
+      "title": "State regulators to investigate if Georgia Power customers pay data center costs - Macon Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pbG1VUEktc1dmRUpCNU1RR0hHMkpWNWlzZnhuVUQyS1V2M2h5eFdJdXIzME05ZXcwZEJWc0Y1TWFWQUUxWWJDMnQ5UDg0N05yaHNiWDRxZ2JabDlPcmU5TmpUdXN5cGtHTVFJSNIBbEFVX3lxTE5ienJLWEozSmZtVUlDRm1kQTlkcHI4YnhNMzkyTEo1a2Y5ZW9FZW5uUnFfWVhqZVlaNnNsTjBPSnVSZkc2QkRlZW9Dc0NXcTBCYmV1R1VkdGY3UGQ2MDNXMFlXeGZ3anpGYld4bQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Macon Telegraph",
+      "language": "English",
+      "published_at": "2026-07-10T09:30:00+00:00",
+      "summary": "State regulators to investigate if Georgia Power customers pay data center costs Macon Telegraph",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9pbG1VUEktc1dmRUpCNU1RR0hHMkpWNWlzZnhuVUQyS1V2M2h5eFdJdXIzME05ZXcwZEJWc0Y1TWFWQUUxWWJDMnQ5UDg0N05yaHNiWDRxZ2JabDlPcmU5TmpUdXN5cGtHTVFJSNIBbEFVX3lxTE5ienJLWEozSmZtVUlDRm1kQTlkcHI4YnhNMzkyTEo1a2Y5ZW9FZW5uUnFfWVhqZVlaNnNsTjBPSnVSZkc2QkRlZW9Dc0NXcTBCYmV1R1VkdGY3UGQ2MDNXMFlXeGZ3anpGYld4bQ?oc=5\" target=\"_blank\">State regulators to investigate if Georgia Power customers pay data center costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macon Telegraph</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-12T11:06:56+00:00"
     },
     {
       "id": "9e88a458fd97bce3",
