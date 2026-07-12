@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-12T16:52:56+00:00",
+  "last_updated": "2026-07-12T18:57:18+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 184,
+  "count": 185,
   "mentions": [
     {
       "id": "f536341120f04af1",
@@ -901,6 +901,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-29T16:56:34+00:00"
+    },
+    {
+      "id": "e18e46e4a598df9f",
+      "title": "Georgia Power continues to offer options to connect customers to solar - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHJUeHgzNHlrczlTRnlGR3hMaC14a1BlSXBNS01TdnRrc05YXzYtc2JNY3BOVVA0MG5ZbDBfZ0I4R1lOT3RJT3VfUWs3dFZKUDl3enhKdjFNdVUwVVlncEVvT0hpSjZFS1RzTWJCMXRHZHNOTXRsbUNaZFNpTTVuMG4wZkhpTHNCR3h0eDFpa2ZTMmE3MExwQmV3?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-06-25T07:00:00+00:00",
+      "summary": "Georgia Power continues to offer options to connect customers to solar Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHJUeHgzNHlrczlTRnlGR3hMaC14a1BlSXBNS01TdnRrc05YXzYtc2JNY3BOVVA0MG5ZbDBfZ0I4R1lOT3RJT3VfUWs3dFZKUDl3enhKdjFNdVUwVVlncEVvT0hpSjZFS1RzTWJCMXRHZHNOTXRsbUNaZFNpTTVuMG4wZkhpTHNCR3h0eDFpa2ZTMmE3MExwQmV3?oc=5\" target=\"_blank\">Georgia Power continues to offer options to connect customers to solar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-12T18:57:18+00:00"
     },
     {
       "id": "65c06ee061decaab",
