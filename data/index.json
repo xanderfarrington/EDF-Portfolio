@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T14:18:09+00:00",
+  "last_updated": "2026-07-13T17:50:59+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 97,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "71b28502e86e84b6",
         "title": "Public Service Commission opens public comment about how it should evaluate data center contracts - Alabama Daily News",
@@ -68,42 +68,42 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 59,
+      "count": 61,
       "new_mentions_this_run": 5,
       "latest_mention": {
-        "id": "b9f7dc4432d14719",
-        "title": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc0pGWXpsd1V2RGJ1VktWRERTYlRKX2RGWnQxVGRLWXpxQlRoQU1sd0stc3E4dFpiWkM5bnE0Zkx0MWg1UGpGZ2RoWkk0TERzbkxrRjQxRVE4WDFSczJOUzBRTHo0TmR1OFlkNTY1TllFeHFub0JQejJYc0h6Y1RNYXhNM0FVel80ZTg4NFhaVTQ?oc=5",
+        "id": "f8d18ed6fbac21cc",
+        "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0NOWUdqcG5wTVhQUS1GVFAwUXhFckZkempudnZUSlZ4U1hLRGRQRFhNdVBsbi13RE8yakk5dnk5Q2VDYTB3TE1TWnlnTFpjRkRrX1hKaDE1ZUhOSEQwSDlHaTh1SHhWUEZtd2YtX1E0U0JZa3MxSFAzSEo3TlZkTlhrWVJfb21FeXdnRGlmLXhzY0JsckQtRGg4bnQ?oc=5",
         "domain": "news.google.com",
-        "source": "AOL.com",
+        "source": "thenationalnews.com",
         "language": "English",
-        "published_at": "2026-07-07T15:43:45+00:00",
-        "summary": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock AOL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNc0pGWXpsd1V2RGJ1VktWRERTYlRKX2RGWnQxVGRLWXpxQlRoQU1sd0stc3E4dFpiWkM5bnE0Zkx0MWg1UGpGZ2RoWkk0TERzbkxrRjQxRVE4WDFSczJOUzBRTHo0TmR1OFlkNTY1TllFeHFub0JQejJYc0h6Y1RNYXhNM0FVel80ZTg4NFhaVTQ?oc=5\" target=\"_blank\">Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "published_at": "2026-07-13T17:23:34+00:00",
+        "summary": "Nuclear reactor fuel decision pushes Three Mile Island restart forward thenationalnews.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0NOWUdqcG5wTVhQUS1GVFAwUXhFckZkempudnZUSlZ4U1hLRGRQRFhNdVBsbi13RE8yakk5dnk5Q2VDYTB3TE1TWnlnTFpjRkRrX1hKaDE1ZUhOSEQwSDlHaTh1SHhWUEZtd2YtX1E0U0JZa3MxSFAzSEo3TlZkTlhrWVJfb21FeXdnRGlmLXhzY0JsckQtRGg4bnQ?oc=5\" target=\"_blank\">Nuclear reactor fuel decision pushes Three Mile Island restart forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thenationalnews.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-08T15:59:19+00:00"
+        "collected_at": "2026-07-13T17:50:43+00:00"
       }
     },
     {
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 187,
-      "new_mentions_this_run": 22,
+      "count": 188,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "fe91b4c4ad955680",
-        "title": "Georgia Power to hold public meeting on proposed 75-mile transmission line project - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHlNTU9wOUJ3VXpXdS0yR3dvektIWDhzdnI2UVlTUVhqSUo4NWM5dkdUMDVVYUJVQ0gtSjFtbUR4cmNLY08xY1lPamhTTVk3bDVfOVRfMWt4YnNLSjJnSGhlMXpETDJiYVdZVFFDdWx5cFNKSHdtS0ZxR2dSUXFYVlZLSQ?oc=5",
+        "id": "5ed058c8ecf78631",
+        "title": "Georgia family says they're forced to sell home to help power AI data centers: \"It's theft\" - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vQTF0V1VadV9EdmRFOV8zM0JfZ1djRXZxRXRXVy1TamdveE1fcjVhWjdtRzA3T0Y0Z0VKUVdRRHEtYVB1cDZULUkyUDJ2a1FkV3BOZWFhcUdkTTlQMzVqZjNpVEpGaUxaVVhHaGJqWnZ5RG0ycXQ4aDlTODNlRzg?oc=5",
         "domain": "news.google.com",
-        "source": "AOL.com",
+        "source": "CBS News",
         "language": "English",
-        "published_at": "2026-07-12T03:19:23+00:00",
-        "summary": "Georgia Power to hold public meeting on proposed 75-mile transmission line project AOL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHlNTU9wOUJ3VXpXdS0yR3dvektIWDhzdnI2UVlTUVhqSUo4NWM5dkdUMDVVYUJVQ0gtSjFtbUR4cmNLY08xY1lPamhTTVk3bDVfOVRfMWt4YnNLSjJnSGhlMXpETDJiYVdZVFFDdWx5cFNKSHdtS0ZxR2dSUXFYVlZLSQ?oc=5\" target=\"_blank\">Georgia Power to hold public meeting on proposed 75-mile transmission line project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "published_at": "2026-07-13T16:48:00+00:00",
+        "summary": "Georgia family says they're forced to sell home to help power AI data centers: \"It's theft\" CBS News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1vQTF0V1VadV9EdmRFOV8zM0JfZ1djRXZxRXRXVy1TamdveE1fcjVhWjdtRzA3T0Y0Z0VKUVdRRHEtYVB1cDZULUkyUDJ2a1FkV3BOZWFhcUdkTTlQMzVqZjNpVEpGaUxaVVhHaGJqWnZ5RG0ycXQ4aDlTODNlRzg?oc=5\" target=\"_blank\">Georgia family says they're forced to sell home to help power AI data centers: \"It's theft\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-12T20:38:06+00:00"
+        "collected_at": "2026-07-13T17:50:49+00:00"
       }
     },
     {

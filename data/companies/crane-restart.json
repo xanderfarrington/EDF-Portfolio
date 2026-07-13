@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-07-13T14:17:52+00:00",
+  "last_updated": "2026-07-13T17:50:43+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 59,
+  "count": 61,
   "mentions": [
+    {
+      "id": "f8d18ed6fbac21cc",
+      "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0NOWUdqcG5wTVhQUS1GVFAwUXhFckZkempudnZUSlZ4U1hLRGRQRFhNdVBsbi13RE8yakk5dnk5Q2VDYTB3TE1TWnlnTFpjRkRrX1hKaDE1ZUhOSEQwSDlHaTh1SHhWUEZtd2YtX1E0U0JZa3MxSFAzSEo3TlZkTlhrWVJfb21FeXdnRGlmLXhzY0JsckQtRGg4bnQ?oc=5",
+      "domain": "news.google.com",
+      "source": "thenationalnews.com",
+      "language": "English",
+      "published_at": "2026-07-13T17:23:34+00:00",
+      "summary": "Nuclear reactor fuel decision pushes Three Mile Island restart forward thenationalnews.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0NOWUdqcG5wTVhQUS1GVFAwUXhFckZkempudnZUSlZ4U1hLRGRQRFhNdVBsbi13RE8yakk5dnk5Q2VDYTB3TE1TWnlnTFpjRkRrX1hKaDE1ZUhOSEQwSDlHaTh1SHhWUEZtd2YtX1E0U0JZa3MxSFAzSEo3TlZkTlhrWVJfb21FeXdnRGlmLXhzY0JsckQtRGg4bnQ?oc=5\" target=\"_blank\">Nuclear reactor fuel decision pushes Three Mile Island restart forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thenationalnews.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-13T17:50:43+00:00"
+    },
     {
       "id": "b9f7dc4432d14719",
       "title": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock - AOL.com",
@@ -145,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-25T23:12:12+00:00"
+    },
+    {
+      "id": "ae14605a299f599b",
+      "title": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNFJPWEw2WW9sN1pZMWkxak1lWUVfZDV4RjB1R2N2WkZCRHFPOTVWUjdQZTU4LVUyd1hPVDJMY3c5S0dwU3JJeHJCeXpQeWVtVFNMSFhQaWh6X005TlVMQU1Tb2lERnBLb20yUDMyMnloNV9GQXFyS19XbGlRSEpGUFVjLW5sMXFZVFhxdzNISjVJelRUVWdjcDZXdVRacUVGRHZSU1hLYkpwbEdO?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-06-25T07:00:00+00:00",
+      "summary": "Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNFJPWEw2WW9sN1pZMWkxak1lWUVfZDV4RjB1R2N2WkZCRHFPOTVWUjdQZTU4LVUyd1hPVDJMY3c5S0dwU3JJeHJCeXpQeWVtVFNMSFhQaWh6X005TlVMQU1Tb2lERnBLb20yUDMyMnloNV9GQXFyS19XbGlRSEpGUFVjLW5sMXFZVFhxdzNISjVJelRUVWdjcDZXdVRacUVGRHZSU1hLYkpwbEdO?oc=5\" target=\"_blank\">Engineer allegedly used insider information regarding Three Mile Island restart to make $1.48 million from stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-13T17:50:43+00:00"
     },
     {
       "id": "22f298e263449aac",
