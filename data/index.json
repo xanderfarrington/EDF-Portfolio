@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T04:47:06+00:00",
+  "last_updated": "2026-07-14T07:52:59+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 188,
+      "count": 189,
       "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "5ed058c8ecf78631",
@@ -110,21 +110,21 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 17,
-      "new_mentions_this_run": 3,
+      "count": 18,
+      "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "c4e09c5445ba4505",
-        "title": "Jeffrey McClure - Department of Energy (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50UzlwaVF4YUdWdDVudldZekgxUlFfZm9LUnMtcnZqLUFxOVR1TXlTMkR2Q21PZFVuTG5JYmZ1dUpaMTBJdFdXZFFtUDdxT3BicjA2V3FDNEVOOWVEbFE?oc=5",
+        "id": "4c5210b5217d10fb",
+        "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2MxRTlQb05HeWZFRGpBVTU5cVl2U2RKTFJ1ekI5MkpXdFkyQlhGMkhFdlhCcTVETnlsN0pjQ3dIRjViRGM0ZXZLRW90blBjTWE0dUFvbl9zNDgtVFBtQ2xDdC1JNkxDUmtqVm5QRVlTaWxIYzNKaURJblBLVHFZNUJMQVJrVkUwLXpyakpfWGduaks3dUNxNHRHOFdSQldoSTJ3cWdlQjR0dw?oc=5",
         "domain": "news.google.com",
         "source": "Department of Energy (.gov)",
         "language": "English",
-        "published_at": "2026-06-26T17:42:28+00:00",
-        "summary": "Jeffrey McClure Department of Energy (.gov)",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE50UzlwaVF4YUdWdDVudldZekgxUlFfZm9LUnMtcnZqLUFxOVR1TXlTMkR2Q21PZFVuTG5JYmZ1dUpaMTBJdFdXZFFtUDdxT3BicjA2V3FDNEVOOWVEbFE?oc=5\" target=\"_blank\">Jeffrey McClure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+        "published_at": "2026-07-09T17:30:12+00:00",
+        "summary": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects Department of Energy (.gov)",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2MxRTlQb05HeWZFRGpBVTU5cVl2U2RKTFJ1ekI5MkpXdFkyQlhGMkhFdlhCcTVETnlsN0pjQ3dIRjViRGM0ZXZLRW90blBjTWE0dUFvbl9zNDgtVFBtQ2xDdC1JNkxDUmtqVm5QRVlTaWxIYzNKaURJblBLVHFZNUJMQVJrVkUwLXpyakpfWGduaks3dUNxNHRHOFdSQldoSTJ3cWdlQjR0dw?oc=5\" target=\"_blank\">Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-06-29T14:00:36+00:00"
+        "collected_at": "2026-07-14T07:52:54+00:00"
       }
     }
   ]

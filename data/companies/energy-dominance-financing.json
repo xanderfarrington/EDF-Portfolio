@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-07-14T04:47:01+00:00",
+  "last_updated": "2026-07-14T07:52:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 17,
+  "count": 18,
   "mentions": [
+    {
+      "id": "4c5210b5217d10fb",
+      "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2MxRTlQb05HeWZFRGpBVTU5cVl2U2RKTFJ1ekI5MkpXdFkyQlhGMkhFdlhCcTVETnlsN0pjQ3dIRjViRGM0ZXZLRW90blBjTWE0dUFvbl9zNDgtVFBtQ2xDdC1JNkxDUmtqVm5QRVlTaWxIYzNKaURJblBLVHFZNUJMQVJrVkUwLXpyakpfWGduaks3dUNxNHRHOFdSQldoSTJ3cWdlQjR0dw?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-07-09T17:30:12+00:00",
+      "summary": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects Department of Energy (.gov)",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2MxRTlQb05HeWZFRGpBVTU5cVl2U2RKTFJ1ekI5MkpXdFkyQlhGMkhFdlhCcTVETnlsN0pjQ3dIRjViRGM0ZXZLRW90blBjTWE0dUFvbl9zNDgtVFBtQ2xDdC1JNkxDUmtqVm5QRVlTaWxIYzNKaURJblBLVHFZNUJMQVJrVkUwLXpyakpfWGduaks3dUNxNHRHOFdSQldoSTJ3cWdlQjR0dw?oc=5\" target=\"_blank\">Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-14T07:52:54+00:00"
+    },
     {
       "id": "c4e09c5445ba4505",
       "title": "Jeffrey McClure - Department of Energy (.gov)",
