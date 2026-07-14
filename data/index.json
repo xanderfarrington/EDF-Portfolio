@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-14T20:54:21+00:00",
+  "last_updated": "2026-07-14T22:52:56+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 38,
-      "new_mentions_this_run": 6,
+      "count": 39,
+      "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "56d8889b2e40f1f4",
-        "title": "US25537AW1 Bond Profile — Key Metrics - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ITDljRC1neEdlVTdRSU1EbWJQV1JoVV9vN0RIdkZ6bkM4TTZLWW51dzdyekRZcHV3ZnNhZ2FrMDRxc2kzZWpXQjhfcVdsMTBJWnVGb1l6bWNQbnl2WFFXbmdkWTkxX3hCNDhGN1A1REdkVnZrdkFF?oc=5",
+        "id": "f31e460184736606",
+        "title": "News - Bartlesville Radio",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOazlMalVEOUNOSjNFVkNkSVl4Tl9aLW42UUFkRnJXMUFEOE5YT3pmNVFlVDliNDdtMll1U21paVoyMmlmWElKcWk5WDZEZHdxXy1fZWd6bzRjRWtIekRqZW1FbWFMcWJoWDMycmZtMUdBX1ZzclVmS1JTd3hZRTNveHljV3k0VE42ZW80dlR0ZnJUaFROcW1PdjNvNHVHbC1kN0xWLVFCTWFtaFZZaFo3akUwSzZmbDA4MFVkM3NHQ0VKZ0cxT2dfRjhMWFI?oc=5",
         "domain": "news.google.com",
-        "source": "TradingView",
+        "source": "Bartlesville Radio",
         "language": "English",
-        "published_at": "2026-07-14T03:17:07+00:00",
-        "summary": "US25537AW1 Bond Profile — Key Metrics TradingView",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1ITDljRC1neEdlVTdRSU1EbWJQV1JoVV9vN0RIdkZ6bkM4TTZLWW51dzdyekRZcHV3ZnNhZ2FrMDRxc2kzZWpXQjhfcVdsMTBJWnVGb1l6bWNQbnl2WFFXbmdkWTkxX3hCNDhGN1A1REdkVnZrdkFF?oc=5\" target=\"_blank\">US25537AW1 Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "published_at": "2026-07-14T21:05:42+00:00",
+        "summary": "News Bartlesville Radio",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOazlMalVEOUNOSjNFVkNkSVl4Tl9aLW42UUFkRnJXMUFEOE5YT3pmNVFlVDliNDdtMll1U21paVoyMmlmWElKcWk5WDZEZHdxXy1fZWd6bzRjRWtIekRqZW1FbWFMcWJoWDMycmZtMUdBX1ZzclVmS1JTd3hZRTNveHljV3k0VE42ZW80dlR0ZnJUaFROcW1PdjNvNHVHbC1kN0xWLVFCTWFtaFZZaFo3akUwSzZmbDA4MFVkM3NHQ0VKZ0cxT2dfRjhMWFI?oc=5\" target=\"_blank\">News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bartlesville Radio</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-14T04:46:34+00:00"
+        "collected_at": "2026-07-14T22:52:24+00:00"
       }
     },
     {
