@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T22:51:02+00:00",
+  "last_updated": "2026-07-14T01:54:50+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 61,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 188,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "5ed058c8ecf78631",
         "title": "Georgia family says they're forced to sell home to help power AI data centers: \"It's theft\" - CBS News",
