@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-14T13:19:29+00:00",
+  "last_updated": "2026-07-14T15:20:16+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 38,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "56d8889b2e40f1f4",
         "title": "US25537AW1 Bond Profile — Key Metrics - TradingView",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 189,
+      "count": 190,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "5ed058c8ecf78631",
-        "title": "Georgia family says they're forced to sell home to help power AI data centers: \"It's theft\" - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vQTF0V1VadV9EdmRFOV8zM0JfZ1djRXZxRXRXVy1TamdveE1fcjVhWjdtRzA3T0Y0Z0VKUVdRRHEtYVB1cDZULUkyUDJ2a1FkV3BOZWFhcUdkTTlQMzVqZjNpVEpGaUxaVVhHaGJqWnZ5RG0ycXQ4aDlTODNlRzg?oc=5",
+        "id": "f81c5a3f5de44935",
+        "title": "Georgia Homeowners Forced Out to Power AI Data Centers - Gadget Review",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOEdQUXQwQlJuai10cXgtVVR6cUtCZWlvWlRGbGpNVlZSTzBTNWoyNmpfN0ZJUVVDa2Rxbkp1V0p0WmZkdF9hQmhXZDYxRHRqSUhSUkxwcGYzSEZwSVNvWEtVZU42SGVnckU5RmFicGF6QllrSnV0Rk9LVjZLVWw5emxqYWNvakg2dHhJ?oc=5",
         "domain": "news.google.com",
-        "source": "CBS News",
+        "source": "Gadget Review",
         "language": "English",
-        "published_at": "2026-07-13T16:48:00+00:00",
-        "summary": "Georgia family says they're forced to sell home to help power AI data centers: \"It's theft\" CBS News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1vQTF0V1VadV9EdmRFOV8zM0JfZ1djRXZxRXRXVy1TamdveE1fcjVhWjdtRzA3T0Y0Z0VKUVdRRHEtYVB1cDZULUkyUDJ2a1FkV3BOZWFhcUdkTTlQMzVqZjNpVEpGaUxaVVhHaGJqWnZ5RG0ycXQ4aDlTODNlRzg?oc=5\" target=\"_blank\">Georgia family says they're forced to sell home to help power AI data centers: \"It's theft\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "published_at": "2026-07-14T15:05:27+00:00",
+        "summary": "Georgia Homeowners Forced Out to Power AI Data Centers Gadget Review",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOEdQUXQwQlJuai10cXgtVVR6cUtCZWlvWlRGbGpNVlZSTzBTNWoyNmpfN0ZJUVVDa2Rxbkp1V0p0WmZkdF9hQmhXZDYxRHRqSUhSUkxwcGYzSEZwSVNvWEtVZU42SGVnckU5RmFicGF6QllrSnV0Rk9LVjZLVWw5emxqYWNvakg2dHhJ?oc=5\" target=\"_blank\">Georgia Homeowners Forced Out to Power AI Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gadget Review</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-13T17:50:49+00:00"
+        "collected_at": "2026-07-14T15:20:05+00:00"
       }
     },
     {
