@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-14T11:21:48+00:00",
+  "last_updated": "2026-07-14T13:19:29+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 38,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "56d8889b2e40f1f4",
         "title": "US25537AW1 Bond Profile — Key Metrics - TradingView",
