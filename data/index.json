@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-14T07:52:59+00:00",
+  "last_updated": "2026-07-14T09:51:46+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 37,
-      "new_mentions_this_run": 4,
+      "count": 38,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "56d8889b2e40f1f4",
         "title": "US25537AW1 Bond Profile — Key Metrics - TradingView",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 97,
-      "new_mentions_this_run": 10,
+      "count": 98,
+      "new_mentions_this_run": 11,
       "latest_mention": {
-        "id": "71b28502e86e84b6",
-        "title": "Public Service Commission opens public comment about how it should evaluate data center contracts - Alabama Daily News",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl94ZWh1QjI5UndUSzdlT2RmaDJBQS1Ed0lZVktoX0JZNVB5TGlxTW9Jc2hWODJsYlpQRThfTGpwV2NIQjdkWnd5X2N4cTgxdXpXZ0pBcGtublduRUczU0M3a1JPS3c1Vy1ZbjJNbk9BR3pmQlJNekIwOEFFVGd1UEpKTHRBQVpp?oc=5",
+        "id": "d9e37285a37f8efd",
+        "title": "Trump EPA Moves to Approve Alabama Coal Ash Program Rejected by Biden Administration - Inside Climate News",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORXVkUEw1VHEzWHEtUU0tcklma3ZpRkJIR1BOcE9hS2lad0lYWkE4ZThWQm9EeWxHQjc1VWxPYXhoVG1haldHZjRNNk5RQUxYMUtCX3llbVJraUFFc1BIQ0NIdnFkR1ZkT1FQNmdyYXpfRHBwRExHNDFDWmpZTUM4cVN4OXhSWDNWck14TVFJZ0VnUQ?oc=5",
         "domain": "news.google.com",
-        "source": "Alabama Daily News",
+        "source": "Inside Climate News",
         "language": "English",
-        "published_at": "2026-07-09T12:55:33+00:00",
-        "summary": "Public Service Commission opens public comment about how it should evaluate data center contracts Alabama Daily News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl94ZWh1QjI5UndUSzdlT2RmaDJBQS1Ed0lZVktoX0JZNVB5TGlxTW9Jc2hWODJsYlpQRThfTGpwV2NIQjdkWnd5X2N4cTgxdXpXZ0pBcGtublduRUczU0M3a1JPS3c1Vy1ZbjJNbk9BR3pmQlJNekIwOEFFVGd1UEpKTHRBQVpp?oc=5\" target=\"_blank\">Public Service Commission opens public comment about how it should evaluate data center contracts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Daily News</font>",
+        "published_at": "2026-07-14T08:55:00+00:00",
+        "summary": "Trump EPA Moves to Approve Alabama Coal Ash Program Rejected by Biden Administration Inside Climate News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORXVkUEw1VHEzWHEtUU0tcklma3ZpRkJIR1BOcE9hS2lad0lYWkE4ZThWQm9EeWxHQjc1VWxPYXhoVG1haldHZjRNNk5RQUxYMUtCX3llbVJraUFFc1BIQ0NIdnFkR1ZkT1FQNmdyYXpfRHBwRExHNDFDWmpZTUM4cVN4OXhSWDNWck14TVFJZ0VnUQ?oc=5\" target=\"_blank\">Trump EPA Moves to Approve Alabama Coal Ash Program Rejected by Biden Administration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-09T14:43:06+00:00"
+        "collected_at": "2026-07-14T09:51:19+00:00"
       }
     },
     {

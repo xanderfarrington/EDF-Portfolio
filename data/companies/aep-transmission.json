@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-14T07:52:26+00:00",
+  "last_updated": "2026-07-14T09:51:14+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 37,
+  "count": 38,
   "mentions": [
     {
       "id": "56d8889b2e40f1f4",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-14T04:46:34+00:00"
+    },
+    {
+      "id": "a6054a3fffa98efd",
+      "title": "AEP Headquarters Building Earns Recognition For Energy Efficiency Efforts - CSRwire",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkVzZ3dNeW1YWGhVNVFyOXF6OHk3OV9wQV9oN1hMaVBjbjhuS3l6WXpiN3d0dWgxcjMtOXBBcXRlYkRLYW9GOGlvWG9EVy1BYWxlc0dSVW9Hc2FFSExOMUVMNWVnS2lPQzhQeGZNcXVtczA1RFBGMm40R2FMNEI2b1JRV240WEh3bHZJRkNFS0hRUkZJTmFDMDEwMlBsQUVudWVRV0hsbkJTM2RU?oc=5",
+      "domain": "news.google.com",
+      "source": "CSRwire",
+      "language": "English",
+      "published_at": "2026-07-13T21:56:32+00:00",
+      "summary": "AEP Headquarters Building Earns Recognition For Energy Efficiency Efforts CSRwire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkVzZ3dNeW1YWGhVNVFyOXF6OHk3OV9wQV9oN1hMaVBjbjhuS3l6WXpiN3d0dWgxcjMtOXBBcXRlYkRLYW9GOGlvWG9EVy1BYWxlc0dSVW9Hc2FFSExOMUVMNWVnS2lPQzhQeGZNcXVtczA1RFBGMm40R2FMNEI2b1JRV240WEh3bHZJRkNFS0hRUkZJTmFDMDEwMlBsQUVudWVRV0hsbkJTM2RU?oc=5\" target=\"_blank\">AEP Headquarters Building Earns Recognition For Energy Efficiency Efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CSRwire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-14T09:51:14+00:00"
     },
     {
       "id": "c1f703e9b0251dc5",

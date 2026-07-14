@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-14T07:52:32+00:00",
+  "last_updated": "2026-07-14T09:51:19+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 97,
+  "count": 98,
   "mentions": [
+    {
+      "id": "d9e37285a37f8efd",
+      "title": "Trump EPA Moves to Approve Alabama Coal Ash Program Rejected by Biden Administration - Inside Climate News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORXVkUEw1VHEzWHEtUU0tcklma3ZpRkJIR1BOcE9hS2lad0lYWkE4ZThWQm9EeWxHQjc1VWxPYXhoVG1haldHZjRNNk5RQUxYMUtCX3llbVJraUFFc1BIQ0NIdnFkR1ZkT1FQNmdyYXpfRHBwRExHNDFDWmpZTUM4cVN4OXhSWDNWck14TVFJZ0VnUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Inside Climate News",
+      "language": "English",
+      "published_at": "2026-07-14T08:55:00+00:00",
+      "summary": "Trump EPA Moves to Approve Alabama Coal Ash Program Rejected by Biden Administration Inside Climate News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORXVkUEw1VHEzWHEtUU0tcklma3ZpRkJIR1BOcE9hS2lad0lYWkE4ZThWQm9EeWxHQjc1VWxPYXhoVG1haldHZjRNNk5RQUxYMUtCX3llbVJraUFFc1BIQ0NIdnFkR1ZkT1FQNmdyYXpfRHBwRExHNDFDWmpZTUM4cVN4OXhSWDNWck14TVFJZ0VnUQ?oc=5\" target=\"_blank\">Trump EPA Moves to Approve Alabama Coal Ash Program Rejected by Biden Administration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-14T09:51:19+00:00"
+    },
     {
       "id": "71b28502e86e84b6",
       "title": "Public Service Commission opens public comment about how it should evaluate data center contracts - Alabama Daily News",
