@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-14T01:54:50+00:00",
+  "last_updated": "2026-07-14T04:47:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 36,
-      "new_mentions_this_run": 3,
+      "count": 37,
+      "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "c1f703e9b0251dc5",
-        "title": "DOE closes up to $3.26B loan to AEP Texas - Utility Dive",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTRCYXdnNlAya2puV3F3UHBkYldiYUV0cFYtbXNiZUVuem9Ga3lybjV3MG1kQVduTXkyaDR3T0RlVlZDbkdSc3BKSF9lUnNDdVdLZ0FFSGVoZURfcWhjVTdVLTdXVVpidzhPZlRvYjVqcFpCUEQyOW5fSnY2allJSlAwVDhoWTg?oc=5",
+        "id": "56d8889b2e40f1f4",
+        "title": "US25537AW1 Bond Profile — Key Metrics - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ITDljRC1neEdlVTdRSU1EbWJQV1JoVV9vN0RIdkZ6bkM4TTZLWW51dzdyekRZcHV3ZnNhZ2FrMDRxc2kzZWpXQjhfcVdsMTBJWnVGb1l6bWNQbnl2WFFXbmdkWTkxX3hCNDhGN1A1REdkVnZrdkFF?oc=5",
         "domain": "news.google.com",
-        "source": "Utility Dive",
+        "source": "TradingView",
         "language": "English",
-        "published_at": "2026-07-09T16:28:28+00:00",
-        "summary": "DOE closes up to $3.26B loan to AEP Texas Utility Dive",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTRCYXdnNlAya2puV3F3UHBkYldiYUV0cFYtbXNiZUVuem9Ga3lybjV3MG1kQVduTXkyaDR3T0RlVlZDbkdSc3BKSF9lUnNDdVdLZ0FFSGVoZURfcWhjVTdVLTdXVVpidzhPZlRvYjVqcFpCUEQyOW5fSnY2allJSlAwVDhoWTg?oc=5\" target=\"_blank\">DOE closes up to $3.26B loan to AEP Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utility Dive</font>",
+        "published_at": "2026-07-14T03:17:07+00:00",
+        "summary": "US25537AW1 Bond Profile — Key Metrics TradingView",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1ITDljRC1neEdlVTdRSU1EbWJQV1JoVV9vN0RIdkZ6bkM4TTZLWW51dzdyekRZcHV3ZnNhZ2FrMDRxc2kzZWpXQjhfcVdsMTBJWnVGb1l6bWNQbnl2WFFXbmdkWTkxX3hCNDhGN1A1REdkVnZrdkFF?oc=5\" target=\"_blank\">US25537AW1 Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-09T17:50:21+00:00"
+        "collected_at": "2026-07-14T04:46:34+00:00"
       }
     },
     {

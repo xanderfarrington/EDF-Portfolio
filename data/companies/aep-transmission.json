@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-14T01:54:17+00:00",
+  "last_updated": "2026-07-14T04:46:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 36,
+  "count": 37,
   "mentions": [
+    {
+      "id": "56d8889b2e40f1f4",
+      "title": "US25537AW1 Bond Profile — Key Metrics - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ITDljRC1neEdlVTdRSU1EbWJQV1JoVV9vN0RIdkZ6bkM4TTZLWW51dzdyekRZcHV3ZnNhZ2FrMDRxc2kzZWpXQjhfcVdsMTBJWnVGb1l6bWNQbnl2WFFXbmdkWTkxX3hCNDhGN1A1REdkVnZrdkFF?oc=5",
+      "domain": "news.google.com",
+      "source": "TradingView",
+      "language": "English",
+      "published_at": "2026-07-14T03:17:07+00:00",
+      "summary": "US25537AW1 Bond Profile — Key Metrics TradingView",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1ITDljRC1neEdlVTdRSU1EbWJQV1JoVV9vN0RIdkZ6bkM4TTZLWW51dzdyekRZcHV3ZnNhZ2FrMDRxc2kzZWpXQjhfcVdsMTBJWnVGb1l6bWNQbnl2WFFXbmdkWTkxX3hCNDhGN1A1REdkVnZrdkFF?oc=5\" target=\"_blank\">US25537AW1 Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-14T04:46:34+00:00"
+    },
     {
       "id": "c1f703e9b0251dc5",
       "title": "DOE closes up to $3.26B loan to AEP Texas - Utility Dive",
