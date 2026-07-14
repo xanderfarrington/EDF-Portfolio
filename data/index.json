@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-14T17:08:05+00:00",
+  "last_updated": "2026-07-14T19:09:35+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 38,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "56d8889b2e40f1f4",
         "title": "US25537AW1 Bond Profile — Key Metrics - TradingView",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 18,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",
