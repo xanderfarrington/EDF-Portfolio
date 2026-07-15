@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-15T11:38:25+00:00",
+  "last_updated": "2026-07-15T13:23:10+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 194,
+  "count": 195,
   "mentions": [
+    {
+      "id": "4dc3c87456aab99f",
+      "title": "Georgia Power to hold meeting today concerning proposed new high voltage line - Emanuel County Live",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdkZDRmhzOEdnR04xVV9iRlUtOVZ3ajR5RFFHNHNHek1qRnhNVFlzS0Z6c2lNYkFwZmlTUWM0VkVucnpYVGRrQm5tNTFENmNnRFFvOUVZQ0hud0FBcDU3NHUxaXVwMnp4Y1Zrd1ZOZEZrTEg4VGpaVmRaRWNHV0Y4MWdzcnpqOHo3RE1vV3JUczEtenFETW9jdzZsRzFNNU55eFdZWXJJdU13UHVsX0JNeGxubGwtM2UyZG9ncVBn?oc=5",
+      "domain": "news.google.com",
+      "source": "Emanuel County Live",
+      "language": "English",
+      "published_at": "2026-07-15T13:00:00+00:00",
+      "summary": "Georgia Power to hold meeting today concerning proposed new high voltage line Emanuel County Live",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNdkZDRmhzOEdnR04xVV9iRlUtOVZ3ajR5RFFHNHNHek1qRnhNVFlzS0Z6c2lNYkFwZmlTUWM0VkVucnpYVGRrQm5tNTFENmNnRFFvOUVZQ0hud0FBcDU3NHUxaXVwMnp4Y1Zrd1ZOZEZrTEg4VGpaVmRaRWNHV0Y4MWdzcnpqOHo3RE1vV3JUczEtenFETW9jdzZsRzFNNU55eFdZWXJJdU13UHVsX0JNeGxubGwtM2UyZG9ncVBn?oc=5\" target=\"_blank\">Georgia Power to hold meeting today concerning proposed new high voltage line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Emanuel County Live</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-15T13:23:10+00:00"
+    },
     {
       "id": "61ddbb4a29804a4b",
       "title": "Georgia Power Ambassadors made donation to New Roots Glynn - The Brunswick News",

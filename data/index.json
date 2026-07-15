@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T11:38:35+00:00",
+  "last_updated": "2026-07-15T13:23:21+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 194,
-      "new_mentions_this_run": 23,
+      "count": 195,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "61ddbb4a29804a4b",
-        "title": "Georgia Power Ambassadors made donation to New Roots Glynn - The Brunswick News",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeEVobnVVT2FIYVcyQm5ZeEVlS3lPXzV3TWREQ3l2NzNTODc1c1I3RnNWQnNMbHRyeGk3ODY5NldyTkRNY21QUnVjN2ZOQTBFaGhGUVROLWVCLXpteUpkLV9icUNYelpuT2otdjE4U25YUGg1VEZEeGJFdFVxaUdIeDJSQjZhak00WFB6R0lFdng3ZE1LVUNJRkJRUkt1Z25BSW9qLVZWT21hV0tFS1h0TE5aNVZhQ3lyV2lDZEw3d2xqLVNwSG43aUMwaFMxYm9TQ3kzOGJDUmYzRTZ4OWJPUnZReGFtNDg?oc=5",
+        "id": "4dc3c87456aab99f",
+        "title": "Georgia Power to hold meeting today concerning proposed new high voltage line - Emanuel County Live",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdkZDRmhzOEdnR04xVV9iRlUtOVZ3ajR5RFFHNHNHek1qRnhNVFlzS0Z6c2lNYkFwZmlTUWM0VkVucnpYVGRrQm5tNTFENmNnRFFvOUVZQ0hud0FBcDU3NHUxaXVwMnp4Y1Zrd1ZOZEZrTEg4VGpaVmRaRWNHV0Y4MWdzcnpqOHo3RE1vV3JUczEtenFETW9jdzZsRzFNNU55eFdZWXJJdU13UHVsX0JNeGxubGwtM2UyZG9ncVBn?oc=5",
         "domain": "news.google.com",
-        "source": "The Brunswick News",
+        "source": "Emanuel County Live",
         "language": "English",
-        "published_at": "2026-07-15T04:00:00+00:00",
-        "summary": "Georgia Power Ambassadors made donation to New Roots Glynn The Brunswick News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeEVobnVVT2FIYVcyQm5ZeEVlS3lPXzV3TWREQ3l2NzNTODc1c1I3RnNWQnNMbHRyeGk3ODY5NldyTkRNY21QUnVjN2ZOQTBFaGhGUVROLWVCLXpteUpkLV9icUNYelpuT2otdjE4U25YUGg1VEZEeGJFdFVxaUdIeDJSQjZhak00WFB6R0lFdng3ZE1LVUNJRkJRUkt1Z25BSW9qLVZWT21hV0tFS1h0TE5aNVZhQ3lyV2lDZEw3d2xqLVNwSG43aUMwaFMxYm9TQ3kzOGJDUmYzRTZ4OWJPUnZReGFtNDg?oc=5\" target=\"_blank\">Georgia Power Ambassadors made donation to New Roots Glynn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brunswick News</font>",
+        "published_at": "2026-07-15T13:00:00+00:00",
+        "summary": "Georgia Power to hold meeting today concerning proposed new high voltage line Emanuel County Live",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNdkZDRmhzOEdnR04xVV9iRlUtOVZ3ajR5RFFHNHNHek1qRnhNVFlzS0Z6c2lNYkFwZmlTUWM0VkVucnpYVGRrQm5tNTFENmNnRFFvOUVZQ0hud0FBcDU3NHUxaXVwMnp4Y1Zrd1ZOZEZrTEg4VGpaVmRaRWNHV0Y4MWdzcnpqOHo3RE1vV3JUczEtenFETW9jdzZsRzFNNU55eFdZWXJJdU13UHVsX0JNeGxubGwtM2UyZG9ncVBn?oc=5\" target=\"_blank\">Georgia Power to hold meeting today concerning proposed new high voltage line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Emanuel County Live</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-15T04:46:41+00:00"
+        "collected_at": "2026-07-15T13:23:10+00:00"
       }
     },
     {
