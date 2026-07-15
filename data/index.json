@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T15:22:44+00:00",
+  "last_updated": "2026-07-15T17:10:49+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 195,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "4dc3c87456aab99f",
         "title": "Georgia Power to hold meeting today concerning proposed new high voltage line - Emanuel County Live",
