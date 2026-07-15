@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T20:53:21+00:00",
+  "last_updated": "2026-07-15T22:53:59+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 198,
-      "new_mentions_this_run": 24,
+      "count": 200,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "1644164ac99ccba4",
-        "title": "Georgia Power pledges to keep rates stable and save customers $102 annually starting 2029. - Pluang",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzB4ZjFBQ3JDaDJYWmNrU2FoZ1dBR05UeUVhc0hzQnl0b2F4UFpBbGUwbkVaN1hBcnhrWlI0VkIxang5UEZxZnFxalB5UjIzLVc0TEh5V0ZBU2pOYWR4Qk9YYW1ha29DcVhiekZuWDgxSHJmdkxQT1NMbm5faUJfamROMlV5Vi1CUmVwMVg2SnJScTFrVVJvYlJBdXZtc011Q0E?oc=5",
+        "id": "630c455b9fa2b158",
+        "title": "Georgia Power outlines new pledge to protect your rates - Atlanta News First",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXJPT25TVFBVRENTNTFYYXY0enpBaEFYQW5FZFVkcXJfT0pad1d0LTJDQzRiRWhqNDBIWHlOd091TVZVOURUZGRXa3VrV242cXU2VzdUTjV5SjI0dXN6Rm9rV1JreE5ybkpLTkNPd0xWR3BoNk9tNmJyR1VROVNraW9meVd5RWVma0lkTnFYUVNZUGZVQ1p2XzYzWm9oQQ?oc=5",
         "domain": "news.google.com",
-        "source": "Pluang",
+        "source": "Atlanta News First",
         "language": "English",
-        "published_at": "2026-07-15T20:42:31+00:00",
-        "summary": "Georgia Power pledges to keep rates stable and save customers $102 annually starting 2029. Pluang",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzB4ZjFBQ3JDaDJYWmNrU2FoZ1dBR05UeUVhc0hzQnl0b2F4UFpBbGUwbkVaN1hBcnhrWlI0VkIxang5UEZxZnFxalB5UjIzLVc0TEh5V0ZBU2pOYWR4Qk9YYW1ha29DcVhiekZuWDgxSHJmdkxQT1NMbm5faUJfamROMlV5Vi1CUmVwMVg2SnJScTFrVVJvYlJBdXZtc011Q0E?oc=5\" target=\"_blank\">Georgia Power pledges to keep rates stable and save customers $102 annually starting 2029.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
+        "published_at": "2026-07-15T21:15:00+00:00",
+        "summary": "Georgia Power outlines new pledge to protect your rates Atlanta News First",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOYXJPT25TVFBVRENTNTFYYXY0enpBaEFYQW5FZFVkcXJfT0pad1d0LTJDQzRiRWhqNDBIWHlOd091TVZVOURUZGRXa3VrV242cXU2VzdUTjV5SjI0dXN6Rm9rV1JreE5ybkpLTkNPd0xWR3BoNk9tNmJyR1VROVNraW9meVd5RWVma0lkTnFYUVNZUGZVQ1p2XzYzWm9oQQ?oc=5\" target=\"_blank\">Georgia Power outlines new pledge to protect your rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-15T20:53:10+00:00"
+        "collected_at": "2026-07-15T22:53:48+00:00"
       }
     },
     {

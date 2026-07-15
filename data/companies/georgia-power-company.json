@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-15T20:53:10+00:00",
+  "last_updated": "2026-07-15T22:53:48+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 198,
+  "count": 200,
   "mentions": [
+    {
+      "id": "630c455b9fa2b158",
+      "title": "Georgia Power outlines new pledge to protect your rates - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXJPT25TVFBVRENTNTFYYXY0enpBaEFYQW5FZFVkcXJfT0pad1d0LTJDQzRiRWhqNDBIWHlOd091TVZVOURUZGRXa3VrV242cXU2VzdUTjV5SjI0dXN6Rm9rV1JreE5ybkpLTkNPd0xWR3BoNk9tNmJyR1VROVNraW9meVd5RWVma0lkTnFYUVNZUGZVQ1p2XzYzWm9oQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-07-15T21:15:00+00:00",
+      "summary": "Georgia Power outlines new pledge to protect your rates Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOYXJPT25TVFBVRENTNTFYYXY0enpBaEFYQW5FZFVkcXJfT0pad1d0LTJDQzRiRWhqNDBIWHlOd091TVZVOURUZGRXa3VrV242cXU2VzdUTjV5SjI0dXN6Rm9rV1JreE5ybkpLTkNPd0xWR3BoNk9tNmJyR1VROVNraW9meVd5RWVma0lkTnFYUVNZUGZVQ1p2XzYzWm9oQQ?oc=5\" target=\"_blank\">Georgia Power outlines new pledge to protect your rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-15T22:53:48+00:00"
+    },
     {
       "id": "1644164ac99ccba4",
       "title": "Georgia Power pledges to keep rates stable and save customers $102 annually starting 2029. - Pluang",
@@ -47,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-15T20:53:10+00:00"
+    },
+    {
+      "id": "7e252a764f43fe80",
+      "title": "Georgia Power reaffirms longstanding commitment to make growth work for customers with Customer Protection Pledge - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRzlqekdtb09xZUNBMjJITnphellnZTd3R0xkS1VGSFg0SFBDU2Y5aXN4emwwa3ppbDVick0zT1huekJpZW4xOTBZX29aQmZsWEh5LWNYekhuWE4zazd3S3JQNDcybFZ0N1dBMkUxQmE0RmZmNldSdHJlTE9QQnZkQUcwOEpvUVMtcFljeV9WRUlWb19Ja0VURU9BYTNPNE9JM211QktEXzhvSHpmd0lLYzJYdVBkakJEOEx1QS1ILXhaM1A0QTN3OG85cUpOYVJVOE95YzlnVlg0bEZpWmRmSUJ5VDdSSGZiTDVzeE5yNFFLbURuOFVNZ1JBZU00QXIyVW1zdA?oc=5",
+      "domain": "news.google.com",
+      "source": "Morningstar",
+      "language": "English",
+      "published_at": "2026-07-15T20:00:00+00:00",
+      "summary": "Georgia Power reaffirms longstanding commitment to make growth work for customers with Customer Protection Pledge Morningstar",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNRzlqekdtb09xZUNBMjJITnphellnZTd3R0xkS1VGSFg0SFBDU2Y5aXN4emwwa3ppbDVick0zT1huekJpZW4xOTBZX29aQmZsWEh5LWNYekhuWE4zazd3S3JQNDcybFZ0N1dBMkUxQmE0RmZmNldSdHJlTE9QQnZkQUcwOEpvUVMtcFljeV9WRUlWb19Ja0VURU9BYTNPNE9JM211QktEXzhvSHpmd0lLYzJYdVBkakJEOEx1QS1ILXhaM1A0QTN3OG85cUpOYVJVOE95YzlnVlg0bEZpWmRmSUJ5VDdSSGZiTDVzeE5yNFFLbURuOFVNZ1JBZU00QXIyVW1zdA?oc=5\" target=\"_blank\">Georgia Power reaffirms longstanding commitment to make growth work for customers with Customer Protection Pledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-15T22:53:48+00:00"
     },
     {
       "id": "4dc3c87456aab99f",
