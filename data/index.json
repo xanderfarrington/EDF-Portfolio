@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T01:51:18+00:00",
+  "last_updated": "2026-07-15T04:46:51+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 25,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 191,
-      "new_mentions_this_run": 23,
+      "count": 194,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "6296d2ebdd6bea1a",
-        "title": "Georgia Power lane closures set for North Saint Augustine Road in Valdosta - WALB",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUtGUHVtQ2QtanJxc1NZejZYaGFDTjNBczBsWDhLWlFjWkpHcldYWUltYXJhRnVvRWdtNmY1djAtQXdnVDZDQ21OU2Rra1duVmZTaFQ1ZmZLN2V1UHZiaTRkNGZBZk5YWEJ1MnJfam1ONXdMcGU4M2NmeHlyX3Jub0JLc1BSaVhONFJ5ZnUyZ1AzTlNiS2FTdURtVWNwcjh2emc?oc=5",
+        "id": "61ddbb4a29804a4b",
+        "title": "Georgia Power Ambassadors made donation to New Roots Glynn - The Brunswick News",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeEVobnVVT2FIYVcyQm5ZeEVlS3lPXzV3TWREQ3l2NzNTODc1c1I3RnNWQnNMbHRyeGk3ODY5NldyTkRNY21QUnVjN2ZOQTBFaGhGUVROLWVCLXpteUpkLV9icUNYelpuT2otdjE4U25YUGg1VEZEeGJFdFVxaUdIeDJSQjZhak00WFB6R0lFdng3ZE1LVUNJRkJRUkt1Z25BSW9qLVZWT21hV0tFS1h0TE5aNVZhQ3lyV2lDZEw3d2xqLVNwSG43aUMwaFMxYm9TQ3kzOGJDUmYzRTZ4OWJPUnZReGFtNDg?oc=5",
         "domain": "news.google.com",
-        "source": "WALB",
+        "source": "The Brunswick News",
         "language": "English",
-        "published_at": "2026-07-14T23:40:00+00:00",
-        "summary": "Georgia Power lane closures set for North Saint Augustine Road in Valdosta WALB",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUtGUHVtQ2QtanJxc1NZejZYaGFDTjNBczBsWDhLWlFjWkpHcldYWUltYXJhRnVvRWdtNmY1djAtQXdnVDZDQ21OU2Rra1duVmZTaFQ1ZmZLN2V1UHZiaTRkNGZBZk5YWEJ1MnJfam1ONXdMcGU4M2NmeHlyX3Jub0JLc1BSaVhONFJ5ZnUyZ1AzTlNiS2FTdURtVWNwcjh2emc?oc=5\" target=\"_blank\">Georgia Power lane closures set for North Saint Augustine Road in Valdosta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WALB</font>",
+        "published_at": "2026-07-15T04:00:00+00:00",
+        "summary": "Georgia Power Ambassadors made donation to New Roots Glynn The Brunswick News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeEVobnVVT2FIYVcyQm5ZeEVlS3lPXzV3TWREQ3l2NzNTODc1c1I3RnNWQnNMbHRyeGk3ODY5NldyTkRNY21QUnVjN2ZOQTBFaGhGUVROLWVCLXpteUpkLV9icUNYelpuT2otdjE4U25YUGg1VEZEeGJFdFVxaUdIeDJSQjZhak00WFB6R0lFdng3ZE1LVUNJRkJRUkt1Z25BSW9qLVZWT21hV0tFS1h0TE5aNVZhQ3lyV2lDZEw3d2xqLVNwSG43aUMwaFMxYm9TQ3kzOGJDUmYzRTZ4OWJPUnZReGFtNDg?oc=5\" target=\"_blank\">Georgia Power Ambassadors made donation to New Roots Glynn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brunswick News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-15T01:51:07+00:00"
+        "collected_at": "2026-07-15T04:46:41+00:00"
       }
     },
     {
