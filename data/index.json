@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T04:46:51+00:00",
+  "last_updated": "2026-07-15T07:56:44+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 61,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
