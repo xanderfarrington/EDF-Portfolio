@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-14T22:52:46+00:00",
+  "last_updated": "2026-07-15T01:51:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 190,
+  "count": 191,
   "mentions": [
+    {
+      "id": "6296d2ebdd6bea1a",
+      "title": "Georgia Power lane closures set for North Saint Augustine Road in Valdosta - WALB",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUtGUHVtQ2QtanJxc1NZejZYaGFDTjNBczBsWDhLWlFjWkpHcldYWUltYXJhRnVvRWdtNmY1djAtQXdnVDZDQ21OU2Rra1duVmZTaFQ1ZmZLN2V1UHZiaTRkNGZBZk5YWEJ1MnJfam1ONXdMcGU4M2NmeHlyX3Jub0JLc1BSaVhONFJ5ZnUyZ1AzTlNiS2FTdURtVWNwcjh2emc?oc=5",
+      "domain": "news.google.com",
+      "source": "WALB",
+      "language": "English",
+      "published_at": "2026-07-14T23:40:00+00:00",
+      "summary": "Georgia Power lane closures set for North Saint Augustine Road in Valdosta WALB",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUtGUHVtQ2QtanJxc1NZejZYaGFDTjNBczBsWDhLWlFjWkpHcldYWUltYXJhRnVvRWdtNmY1djAtQXdnVDZDQ21OU2Rra1duVmZTaFQ1ZmZLN2V1UHZiaTRkNGZBZk5YWEJ1MnJfam1ONXdMcGU4M2NmeHlyX3Jub0JLc1BSaVhONFJ5ZnUyZ1AzTlNiS2FTdURtVWNwcjh2emc?oc=5\" target=\"_blank\">Georgia Power lane closures set for North Saint Augustine Road in Valdosta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WALB</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-15T01:51:07+00:00"
+    },
     {
       "id": "f81c5a3f5de44935",
       "title": "Georgia Homeowners Forced Out to Power AI Data Centers - Gadget Review",
