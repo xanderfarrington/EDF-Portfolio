@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T19:01:52+00:00",
+  "last_updated": "2026-07-15T20:53:21+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 195,
+      "count": 198,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "4dc3c87456aab99f",
-        "title": "Georgia Power to hold meeting today concerning proposed new high voltage line - Emanuel County Live",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdkZDRmhzOEdnR04xVV9iRlUtOVZ3ajR5RFFHNHNHek1qRnhNVFlzS0Z6c2lNYkFwZmlTUWM0VkVucnpYVGRrQm5tNTFENmNnRFFvOUVZQ0hud0FBcDU3NHUxaXVwMnp4Y1Zrd1ZOZEZrTEg4VGpaVmRaRWNHV0Y4MWdzcnpqOHo3RE1vV3JUczEtenFETW9jdzZsRzFNNU55eFdZWXJJdU13UHVsX0JNeGxubGwtM2UyZG9ncVBn?oc=5",
+        "id": "1644164ac99ccba4",
+        "title": "Georgia Power pledges to keep rates stable and save customers $102 annually starting 2029. - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzB4ZjFBQ3JDaDJYWmNrU2FoZ1dBR05UeUVhc0hzQnl0b2F4UFpBbGUwbkVaN1hBcnhrWlI0VkIxang5UEZxZnFxalB5UjIzLVc0TEh5V0ZBU2pOYWR4Qk9YYW1ha29DcVhiekZuWDgxSHJmdkxQT1NMbm5faUJfamROMlV5Vi1CUmVwMVg2SnJScTFrVVJvYlJBdXZtc011Q0E?oc=5",
         "domain": "news.google.com",
-        "source": "Emanuel County Live",
+        "source": "Pluang",
         "language": "English",
-        "published_at": "2026-07-15T13:00:00+00:00",
-        "summary": "Georgia Power to hold meeting today concerning proposed new high voltage line Emanuel County Live",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNdkZDRmhzOEdnR04xVV9iRlUtOVZ3ajR5RFFHNHNHek1qRnhNVFlzS0Z6c2lNYkFwZmlTUWM0VkVucnpYVGRrQm5tNTFENmNnRFFvOUVZQ0hud0FBcDU3NHUxaXVwMnp4Y1Zrd1ZOZEZrTEg4VGpaVmRaRWNHV0Y4MWdzcnpqOHo3RE1vV3JUczEtenFETW9jdzZsRzFNNU55eFdZWXJJdU13UHVsX0JNeGxubGwtM2UyZG9ncVBn?oc=5\" target=\"_blank\">Georgia Power to hold meeting today concerning proposed new high voltage line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Emanuel County Live</font>",
+        "published_at": "2026-07-15T20:42:31+00:00",
+        "summary": "Georgia Power pledges to keep rates stable and save customers $102 annually starting 2029. Pluang",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzB4ZjFBQ3JDaDJYWmNrU2FoZ1dBR05UeUVhc0hzQnl0b2F4UFpBbGUwbkVaN1hBcnhrWlI0VkIxang5UEZxZnFxalB5UjIzLVc0TEh5V0ZBU2pOYWR4Qk9YYW1ha29DcVhiekZuWDgxSHJmdkxQT1NMbm5faUJfamROMlV5Vi1CUmVwMVg2SnJScTFrVVJvYlJBdXZtc011Q0E?oc=5\" target=\"_blank\">Georgia Power pledges to keep rates stable and save customers $102 annually starting 2029.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-15T13:23:10+00:00"
+        "collected_at": "2026-07-15T20:53:10+00:00"
       }
     },
     {
