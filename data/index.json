@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-15T09:59:34+00:00",
+  "last_updated": "2026-07-15T11:38:35+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 39,
+      "count": 40,
       "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "f31e460184736606",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 194,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "61ddbb4a29804a4b",
         "title": "Georgia Power Ambassadors made donation to New Roots Glynn - The Brunswick News",
