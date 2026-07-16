@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-16T15:29:05+00:00",
+  "last_updated": "2026-07-16T17:08:27+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 209,
+  "count": 212,
   "mentions": [
+    {
+      "id": "3c5dfec57b863137",
+      "title": "GDOT: Part of North Saint Augustine Road in Valdosta closing Thursday for construction - WCTV",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQU1oeEc4SFNqSHhYM3cwQ2djSDBJcVhGRkpzQlAzb1NRWVF5QW91aE84b2lUT3MtSVEzQVZlMUp5UExvcTB3V0x5YndaR05WUHp2TVhHTml4eTdOZVNybGJPU2xGbDBzUHgtVzFlUmtlZkthSTVjVG0xLXJtcG9ZdHIycnNHTFJCR0Q5RWQ2cm9ZaUZrVXJCbHJXWTlILW9QZGhGT2pyQVp6ZTDSAb8BQVVfeXFMTm43dHVvUXFvWWptMW4teGlmNWM1TlF5Ti05UUxSMFFKUTVka1hrV3RkbGtDam1SVThXMjZJcWdDQnBxS0NwV0hkai1kSkNMaGdqQzNBRUp0dHlRYmN2ZlZoclBnbGFkMmNMdnVqWDlJTm9KNVpQUDh0N1E1VVNtU1JLWUtzb1BZV3NkX1V4SHQwVHFMOUZHcTZ2YlRwLTFfOWVIeW5NMUV4NzduMndEUEdEZG96Y2lYeW0yQ2Fzb2c?oc=5",
+      "domain": "news.google.com",
+      "source": "WCTV",
+      "language": "English",
+      "published_at": "2026-07-16T15:11:00+00:00",
+      "summary": "GDOT: Part of North Saint Augustine Road in Valdosta closing Thursday for construction WCTV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQU1oeEc4SFNqSHhYM3cwQ2djSDBJcVhGRkpzQlAzb1NRWVF5QW91aE84b2lUT3MtSVEzQVZlMUp5UExvcTB3V0x5YndaR05WUHp2TVhHTml4eTdOZVNybGJPU2xGbDBzUHgtVzFlUmtlZkthSTVjVG0xLXJtcG9ZdHIycnNHTFJCR0Q5RWQ2cm9ZaUZrVXJCbHJXWTlILW9QZGhGT2pyQVp6ZTDSAb8BQVVfeXFMTm43dHVvUXFvWWptMW4teGlmNWM1TlF5Ti05UUxSMFFKUTVka1hrV3RkbGtDam1SVThXMjZJcWdDQnBxS0NwV0hkai1kSkNMaGdqQzNBRUp0dHlRYmN2ZlZoclBnbGFkMmNMdnVqWDlJTm9KNVpQUDh0N1E1VVNtU1JLWUtzb1BZV3NkX1V4SHQwVHFMOUZHcTZ2YlRwLTFfOWVIeW5NMUV4NzduMndEUEdEZG96Y2lYeW0yQ2Fzb2c?oc=5\" target=\"_blank\">GDOT: Part of North Saint Augustine Road in Valdosta closing Thursday for construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCTV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T17:08:27+00:00"
+    },
     {
       "id": "9452f2ce6833656b",
       "title": "Georgia Power to begin moving lane closures on SR 133 in Valdosta on July 16 - wtwcfox",
@@ -33,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-16T13:29:08+00:00"
+    },
+    {
+      "id": "5f7d583976af87ea",
+      "title": "Georgia Power pledges to keep rates affordable - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU09pZDFsRF9GejAyQzdFbVdyR2ZUTS1ycHJZWEc3VXdJWEhBa2ZZNFpRVjdUMVczOVVQN2JZcC1oaEN6N1d0dk5EWEtNV3I0UktyVVBhRUhQWDRhZHlIckY2TVRhTlJLZ0hLeWh1ekVzdk5UZFVLUmt4TWhGVVdCYjY4MjhiOU5VcTBTejRpbnJxWjhxeXVsYkxB?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-07-16T08:43:58+00:00",
+      "summary": "Georgia Power pledges to keep rates affordable Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNU09pZDFsRF9GejAyQzdFbVdyR2ZUTS1ycHJZWEc3VXdJWEhBa2ZZNFpRVjdUMVczOVVQN2JZcC1oaEN6N1d0dk5EWEtNV3I0UktyVVBhRUhQWDRhZHlIckY2TVRhTlJLZ0hLeWh1ekVzdk5UZFVLUmt4TWhGVVdCYjY4MjhiOU5VcTBTejRpbnJxWjhxeXVsYkxB?oc=5\" target=\"_blank\">Georgia Power pledges to keep rates affordable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T17:08:27+00:00"
     },
     {
       "id": "4ec70e7d985c208a",
@@ -89,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-16T13:29:08+00:00"
+    },
+    {
+      "id": "fd6f97e4862c76e9",
+      "title": "Georgia Power releases statement on Plant Vogtle accounting error - WRDW",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQkpkLTVOSkYtSUUyWk9kWEY0RThTVGNrWUE0ODk3UUlSdVlpSmVQZ2J4SU1HT3UtbTlodGJldkNKM2dOMEo2V1FGWTVKeDJnS0NjazdxeV9zaGpyZEVINDNMUHdXUDdZVEZuVEEzMFR0Yi0tNHZrQUdTbVduX3dGSDU4U0lrU3dpekQ4enVnWDdhUHJlLXFISnJLcmYxZDFoNk5jZUhITG1pUmxfc3p1UXgyb19NbTQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WRDW",
+      "language": "English",
+      "published_at": "2026-07-16T03:37:00+00:00",
+      "summary": "Georgia Power releases statement on Plant Vogtle accounting error WRDW",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPQkpkLTVOSkYtSUUyWk9kWEY0RThTVGNrWUE0ODk3UUlSdVlpSmVQZ2J4SU1HT3UtbTlodGJldkNKM2dOMEo2V1FGWTVKeDJnS0NjazdxeV9zaGpyZEVINDNMUHdXUDdZVEZuVEEzMFR0Yi0tNHZrQUdTbVduX3dGSDU4U0lrU3dpekQ4enVnWDdhUHJlLXFISnJLcmYxZDFoNk5jZUhITG1pUmxfc3p1UXgyb19NbTQ?oc=5\" target=\"_blank\">Georgia Power releases statement on Plant Vogtle accounting error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T17:08:27+00:00"
     },
     {
       "id": "86957d4395bb1ef2",

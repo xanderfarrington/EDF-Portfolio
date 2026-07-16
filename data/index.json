@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T15:29:15+00:00",
+  "last_updated": "2026-07-16T17:08:38+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 98,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "d9e37285a37f8efd",
         "title": "Trump EPA Moves to Approve Alabama Coal Ash Program Rejected by Biden Administration - Inside Climate News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 209,
+      "count": 212,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "9452f2ce6833656b",
-        "title": "Georgia Power to begin moving lane closures on SR 133 in Valdosta on July 16 - wtwcfox",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2lsRko3SV9RdVZ5cTNvQ09pYURHVWlLeVVzVU0wbVRYSlBVZ3JjNnRyTEIyZmVDcjBmSkhSTGh6OWdHVE4tYXA0WW1rRldhdTV1d2doTks1VE5UTGNJQUROMEVXVGRseWdBT0syTjJwaHlEbkZJUHlFblNqY0RRNTg0VDJQOFhYMVo1X0k3TlNvSFk0d3ExUk1BakxIb0w1SzRYMWFJOA?oc=5",
+        "id": "3c5dfec57b863137",
+        "title": "GDOT: Part of North Saint Augustine Road in Valdosta closing Thursday for construction - WCTV",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQU1oeEc4SFNqSHhYM3cwQ2djSDBJcVhGRkpzQlAzb1NRWVF5QW91aE84b2lUT3MtSVEzQVZlMUp5UExvcTB3V0x5YndaR05WUHp2TVhHTml4eTdOZVNybGJPU2xGbDBzUHgtVzFlUmtlZkthSTVjVG0xLXJtcG9ZdHIycnNHTFJCR0Q5RWQ2cm9ZaUZrVXJCbHJXWTlILW9QZGhGT2pyQVp6ZTDSAb8BQVVfeXFMTm43dHVvUXFvWWptMW4teGlmNWM1TlF5Ti05UUxSMFFKUTVka1hrV3RkbGtDam1SVThXMjZJcWdDQnBxS0NwV0hkai1kSkNMaGdqQzNBRUp0dHlRYmN2ZlZoclBnbGFkMmNMdnVqWDlJTm9KNVpQUDh0N1E1VVNtU1JLWUtzb1BZV3NkX1V4SHQwVHFMOUZHcTZ2YlRwLTFfOWVIeW5NMUV4NzduMndEUEdEZG96Y2lYeW0yQ2Fzb2c?oc=5",
         "domain": "news.google.com",
-        "source": "wtwcfox",
+        "source": "WCTV",
         "language": "English",
-        "published_at": "2026-07-16T12:48:37+00:00",
-        "summary": "Georgia Power to begin moving lane closures on SR 133 in Valdosta on July 16 wtwcfox",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2lsRko3SV9RdVZ5cTNvQ09pYURHVWlLeVVzVU0wbVRYSlBVZ3JjNnRyTEIyZmVDcjBmSkhSTGh6OWdHVE4tYXA0WW1rRldhdTV1d2doTks1VE5UTGNJQUROMEVXVGRseWdBT0syTjJwaHlEbkZJUHlFblNqY0RRNTg0VDJQOFhYMVo1X0k3TlNvSFk0d3ExUk1BakxIb0w1SzRYMWFJOA?oc=5\" target=\"_blank\">Georgia Power to begin moving lane closures on SR 133 in Valdosta on July 16</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wtwcfox</font>",
+        "published_at": "2026-07-16T15:11:00+00:00",
+        "summary": "GDOT: Part of North Saint Augustine Road in Valdosta closing Thursday for construction WCTV",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQU1oeEc4SFNqSHhYM3cwQ2djSDBJcVhGRkpzQlAzb1NRWVF5QW91aE84b2lUT3MtSVEzQVZlMUp5UExvcTB3V0x5YndaR05WUHp2TVhHTml4eTdOZVNybGJPU2xGbDBzUHgtVzFlUmtlZkthSTVjVG0xLXJtcG9ZdHIycnNHTFJCR0Q5RWQ2cm9ZaUZrVXJCbHJXWTlILW9QZGhGT2pyQVp6ZTDSAb8BQVVfeXFMTm43dHVvUXFvWWptMW4teGlmNWM1TlF5Ti05UUxSMFFKUTVka1hrV3RkbGtDam1SVThXMjZJcWdDQnBxS0NwV0hkai1kSkNMaGdqQzNBRUp0dHlRYmN2ZlZoclBnbGFkMmNMdnVqWDlJTm9KNVpQUDh0N1E1VVNtU1JLWUtzb1BZV3NkX1V4SHQwVHFMOUZHcTZ2YlRwLTFfOWVIeW5NMUV4NzduMndEUEdEZG96Y2lYeW0yQ2Fzb2c?oc=5\" target=\"_blank\">GDOT: Part of North Saint Augustine Road in Valdosta closing Thursday for construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCTV</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-16T13:29:08+00:00"
+        "collected_at": "2026-07-16T17:08:27+00:00"
       }
     },
     {
