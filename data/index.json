@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T02:01:58+00:00",
+  "last_updated": "2026-07-16T06:12:30+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 61,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 201,
+      "count": 203,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "86957d4395bb1ef2",
-        "title": "Georgia PSC Probes Recovery of Data Center Fuel Costs - RTO Insider",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXE3aUxkR1Z0WXFqVmNCT0ZLd2MzbVdUNkRiRlBTR1FxVVU5MXhMMUhwWmZTTl9FQkM0TFRDT3FkZmYwOGdmdTBqLXJnRld3QzZzQmF6RklGVW1sbDBvVXN6RElRWDlHUERQTVRhejQzdmVhdlZJMHlLUm9SamRXUUJEbUpydFh2TXMtYTMzVXMyQQ?oc=5",
+        "id": "4ec70e7d985c208a",
+        "title": "Georgia Power releases statement on Plant Vogtle accounting error - fox10tv.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbERrUWxoWVp2YUZVWkhiSnYtUHVNYkZiblNDNm1xNFdEa2NlZXpHYVgwQzhNT3NsOU80MjZnb1dqckZDRVBVSG5VWi1UMHhMc09PSVNTampRU055TVQ0MGxseE1jeXM3RG9yalNJVmRzeWVNRG1venM2UlhvSDNOczVLYmtBNktSeEh4YTdWOXdjNnlWZlRwejB1ZkpzaVBOamFqUlM0VQ?oc=5",
         "domain": "news.google.com",
-        "source": "RTO Insider",
+        "source": "fox10tv.com",
         "language": "English",
-        "published_at": "2026-07-16T01:08:11+00:00",
-        "summary": "Georgia PSC Probes Recovery of Data Center Fuel Costs RTO Insider",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXE3aUxkR1Z0WXFqVmNCT0ZLd2MzbVdUNkRiRlBTR1FxVVU5MXhMMUhwWmZTTl9FQkM0TFRDT3FkZmYwOGdmdTBqLXJnRld3QzZzQmF6RklGVW1sbDBvVXN6RElRWDlHUERQTVRhejQzdmVhdlZJMHlLUm9SamRXUUJEbUpydFh2TXMtYTMzVXMyQQ?oc=5\" target=\"_blank\">Georgia PSC Probes Recovery of Data Center Fuel Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
+        "published_at": "2026-07-16T03:37:00+00:00",
+        "summary": "Georgia Power releases statement on Plant Vogtle accounting error fox10tv.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbERrUWxoWVp2YUZVWkhiSnYtUHVNYkZiblNDNm1xNFdEa2NlZXpHYVgwQzhNT3NsOU80MjZnb1dqckZDRVBVSG5VWi1UMHhMc09PSVNTampRU055TVQ0MGxseE1jeXM3RG9yalNJVmRzeWVNRG1venM2UlhvSDNOczVLYmtBNktSeEh4YTdWOXdjNnlWZlRwejB1ZkpzaVBOamFqUlM0VQ?oc=5\" target=\"_blank\">Georgia Power releases statement on Plant Vogtle accounting error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-16T02:01:48+00:00"
+        "collected_at": "2026-07-16T06:12:19+00:00"
       }
     },
     {

@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-16T02:01:48+00:00",
+  "last_updated": "2026-07-16T06:12:19+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 201,
+  "count": 203,
   "mentions": [
+    {
+      "id": "4ec70e7d985c208a",
+      "title": "Georgia Power releases statement on Plant Vogtle accounting error - fox10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbERrUWxoWVp2YUZVWkhiSnYtUHVNYkZiblNDNm1xNFdEa2NlZXpHYVgwQzhNT3NsOU80MjZnb1dqckZDRVBVSG5VWi1UMHhMc09PSVNTampRU055TVQ0MGxseE1jeXM3RG9yalNJVmRzeWVNRG1venM2UlhvSDNOczVLYmtBNktSeEh4YTdWOXdjNnlWZlRwejB1ZkpzaVBOamFqUlM0VQ?oc=5",
+      "domain": "news.google.com",
+      "source": "fox10tv.com",
+      "language": "English",
+      "published_at": "2026-07-16T03:37:00+00:00",
+      "summary": "Georgia Power releases statement on Plant Vogtle accounting error fox10tv.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbERrUWxoWVp2YUZVWkhiSnYtUHVNYkZiblNDNm1xNFdEa2NlZXpHYVgwQzhNT3NsOU80MjZnb1dqckZDRVBVSG5VWi1UMHhMc09PSVNTampRU055TVQ0MGxseE1jeXM3RG9yalNJVmRzeWVNRG1venM2UlhvSDNOczVLYmtBNktSeEh4YTdWOXdjNnlWZlRwejB1ZkpzaVBOamFqUlM0VQ?oc=5\" target=\"_blank\">Georgia Power releases statement on Plant Vogtle accounting error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T06:12:19+00:00"
+    },
     {
       "id": "86957d4395bb1ef2",
       "title": "Georgia PSC Probes Recovery of Data Center Fuel Costs - RTO Insider",
@@ -89,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-15T22:53:48+00:00"
+    },
+    {
+      "id": "6d1920984ed834b6",
+      "title": "Georgia Power reaffirms longstanding commitment to make growth work for customers with Customer Protection Pledge - Nasdaq",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWWJNNXd1ZVd0NF9hNVA1b0xvdGRLT0hSbVB4X2pLeXE5UWpUSkpBbkM1dF9YZ05EMFlBTVdtb0ZPQVJhQVJJMExiQkZoM0RpQlprc0FYRzFneTVERVI5b29KREdWZHhSakluaFY4aFRCVDVZMk5KQ29icUk5WkxnWlUxcm05WGZjeU1uLXFjVFJyS0UxcTJ4TVQyRFVwdEJLSV9vTDhPMUVUYzhPVlZDOE1aSUFBY1c3azM4dA?oc=5",
+      "domain": "news.google.com",
+      "source": "Nasdaq",
+      "language": "English",
+      "published_at": "2026-07-15T20:00:00+00:00",
+      "summary": "Georgia Power reaffirms longstanding commitment to make growth work for customers with Customer Protection Pledge Nasdaq",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOWWJNNXd1ZVd0NF9hNVA1b0xvdGRLT0hSbVB4X2pLeXE5UWpUSkpBbkM1dF9YZ05EMFlBTVdtb0ZPQVJhQVJJMExiQkZoM0RpQlprc0FYRzFneTVERVI5b29KREdWZHhSakluaFY4aFRCVDVZMk5KQ29icUk5WkxnWlUxcm05WGZjeU1uLXFjVFJyS0UxcTJ4TVQyRFVwdEJLSV9vTDhPMUVUYzhPVlZDOE1aSUFBY1c3azM4dA?oc=5\" target=\"_blank\">Georgia Power reaffirms longstanding commitment to make growth work for customers with Customer Protection Pledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T06:12:19+00:00"
     },
     {
       "id": "4dc3c87456aab99f",
