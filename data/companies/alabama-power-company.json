@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-16T20:51:20+00:00",
+  "last_updated": "2026-07-16T22:52:15+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 98,
+  "count": 99,
   "mentions": [
+    {
+      "id": "b0b147733978aeee",
+      "title": "UWA partners with Alabama Power for Safe-T-Zone training - University of West Alabama",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXl2elpjczhhWHZmZ0pBeFMzUE9VWmZOc0tmejhDWFdpSktNMWRXTW1xNDV0eE1vaFA4UWtUMHJmTTM1T1dEVnJsY1BKUWpId0tzY1lIMlI4dTZSaUhtVElBMXJkUlZ2SlNwczlpeE05LXpweXUycHZYYXp1YkUxeE1CRmlBQnA2UGc?oc=5",
+      "domain": "news.google.com",
+      "source": "University of West Alabama",
+      "language": "English",
+      "published_at": "2026-07-16T22:00:03+00:00",
+      "summary": "UWA partners with Alabama Power for Safe-T-Zone training University of West Alabama",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXl2elpjczhhWHZmZ0pBeFMzUE9VWmZOc0tmejhDWFdpSktNMWRXTW1xNDV0eE1vaFA4UWtUMHJmTTM1T1dEVnJsY1BKUWpId0tzY1lIMlI4dTZSaUhtVElBMXJkUlZ2SlNwczlpeE05LXpweXUycHZYYXp1YkUxeE1CRmlBQnA2UGc?oc=5\" target=\"_blank\">UWA partners with Alabama Power for Safe-T-Zone training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of West Alabama</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T22:52:15+00:00"
+    },
     {
       "id": "d9e37285a37f8efd",
       "title": "Trump EPA Moves to Approve Alabama Coal Ash Program Rejected by Biden Administration - Inside Climate News",

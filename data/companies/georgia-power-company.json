@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-16T20:51:37+00:00",
+  "last_updated": "2026-07-16T22:52:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 215,
+  "count": 216,
   "mentions": [
+    {
+      "id": "2d4b43fce2a3697e",
+      "title": "Georgia Power outlines new pledge to protect your rates - WRDW",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlZrNnN5TnhyWHE4Zmoyc1o4RWVpUllKZXIzME9NQUVmc0E2QVI2WGp6RnhXTGlpeFNmendhOTRtRDFmMW5tUW9DSkF3QUR5TUx6bl9ybmtmcHJlODRXMWpFYkhTUGxkaFZvaTFrLW9IR1pRY3dldGRHOFdJZTdmM2V5eTlHOUlEbUZVektRWGZoS09GTGc?oc=5",
+      "domain": "news.google.com",
+      "source": "WRDW",
+      "language": "English",
+      "published_at": "2026-07-16T21:52:00+00:00",
+      "summary": "Georgia Power outlines new pledge to protect your rates WRDW",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlZrNnN5TnhyWHE4Zmoyc1o4RWVpUllKZXIzME9NQUVmc0E2QVI2WGp6RnhXTGlpeFNmendhOTRtRDFmMW5tUW9DSkF3QUR5TUx6bl9ybmtmcHJlODRXMWpFYkhTUGxkaFZvaTFrLW9IR1pRY3dldGRHOFdJZTdmM2V5eTlHOUlEbUZVektRWGZoS09GTGc?oc=5\" target=\"_blank\">Georgia Power outlines new pledge to protect your rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T22:52:31+00:00"
+    },
     {
       "id": "3c5dfec57b863137",
       "title": "GDOT: Part of North Saint Augustine Road in Valdosta closing Thursday for construction - WCTV",

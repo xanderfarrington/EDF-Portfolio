@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T20:51:47+00:00",
+  "last_updated": "2026-07-16T22:52:42+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 98,
-      "new_mentions_this_run": 10,
+      "count": 99,
+      "new_mentions_this_run": 11,
       "latest_mention": {
-        "id": "d9e37285a37f8efd",
-        "title": "Trump EPA Moves to Approve Alabama Coal Ash Program Rejected by Biden Administration - Inside Climate News",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORXVkUEw1VHEzWHEtUU0tcklma3ZpRkJIR1BOcE9hS2lad0lYWkE4ZThWQm9EeWxHQjc1VWxPYXhoVG1haldHZjRNNk5RQUxYMUtCX3llbVJraUFFc1BIQ0NIdnFkR1ZkT1FQNmdyYXpfRHBwRExHNDFDWmpZTUM4cVN4OXhSWDNWck14TVFJZ0VnUQ?oc=5",
+        "id": "b0b147733978aeee",
+        "title": "UWA partners with Alabama Power for Safe-T-Zone training - University of West Alabama",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXl2elpjczhhWHZmZ0pBeFMzUE9VWmZOc0tmejhDWFdpSktNMWRXTW1xNDV0eE1vaFA4UWtUMHJmTTM1T1dEVnJsY1BKUWpId0tzY1lIMlI4dTZSaUhtVElBMXJkUlZ2SlNwczlpeE05LXpweXUycHZYYXp1YkUxeE1CRmlBQnA2UGc?oc=5",
         "domain": "news.google.com",
-        "source": "Inside Climate News",
+        "source": "University of West Alabama",
         "language": "English",
-        "published_at": "2026-07-14T08:55:00+00:00",
-        "summary": "Trump EPA Moves to Approve Alabama Coal Ash Program Rejected by Biden Administration Inside Climate News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORXVkUEw1VHEzWHEtUU0tcklma3ZpRkJIR1BOcE9hS2lad0lYWkE4ZThWQm9EeWxHQjc1VWxPYXhoVG1haldHZjRNNk5RQUxYMUtCX3llbVJraUFFc1BIQ0NIdnFkR1ZkT1FQNmdyYXpfRHBwRExHNDFDWmpZTUM4cVN4OXhSWDNWck14TVFJZ0VnUQ?oc=5\" target=\"_blank\">Trump EPA Moves to Approve Alabama Coal Ash Program Rejected by Biden Administration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
+        "published_at": "2026-07-16T22:00:03+00:00",
+        "summary": "UWA partners with Alabama Power for Safe-T-Zone training University of West Alabama",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXl2elpjczhhWHZmZ0pBeFMzUE9VWmZOc0tmejhDWFdpSktNMWRXTW1xNDV0eE1vaFA4UWtUMHJmTTM1T1dEVnJsY1BKUWpId0tzY1lIMlI4dTZSaUhtVElBMXJkUlZ2SlNwczlpeE05LXpweXUycHZYYXp1YkUxeE1CRmlBQnA2UGc?oc=5\" target=\"_blank\">UWA partners with Alabama Power for Safe-T-Zone training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of West Alabama</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-14T09:51:19+00:00"
+        "collected_at": "2026-07-16T22:52:15+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 215,
+      "count": 216,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "3c5dfec57b863137",
-        "title": "GDOT: Part of North Saint Augustine Road in Valdosta closing Thursday for construction - WCTV",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQU1oeEc4SFNqSHhYM3cwQ2djSDBJcVhGRkpzQlAzb1NRWVF5QW91aE84b2lUT3MtSVEzQVZlMUp5UExvcTB3V0x5YndaR05WUHp2TVhHTml4eTdOZVNybGJPU2xGbDBzUHgtVzFlUmtlZkthSTVjVG0xLXJtcG9ZdHIycnNHTFJCR0Q5RWQ2cm9ZaUZrVXJCbHJXWTlILW9QZGhGT2pyQVp6ZTDSAb8BQVVfeXFMTm43dHVvUXFvWWptMW4teGlmNWM1TlF5Ti05UUxSMFFKUTVka1hrV3RkbGtDam1SVThXMjZJcWdDQnBxS0NwV0hkai1kSkNMaGdqQzNBRUp0dHlRYmN2ZlZoclBnbGFkMmNMdnVqWDlJTm9KNVpQUDh0N1E1VVNtU1JLWUtzb1BZV3NkX1V4SHQwVHFMOUZHcTZ2YlRwLTFfOWVIeW5NMUV4NzduMndEUEdEZG96Y2lYeW0yQ2Fzb2c?oc=5",
+        "id": "2d4b43fce2a3697e",
+        "title": "Georgia Power outlines new pledge to protect your rates - WRDW",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlZrNnN5TnhyWHE4Zmoyc1o4RWVpUllKZXIzME9NQUVmc0E2QVI2WGp6RnhXTGlpeFNmendhOTRtRDFmMW5tUW9DSkF3QUR5TUx6bl9ybmtmcHJlODRXMWpFYkhTUGxkaFZvaTFrLW9IR1pRY3dldGRHOFdJZTdmM2V5eTlHOUlEbUZVektRWGZoS09GTGc?oc=5",
         "domain": "news.google.com",
-        "source": "WCTV",
+        "source": "WRDW",
         "language": "English",
-        "published_at": "2026-07-16T15:11:00+00:00",
-        "summary": "GDOT: Part of North Saint Augustine Road in Valdosta closing Thursday for construction WCTV",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQU1oeEc4SFNqSHhYM3cwQ2djSDBJcVhGRkpzQlAzb1NRWVF5QW91aE84b2lUT3MtSVEzQVZlMUp5UExvcTB3V0x5YndaR05WUHp2TVhHTml4eTdOZVNybGJPU2xGbDBzUHgtVzFlUmtlZkthSTVjVG0xLXJtcG9ZdHIycnNHTFJCR0Q5RWQ2cm9ZaUZrVXJCbHJXWTlILW9QZGhGT2pyQVp6ZTDSAb8BQVVfeXFMTm43dHVvUXFvWWptMW4teGlmNWM1TlF5Ti05UUxSMFFKUTVka1hrV3RkbGtDam1SVThXMjZJcWdDQnBxS0NwV0hkai1kSkNMaGdqQzNBRUp0dHlRYmN2ZlZoclBnbGFkMmNMdnVqWDlJTm9KNVpQUDh0N1E1VVNtU1JLWUtzb1BZV3NkX1V4SHQwVHFMOUZHcTZ2YlRwLTFfOWVIeW5NMUV4NzduMndEUEdEZG96Y2lYeW0yQ2Fzb2c?oc=5\" target=\"_blank\">GDOT: Part of North Saint Augustine Road in Valdosta closing Thursday for construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCTV</font>",
+        "published_at": "2026-07-16T21:52:00+00:00",
+        "summary": "Georgia Power outlines new pledge to protect your rates WRDW",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlZrNnN5TnhyWHE4Zmoyc1o4RWVpUllKZXIzME9NQUVmc0E2QVI2WGp6RnhXTGlpeFNmendhOTRtRDFmMW5tUW9DSkF3QUR5TUx6bl9ybmtmcHJlODRXMWpFYkhTUGxkaFZvaTFrLW9IR1pRY3dldGRHOFdJZTdmM2V5eTlHOUlEbUZVektRWGZoS09GTGc?oc=5\" target=\"_blank\">Georgia Power outlines new pledge to protect your rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-16T17:08:27+00:00"
+        "collected_at": "2026-07-16T22:52:31+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 18,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",
