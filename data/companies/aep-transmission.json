@@ -2,7 +2,7 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-16T13:28:46+00:00",
+  "last_updated": "2026-07-16T15:28:43+00:00",
   "archive_policy": "append_only_no_deletion",
   "count": 43,
   "mentions": [
