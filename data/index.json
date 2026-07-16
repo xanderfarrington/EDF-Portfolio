@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-16T10:02:27+00:00",
+  "last_updated": "2026-07-16T13:29:19+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 42,
+      "count": 43,
       "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "3afd314316815352",
-        "title": "US25537AX9 Bond Profile — Key Metrics - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfel9rT3prQm4xX19uazZLUE1RRnVudTBVN05SQ3BBSGRzUDBPWlRqX0ZkcVRrc0hLZGJtQ094b2Nuai1hVjE3WXI3N19pTUtyVmozcjBBeE1QUVZyWWFILVE4U0ZVSXMxckJtdW5EMVRadlpqSjlB?oc=5",
+        "id": "93cfe4d4980886d3",
+        "title": "AEPC Bond Profile — Key Metrics - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pcm5NYVotdndHNGlLT0dUVVk1b0xKUmk2MDJYU0pGSS1oSlJ0NUNaLV9uM1ZBS01aSm9mZG5hLUJOeHJLZUZFTWRkSF81T09SdkotbGUyaTFuY2FGNV9ETEt2NDUtOUZZa2lwQWYybw?oc=5",
         "domain": "news.google.com",
         "source": "TradingView",
         "language": "English",
-        "published_at": "2026-07-15T06:09:27+00:00",
-        "summary": "US25537AX9 Bond Profile — Key Metrics TradingView",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBfel9rT3prQm4xX19uazZLUE1RRnVudTBVN05SQ3BBSGRzUDBPWlRqX0ZkcVRrc0hLZGJtQ094b2Nuai1hVjE3WXI3N19pTUtyVmozcjBBeE1QUVZyWWFILVE4U0ZVSXMxckJtdW5EMVRadlpqSjlB?oc=5\" target=\"_blank\">US25537AX9 Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "published_at": "2026-07-16T09:21:40+00:00",
+        "summary": "AEPC Bond Profile — Key Metrics TradingView",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pcm5NYVotdndHNGlLT0dUVVk1b0xKUmk2MDJYU0pGSS1oSlJ0NUNaLV9uM1ZBS01aSm9mZG5hLUJOeHJLZUZFTWRkSF81T09SdkotbGUyaTFuY2FGNV9ETEt2NDUtOUZZa2lwQWYybw?oc=5\" target=\"_blank\">AEPC Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-16T02:01:26+00:00"
+        "collected_at": "2026-07-16T13:28:46+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 25,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 61,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 204,
+      "count": 209,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "4ec70e7d985c208a",
-        "title": "Georgia Power releases statement on Plant Vogtle accounting error - fox10tv.com",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbERrUWxoWVp2YUZVWkhiSnYtUHVNYkZiblNDNm1xNFdEa2NlZXpHYVgwQzhNT3NsOU80MjZnb1dqckZDRVBVSG5VWi1UMHhMc09PSVNTampRU055TVQ0MGxseE1jeXM3RG9yalNJVmRzeWVNRG1venM2UlhvSDNOczVLYmtBNktSeEh4YTdWOXdjNnlWZlRwejB1ZkpzaVBOamFqUlM0VQ?oc=5",
+        "id": "9452f2ce6833656b",
+        "title": "Georgia Power to begin moving lane closures on SR 133 in Valdosta on July 16 - wtwcfox",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2lsRko3SV9RdVZ5cTNvQ09pYURHVWlLeVVzVU0wbVRYSlBVZ3JjNnRyTEIyZmVDcjBmSkhSTGh6OWdHVE4tYXA0WW1rRldhdTV1d2doTks1VE5UTGNJQUROMEVXVGRseWdBT0syTjJwaHlEbkZJUHlFblNqY0RRNTg0VDJQOFhYMVo1X0k3TlNvSFk0d3ExUk1BakxIb0w1SzRYMWFJOA?oc=5",
         "domain": "news.google.com",
-        "source": "fox10tv.com",
+        "source": "wtwcfox",
         "language": "English",
-        "published_at": "2026-07-16T03:37:00+00:00",
-        "summary": "Georgia Power releases statement on Plant Vogtle accounting error fox10tv.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbERrUWxoWVp2YUZVWkhiSnYtUHVNYkZiblNDNm1xNFdEa2NlZXpHYVgwQzhNT3NsOU80MjZnb1dqckZDRVBVSG5VWi1UMHhMc09PSVNTampRU055TVQ0MGxseE1jeXM3RG9yalNJVmRzeWVNRG1venM2UlhvSDNOczVLYmtBNktSeEh4YTdWOXdjNnlWZlRwejB1ZkpzaVBOamFqUlM0VQ?oc=5\" target=\"_blank\">Georgia Power releases statement on Plant Vogtle accounting error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+        "published_at": "2026-07-16T12:48:37+00:00",
+        "summary": "Georgia Power to begin moving lane closures on SR 133 in Valdosta on July 16 wtwcfox",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2lsRko3SV9RdVZ5cTNvQ09pYURHVWlLeVVzVU0wbVRYSlBVZ3JjNnRyTEIyZmVDcjBmSkhSTGh6OWdHVE4tYXA0WW1rRldhdTV1d2doTks1VE5UTGNJQUROMEVXVGRseWdBT0syTjJwaHlEbkZJUHlFblNqY0RRNTg0VDJQOFhYMVo1X0k3TlNvSFk0d3ExUk1BakxIb0w1SzRYMWFJOA?oc=5\" target=\"_blank\">Georgia Power to begin moving lane closures on SR 133 in Valdosta on July 16</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wtwcfox</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-16T06:12:19+00:00"
+        "collected_at": "2026-07-16T13:29:08+00:00"
       }
     },
     {

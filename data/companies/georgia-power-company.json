@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-16T10:02:16+00:00",
+  "last_updated": "2026-07-16T13:29:08+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 204,
+  "count": 209,
   "mentions": [
+    {
+      "id": "9452f2ce6833656b",
+      "title": "Georgia Power to begin moving lane closures on SR 133 in Valdosta on July 16 - wtwcfox",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2lsRko3SV9RdVZ5cTNvQ09pYURHVWlLeVVzVU0wbVRYSlBVZ3JjNnRyTEIyZmVDcjBmSkhSTGh6OWdHVE4tYXA0WW1rRldhdTV1d2doTks1VE5UTGNJQUROMEVXVGRseWdBT0syTjJwaHlEbkZJUHlFblNqY0RRNTg0VDJQOFhYMVo1X0k3TlNvSFk0d3ExUk1BakxIb0w1SzRYMWFJOA?oc=5",
+      "domain": "news.google.com",
+      "source": "wtwcfox",
+      "language": "English",
+      "published_at": "2026-07-16T12:48:37+00:00",
+      "summary": "Georgia Power to begin moving lane closures on SR 133 in Valdosta on July 16 wtwcfox",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2lsRko3SV9RdVZ5cTNvQ09pYURHVWlLeVVzVU0wbVRYSlBVZ3JjNnRyTEIyZmVDcjBmSkhSTGh6OWdHVE4tYXA0WW1rRldhdTV1d2doTks1VE5UTGNJQUROMEVXVGRseWdBT0syTjJwaHlEbkZJUHlFblNqY0RRNTg0VDJQOFhYMVo1X0k3TlNvSFk0d3ExUk1BakxIb0w1SzRYMWFJOA?oc=5\" target=\"_blank\">Georgia Power to begin moving lane closures on SR 133 in Valdosta on July 16</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wtwcfox</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T13:29:08+00:00"
+    },
+    {
+      "id": "890f904d412d32f0",
+      "title": "Is Georgia Power’s Base-Rate Freeze Through 2028 Reshaping Southern’s (SO) Risk and Earnings Profile? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcElUTFY2VHBUQ2phaS1zWW5UZ1J5OTZ5TV9GM291YXVOUHNYcEJNX29TSjVxLTZqcHNtRHlVV1NsZ2Fqb1ZSYURqcktXS1hqRzV2T1pZdjkwNHk5ZmxqeUNHdnNrQjk5YkdqQlp0Y3lNOUVVdk0xd1dMWUk5dVd2R0hFVmdkTFBUSVppSExYSlVuQjB2QkdqeC1OMUZXVTdWdjlINGtXTHI2bjlYVFpObDNENy1kd19yaXdkNDdtQW5GZ9IBxwFBVV95cUxOTnVxbHFiTFVvY2pUdU5KR2J4OHBXWW5ybnRJWkFUWnNibmlfNUZQd3B6d2xSYnR2aE1ScXlyTWg5elhMdWtNVmJnMkdVbTlMc040aENfWnRac3h2UnBfN2RDUGpNNmxRUWNyMUZ4dGt1LTBkM1R1VkxXT0Y3R0U0c0NZclV4b2hOeGNINTU1ZGpHcV9FRkJqNy1CYkRXSWR3QVV3cktHZzBYdFNWTk9RSWJIVktYZndrRWo3Ynp3Z3BjQ0I5bWZJ?oc=5",
+      "domain": "news.google.com",
+      "source": "simplywall.st",
+      "language": "English",
+      "published_at": "2026-07-16T12:44:26+00:00",
+      "summary": "Is Georgia Power’s Base-Rate Freeze Through 2028 Reshaping Southern’s (SO) Risk and Earnings Profile? simplywall.st",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcElUTFY2VHBUQ2phaS1zWW5UZ1J5OTZ5TV9GM291YXVOUHNYcEJNX29TSjVxLTZqcHNtRHlVV1NsZ2Fqb1ZSYURqcktXS1hqRzV2T1pZdjkwNHk5ZmxqeUNHdnNrQjk5YkdqQlp0Y3lNOUVVdk0xd1dMWUk5dVd2R0hFVmdkTFBUSVppSExYSlVuQjB2QkdqeC1OMUZXVTdWdjlINGtXTHI2bjlYVFpObDNENy1kd19yaXdkNDdtQW5GZ9IBxwFBVV95cUxOTnVxbHFiTFVvY2pUdU5KR2J4OHBXWW5ybnRJWkFUWnNibmlfNUZQd3B6d2xSYnR2aE1ScXlyTWg5elhMdWtNVmJnMkdVbTlMc040aENfWnRac3h2UnBfN2RDUGpNNmxRUWNyMUZ4dGt1LTBkM1R1VkxXT0Y3R0U0c0NZclV4b2hOeGNINTU1ZGpHcV9FRkJqNy1CYkRXSWR3QVV3cktHZzBYdFNWTk9RSWJIVktYZndrRWo3Ynp3Z3BjQ0I5bWZJ?oc=5\" target=\"_blank\">Is Georgia Power’s Base-Rate Freeze Through 2028 Reshaping Southern’s (SO) Risk and Earnings Profile?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T13:29:08+00:00"
+    },
     {
       "id": "4ec70e7d985c208a",
       "title": "Georgia Power releases statement on Plant Vogtle accounting error - fox10tv.com",
@@ -35,6 +63,34 @@
       "collected_at": "2026-07-16T10:02:16+00:00"
     },
     {
+      "id": "90ea256805da0718",
+      "title": "Georgia Power releases statement on Plant Vogtle accounting error - WSMV",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObEVkVDl0N3pPLWcyMkxBVlN0cnU5VG1fV3pzQkVWV0V1aTRaZlNvZnVKMG1OT0hyNHZ5VGhvVF90S3g0TjRFcUEyWkdRWjVaemNaUmV2WFkwaXpESFRVel9ka0xFNVhWS1h2RGQ4WVVFS0dzdG8xNXNmb2R0UzA5dk5PLV9qSC12T3A5UGdteFFvbUtGaWxhcDdSUTFxNDMyak84?oc=5",
+      "domain": "news.google.com",
+      "source": "WSMV",
+      "language": "English",
+      "published_at": "2026-07-16T03:37:00+00:00",
+      "summary": "Georgia Power releases statement on Plant Vogtle accounting error WSMV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxObEVkVDl0N3pPLWcyMkxBVlN0cnU5VG1fV3pzQkVWV0V1aTRaZlNvZnVKMG1OT0hyNHZ5VGhvVF90S3g0TjRFcUEyWkdRWjVaemNaUmV2WFkwaXpESFRVel9ka0xFNVhWS1h2RGQ4WVVFS0dzdG8xNXNmb2R0UzA5dk5PLV9qSC12T3A5UGdteFFvbUtGaWxhcDdSUTFxNDMyak84?oc=5\" target=\"_blank\">Georgia Power releases statement on Plant Vogtle accounting error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSMV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T13:29:08+00:00"
+    },
+    {
+      "id": "fa73dc75b162675f",
+      "title": "Georgia Power releases statement on Plant Vogtle accounting error - AZ Family",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2ZPaTNoVzB1MGVrR0Vnb3c2OHJSQk5JT2ZRR0NTcXlfTjNheHBaYVhRMExkN0ZXeTk2RWdvZVRVY19vekxXa3dYdjhvcVpEZXI3enJHZHF6WjFaSktualJJYVNGWGVlanl1Sy1LZjhmbzRrU0lJaE5zcGo3elc4Z2g3QmtDMW96U0ZsWFlKbVcyaVEtSGNSbUNQTG02NGM3X0RzbnJvUUFETU1ZZVRxNjJ6T2Rya2pFR0E2bQ?oc=5",
+      "domain": "news.google.com",
+      "source": "AZ Family",
+      "language": "English",
+      "published_at": "2026-07-16T03:37:00+00:00",
+      "summary": "Georgia Power releases statement on Plant Vogtle accounting error AZ Family",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2ZPaTNoVzB1MGVrR0Vnb3c2OHJSQk5JT2ZRR0NTcXlfTjNheHBaYVhRMExkN0ZXeTk2RWdvZVRVY19vekxXa3dYdjhvcVpEZXI3enJHZHF6WjFaSktualJJYVNGWGVlanl1Sy1LZjhmbzRrU0lJaE5zcGo3elc4Z2g3QmtDMW96U0ZsWFlKbVcyaVEtSGNSbUNQTG02NGM3X0RzbnJvUUFETU1ZZVRxNjJ6T2Rya2pFR0E2bQ?oc=5\" target=\"_blank\">Georgia Power releases statement on Plant Vogtle accounting error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AZ Family</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T13:29:08+00:00"
+    },
+    {
       "id": "86957d4395bb1ef2",
       "title": "Georgia PSC Probes Recovery of Data Center Fuel Costs - RTO Insider",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXE3aUxkR1Z0WXFqVmNCT0ZLd2MzbVdUNkRiRlBTR1FxVVU5MXhMMUhwWmZTTl9FQkM0TFRDT3FkZmYwOGdmdTBqLXJnRld3QzZzQmF6RklGVW1sbDBvVXN6RElRWDlHUERQTVRhejQzdmVhdlZJMHlLUm9SamRXUUJEbUpydFh2TXMtYTMzVXMyQQ?oc=5",
@@ -47,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-16T02:01:48+00:00"
+    },
+    {
+      "id": "91b91b9b0fa795ee",
+      "title": "Plant Vogtle reassessment threatens county, school budgets in Burke County - WRDW",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHFLa1ZmblNYUUdSdFJHM3N6UkxyOGtfYmFIRkxjbUVFNmFfOGJmOWJnOGJPaGlrUGNhTGIwbFUyeTNJNFg2VzhjS1BxanI4czdFaEo5SVQyMV80QV81V1lNVEgySWZGWWw5VjJyVU9PSldQVGpKeUN4elF3RHMxTGQxLWY0aWxSVXZmMV8tUHFITlo1Z3FsWHRxWWQ0a1FqNXRsTWZB0gG6AUFVX3lxTE5xTl80dUY2aXNqbDd6T1Nob1NYZ3lHNFIwV1kzOUJGcm5BZlMxeXFXQXFzYXBhMVppVmo5akdKM1VsdHEzeGJMREJsVVFoMzVVUnNtampCUGlmdnliR2pxLWdVVEs1U2NyaVhwNlJ6Rmo1N3ktS2t2Y0hnT2h3Qm5Nald4XzhXQmxXYnUzM3ltZHRreUdIcEdidHpxV29ORUN6S2VCdDBmNUNhMDgtenlHLXVQN3UzWmEtZw?oc=5",
+      "domain": "news.google.com",
+      "source": "WRDW",
+      "language": "English",
+      "published_at": "2026-07-15T22:00:00+00:00",
+      "summary": "Plant Vogtle reassessment threatens county, school budgets in Burke County WRDW",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHFLa1ZmblNYUUdSdFJHM3N6UkxyOGtfYmFIRkxjbUVFNmFfOGJmOWJnOGJPaGlrUGNhTGIwbFUyeTNJNFg2VzhjS1BxanI4czdFaEo5SVQyMV80QV81V1lNVEgySWZGWWw5VjJyVU9PSldQVGpKeUN4elF3RHMxTGQxLWY0aWxSVXZmMV8tUHFITlo1Z3FsWHRxWWQ0a1FqNXRsTWZB0gG6AUFVX3lxTE5xTl80dUY2aXNqbDd6T1Nob1NYZ3lHNFIwV1kzOUJGcm5BZlMxeXFXQXFzYXBhMVppVmo5akdKM1VsdHEzeGJMREJsVVFoMzVVUnNtampCUGlmdnliR2pxLWdVVEs1U2NyaVhwNlJ6Rmo1N3ktS2t2Y0hnT2h3Qm5Nald4XzhXQmxXYnUzM3ltZHRreUdIcEdidHpxV29ORUN6S2VCdDBmNUNhMDgtenlHLXVQN3UzWmEtZw?oc=5\" target=\"_blank\">Plant Vogtle reassessment threatens county, school budgets in Burke County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T13:29:08+00:00"
     },
     {
       "id": "630c455b9fa2b158",
