@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-15T22:53:59+00:00",
+  "last_updated": "2026-07-16T02:01:58+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 40,
+      "count": 41,
       "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "f31e460184736606",
-        "title": "News - Bartlesville Radio",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOazlMalVEOUNOSjNFVkNkSVl4Tl9aLW42UUFkRnJXMUFEOE5YT3pmNVFlVDliNDdtMll1U21paVoyMmlmWElKcWk5WDZEZHdxXy1fZWd6bzRjRWtIekRqZW1FbWFMcWJoWDMycmZtMUdBX1ZzclVmS1JTd3hZRTNveHljV3k0VE42ZW80dlR0ZnJUaFROcW1PdjNvNHVHbC1kN0xWLVFCTWFtaFZZaFo3akUwSzZmbDA4MFVkM3NHQ0VKZ0cxT2dfRjhMWFI?oc=5",
+        "id": "3afd314316815352",
+        "title": "US25537AX9 Bond Profile — Key Metrics - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfel9rT3prQm4xX19uazZLUE1RRnVudTBVN05SQ3BBSGRzUDBPWlRqX0ZkcVRrc0hLZGJtQ094b2Nuai1hVjE3WXI3N19pTUtyVmozcjBBeE1QUVZyWWFILVE4U0ZVSXMxckJtdW5EMVRadlpqSjlB?oc=5",
         "domain": "news.google.com",
-        "source": "Bartlesville Radio",
+        "source": "TradingView",
         "language": "English",
-        "published_at": "2026-07-14T21:05:42+00:00",
-        "summary": "News Bartlesville Radio",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOazlMalVEOUNOSjNFVkNkSVl4Tl9aLW42UUFkRnJXMUFEOE5YT3pmNVFlVDliNDdtMll1U21paVoyMmlmWElKcWk5WDZEZHdxXy1fZWd6bzRjRWtIekRqZW1FbWFMcWJoWDMycmZtMUdBX1ZzclVmS1JTd3hZRTNveHljV3k0VE42ZW80dlR0ZnJUaFROcW1PdjNvNHVHbC1kN0xWLVFCTWFtaFZZaFo3akUwSzZmbDA4MFVkM3NHQ0VKZ0cxT2dfRjhMWFI?oc=5\" target=\"_blank\">News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bartlesville Radio</font>",
+        "published_at": "2026-07-15T06:09:27+00:00",
+        "summary": "US25537AX9 Bond Profile — Key Metrics TradingView",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBfel9rT3prQm4xX19uazZLUE1RRnVudTBVN05SQ3BBSGRzUDBPWlRqX0ZkcVRrc0hLZGJtQ094b2Nuai1hVjE3WXI3N19pTUtyVmozcjBBeE1QUVZyWWFILVE4U0ZVSXMxckJtdW5EMVRadlpqSjlB?oc=5\" target=\"_blank\">US25537AX9 Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-14T22:52:24+00:00"
+        "collected_at": "2026-07-16T02:01:26+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 61,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 200,
+      "count": 201,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "630c455b9fa2b158",
-        "title": "Georgia Power outlines new pledge to protect your rates - Atlanta News First",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXJPT25TVFBVRENTNTFYYXY0enpBaEFYQW5FZFVkcXJfT0pad1d0LTJDQzRiRWhqNDBIWHlOd091TVZVOURUZGRXa3VrV242cXU2VzdUTjV5SjI0dXN6Rm9rV1JreE5ybkpLTkNPd0xWR3BoNk9tNmJyR1VROVNraW9meVd5RWVma0lkTnFYUVNZUGZVQ1p2XzYzWm9oQQ?oc=5",
+        "id": "86957d4395bb1ef2",
+        "title": "Georgia PSC Probes Recovery of Data Center Fuel Costs - RTO Insider",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXE3aUxkR1Z0WXFqVmNCT0ZLd2MzbVdUNkRiRlBTR1FxVVU5MXhMMUhwWmZTTl9FQkM0TFRDT3FkZmYwOGdmdTBqLXJnRld3QzZzQmF6RklGVW1sbDBvVXN6RElRWDlHUERQTVRhejQzdmVhdlZJMHlLUm9SamRXUUJEbUpydFh2TXMtYTMzVXMyQQ?oc=5",
         "domain": "news.google.com",
-        "source": "Atlanta News First",
+        "source": "RTO Insider",
         "language": "English",
-        "published_at": "2026-07-15T21:15:00+00:00",
-        "summary": "Georgia Power outlines new pledge to protect your rates Atlanta News First",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOYXJPT25TVFBVRENTNTFYYXY0enpBaEFYQW5FZFVkcXJfT0pad1d0LTJDQzRiRWhqNDBIWHlOd091TVZVOURUZGRXa3VrV242cXU2VzdUTjV5SjI0dXN6Rm9rV1JreE5ybkpLTkNPd0xWR3BoNk9tNmJyR1VROVNraW9meVd5RWVma0lkTnFYUVNZUGZVQ1p2XzYzWm9oQQ?oc=5\" target=\"_blank\">Georgia Power outlines new pledge to protect your rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+        "published_at": "2026-07-16T01:08:11+00:00",
+        "summary": "Georgia PSC Probes Recovery of Data Center Fuel Costs RTO Insider",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXE3aUxkR1Z0WXFqVmNCT0ZLd2MzbVdUNkRiRlBTR1FxVVU5MXhMMUhwWmZTTl9FQkM0TFRDT3FkZmYwOGdmdTBqLXJnRld3QzZzQmF6RklGVW1sbDBvVXN6RElRWDlHUERQTVRhejQzdmVhdlZJMHlLUm9SamRXUUJEbUpydFh2TXMtYTMzVXMyQQ?oc=5\" target=\"_blank\">Georgia PSC Probes Recovery of Data Center Fuel Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-15T22:53:48+00:00"
+        "collected_at": "2026-07-16T02:01:48+00:00"
       }
     },
     {

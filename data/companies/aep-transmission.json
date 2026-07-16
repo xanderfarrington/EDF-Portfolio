@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-15T22:53:26+00:00",
+  "last_updated": "2026-07-16T02:01:26+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 40,
+  "count": 41,
   "mentions": [
+    {
+      "id": "3afd314316815352",
+      "title": "US25537AX9 Bond Profile — Key Metrics - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfel9rT3prQm4xX19uazZLUE1RRnVudTBVN05SQ3BBSGRzUDBPWlRqX0ZkcVRrc0hLZGJtQ094b2Nuai1hVjE3WXI3N19pTUtyVmozcjBBeE1QUVZyWWFILVE4U0ZVSXMxckJtdW5EMVRadlpqSjlB?oc=5",
+      "domain": "news.google.com",
+      "source": "TradingView",
+      "language": "English",
+      "published_at": "2026-07-15T06:09:27+00:00",
+      "summary": "US25537AX9 Bond Profile — Key Metrics TradingView",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBfel9rT3prQm4xX19uazZLUE1RRnVudTBVN05SQ3BBSGRzUDBPWlRqX0ZkcVRrc0hLZGJtQ094b2Nuai1hVjE3WXI3N19pTUtyVmozcjBBeE1QUVZyWWFILVE4U0ZVSXMxckJtdW5EMVRadlpqSjlB?oc=5\" target=\"_blank\">US25537AX9 Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T02:01:26+00:00"
+    },
     {
       "id": "f31e460184736606",
       "title": "News - Bartlesville Radio",
