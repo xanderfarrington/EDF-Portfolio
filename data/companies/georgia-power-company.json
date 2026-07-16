@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-16T06:12:19+00:00",
+  "last_updated": "2026-07-16T10:02:16+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 203,
+  "count": 204,
   "mentions": [
     {
       "id": "4ec70e7d985c208a",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-16T06:12:19+00:00"
+    },
+    {
+      "id": "7ba48136ae0b27d6",
+      "title": "Georgia Power releases statement on Plant Vogtle accounting error - FOX5 Vegas",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHBvdjAzanphS0dCYUQ3Qk53VlYwT0NCS3oyRmxmVFM2SGgzdG1uSDFqbktZMTBORFE0OGloV1VIb3IwU3NHTHhqZHFpOUFtd01PYnVEMThORHpjYWR4WG1KTW9rcFpuN1pFNmJqTmdHYkFNbE5hZE94VjZNTno0T0xpRjNlcUE4ODNqYUt5RFpUN1pFeDQwZzA5aEpXUWd1Rl95aDFaTVJBQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX5 Vegas",
+      "language": "English",
+      "published_at": "2026-07-16T03:37:00+00:00",
+      "summary": "Georgia Power releases statement on Plant Vogtle accounting error FOX5 Vegas",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHBvdjAzanphS0dCYUQ3Qk53VlYwT0NCS3oyRmxmVFM2SGgzdG1uSDFqbktZMTBORFE0OGloV1VIb3IwU3NHTHhqZHFpOUFtd01PYnVEMThORHpjYWR4WG1KTW9rcFpuN1pFNmJqTmdHYkFNbE5hZE94VjZNTno0T0xpRjNlcUE4ODNqYUt5RFpUN1pFeDQwZzA5aEpXUWd1Rl95aDFaTVJBQQ?oc=5\" target=\"_blank\">Georgia Power releases statement on Plant Vogtle accounting error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX5 Vegas</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T10:02:16+00:00"
     },
     {
       "id": "86957d4395bb1ef2",

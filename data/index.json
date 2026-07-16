@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-16T06:12:30+00:00",
+  "last_updated": "2026-07-16T10:02:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 41,
+      "count": 42,
       "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "3afd314316815352",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 98,
-      "new_mentions_this_run": 11,
+      "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "d9e37285a37f8efd",
         "title": "Trump EPA Moves to Approve Alabama Coal Ash Program Rejected by Biden Administration - Inside Climate News",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 203,
+      "count": 204,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "4ec70e7d985c208a",
