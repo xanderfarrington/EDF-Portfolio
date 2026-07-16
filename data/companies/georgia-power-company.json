@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-16T17:08:27+00:00",
+  "last_updated": "2026-07-16T19:01:10+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 212,
+  "count": 213,
   "mentions": [
     {
       "id": "3c5dfec57b863137",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-16T17:08:27+00:00"
+    },
+    {
+      "id": "09fb2955151e8235",
+      "title": "Georgia Power vows to keep rates affordable - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWnNCWUVFMGhLN1RmNHAzUlRiVy1IaGgyQ1I2WllrLTB0SHI5X0tfQTJaVGVCUmdqOEZqY1N4TW5tV3N0VTJoUmVWNDZtQTI0bkp6dkJXZEhHdFJDZTVnaGdkbXRwc25ZSnh0WHdNMHE5cWJVZkVtdjJCNkphLWg1Qmc1LXN6WUdWQ2tzODBiZnBqN2NqVVE?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-07-16T03:44:34+00:00",
+      "summary": "Georgia Power vows to keep rates affordable Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWnNCWUVFMGhLN1RmNHAzUlRiVy1IaGgyQ1I2WllrLTB0SHI5X0tfQTJaVGVCUmdqOEZqY1N4TW5tV3N0VTJoUmVWNDZtQTI0bkp6dkJXZEhHdFJDZTVnaGdkbXRwc25ZSnh0WHdNMHE5cWJVZkVtdjJCNkphLWg1Qmc1LXN6WUdWQ2tzODBiZnBqN2NqVVE?oc=5\" target=\"_blank\">Georgia Power vows to keep rates affordable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T19:01:10+00:00"
     },
     {
       "id": "4ec70e7d985c208a",
