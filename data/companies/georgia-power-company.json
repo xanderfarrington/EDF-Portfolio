@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-16T19:01:10+00:00",
+  "last_updated": "2026-07-16T20:51:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 213,
+  "count": 215,
   "mentions": [
     {
       "id": "3c5dfec57b863137",
@@ -147,6 +147,20 @@
       "collected_at": "2026-07-16T17:08:27+00:00"
     },
     {
+      "id": "733f09b8b9aa5cd4",
+      "title": "Georgia Power pledges to protect consumers' rights - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEhER3FReDRkcmdnX3hIZlJQWThDMTdxcFVhcnRibUlSNm1jNU1LNXAwVE1tUU1pTzRMaDU4OVU4ellza1hURlh6UGJTYVVlbGMxVzZHdGRwUTFMUFFibjhsVUZ4czM4LVBHZjgzRGRpN2JzTTFDTXE0QkJjYWlhbmJOeGR1V2dCSWRVX3lJUkoyWjVkUTJPUlR5VHFGdw?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-07-16T01:40:11+00:00",
+      "summary": "Georgia Power pledges to protect consumers' rights Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPbEhER3FReDRkcmdnX3hIZlJQWThDMTdxcFVhcnRibUlSNm1jNU1LNXAwVE1tUU1pTzRMaDU4OVU4ellza1hURlh6UGJTYVVlbGMxVzZHdGRwUTFMUFFibjhsVUZ4czM4LVBHZjgzRGRpN2JzTTFDTXE0QkJjYWlhbmJOeGR1V2dCSWRVX3lJUkoyWjVkUTJPUlR5VHFGdw?oc=5\" target=\"_blank\">Georgia Power pledges to protect consumers' rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T20:51:37+00:00"
+    },
+    {
       "id": "86957d4395bb1ef2",
       "title": "Georgia PSC Probes Recovery of Data Center Fuel Costs - RTO Insider",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXE3aUxkR1Z0WXFqVmNCT0ZLd2MzbVdUNkRiRlBTR1FxVVU5MXhMMUhwWmZTTl9FQkM0TFRDT3FkZmYwOGdmdTBqLXJnRld3QzZzQmF6RklGVW1sbDBvVXN6RElRWDlHUERQTVRhejQzdmVhdlZJMHlLUm9SamRXUUJEbUpydFh2TXMtYTMzVXMyQQ?oc=5",
@@ -257,6 +271,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-16T06:12:19+00:00"
+    },
+    {
+      "id": "f2bd0203bb9ec944",
+      "title": "Georgia Power reaffirms longstanding commitment to make growth work for customers with Customer Protection Pledge - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObHpLWVBpZC1Jdlo3clhYQ3JjTmR6UE5BYW9INEYzeUpzOTlNR0xPWTBvaG5Ob1RORHFERVRoVERnOFpMeXdOQ2plVzU5Mm1zU1RQLWVJenRXOWdlektSMnVOcURGOVJuUngxR2FNRmV0Q3pVY0twb2h3MlVjb1cyWnowaUhpLWdQZXNQWmJyckgySi1kM091YWR5Y1VkTHF3UXY1Znc3QQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-07-15T20:00:00+00:00",
+      "summary": "Georgia Power reaffirms longstanding commitment to make growth work for customers with Customer Protection Pledge Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxObHpLWVBpZC1Jdlo3clhYQ3JjTmR6UE5BYW9INEYzeUpzOTlNR0xPWTBvaG5Ob1RORHFERVRoVERnOFpMeXdOQ2plVzU5Mm1zU1RQLWVJenRXOWdlektSMnVOcURGOVJuUngxR2FNRmV0Q3pVY0twb2h3MlVjb1cyWnowaUhpLWdQZXNQWmJyckgySi1kM091YWR5Y1VkTHF3UXY1Znc3QQ?oc=5\" target=\"_blank\">Georgia Power reaffirms longstanding commitment to make growth work for customers with Customer Protection Pledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-16T20:51:37+00:00"
     },
     {
       "id": "4dc3c87456aab99f",
