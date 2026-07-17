@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T18:59:06+00:00",
+  "last_updated": "2026-07-17T20:46:41+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 221,
+      "count": 222,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "147d80001beb19af",
-        "title": "Georgia Power introduces Customer Protection Pledge - Daily Energy Insider",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmZ0TGVGY00yWENSVTh0RHFWcFRaRzd3UWVHUGE0dlVxZTNHLTVLYUUwZjlKNWJEUm9MNWt3WkQ0Nk9zbXhFUURTd3hqczNWRm43Wk5JcEtYSWhEdmxsYTlEelQtdzA4RXlkM0NlanNSSnpScVBja2NtN2R1NGpoYUE2UEVTUXhrelhLejFxWmxYdzVnQ01GY2JB?oc=5",
+        "id": "bc94906f0fc76cc2",
+        "title": "Georgia PSC Approves Consent Agreements on Underground Damage Violations, Advances Georgia Power Change-of-Control Request - Daily Energy Insider",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPR2tOcTVDbVZyNGViSGlNakJBR0ktRGJKZk54dnFZT3NNYkVyVTZIZDZwVEs4ZEZPcmxVbEpjOFZCcENZYzZNaDlKaEtWZjV2RWlkV29LeHJIQl9ScmY2emN3TWpUUDR4ODNvUzJCNzB1V0xjQ0lldU9oMTF4elQ5U0g2emR4dmFiMzZla09xdHNDOEZOeUhuZUtuVmp0UUJJdFNkazB2SFp2VTBTdHpJNmlibjJhM3hrNUYzeGRqRkpWR3Atd041UDNHYmhtM1B3Sy13Qy1acEdaLVdRM2NDUHlOZEFMUEdhZksxQ1cxN1pIVzZuV3hFUC13LUQtSzBaWlBQN2N4SFR3VzdJNHc?oc=5",
         "domain": "news.google.com",
         "source": "Daily Energy Insider",
         "language": "English",
-        "published_at": "2026-07-17T11:38:48+00:00",
-        "summary": "Georgia Power introduces Customer Protection Pledge Daily Energy Insider",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmZ0TGVGY00yWENSVTh0RHFWcFRaRzd3UWVHUGE0dlVxZTNHLTVLYUUwZjlKNWJEUm9MNWt3WkQ0Nk9zbXhFUURTd3hqczNWRm43Wk5JcEtYSWhEdmxsYTlEelQtdzA4RXlkM0NlanNSSnpScVBja2NtN2R1NGpoYUE2UEVTUXhrelhLejFxWmxYdzVnQ01GY2JB?oc=5\" target=\"_blank\">Georgia Power introduces Customer Protection Pledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+        "published_at": "2026-07-17T18:39:39+00:00",
+        "summary": "Georgia PSC Approves Consent Agreements on Underground Damage Violations, Advances Georgia Power Change-of-Control Request Daily Energy Insider",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPR2tOcTVDbVZyNGViSGlNakJBR0ktRGJKZk54dnFZT3NNYkVyVTZIZDZwVEs4ZEZPcmxVbEpjOFZCcENZYzZNaDlKaEtWZjV2RWlkV29LeHJIQl9ScmY2emN3TWpUUDR4ODNvUzJCNzB1V0xjQ0lldU9oMTF4elQ5U0g2emR4dmFiMzZla09xdHNDOEZOeUhuZUtuVmp0UUJJdFNkazB2SFp2VTBTdHpJNmlibjJhM3hrNUYzeGRqRkpWR3Atd041UDNHYmhtM1B3Sy13Qy1acEdaLVdRM2NDUHlOZEFMUEdhZksxQ1cxN1pIVzZuV3hFUC13LUQtSzBaWlBQN2N4SFR3VzdJNHc?oc=5\" target=\"_blank\">Georgia PSC Approves Consent Agreements on Underground Damage Violations, Advances Georgia Power Change-of-Control Request</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-17T17:06:16+00:00"
+        "collected_at": "2026-07-17T20:46:31+00:00"
       }
     },
     {

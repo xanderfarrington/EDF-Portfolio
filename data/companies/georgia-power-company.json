@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-17T18:58:56+00:00",
+  "last_updated": "2026-07-17T20:46:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 221,
+  "count": 222,
   "mentions": [
+    {
+      "id": "bc94906f0fc76cc2",
+      "title": "Georgia PSC Approves Consent Agreements on Underground Damage Violations, Advances Georgia Power Change-of-Control Request - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPR2tOcTVDbVZyNGViSGlNakJBR0ktRGJKZk54dnFZT3NNYkVyVTZIZDZwVEs4ZEZPcmxVbEpjOFZCcENZYzZNaDlKaEtWZjV2RWlkV29LeHJIQl9ScmY2emN3TWpUUDR4ODNvUzJCNzB1V0xjQ0lldU9oMTF4elQ5U0g2emR4dmFiMzZla09xdHNDOEZOeUhuZUtuVmp0UUJJdFNkazB2SFp2VTBTdHpJNmlibjJhM3hrNUYzeGRqRkpWR3Atd041UDNHYmhtM1B3Sy13Qy1acEdaLVdRM2NDUHlOZEFMUEdhZksxQ1cxN1pIVzZuV3hFUC13LUQtSzBaWlBQN2N4SFR3VzdJNHc?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-07-17T18:39:39+00:00",
+      "summary": "Georgia PSC Approves Consent Agreements on Underground Damage Violations, Advances Georgia Power Change-of-Control Request Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPR2tOcTVDbVZyNGViSGlNakJBR0ktRGJKZk54dnFZT3NNYkVyVTZIZDZwVEs4ZEZPcmxVbEpjOFZCcENZYzZNaDlKaEtWZjV2RWlkV29LeHJIQl9ScmY2emN3TWpUUDR4ODNvUzJCNzB1V0xjQ0lldU9oMTF4elQ5U0g2emR4dmFiMzZla09xdHNDOEZOeUhuZUtuVmp0UUJJdFNkazB2SFp2VTBTdHpJNmlibjJhM3hrNUYzeGRqRkpWR3Atd041UDNHYmhtM1B3Sy13Qy1acEdaLVdRM2NDUHlOZEFMUEdhZksxQ1cxN1pIVzZuV3hFUC13LUQtSzBaWlBQN2N4SFR3VzdJNHc?oc=5\" target=\"_blank\">Georgia PSC Approves Consent Agreements on Underground Damage Violations, Advances Georgia Power Change-of-Control Request</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-17T20:46:31+00:00"
+    },
     {
       "id": "147d80001beb19af",
       "title": "Georgia Power introduces Customer Protection Pledge - Daily Energy Insider",
