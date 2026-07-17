@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-16T22:52:42+00:00",
+  "last_updated": "2026-07-17T02:05:36+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 43,
+      "count": 44,
       "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "93cfe4d4980886d3",
-        "title": "AEPC Bond Profile — Key Metrics - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pcm5NYVotdndHNGlLT0dUVVk1b0xKUmk2MDJYU0pGSS1oSlJ0NUNaLV9uM1ZBS01aSm9mZG5hLUJOeHJLZUZFTWRkSF81T09SdkotbGUyaTFuY2FGNV9ETEt2NDUtOUZZa2lwQWYybw?oc=5",
+        "id": "e987661a20953fbd",
+        "title": "US25537AV3 Bond Profile — Key Metrics - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KdTUwSVlCYW9iaEtJYmlJV2pWTjVreVNKdjE4V0QwYzZnNDBlaUVQZ3RsMTl5dU14NXo4UFQ1QzBldVpkSUM3aU83eElidVZIY25JRkNKTm40Q3NOSWpQLS1WRU9QWEdKMElmLXh2UGZZbDh5YS1V?oc=5",
         "domain": "news.google.com",
         "source": "TradingView",
         "language": "English",
-        "published_at": "2026-07-16T09:21:40+00:00",
-        "summary": "AEPC Bond Profile — Key Metrics TradingView",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pcm5NYVotdndHNGlLT0dUVVk1b0xKUmk2MDJYU0pGSS1oSlJ0NUNaLV9uM1ZBS01aSm9mZG5hLUJOeHJLZUZFTWRkSF81T09SdkotbGUyaTFuY2FGNV9ETEt2NDUtOUZZa2lwQWYybw?oc=5\" target=\"_blank\">AEPC Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "published_at": "2026-07-16T23:39:36+00:00",
+        "summary": "US25537AV3 Bond Profile — Key Metrics TradingView",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9KdTUwSVlCYW9iaEtJYmlJV2pWTjVreVNKdjE4V0QwYzZnNDBlaUVQZ3RsMTl5dU14NXo4UFQ1QzBldVpkSUM3aU83eElidVZIY25JRkNKTm40Q3NOSWpQLS1WRU9QWEdKMElmLXh2UGZZbDh5YS1V?oc=5\" target=\"_blank\">US25537AV3 Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-16T13:28:46+00:00"
+        "collected_at": "2026-07-17T02:05:04+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 216,
+      "count": 217,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "2d4b43fce2a3697e",
-        "title": "Georgia Power outlines new pledge to protect your rates - WRDW",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlZrNnN5TnhyWHE4Zmoyc1o4RWVpUllKZXIzME9NQUVmc0E2QVI2WGp6RnhXTGlpeFNmendhOTRtRDFmMW5tUW9DSkF3QUR5TUx6bl9ybmtmcHJlODRXMWpFYkhTUGxkaFZvaTFrLW9IR1pRY3dldGRHOFdJZTdmM2V5eTlHOUlEbUZVektRWGZoS09GTGc?oc=5",
+        "id": "f69c7257807c3622",
+        "title": "Georgia Power pledges customers won’t pay for data center growth - WALB",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMmxITlhCTmo1Yy0tZlAydGVzYW9odWdxVHVuLTdOV0ZZbUlqeXVLY0UyVDFFYzRDUHNkTHBjeE9mVkZ2REJ0enY5cmVucDZOWTNFdFBSeXJpbFBfZklFUGZuVUV4YU9GZGhNY3lFaTA3RVFsMmdYRTBLTnlKeUUwMFdQeWc4Wm5kd0NFMnJacmc4VkRVUE1B?oc=5",
         "domain": "news.google.com",
-        "source": "WRDW",
+        "source": "WALB",
         "language": "English",
-        "published_at": "2026-07-16T21:52:00+00:00",
-        "summary": "Georgia Power outlines new pledge to protect your rates WRDW",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlZrNnN5TnhyWHE4Zmoyc1o4RWVpUllKZXIzME9NQUVmc0E2QVI2WGp6RnhXTGlpeFNmendhOTRtRDFmMW5tUW9DSkF3QUR5TUx6bl9ybmtmcHJlODRXMWpFYkhTUGxkaFZvaTFrLW9IR1pRY3dldGRHOFdJZTdmM2V5eTlHOUlEbUZVektRWGZoS09GTGc?oc=5\" target=\"_blank\">Georgia Power outlines new pledge to protect your rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+        "published_at": "2026-07-16T22:19:00+00:00",
+        "summary": "Georgia Power pledges customers won’t pay for data center growth WALB",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOMmxITlhCTmo1Yy0tZlAydGVzYW9odWdxVHVuLTdOV0ZZbUlqeXVLY0UyVDFFYzRDUHNkTHBjeE9mVkZ2REJ0enY5cmVucDZOWTNFdFBSeXJpbFBfZklFUGZuVUV4YU9GZGhNY3lFaTA3RVFsMmdYRTBLTnlKeUUwMFdQeWc4Wm5kd0NFMnJacmc4VkRVUE1B?oc=5\" target=\"_blank\">Georgia Power pledges customers won’t pay for data center growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WALB</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-16T22:52:31+00:00"
+        "collected_at": "2026-07-17T02:05:26+00:00"
       }
     },
     {
