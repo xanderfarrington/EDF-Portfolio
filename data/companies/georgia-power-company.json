@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-17T20:46:31+00:00",
+  "last_updated": "2026-07-17T22:42:29+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 222,
+  "count": 223,
   "mentions": [
     {
       "id": "bc94906f0fc76cc2",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-17T20:46:31+00:00"
+    },
+    {
+      "id": "d032779e5173b4f0",
+      "title": "Georgia PSC Approves Consent Agreements on Underground Damage Violations, Advances Georgia Power Change-of-Control Request - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYjdHQ3lnM0V1ZjVGTHhOclM1YWxGZWp0ZThySmZUV0pyQ3FSd2Y0eWxaLUxNY3k4T1dzZTBlUkhNTDN6RnNCeGF5SGtjblU3TFdJbERFMGdCNFhlMVMxa0dKY0YwZTM5TGZaT3ZtUzZRamwwZEVUREppTWxLOVF3dGQxbkpaRHAyWEFndFhXb3BkZ1RFdkIxdkgtMFdXN1FtZTd3Ulo4U25HWTI4dllQX0s3SmhucmxURm1OLVdNOFFsbm1RbTZkVlJWWnBydDNJaHIzdXJENGc2anA5ZnlrR2s0VFgza3VMTWhXYmxSbFZILVdXQmlkXzE3WHpDLU0zSnM3TFNsNWM?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-07-17T18:39:39+00:00",
+      "summary": "Georgia PSC Approves Consent Agreements on Underground Damage Violations, Advances Georgia Power Change-of-Control Request Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYjdHQ3lnM0V1ZjVGTHhOclM1YWxGZWp0ZThySmZUV0pyQ3FSd2Y0eWxaLUxNY3k4T1dzZTBlUkhNTDN6RnNCeGF5SGtjblU3TFdJbERFMGdCNFhlMVMxa0dKY0YwZTM5TGZaT3ZtUzZRamwwZEVUREppTWxLOVF3dGQxbkpaRHAyWEFndFhXb3BkZ1RFdkIxdkgtMFdXN1FtZTd3Ulo4U25HWTI4dllQX0s3SmhucmxURm1OLVdNOFFsbm1RbTZkVlJWWnBydDNJaHIzdXJENGc2anA5ZnlrR2s0VFgza3VMTWhXYmxSbFZILVdXQmlkXzE3WHpDLU0zSnM3TFNsNWM?oc=5\" target=\"_blank\">Georgia PSC Approves Consent Agreements on Underground Damage Violations, Advances Georgia Power Change-of-Control Request</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-17T22:42:29+00:00"
     },
     {
       "id": "147d80001beb19af",

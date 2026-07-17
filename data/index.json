@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-17T20:46:41+00:00",
+  "last_updated": "2026-07-17T22:42:39+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 44,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "e987661a20953fbd",
         "title": "US25537AV3 Bond Profile — Key Metrics - TradingView",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 61,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 222,
+      "count": 223,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "bc94906f0fc76cc2",
