@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-17T17:06:26+00:00",
+  "last_updated": "2026-07-17T18:59:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 44,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "e987661a20953fbd",
         "title": "US25537AV3 Bond Profile — Key Metrics - TradingView",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 99,
+      "count": 100,
       "new_mentions_this_run": 11,
       "latest_mention": {
-        "id": "b0b147733978aeee",
-        "title": "UWA partners with Alabama Power for Safe-T-Zone training - University of West Alabama",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXl2elpjczhhWHZmZ0pBeFMzUE9VWmZOc0tmejhDWFdpSktNMWRXTW1xNDV0eE1vaFA4UWtUMHJmTTM1T1dEVnJsY1BKUWpId0tzY1lIMlI4dTZSaUhtVElBMXJkUlZ2SlNwczlpeE05LXpweXUycHZYYXp1YkUxeE1CRmlBQnA2UGc?oc=5",
+        "id": "62b57120138bb699",
+        "title": "UWA partners with Alabama Power for Safe-T-Zone training - WTOK",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS1pNR0wyMVhOeVpMQjAzNElBanl6VG5PcFNqUjhPeVNKcW9OUVp4NmZ2UTZnRlBtNkFTTXdwWWRlWHdLanRETGItV1BKeXFWUHIwOUtWTWtRMFhnVkppcU5kUEZHUnZRaU1UZmx1UVB2eTJnUnNaS1lab0RFamZ6SThzZlZ6UGY4X1d6U29n0gGiAUFVX3lxTE9rTUpmSFpCQ3Y2UXRNR2l3bDVJQ2N4RGgxckd3NHFvM3FqYlpGS0ExLWM2ZGJKZnhUbEtiZGVnc25wN2hBT1FGQ25SREZ1QlpxUVNIZGNvUU1EbUtWOFNMdjdlYmtfTlFLZUxNTjVaTzdRckxwTkNzckx2SmpCT2dORUtDb29BSnBjaVVoZFFqbU9BWFNNVFdjTkJ3dGQ5TE1hQQ?oc=5",
         "domain": "news.google.com",
-        "source": "University of West Alabama",
+        "source": "WTOK",
         "language": "English",
-        "published_at": "2026-07-16T22:00:03+00:00",
-        "summary": "UWA partners with Alabama Power for Safe-T-Zone training University of West Alabama",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXl2elpjczhhWHZmZ0pBeFMzUE9VWmZOc0tmejhDWFdpSktNMWRXTW1xNDV0eE1vaFA4UWtUMHJmTTM1T1dEVnJsY1BKUWpId0tzY1lIMlI4dTZSaUhtVElBMXJkUlZ2SlNwczlpeE05LXpweXUycHZYYXp1YkUxeE1CRmlBQnA2UGc?oc=5\" target=\"_blank\">UWA partners with Alabama Power for Safe-T-Zone training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of West Alabama</font>",
+        "published_at": "2026-07-17T15:19:00+00:00",
+        "summary": "UWA partners with Alabama Power for Safe-T-Zone training WTOK",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOS1pNR0wyMVhOeVpMQjAzNElBanl6VG5PcFNqUjhPeVNKcW9OUVp4NmZ2UTZnRlBtNkFTTXdwWWRlWHdLanRETGItV1BKeXFWUHIwOUtWTWtRMFhnVkppcU5kUEZHUnZRaU1UZmx1UVB2eTJnUnNaS1lab0RFamZ6SThzZlZ6UGY4X1d6U29n0gGiAUFVX3lxTE9rTUpmSFpCQ3Y2UXRNR2l3bDVJQ2N4RGgxckd3NHFvM3FqYlpGS0ExLWM2ZGJKZnhUbEtiZGVnc25wN2hBT1FGQ25SREZ1QlpxUVNIZGNvUU1EbUtWOFNMdjdlYmtfTlFLZUxNTjVaTzdRckxwTkNzckx2SmpCT2dORUtDb29BSnBjaVVoZFFqbU9BWFNNVFdjTkJ3dGQ5TE1hQQ?oc=5\" target=\"_blank\">UWA partners with Alabama Power for Safe-T-Zone training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOK</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-16T22:52:15+00:00"
+        "collected_at": "2026-07-17T18:58:39+00:00"
       }
     },
     {
