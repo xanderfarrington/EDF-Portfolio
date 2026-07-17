@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-17T06:11:03+00:00",
+  "last_updated": "2026-07-17T09:51:41+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 218,
+  "count": 220,
   "mentions": [
     {
       "id": "f69c7257807c3622",
@@ -117,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-16T19:01:10+00:00"
+    },
+    {
+      "id": "726041d4d7280911",
+      "title": "Georgia Power releases statement on Plant Vogtle accounting error - Live 5 News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORVczYWpteTlHNVFWQVNpdDlDelNqQlJJak83NkRqOUVZRW9GcUI2VE9Fal8wTXJ4amV5YzQ1YzFqS2Y0ck1oY2M4NFZvby0xQlo3WjBqdFk1TVNjTEZVWHgtcUZXQVEteHVLV2NvOGFFcHdXQnFNNHFycEw2MHZRY3R6MmRDVHhDVkhOU1hSZVd1cGtuOVhVUUxSU0RDVTlOUFRmQmZlWGVkdw?oc=5",
+      "domain": "news.google.com",
+      "source": "Live 5 News",
+      "language": "English",
+      "published_at": "2026-07-16T03:42:01+00:00",
+      "summary": "Georgia Power releases statement on Plant Vogtle accounting error Live 5 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxORVczYWpteTlHNVFWQVNpdDlDelNqQlJJak83NkRqOUVZRW9GcUI2VE9Fal8wTXJ4amV5YzQ1YzFqS2Y0ck1oY2M4NFZvby0xQlo3WjBqdFk1TVNjTEZVWHgtcUZXQVEteHVLV2NvOGFFcHdXQnFNNHFycEw2MHZRY3R6MmRDVHhDVkhOU1hSZVd1cGtuOVhVUUxSU0RDVTlOUFRmQmZlWGVkdw?oc=5\" target=\"_blank\">Georgia Power releases statement on Plant Vogtle accounting error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Live 5 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-17T09:51:41+00:00"
     },
     {
       "id": "4ec70e7d985c208a",
@@ -243,6 +257,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-15T22:53:48+00:00"
+    },
+    {
+      "id": "019d0f244dcb4505",
+      "title": "Georgia Power outlines new pledge to protect your rates - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXJPT25TVFBVRENTNTFYYXY0enpBaEFYQW5FZFVkcXJfT0pad1d0LTJDQzRiRWhqNDBIWHlOd091TVZVOURUZGRXa3VrV242cXU2VzdUTjV5SjI0dXN6Rm9rV1JreE5ybkpLTkNPd0xWR3BoNk9tNmJyR1VROVNraW9meVd5RWVma0lkTnFYUVNZUGZVQ1p2XzYzWm9oQdIBsgFBVV95cUxORVFZUlJXQUs5SkNsS3RNZzU5MHFUQlZCN01NOWJ3LWJjR1JRa0RJNDZMRGF4YllBTy15YkZuZ0NjZkIzTldhclJkMEF2Sm1VaVFYb25LV0JZamtXS2Z6MTMydEFNMjllc2ZuRDBLSnRCdFdLWl9Cb0JNY0htem9nTHlGSkw3ZEtibExRaEplYzFMMnNEZjdWNzV0OUtXMVZMbjUtOGZ1S3o2UHRyRzRXdDNB?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-07-15T21:15:00+00:00",
+      "summary": "Georgia Power outlines new pledge to protect your rates Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOYXJPT25TVFBVRENTNTFYYXY0enpBaEFYQW5FZFVkcXJfT0pad1d0LTJDQzRiRWhqNDBIWHlOd091TVZVOURUZGRXa3VrV242cXU2VzdUTjV5SjI0dXN6Rm9rV1JreE5ybkpLTkNPd0xWR3BoNk9tNmJyR1VROVNraW9meVd5RWVma0lkTnFYUVNZUGZVQ1p2XzYzWm9oQdIBsgFBVV95cUxORVFZUlJXQUs5SkNsS3RNZzU5MHFUQlZCN01NOWJ3LWJjR1JRa0RJNDZMRGF4YllBTy15YkZuZ0NjZkIzTldhclJkMEF2Sm1VaVFYb25LV0JZamtXS2Z6MTMydEFNMjllc2ZuRDBLSnRCdFdLWl9Cb0JNY0htem9nTHlGSkw3ZEtibExRaEplYzFMMnNEZjdWNzV0OUtXMVZMbjUtOGZ1S3o2UHRyRzRXdDNB?oc=5\" target=\"_blank\">Georgia Power outlines new pledge to protect your rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-17T09:51:41+00:00"
     },
     {
       "id": "1644164ac99ccba4",
