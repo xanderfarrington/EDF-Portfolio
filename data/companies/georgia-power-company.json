@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-17T15:10:03+00:00",
+  "last_updated": "2026-07-17T17:06:16+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 220,
+  "count": 221,
   "mentions": [
+    {
+      "id": "147d80001beb19af",
+      "title": "Georgia Power introduces Customer Protection Pledge - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmZ0TGVGY00yWENSVTh0RHFWcFRaRzd3UWVHUGE0dlVxZTNHLTVLYUUwZjlKNWJEUm9MNWt3WkQ0Nk9zbXhFUURTd3hqczNWRm43Wk5JcEtYSWhEdmxsYTlEelQtdzA4RXlkM0NlanNSSnpScVBja2NtN2R1NGpoYUE2UEVTUXhrelhLejFxWmxYdzVnQ01GY2JB?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-07-17T11:38:48+00:00",
+      "summary": "Georgia Power introduces Customer Protection Pledge Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmZ0TGVGY00yWENSVTh0RHFWcFRaRzd3UWVHUGE0dlVxZTNHLTVLYUUwZjlKNWJEUm9MNWt3WkQ0Nk9zbXhFUURTd3hqczNWRm43Wk5JcEtYSWhEdmxsYTlEelQtdzA4RXlkM0NlanNSSnpScVBja2NtN2R1NGpoYUE2UEVTUXhrelhLejFxWmxYdzVnQ01GY2JB?oc=5\" target=\"_blank\">Georgia Power introduces Customer Protection Pledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-17T17:06:16+00:00"
+    },
     {
       "id": "f69c7257807c3622",
       "title": "Georgia Power pledges customers won’t pay for data center growth - WALB",

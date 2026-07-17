@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-17T15:10:19+00:00",
+  "last_updated": "2026-07-17T17:06:26+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 44,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "e987661a20953fbd",
         "title": "US25537AV3 Bond Profile — Key Metrics - TradingView",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 99,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "b0b147733978aeee",
         "title": "UWA partners with Alabama Power for Safe-T-Zone training - University of West Alabama",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 25,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 61,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 220,
-      "new_mentions_this_run": 0,
+      "count": 221,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "f69c7257807c3622",
-        "title": "Georgia Power pledges customers won’t pay for data center growth - WALB",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMmxITlhCTmo1Yy0tZlAydGVzYW9odWdxVHVuLTdOV0ZZbUlqeXVLY0UyVDFFYzRDUHNkTHBjeE9mVkZ2REJ0enY5cmVucDZOWTNFdFBSeXJpbFBfZklFUGZuVUV4YU9GZGhNY3lFaTA3RVFsMmdYRTBLTnlKeUUwMFdQeWc4Wm5kd0NFMnJacmc4VkRVUE1B?oc=5",
+        "id": "147d80001beb19af",
+        "title": "Georgia Power introduces Customer Protection Pledge - Daily Energy Insider",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmZ0TGVGY00yWENSVTh0RHFWcFRaRzd3UWVHUGE0dlVxZTNHLTVLYUUwZjlKNWJEUm9MNWt3WkQ0Nk9zbXhFUURTd3hqczNWRm43Wk5JcEtYSWhEdmxsYTlEelQtdzA4RXlkM0NlanNSSnpScVBja2NtN2R1NGpoYUE2UEVTUXhrelhLejFxWmxYdzVnQ01GY2JB?oc=5",
         "domain": "news.google.com",
-        "source": "WALB",
+        "source": "Daily Energy Insider",
         "language": "English",
-        "published_at": "2026-07-16T22:19:00+00:00",
-        "summary": "Georgia Power pledges customers won’t pay for data center growth WALB",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOMmxITlhCTmo1Yy0tZlAydGVzYW9odWdxVHVuLTdOV0ZZbUlqeXVLY0UyVDFFYzRDUHNkTHBjeE9mVkZ2REJ0enY5cmVucDZOWTNFdFBSeXJpbFBfZklFUGZuVUV4YU9GZGhNY3lFaTA3RVFsMmdYRTBLTnlKeUUwMFdQeWc4Wm5kd0NFMnJacmc4VkRVUE1B?oc=5\" target=\"_blank\">Georgia Power pledges customers won’t pay for data center growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WALB</font>",
+        "published_at": "2026-07-17T11:38:48+00:00",
+        "summary": "Georgia Power introduces Customer Protection Pledge Daily Energy Insider",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmZ0TGVGY00yWENSVTh0RHFWcFRaRzd3UWVHUGE0dlVxZTNHLTVLYUUwZjlKNWJEUm9MNWt3WkQ0Nk9zbXhFUURTd3hqczNWRm43Wk5JcEtYSWhEdmxsYTlEelQtdzA4RXlkM0NlanNSSnpScVBja2NtN2R1NGpoYUE2UEVTUXhrelhLejFxWmxYdzVnQ01GY2JB?oc=5\" target=\"_blank\">Georgia Power introduces Customer Protection Pledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-17T02:05:26+00:00"
+        "collected_at": "2026-07-17T17:06:16+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 18,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",
