@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T22:42:39+00:00",
+  "last_updated": "2026-07-18T01:54:21+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 100,
-      "new_mentions_this_run": 11,
+      "count": 102,
+      "new_mentions_this_run": 8,
       "latest_mention": {
-        "id": "62b57120138bb699",
-        "title": "UWA partners with Alabama Power for Safe-T-Zone training - WTOK",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS1pNR0wyMVhOeVpMQjAzNElBanl6VG5PcFNqUjhPeVNKcW9OUVp4NmZ2UTZnRlBtNkFTTXdwWWRlWHdLanRETGItV1BKeXFWUHIwOUtWTWtRMFhnVkppcU5kUEZHUnZRaU1UZmx1UVB2eTJnUnNaS1lab0RFamZ6SThzZlZ6UGY4X1d6U29n0gGiAUFVX3lxTE9rTUpmSFpCQ3Y2UXRNR2l3bDVJQ2N4RGgxckd3NHFvM3FqYlpGS0ExLWM2ZGJKZnhUbEtiZGVnc25wN2hBT1FGQ25SREZ1QlpxUVNIZGNvUU1EbUtWOFNMdjdlYmtfTlFLZUxNTjVaTzdRckxwTkNzckx2SmpCT2dORUtDb29BSnBjaVVoZFFqbU9BWFNNVFdjTkJ3dGQ5TE1hQQ?oc=5",
+        "id": "698f87f852d80413",
+        "title": "Pleasant Avenue to close Monday through Thursday for Alabama Power utility work - fox10tv.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR05JRU5IdnVuZlZYU01XNkFrZUthUTJyME1PRTFpR21IV1I2X2NOZElyMFF4a1pTTm5fVTZXOFJ3Rzg4SG5CdloxSU9FcUpyYTZrWWREWFJnamdwVU1aMV82Mk5vUE9ISkxveEVZay1mSU05OGo3RDhKZXZic2ZveGZKOFBtTTl5empCdDIyN2plMHZGem44VG9WVk9TZDBiZEhUVTZrS1VmOXk40gHAAUFVX3lxTE04aWtaZFFmWG4yeEZyeUdOU1NTNDZjMEpkZTJULWtaenV5MDZocXZ6dFotc3dSNHNJSEFxVnJnRlprQVdxX2ZKLXJMbmowS290T00yekRUWUJHNVJmc01ZTTEyZmFZaC03ajdMUnFRQlFqSXhNTkhZa3VwTTByTk5DZy1JLV9Wb1lseFhXTEkxVEFsZXR4cVRCZVIwd1FtdmF1M2JRWTFwQU1tWTJYamRpclRLZHhVWTRGTXBEanlBVg?oc=5",
         "domain": "news.google.com",
-        "source": "WTOK",
+        "source": "fox10tv.com",
         "language": "English",
-        "published_at": "2026-07-17T15:19:00+00:00",
-        "summary": "UWA partners with Alabama Power for Safe-T-Zone training WTOK",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOS1pNR0wyMVhOeVpMQjAzNElBanl6VG5PcFNqUjhPeVNKcW9OUVp4NmZ2UTZnRlBtNkFTTXdwWWRlWHdLanRETGItV1BKeXFWUHIwOUtWTWtRMFhnVkppcU5kUEZHUnZRaU1UZmx1UVB2eTJnUnNaS1lab0RFamZ6SThzZlZ6UGY4X1d6U29n0gGiAUFVX3lxTE9rTUpmSFpCQ3Y2UXRNR2l3bDVJQ2N4RGgxckd3NHFvM3FqYlpGS0ExLWM2ZGJKZnhUbEtiZGVnc25wN2hBT1FGQ25SREZ1QlpxUVNIZGNvUU1EbUtWOFNMdjdlYmtfTlFLZUxNTjVaTzdRckxwTkNzckx2SmpCT2dORUtDb29BSnBjaVVoZFFqbU9BWFNNVFdjTkJ3dGQ5TE1hQQ?oc=5\" target=\"_blank\">UWA partners with Alabama Power for Safe-T-Zone training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOK</font>",
+        "published_at": "2026-07-17T23:39:00+00:00",
+        "summary": "Pleasant Avenue to close Monday through Thursday for Alabama Power utility work fox10tv.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNR05JRU5IdnVuZlZYU01XNkFrZUthUTJyME1PRTFpR21IV1I2X2NOZElyMFF4a1pTTm5fVTZXOFJ3Rzg4SG5CdloxSU9FcUpyYTZrWWREWFJnamdwVU1aMV82Mk5vUE9ISkxveEVZay1mSU05OGo3RDhKZXZic2ZveGZKOFBtTTl5empCdDIyN2plMHZGem44VG9WVk9TZDBiZEhUVTZrS1VmOXk40gHAAUFVX3lxTE04aWtaZFFmWG4yeEZyeUdOU1NTNDZjMEpkZTJULWtaenV5MDZocXZ6dFotc3dSNHNJSEFxVnJnRlprQVdxX2ZKLXJMbmowS290T00yekRUWUJHNVJmc01ZTTEyZmFZaC03ajdMUnFRQlFqSXhNTkhZa3VwTTByTk5DZy1JLV9Wb1lseFhXTEkxVEFsZXR4cVRCZVIwd1FtdmF1M2JRWTFwQU1tWTJYamRpclRLZHhVWTRGTXBEanlBVg?oc=5\" target=\"_blank\">Pleasant Avenue to close Monday through Thursday for Alabama Power utility work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-17T18:58:39+00:00"
+        "collected_at": "2026-07-18T01:53:54+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 223,
+      "count": 225,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "bc94906f0fc76cc2",
-        "title": "Georgia PSC Approves Consent Agreements on Underground Damage Violations, Advances Georgia Power Change-of-Control Request - Daily Energy Insider",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPR2tOcTVDbVZyNGViSGlNakJBR0ktRGJKZk54dnFZT3NNYkVyVTZIZDZwVEs4ZEZPcmxVbEpjOFZCcENZYzZNaDlKaEtWZjV2RWlkV29LeHJIQl9ScmY2emN3TWpUUDR4ODNvUzJCNzB1V0xjQ0lldU9oMTF4elQ5U0g2emR4dmFiMzZla09xdHNDOEZOeUhuZUtuVmp0UUJJdFNkazB2SFp2VTBTdHpJNmlibjJhM3hrNUYzeGRqRkpWR3Atd041UDNHYmhtM1B3Sy13Qy1acEdaLVdRM2NDUHlOZEFMUEdhZksxQ1cxN1pIVzZuV3hFUC13LUQtSzBaWlBQN2N4SFR3VzdJNHc?oc=5",
+        "id": "86f4211ebbec2bf1",
+        "title": "'To us, it's theft': Georgia family says AI boom could force them off family land - The Cool Down",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLU9OS0R5ZDBaekxTamQ1NzUybGZOc3MwUjFxTWgxYS1RWk9SYWJTYU1MQzBySzIzTnI2TWlfNzd6TWprVVQtNnduMlhWcHFQalpZRTFEcF8zU2ctekg5cXlBNDZ2Ni1MWlU2OFl1QUdST0M3WVU1SmtDUmduVjkyVEMzR1k?oc=5",
         "domain": "news.google.com",
-        "source": "Daily Energy Insider",
+        "source": "The Cool Down",
         "language": "English",
-        "published_at": "2026-07-17T18:39:39+00:00",
-        "summary": "Georgia PSC Approves Consent Agreements on Underground Damage Violations, Advances Georgia Power Change-of-Control Request Daily Energy Insider",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPR2tOcTVDbVZyNGViSGlNakJBR0ktRGJKZk54dnFZT3NNYkVyVTZIZDZwVEs4ZEZPcmxVbEpjOFZCcENZYzZNaDlKaEtWZjV2RWlkV29LeHJIQl9ScmY2emN3TWpUUDR4ODNvUzJCNzB1V0xjQ0lldU9oMTF4elQ5U0g2emR4dmFiMzZla09xdHNDOEZOeUhuZUtuVmp0UUJJdFNkazB2SFp2VTBTdHpJNmlibjJhM3hrNUYzeGRqRkpWR3Atd041UDNHYmhtM1B3Sy13Qy1acEdaLVdRM2NDUHlOZEFMUEdhZksxQ1cxN1pIVzZuV3hFUC13LUQtSzBaWlBQN2N4SFR3VzdJNHc?oc=5\" target=\"_blank\">Georgia PSC Approves Consent Agreements on Underground Damage Violations, Advances Georgia Power Change-of-Control Request</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+        "published_at": "2026-07-17T22:38:00+00:00",
+        "summary": "'To us, it's theft': Georgia family says AI boom could force them off family land The Cool Down",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPLU9OS0R5ZDBaekxTamQ1NzUybGZOc3MwUjFxTWgxYS1RWk9SYWJTYU1MQzBySzIzTnI2TWlfNzd6TWprVVQtNnduMlhWcHFQalpZRTFEcF8zU2ctekg5cXlBNDZ2Ni1MWlU2OFl1QUdST0M3WVU1SmtDUmduVjkyVEMzR1k?oc=5\" target=\"_blank\">'To us, it's theft': Georgia family says AI boom could force them off family land</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cool Down</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-17T20:46:31+00:00"
+        "collected_at": "2026-07-18T01:54:10+00:00"
       }
     },
     {
