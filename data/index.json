@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T04:44:37+00:00",
+  "last_updated": "2026-07-18T07:40:10+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 102,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "698f87f852d80413",
         "title": "Pleasant Avenue to close Monday through Thursday for Alabama Power utility work - fox10tv.com",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 25,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 61,
+      "count": 62,
       "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",

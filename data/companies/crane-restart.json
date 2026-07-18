@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-07-18T04:44:21+00:00",
+  "last_updated": "2026-07-18T07:39:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 61,
+  "count": 62,
   "mentions": [
     {
       "id": "f8d18ed6fbac21cc",
@@ -173,6 +173,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-13T17:50:43+00:00"
+    },
+    {
+      "id": "3d0822d3c5474f4a",
+      "title": "TMI restart deal was secret. An engineer used info to profit $1.4M: grand jury - PennLive",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd01mbG9fdTc0LVZJSk5yQWtPMVN0aGRKQy1xV2hOMDF3bFh5aGpxcERrS29oZGh2c0hyMmVXbExoTTFpVk5MSm5kZ0d2TVhTZ3VZbmJxV1l3NXNiZWsxWDNva1J0dTRpemtSeWdyMjc3RU9McWI3bEdKQjhJb2RIdDZuVVl5M0h3N0c4VGxkQnFvSXhiY1F3OUFGazhZRVktMlZRT2V6MWlRdXM2Q1kzUkYwcHFsem0zTlJJR3BzWGlPdFlEQWd4eXVSSkhPOVd4RTFrT0puRy1LbG8z?oc=5",
+      "domain": "news.google.com",
+      "source": "PennLive",
+      "language": "English",
+      "published_at": "2026-06-25T07:00:00+00:00",
+      "summary": "TMI restart deal was secret. An engineer used info to profit $1.4M: grand jury PennLive",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd01mbG9fdTc0LVZJSk5yQWtPMVN0aGRKQy1xV2hOMDF3bFh5aGpxcERrS29oZGh2c0hyMmVXbExoTTFpVk5MSm5kZ0d2TVhTZ3VZbmJxV1l3NXNiZWsxWDNva1J0dTRpemtSeWdyMjc3RU9McWI3bEdKQjhJb2RIdDZuVVl5M0h3N0c4VGxkQnFvSXhiY1F3OUFGazhZRVktMlZRT2V6MWlRdXM2Q1kzUkYwcHFsem0zTlJJR3BzWGlPdFlEQWd4eXVSSkhPOVd4RTFrT0puRy1LbG8z?oc=5\" target=\"_blank\">TMI restart deal was secret. An engineer used info to profit $1.4M: grand jury</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PennLive</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-18T07:39:54+00:00"
     },
     {
       "id": "22f298e263449aac",
