@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T07:40:10+00:00",
+  "last_updated": "2026-07-18T09:18:35+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 102,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "698f87f852d80413",
         "title": "Pleasant Avenue to close Monday through Thursday for Alabama Power utility work - fox10tv.com",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 62,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
