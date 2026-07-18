@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T13:00:58+00:00",
+  "last_updated": "2026-07-18T14:45:18+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 225,
+      "count": 226,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "86f4211ebbec2bf1",
-        "title": "'To us, it's theft': Georgia family says AI boom could force them off family land - The Cool Down",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLU9OS0R5ZDBaekxTamQ1NzUybGZOc3MwUjFxTWgxYS1RWk9SYWJTYU1MQzBySzIzTnI2TWlfNzd6TWprVVQtNnduMlhWcHFQalpZRTFEcF8zU2ctekg5cXlBNDZ2Ni1MWlU2OFl1QUdST0M3WVU1SmtDUmduVjkyVEMzR1k?oc=5",
+        "id": "febec091eefc5a3c",
+        "title": "Family Horrified When They're Forced to Sell Their Beloved Home to Make Way for AI Data Centers - Futurism",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY0UtRTl3ZlpENWxzX0g1OVo5bXNnOXdVSnpPdEYyWFNyMTFHOGk1X3EyODVYRkFPbVBFdGRYX3BCRGlYS3pmUXcyOWZFaDVwR1ZUclZIVWZKZzhCQVpIcGF2cUhwU3dHNU4zYk1UQ1FxSFNVQ1NCU3I1RjFNRkV5bmR5Mnc?oc=5",
         "domain": "news.google.com",
-        "source": "The Cool Down",
+        "source": "Futurism",
         "language": "English",
-        "published_at": "2026-07-17T22:38:00+00:00",
-        "summary": "'To us, it's theft': Georgia family says AI boom could force them off family land The Cool Down",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPLU9OS0R5ZDBaekxTamQ1NzUybGZOc3MwUjFxTWgxYS1RWk9SYWJTYU1MQzBySzIzTnI2TWlfNzd6TWprVVQtNnduMlhWcHFQalpZRTFEcF8zU2ctekg5cXlBNDZ2Ni1MWlU2OFl1QUdST0M3WVU1SmtDUmduVjkyVEMzR1k?oc=5\" target=\"_blank\">'To us, it's theft': Georgia family says AI boom could force them off family land</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cool Down</font>",
+        "published_at": "2026-07-18T13:00:00+00:00",
+        "summary": "Family Horrified When They're Forced to Sell Their Beloved Home to Make Way for AI Data Centers Futurism",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNY0UtRTl3ZlpENWxzX0g1OVo5bXNnOXdVSnpPdEYyWFNyMTFHOGk1X3EyODVYRkFPbVBFdGRYX3BCRGlYS3pmUXcyOWZFaDVwR1ZUclZIVWZKZzhCQVpIcGF2cUhwU3dHNU4zYk1UQ1FxSFNVQ1NCU3I1RjFNRkV5bmR5Mnc?oc=5\" target=\"_blank\">Family Horrified When They're Forced to Sell Their Beloved Home to Make Way for AI Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Futurism</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-18T01:54:10+00:00"
+        "collected_at": "2026-07-18T14:45:07+00:00"
       }
     },
     {

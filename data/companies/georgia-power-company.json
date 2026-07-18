@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-18T13:00:48+00:00",
+  "last_updated": "2026-07-18T14:45:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 225,
+  "count": 226,
   "mentions": [
+    {
+      "id": "febec091eefc5a3c",
+      "title": "Family Horrified When They're Forced to Sell Their Beloved Home to Make Way for AI Data Centers - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY0UtRTl3ZlpENWxzX0g1OVo5bXNnOXdVSnpPdEYyWFNyMTFHOGk1X3EyODVYRkFPbVBFdGRYX3BCRGlYS3pmUXcyOWZFaDVwR1ZUclZIVWZKZzhCQVpIcGF2cUhwU3dHNU4zYk1UQ1FxSFNVQ1NCU3I1RjFNRkV5bmR5Mnc?oc=5",
+      "domain": "news.google.com",
+      "source": "Futurism",
+      "language": "English",
+      "published_at": "2026-07-18T13:00:00+00:00",
+      "summary": "Family Horrified When They're Forced to Sell Their Beloved Home to Make Way for AI Data Centers Futurism",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNY0UtRTl3ZlpENWxzX0g1OVo5bXNnOXdVSnpPdEYyWFNyMTFHOGk1X3EyODVYRkFPbVBFdGRYX3BCRGlYS3pmUXcyOWZFaDVwR1ZUclZIVWZKZzhCQVpIcGF2cUhwU3dHNU4zYk1UQ1FxSFNVQ1NCU3I1RjFNRkV5bmR5Mnc?oc=5\" target=\"_blank\">Family Horrified When They're Forced to Sell Their Beloved Home to Make Way for AI Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Futurism</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-18T14:45:07+00:00"
+    },
     {
       "id": "86f4211ebbec2bf1",
       "title": "'To us, it's theft': Georgia family says AI boom could force them off family land - The Cool Down",
