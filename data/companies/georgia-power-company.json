@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-19T16:51:30+00:00",
+  "last_updated": "2026-07-19T18:57:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 227,
+  "count": 229,
   "mentions": [
+    {
+      "id": "d574063059bd9c38",
+      "title": "Early morning crash causes power outage in Rincon - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkVRUVYycnlTZjI0ZFJvblNuM2lNa1duWFZybi1NYU5vTjd0d2VrU212emlXaUZEd3hXN0x4cXdiX1UtV0o1ZjhsQ0EzdEktcUVzUWg4clNXTm9IcXBxNlhiZnNtYXdMaG81amozOHJQZlVKTmFKV3RzVTFicXVjbjFyMEM5dw?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-07-19T15:28:00+00:00",
+      "summary": "Early morning crash causes power outage in Rincon WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkVRUVYycnlTZjI0ZFJvblNuM2lNa1duWFZybi1NYU5vTjd0d2VrU212emlXaUZEd3hXN0x4cXdiX1UtV0o1ZjhsQ0EzdEktcUVzUWg4clNXTm9IcXBxNlhiZnNtYXdMaG81amozOHJQZlVKTmFKV3RzVTFicXVjbjFyMEM5dw?oc=5\" target=\"_blank\">Early morning crash causes power outage in Rincon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-19T18:57:42+00:00"
+    },
     {
       "id": "4a358b2551fc6c23",
       "title": "Georgia Power to Victory Against Chile - Americas Rugby News",
@@ -299,6 +313,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-16T17:08:27+00:00"
+    },
+    {
+      "id": "7534fb3bbbc18de5",
+      "title": "Georgia Power releases statement on Plant Vogtle accounting error - FOX Carolina News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzJVaml5d2FfMWpDZ0xEOUF0VU9KczhtNFVXUVlRTloycTA1dm1jMkRHMktabXlXZGt6aFgwdzc4ZVVLa0dMSFdpclhHMG8wdWhzSFFQczlQS1dHWDVTYUhRUXNHMmEtVnNlMU01WGd4M2V6R0FfMnB3TmU4OXBNcHl3eXVEWTg3c1gwOTlsZDNzdDVYSjVLQ0FVaWtkbC1MbVBmM28wZnlydTR2?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX Carolina News",
+      "language": "English",
+      "published_at": "2026-07-16T03:37:00+00:00",
+      "summary": "Georgia Power releases statement on Plant Vogtle accounting error FOX Carolina News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzJVaml5d2FfMWpDZ0xEOUF0VU9KczhtNFVXUVlRTloycTA1dm1jMkRHMktabXlXZGt6aFgwdzc4ZVVLa0dMSFdpclhHMG8wdWhzSFFQczlQS1dHWDVTYUhRUXNHMmEtVnNlMU01WGd4M2V6R0FfMnB3TmU4OXBNcHl3eXVEWTg3c1gwOTlsZDNzdDVYSjVLQ0FVaWtkbC1MbVBmM28wZnlydTR2?oc=5\" target=\"_blank\">Georgia Power releases statement on Plant Vogtle accounting error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Carolina News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-19T18:57:42+00:00"
     },
     {
       "id": "733f09b8b9aa5cd4",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T16:51:40+00:00",
+  "last_updated": "2026-07-19T18:57:52+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 227,
+      "count": 229,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "4a358b2551fc6c23",
-        "title": "Georgia Power to Victory Against Chile - Americas Rugby News",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTVZfUlgxeDFYU1pJbTQ1YnFqQ2tEVXhmYkxfcDJnc09jMUdnUEwtaW5EMllHTS1wemRZb3dFWEFXUEgtajdmRXFaUVI5RU5qZG5VQThpU0x3ZURxczV4dW9McndYOUZSODhrb3JhUDhsRnhrZmdpSHZhOHp1ZURjd3lnUldSUFRtbmZRUw?oc=5",
+        "id": "d574063059bd9c38",
+        "title": "Early morning crash causes power outage in Rincon - WTOC",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkVRUVYycnlTZjI0ZFJvblNuM2lNa1duWFZybi1NYU5vTjd0d2VrU212emlXaUZEd3hXN0x4cXdiX1UtV0o1ZjhsQ0EzdEktcUVzUWg4clNXTm9IcXBxNlhiZnNtYXdMaG81amozOHJQZlVKTmFKV3RzVTFicXVjbjFyMEM5dw?oc=5",
         "domain": "news.google.com",
-        "source": "Americas Rugby News",
+        "source": "WTOC",
         "language": "English",
-        "published_at": "2026-07-18T20:39:11+00:00",
-        "summary": "Georgia Power to Victory Against Chile Americas Rugby News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTVZfUlgxeDFYU1pJbTQ1YnFqQ2tEVXhmYkxfcDJnc09jMUdnUEwtaW5EMllHTS1wemRZb3dFWEFXUEgtajdmRXFaUVI5RU5qZG5VQThpU0x3ZURxczV4dW9McndYOUZSODhrb3JhUDhsRnhrZmdpSHZhOHp1ZURjd3lnUldSUFRtbmZRUw?oc=5\" target=\"_blank\">Georgia Power to Victory Against Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Americas Rugby News</font>",
+        "published_at": "2026-07-19T15:28:00+00:00",
+        "summary": "Early morning crash causes power outage in Rincon WTOC",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkVRUVYycnlTZjI0ZFJvblNuM2lNa1duWFZybi1NYU5vTjd0d2VrU212emlXaUZEd3hXN0x4cXdiX1UtV0o1ZjhsQ0EzdEktcUVzUWg4clNXTm9IcXBxNlhiZnNtYXdMaG81amozOHJQZlVKTmFKV3RzVTFicXVjbjFyMEM5dw?oc=5\" target=\"_blank\">Early morning crash causes power outage in Rincon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-18T22:42:45+00:00"
+        "collected_at": "2026-07-19T18:57:42+00:00"
       }
     },
     {
