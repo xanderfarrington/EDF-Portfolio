@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T20:40:07+00:00",
+  "last_updated": "2026-07-19T22:44:40+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 102,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "698f87f852d80413",
         "title": "Pleasant Avenue to close Monday through Thursday for Alabama Power utility work - fox10tv.com",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 229,
+      "count": 230,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "d574063059bd9c38",

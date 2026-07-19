@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-19T20:39:56+00:00",
+  "last_updated": "2026-07-19T22:44:30+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 229,
+  "count": 230,
   "mentions": [
     {
       "id": "d574063059bd9c38",
@@ -537,6 +537,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-15T04:46:41+00:00"
+    },
+    {
+      "id": "4be9bbd2364e069e",
+      "title": "Georgia Power offers energy efficiency resources to beat the summer heat - Miller County Liberal",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDhabHpxYVBPai1oRlFvcm15Tl94UXVVUmVBcHAxdmp5d3NuU1UzX0VjbjAwcG1Rams0Rl9XTU0wc3JpOGg3RFlqQVdub3J6T0IzZ1FjeW92WWZlNjFrZ2Z5QlNxeU52RFFHWHdYVHcxQWQ2b0xZYkJEQ1NONlk2ZU5GTUpJRGJJdEt1RWRxNE1jaGxLRDFwdnRWTU9GdllKemlJbGVxNHdpeDhMT2VDQ05NaDVLQWFlZ2RuLQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Miller County Liberal",
+      "language": "English",
+      "published_at": "2026-07-14T16:54:50+00:00",
+      "summary": "Georgia Power offers energy efficiency resources to beat the summer heat Miller County Liberal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDhabHpxYVBPai1oRlFvcm15Tl94UXVVUmVBcHAxdmp5d3NuU1UzX0VjbjAwcG1Rams0Rl9XTU0wc3JpOGg3RFlqQVdub3J6T0IzZ1FjeW92WWZlNjFrZ2Z5QlNxeU52RFFHWHdYVHcxQWQ2b0xZYkJEQ1NONlk2ZU5GTUpJRGJJdEt1RWRxNE1jaGxLRDFwdnRWTU9GdllKemlJbGVxNHdpeDhMT2VDQ05NaDVLQWFlZ2RuLQ?oc=5\" target=\"_blank\">Georgia Power offers energy efficiency resources to beat the summer heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Miller County Liberal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-19T22:44:30+00:00"
     },
     {
       "id": "f81c5a3f5de44935",
