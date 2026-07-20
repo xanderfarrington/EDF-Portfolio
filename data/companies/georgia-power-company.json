@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-20T02:26:00+00:00",
+  "last_updated": "2026-07-20T06:40:58+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 230,
+  "count": 231,
   "mentions": [
+    {
+      "id": "91bb41b37bbe20a4",
+      "title": "Georgia Power pledges to protect customer bills from data centers - The Augusta Press",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSlE2eVJnQnZBWjRBMmJnNjBMVXg0cTdDSDc5NXdTME80QUd4ZTRON0N1bmdZaDF6ZzBmRkFvX2RKOXZXQkx5NlQ1QlQ0TmxGbExRci1vNEJpTjFEU0ZTalNudWZ4TWdSdHltUkxUZVhoV1lndDI5MmJ1cWlJMzlQcnp0QWpqVU5pb3hOXzVYMVE2OUdnenJFQkZR?oc=5",
+      "domain": "news.google.com",
+      "source": "The Augusta Press",
+      "language": "English",
+      "published_at": "2026-07-20T06:14:57+00:00",
+      "summary": "Georgia Power pledges to protect customer bills from data centers The Augusta Press",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSlE2eVJnQnZBWjRBMmJnNjBMVXg0cTdDSDc5NXdTME80QUd4ZTRON0N1bmdZaDF6ZzBmRkFvX2RKOXZXQkx5NlQ1QlQ0TmxGbExRci1vNEJpTjFEU0ZTalNudWZ4TWdSdHltUkxUZVhoV1lndDI5MmJ1cWlJMzlQcnp0QWpqVU5pb3hOXzVYMVE2OUdnenJFQkZR?oc=5\" target=\"_blank\">Georgia Power pledges to protect customer bills from data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Press</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-20T06:40:58+00:00"
+    },
     {
       "id": "d574063059bd9c38",
       "title": "Early morning crash causes power outage in Rincon - WTOC",

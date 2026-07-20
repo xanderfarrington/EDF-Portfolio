@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T02:26:10+00:00",
+  "last_updated": "2026-07-20T06:41:09+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 102,
-      "new_mentions_this_run": 9,
+      "count": 104,
+      "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "698f87f852d80413",
-        "title": "Pleasant Avenue to close Monday through Thursday for Alabama Power utility work - fox10tv.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR05JRU5IdnVuZlZYU01XNkFrZUthUTJyME1PRTFpR21IV1I2X2NOZElyMFF4a1pTTm5fVTZXOFJ3Rzg4SG5CdloxSU9FcUpyYTZrWWREWFJnamdwVU1aMV82Mk5vUE9ISkxveEVZay1mSU05OGo3RDhKZXZic2ZveGZKOFBtTTl5empCdDIyN2plMHZGem44VG9WVk9TZDBiZEhUVTZrS1VmOXk40gHAAUFVX3lxTE04aWtaZFFmWG4yeEZyeUdOU1NTNDZjMEpkZTJULWtaenV5MDZocXZ6dFotc3dSNHNJSEFxVnJnRlprQVdxX2ZKLXJMbmowS290T00yekRUWUJHNVJmc01ZTTEyZmFZaC03ajdMUnFRQlFqSXhNTkhZa3VwTTByTk5DZy1JLV9Wb1lseFhXTEkxVEFsZXR4cVRCZVIwd1FtdmF1M2JRWTFwQU1tWTJYamRpclRLZHhVWTRGTXBEanlBVg?oc=5",
+        "id": "ca0ccb95708bb359",
+        "title": "Fix coming for low-hanging wires blocking entrance to Gadsden business - WBRC",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYTlvbTJwa2Vja0RRZzMyUXRNc1pyc05XTVhhVEhYM0R1Z25YNG1nYjRIQU01MGFpZklIZVlFX1d5b0F1aXM1eFRQX3BSRlZGeVVCanFmSG9rNVZTcUxMaWcyRDZkbnRVUFBGcmIxR2ZNU0hnZXU5dl9aLTFlTW5ndzJGTEdFUUdhbWVIcU1zWG0xa2NRWWZoRU5Zd0tVVXplUFJEd012bHBwaWlpN0RGeNIBsAFBVV95cUxOYTlvbTJwa2Vja0RRZzMyUXRNc1pyc05XTVhhVEhYM0R1Z25YNG1nYjRIQU01MGFpZklIZVlFX1d5b0F1aXM1eFRQX3BSRlZGeVVCanFmSG9rNVZTcUxMaWcyRDZkbnRVUFBGcmIxR2ZNU0hnZXU5dl9aLTFlTW5ndzJGTEdFUUdhbWVIcU1zWG0xa2NRWWZoRU5Zd0tVVXplUFJEd012bHBwaWlpN0RGeA?oc=5",
         "domain": "news.google.com",
-        "source": "fox10tv.com",
+        "source": "WBRC",
         "language": "English",
-        "published_at": "2026-07-17T23:39:00+00:00",
-        "summary": "Pleasant Avenue to close Monday through Thursday for Alabama Power utility work fox10tv.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNR05JRU5IdnVuZlZYU01XNkFrZUthUTJyME1PRTFpR21IV1I2X2NOZElyMFF4a1pTTm5fVTZXOFJ3Rzg4SG5CdloxSU9FcUpyYTZrWWREWFJnamdwVU1aMV82Mk5vUE9ISkxveEVZay1mSU05OGo3RDhKZXZic2ZveGZKOFBtTTl5empCdDIyN2plMHZGem44VG9WVk9TZDBiZEhUVTZrS1VmOXk40gHAAUFVX3lxTE04aWtaZFFmWG4yeEZyeUdOU1NTNDZjMEpkZTJULWtaenV5MDZocXZ6dFotc3dSNHNJSEFxVnJnRlprQVdxX2ZKLXJMbmowS290T00yekRUWUJHNVJmc01ZTTEyZmFZaC03ajdMUnFRQlFqSXhNTkhZa3VwTTByTk5DZy1JLV9Wb1lseFhXTEkxVEFsZXR4cVRCZVIwd1FtdmF1M2JRWTFwQU1tWTJYamRpclRLZHhVWTRGTXBEanlBVg?oc=5\" target=\"_blank\">Pleasant Avenue to close Monday through Thursday for Alabama Power utility work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+        "published_at": "2026-07-20T03:56:00+00:00",
+        "summary": "Fix coming for low-hanging wires blocking entrance to Gadsden business WBRC",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOYTlvbTJwa2Vja0RRZzMyUXRNc1pyc05XTVhhVEhYM0R1Z25YNG1nYjRIQU01MGFpZklIZVlFX1d5b0F1aXM1eFRQX3BSRlZGeVVCanFmSG9rNVZTcUxMaWcyRDZkbnRVUFBGcmIxR2ZNU0hnZXU5dl9aLTFlTW5ndzJGTEdFUUdhbWVIcU1zWG0xa2NRWWZoRU5Zd0tVVXplUFJEd012bHBwaWlpN0RGeNIBsAFBVV95cUxOYTlvbTJwa2Vja0RRZzMyUXRNc1pyc05XTVhhVEhYM0R1Z25YNG1nYjRIQU01MGFpZklIZVlFX1d5b0F1aXM1eFRQX3BSRlZGeVVCanFmSG9rNVZTcUxMaWcyRDZkbnRVUFBGcmIxR2ZNU0hnZXU5dl9aLTFlTW5ndzJGTEdFUUdhbWVIcU1zWG0xa2NRWWZoRU5Zd0tVVXplUFJEd012bHBwaWlpN0RGeA?oc=5\" target=\"_blank\">Fix coming for low-hanging wires blocking entrance to Gadsden business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-18T01:53:54+00:00"
+        "collected_at": "2026-07-20T06:40:42+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 230,
+      "count": 231,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "d574063059bd9c38",
-        "title": "Early morning crash causes power outage in Rincon - WTOC",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkVRUVYycnlTZjI0ZFJvblNuM2lNa1duWFZybi1NYU5vTjd0d2VrU212emlXaUZEd3hXN0x4cXdiX1UtV0o1ZjhsQ0EzdEktcUVzUWg4clNXTm9IcXBxNlhiZnNtYXdMaG81amozOHJQZlVKTmFKV3RzVTFicXVjbjFyMEM5dw?oc=5",
+        "id": "91bb41b37bbe20a4",
+        "title": "Georgia Power pledges to protect customer bills from data centers - The Augusta Press",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSlE2eVJnQnZBWjRBMmJnNjBMVXg0cTdDSDc5NXdTME80QUd4ZTRON0N1bmdZaDF6ZzBmRkFvX2RKOXZXQkx5NlQ1QlQ0TmxGbExRci1vNEJpTjFEU0ZTalNudWZ4TWdSdHltUkxUZVhoV1lndDI5MmJ1cWlJMzlQcnp0QWpqVU5pb3hOXzVYMVE2OUdnenJFQkZR?oc=5",
         "domain": "news.google.com",
-        "source": "WTOC",
+        "source": "The Augusta Press",
         "language": "English",
-        "published_at": "2026-07-19T15:28:00+00:00",
-        "summary": "Early morning crash causes power outage in Rincon WTOC",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkVRUVYycnlTZjI0ZFJvblNuM2lNa1duWFZybi1NYU5vTjd0d2VrU212emlXaUZEd3hXN0x4cXdiX1UtV0o1ZjhsQ0EzdEktcUVzUWg4clNXTm9IcXBxNlhiZnNtYXdMaG81amozOHJQZlVKTmFKV3RzVTFicXVjbjFyMEM5dw?oc=5\" target=\"_blank\">Early morning crash causes power outage in Rincon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+        "published_at": "2026-07-20T06:14:57+00:00",
+        "summary": "Georgia Power pledges to protect customer bills from data centers The Augusta Press",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSlE2eVJnQnZBWjRBMmJnNjBMVXg0cTdDSDc5NXdTME80QUd4ZTRON0N1bmdZaDF6ZzBmRkFvX2RKOXZXQkx5NlQ1QlQ0TmxGbExRci1vNEJpTjFEU0ZTalNudWZ4TWdSdHltUkxUZVhoV1lndDI5MmJ1cWlJMzlQcnp0QWpqVU5pb3hOXzVYMVE2OUdnenJFQkZR?oc=5\" target=\"_blank\">Georgia Power pledges to protect customer bills from data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Press</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-19T18:57:42+00:00"
+        "collected_at": "2026-07-20T06:40:58+00:00"
       }
     },
     {
