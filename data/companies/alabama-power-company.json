@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-20T13:53:23+00:00",
+  "last_updated": "2026-07-20T15:46:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 104,
+  "count": 105,
   "mentions": [
     {
       "id": "ca0ccb95708bb359",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-20T06:40:42+00:00"
+    },
+    {
+      "id": "4b23c5187ff85edd",
+      "title": "Fix coming for low-hanging wires blocking entrance to Gardendale business - WBRC",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEprZ0padExnRE9zU1d1MzQ0WFUtYmppUmx4bFlJNGFhdnpfOWJ5YXA2Ui1IbWxwa2ZDQVFQN3psUTZqUWhNdWxaNldSVE1oT1dfaTUzdlY0R0ZyYzhKdk16MXdXZF83ZEtFTS1LdlpqTi11LXdyb1dLMVVBTXhwUDVWNWZTSmtmVkJRVDRQOThMdTdIbnUwbUVpWVktMUY4THRxb3djWnVjQlRNU2tGNGN1QmPSAbQBQVVfeXFMTmRKa2dKWnRMZ0RPc1NXdTM0NFhVLWJqaVJseGxZSTRhYXZ6XzlieWFwNlItSG1scGtmQ0FRUDd6bFE2alFoTXVsWjZXUlRNaE9XX2k1M3ZWNEdGcmM4SnZNejF3V2RfN2RLRU0tS3Zaak4tdS13cm9XSzFVQU14cFA1VjVmU0prZlZCUVQ0UDk4THU3SG51MG1FaVlZLTFGOEx0cW93Y1p1Y0JUTVNrRjRjdUJj?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC",
+      "language": "English",
+      "published_at": "2026-07-20T03:56:00+00:00",
+      "summary": "Fix coming for low-hanging wires blocking entrance to Gardendale business WBRC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEprZ0padExnRE9zU1d1MzQ0WFUtYmppUmx4bFlJNGFhdnpfOWJ5YXA2Ui1IbWxwa2ZDQVFQN3psUTZqUWhNdWxaNldSVE1oT1dfaTUzdlY0R0ZyYzhKdk16MXdXZF83ZEtFTS1LdlpqTi11LXdyb1dLMVVBTXhwUDVWNWZTSmtmVkJRVDRQOThMdTdIbnUwbUVpWVktMUY4THRxb3djWnVjQlRNU2tGNGN1QmPSAbQBQVVfeXFMTmRKa2dKWnRMZ0RPc1NXdTM0NFhVLWJqaVJseGxZSTRhYXZ6XzlieWFwNlItSG1scGtmQ0FRUDd6bFE2alFoTXVsWjZXUlRNaE9XX2k1M3ZWNEdGcmM4SnZNejF3V2RfN2RLRU0tS3Zaak4tdS13cm9XSzFVQU14cFA1VjVmU0prZlZCUVQ0UDk4THU3SG51MG1FaVlZLTFGOEx0cW93Y1p1Y0JUTVNrRjRjdUJj?oc=5\" target=\"_blank\">Fix coming for low-hanging wires blocking entrance to Gardendale business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-20T15:46:31+00:00"
     },
     {
       "id": "7acc8527579f4982",
