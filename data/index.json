@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T06:41:09+00:00",
+  "last_updated": "2026-07-20T10:45:39+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 231,
+      "count": 232,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "91bb41b37bbe20a4",
-        "title": "Georgia Power pledges to protect customer bills from data centers - The Augusta Press",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSlE2eVJnQnZBWjRBMmJnNjBMVXg0cTdDSDc5NXdTME80QUd4ZTRON0N1bmdZaDF6ZzBmRkFvX2RKOXZXQkx5NlQ1QlQ0TmxGbExRci1vNEJpTjFEU0ZTalNudWZ4TWdSdHltUkxUZVhoV1lndDI5MmJ1cWlJMzlQcnp0QWpqVU5pb3hOXzVYMVE2OUdnenJFQkZR?oc=5",
+        "id": "66760cf1212d3430",
+        "title": "Rollout of 2026 Georgia Power 100 begins with these 10 quarterbacks - AJC.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOE9Cc2ZQQkdWSERvdkh5VXJHaWg4MHlSYzY2elEtRzE0dzFJN1c0cjFMUXgtQWhqVEVjVkJkdXZIQUlOUy1pOTlSb1FaWGJBUGtSQVFkSWVjdUVhTGxHSXNLenMwU1pXMDJFbF9kV0tpZ1lGMVJvSzNOSzRqb1kwMzFJNGk1dkFsVDFjUmRNXy1CbTdtbEpiWFpVNEZtNnBLRENYTTdR?oc=5",
         "domain": "news.google.com",
-        "source": "The Augusta Press",
+        "source": "AJC.com",
         "language": "English",
-        "published_at": "2026-07-20T06:14:57+00:00",
-        "summary": "Georgia Power pledges to protect customer bills from data centers The Augusta Press",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSlE2eVJnQnZBWjRBMmJnNjBMVXg0cTdDSDc5NXdTME80QUd4ZTRON0N1bmdZaDF6ZzBmRkFvX2RKOXZXQkx5NlQ1QlQ0TmxGbExRci1vNEJpTjFEU0ZTalNudWZ4TWdSdHltUkxUZVhoV1lndDI5MmJ1cWlJMzlQcnp0QWpqVU5pb3hOXzVYMVE2OUdnenJFQkZR?oc=5\" target=\"_blank\">Georgia Power pledges to protect customer bills from data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Press</font>",
+        "published_at": "2026-07-20T09:32:47+00:00",
+        "summary": "Rollout of 2026 Georgia Power 100 begins with these 10 quarterbacks AJC.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPOE9Cc2ZQQkdWSERvdkh5VXJHaWg4MHlSYzY2elEtRzE0dzFJN1c0cjFMUXgtQWhqVEVjVkJkdXZIQUlOUy1pOTlSb1FaWGJBUGtSQVFkSWVjdUVhTGxHSXNLenMwU1pXMDJFbF9kV0tpZ1lGMVJvSzNOSzRqb1kwMzFJNGk1dkFsVDFjUmRNXy1CbTdtbEpiWFpVNEZtNnBLRENYTTdR?oc=5\" target=\"_blank\">Rollout of 2026 Georgia Power 100 begins with these 10 quarterbacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-20T06:40:58+00:00"
+        "collected_at": "2026-07-20T10:45:29+00:00"
       }
     },
     {
