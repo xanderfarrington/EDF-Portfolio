@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T19:36:59+00:00",
+  "last_updated": "2026-07-20T21:05:28+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 105,
-      "new_mentions_this_run": 11,
+      "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "ca0ccb95708bb359",
         "title": "Fix coming for low-hanging wires blocking entrance to Gadsden business - WBRC",
