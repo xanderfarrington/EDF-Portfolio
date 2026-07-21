@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T02:04:26+00:00",
+  "last_updated": "2026-07-21T06:23:58+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 105,
+      "count": 106,
       "new_mentions_this_run": 11,
       "latest_mention": {
-        "id": "ca0ccb95708bb359",
-        "title": "Fix coming for low-hanging wires blocking entrance to Gadsden business - WBRC",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYTlvbTJwa2Vja0RRZzMyUXRNc1pyc05XTVhhVEhYM0R1Z25YNG1nYjRIQU01MGFpZklIZVlFX1d5b0F1aXM1eFRQX3BSRlZGeVVCanFmSG9rNVZTcUxMaWcyRDZkbnRVUFBGcmIxR2ZNU0hnZXU5dl9aLTFlTW5ndzJGTEdFUUdhbWVIcU1zWG0xa2NRWWZoRU5Zd0tVVXplUFJEd012bHBwaWlpN0RGeNIBsAFBVV95cUxOYTlvbTJwa2Vja0RRZzMyUXRNc1pyc05XTVhhVEhYM0R1Z25YNG1nYjRIQU01MGFpZklIZVlFX1d5b0F1aXM1eFRQX3BSRlZGeVVCanFmSG9rNVZTcUxMaWcyRDZkbnRVUFBGcmIxR2ZNU0hnZXU5dl9aLTFlTW5ndzJGTEdFUUdhbWVIcU1zWG0xa2NRWWZoRU5Zd0tVVXplUFJEd012bHBwaWlpN0RGeA?oc=5",
+        "id": "d0a9ac52bb504164",
+        "title": "Alabama Power testing out unmanned drone - CBS 42",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HakwxVlNCbTVub0Jjdl82UWI1RVlEblU2a3NNR2kyTUhtY01CeDNkLVU1eldZX3Q1NmlSeXhReHY5aEp0SElTUHd0TlFWc2puN0hnSEM1SERfLW1ETURXSkIwMnVQWnJRcGFGU0hyM1VsS0VpeDFwVFJ3ZktzR2PSAYQBQVVfeXFMTkhMd0NLeENOMTAwRFNtTkgxT0xPVi0yM3NVdGdHZzQyUWNGei0zUTFVbGZvTGZ0WE5ZMU5uVUFDTDgwOW81OS1GSXRKZUFYN0w0WWhMT3B4T0N4Q0dETHBjUFJ5Rzl0VGNlTm5tWlk1OWFTZUctNC16cTRERVFaUDdoNU5R?oc=5",
         "domain": "news.google.com",
-        "source": "WBRC",
+        "source": "CBS 42",
         "language": "English",
-        "published_at": "2026-07-20T03:56:00+00:00",
-        "summary": "Fix coming for low-hanging wires blocking entrance to Gadsden business WBRC",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOYTlvbTJwa2Vja0RRZzMyUXRNc1pyc05XTVhhVEhYM0R1Z25YNG1nYjRIQU01MGFpZklIZVlFX1d5b0F1aXM1eFRQX3BSRlZGeVVCanFmSG9rNVZTcUxMaWcyRDZkbnRVUFBGcmIxR2ZNU0hnZXU5dl9aLTFlTW5ndzJGTEdFUUdhbWVIcU1zWG0xa2NRWWZoRU5Zd0tVVXplUFJEd012bHBwaWlpN0RGeNIBsAFBVV95cUxOYTlvbTJwa2Vja0RRZzMyUXRNc1pyc05XTVhhVEhYM0R1Z25YNG1nYjRIQU01MGFpZklIZVlFX1d5b0F1aXM1eFRQX3BSRlZGeVVCanFmSG9rNVZTcUxMaWcyRDZkbnRVUFBGcmIxR2ZNU0hnZXU5dl9aLTFlTW5ndzJGTEdFUUdhbWVIcU1zWG0xa2NRWWZoRU5Zd0tVVXplUFJEd012bHBwaWlpN0RGeA?oc=5\" target=\"_blank\">Fix coming for low-hanging wires blocking entrance to Gadsden business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC</font>",
+        "published_at": "2026-07-21T01:37:41+00:00",
+        "summary": "Alabama Power testing out unmanned drone CBS 42",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5HakwxVlNCbTVub0Jjdl82UWI1RVlEblU2a3NNR2kyTUhtY01CeDNkLVU1eldZX3Q1NmlSeXhReHY5aEp0SElTUHd0TlFWc2puN0hnSEM1SERfLW1ETURXSkIwMnVQWnJRcGFGU0hyM1VsS0VpeDFwVFJ3ZktzR2PSAYQBQVVfeXFMTkhMd0NLeENOMTAwRFNtTkgxT0xPVi0yM3NVdGdHZzQyUWNGei0zUTFVbGZvTGZ0WE5ZMU5uVUFDTDgwOW81OS1GSXRKZUFYN0w0WWhMT3B4T0N4Q0dETHBjUFJ5Rzl0VGNlTm5tWlk1OWFTZUctNC16cTRERVFaUDdoNU5R?oc=5\" target=\"_blank\">Alabama Power testing out unmanned drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS 42</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-20T06:40:42+00:00"
+        "collected_at": "2026-07-21T06:23:31+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 25,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 18,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",

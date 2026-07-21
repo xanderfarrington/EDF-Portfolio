@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-21T02:03:59+00:00",
+  "last_updated": "2026-07-21T06:23:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 105,
+  "count": 106,
   "mentions": [
+    {
+      "id": "d0a9ac52bb504164",
+      "title": "Alabama Power testing out unmanned drone - CBS 42",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HakwxVlNCbTVub0Jjdl82UWI1RVlEblU2a3NNR2kyTUhtY01CeDNkLVU1eldZX3Q1NmlSeXhReHY5aEp0SElTUHd0TlFWc2puN0hnSEM1SERfLW1ETURXSkIwMnVQWnJRcGFGU0hyM1VsS0VpeDFwVFJ3ZktzR2PSAYQBQVVfeXFMTkhMd0NLeENOMTAwRFNtTkgxT0xPVi0yM3NVdGdHZzQyUWNGei0zUTFVbGZvTGZ0WE5ZMU5uVUFDTDgwOW81OS1GSXRKZUFYN0w0WWhMT3B4T0N4Q0dETHBjUFJ5Rzl0VGNlTm5tWlk1OWFTZUctNC16cTRERVFaUDdoNU5R?oc=5",
+      "domain": "news.google.com",
+      "source": "CBS 42",
+      "language": "English",
+      "published_at": "2026-07-21T01:37:41+00:00",
+      "summary": "Alabama Power testing out unmanned drone CBS 42",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5HakwxVlNCbTVub0Jjdl82UWI1RVlEblU2a3NNR2kyTUhtY01CeDNkLVU1eldZX3Q1NmlSeXhReHY5aEp0SElTUHd0TlFWc2puN0hnSEM1SERfLW1ETURXSkIwMnVQWnJRcGFGU0hyM1VsS0VpeDFwVFJ3ZktzR2PSAYQBQVVfeXFMTkhMd0NLeENOMTAwRFNtTkgxT0xPVi0yM3NVdGdHZzQyUWNGei0zUTFVbGZvTGZ0WE5ZMU5uVUFDTDgwOW81OS1GSXRKZUFYN0w0WWhMT3B4T0N4Q0dETHBjUFJ5Rzl0VGNlTm5tWlk1OWFTZUctNC16cTRERVFaUDdoNU5R?oc=5\" target=\"_blank\">Alabama Power testing out unmanned drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS 42</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-21T06:23:31+00:00"
+    },
     {
       "id": "ca0ccb95708bb359",
       "title": "Fix coming for low-hanging wires blocking entrance to Gadsden business - WBRC",
