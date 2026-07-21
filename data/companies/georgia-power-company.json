@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-21T15:38:43+00:00",
+  "last_updated": "2026-07-21T17:10:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 233,
+  "count": 234,
   "mentions": [
     {
       "id": "127aea5c02b78dad",
@@ -369,6 +369,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-19T18:57:42+00:00"
+    },
+    {
+      "id": "d59caed96824372a",
+      "title": "Georgia Power releases statement on Plant Vogtle accounting error - WMBF",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0hNbEpFQlJLaDlsVkFlMnFWNjlVMHFRX0J3dlVrLUhaRDRrVGdrcDZLdmRCYkhON0lFUXdKeWxmTV95VW9aLUpILWttcVAtcnAtcUVOb0xvcTlNTlVYcHRvcXJaeWkyLTYwV0lfR2IyelEyVVJ2ZXVSWWk4Z2RWNGROdktQeUlyOVE0aG82a1VzaHR1VEdTN0h1ZkZzVXg5cTF4UW9yQl8?oc=5",
+      "domain": "news.google.com",
+      "source": "WMBF",
+      "language": "English",
+      "published_at": "2026-07-16T03:37:00+00:00",
+      "summary": "Georgia Power releases statement on Plant Vogtle accounting error WMBF",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0hNbEpFQlJLaDlsVkFlMnFWNjlVMHFRX0J3dlVrLUhaRDRrVGdrcDZLdmRCYkhON0lFUXdKeWxmTV95VW9aLUpILWttcVAtcnAtcUVOb0xvcTlNTlVYcHRvcXJaeWkyLTYwV0lfR2IyelEyVVJ2ZXVSWWk4Z2RWNGROdktQeUlyOVE0aG82a1VzaHR1VEdTN0h1ZkZzVXg5cTF4UW9yQl8?oc=5\" target=\"_blank\">Georgia Power releases statement on Plant Vogtle accounting error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WMBF</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-21T17:10:07+00:00"
     },
     {
       "id": "733f09b8b9aa5cd4",
