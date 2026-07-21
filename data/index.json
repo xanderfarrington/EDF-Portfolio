@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T21:00:59+00:00",
+  "last_updated": "2026-07-21T22:49:01+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 25,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
