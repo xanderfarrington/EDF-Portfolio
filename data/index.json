@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-21T10:20:52+00:00",
+  "last_updated": "2026-07-21T13:25:44+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 44,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "e987661a20953fbd",
         "title": "US25537AV3 Bond Profile — Key Metrics - TradingView",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 106,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "d0a9ac52bb504164",
         "title": "Alabama Power testing out unmanned drone - CBS 42",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 25,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 62,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 232,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "66760cf1212d3430",
         "title": "Rollout of 2026 Georgia Power 100 begins with these 10 quarterbacks - AJC.com",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 18,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",
