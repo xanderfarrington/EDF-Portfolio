@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T17:10:17+00:00",
+  "last_updated": "2026-07-21T19:10:03+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 108,
+      "count": 109,
       "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "7d8ad6facf0d2e64",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 18,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",

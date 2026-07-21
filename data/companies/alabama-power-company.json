@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-21T17:09:51+00:00",
+  "last_updated": "2026-07-21T19:09:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 108,
+  "count": 109,
   "mentions": [
     {
       "id": "7d8ad6facf0d2e64",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-21T15:38:26+00:00"
+    },
+    {
+      "id": "8326e8ed23df74fb",
+      "title": "Mobile traffic alert: Alabama Power repairing pole damaged by crash - WKRG",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY005bUNYeFlTeTg0WTM5ZGU0czRycWVVOEM0UzJTejRxZzV6cm14YXZwb1VVSzR2X3JJNE5xZjA2b1pYemlLRWlpRGxjdEdyQWxQZHFSXzJiTVhoZlVoeHVNTEtYal83bzlHTV9meXIwS0ZRS1JSZFh0UmctdnFvVng4UmkyeXhsMG53OGpwaUpTaWYxWmZNYTdESzRlRV8xVmZuMUFDVlZSQdIBqgFBVV95cUxNY005bUNYeFlTeTg0WTM5ZGU0czRycWVVOEM0UzJTejRxZzV6cm14YXZwb1VVSzR2X3JJNE5xZjA2b1pYemlLRWlpRGxjdEdyQWxQZHFSXzJiTVhoZlVoeHVNTEtYal83bzlHTV9meXIwS0ZRS1JSZFh0UmctdnFvVng4UmkyeXhsMG53OGpwaUpTaWYxWmZNYTdESzRlRV8xVmZuMUFDVlZSQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WKRG",
+      "language": "English",
+      "published_at": "2026-07-21T08:33:45+00:00",
+      "summary": "Mobile traffic alert: Alabama Power repairing pole damaged by crash WKRG",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY005bUNYeFlTeTg0WTM5ZGU0czRycWVVOEM0UzJTejRxZzV6cm14YXZwb1VVSzR2X3JJNE5xZjA2b1pYemlLRWlpRGxjdEdyQWxQZHFSXzJiTVhoZlVoeHVNTEtYal83bzlHTV9meXIwS0ZRS1JSZFh0UmctdnFvVng4UmkyeXhsMG53OGpwaUpTaWYxWmZNYTdESzRlRV8xVmZuMUFDVlZSQdIBqgFBVV95cUxNY005bUNYeFlTeTg0WTM5ZGU0czRycWVVOEM0UzJTejRxZzV6cm14YXZwb1VVSzR2X3JJNE5xZjA2b1pYemlLRWlpRGxjdEdyQWxQZHFSXzJiTVhoZlVoeHVNTEtYal83bzlHTV9meXIwS0ZRS1JSZFh0UmctdnFvVng4UmkyeXhsMG53OGpwaUpTaWYxWmZNYTdESzRlRV8xVmZuMUFDVlZSQQ?oc=5\" target=\"_blank\">Mobile traffic alert: Alabama Power repairing pole damaged by crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKRG</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-21T19:09:36+00:00"
     },
     {
       "id": "d0a9ac52bb504164",
