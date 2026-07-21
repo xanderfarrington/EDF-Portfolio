@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-21T13:25:28+00:00",
+  "last_updated": "2026-07-21T15:38:43+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 232,
+  "count": 233,
   "mentions": [
+    {
+      "id": "127aea5c02b78dad",
+      "title": "Georgia Power 100 running backs: State champion is also its highest-rated RB - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmNUbEF1aW5lb0YtLTkyc0ZZbmlKR3k4bFJ1U284Z1dYS0dKcnh3a0tIZlF2SzRzdWtnelc1WHZubGZYSnBGbUlZbUVqUjQzNGd5bXVQZkExRUZid25YWDljdm42QmxLOTZZMXlZTmtTNnZGazVFTHV1MGNuME1ONkdOWUxNQ25HclRfX241QmVkejVMampZbkpnemFRZ25keExya2s2RlF6cW8zUGlBRg?oc=5",
+      "domain": "news.google.com",
+      "source": "AJC.com",
+      "language": "English",
+      "published_at": "2026-07-21T09:01:48+00:00",
+      "summary": "Georgia Power 100 running backs: State champion is also its highest-rated RB AJC.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONmNUbEF1aW5lb0YtLTkyc0ZZbmlKR3k4bFJ1U284Z1dYS0dKcnh3a0tIZlF2SzRzdWtnelc1WHZubGZYSnBGbUlZbUVqUjQzNGd5bXVQZkExRUZid25YWDljdm42QmxLOTZZMXlZTmtTNnZGazVFTHV1MGNuME1ONkdOWUxNQ25HclRfX241QmVkejVMampZbkpnemFRZ25keExya2s2RlF6cW8zUGlBRg?oc=5\" target=\"_blank\">Georgia Power 100 running backs: State champion is also its highest-rated RB</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-21T15:38:43+00:00"
+    },
     {
       "id": "66760cf1212d3430",
       "title": "Rollout of 2026 Georgia Power 100 begins with these 10 quarterbacks - AJC.com",

@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-21T13:24:46+00:00",
+  "last_updated": "2026-07-21T15:38:26+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 106,
+  "count": 108,
   "mentions": [
+    {
+      "id": "7d8ad6facf0d2e64",
+      "title": "Mobile traffic alert: Alabama Power repairing pole damaged by crash - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEFFSExjNHJZQV9BQ2xYYk1Za1dFZHFXcllBaDhERFRDMHVVUjJRamRDTEhDeDlnSUFvMjM3OFBtdHc3RGJBdGRyUE1JUXdrMHU0Y2Rma1ppTktNbnRjaVQ4cWpoRnRZdmRIRzdJYTVwdzdscWNXVlRWeUtWaGlWdFFkVjN1SUNqeTdKanBR?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-07-21T13:33:45+00:00",
+      "summary": "Mobile traffic alert: Alabama Power repairing pole damaged by crash Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEFFSExjNHJZQV9BQ2xYYk1Za1dFZHFXcllBaDhERFRDMHVVUjJRamRDTEhDeDlnSUFvMjM3OFBtdHc3RGJBdGRyUE1JUXdrMHU0Y2Rma1ppTktNbnRjaVQ4cWpoRnRZdmRIRzdJYTVwdzdscWNXVlRWeUtWaGlWdFFkVjN1SUNqeTdKanBR?oc=5\" target=\"_blank\">Mobile traffic alert: Alabama Power repairing pole damaged by crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-21T15:38:26+00:00"
+    },
     {
       "id": "d0a9ac52bb504164",
       "title": "Alabama Power testing out unmanned drone - CBS 42",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-21T06:23:31+00:00"
+    },
+    {
+      "id": "71f26c7734bca195",
+      "title": "Alabama Power using drones - CBS 42",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ENklnX2Y4c1BMQ3Z1czhmbWZsWXM3cDFvWFRUZTRYcDVRTlBUNmlpN19zbGg1Q1RyN2w4U0puRnc2M2VESVZCNjVqMDBzNHd4aGd1SGpOOUY4OW5rSXJ3a1lPMHJNZlEza1dzYmN6ek9nQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "CBS 42",
+      "language": "English",
+      "published_at": "2026-07-20T23:21:28+00:00",
+      "summary": "Alabama Power using drones CBS 42",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9ENklnX2Y4c1BMQ3Z1czhmbWZsWXM3cDFvWFRUZTRYcDVRTlBUNmlpN19zbGg1Q1RyN2w4U0puRnc2M2VESVZCNjVqMDBzNHd4aGd1SGpOOUY4OW5rSXJ3a1lPMHJNZlEza1dzYmN6ek9nQQ?oc=5\" target=\"_blank\">Alabama Power using drones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS 42</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-21T15:38:26+00:00"
     },
     {
       "id": "ca0ccb95708bb359",
