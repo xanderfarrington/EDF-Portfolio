@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T19:10:03+00:00",
+  "last_updated": "2026-07-21T21:00:59+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 109,
-      "new_mentions_this_run": 10,
+      "count": 111,
+      "new_mentions_this_run": 12,
       "latest_mention": {
-        "id": "7d8ad6facf0d2e64",
-        "title": "Mobile traffic alert: Alabama Power repairing pole damaged by crash - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEFFSExjNHJZQV9BQ2xYYk1Za1dFZHFXcllBaDhERFRDMHVVUjJRamRDTEhDeDlnSUFvMjM3OFBtdHc3RGJBdGRyUE1JUXdrMHU0Y2Rma1ppTktNbnRjaVQ4cWpoRnRZdmRIRzdJYTVwdzdscWNXVlRWeUtWaGlWdFFkVjN1SUNqeTdKanBR?oc=5",
+        "id": "8261981163f8c938",
+        "title": "Alabama Power Highlights Free Recreation at Preserves - Wiregrass Daily News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWlIUDc4Z0l1Zm5lT2FUZ3M5RGhCaE9CTmxlVW1mY0dUcjR6N0c2MExycHUwR3NfMFJLYUpZVk4xaDhoNXRCeTJoV0dtb3loUUp5VktnVnd3bFhrajI0ZExVek5LOHZlMmtwSXN1LU9DeFBLdVhNMDRNSDlXbnZIdmhUTlNGZGVkMy1XaHhRT09GN3lia0dLWFd1c2IxS0xnSFhMX2h5b0R2eDJVdExn?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo",
+        "source": "Wiregrass Daily News",
         "language": "English",
-        "published_at": "2026-07-21T13:33:45+00:00",
-        "summary": "Mobile traffic alert: Alabama Power repairing pole damaged by crash Yahoo",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEFFSExjNHJZQV9BQ2xYYk1Za1dFZHFXcllBaDhERFRDMHVVUjJRamRDTEhDeDlnSUFvMjM3OFBtdHc3RGJBdGRyUE1JUXdrMHU0Y2Rma1ppTktNbnRjaVQ4cWpoRnRZdmRIRzdJYTVwdzdscWNXVlRWeUtWaGlWdFFkVjN1SUNqeTdKanBR?oc=5\" target=\"_blank\">Mobile traffic alert: Alabama Power repairing pole damaged by crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "published_at": "2026-07-21T19:48:28+00:00",
+        "summary": "Alabama Power Highlights Free Recreation at Preserves Wiregrass Daily News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWlIUDc4Z0l1Zm5lT2FUZ3M5RGhCaE9CTmxlVW1mY0dUcjR6N0c2MExycHUwR3NfMFJLYUpZVk4xaDhoNXRCeTJoV0dtb3loUUp5VktnVnd3bFhrajI0ZExVek5LOHZlMmtwSXN1LU9DeFBLdVhNMDRNSDlXbnZIdmhUTlNGZGVkMy1XaHhRT09GN3lia0dLWFd1c2IxS0xnSFhMX2h5b0R2eDJVdExn?oc=5\" target=\"_blank\">Alabama Power Highlights Free Recreation at Preserves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiregrass Daily News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-21T15:38:26+00:00"
+        "collected_at": "2026-07-21T21:00:32+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 25,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 234,
+      "count": 235,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "127aea5c02b78dad",

@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-21T19:09:36+00:00",
+  "last_updated": "2026-07-21T21:00:32+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 109,
+  "count": 111,
   "mentions": [
+    {
+      "id": "8261981163f8c938",
+      "title": "Alabama Power Highlights Free Recreation at Preserves - Wiregrass Daily News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWlIUDc4Z0l1Zm5lT2FUZ3M5RGhCaE9CTmxlVW1mY0dUcjR6N0c2MExycHUwR3NfMFJLYUpZVk4xaDhoNXRCeTJoV0dtb3loUUp5VktnVnd3bFhrajI0ZExVek5LOHZlMmtwSXN1LU9DeFBLdVhNMDRNSDlXbnZIdmhUTlNGZGVkMy1XaHhRT09GN3lia0dLWFd1c2IxS0xnSFhMX2h5b0R2eDJVdExn?oc=5",
+      "domain": "news.google.com",
+      "source": "Wiregrass Daily News",
+      "language": "English",
+      "published_at": "2026-07-21T19:48:28+00:00",
+      "summary": "Alabama Power Highlights Free Recreation at Preserves Wiregrass Daily News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWlIUDc4Z0l1Zm5lT2FUZ3M5RGhCaE9CTmxlVW1mY0dUcjR6N0c2MExycHUwR3NfMFJLYUpZVk4xaDhoNXRCeTJoV0dtb3loUUp5VktnVnd3bFhrajI0ZExVek5LOHZlMmtwSXN1LU9DeFBLdVhNMDRNSDlXbnZIdmhUTlNGZGVkMy1XaHhRT09GN3lia0dLWFd1c2IxS0xnSFhMX2h5b0R2eDJVdExn?oc=5\" target=\"_blank\">Alabama Power Highlights Free Recreation at Preserves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiregrass Daily News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-21T21:00:32+00:00"
+    },
     {
       "id": "7d8ad6facf0d2e64",
       "title": "Mobile traffic alert: Alabama Power repairing pole damaged by crash - Yahoo",
@@ -61,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-21T15:38:26+00:00"
+    },
+    {
+      "id": "e318fa8b1caa47d2",
+      "title": "Alabama Power using drones - WRBL",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45a3M0VjZqN1FIWTJMQ0x1YTlVUmtrWENFZXBNR0FBTU1pc1FYbDVtbnRJV2Vkc1NtRlNDbWhFUHZNMXhEd1RhcUtOYnFzeG9aUFZQTDhzR3R4WTJOTUItOVdDY1QwanNxSjBOWXVhQkM?oc=5",
+      "domain": "news.google.com",
+      "source": "WRBL",
+      "language": "English",
+      "published_at": "2026-07-20T23:21:28+00:00",
+      "summary": "Alabama Power using drones WRBL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE45a3M0VjZqN1FIWTJMQ0x1YTlVUmtrWENFZXBNR0FBTU1pc1FYbDVtbnRJV2Vkc1NtRlNDbWhFUHZNMXhEd1RhcUtOYnFzeG9aUFZQTDhzR3R4WTJOTUItOVdDY1QwanNxSjBOWXVhQkM?oc=5\" target=\"_blank\">Alabama Power using drones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRBL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-21T21:00:32+00:00"
     },
     {
       "id": "ca0ccb95708bb359",

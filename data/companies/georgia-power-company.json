@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-21T19:09:53+00:00",
+  "last_updated": "2026-07-21T21:00:49+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 234,
+  "count": 235,
   "mentions": [
     {
       "id": "127aea5c02b78dad",
@@ -173,6 +173,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-17T06:11:03+00:00"
+    },
+    {
+      "id": "a3f86f4f83ea992c",
+      "title": "Georgia Power pledges customers won’t pay for data center growth - WCTV",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMEhtMnFCaDlDbG1nQ0dQSVlXSk5fTzRHWXplMWNUNkVXSGFiallwVF9xOHUyLVF3allKclA3MmVRak5ETXdPOWdHLTNWcXh4STl4enAtajdMLU5VVVZ5WUlxdl9MSGtDNHdRalNJYTU5S0tPMGpnUmQxdjloLTN3U2M0Rm5acGRDVzU3bUxfclIzV2xQZXfSAaoBQVVfeXFMTjl3LVNwaHQ3d3ZQVDdzUjVzSGFoakhLaFF1Y1ZCQTEzOTVNVVpRNHNLUmZTRjd2SkhPTUpBVTd6dkFvS281RVZDTUhfRW5OQVBjU2JudXZ6M2QxUGVHbTU2d3FZQmZtUk5FT2EtcmQ5RUxBa1M1VjFqWHp6Q2xKdmFPWlF2YlJ0NUh6RkJWRi1aRHo4WVR1WXM5OTFsbmdSeWxGbkM0b0xseFE?oc=5",
+      "domain": "news.google.com",
+      "source": "WCTV",
+      "language": "English",
+      "published_at": "2026-07-16T22:19:00+00:00",
+      "summary": "Georgia Power pledges customers won’t pay for data center growth WCTV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQMEhtMnFCaDlDbG1nQ0dQSVlXSk5fTzRHWXplMWNUNkVXSGFiallwVF9xOHUyLVF3allKclA3MmVRak5ETXdPOWdHLTNWcXh4STl4enAtajdMLU5VVVZ5WUlxdl9MSGtDNHdRalNJYTU5S0tPMGpnUmQxdjloLTN3U2M0Rm5acGRDVzU3bUxfclIzV2xQZXfSAaoBQVVfeXFMTjl3LVNwaHQ3d3ZQVDdzUjVzSGFoakhLaFF1Y1ZCQTEzOTVNVVpRNHNLUmZTRjd2SkhPTUpBVTd6dkFvS281RVZDTUhfRW5OQVBjU2JudXZ6M2QxUGVHbTU2d3FZQmZtUk5FT2EtcmQ5RUxBa1M1VjFqWHp6Q2xKdmFPWlF2YlJ0NUh6RkJWRi1aRHo4WVR1WXM5OTFsbmdSeWxGbkM0b0xseFE?oc=5\" target=\"_blank\">Georgia Power pledges customers won’t pay for data center growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCTV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-21T21:00:49+00:00"
     },
     {
       "id": "2d4b43fce2a3697e",
