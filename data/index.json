@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T10:20:13+00:00",
+  "last_updated": "2026-07-22T13:29:11+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 113,
-      "new_mentions_this_run": 14,
+      "new_mentions_this_run": 13,
       "latest_mention": {
         "id": "8261981163f8c938",
         "title": "Alabama Power Highlights Free Recreation at Preserves - Wiregrass Daily News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 245,
+      "count": 249,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "f63b2ed8d7299014",
-        "title": "GA Power CEO touts lower rates as other states face strain | Column - The Augusta Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTzdHWlpHa2hkclcwNC11QWZldWtBcDR2Ri14Z3FnTm1mV2Z6M0hUY0ZtbjV0bTgtRkhNWnBULWdIM2xDU3RxYy1lY3pxYkZVM210a0taRHFMR1ljcXduYWRZejZuUnRxM1VRODdsOXRwUVhoYTZ2dHViWmFNM3ZhMU5ZWkkxWW5jLVI3bXYzOWxpTU9EZWJBczJNX0FVVlJPa2pHaURiSG1WenBBM01naUZEZkNNTERheWpldzhtLTRmaU5VRWRFRkdRemNaRW12ZUJYVXpyREtwQ25jaElROExxaHAxd1U?oc=5",
+        "id": "3b0da86990d8e096",
+        "title": "Georgia Power 100 wide receivers: South Georgia well represented in 10 best WRs - AJC.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPekFObTNxS1o4S0FzLU82ZHBMTl9Mekh3dTktcHZGZnRlS0RlbHVIampWY1NFdU1aQVpib2ozeHFyZkZYSWh0MUgtU2FuYVhkQkxLZGVZVmVZSGt1YmdyaUk1Y0UxWm92ZDQ5N2FhbEdjM0RydFQzRHlRX09PcFJpaFI2ZEg0MUk1Z2k5SnFSeEROOUtNNlMydDJlMlIzSXRWbTBJODhtVl9PUmp4TnZMVF94OHA?oc=5",
         "domain": "news.google.com",
-        "source": "The Augusta Chronicle",
+        "source": "AJC.com",
         "language": "English",
-        "published_at": "2026-07-22T08:02:00+00:00",
-        "summary": "GA Power CEO touts lower rates as other states face strain | Column The Augusta Chronicle",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTzdHWlpHa2hkclcwNC11QWZldWtBcDR2Ri14Z3FnTm1mV2Z6M0hUY0ZtbjV0bTgtRkhNWnBULWdIM2xDU3RxYy1lY3pxYkZVM210a0taRHFMR1ljcXduYWRZejZuUnRxM1VRODdsOXRwUVhoYTZ2dHViWmFNM3ZhMU5ZWkkxWW5jLVI3bXYzOWxpTU9EZWJBczJNX0FVVlJPa2pHaURiSG1WenBBM01naUZEZkNNTERheWpldzhtLTRmaU5VRWRFRkdRemNaRW12ZUJYVXpyREtwQ25jaElROExxaHAxd1U?oc=5\" target=\"_blank\">GA Power CEO touts lower rates as other states face strain | Column</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
+        "published_at": "2026-07-22T09:02:27+00:00",
+        "summary": "Georgia Power 100 wide receivers: South Georgia well represented in 10 best WRs AJC.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPekFObTNxS1o4S0FzLU82ZHBMTl9Mekh3dTktcHZGZnRlS0RlbHVIampWY1NFdU1aQVpib2ozeHFyZkZYSWh0MUgtU2FuYVhkQkxLZGVZVmVZSGt1YmdyaUk1Y0UxWm92ZDQ5N2FhbEdjM0RydFQzRHlRX09PcFJpaFI2ZEg0MUk1Z2k5SnFSeEROOUtNNlMydDJlMlIzSXRWbTBJODhtVl9PUmp4TnZMVF94OHA?oc=5\" target=\"_blank\">Georgia Power 100 wide receivers: South Georgia well represented in 10 best WRs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-22T10:20:03+00:00"
+        "collected_at": "2026-07-22T13:29:01+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 18,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",
