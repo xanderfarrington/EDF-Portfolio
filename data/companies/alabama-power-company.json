@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-22T02:02:21+00:00",
+  "last_updated": "2026-07-22T06:23:21+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 111,
+  "count": 113,
   "mentions": [
     {
       "id": "8261981163f8c938",
@@ -19,6 +19,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-21T21:00:32+00:00"
+    },
+    {
+      "id": "ed4173ffd495b172",
+      "title": "Alabama Power testing out unmanned drone - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQekt4SjNlakR4ZjRIQTdzd1NRT3pWQllPbWRsNHV0VzhBNW0xSldvdHRObFZnMXlsM2NWcUVqbUNnQkl6ekxaWmRlSzA2QzcxM2lmV2FfYkFMbkl6MnJvamc1M0UwX1VodjkzLThXcUkwbEgwamhOaDh4STBOZlVURk94WDVIWUE?oc=5",
+      "domain": "news.google.com",
+      "source": "AOL.com",
+      "language": "English",
+      "published_at": "2026-07-21T19:19:53+00:00",
+      "summary": "Alabama Power testing out unmanned drone AOL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQekt4SjNlakR4ZjRIQTdzd1NRT3pWQllPbWRsNHV0VzhBNW0xSldvdHRObFZnMXlsM2NWcUVqbUNnQkl6ekxaWmRlSzA2QzcxM2lmV2FfYkFMbkl6MnJvamc1M0UwX1VodjkzLThXcUkwbEgwamhOaDh4STBOZlVURk94WDVIWUE?oc=5\" target=\"_blank\">Alabama Power testing out unmanned drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-22T06:23:21+00:00"
+    },
+    {
+      "id": "db076f81b7239a1a",
+      "title": "Mobile traffic alert: Alabama Power repairing pole damaged by crash - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXBncjQwT0pDZkVZb0lFVm1MNnpaQjJJSFNEbVdzMjMxSzFlYnZZcHBGbzl4eGJPeHNYTHV4RWRlVFFKbUJIUUtjXzFWSFZuRjU2NGpyVWtMTlctZUxIcXBfcFlWZUczeVpxRzcwd0hFYzByMnV1TVdaeUY4SFQtYmYxamI?oc=5",
+      "domain": "news.google.com",
+      "source": "AOL.com",
+      "language": "English",
+      "published_at": "2026-07-21T15:42:30+00:00",
+      "summary": "Mobile traffic alert: Alabama Power repairing pole damaged by crash AOL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXBncjQwT0pDZkVZb0lFVm1MNnpaQjJJSFNEbVdzMjMxSzFlYnZZcHBGbzl4eGJPeHNYTHV4RWRlVFFKbUJIUUtjXzFWSFZuRjU2NGpyVWtMTlctZUxIcXBfcFlWZUczeVpxRzcwd0hFYzByMnV1TVdaeUY4SFQtYmYxamI?oc=5\" target=\"_blank\">Mobile traffic alert: Alabama Power repairing pole damaged by crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-22T06:23:21+00:00"
     },
     {
       "id": "7d8ad6facf0d2e64",

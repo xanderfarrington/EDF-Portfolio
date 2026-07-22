@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-22T02:02:37+00:00",
+  "last_updated": "2026-07-22T06:23:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 238,
+  "count": 241,
   "mentions": [
     {
       "id": "841e7d3eb1393d41",
@@ -439,6 +439,48 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-22T02:02:37+00:00"
+    },
+    {
+      "id": "d9631f142c7dbaa1",
+      "title": "Georgia Power releases statement on Plant Vogtle accounting error - KKTV",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb25ySXphUGFBQmcwelZ0NVBuMk0xV2VnS2h3LUhHQkI3cVBISkgzOFJ2V1pfYmFjY2VMb2t2ZFdtMU9FVDFLYUVRSENQWGJPVlktbFJ5LVRicXgwZVB0YTFndGgtaWtubnBuSzRHcloxc3puWV9EYUE2QzNxb0JfS2lKVzJWbGVlVGd3QVFuNHVibHNsTGtxNHlkWEFtbHVTVk5R?oc=5",
+      "domain": "news.google.com",
+      "source": "KKTV",
+      "language": "English",
+      "published_at": "2026-07-16T03:37:00+00:00",
+      "summary": "Georgia Power releases statement on Plant Vogtle accounting error KKTV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOb25ySXphUGFBQmcwelZ0NVBuMk0xV2VnS2h3LUhHQkI3cVBISkgzOFJ2V1pfYmFjY2VMb2t2ZFdtMU9FVDFLYUVRSENQWGJPVlktbFJ5LVRicXgwZVB0YTFndGgtaWtubnBuSzRHcloxc3puWV9EYUE2QzNxb0JfS2lKVzJWbGVlVGd3QVFuNHVibHNsTGtxNHlkWEFtbHVTVk5R?oc=5\" target=\"_blank\">Georgia Power releases statement on Plant Vogtle accounting error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KKTV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-22T06:23:37+00:00"
+    },
+    {
+      "id": "86e071f333279ebe",
+      "title": "Georgia Power releases statement on Plant Vogtle accounting error - Action News 5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGZsU29wVDlkR1kyMDVCMlJXQVl4aktIWjVVM1VubmtyNzNOcU44SENZdWRhTC00bm1STF9fMTBhMHJ4bFZLQkxRc2FSUVNuNmJzSHVqTV93UWZDTUxJZFB1Z3ZjV1NEUXI3SkhjMkFFM2dNTm9jX01vZldpVE5CbUd5NGJHdE1GWjBRdzBVaHJqTVpodVVnSWJQN3o1d1VrcGFiT1dZYUtWM0gy?oc=5",
+      "domain": "news.google.com",
+      "source": "Action News 5",
+      "language": "English",
+      "published_at": "2026-07-16T03:37:00+00:00",
+      "summary": "Georgia Power releases statement on Plant Vogtle accounting error Action News 5",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGZsU29wVDlkR1kyMDVCMlJXQVl4aktIWjVVM1VubmtyNzNOcU44SENZdWRhTC00bm1STF9fMTBhMHJ4bFZLQkxRc2FSUVNuNmJzSHVqTV93UWZDTUxJZFB1Z3ZjV1NEUXI3SkhjMkFFM2dNTm9jX01vZldpVE5CbUd5NGJHdE1GWjBRdzBVaHJqTVpodVVnSWJQN3o1d1VrcGFiT1dZYUtWM0gy?oc=5\" target=\"_blank\">Georgia Power releases statement on Plant Vogtle accounting error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Action News 5</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-22T06:23:37+00:00"
+    },
+    {
+      "id": "675c281146a94f04",
+      "title": "Georgia Power releases statement on Plant Vogtle accounting error - KOLO | 8 News Now",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkxvYlVVaXVHYU0ycDJWeEFMUlFMSzRLTDU3T0lRSzM3QVBOYk9RSGVtd2FFbThlRzBjUVNYQ0VtRDhBTHljTUV4ZDl0a1FoWkt4UlZYX1hDcTJ3UVliRXZVRXpQaE1jczJ6RmpZT2tvUWRmZFNod1hCOFhkRWJEaWZVUk9ZT1RETlEzUFVoQzA1LVFpb2c3VXlKbnBPOUtxZDlhTmlR?oc=5",
+      "domain": "news.google.com",
+      "source": "KOLO | 8 News Now",
+      "language": "English",
+      "published_at": "2026-07-16T03:37:00+00:00",
+      "summary": "Georgia Power releases statement on Plant Vogtle accounting error KOLO | 8 News Now",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkxvYlVVaXVHYU0ycDJWeEFMUlFMSzRLTDU3T0lRSzM3QVBOYk9RSGVtd2FFbThlRzBjUVNYQ0VtRDhBTHljTUV4ZDl0a1FoWkt4UlZYX1hDcTJ3UVliRXZVRXpQaE1jczJ6RmpZT2tvUWRmZFNod1hCOFhkRWJEaWZVUk9ZT1RETlEzUFVoQzA1LVFpb2c3VXlKbnBPOUtxZDlhTmlR?oc=5\" target=\"_blank\">Georgia Power releases statement on Plant Vogtle accounting error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOLO | 8 News Now</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-22T06:23:37+00:00"
     },
     {
       "id": "733f09b8b9aa5cd4",

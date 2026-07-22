@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T02:02:47+00:00",
+  "last_updated": "2026-07-22T06:23:48+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 111,
-      "new_mentions_this_run": 12,
+      "count": 113,
+      "new_mentions_this_run": 14,
       "latest_mention": {
         "id": "8261981163f8c938",
         "title": "Alabama Power Highlights Free Recreation at Preserves - Wiregrass Daily News",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 25,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 238,
+      "count": 241,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "841e7d3eb1393d41",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 18,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",
