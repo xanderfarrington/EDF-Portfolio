@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-22T15:28:01+00:00",
+  "last_updated": "2026-07-22T17:10:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 254,
+  "count": 256,
   "mentions": [
+    {
+      "id": "9f6a9d2fc864a40e",
+      "title": "Georgia Power releases statement on plans for OpenAI data center in Effingham County - WJCL",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1TkZoaHBpMUdCeFFkbjV2T01vdUFJa19rNzhiY2VlU245eGpqb3cwOXJSWllraW5pZ3N3NWRoc3czbktJTUN5Q0VpeWRfVzA2QkNuNjdHMXBkN2VYeThPQjg5Ykdmcm5SZm5TbGxmOGNVaDktcDdMLVgwTm80dw?oc=5",
+      "domain": "news.google.com",
+      "source": "WJCL",
+      "language": "English",
+      "published_at": "2026-07-22T15:44:00+00:00",
+      "summary": "Georgia Power releases statement on plans for OpenAI data center in Effingham County WJCL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB1TkZoaHBpMUdCeFFkbjV2T01vdUFJa19rNzhiY2VlU245eGpqb3cwOXJSWllraW5pZ3N3NWRoc3czbktJTUN5Q0VpeWRfVzA2QkNuNjdHMXBkN2VYeThPQjg5Ykdmcm5SZm5TbGxmOGNVaDktcDdMLVgwTm80dw?oc=5\" target=\"_blank\">Georgia Power releases statement on plans for OpenAI data center in Effingham County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJCL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-22T17:10:40+00:00"
+    },
     {
       "id": "f3d4bbec111ab278",
       "title": "OpenAI plans massive data center facility with Georgia Power, development to start in 2028 - WSB-TV",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-22T15:28:01+00:00"
+    },
+    {
+      "id": "0061db5e5e85d66f",
+      "title": "OpenAI plans massive data center facility with Georgia Power, development to start in 2028 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObW83THluc01jWjZpMmFobG9paGdITERmc3JUcmpOWUZ2bC13eGFRWDNQeDM0b1FwTkJkRUdqQ2FjVldjdnlqU1YzZ2hzeTBvMzFWelZLNWhhMHg1QjZZVHZUVjE1WmFlS1lTQ2ZoZGlvakpqN21pdmljaXR5R2E1Tk9WSEFjc1ROb2pZNVM5NHFTeFMzQTJNZXhCS2s?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-07-22T15:07:54+00:00",
+      "summary": "OpenAI plans massive data center facility with Georgia Power, development to start in 2028 Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxObW83THluc01jWjZpMmFobG9paGdITERmc3JUcmpOWUZ2bC13eGFRWDNQeDM0b1FwTkJkRUdqQ2FjVldjdnlqU1YzZ2hzeTBvMzFWelZLNWhhMHg1QjZZVHZUVjE1WmFlS1lTQ2ZoZGlvakpqN21pdmljaXR5R2E1Tk9WSEFjc1ROb2pZNVM5NHFTeFMzQTJNZXhCS2s?oc=5\" target=\"_blank\">OpenAI plans massive data center facility with Georgia Power, development to start in 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-22T17:10:40+00:00"
     },
     {
       "id": "e126f529f111d255",

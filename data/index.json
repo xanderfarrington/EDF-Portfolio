@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T15:28:17+00:00",
+  "last_updated": "2026-07-22T17:10:50+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 254,
+      "count": 256,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "f3d4bbec111ab278",
-        "title": "OpenAI plans massive data center facility with Georgia Power, development to start in 2028 - WSB-TV",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa0ZZY2x3X21qTUNZeFFSTEp5ZVNRS3pzRTBKYmJqYXpNbDRYQUQ4d0xIMTFaVks3Q2dUdFVGcWw2T0NVNlMzUnhzaVBwRHRPOVRESEtZYzdXMDQ4R2k3dDZKNnRWZmJtb1F0cEotNm1pWFJXRUhFWjg0SUxTODJ1M3FjcXRYRVhQR1o2TDZQbmlha2MyVEp3SVdEV0RVVGJBcmE3Y2cxNHRlOW1LOS1xNF9RX3RwcU5GTlZYMzdOUm5RQzlaRnk5dFdfdUxqYTVNNGFpQzBnUWNyUWdm0gHwAUFVX3lxTE1FYjFuc2lYY2VXRlY0UUU0by1hdG5mMzNoUlF5cEZTOGpORkNadTgwS3FpdHV2MXZ0TmI5RHI0QjJHZUNVTWFPenpDN2ltV3pWaEllMmQxS3dkeHlSeUFpQjQzM2hDTjVrS1ZEeWhYQXJqSUY1LTN5cnBBeHJlSkpxMU1MZGVHaWtXOWpyaWdfRGpnYlhSQ053Q2VLdzdDRmpHY2UzSjl4Y2tiR0RJaGNNSmJsX2F2aGthbjdaZFlYa3I2bmQ5MzVrazktVzdrWkUwSk5USVpmamlXU1lESW5tRDV0ZGltTVdJX2JlUUdaTw?oc=5",
+        "id": "9f6a9d2fc864a40e",
+        "title": "Georgia Power releases statement on plans for OpenAI data center in Effingham County - WJCL",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1TkZoaHBpMUdCeFFkbjV2T01vdUFJa19rNzhiY2VlU245eGpqb3cwOXJSWllraW5pZ3N3NWRoc3czbktJTUN5Q0VpeWRfVzA2QkNuNjdHMXBkN2VYeThPQjg5Ykdmcm5SZm5TbGxmOGNVaDktcDdMLVgwTm80dw?oc=5",
         "domain": "news.google.com",
-        "source": "WSB-TV",
+        "source": "WJCL",
         "language": "English",
-        "published_at": "2026-07-22T15:07:54+00:00",
-        "summary": "OpenAI plans massive data center facility with Georgia Power, development to start in 2028 WSB-TV",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa0ZZY2x3X21qTUNZeFFSTEp5ZVNRS3pzRTBKYmJqYXpNbDRYQUQ4d0xIMTFaVks3Q2dUdFVGcWw2T0NVNlMzUnhzaVBwRHRPOVRESEtZYzdXMDQ4R2k3dDZKNnRWZmJtb1F0cEotNm1pWFJXRUhFWjg0SUxTODJ1M3FjcXRYRVhQR1o2TDZQbmlha2MyVEp3SVdEV0RVVGJBcmE3Y2cxNHRlOW1LOS1xNF9RX3RwcU5GTlZYMzdOUm5RQzlaRnk5dFdfdUxqYTVNNGFpQzBnUWNyUWdm0gHwAUFVX3lxTE1FYjFuc2lYY2VXRlY0UUU0by1hdG5mMzNoUlF5cEZTOGpORkNadTgwS3FpdHV2MXZ0TmI5RHI0QjJHZUNVTWFPenpDN2ltV3pWaEllMmQxS3dkeHlSeUFpQjQzM2hDTjVrS1ZEeWhYQXJqSUY1LTN5cnBBeHJlSkpxMU1MZGVHaWtXOWpyaWdfRGpnYlhSQ053Q2VLdzdDRmpHY2UzSjl4Y2tiR0RJaGNNSmJsX2F2aGthbjdaZFlYa3I2bmQ5MzVrazktVzdrWkUwSk5USVpmamlXU1lESW5tRDV0ZGltTVdJX2JlUUdaTw?oc=5\" target=\"_blank\">OpenAI plans massive data center facility with Georgia Power, development to start in 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "published_at": "2026-07-22T15:44:00+00:00",
+        "summary": "Georgia Power releases statement on plans for OpenAI data center in Effingham County WJCL",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB1TkZoaHBpMUdCeFFkbjV2T01vdUFJa19rNzhiY2VlU245eGpqb3cwOXJSWllraW5pZ3N3NWRoc3czbktJTUN5Q0VpeWRfVzA2QkNuNjdHMXBkN2VYeThPQjg5Ykdmcm5SZm5TbGxmOGNVaDktcDdMLVgwTm80dw?oc=5\" target=\"_blank\">Georgia Power releases statement on plans for OpenAI data center in Effingham County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJCL</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-22T15:28:01+00:00"
+        "collected_at": "2026-07-22T17:10:40+00:00"
       }
     },
     {
