@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T13:29:11+00:00",
+  "last_updated": "2026-07-22T15:28:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 113,
-      "new_mentions_this_run": 13,
+      "count": 114,
+      "new_mentions_this_run": 14,
       "latest_mention": {
-        "id": "8261981163f8c938",
-        "title": "Alabama Power Highlights Free Recreation at Preserves - Wiregrass Daily News",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWlIUDc4Z0l1Zm5lT2FUZ3M5RGhCaE9CTmxlVW1mY0dUcjR6N0c2MExycHUwR3NfMFJLYUpZVk4xaDhoNXRCeTJoV0dtb3loUUp5VktnVnd3bFhrajI0ZExVek5LOHZlMmtwSXN1LU9DeFBLdVhNMDRNSDlXbnZIdmhUTlNGZGVkMy1XaHhRT09GN3lia0dLWFd1c2IxS0xnSFhMX2h5b0R2eDJVdExn?oc=5",
+        "id": "19a1fe74987af075",
+        "title": "Alabama Power program predicts power outages before they happen - WVUA 23",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOTlXZ3pCT2Zpd0lleHV5N0RtNzJCdFNXaUp0YUxZa1Y5elVlcExFV1hTSUxEc3pNWG9pN2t2ekJYZkZlVXZib0Q3Skp6MjBOZWwwTHVDak52aEhoUGdCUVQ0NjZ5RTAyaFhLanVPekZGdkRHOXZtaVRvVmZpZ1FEb3ZEMlJVQ2JuRXZpR3BzdERwMmVhazg4Y1dVR0d1dkt0QnZTWnVPejZGcURiMXJOR0hxQ2tlcDJzWVphN3lhQlRnSXZPMmNGM2xrTHdiajRNRjctZGg3WmY?oc=5",
         "domain": "news.google.com",
-        "source": "Wiregrass Daily News",
+        "source": "WVUA 23",
         "language": "English",
-        "published_at": "2026-07-21T19:48:28+00:00",
-        "summary": "Alabama Power Highlights Free Recreation at Preserves Wiregrass Daily News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWlIUDc4Z0l1Zm5lT2FUZ3M5RGhCaE9CTmxlVW1mY0dUcjR6N0c2MExycHUwR3NfMFJLYUpZVk4xaDhoNXRCeTJoV0dtb3loUUp5VktnVnd3bFhrajI0ZExVek5LOHZlMmtwSXN1LU9DeFBLdVhNMDRNSDlXbnZIdmhUTlNGZGVkMy1XaHhRT09GN3lia0dLWFd1c2IxS0xnSFhMX2h5b0R2eDJVdExn?oc=5\" target=\"_blank\">Alabama Power Highlights Free Recreation at Preserves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiregrass Daily News</font>",
+        "published_at": "2026-07-21T21:31:00+00:00",
+        "summary": "Alabama Power program predicts power outages before they happen WVUA 23",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOTlXZ3pCT2Zpd0lleHV5N0RtNzJCdFNXaUp0YUxZa1Y5elVlcExFV1hTSUxEc3pNWG9pN2t2ekJYZkZlVXZib0Q3Skp6MjBOZWwwTHVDak52aEhoUGdCUVQ0NjZ5RTAyaFhLanVPekZGdkRHOXZtaVRvVmZpZ1FEb3ZEMlJVQ2JuRXZpR3BzdERwMmVhazg4Y1dVR0d1dkt0QnZTWnVPejZGcURiMXJOR0hxQ2tlcDJzWVphN3lhQlRnSXZPMmNGM2xrTHdiajRNRjctZGg3WmY?oc=5\" target=\"_blank\">Alabama Power program predicts power outages before they happen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVUA 23</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-21T21:00:32+00:00"
+        "collected_at": "2026-07-22T15:27:45+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 249,
+      "count": 254,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "3b0da86990d8e096",
-        "title": "Georgia Power 100 wide receivers: South Georgia well represented in 10 best WRs - AJC.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPekFObTNxS1o4S0FzLU82ZHBMTl9Mekh3dTktcHZGZnRlS0RlbHVIampWY1NFdU1aQVpib2ozeHFyZkZYSWh0MUgtU2FuYVhkQkxLZGVZVmVZSGt1YmdyaUk1Y0UxWm92ZDQ5N2FhbEdjM0RydFQzRHlRX09PcFJpaFI2ZEg0MUk1Z2k5SnFSeEROOUtNNlMydDJlMlIzSXRWbTBJODhtVl9PUmp4TnZMVF94OHA?oc=5",
+        "id": "f3d4bbec111ab278",
+        "title": "OpenAI plans massive data center facility with Georgia Power, development to start in 2028 - WSB-TV",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa0ZZY2x3X21qTUNZeFFSTEp5ZVNRS3pzRTBKYmJqYXpNbDRYQUQ4d0xIMTFaVks3Q2dUdFVGcWw2T0NVNlMzUnhzaVBwRHRPOVRESEtZYzdXMDQ4R2k3dDZKNnRWZmJtb1F0cEotNm1pWFJXRUhFWjg0SUxTODJ1M3FjcXRYRVhQR1o2TDZQbmlha2MyVEp3SVdEV0RVVGJBcmE3Y2cxNHRlOW1LOS1xNF9RX3RwcU5GTlZYMzdOUm5RQzlaRnk5dFdfdUxqYTVNNGFpQzBnUWNyUWdm0gHwAUFVX3lxTE1FYjFuc2lYY2VXRlY0UUU0by1hdG5mMzNoUlF5cEZTOGpORkNadTgwS3FpdHV2MXZ0TmI5RHI0QjJHZUNVTWFPenpDN2ltV3pWaEllMmQxS3dkeHlSeUFpQjQzM2hDTjVrS1ZEeWhYQXJqSUY1LTN5cnBBeHJlSkpxMU1MZGVHaWtXOWpyaWdfRGpnYlhSQ053Q2VLdzdDRmpHY2UzSjl4Y2tiR0RJaGNNSmJsX2F2aGthbjdaZFlYa3I2bmQ5MzVrazktVzdrWkUwSk5USVpmamlXU1lESW5tRDV0ZGltTVdJX2JlUUdaTw?oc=5",
         "domain": "news.google.com",
-        "source": "AJC.com",
+        "source": "WSB-TV",
         "language": "English",
-        "published_at": "2026-07-22T09:02:27+00:00",
-        "summary": "Georgia Power 100 wide receivers: South Georgia well represented in 10 best WRs AJC.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPekFObTNxS1o4S0FzLU82ZHBMTl9Mekh3dTktcHZGZnRlS0RlbHVIampWY1NFdU1aQVpib2ozeHFyZkZYSWh0MUgtU2FuYVhkQkxLZGVZVmVZSGt1YmdyaUk1Y0UxWm92ZDQ5N2FhbEdjM0RydFQzRHlRX09PcFJpaFI2ZEg0MUk1Z2k5SnFSeEROOUtNNlMydDJlMlIzSXRWbTBJODhtVl9PUmp4TnZMVF94OHA?oc=5\" target=\"_blank\">Georgia Power 100 wide receivers: South Georgia well represented in 10 best WRs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+        "published_at": "2026-07-22T15:07:54+00:00",
+        "summary": "OpenAI plans massive data center facility with Georgia Power, development to start in 2028 WSB-TV",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa0ZZY2x3X21qTUNZeFFSTEp5ZVNRS3pzRTBKYmJqYXpNbDRYQUQ4d0xIMTFaVks3Q2dUdFVGcWw2T0NVNlMzUnhzaVBwRHRPOVRESEtZYzdXMDQ4R2k3dDZKNnRWZmJtb1F0cEotNm1pWFJXRUhFWjg0SUxTODJ1M3FjcXRYRVhQR1o2TDZQbmlha2MyVEp3SVdEV0RVVGJBcmE3Y2cxNHRlOW1LOS1xNF9RX3RwcU5GTlZYMzdOUm5RQzlaRnk5dFdfdUxqYTVNNGFpQzBnUWNyUWdm0gHwAUFVX3lxTE1FYjFuc2lYY2VXRlY0UUU0by1hdG5mMzNoUlF5cEZTOGpORkNadTgwS3FpdHV2MXZ0TmI5RHI0QjJHZUNVTWFPenpDN2ltV3pWaEllMmQxS3dkeHlSeUFpQjQzM2hDTjVrS1ZEeWhYQXJqSUY1LTN5cnBBeHJlSkpxMU1MZGVHaWtXOWpyaWdfRGpnYlhSQ053Q2VLdzdDRmpHY2UzSjl4Y2tiR0RJaGNNSmJsX2F2aGthbjdaZFlYa3I2bmQ5MzVrazktVzdrWkUwSk5USVpmamlXU1lESW5tRDV0ZGltTVdJX2JlUUdaTw?oc=5\" target=\"_blank\">OpenAI plans massive data center facility with Georgia Power, development to start in 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-22T13:29:01+00:00"
+        "collected_at": "2026-07-22T15:28:01+00:00"
       }
     },
     {

@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-22T13:28:44+00:00",
+  "last_updated": "2026-07-22T15:27:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 113,
+  "count": 114,
   "mentions": [
+    {
+      "id": "19a1fe74987af075",
+      "title": "Alabama Power program predicts power outages before they happen - WVUA 23",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOTlXZ3pCT2Zpd0lleHV5N0RtNzJCdFNXaUp0YUxZa1Y5elVlcExFV1hTSUxEc3pNWG9pN2t2ekJYZkZlVXZib0Q3Skp6MjBOZWwwTHVDak52aEhoUGdCUVQ0NjZ5RTAyaFhLanVPekZGdkRHOXZtaVRvVmZpZ1FEb3ZEMlJVQ2JuRXZpR3BzdERwMmVhazg4Y1dVR0d1dkt0QnZTWnVPejZGcURiMXJOR0hxQ2tlcDJzWVphN3lhQlRnSXZPMmNGM2xrTHdiajRNRjctZGg3WmY?oc=5",
+      "domain": "news.google.com",
+      "source": "WVUA 23",
+      "language": "English",
+      "published_at": "2026-07-21T21:31:00+00:00",
+      "summary": "Alabama Power program predicts power outages before they happen WVUA 23",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOTlXZ3pCT2Zpd0lleHV5N0RtNzJCdFNXaUp0YUxZa1Y5elVlcExFV1hTSUxEc3pNWG9pN2t2ekJYZkZlVXZib0Q3Skp6MjBOZWwwTHVDak52aEhoUGdCUVQ0NjZ5RTAyaFhLanVPekZGdkRHOXZtaVRvVmZpZ1FEb3ZEMlJVQ2JuRXZpR3BzdERwMmVhazg4Y1dVR0d1dkt0QnZTWnVPejZGcURiMXJOR0hxQ2tlcDJzWVphN3lhQlRnSXZPMmNGM2xrTHdiajRNRjctZGg3WmY?oc=5\" target=\"_blank\">Alabama Power program predicts power outages before they happen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVUA 23</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-22T15:27:45+00:00"
+    },
     {
       "id": "8261981163f8c938",
       "title": "Alabama Power Highlights Free Recreation at Preserves - Wiregrass Daily News",
