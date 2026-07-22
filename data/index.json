@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T21:09:09+00:00",
+  "last_updated": "2026-07-22T22:56:39+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 114,
-      "new_mentions_this_run": 14,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "19a1fe74987af075",
         "title": "Alabama Power program predicts power outages before they happen - WVUA 23",
