@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-22T17:10:40+00:00",
+  "last_updated": "2026-07-22T19:03:53+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 256,
+  "count": 257,
   "mentions": [
     {
       "id": "9f6a9d2fc864a40e",
@@ -103,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-22T15:28:01+00:00"
+    },
+    {
+      "id": "2e3343e38f9f9dea",
+      "title": "Georgia Power working with OpenAI on new Effingham County project - WSAV-TV",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWJmZ0pubGh3UmM5azVJMUJIN3ptanhPa0dTNWh4ZmNtSUlDdVBELURzVVQycE0xUXdDcHZlUW42MWdldUx2bzlGRjJGNml4dlJvRlJTY0hPZ3p4YmdURFpJM3lKQXl2eGh6X0lBc295aEM0c1JCcWhJZmdmWUUxVzFfYjg3aVF1VHJaZ2x1dEh0OGVJemluTGJIa3RyM2hWU1Q0WmRncW43WTjSAasBQVVfeXFMTUFiZmdKbmxod1JjOWs1STFCSDd6bWp4T2tHUzVoeGZjbUlJQ3VQRC1Ec1VUMnBNMVF3Q3B2ZVFuNjFnZXVMdm85RkYyRjZpeHZSb0ZSU2NIT2d6eGJnVERaSTN5SkF5dnhoel9JQXNveWhDNHNSQnFoSWZnZllFMVcxX2I4N2lRdVRyWmdsdXRIdDhlSXppbkxiSGt0cjNoVlNUNFpkZ3FuN1k4?oc=5",
+      "domain": "news.google.com",
+      "source": "WSAV-TV",
+      "language": "English",
+      "published_at": "2026-07-22T10:43:15+00:00",
+      "summary": "Georgia Power working with OpenAI on new Effingham County project WSAV-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWJmZ0pubGh3UmM5azVJMUJIN3ptanhPa0dTNWh4ZmNtSUlDdVBELURzVVQycE0xUXdDcHZlUW42MWdldUx2bzlGRjJGNml4dlJvRlJTY0hPZ3p4YmdURFpJM3lKQXl2eGh6X0lBc295aEM0c1JCcWhJZmdmWUUxVzFfYjg3aVF1VHJaZ2x1dEh0OGVJemluTGJIa3RyM2hWU1Q0WmRncW43WTjSAasBQVVfeXFMTUFiZmdKbmxod1JjOWs1STFCSDd6bWp4T2tHUzVoeGZjbUlJQ3VQRC1Ec1VUMnBNMVF3Q3B2ZVFuNjFnZXVMdm85RkYyRjZpeHZSb0ZSU2NIT2d6eGJnVERaSTN5SkF5dnhoel9JQXNveWhDNHNSQnFoSWZnZllFMVcxX2I4N2lRdVRyWmdsdXRIdDhlSXppbkxiSGt0cjNoVlNUNFpkZ3FuN1k4?oc=5\" target=\"_blank\">Georgia Power working with OpenAI on new Effingham County project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAV-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-22T19:03:53+00:00"
     },
     {
       "id": "3b0da86990d8e096",
