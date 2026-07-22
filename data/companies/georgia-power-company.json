@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-21T22:48:50+00:00",
+  "last_updated": "2026-07-22T02:02:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 235,
+  "count": 238,
   "mentions": [
+    {
+      "id": "841e7d3eb1393d41",
+      "title": "Georgia Power introduces six-point pledge, says data centers will ‘pay their way’ - Early County News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTdhTll5QWNTTHZUUnVScXNQdjgwTVBsMmNpd2VLUExQSlQ4U2E5dUMtbDJvLWotSGk1RmhoSXljbmRZQ243Ym16eXJENGR2Q3hFZEVHSmFrV3h3T0wwQ3lnNkxtZV9nQ0xRNzVnMjZLdlFHcU5FcjIwSnZieWc1dXlqRGo1cS1pRDdTVzVDemMwOEktZDhyZ2tKNlUtUjYwN2VkX194NVBjREZGcWlEaU0tNW9qdXZUcXptVA?oc=5",
+      "domain": "news.google.com",
+      "source": "Early County News",
+      "language": "English",
+      "published_at": "2026-07-22T00:03:11+00:00",
+      "summary": "Georgia Power introduces six-point pledge, says data centers will ‘pay their way’ Early County News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTdhTll5QWNTTHZUUnVScXNQdjgwTVBsMmNpd2VLUExQSlQ4U2E5dUMtbDJvLWotSGk1RmhoSXljbmRZQ243Ym16eXJENGR2Q3hFZEVHSmFrV3h3T0wwQ3lnNkxtZV9nQ0xRNzVnMjZLdlFHcU5FcjIwSnZieWc1dXlqRGo1cS1pRDdTVzVDemMwOEktZDhyZ2tKNlUtUjYwN2VkX194NVBjREZGcWlEaU0tNW9qdXZUcXptVA?oc=5\" target=\"_blank\">Georgia Power introduces six-point pledge, says data centers will ‘pay their way’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Early County News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-22T02:02:37+00:00"
+    },
+    {
+      "id": "e50d9d7af186c6c0",
+      "title": "Georgia Power Unveils Six-Point Customer Protection Pledge Amid State’s Rapid Growth - Discover Dade",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzQtRWFxMkJtX1lZd2NQc1J1bDV2MTRaUTRPQkRsWldQYVRsOEFqSnQ4TVFxNVdEVWFDcFhkbDlEYjNzQ0tIZEJOYWY5TGo1Z3hYS2p1VmxueFg5SFNINTY4Y0hTVm5YLVp5Ykt0aFc5X1dtTnhzaVg5N3pOYmwtTUx2TFNkNjNEODhaXzNxSWxXRHhFd3p6TlJ3?oc=5",
+      "domain": "news.google.com",
+      "source": "Discover Dade",
+      "language": "English",
+      "published_at": "2026-07-22T00:00:40+00:00",
+      "summary": "Georgia Power Unveils Six-Point Customer Protection Pledge Amid State’s Rapid Growth Discover Dade",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzQtRWFxMkJtX1lZd2NQc1J1bDV2MTRaUTRPQkRsWldQYVRsOEFqSnQ4TVFxNVdEVWFDcFhkbDlEYjNzQ0tIZEJOYWY5TGo1Z3hYS2p1VmxueFg5SFNINTY4Y0hTVm5YLVp5Ykt0aFc5X1dtTnhzaVg5N3pOYmwtTUx2TFNkNjNEODhaXzNxSWxXRHhFd3p6TlJ3?oc=5\" target=\"_blank\">Georgia Power Unveils Six-Point Customer Protection Pledge Amid State’s Rapid Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Discover Dade</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-22T02:02:37+00:00"
+    },
     {
       "id": "127aea5c02b78dad",
       "title": "Georgia Power 100 running backs: State champion is also its highest-rated RB - AJC.com",
@@ -397,6 +425,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-21T17:10:07+00:00"
+    },
+    {
+      "id": "98f9e78050aa15e5",
+      "title": "Georgia Power releases statement on Plant Vogtle accounting error - WITN",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUV2Mk51YVpPT1VOdTBVazVCd2VNemJPT0pqbDVlUXAzeHhSUTlJSjBXMHBmd3ZUdmM5NEd5ZmluUUZZY2o4c1BVaEVvdmVfUlUwZEttc3lLVVl1OFN4eGhyVjJLcFJlSGlpOWlKb2JhSEVicGp1azJZaHBMd0NHYy1GRDBmVUZFamoyXzVUc0xrWmJodHRSSThKaEo5NTBETTM0?oc=5",
+      "domain": "news.google.com",
+      "source": "WITN",
+      "language": "English",
+      "published_at": "2026-07-16T03:37:00+00:00",
+      "summary": "Georgia Power releases statement on Plant Vogtle accounting error WITN",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUV2Mk51YVpPT1VOdTBVazVCd2VNemJPT0pqbDVlUXAzeHhSUTlJSjBXMHBmd3ZUdmM5NEd5ZmluUUZZY2o4c1BVaEVvdmVfUlUwZEttc3lLVVl1OFN4eGhyVjJLcFJlSGlpOWlKb2JhSEVicGp1azJZaHBMd0NHYy1GRDBmVUZFamoyXzVUc0xrWmJodHRSSThKaEo5NTBETTM0?oc=5\" target=\"_blank\">Georgia Power releases statement on Plant Vogtle accounting error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WITN</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-22T02:02:37+00:00"
     },
     {
       "id": "733f09b8b9aa5cd4",

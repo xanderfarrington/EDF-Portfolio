@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-21T22:49:01+00:00",
+  "last_updated": "2026-07-22T02:02:47+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 44,
+      "count": 45,
       "new_mentions_this_run": 6,
       "latest_mention": {
-        "id": "e987661a20953fbd",
-        "title": "US25537AV3 Bond Profile — Key Metrics - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KdTUwSVlCYW9iaEtJYmlJV2pWTjVreVNKdjE4V0QwYzZnNDBlaUVQZ3RsMTl5dU14NXo4UFQ1QzBldVpkSUM3aU83eElidVZIY25JRkNKTm40Q3NOSWpQLS1WRU9QWEdKMElmLXh2UGZZbDh5YS1V?oc=5",
+        "id": "66598511264402a0",
+        "title": "AEP6184587 Bond Profile — Key Metrics - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nZ1o2NXpmREw4R2pmNEZITzBhVXR4cFdVN05YMEJYcU1vaTdYNkNhNUxlVkEzLVNySFpLRkRYYmNOU3h3QkdMOVY3STJ4RTM5VmdXYmNuYWt3SllkSkhmWnBpNGQ1VUh3UjQ1UVFjUF9hY2s0T0xRZnpn?oc=5",
         "domain": "news.google.com",
         "source": "TradingView",
         "language": "English",
-        "published_at": "2026-07-16T23:39:36+00:00",
-        "summary": "US25537AV3 Bond Profile — Key Metrics TradingView",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9KdTUwSVlCYW9iaEtJYmlJV2pWTjVreVNKdjE4V0QwYzZnNDBlaUVQZ3RsMTl5dU14NXo4UFQ1QzBldVpkSUM3aU83eElidVZIY25JRkNKTm40Q3NOSWpQLS1WRU9QWEdKMElmLXh2UGZZbDh5YS1V?oc=5\" target=\"_blank\">US25537AV3 Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "published_at": "2026-07-22T00:34:19+00:00",
+        "summary": "AEP6184587 Bond Profile — Key Metrics TradingView",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1nZ1o2NXpmREw4R2pmNEZITzBhVXR4cFdVN05YMEJYcU1vaTdYNkNhNUxlVkEzLVNySFpLRkRYYmNOU3h3QkdMOVY3STJ4RTM5VmdXYmNuYWt3SllkSkhmWnBpNGQ1VUh3UjQ1UVFjUF9hY2s0T0xRZnpn?oc=5\" target=\"_blank\">AEP6184587 Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-17T02:05:04+00:00"
+        "collected_at": "2026-07-22T02:02:15+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 25,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 62,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 235,
+      "count": 238,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "127aea5c02b78dad",
-        "title": "Georgia Power 100 running backs: State champion is also its highest-rated RB - AJC.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmNUbEF1aW5lb0YtLTkyc0ZZbmlKR3k4bFJ1U284Z1dYS0dKcnh3a0tIZlF2SzRzdWtnelc1WHZubGZYSnBGbUlZbUVqUjQzNGd5bXVQZkExRUZid25YWDljdm42QmxLOTZZMXlZTmtTNnZGazVFTHV1MGNuME1ONkdOWUxNQ25HclRfX241QmVkejVMampZbkpnemFRZ25keExya2s2RlF6cW8zUGlBRg?oc=5",
+        "id": "841e7d3eb1393d41",
+        "title": "Georgia Power introduces six-point pledge, says data centers will ‘pay their way’ - Early County News",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTdhTll5QWNTTHZUUnVScXNQdjgwTVBsMmNpd2VLUExQSlQ4U2E5dUMtbDJvLWotSGk1RmhoSXljbmRZQ243Ym16eXJENGR2Q3hFZEVHSmFrV3h3T0wwQ3lnNkxtZV9nQ0xRNzVnMjZLdlFHcU5FcjIwSnZieWc1dXlqRGo1cS1pRDdTVzVDemMwOEktZDhyZ2tKNlUtUjYwN2VkX194NVBjREZGcWlEaU0tNW9qdXZUcXptVA?oc=5",
         "domain": "news.google.com",
-        "source": "AJC.com",
+        "source": "Early County News",
         "language": "English",
-        "published_at": "2026-07-21T09:01:48+00:00",
-        "summary": "Georgia Power 100 running backs: State champion is also its highest-rated RB AJC.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONmNUbEF1aW5lb0YtLTkyc0ZZbmlKR3k4bFJ1U284Z1dYS0dKcnh3a0tIZlF2SzRzdWtnelc1WHZubGZYSnBGbUlZbUVqUjQzNGd5bXVQZkExRUZid25YWDljdm42QmxLOTZZMXlZTmtTNnZGazVFTHV1MGNuME1ONkdOWUxNQ25HclRfX241QmVkejVMampZbkpnemFRZ25keExya2s2RlF6cW8zUGlBRg?oc=5\" target=\"_blank\">Georgia Power 100 running backs: State champion is also its highest-rated RB</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+        "published_at": "2026-07-22T00:03:11+00:00",
+        "summary": "Georgia Power introduces six-point pledge, says data centers will ‘pay their way’ Early County News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTdhTll5QWNTTHZUUnVScXNQdjgwTVBsMmNpd2VLUExQSlQ4U2E5dUMtbDJvLWotSGk1RmhoSXljbmRZQ243Ym16eXJENGR2Q3hFZEVHSmFrV3h3T0wwQ3lnNkxtZV9nQ0xRNzVnMjZLdlFHcU5FcjIwSnZieWc1dXlqRGo1cS1pRDdTVzVDemMwOEktZDhyZ2tKNlUtUjYwN2VkX194NVBjREZGcWlEaU0tNW9qdXZUcXptVA?oc=5\" target=\"_blank\">Georgia Power introduces six-point pledge, says data centers will ‘pay their way’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Early County News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-21T15:38:43+00:00"
+        "collected_at": "2026-07-22T02:02:37+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 18,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",
