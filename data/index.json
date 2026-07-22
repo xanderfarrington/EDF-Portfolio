@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T06:23:48+00:00",
+  "last_updated": "2026-07-22T10:20:13+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 241,
+      "count": 245,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "841e7d3eb1393d41",
-        "title": "Georgia Power introduces six-point pledge, says data centers will ‘pay their way’ - Early County News",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTdhTll5QWNTTHZUUnVScXNQdjgwTVBsMmNpd2VLUExQSlQ4U2E5dUMtbDJvLWotSGk1RmhoSXljbmRZQ243Ym16eXJENGR2Q3hFZEVHSmFrV3h3T0wwQ3lnNkxtZV9nQ0xRNzVnMjZLdlFHcU5FcjIwSnZieWc1dXlqRGo1cS1pRDdTVzVDemMwOEktZDhyZ2tKNlUtUjYwN2VkX194NVBjREZGcWlEaU0tNW9qdXZUcXptVA?oc=5",
+        "id": "f63b2ed8d7299014",
+        "title": "GA Power CEO touts lower rates as other states face strain | Column - The Augusta Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTzdHWlpHa2hkclcwNC11QWZldWtBcDR2Ri14Z3FnTm1mV2Z6M0hUY0ZtbjV0bTgtRkhNWnBULWdIM2xDU3RxYy1lY3pxYkZVM210a0taRHFMR1ljcXduYWRZejZuUnRxM1VRODdsOXRwUVhoYTZ2dHViWmFNM3ZhMU5ZWkkxWW5jLVI3bXYzOWxpTU9EZWJBczJNX0FVVlJPa2pHaURiSG1WenBBM01naUZEZkNNTERheWpldzhtLTRmaU5VRWRFRkdRemNaRW12ZUJYVXpyREtwQ25jaElROExxaHAxd1U?oc=5",
         "domain": "news.google.com",
-        "source": "Early County News",
+        "source": "The Augusta Chronicle",
         "language": "English",
-        "published_at": "2026-07-22T00:03:11+00:00",
-        "summary": "Georgia Power introduces six-point pledge, says data centers will ‘pay their way’ Early County News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTdhTll5QWNTTHZUUnVScXNQdjgwTVBsMmNpd2VLUExQSlQ4U2E5dUMtbDJvLWotSGk1RmhoSXljbmRZQ243Ym16eXJENGR2Q3hFZEVHSmFrV3h3T0wwQ3lnNkxtZV9nQ0xRNzVnMjZLdlFHcU5FcjIwSnZieWc1dXlqRGo1cS1pRDdTVzVDemMwOEktZDhyZ2tKNlUtUjYwN2VkX194NVBjREZGcWlEaU0tNW9qdXZUcXptVA?oc=5\" target=\"_blank\">Georgia Power introduces six-point pledge, says data centers will ‘pay their way’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Early County News</font>",
+        "published_at": "2026-07-22T08:02:00+00:00",
+        "summary": "GA Power CEO touts lower rates as other states face strain | Column The Augusta Chronicle",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTzdHWlpHa2hkclcwNC11QWZldWtBcDR2Ri14Z3FnTm1mV2Z6M0hUY0ZtbjV0bTgtRkhNWnBULWdIM2xDU3RxYy1lY3pxYkZVM210a0taRHFMR1ljcXduYWRZejZuUnRxM1VRODdsOXRwUVhoYTZ2dHViWmFNM3ZhMU5ZWkkxWW5jLVI3bXYzOWxpTU9EZWJBczJNX0FVVlJPa2pHaURiSG1WenBBM01naUZEZkNNTERheWpldzhtLTRmaU5VRWRFRkdRemNaRW12ZUJYVXpyREtwQ25jaElROExxaHAxd1U?oc=5\" target=\"_blank\">GA Power CEO touts lower rates as other states face strain | Column</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-22T02:02:37+00:00"
+        "collected_at": "2026-07-22T10:20:03+00:00"
       }
     },
     {
