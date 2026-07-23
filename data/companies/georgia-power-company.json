@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-22T22:56:28+00:00",
+  "last_updated": "2026-07-23T02:09:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 257,
+  "count": 260,
   "mentions": [
+    {
+      "id": "d4ee987dd9a606b5",
+      "title": "Georgia Power Signs 25-Year Agreement With Open AI for 'Project Camellia' in Effingham County - The Georgia Virtue",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVzBZa0V1VWxuY2lGcElXMWxTNkhwNVVrM29WR0IzYVVoYlA5Vm5UQ2c3ZnhTbHl1MjV1OG1rWkVMajZ6djQ5bDZEa2l1Y2syRXh5UktpVWpaUk9NWFVmYm4yMElJd3dHYlZOdFFka0FlSnFFYVVpd2o0b2FvN1FBcnY3dGVtOFUyTWtUNjB6QlpiSEdqeDJqVEZsUVdtQmNfNEJrVHZTRVA3WUtuYlllMEtZZ0FrSXBzeTd6TGVVLUxOekd5Zzh3RWJBelZhaDRfdUU2MVBlcy1uUFlWWVBReEp6S0M?oc=5",
+      "domain": "news.google.com",
+      "source": "The Georgia Virtue",
+      "language": "English",
+      "published_at": "2026-07-23T00:02:22+00:00",
+      "summary": "Georgia Power Signs 25-Year Agreement With Open AI for 'Project Camellia' in Effingham County The Georgia Virtue",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVzBZa0V1VWxuY2lGcElXMWxTNkhwNVVrM29WR0IzYVVoYlA5Vm5UQ2c3ZnhTbHl1MjV1OG1rWkVMajZ6djQ5bDZEa2l1Y2syRXh5UktpVWpaUk9NWFVmYm4yMElJd3dHYlZOdFFka0FlSnFFYVVpd2o0b2FvN1FBcnY3dGVtOFUyTWtUNjB6QlpiSEdqeDJqVEZsUVdtQmNfNEJrVHZTRVA3WUtuYlllMEtZZ0FrSXBzeTd6TGVVLUxOekd5Zzh3RWJBelZhaDRfdUU2MVBlcy1uUFlWWVBReEp6S0M?oc=5\" target=\"_blank\">Georgia Power Signs 25-Year Agreement With Open AI for 'Project Camellia' in Effingham County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Georgia Virtue</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T02:09:42+00:00"
+    },
+    {
+      "id": "67c8efb054d2d5d4",
+      "title": "Georgia Power working with OpenAI on new Effingham County project - WSPA 7NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCeEtJOTJpUzVhX1Q1SW9odEp4bXRJTDVhbVRuMDlsbzdSdU1LVWVTU0VHZEl3SXI1LU9iaDNBNUIyc3RkUnNpQmFBY0lBUW9GeXpLWVBTdmo1QjlKSEJCUmN2TkdVQ254VzNVUFFhc2o?oc=5",
+      "domain": "news.google.com",
+      "source": "WSPA 7NEWS",
+      "language": "English",
+      "published_at": "2026-07-22T20:59:23+00:00",
+      "summary": "Georgia Power working with OpenAI on new Effingham County project WSPA 7NEWS",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBCeEtJOTJpUzVhX1Q1SW9odEp4bXRJTDVhbVRuMDlsbzdSdU1LVWVTU0VHZEl3SXI1LU9iaDNBNUIyc3RkUnNpQmFBY0lBUW9GeXpLWVBTdmo1QjlKSEJCUmN2TkdVQ254VzNVUFFhc2o?oc=5\" target=\"_blank\">Georgia Power working with OpenAI on new Effingham County project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSPA 7NEWS</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T02:09:42+00:00"
+    },
     {
       "id": "9f6a9d2fc864a40e",
       "title": "Georgia Power releases statement on plans for OpenAI data center in Effingham County - WJCL",
@@ -1853,6 +1881,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-06-26T17:42:58+00:00"
+    },
+    {
+      "id": "6945180fafb27dfe",
+      "title": "Georgia Power just lowered its fuel rate. So why are power bills still high? - wabe.org",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXBTd3N0WmE5WFlQRjNOOXpvcl93LV9QcHhNMEJwSFN5OVRHT0RRRFZ3OVdLdEtJdXlTSE4zYVlCbzU3SUEtRVBxZE5ZM2thT0RUb2g1RmlZV2tTYm9HSE0tODVGZUJ1V3c2NGcwejhVU2drUmVJSnA2RzdtMmhmSVFFYjZCM3lzMUZOU1NOQ0dfaDA0RUxSOVMzQTA?oc=5",
+      "domain": "news.google.com",
+      "source": "wabe.org",
+      "language": "English",
+      "published_at": "2026-06-26T07:00:00+00:00",
+      "summary": "Georgia Power just lowered its fuel rate. So why are power bills still high? wabe.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXBTd3N0WmE5WFlQRjNOOXpvcl93LV9QcHhNMEJwSFN5OVRHT0RRRFZ3OVdLdEtJdXlTSE4zYVlCbzU3SUEtRVBxZE5ZM2thT0RUb2g1RmlZV2tTYm9HSE0tODVGZUJ1V3c2NGcwejhVU2drUmVJSnA2RzdtMmhmSVFFYjZCM3lzMUZOU1NOQ0dfaDA0RUxSOVMzQTA?oc=5\" target=\"_blank\">Georgia Power just lowered its fuel rate. So why are power bills still high?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wabe.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T02:09:42+00:00"
     },
     {
       "id": "75d83cfd1003f6a5",

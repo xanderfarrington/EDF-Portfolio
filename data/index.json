@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T22:56:39+00:00",
+  "last_updated": "2026-07-23T02:09:52+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 257,
+      "count": 260,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "9f6a9d2fc864a40e",
-        "title": "Georgia Power releases statement on plans for OpenAI data center in Effingham County - WJCL",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1TkZoaHBpMUdCeFFkbjV2T01vdUFJa19rNzhiY2VlU245eGpqb3cwOXJSWllraW5pZ3N3NWRoc3czbktJTUN5Q0VpeWRfVzA2QkNuNjdHMXBkN2VYeThPQjg5Ykdmcm5SZm5TbGxmOGNVaDktcDdMLVgwTm80dw?oc=5",
+        "id": "d4ee987dd9a606b5",
+        "title": "Georgia Power Signs 25-Year Agreement With Open AI for 'Project Camellia' in Effingham County - The Georgia Virtue",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVzBZa0V1VWxuY2lGcElXMWxTNkhwNVVrM29WR0IzYVVoYlA5Vm5UQ2c3ZnhTbHl1MjV1OG1rWkVMajZ6djQ5bDZEa2l1Y2syRXh5UktpVWpaUk9NWFVmYm4yMElJd3dHYlZOdFFka0FlSnFFYVVpd2o0b2FvN1FBcnY3dGVtOFUyTWtUNjB6QlpiSEdqeDJqVEZsUVdtQmNfNEJrVHZTRVA3WUtuYlllMEtZZ0FrSXBzeTd6TGVVLUxOekd5Zzh3RWJBelZhaDRfdUU2MVBlcy1uUFlWWVBReEp6S0M?oc=5",
         "domain": "news.google.com",
-        "source": "WJCL",
+        "source": "The Georgia Virtue",
         "language": "English",
-        "published_at": "2026-07-22T15:44:00+00:00",
-        "summary": "Georgia Power releases statement on plans for OpenAI data center in Effingham County WJCL",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB1TkZoaHBpMUdCeFFkbjV2T01vdUFJa19rNzhiY2VlU245eGpqb3cwOXJSWllraW5pZ3N3NWRoc3czbktJTUN5Q0VpeWRfVzA2QkNuNjdHMXBkN2VYeThPQjg5Ykdmcm5SZm5TbGxmOGNVaDktcDdMLVgwTm80dw?oc=5\" target=\"_blank\">Georgia Power releases statement on plans for OpenAI data center in Effingham County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJCL</font>",
+        "published_at": "2026-07-23T00:02:22+00:00",
+        "summary": "Georgia Power Signs 25-Year Agreement With Open AI for 'Project Camellia' in Effingham County The Georgia Virtue",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVzBZa0V1VWxuY2lGcElXMWxTNkhwNVVrM29WR0IzYVVoYlA5Vm5UQ2c3ZnhTbHl1MjV1OG1rWkVMajZ6djQ5bDZEa2l1Y2syRXh5UktpVWpaUk9NWFVmYm4yMElJd3dHYlZOdFFka0FlSnFFYVVpd2o0b2FvN1FBcnY3dGVtOFUyTWtUNjB6QlpiSEdqeDJqVEZsUVdtQmNfNEJrVHZTRVA3WUtuYlllMEtZZ0FrSXBzeTd6TGVVLUxOekd5Zzh3RWJBelZhaDRfdUU2MVBlcy1uUFlWWVBReEp6S0M?oc=5\" target=\"_blank\">Georgia Power Signs 25-Year Agreement With Open AI for 'Project Camellia' in Effingham County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Georgia Virtue</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-22T17:10:40+00:00"
+        "collected_at": "2026-07-23T02:09:42+00:00"
       }
     },
     {
