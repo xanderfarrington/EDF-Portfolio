@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-23T17:13:41+00:00",
+  "last_updated": "2026-07-23T19:05:16+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 269,
+  "count": 272,
   "mentions": [
+    {
+      "id": "9944829b6167157e",
+      "title": "OpenAI is bringing a massive AI data center to Georgia. Here's what residents should know. - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ1hYdXZPeGNlYjFqV0tnSFVKcC1CaGsxT2UtdHhwZ3NvWlFacXd0YnZEVWVaeVZXWHNUbTlxc2xiaGk3RXF2NW1md3YyUWdKZl8zZ2hibzUydlJWQWZ2NGpkNUstbTNUczQ2Qk05bUcwMDBqSTBFNENacDJlOFpFQVk3SnlSVmhCMW44VHFEcUhjZ3lKOFRFZjY0amZyTEhHSVFHQ2FXbmU0Tm90TW5VTXlKODJMUzJvMEFXT0FFaVZTWXc?oc=5",
+      "domain": "news.google.com",
+      "source": "CBS News",
+      "language": "English",
+      "published_at": "2026-07-23T18:48:52+00:00",
+      "summary": "OpenAI is bringing a massive AI data center to Georgia. Here's what residents should know. CBS News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ1hYdXZPeGNlYjFqV0tnSFVKcC1CaGsxT2UtdHhwZ3NvWlFacXd0YnZEVWVaeVZXWHNUbTlxc2xiaGk3RXF2NW1md3YyUWdKZl8zZ2hibzUydlJWQWZ2NGpkNUstbTNUczQ2Qk05bUcwMDBqSTBFNENacDJlOFpFQVk3SnlSVmhCMW44VHFEcUhjZ3lKOFRFZjY0amZyTEhHSVFHQ2FXbmU0Tm90TW5VTXlKODJMUzJvMEFXT0FFaVZTWXc?oc=5\" target=\"_blank\">OpenAI is bringing a massive AI data center to Georgia. Here's what residents should know.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T19:05:16+00:00"
+    },
+    {
+      "id": "38315649008ba0fc",
+      "title": "Vinson & Elkins Advises Georgia Power in 3.2GW OpenAI Data Center - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZnoxWTRGN20wTUUwSGtFS3JDSDBiVWR6WFJ2VGZBWjY4TmhZNHJLWDBYMFdlc3k1TWYwVzJLVFliaHRtMl83NWdpWUM2dnFJSE0ySmpXU2NmVmNpdExyckdXVHBDY3Brb05vWGFNdURqbFRXU0xsUmNuWDVXdEdoc1hmcG9relhoMm1Xa0tmMVJtc1MzVDFr?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-07-23T15:33:42+00:00",
+      "summary": "Vinson & Elkins Advises Georgia Power in 3.2GW OpenAI Data Center Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZnoxWTRGN20wTUUwSGtFS3JDSDBiVWR6WFJ2VGZBWjY4TmhZNHJLWDBYMFdlc3k1TWYwVzJLVFliaHRtMl83NWdpWUM2dnFJSE0ySmpXU2NmVmNpdExyckdXVHBDY3Brb05vWGFNdURqbFRXU0xsUmNuWDVXdEdoc1hmcG9relhoMm1Xa0tmMVJtc1MzVDFr?oc=5\" target=\"_blank\">Vinson & Elkins Advises Georgia Power in 3.2GW OpenAI Data Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T19:05:16+00:00"
+    },
     {
       "id": "456a7a98fd93b784",
       "title": "OpenAI Unveils 3.2GW 'Project Camellia' Data Center Campus in Effingham County, Georgia - MLQ.ai",
@@ -75,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-23T10:14:37+00:00"
+    },
+    {
+      "id": "7568cc1f88bb7aa5",
+      "title": "Georgia Power Customer Protection Pledge - The Georgia Virtue",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOYlpoc2ZfU1QyaDUzUnFjZ1kwcVB5ekxkdG5ab3A1VmpjR1VwOEVMLURwV0lVN3VtYXVpQS1LeFVGclMtek5BRmswSktHakkwdXJ2OHI5emFibWdNZVhtOTlZX0lRZ0VHYlVhSTlQQThhYmYxOXp5VjZJZFJiS3FqSHY5OTZxUkcyVkJMMWhoOUhuRDRBT1BqMnRxZVI3N1l2M2QxelY1bV9TdzhsaXJKNWtIZmI4MmpsWUctMUVwOGQzbmN3LUdXTzJBUEFaRjQyS3JrazFNdVI5MnM5SVBPWGNySGstVFRubDRiZ3M1bHJoT0hkbE80TmgzOGMxSnFVNTNpdWo3N041T2doN1lZdWFfZ3A5M0tDcGRWemxfY1hCa1lNSmNLVC1R?oc=5",
+      "domain": "news.google.com",
+      "source": "The Georgia Virtue",
+      "language": "English",
+      "published_at": "2026-07-23T00:01:41+00:00",
+      "summary": "Georgia Power Customer Protection Pledge The Georgia Virtue",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxOYlpoc2ZfU1QyaDUzUnFjZ1kwcVB5ekxkdG5ab3A1VmpjR1VwOEVMLURwV0lVN3VtYXVpQS1LeFVGclMtek5BRmswSktHakkwdXJ2OHI5emFibWdNZVhtOTlZX0lRZ0VHYlVhSTlQQThhYmYxOXp5VjZJZFJiS3FqSHY5OTZxUkcyVkJMMWhoOUhuRDRBT1BqMnRxZVI3N1l2M2QxelY1bV9TdzhsaXJKNWtIZmI4MmpsWUctMUVwOGQzbmN3LUdXTzJBUEFaRjQyS3JrazFNdVI5MnM5SVBPWGNySGstVFRubDRiZ3M1bHJoT0hkbE80TmgzOGMxSnFVNTNpdWo3N041T2doN1lZdWFfZ3A5M0tDcGRWemxfY1hCa1lNSmNLVC1R?oc=5\" target=\"_blank\">Georgia Power Customer Protection Pledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Georgia Virtue</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T19:05:16+00:00"
     },
     {
       "id": "67c8efb054d2d5d4",

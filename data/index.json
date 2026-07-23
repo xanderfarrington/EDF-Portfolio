@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T17:13:51+00:00",
+  "last_updated": "2026-07-23T19:05:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 25,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "372ab7ffa82231ea",
         "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 269,
+      "count": 272,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "456a7a98fd93b784",
-        "title": "OpenAI Unveils 3.2GW 'Project Camellia' Data Center Campus in Effingham County, Georgia - MLQ.ai",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXdKTndrV1ZUTFhJQ1A0WlZiWUljUzA0dW5NVGtMR2o0SnpWTTllV1pKMkhEa3Axel9SLXlKSU1PVS1pTDExelZ1NkFBbThMakx6b05sUTVoa1ZuOThGOVoyVi1RRXdKbDJySUl6NzYtYmxad3BQUmUwRVE2WHhTM05DVFNKcTZxQ2lJcmZyN3dvUm5PY1FwbENlbkhhUlpwcEJBeFZXYw?oc=5",
+        "id": "9944829b6167157e",
+        "title": "OpenAI is bringing a massive AI data center to Georgia. Here's what residents should know. - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ1hYdXZPeGNlYjFqV0tnSFVKcC1CaGsxT2UtdHhwZ3NvWlFacXd0YnZEVWVaeVZXWHNUbTlxc2xiaGk3RXF2NW1md3YyUWdKZl8zZ2hibzUydlJWQWZ2NGpkNUstbTNUczQ2Qk05bUcwMDBqSTBFNENacDJlOFpFQVk3SnlSVmhCMW44VHFEcUhjZ3lKOFRFZjY0amZyTEhHSVFHQ2FXbmU0Tm90TW5VTXlKODJMUzJvMEFXT0FFaVZTWXc?oc=5",
         "domain": "news.google.com",
-        "source": "MLQ.ai",
+        "source": "CBS News",
         "language": "English",
-        "published_at": "2026-07-23T12:05:03+00:00",
-        "summary": "OpenAI Unveils 3.2GW 'Project Camellia' Data Center Campus in Effingham County, Georgia MLQ.ai",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXdKTndrV1ZUTFhJQ1A0WlZiWUljUzA0dW5NVGtMR2o0SnpWTTllV1pKMkhEa3Axel9SLXlKSU1PVS1pTDExelZ1NkFBbThMakx6b05sUTVoa1ZuOThGOVoyVi1RRXdKbDJySUl6NzYtYmxad3BQUmUwRVE2WHhTM05DVFNKcTZxQ2lJcmZyN3dvUm5PY1FwbENlbkhhUlpwcEJBeFZXYw?oc=5\" target=\"_blank\">OpenAI Unveils 3.2GW 'Project Camellia' Data Center Campus in Effingham County, Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLQ.ai</font>",
+        "published_at": "2026-07-23T18:48:52+00:00",
+        "summary": "OpenAI is bringing a massive AI data center to Georgia. Here's what residents should know. CBS News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ1hYdXZPeGNlYjFqV0tnSFVKcC1CaGsxT2UtdHhwZ3NvWlFacXd0YnZEVWVaeVZXWHNUbTlxc2xiaGk3RXF2NW1md3YyUWdKZl8zZ2hibzUydlJWQWZ2NGpkNUstbTNUczQ2Qk05bUcwMDBqSTBFNENacDJlOFpFQVk3SnlSVmhCMW44VHFEcUhjZ3lKOFRFZjY0amZyTEhHSVFHQ2FXbmU0Tm90TW5VTXlKODJMUzJvMEFXT0FFaVZTWXc?oc=5\" target=\"_blank\">OpenAI is bringing a massive AI data center to Georgia. Here's what residents should know.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-23T13:42:02+00:00"
+        "collected_at": "2026-07-23T19:05:16+00:00"
       }
     },
     {
