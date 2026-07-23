@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-23T13:42:02+00:00",
+  "last_updated": "2026-07-23T15:50:58+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 265,
+  "count": 268,
   "mentions": [
     {
       "id": "456a7a98fd93b784",
@@ -91,6 +91,20 @@
       "collected_at": "2026-07-23T02:09:42+00:00"
     },
     {
+      "id": "9ac78589462ba22b",
+      "title": "OpenAI plans massive data center facility in Georgia, development to start in 2028 - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa0ZZY2x3X21qTUNZeFFSTEp5ZVNRS3pzRTBKYmJqYXpNbDRYQUQ4d0xIMTFaVks3Q2dUdFVGcWw2T0NVNlMzUnhzaVBwRHRPOVRESEtZYzdXMDQ4R2k3dDZKNnRWZmJtb1F0cEotNm1pWFJXRUhFWjg0SUxTODJ1M3FjcXRYRVhQR1o2TDZQbmlha2MyVEp3SVdEV0RVVGJBcmE3Y2cxNHRlOW1LOS1xNF9RX3RwcU5GTlZYMzdOUm5RQzlaRnk5dFdfdUxqYTVNNGFpQzBnUWNyUWdm0gHwAUFVX3lxTE1FYjFuc2lYY2VXRlY0UUU0by1hdG5mMzNoUlF5cEZTOGpORkNadTgwS3FpdHV2MXZ0TmI5RHI0QjJHZUNVTWFPenpDN2ltV3pWaEllMmQxS3dkeHlSeUFpQjQzM2hDTjVrS1ZEeWhYQXJqSUY1LTN5cnBBeHJlSkpxMU1MZGVHaWtXOWpyaWdfRGpnYlhSQ053Q2VLdzdDRmpHY2UzSjl4Y2tiR0RJaGNNSmJsX2F2aGthbjdaZFlYa3I2bmQ5MzVrazktVzdrWkUwSk5USVpmamlXU1lESW5tRDV0ZGltTVdJX2JlUUdaTw?oc=5",
+      "domain": "news.google.com",
+      "source": "WSB-TV",
+      "language": "English",
+      "published_at": "2026-07-22T18:14:37+00:00",
+      "summary": "OpenAI plans massive data center facility in Georgia, development to start in 2028 WSB-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa0ZZY2x3X21qTUNZeFFSTEp5ZVNRS3pzRTBKYmJqYXpNbDRYQUQ4d0xIMTFaVks3Q2dUdFVGcWw2T0NVNlMzUnhzaVBwRHRPOVRESEtZYzdXMDQ4R2k3dDZKNnRWZmJtb1F0cEotNm1pWFJXRUhFWjg0SUxTODJ1M3FjcXRYRVhQR1o2TDZQbmlha2MyVEp3SVdEV0RVVGJBcmE3Y2cxNHRlOW1LOS1xNF9RX3RwcU5GTlZYMzdOUm5RQzlaRnk5dFdfdUxqYTVNNGFpQzBnUWNyUWdm0gHwAUFVX3lxTE1FYjFuc2lYY2VXRlY0UUU0by1hdG5mMzNoUlF5cEZTOGpORkNadTgwS3FpdHV2MXZ0TmI5RHI0QjJHZUNVTWFPenpDN2ltV3pWaEllMmQxS3dkeHlSeUFpQjQzM2hDTjVrS1ZEeWhYQXJqSUY1LTN5cnBBeHJlSkpxMU1MZGVHaWtXOWpyaWdfRGpnYlhSQ053Q2VLdzdDRmpHY2UzSjl4Y2tiR0RJaGNNSmJsX2F2aGthbjdaZFlYa3I2bmQ5MzVrazktVzdrWkUwSk5USVpmamlXU1lESW5tRDV0ZGltTVdJX2JlUUdaTw?oc=5\" target=\"_blank\">OpenAI plans massive data center facility in Georgia, development to start in 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T15:50:58+00:00"
+    },
+    {
       "id": "9f6a9d2fc864a40e",
       "title": "Georgia Power releases statement on plans for OpenAI data center in Effingham County - WJCL",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1TkZoaHBpMUdCeFFkbjV2T01vdUFJa19rNzhiY2VlU245eGpqb3cwOXJSWllraW5pZ3N3NWRoc3czbktJTUN5Q0VpeWRfVzA2QkNuNjdHMXBkN2VYeThPQjg5Ykdmcm5SZm5TbGxmOGNVaDktcDdMLVgwTm80dw?oc=5",
@@ -145,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-22T15:28:01+00:00"
+    },
+    {
+      "id": "e7920ecf26e6d53e",
+      "title": "OpenAI announces plans to open a data center in Effingham County - WSAV-TV",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOV9lR0JLcVo3QVJ6RlVuaDBEZ0lNNXlVZ3NScDhHbnhUVVV1NUJ5UHllbU9hTGVnQnJkS1RCR0w1dXBLRGdfc3VBdFhQdFVOVTM3cS01Njk0bWw4dlItUGxfeGVSQ3RFUDdGUVJhSHd3Qzk1QmpydmZKRUQteUJVcExsd1pWOThadEJtWlNyUGg1bGVGcENGdXFNNkk2LUFjUmdjZkx30gGrAUFVX3lxTE1BYmZnSm5saHdSYzlrNUkxQkg3em1qeE9rR1M1aHhmY21JSUN1UEQtRHNVVDJwTTFRd0NwdmVRbjYxZ2V1THZvOUZGMkY2aXh2Um9GUlNjSE9nenhiZ1REWkkzeUpBeXZ4aHpfSUFzb3loQzRzUkJxaElmZ2ZZRTFXMV9iODdpUXVUclpnbHV0SHQ4ZUl6aW5MYkhrdHIzaFZTVDRaZGdxbjdZOA?oc=5",
+      "domain": "news.google.com",
+      "source": "WSAV-TV",
+      "language": "English",
+      "published_at": "2026-07-22T14:43:15+00:00",
+      "summary": "OpenAI announces plans to open a data center in Effingham County WSAV-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOOV9lR0JLcVo3QVJ6RlVuaDBEZ0lNNXlVZ3NScDhHbnhUVVV1NUJ5UHllbU9hTGVnQnJkS1RCR0w1dXBLRGdfc3VBdFhQdFVOVTM3cS01Njk0bWw4dlItUGxfeGVSQ3RFUDdGUVJhSHd3Qzk1QmpydmZKRUQteUJVcExsd1pWOThadEJtWlNyUGg1bGVGcENGdXFNNkk2LUFjUmdjZkx30gGrAUFVX3lxTE1BYmZnSm5saHdSYzlrNUkxQkg3em1qeE9rR1M1aHhmY21JSUN1UEQtRHNVVDJwTTFRd0NwdmVRbjYxZ2V1THZvOUZGMkY2aXh2Um9GUlNjSE9nenhiZ1REWkkzeUpBeXZ4aHpfSUFzb3loQzRzUkJxaElmZ2ZZRTFXMV9iODdpUXVUclpnbHV0SHQ4ZUl6aW5MYkhrdHIzaFZTVDRaZGdxbjdZOA?oc=5\" target=\"_blank\">OpenAI announces plans to open a data center in Effingham County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAV-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T15:50:58+00:00"
     },
     {
       "id": "d5ee3d3c54ad8ae3",
@@ -467,6 +495,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-21T21:00:49+00:00"
+    },
+    {
+      "id": "7793ca6f77e84ac1",
+      "title": "Georgia Power pledges customers won’t pay for data center growth - WTVM.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNzZvcDVPU0pNemlKODluNkN6UTVJandzMm5aekRYcy1weFYyeHJGZGZlekRIQ2FybTZmempIMjI3SWZZRjlFaTNDYWlYTU9hbXQxakRsbDZxVEdmemRhZDE1S3FNT3dCSjdNdjNIUUdPcGlzU2lybzZwXzdrc01LTDNvTHB4OUt3QjZacWZHQy1xTFZPVVNZ0gGrAUFVX3lxTE9QUWRiR3o1U3VwTjVEUzc3TkJpX2FESVlDS1hoQlNDUnZHSVhmSXVSX2xodFJtSGlhRjAzYnVDOXVmUVRNam40WnpPM1VYMzljcVVEUF94aklDaHZsUnQ2QkV2blRPMWwyZFhiUzY1ZGlUeUVxWlgteVIwQ1ZkbG5HRGdGRHBVaEpNajRYNnlBSFBFeV9RWVprb2xJckIwbUtaZUlsVlRzZ0oyUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WTVM.com",
+      "language": "English",
+      "published_at": "2026-07-16T22:19:00+00:00",
+      "summary": "Georgia Power pledges customers won’t pay for data center growth WTVM.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNNzZvcDVPU0pNemlKODluNkN6UTVJandzMm5aekRYcy1weFYyeHJGZGZlekRIQ2FybTZmempIMjI3SWZZRjlFaTNDYWlYTU9hbXQxakRsbDZxVEdmemRhZDE1S3FNT3dCSjdNdjNIUUdPcGlzU2lybzZwXzdrc01LTDNvTHB4OUt3QjZacWZHQy1xTFZPVVNZ0gGrAUFVX3lxTE9QUWRiR3o1U3VwTjVEUzc3TkJpX2FESVlDS1hoQlNDUnZHSVhmSXVSX2xodFJtSGlhRjAzYnVDOXVmUVRNam40WnpPM1VYMzljcVVEUF94aklDaHZsUnQ2QkV2blRPMWwyZFhiUzY1ZGlUeUVxWlgteVIwQ1ZkbG5HRGdGRHBVaEpNajRYNnlBSFBFeV9RWVprb2xJckIwbUtaZUlsVlRzZ0oyUQ?oc=5\" target=\"_blank\">Georgia Power pledges customers won’t pay for data center growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T15:50:58+00:00"
     },
     {
       "id": "2d4b43fce2a3697e",
