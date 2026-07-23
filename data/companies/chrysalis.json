@@ -2,10 +2,24 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-07-23T20:55:45+00:00",
+  "last_updated": "2026-07-23T22:50:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 25,
+  "count": 26,
   "mentions": [
+    {
+      "id": "23cd3bb3397fdae2",
+      "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5",
+      "domain": "news.google.com",
+      "source": "American Nuclear Society",
+      "language": "English",
+      "published_at": "2026-07-23T15:30:18+00:00",
+      "summary": "Shine receives $263M conditional DOE loan to complete isotope facility American Nuclear Society",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5\" target=\"_blank\">Shine receives $263M conditional DOE loan to complete isotope facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T22:50:56+00:00"
+    },
     {
       "id": "372ab7ffa82231ea",
       "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",

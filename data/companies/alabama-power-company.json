@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-23T20:55:40+00:00",
+  "last_updated": "2026-07-23T22:50:50+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 115,
+  "count": 117,
   "mentions": [
+    {
+      "id": "80e04d981ca5dc9e",
+      "title": "Alabama Power signs on to President Trump's Ratepayer Protection Pledge: 'Committed to putting customers first' - Yellowhammer News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSEpLd29jRHp5OVMzZzJ5ektySlVrUF96Q0V3RFdUVlhXSGF6eHNMdmRqeElEZzJIR21yY09Pa09KcVFlbnJ0bjFXLVF5NUdXNnJqWjVSSlh2SEJDVGEzckM0V1dEVDNHdl9pRm1vTWNlOXk4SGRNZG5YLU5qSTlaVnZOQURDLXRLeV83WUN0VTlPMjhKczRWNDBSQk1YVjBuck8xMTdXNFJlNGNDWERiZjhrZWVYTnFHamhuQ2Z1Qm40T3VsRFdYYXA3NnBKMGpUOXR3?oc=5",
+      "domain": "news.google.com",
+      "source": "Yellowhammer News",
+      "language": "English",
+      "published_at": "2026-07-23T20:52:45+00:00",
+      "summary": "Alabama Power signs on to President Trump's Ratepayer Protection Pledge: 'Committed to putting customers first' Yellowhammer News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSEpLd29jRHp5OVMzZzJ5ektySlVrUF96Q0V3RFdUVlhXSGF6eHNMdmRqeElEZzJIR21yY09Pa09KcVFlbnJ0bjFXLVF5NUdXNnJqWjVSSlh2SEJDVGEzckM0V1dEVDNHdl9pRm1vTWNlOXk4SGRNZG5YLU5qSTlaVnZOQURDLXRLeV83WUN0VTlPMjhKczRWNDBSQk1YVjBuck8xMTdXNFJlNGNDWERiZjhrZWVYTnFHamhuQ2Z1Qm40T3VsRFdYYXA3NnBKMGpUOXR3?oc=5\" target=\"_blank\">Alabama Power signs on to President Trump's Ratepayer Protection Pledge: 'Committed to putting customers first'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellowhammer News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T22:50:50+00:00"
+    },
     {
       "id": "d7932749740508e1",
       "title": "Alabama Power shares energy-saving tips - WSFA",
@@ -89,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-21T15:38:26+00:00"
+    },
+    {
+      "id": "bbcabf9677a82984",
+      "title": "Alabama Power testing out unmanned drone - WRBL",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tdE9VbEhILUZVVDNEZE9oTzkzdC1DM3lNeV9zQUI4RldBcWZXLTk3Sm5uOFNUWjFxWFFxckdMMl9rUzVkUG02WW52VUh0LUNqQXZUcFNZQ0c1UEhHbkV5WUk4ZEFtU2ZJTkRhdU10Q19vRUVURGhtVUQ1RdIBe0FVX3lxTE1tdE9VbEhILUZVVDNEZE9oTzkzdC1DM3lNeV9zQUI4RldBcWZXLTk3Sm5uOFNUWjFxWFFxckdMMl9rUzVkUG02WW52VUh0LUNqQXZUcFNZQ0c1UEhHbkV5WUk4ZEFtU2ZJTkRhdU10Q19vRUVURGhtVUQ1RQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WRBL",
+      "language": "English",
+      "published_at": "2026-07-21T09:19:12+00:00",
+      "summary": "Alabama Power testing out unmanned drone WRBL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1tdE9VbEhILUZVVDNEZE9oTzkzdC1DM3lNeV9zQUI4RldBcWZXLTk3Sm5uOFNUWjFxWFFxckdMMl9rUzVkUG02WW52VUh0LUNqQXZUcFNZQ0c1UEhHbkV5WUk4ZEFtU2ZJTkRhdU10Q19vRUVURGhtVUQ1RdIBe0FVX3lxTE1tdE9VbEhILUZVVDNEZE9oTzkzdC1DM3lNeV9zQUI4RldBcWZXLTk3Sm5uOFNUWjFxWFFxckdMMl9rUzVkUG02WW52VUh0LUNqQXZUcFNZQ0c1UEhHbkV5WUk4ZEFtU2ZJTkRhdU10Q19vRUVURGhtVUQ1RQ?oc=5\" target=\"_blank\">Alabama Power testing out unmanned drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRBL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T22:50:50+00:00"
     },
     {
       "id": "8326e8ed23df74fb",

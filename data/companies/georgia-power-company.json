@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-23T20:55:56+00:00",
+  "last_updated": "2026-07-23T22:51:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 273,
+  "count": 274,
   "mentions": [
+    {
+      "id": "2cd267a4a41e8064",
+      "title": "Columbia County, Google & Georgia Power announce partnership on data center development, restrictions - WJBF",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRE1LNXV5bHhzV3U4VjhZMXVpSTR3UC15M2Y4Ui1HM2hBUUdQRWlua19oRUJYa2lOZVNlQUhIQ000M2VWYnFNNE1nYmg5TnJsT28yRDBkM3dXQzBndl9QTXY5OG9obGlsTUY2RzE3Z09LWk05NlBXa3VfbV9TcjJ3elBqOVFTQTFkWmdMUVhxTjQxOExBZDFQd2ZZeGNhQnY1N0Z5MVY5MW1BZDQxTWkwMmZ2NUo3Y2d00gG-AUFVX3lxTE0xYjZQY2pRUDhLZnpRMFBORllZX1hMRGpzRXRwS2o0bTZmZF8yRDBqSXFycEJERXM5aklaTFZSQlBEWTlRT3dGWTBST0NDRk5iSnZ3VHdyOHNCdndMYThQbzhZZlQ0ZnhpSnBMYlAzTmtGbXZ4cC1MZExrTnd2akIwRWxZTmdmSzZxd0ZLOXRkV3NwQmdZUUJuZ3pSOWZZUGNqRnQzZHBORVYzekxncHVwSHZScTdCVnVwWjBUVXc?oc=5",
+      "domain": "news.google.com",
+      "source": "WJBF",
+      "language": "English",
+      "published_at": "2026-07-23T19:33:40+00:00",
+      "summary": "Columbia County, Google & Georgia Power announce partnership on data center development, restrictions WJBF",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRE1LNXV5bHhzV3U4VjhZMXVpSTR3UC15M2Y4Ui1HM2hBUUdQRWlua19oRUJYa2lOZVNlQUhIQ000M2VWYnFNNE1nYmg5TnJsT28yRDBkM3dXQzBndl9QTXY5OG9obGlsTUY2RzE3Z09LWk05NlBXa3VfbV9TcjJ3elBqOVFTQTFkWmdMUVhxTjQxOExBZDFQd2ZZeGNhQnY1N0Z5MVY5MW1BZDQxTWkwMmZ2NUo3Y2d00gG-AUFVX3lxTE0xYjZQY2pRUDhLZnpRMFBORllZX1hMRGpzRXRwS2o0bTZmZF8yRDBqSXFycEJERXM5aklaTFZSQlBEWTlRT3dGWTBST0NDRk5iSnZ3VHdyOHNCdndMYThQbzhZZlQ0ZnhpSnBMYlAzTmtGbXZ4cC1MZExrTnd2akIwRWxZTmdmSzZxd0ZLOXRkV3NwQmdZUUJuZ3pSOWZZUGNqRnQzZHBORVYzekxncHVwSHZScTdCVnVwWjBUVXc?oc=5\" target=\"_blank\">Columbia County, Google & Georgia Power announce partnership on data center development, restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJBF</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T22:51:07+00:00"
+    },
     {
       "id": "9944829b6167157e",
       "title": "OpenAI is bringing a massive AI data center to Georgia. Here's what residents should know. - CBS News",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T20:56:07+00:00",
+  "last_updated": "2026-07-23T22:51:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,42 +26,42 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 115,
+      "count": 117,
       "new_mentions_this_run": 16,
       "latest_mention": {
-        "id": "d7932749740508e1",
-        "title": "Alabama Power shares energy-saving tips - WSFA",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGU5aFJPNUN2aV8wempmeHBJWHRSSm01QWtuc2tRQkV2VGxzdzZTMEtpTTNjR3I5NlpWZGpuMEhuOEIzaHBLQy1mSndLQmhFblI4TVlkX0NqQUM3T2pKQVZKS0dEVGJJSU9qR2xNUm5Qek1jRGhBaDd2cGFCcHpRYm1ZNnM?oc=5",
+        "id": "80e04d981ca5dc9e",
+        "title": "Alabama Power signs on to President Trump's Ratepayer Protection Pledge: 'Committed to putting customers first' - Yellowhammer News",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSEpLd29jRHp5OVMzZzJ5ektySlVrUF96Q0V3RFdUVlhXSGF6eHNMdmRqeElEZzJIR21yY09Pa09KcVFlbnJ0bjFXLVF5NUdXNnJqWjVSSlh2SEJDVGEzckM0V1dEVDNHdl9pRm1vTWNlOXk4SGRNZG5YLU5qSTlaVnZOQURDLXRLeV83WUN0VTlPMjhKczRWNDBSQk1YVjBuck8xMTdXNFJlNGNDWERiZjhrZWVYTnFHamhuQ2Z1Qm40T3VsRFdYYXA3NnBKMGpUOXR3?oc=5",
         "domain": "news.google.com",
-        "source": "WSFA",
+        "source": "Yellowhammer News",
         "language": "English",
-        "published_at": "2026-07-23T16:40:50+00:00",
-        "summary": "Alabama Power shares energy-saving tips WSFA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGU5aFJPNUN2aV8wempmeHBJWHRSSm01QWtuc2tRQkV2VGxzdzZTMEtpTTNjR3I5NlpWZGpuMEhuOEIzaHBLQy1mSndLQmhFblI4TVlkX0NqQUM3T2pKQVZKS0dEVGJJSU9qR2xNUm5Qek1jRGhBaDd2cGFCcHpRYm1ZNnM?oc=5\" target=\"_blank\">Alabama Power shares energy-saving tips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
+        "published_at": "2026-07-23T20:52:45+00:00",
+        "summary": "Alabama Power signs on to President Trump's Ratepayer Protection Pledge: 'Committed to putting customers first' Yellowhammer News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSEpLd29jRHp5OVMzZzJ5ektySlVrUF96Q0V3RFdUVlhXSGF6eHNMdmRqeElEZzJIR21yY09Pa09KcVFlbnJ0bjFXLVF5NUdXNnJqWjVSSlh2SEJDVGEzckM0V1dEVDNHdl9pRm1vTWNlOXk4SGRNZG5YLU5qSTlaVnZOQURDLXRLeV83WUN0VTlPMjhKczRWNDBSQk1YVjBuck8xMTdXNFJlNGNDWERiZjhrZWVYTnFHamhuQ2Z1Qm40T3VsRFdYYXA3NnBKMGpUOXR3?oc=5\" target=\"_blank\">Alabama Power signs on to President Trump's Ratepayer Protection Pledge: 'Committed to putting customers first'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellowhammer News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-23T17:13:24+00:00"
+        "collected_at": "2026-07-23T22:50:50+00:00"
       }
     },
     {
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 25,
+      "count": 26,
       "new_mentions_this_run": 3,
       "latest_mention": {
-        "id": "372ab7ffa82231ea",
-        "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - WPR",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUJsb3lhRWt2NDZhSmV4eGZEWjR3UE8weEZxZUtjYmY5eXhaZEJUeGVZQ0kzTEVRcnlDeVFRWmNnREJRRExVS3JUT2U3Q3RnT1pDNVV5WmpwZ3JxMlNRRUtzaW5aaGRvemF0czFxRWFGUHlBVzBtT0VQc1h0VjJtMWlTeVI4aVFGQXVBMGE1NUFHTnR1RWlEVU9zSkFyZ2NzdEl3bFVxNndGelBH?oc=5",
+        "id": "23cd3bb3397fdae2",
+        "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5",
         "domain": "news.google.com",
-        "source": "WPR",
+        "source": "American Nuclear Society",
         "language": "English",
-        "published_at": "2026-07-07T21:58:20+00:00",
-        "summary": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks WPR",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUJsb3lhRWt2NDZhSmV4eGZEWjR3UE8weEZxZUtjYmY5eXhaZEJUeGVZQ0kzTEVRcnlDeVFRWmNnREJRRExVS3JUT2U3Q3RnT1pDNVV5WmpwZ3JxMlNRRUtzaW5aaGRvemF0czFxRWFGUHlBVzBtT0VQc1h0VjJtMWlTeVI4aVFGQXVBMGE1NUFHTnR1RWlEVU9zSkFyZ2NzdEl3bFVxNndGelBH?oc=5\" target=\"_blank\">A Wisconsin company is using fusion technology to beat supply chain bottlenecks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPR</font>",
+        "published_at": "2026-07-23T15:30:18+00:00",
+        "summary": "Shine receives $263M conditional DOE loan to complete isotope facility American Nuclear Society",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5\" target=\"_blank\">Shine receives $263M conditional DOE loan to complete isotope facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-08T06:23:29+00:00"
+        "collected_at": "2026-07-23T22:50:56+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 273,
+      "count": 274,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "9944829b6167157e",
-        "title": "OpenAI is bringing a massive AI data center to Georgia. Here's what residents should know. - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ1hYdXZPeGNlYjFqV0tnSFVKcC1CaGsxT2UtdHhwZ3NvWlFacXd0YnZEVWVaeVZXWHNUbTlxc2xiaGk3RXF2NW1md3YyUWdKZl8zZ2hibzUydlJWQWZ2NGpkNUstbTNUczQ2Qk05bUcwMDBqSTBFNENacDJlOFpFQVk3SnlSVmhCMW44VHFEcUhjZ3lKOFRFZjY0amZyTEhHSVFHQ2FXbmU0Tm90TW5VTXlKODJMUzJvMEFXT0FFaVZTWXc?oc=5",
+        "id": "2cd267a4a41e8064",
+        "title": "Columbia County, Google & Georgia Power announce partnership on data center development, restrictions - WJBF",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRE1LNXV5bHhzV3U4VjhZMXVpSTR3UC15M2Y4Ui1HM2hBUUdQRWlua19oRUJYa2lOZVNlQUhIQ000M2VWYnFNNE1nYmg5TnJsT28yRDBkM3dXQzBndl9QTXY5OG9obGlsTUY2RzE3Z09LWk05NlBXa3VfbV9TcjJ3elBqOVFTQTFkWmdMUVhxTjQxOExBZDFQd2ZZeGNhQnY1N0Z5MVY5MW1BZDQxTWkwMmZ2NUo3Y2d00gG-AUFVX3lxTE0xYjZQY2pRUDhLZnpRMFBORllZX1hMRGpzRXRwS2o0bTZmZF8yRDBqSXFycEJERXM5aklaTFZSQlBEWTlRT3dGWTBST0NDRk5iSnZ3VHdyOHNCdndMYThQbzhZZlQ0ZnhpSnBMYlAzTmtGbXZ4cC1MZExrTnd2akIwRWxZTmdmSzZxd0ZLOXRkV3NwQmdZUUJuZ3pSOWZZUGNqRnQzZHBORVYzekxncHVwSHZScTdCVnVwWjBUVXc?oc=5",
         "domain": "news.google.com",
-        "source": "CBS News",
+        "source": "WJBF",
         "language": "English",
-        "published_at": "2026-07-23T18:48:52+00:00",
-        "summary": "OpenAI is bringing a massive AI data center to Georgia. Here's what residents should know. CBS News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ1hYdXZPeGNlYjFqV0tnSFVKcC1CaGsxT2UtdHhwZ3NvWlFacXd0YnZEVWVaeVZXWHNUbTlxc2xiaGk3RXF2NW1md3YyUWdKZl8zZ2hibzUydlJWQWZ2NGpkNUstbTNUczQ2Qk05bUcwMDBqSTBFNENacDJlOFpFQVk3SnlSVmhCMW44VHFEcUhjZ3lKOFRFZjY0amZyTEhHSVFHQ2FXbmU0Tm90TW5VTXlKODJMUzJvMEFXT0FFaVZTWXc?oc=5\" target=\"_blank\">OpenAI is bringing a massive AI data center to Georgia. Here's what residents should know.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "published_at": "2026-07-23T19:33:40+00:00",
+        "summary": "Columbia County, Google & Georgia Power announce partnership on data center development, restrictions WJBF",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRE1LNXV5bHhzV3U4VjhZMXVpSTR3UC15M2Y4Ui1HM2hBUUdQRWlua19oRUJYa2lOZVNlQUhIQ000M2VWYnFNNE1nYmg5TnJsT28yRDBkM3dXQzBndl9QTXY5OG9obGlsTUY2RzE3Z09LWk05NlBXa3VfbV9TcjJ3elBqOVFTQTFkWmdMUVhxTjQxOExBZDFQd2ZZeGNhQnY1N0Z5MVY5MW1BZDQxTWkwMmZ2NUo3Y2d00gG-AUFVX3lxTE0xYjZQY2pRUDhLZnpRMFBORllZX1hMRGpzRXRwS2o0bTZmZF8yRDBqSXFycEJERXM5aklaTFZSQlBEWTlRT3dGWTBST0NDRk5iSnZ3VHdyOHNCdndMYThQbzhZZlQ0ZnhpSnBMYlAzTmtGbXZ4cC1MZExrTnd2akIwRWxZTmdmSzZxd0ZLOXRkV3NwQmdZUUJuZ3pSOWZZUGNqRnQzZHBORVYzekxncHVwSHZScTdCVnVwWjBUVXc?oc=5\" target=\"_blank\">Columbia County, Google & Georgia Power announce partnership on data center development, restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJBF</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-23T19:05:16+00:00"
+        "collected_at": "2026-07-23T22:51:07+00:00"
       }
     },
     {
