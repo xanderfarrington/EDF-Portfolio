@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-23T10:14:37+00:00",
+  "last_updated": "2026-07-23T13:42:02+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 264,
+  "count": 265,
   "mentions": [
+    {
+      "id": "456a7a98fd93b784",
+      "title": "OpenAI Unveils 3.2GW 'Project Camellia' Data Center Campus in Effingham County, Georgia - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXdKTndrV1ZUTFhJQ1A0WlZiWUljUzA0dW5NVGtMR2o0SnpWTTllV1pKMkhEa3Axel9SLXlKSU1PVS1pTDExelZ1NkFBbThMakx6b05sUTVoa1ZuOThGOVoyVi1RRXdKbDJySUl6NzYtYmxad3BQUmUwRVE2WHhTM05DVFNKcTZxQ2lJcmZyN3dvUm5PY1FwbENlbkhhUlpwcEJBeFZXYw?oc=5",
+      "domain": "news.google.com",
+      "source": "MLQ.ai",
+      "language": "English",
+      "published_at": "2026-07-23T12:05:03+00:00",
+      "summary": "OpenAI Unveils 3.2GW 'Project Camellia' Data Center Campus in Effingham County, Georgia MLQ.ai",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXdKTndrV1ZUTFhJQ1A0WlZiWUljUzA0dW5NVGtMR2o0SnpWTTllV1pKMkhEa3Axel9SLXlKSU1PVS1pTDExelZ1NkFBbThMakx6b05sUTVoa1ZuOThGOVoyVi1RRXdKbDJySUl6NzYtYmxad3BQUmUwRVE2WHhTM05DVFNKcTZxQ2lJcmZyN3dvUm5PY1FwbENlbkhhUlpwcEJBeFZXYw?oc=5\" target=\"_blank\">OpenAI Unveils 3.2GW 'Project Camellia' Data Center Campus in Effingham County, Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLQ.ai</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T13:42:02+00:00"
+    },
     {
       "id": "76669548939390f4",
       "title": "How Georgia avoids the national power grid crisis | Opinion - Savannah Morning News",
