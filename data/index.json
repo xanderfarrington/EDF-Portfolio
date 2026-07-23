@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T06:26:07+00:00",
+  "last_updated": "2026-07-23T10:14:48+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 114,
-      "new_mentions_this_run": 13,
+      "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "19a1fe74987af075",
         "title": "Alabama Power program predicts power outages before they happen - WVUA 23",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 261,
+      "count": 264,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "d4ee987dd9a606b5",
-        "title": "Georgia Power Signs 25-Year Agreement With Open AI for 'Project Camellia' in Effingham County - The Georgia Virtue",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVzBZa0V1VWxuY2lGcElXMWxTNkhwNVVrM29WR0IzYVVoYlA5Vm5UQ2c3ZnhTbHl1MjV1OG1rWkVMajZ6djQ5bDZEa2l1Y2syRXh5UktpVWpaUk9NWFVmYm4yMElJd3dHYlZOdFFka0FlSnFFYVVpd2o0b2FvN1FBcnY3dGVtOFUyTWtUNjB6QlpiSEdqeDJqVEZsUVdtQmNfNEJrVHZTRVA3WUtuYlllMEtZZ0FrSXBzeTd6TGVVLUxOekd5Zzh3RWJBelZhaDRfdUU2MVBlcy1uUFlWWVBReEp6S0M?oc=5",
+        "id": "76669548939390f4",
+        "title": "How Georgia avoids the national power grid crisis | Opinion - Savannah Morning News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZHVfekwxdTFERTBMaE9NQkRkanVOSl9UY2FOSHQ3VkVlYW03THNlXzdoc0g0SHV6VHhWRWN5U2ZHd2EyV3RTbk9pYk5yUjVlb2h6Q09wTzlTeGZzU1ZpYkZBZXdtV3FqeVRSa2hPU0lJQmdwS2p6Zmt1N3BUZW13WW1pNklMZG9WMFFNT0lUZU04MDEyclRsaEF5VTk4VUwxVGlXYUwza0FWN0dZQzB1TDFndUhsSlF6T0FEWjB2RXQ4dHpza0ZSQQ?oc=5",
         "domain": "news.google.com",
-        "source": "The Georgia Virtue",
+        "source": "Savannah Morning News",
         "language": "English",
-        "published_at": "2026-07-23T00:02:22+00:00",
-        "summary": "Georgia Power Signs 25-Year Agreement With Open AI for 'Project Camellia' in Effingham County The Georgia Virtue",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVzBZa0V1VWxuY2lGcElXMWxTNkhwNVVrM29WR0IzYVVoYlA5Vm5UQ2c3ZnhTbHl1MjV1OG1rWkVMajZ6djQ5bDZEa2l1Y2syRXh5UktpVWpaUk9NWFVmYm4yMElJd3dHYlZOdFFka0FlSnFFYVVpd2o0b2FvN1FBcnY3dGVtOFUyTWtUNjB6QlpiSEdqeDJqVEZsUVdtQmNfNEJrVHZTRVA3WUtuYlllMEtZZ0FrSXBzeTd6TGVVLUxOekd5Zzh3RWJBelZhaDRfdUU2MVBlcy1uUFlWWVBReEp6S0M?oc=5\" target=\"_blank\">Georgia Power Signs 25-Year Agreement With Open AI for 'Project Camellia' in Effingham County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Georgia Virtue</font>",
+        "published_at": "2026-07-23T09:03:00+00:00",
+        "summary": "How Georgia avoids the national power grid crisis | Opinion Savannah Morning News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZHVfekwxdTFERTBMaE9NQkRkanVOSl9UY2FOSHQ3VkVlYW03THNlXzdoc0g0SHV6VHhWRWN5U2ZHd2EyV3RTbk9pYk5yUjVlb2h6Q09wTzlTeGZzU1ZpYkZBZXdtV3FqeVRSa2hPU0lJQmdwS2p6Zmt1N3BUZW13WW1pNklMZG9WMFFNT0lUZU04MDEyclRsaEF5VTk4VUwxVGlXYUwza0FWN0dZQzB1TDFndUhsSlF6T0FEWjB2RXQ4dHpza0ZSQQ?oc=5\" target=\"_blank\">How Georgia avoids the national power grid crisis | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-23T02:09:42+00:00"
+        "collected_at": "2026-07-23T10:14:37+00:00"
       }
     },
     {

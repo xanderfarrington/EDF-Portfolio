@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-23T06:25:57+00:00",
+  "last_updated": "2026-07-23T10:14:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 261,
+  "count": 264,
   "mentions": [
+    {
+      "id": "76669548939390f4",
+      "title": "How Georgia avoids the national power grid crisis | Opinion - Savannah Morning News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZHVfekwxdTFERTBMaE9NQkRkanVOSl9UY2FOSHQ3VkVlYW03THNlXzdoc0g0SHV6VHhWRWN5U2ZHd2EyV3RTbk9pYk5yUjVlb2h6Q09wTzlTeGZzU1ZpYkZBZXdtV3FqeVRSa2hPU0lJQmdwS2p6Zmt1N3BUZW13WW1pNklMZG9WMFFNT0lUZU04MDEyclRsaEF5VTk4VUwxVGlXYUwza0FWN0dZQzB1TDFndUhsSlF6T0FEWjB2RXQ4dHpza0ZSQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Savannah Morning News",
+      "language": "English",
+      "published_at": "2026-07-23T09:03:00+00:00",
+      "summary": "How Georgia avoids the national power grid crisis | Opinion Savannah Morning News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZHVfekwxdTFERTBMaE9NQkRkanVOSl9UY2FOSHQ3VkVlYW03THNlXzdoc0g0SHV6VHhWRWN5U2ZHd2EyV3RTbk9pYk5yUjVlb2h6Q09wTzlTeGZzU1ZpYkZBZXdtV3FqeVRSa2hPU0lJQmdwS2p6Zmt1N3BUZW13WW1pNklMZG9WMFFNT0lUZU04MDEyclRsaEF5VTk4VUwxVGlXYUwza0FWN0dZQzB1TDFndUhsSlF6T0FEWjB2RXQ4dHpza0ZSQQ?oc=5\" target=\"_blank\">How Georgia avoids the national power grid crisis | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T10:14:37+00:00"
+    },
+    {
+      "id": "bed61215dbec6d12",
+      "title": "Georgia Power 100 tight ends include highest-rated GISA prospect this century - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdG5hMFJxa29DdS0tVG9FOWtjUDBzMWV5Q1dOUjBWM2pTZ1U4eEgtV3ZydlF1NzRVdk5yLUF4a0NnazZzSENNMm9lWkpwdTFlQzVReWliMnBzVzlZZnp1QVBhdHpSTm1PM21BMjZNSXJIQkRHLUlVVHR4QkJTQ2xSZXpJbW1Kc2ZBeUdoSXVuWE1XQnhnTV9HR3JreG45ZmlVQW8tN1J0RVBBMlFaZUFCeTNLOA?oc=5",
+      "domain": "news.google.com",
+      "source": "AJC.com",
+      "language": "English",
+      "published_at": "2026-07-23T09:01:11+00:00",
+      "summary": "Georgia Power 100 tight ends include highest-rated GISA prospect this century AJC.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdG5hMFJxa29DdS0tVG9FOWtjUDBzMWV5Q1dOUjBWM2pTZ1U4eEgtV3ZydlF1NzRVdk5yLUF4a0NnazZzSENNMm9lWkpwdTFlQzVReWliMnBzVzlZZnp1QVBhdHpSTm1PM21BMjZNSXJIQkRHLUlVVHR4QkJTQ2xSZXpJbW1Kc2ZBeUdoSXVuWE1XQnhnTV9HR3JreG45ZmlVQW8tN1J0RVBBMlFaZUFCeTNLOA?oc=5\" target=\"_blank\">Georgia Power 100 tight ends include highest-rated GISA prospect this century</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T10:14:37+00:00"
+    },
     {
       "id": "d4ee987dd9a606b5",
       "title": "Georgia Power Signs 25-Year Agreement With Open AI for 'Project Camellia' in Effingham County - The Georgia Virtue",
@@ -19,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-23T02:09:42+00:00"
+    },
+    {
+      "id": "af0001a8697d9ea7",
+      "title": "Georgia Power AI - The Georgia Virtue",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSjUwLV9rSzBZZl93a20zVE82MzFhUDBGN1RudnZ3RFpVa1RTOVBzWUNEZnJTanE1UFBGenlSdnVZY0RtRV9RMEd2MlV3a1dwWG9GUGhnWVI5NGRidWdManVCdXEzZnhRelVST3kweDRVeU5jRWtuLWl1Q0J0RWtQaGNTNW9nQ0ZYSkhJb1RsOGc3Wk9ieFBIVUg0Z25EMTVMc1pHOEE1d0hueF9RQ0o2bmdFWG9EM2ptSHc3S0ROVHRRd1Z6X2ZPdkVmakZHV0d6Q3NveF9UQU9fVzVhUTh5NmYtZkJMYnU3cWIyaU9qMXdyVmc5bDdNMVZ2S1N5U2psN3BSSEJnRExnZw?oc=5",
+      "domain": "news.google.com",
+      "source": "The Georgia Virtue",
+      "language": "English",
+      "published_at": "2026-07-23T00:02:03+00:00",
+      "summary": "Georgia Power AI The Georgia Virtue",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQSjUwLV9rSzBZZl93a20zVE82MzFhUDBGN1RudnZ3RFpVa1RTOVBzWUNEZnJTanE1UFBGenlSdnVZY0RtRV9RMEd2MlV3a1dwWG9GUGhnWVI5NGRidWdManVCdXEzZnhRelVST3kweDRVeU5jRWtuLWl1Q0J0RWtQaGNTNW9nQ0ZYSkhJb1RsOGc3Wk9ieFBIVUg0Z25EMTVMc1pHOEE1d0hueF9RQ0o2bmdFWG9EM2ptSHc3S0ROVHRRd1Z6X2ZPdkVmakZHV0d6Q3NveF9UQU9fVzVhUTh5NmYtZkJMYnU3cWIyaU9qMXdyVmc5bDdNMVZ2S1N5U2psN3BSSEJnRExnZw?oc=5\" target=\"_blank\">Georgia Power AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Georgia Virtue</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T10:14:37+00:00"
     },
     {
       "id": "67c8efb054d2d5d4",
