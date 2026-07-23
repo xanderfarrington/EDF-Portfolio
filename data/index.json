@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T15:51:09+00:00",
+  "last_updated": "2026-07-23T17:13:51+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 114,
+      "count": 115,
       "new_mentions_this_run": 15,
       "latest_mention": {
-        "id": "19a1fe74987af075",
-        "title": "Alabama Power program predicts power outages before they happen - WVUA 23",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOTlXZ3pCT2Zpd0lleHV5N0RtNzJCdFNXaUp0YUxZa1Y5elVlcExFV1hTSUxEc3pNWG9pN2t2ekJYZkZlVXZib0Q3Skp6MjBOZWwwTHVDak52aEhoUGdCUVQ0NjZ5RTAyaFhLanVPekZGdkRHOXZtaVRvVmZpZ1FEb3ZEMlJVQ2JuRXZpR3BzdERwMmVhazg4Y1dVR0d1dkt0QnZTWnVPejZGcURiMXJOR0hxQ2tlcDJzWVphN3lhQlRnSXZPMmNGM2xrTHdiajRNRjctZGg3WmY?oc=5",
+        "id": "d7932749740508e1",
+        "title": "Alabama Power shares energy-saving tips - WSFA",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGU5aFJPNUN2aV8wempmeHBJWHRSSm01QWtuc2tRQkV2VGxzdzZTMEtpTTNjR3I5NlpWZGpuMEhuOEIzaHBLQy1mSndLQmhFblI4TVlkX0NqQUM3T2pKQVZKS0dEVGJJSU9qR2xNUm5Qek1jRGhBaDd2cGFCcHpRYm1ZNnM?oc=5",
         "domain": "news.google.com",
-        "source": "WVUA 23",
+        "source": "WSFA",
         "language": "English",
-        "published_at": "2026-07-21T21:31:00+00:00",
-        "summary": "Alabama Power program predicts power outages before they happen WVUA 23",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOTlXZ3pCT2Zpd0lleHV5N0RtNzJCdFNXaUp0YUxZa1Y5elVlcExFV1hTSUxEc3pNWG9pN2t2ekJYZkZlVXZib0Q3Skp6MjBOZWwwTHVDak52aEhoUGdCUVQ0NjZ5RTAyaFhLanVPekZGdkRHOXZtaVRvVmZpZ1FEb3ZEMlJVQ2JuRXZpR3BzdERwMmVhazg4Y1dVR0d1dkt0QnZTWnVPejZGcURiMXJOR0hxQ2tlcDJzWVphN3lhQlRnSXZPMmNGM2xrTHdiajRNRjctZGg3WmY?oc=5\" target=\"_blank\">Alabama Power program predicts power outages before they happen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVUA 23</font>",
+        "published_at": "2026-07-23T16:40:50+00:00",
+        "summary": "Alabama Power shares energy-saving tips WSFA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGU5aFJPNUN2aV8wempmeHBJWHRSSm01QWtuc2tRQkV2VGxzdzZTMEtpTTNjR3I5NlpWZGpuMEhuOEIzaHBLQy1mSndLQmhFblI4TVlkX0NqQUM3T2pKQVZKS0dEVGJJSU9qR2xNUm5Qek1jRGhBaDd2cGFCcHpRYm1ZNnM?oc=5\" target=\"_blank\">Alabama Power shares energy-saving tips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-22T15:27:45+00:00"
+        "collected_at": "2026-07-23T17:13:24+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 268,
+      "count": 269,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "456a7a98fd93b784",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 18,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",

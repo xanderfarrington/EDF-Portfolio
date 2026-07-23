@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-23T15:50:58+00:00",
+  "last_updated": "2026-07-23T17:13:41+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 268,
+  "count": 269,
   "mentions": [
     {
       "id": "456a7a98fd93b784",
@@ -215,6 +215,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-22T15:28:01+00:00"
+    },
+    {
+      "id": "52334b7335783c33",
+      "title": "Building AI infrastructure with the Effingham County community - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmNkUXk3TTVKaXRtOE1ubjFXcEtUMFM3SU5nQW5QY2hRRWxvYm0tbWVNVHVJSXZicTdEQi15RnpvSEh1dEVCT0tZZWtpZmdMdjk1bC1NNzNBY3JCWV8yTmJ4amZDNFBjX3hYVGRyanFXY0lyMkV4S29zTzIwWnlabFpyb3VGV1FJUDZ3MVdnTlQwUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "OpenAI",
+      "language": "English",
+      "published_at": "2026-07-22T13:02:31+00:00",
+      "summary": "Building AI infrastructure with the Effingham County community OpenAI",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORmNkUXk3TTVKaXRtOE1ubjFXcEtUMFM3SU5nQW5QY2hRRWxvYm0tbWVNVHVJSXZicTdEQi15RnpvSEh1dEVCT0tZZWtpZmdMdjk1bC1NNzNBY3JCWV8yTmJ4amZDNFBjX3hYVGRyanFXY0lyMkV4S29zTzIwWnlabFpyb3VGV1FJUDZ3MVdnTlQwUQ?oc=5\" target=\"_blank\">Building AI infrastructure with the Effingham County community</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T17:13:41+00:00"
     },
     {
       "id": "2e3343e38f9f9dea",

@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-23T15:50:41+00:00",
+  "last_updated": "2026-07-23T17:13:24+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 114,
+  "count": 115,
   "mentions": [
+    {
+      "id": "d7932749740508e1",
+      "title": "Alabama Power shares energy-saving tips - WSFA",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGU5aFJPNUN2aV8wempmeHBJWHRSSm01QWtuc2tRQkV2VGxzdzZTMEtpTTNjR3I5NlpWZGpuMEhuOEIzaHBLQy1mSndLQmhFblI4TVlkX0NqQUM3T2pKQVZKS0dEVGJJSU9qR2xNUm5Qek1jRGhBaDd2cGFCcHpRYm1ZNnM?oc=5",
+      "domain": "news.google.com",
+      "source": "WSFA",
+      "language": "English",
+      "published_at": "2026-07-23T16:40:50+00:00",
+      "summary": "Alabama Power shares energy-saving tips WSFA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGU5aFJPNUN2aV8wempmeHBJWHRSSm01QWtuc2tRQkV2VGxzdzZTMEtpTTNjR3I5NlpWZGpuMEhuOEIzaHBLQy1mSndLQmhFblI4TVlkX0NqQUM3T2pKQVZKS0dEVGJJSU9qR2xNUm5Qek1jRGhBaDd2cGFCcHpRYm1ZNnM?oc=5\" target=\"_blank\">Alabama Power shares energy-saving tips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-23T17:13:24+00:00"
+    },
     {
       "id": "19a1fe74987af075",
       "title": "Alabama Power program predicts power outages before they happen - WVUA 23",
