@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-24T02:05:05+00:00",
+  "last_updated": "2026-07-24T06:20:50+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 117,
+  "count": 118,
   "mentions": [
     {
       "id": "80e04d981ca5dc9e",
@@ -215,6 +215,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-20T06:40:42+00:00"
+    },
+    {
+      "id": "65b491f6ea3f97c6",
+      "title": "Alabama Power agrees to fix low hanging wire in Gardendale - WBRC 6 News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWXI2ajZQZXZ5WDFtWlk3WEx5aDdHbklfcG1iSXhXMFVoNURHX2NlUHdEZm5XQUZfX1JXWXVUYnhWVnRpNUY0Zk9MYjhwTkVqY2Zza0ttQ21BTXJVNnR1V3RVNUpvRWFnajhsUEZPTXNzd0Qzb3FQNWlKU0IxSi04bF9XTUJMLS1JNWRtYjdiWDJVanZ4N1E?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC 6 News",
+      "language": "English",
+      "published_at": "2026-07-20T00:46:34+00:00",
+      "summary": "Alabama Power agrees to fix low hanging wire in Gardendale WBRC 6 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNWXI2ajZQZXZ5WDFtWlk3WEx5aDdHbklfcG1iSXhXMFVoNURHX2NlUHdEZm5XQUZfX1JXWXVUYnhWVnRpNUY0Zk9MYjhwTkVqY2Zza0ttQ21BTXJVNnR1V3RVNUpvRWFnajhsUEZPTXNzd0Qzb3FQNWlKU0IxSi04bF9XTUJMLS1JNWRtYjdiWDJVanZ4N1E?oc=5\" target=\"_blank\">Alabama Power agrees to fix low hanging wire in Gardendale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC 6 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-24T06:20:50+00:00"
     },
     {
       "id": "698f87f852d80413",
