@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-24T13:23:48+00:00",
+  "last_updated": "2026-07-24T15:21:55+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 47,
+  "count": 48,
   "mentions": [
+    {
+      "id": "1516830718c0040f",
+      "title": "AEP|American Electric Power Company Inc|Price:134.920| - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSDdwX0ZreGJzUGxvMFo5NkQ5Z2xNZTJXR1JnLXFKYjYwOUpDcGx3U1plc0pYVVB0azVtaERMb1FUUFJoU2xHc1JXd3Y5amdPMXdTem1lb2tMS1FPZkRxZGRwSQ?oc=5",
+      "domain": "news.google.com",
+      "source": "TradingKey",
+      "language": "English",
+      "published_at": "2026-07-24T12:32:47+00:00",
+      "summary": "AEP|American Electric Power Company Inc|Price:134.920| TradingKey",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSDdwX0ZreGJzUGxvMFo5NkQ5Z2xNZTJXR1JnLXFKYjYwOUpDcGx3U1plc0pYVVB0azVtaERMb1FUUFJoU2xHc1JXd3Y5amdPMXdTem1lb2tMS1FPZkRxZGRwSQ?oc=5\" target=\"_blank\">AEP|American Electric Power Company Inc|Price:134.920|</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-24T15:21:55+00:00"
+    },
     {
       "id": "ec25e5d5b3b4527e",
       "title": "AEPB Bond Profile — Key Metrics - TradingView",

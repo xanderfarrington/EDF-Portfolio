@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-07-24T13:24:20+00:00",
+  "last_updated": "2026-07-24T15:22:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 47,
-      "new_mentions_this_run": 7,
+      "count": 48,
+      "new_mentions_this_run": 8,
       "latest_mention": {
-        "id": "ec25e5d5b3b4527e",
-        "title": "AEPB Bond Profile — Key Metrics - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKR2I3akhhRU95aHZLdFJXNzZTeklEU1p1d2ZBeG9JRU5ZM291aExUTFFfYk1xNzR4NlVOdDMwLVFLQ2xXalp2aHM5X1d2Y1BWTzhRTmp3WVdwc0d5aTY2M0kzUDRWSG03ak1mcFJuRQ?oc=5",
+        "id": "1516830718c0040f",
+        "title": "AEP|American Electric Power Company Inc|Price:134.920| - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSDdwX0ZreGJzUGxvMFo5NkQ5Z2xNZTJXR1JnLXFKYjYwOUpDcGx3U1plc0pYVVB0azVtaERMb1FUUFJoU2xHc1JXd3Y5amdPMXdTem1lb2tMS1FPZkRxZGRwSQ?oc=5",
         "domain": "news.google.com",
-        "source": "TradingView",
+        "source": "TradingKey",
         "language": "English",
-        "published_at": "2026-07-23T23:47:42+00:00",
-        "summary": "AEPB Bond Profile — Key Metrics TradingView",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBKR2I3akhhRU95aHZLdFJXNzZTeklEU1p1d2ZBeG9JRU5ZM291aExUTFFfYk1xNzR4NlVOdDMwLVFLQ2xXalp2aHM5X1d2Y1BWTzhRTmp3WVdwc0d5aTY2M0kzUDRWSG03ak1mcFJuRQ?oc=5\" target=\"_blank\">AEPB Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "published_at": "2026-07-24T12:32:47+00:00",
+        "summary": "AEP|American Electric Power Company Inc|Price:134.920| TradingKey",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSDdwX0ZreGJzUGxvMFo5NkQ5Z2xNZTJXR1JnLXFKYjYwOUpDcGx3U1plc0pYVVB0azVtaERMb1FUUFJoU2xHc1JXd3Y5amdPMXdTem1lb2tMS1FPZkRxZGRwSQ?oc=5\" target=\"_blank\">AEP|American Electric Power Company Inc|Price:134.920|</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-24T06:20:45+00:00"
+        "collected_at": "2026-07-24T15:21:55+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 118,
-      "new_mentions_this_run": 16,
+      "count": 120,
+      "new_mentions_this_run": 18,
       "latest_mention": {
-        "id": "80e04d981ca5dc9e",
-        "title": "Alabama Power signs on to President Trump's Ratepayer Protection Pledge: 'Committed to putting customers first' - Yellowhammer News",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSEpLd29jRHp5OVMzZzJ5ektySlVrUF96Q0V3RFdUVlhXSGF6eHNMdmRqeElEZzJIR21yY09Pa09KcVFlbnJ0bjFXLVF5NUdXNnJqWjVSSlh2SEJDVGEzckM0V1dEVDNHdl9pRm1vTWNlOXk4SGRNZG5YLU5qSTlaVnZOQURDLXRLeV83WUN0VTlPMjhKczRWNDBSQk1YVjBuck8xMTdXNFJlNGNDWERiZjhrZWVYTnFHamhuQ2Z1Qm40T3VsRFdYYXA3NnBKMGpUOXR3?oc=5",
+        "id": "5a7a04365e7335f0",
+        "title": "Alabama Power tests unmanned drone to speed up power restoration - WVUA 23",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVdlQTVYU2pCcTBnMS1HVUZ1VHVyaUI0RWNFTUNNdkVtdEJYTkstUTg4SFN1NVlfM3d0NXhtRHdVTS02c3otZ3NLeGYwcEZDblNKdGQ3akxFQmxYTXJzdC1qc3p2TE5CRnBULUFGeU9Rd3E5OEhRWXlweDd6X3Vvak40cklxeXdoTF9qd0ZUenZQWUwwMzJaTlJ3RU1rSWlaZHdFbUYxZF9MRTM0NlVyYlpZekRCMExZdUJWS2FOb2x1RThQMzQ1OWF1aTAyS3NrZ2NJLUQtWkh1UQ?oc=5",
         "domain": "news.google.com",
-        "source": "Yellowhammer News",
+        "source": "WVUA 23",
         "language": "English",
-        "published_at": "2026-07-23T20:52:45+00:00",
-        "summary": "Alabama Power signs on to President Trump's Ratepayer Protection Pledge: 'Committed to putting customers first' Yellowhammer News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSEpLd29jRHp5OVMzZzJ5ektySlVrUF96Q0V3RFdUVlhXSGF6eHNMdmRqeElEZzJIR21yY09Pa09KcVFlbnJ0bjFXLVF5NUdXNnJqWjVSSlh2SEJDVGEzckM0V1dEVDNHdl9pRm1vTWNlOXk4SGRNZG5YLU5qSTlaVnZOQURDLXRLeV83WUN0VTlPMjhKczRWNDBSQk1YVjBuck8xMTdXNFJlNGNDWERiZjhrZWVYTnFHamhuQ2Z1Qm40T3VsRFdYYXA3NnBKMGpUOXR3?oc=5\" target=\"_blank\">Alabama Power signs on to President Trump's Ratepayer Protection Pledge: 'Committed to putting customers first'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellowhammer News</font>",
+        "published_at": "2026-07-24T14:57:00+00:00",
+        "summary": "Alabama Power tests unmanned drone to speed up power restoration WVUA 23",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVdlQTVYU2pCcTBnMS1HVUZ1VHVyaUI0RWNFTUNNdkVtdEJYTkstUTg4SFN1NVlfM3d0NXhtRHdVTS02c3otZ3NLeGYwcEZDblNKdGQ3akxFQmxYTXJzdC1qc3p2TE5CRnBULUFGeU9Rd3E5OEhRWXlweDd6X3Vvak40cklxeXdoTF9qd0ZUenZQWUwwMzJaTlJ3RU1rSWlaZHdFbUYxZF9MRTM0NlVyYlpZekRCMExZdUJWS2FOb2x1RThQMzQ1OWF1aTAyS3NrZ2NJLUQtWkh1UQ?oc=5\" target=\"_blank\">Alabama Power tests unmanned drone to speed up power restoration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVUA 23</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-23T22:50:50+00:00"
+        "collected_at": "2026-07-24T15:22:00+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 18,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",
