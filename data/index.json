@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-24T20:57:20+00:00",
+  "last_updated": "2026-07-24T22:56:47+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 51,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "1516830718c0040f",
         "title": "AEP|American Electric Power Company Inc|Price:134.920| - TradingKey",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 123,
+      "count": 124,
       "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "7a49e09421bfcd69",
-        "title": "Alabama Power adds two members to board of directors By Investing.com - Investing.com Canada",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmhHT2k3N3MzdEZvZEFrWm1jem1ISTllT2FlN2U0Q2xvVDh1dTRoNDV5T014Ymd1SW1sd3hVUGdDX0o2Y3VZaExvdGo1TFlRTmhyM2IxU3R3UU5HYndqcnVuNF9VSUR5MDM3Y20xNVJjU05wWmRNdXFEclgxSnZodTNGWmI1ZTM2RnpWckpIWUZ6anR5U2lPekhSX2tUNFFIU2NIWHM4eHljaWpjeGdBV2xwOA?oc=5",
+        "id": "5561b075930b1f39",
+        "title": "Alabama Power adds two members to board of directors - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGMtc2hkSER1ckVLXy1KMEZRd3g1UXlqTkh2eVlSeWdiTGR4dlZOOWtTTkJZR2I0dmNoclJRVHNJbXJaMVczcHB4Vlc5ZnRQR3hkT2NiZHZuLXloV285WlFnSkZuWk1nZzZKVFNNZkl2UTQwVkdPZnNRcGw2Q0FxZzRsZXJJTmctbnFYTjhWV3ZOUF8tTU9tanlqZFZIZmlsSXM2MnY4aUgyYjBLUlE?oc=5",
         "domain": "news.google.com",
-        "source": "Investing.com Canada",
+        "source": "Investing.com",
         "language": "English",
-        "published_at": "2026-07-24T20:51:19+00:00",
-        "summary": "Alabama Power adds two members to board of directors By Investing.com Investing.com Canada",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmhHT2k3N3MzdEZvZEFrWm1jem1ISTllT2FlN2U0Q2xvVDh1dTRoNDV5T014Ymd1SW1sd3hVUGdDX0o2Y3VZaExvdGo1TFlRTmhyM2IxU3R3UU5HYndqcnVuNF9VSUR5MDM3Y20xNVJjU05wWmRNdXFEclgxSnZodTNGWmI1ZTM2RnpWckpIWUZ6anR5U2lPekhSX2tUNFFIU2NIWHM4eHljaWpjeGdBV2xwOA?oc=5\" target=\"_blank\">Alabama Power adds two members to board of directors By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+        "published_at": "2026-07-24T21:25:19+00:00",
+        "summary": "Alabama Power adds two members to board of directors Investing.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGMtc2hkSER1ckVLXy1KMEZRd3g1UXlqTkh2eVlSeWdiTGR4dlZOOWtTTkJZR2I0dmNoclJRVHNJbXJaMVczcHB4Vlc5ZnRQR3hkT2NiZHZuLXloV285WlFnSkZuWk1nZzZKVFNNZkl2UTQwVkdPZnNRcGw2Q0FxZzRsZXJJTmctbnFYTjhWV3ZOUF8tTU9tanlqZFZIZmlsSXM2MnY4aUgyYjBLUlE?oc=5\" target=\"_blank\">Alabama Power adds two members to board of directors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-24T20:56:53+00:00"
+        "collected_at": "2026-07-24T22:56:20+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 279,
+      "count": 281,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "b5f078a998ad9e73",
-        "title": "Georgia Power to serve major OpenAI project under new customer protection agreement - Daily Energy Insider",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYUtOYkR0QXF5TWRpclFNcG1Tb0dYWVNobE1iUWdfYklvVHZfa3FjNWZZN2phenRFQlRicUdYMzVWTnFMLVBnQzRxaWRIOUlCcVRaZzlieFVUQXZoQnl0aVc0Ym9rX21CZDJTNjMzclZhckJGbHRVdWtobVY0ZlJDSS1JMktRU3Y5cnFBbEUwQU5NTk44NUNnbVhzdlVwZ3o3TjlhNVlEOVp0YjJZSHZjRGVldy1QekhUMU1aMVRoZDZKWWNV?oc=5",
+        "id": "035aa013fdab72b6",
+        "title": "Georgia Power, White House make energy pledges as a data center alliance forms in GA - Columbus Ledger-Enquirer",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaS1sMFJZVVpJS3RvazBOREtCeUt0NlVwVTNmem5WcjBaRUhtMG82LUk3VmY3TW1WSVBGVmVfdHppTXdkenE5M0haR1lHY19aOWZuUFVJZjlFZmhFaXVNWnIyRDNiQTN2TlQ5U2JXZHpCLVBvQmxQLWQ2V0jSAXxBVV95cUxQZno0MG4yZlp0NUNSajJXTEZZMldvUFpRMDdPQWthSGs2dWwtWEF4NzNNOWVEeDJEMXFDdUpMSDlFR1dzNW45SjhiNXNTQ29yV3JGR2lObFdickVxQVVsbzFXdnZBYlBwOFcyNzJiWmktNU83LW5uNll3VGxY?oc=5",
         "domain": "news.google.com",
-        "source": "Daily Energy Insider",
+        "source": "Columbus Ledger-Enquirer",
         "language": "English",
-        "published_at": "2026-07-24T11:59:53+00:00",
-        "summary": "Georgia Power to serve major OpenAI project under new customer protection agreement Daily Energy Insider",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNYUtOYkR0QXF5TWRpclFNcG1Tb0dYWVNobE1iUWdfYklvVHZfa3FjNWZZN2phenRFQlRicUdYMzVWTnFMLVBnQzRxaWRIOUlCcVRaZzlieFVUQXZoQnl0aVc0Ym9rX21CZDJTNjMzclZhckJGbHRVdWtobVY0ZlJDSS1JMktRU3Y5cnFBbEUwQU5NTk44NUNnbVhzdlVwZ3o3TjlhNVlEOVp0YjJZSHZjRGVldy1QekhUMU1aMVRoZDZKWWNV?oc=5\" target=\"_blank\">Georgia Power to serve major OpenAI project under new customer protection agreement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+        "published_at": "2026-07-24T19:27:30+00:00",
+        "summary": "Georgia Power, White House make energy pledges as a data center alliance forms in GA Columbus Ledger-Enquirer",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaS1sMFJZVVpJS3RvazBOREtCeUt0NlVwVTNmem5WcjBaRUhtMG82LUk3VmY3TW1WSVBGVmVfdHppTXdkenE5M0haR1lHY19aOWZuUFVJZjlFZmhFaXVNWnIyRDNiQTN2TlQ5U2JXZHpCLVBvQmxQLWQ2V0jSAXxBVV95cUxQZno0MG4yZlp0NUNSajJXTEZZMldvUFpRMDdPQWthSGs2dWwtWEF4NzNNOWVEeDJEMXFDdUpMSDlFR1dzNW45SjhiNXNTQ29yV3JGR2lObFdickVxQVVsbzFXdnZBYlBwOFcyNzJiWmktNU83LW5uNll3VGxY?oc=5\" target=\"_blank\">Georgia Power, White House make energy pledges as a data center alliance forms in GA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbus Ledger-Enquirer</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-24T13:24:10+00:00"
+        "collected_at": "2026-07-24T22:56:37+00:00"
       }
     },
     {

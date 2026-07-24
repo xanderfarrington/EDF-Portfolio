@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-24T20:57:09+00:00",
+  "last_updated": "2026-07-24T22:56:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 279,
+  "count": 281,
   "mentions": [
+    {
+      "id": "035aa013fdab72b6",
+      "title": "Georgia Power, White House make energy pledges as a data center alliance forms in GA - Columbus Ledger-Enquirer",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaS1sMFJZVVpJS3RvazBOREtCeUt0NlVwVTNmem5WcjBaRUhtMG82LUk3VmY3TW1WSVBGVmVfdHppTXdkenE5M0haR1lHY19aOWZuUFVJZjlFZmhFaXVNWnIyRDNiQTN2TlQ5U2JXZHpCLVBvQmxQLWQ2V0jSAXxBVV95cUxQZno0MG4yZlp0NUNSajJXTEZZMldvUFpRMDdPQWthSGs2dWwtWEF4NzNNOWVEeDJEMXFDdUpMSDlFR1dzNW45SjhiNXNTQ29yV3JGR2lObFdickVxQVVsbzFXdnZBYlBwOFcyNzJiWmktNU83LW5uNll3VGxY?oc=5",
+      "domain": "news.google.com",
+      "source": "Columbus Ledger-Enquirer",
+      "language": "English",
+      "published_at": "2026-07-24T19:27:30+00:00",
+      "summary": "Georgia Power, White House make energy pledges as a data center alliance forms in GA Columbus Ledger-Enquirer",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaS1sMFJZVVpJS3RvazBOREtCeUt0NlVwVTNmem5WcjBaRUhtMG82LUk3VmY3TW1WSVBGVmVfdHppTXdkenE5M0haR1lHY19aOWZuUFVJZjlFZmhFaXVNWnIyRDNiQTN2TlQ5U2JXZHpCLVBvQmxQLWQ2V0jSAXxBVV95cUxQZno0MG4yZlp0NUNSajJXTEZZMldvUFpRMDdPQWthSGs2dWwtWEF4NzNNOWVEeDJEMXFDdUpMSDlFR1dzNW45SjhiNXNTQ29yV3JGR2lObFdickVxQVVsbzFXdnZBYlBwOFcyNzJiWmktNU83LW5uNll3VGxY?oc=5\" target=\"_blank\">Georgia Power, White House make energy pledges as a data center alliance forms in GA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbus Ledger-Enquirer</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-24T22:56:37+00:00"
+    },
     {
       "id": "b5f078a998ad9e73",
       "title": "Georgia Power to serve major OpenAI project under new customer protection agreement - Daily Energy Insider",
@@ -229,6 +243,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-23T02:09:42+00:00"
+    },
+    {
+      "id": "f77fe270a10b0e50",
+      "title": "Georgia Power working with OpenAI on new Effingham County project - WSPA 7News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCeEtJOTJpUzVhX1Q1SW9odEp4bXRJTDVhbVRuMDlsbzdSdU1LVWVTU0VHZEl3SXI1LU9iaDNBNUIyc3RkUnNpQmFBY0lBUW9GeXpLWVBTdmo1QjlKSEJCUmN2TkdVQ254VzNVUFFhc2o?oc=5",
+      "domain": "news.google.com",
+      "source": "WSPA 7News",
+      "language": "English",
+      "published_at": "2026-07-22T20:59:23+00:00",
+      "summary": "Georgia Power working with OpenAI on new Effingham County project WSPA 7News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBCeEtJOTJpUzVhX1Q1SW9odEp4bXRJTDVhbVRuMDlsbzdSdU1LVWVTU0VHZEl3SXI1LU9iaDNBNUIyc3RkUnNpQmFBY0lBUW9GeXpLWVBTdmo1QjlKSEJCUmN2TkdVQ254VzNVUFFhc2o?oc=5\" target=\"_blank\">Georgia Power working with OpenAI on new Effingham County project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSPA 7News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-24T22:56:37+00:00"
     },
     {
       "id": "9ac78589462ba22b",
