@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-24T17:24:20+00:00",
+  "last_updated": "2026-07-24T19:17:56+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 48,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "1516830718c0040f",
         "title": "AEP|American Electric Power Company Inc|Price:134.920| - TradingKey",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 120,
-      "new_mentions_this_run": 18,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "5a7a04365e7335f0",
         "title": "Alabama Power tests unmanned drone to speed up power restoration - WVUA 23",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 26,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "23cd3bb3397fdae2",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 62,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 279,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "b5f078a998ad9e73",
         "title": "Georgia Power to serve major OpenAI project under new customer protection agreement - Daily Energy Insider",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 18,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",
