@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-24T19:17:56+00:00",
+  "last_updated": "2026-07-24T20:57:20+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 48,
-      "new_mentions_this_run": 0,
+      "count": 51,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "1516830718c0040f",
         "title": "AEP|American Electric Power Company Inc|Price:134.920| - TradingKey",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 120,
-      "new_mentions_this_run": 0,
+      "count": 123,
+      "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "5a7a04365e7335f0",
-        "title": "Alabama Power tests unmanned drone to speed up power restoration - WVUA 23",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVdlQTVYU2pCcTBnMS1HVUZ1VHVyaUI0RWNFTUNNdkVtdEJYTkstUTg4SFN1NVlfM3d0NXhtRHdVTS02c3otZ3NLeGYwcEZDblNKdGQ3akxFQmxYTXJzdC1qc3p2TE5CRnBULUFGeU9Rd3E5OEhRWXlweDd6X3Vvak40cklxeXdoTF9qd0ZUenZQWUwwMzJaTlJ3RU1rSWlaZHdFbUYxZF9MRTM0NlVyYlpZekRCMExZdUJWS2FOb2x1RThQMzQ1OWF1aTAyS3NrZ2NJLUQtWkh1UQ?oc=5",
+        "id": "7a49e09421bfcd69",
+        "title": "Alabama Power adds two members to board of directors By Investing.com - Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmhHT2k3N3MzdEZvZEFrWm1jem1ISTllT2FlN2U0Q2xvVDh1dTRoNDV5T014Ymd1SW1sd3hVUGdDX0o2Y3VZaExvdGo1TFlRTmhyM2IxU3R3UU5HYndqcnVuNF9VSUR5MDM3Y20xNVJjU05wWmRNdXFEclgxSnZodTNGWmI1ZTM2RnpWckpIWUZ6anR5U2lPekhSX2tUNFFIU2NIWHM4eHljaWpjeGdBV2xwOA?oc=5",
         "domain": "news.google.com",
-        "source": "WVUA 23",
+        "source": "Investing.com Canada",
         "language": "English",
-        "published_at": "2026-07-24T14:57:00+00:00",
-        "summary": "Alabama Power tests unmanned drone to speed up power restoration WVUA 23",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVdlQTVYU2pCcTBnMS1HVUZ1VHVyaUI0RWNFTUNNdkVtdEJYTkstUTg4SFN1NVlfM3d0NXhtRHdVTS02c3otZ3NLeGYwcEZDblNKdGQ3akxFQmxYTXJzdC1qc3p2TE5CRnBULUFGeU9Rd3E5OEhRWXlweDd6X3Vvak40cklxeXdoTF9qd0ZUenZQWUwwMzJaTlJ3RU1rSWlaZHdFbUYxZF9MRTM0NlVyYlpZekRCMExZdUJWS2FOb2x1RThQMzQ1OWF1aTAyS3NrZ2NJLUQtWkh1UQ?oc=5\" target=\"_blank\">Alabama Power tests unmanned drone to speed up power restoration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVUA 23</font>",
+        "published_at": "2026-07-24T20:51:19+00:00",
+        "summary": "Alabama Power adds two members to board of directors By Investing.com Investing.com Canada",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmhHT2k3N3MzdEZvZEFrWm1jem1ISTllT2FlN2U0Q2xvVDh1dTRoNDV5T014Ymd1SW1sd3hVUGdDX0o2Y3VZaExvdGo1TFlRTmhyM2IxU3R3UU5HYndqcnVuNF9VSUR5MDM3Y20xNVJjU05wWmRNdXFEclgxSnZodTNGWmI1ZTM2RnpWckpIWUZ6anR5U2lPekhSX2tUNFFIU2NIWHM4eHljaWpjeGdBV2xwOA?oc=5\" target=\"_blank\">Alabama Power adds two members to board of directors By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-24T15:22:00+00:00"
+        "collected_at": "2026-07-24T20:56:53+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 26,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "23cd3bb3397fdae2",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 62,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 279,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "b5f078a998ad9e73",
         "title": "Georgia Power to serve major OpenAI project under new customer protection agreement - Daily Energy Insider",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 18,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",

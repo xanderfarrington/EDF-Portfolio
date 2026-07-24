@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-24T19:16:51+00:00",
+  "last_updated": "2026-07-24T20:56:47+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 48,
+  "count": 51,
   "mentions": [
     {
       "id": "1516830718c0040f",
@@ -19,6 +19,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-24T15:21:55+00:00"
+    },
+    {
+      "id": "4b914b81aa19b6f4",
+      "title": "AEP|American Electric Power Company Inc|Price:134.910|Chg%:+1.840 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwYndETDhfb09Wb1hOX1hZLU1xX0hEZUF0WUtxSmhLUFh0VnBwNkJTQlN4cEU0bDV4U0ZrRXJ6V1drZEltSFVwb3Z3bEF3Rk4tYVlqOEZwdTk?oc=5",
+      "domain": "news.google.com",
+      "source": "TradingKey",
+      "language": "English",
+      "published_at": "2026-07-24T10:58:53+00:00",
+      "summary": "AEP|American Electric Power Company Inc|Price:134.910|Chg%:+1.840 TradingKey",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwYndETDhfb09Wb1hOX1hZLU1xX0hEZUF0WUtxSmhLUFh0VnBwNkJTQlN4cEU0bDV4U0ZrRXJ6V1drZEltSFVwb3Z3bEF3Rk4tYVlqOEZwdTk?oc=5\" target=\"_blank\">AEP|American Electric Power Company Inc|Price:134.910|Chg%:+1.840</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-24T20:56:47+00:00"
+    },
+    {
+      "id": "155313529520531d",
+      "title": "AEP5834279 Bond Profile — Key Metrics - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jWEc1TndGYnpfRG42NF84YlItdHFjcnkwbnpWbGhLbzZ3cHhhRGxOdV9aZTR5cUR4Yk05LUViZ29SRDFocTlvT1hzMUhLY2NtR1BGVkZUdWhfY3FnVk80bDZpUHRYSzNnTHhhTjQ4TW1KSTI0YUpJd2x3?oc=5",
+      "domain": "news.google.com",
+      "source": "TradingView",
+      "language": "English",
+      "published_at": "2026-07-24T10:12:08+00:00",
+      "summary": "AEP5834279 Bond Profile — Key Metrics TradingView",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1jWEc1TndGYnpfRG42NF84YlItdHFjcnkwbnpWbGhLbzZ3cHhhRGxOdV9aZTR5cUR4Yk05LUViZ29SRDFocTlvT1hzMUhLY2NtR1BGVkZUdWhfY3FnVk80bDZpUHRYSzNnTHhhTjQ4TW1KSTI0YUpJd2x3?oc=5\" target=\"_blank\">AEP5834279 Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-24T20:56:47+00:00"
     },
     {
       "id": "ec25e5d5b3b4527e",
@@ -47,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-24T13:23:48+00:00"
+    },
+    {
+      "id": "66c7cca3f31728e9",
+      "title": "AEP|American Electric Power Company Inc|Price:134.920| - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1Rm9iOURPaUNKUDRWSzBTR3BzamxjY3pEUDJpUndpR281VFQtc1VwU2tQUExwbVE2cnVnekR6a0pzeXZnenJ3ZkxOZnJYNWs4cW1hWW9ITmk4ZUpoVEQyZ0NSRk83T2FGSmVVSw?oc=5",
+      "domain": "news.google.com",
+      "source": "TradingKey",
+      "language": "English",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "summary": "AEP|American Electric Power Company Inc|Price:134.920| TradingKey",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFA1Rm9iOURPaUNKUDRWSzBTR3BzamxjY3pEUDJpUndpR281VFQtc1VwU2tQUExwbVE2cnVnekR6a0pzeXZnenJ3ZkxOZnJYNWs4cW1hWW9ITmk4ZUpoVEQyZ0NSRk83T2FGSmVVSw?oc=5\" target=\"_blank\">AEP|American Electric Power Company Inc|Price:134.920|</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-24T20:56:47+00:00"
     },
     {
       "id": "66598511264402a0",
