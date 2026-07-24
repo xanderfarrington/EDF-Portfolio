@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T06:21:17+00:00",
+  "last_updated": "2026-07-24T10:11:47+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 26,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "23cd3bb3397fdae2",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 62,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 274,
+      "count": 278,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "2cd267a4a41e8064",
-        "title": "Columbia County, Google & Georgia Power announce partnership on data center development, restrictions - WJBF",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRE1LNXV5bHhzV3U4VjhZMXVpSTR3UC15M2Y4Ui1HM2hBUUdQRWlua19oRUJYa2lOZVNlQUhIQ000M2VWYnFNNE1nYmg5TnJsT28yRDBkM3dXQzBndl9QTXY5OG9obGlsTUY2RzE3Z09LWk05NlBXa3VfbV9TcjJ3elBqOVFTQTFkWmdMUVhxTjQxOExBZDFQd2ZZeGNhQnY1N0Z5MVY5MW1BZDQxTWkwMmZ2NUo3Y2d00gG-AUFVX3lxTE0xYjZQY2pRUDhLZnpRMFBORllZX1hMRGpzRXRwS2o0bTZmZF8yRDBqSXFycEJERXM5aklaTFZSQlBEWTlRT3dGWTBST0NDRk5iSnZ3VHdyOHNCdndMYThQbzhZZlQ0ZnhpSnBMYlAzTmtGbXZ4cC1MZExrTnd2akIwRWxZTmdmSzZxd0ZLOXRkV3NwQmdZUUJuZ3pSOWZZUGNqRnQzZHBORVYzekxncHVwSHZScTdCVnVwWjBUVXc?oc=5",
+        "id": "ebce177848060f8e",
+        "title": "Kemp joins Trump effort to shield consumers from data center power costs - AJC.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVk4WlVjZy1Rd2VWYzk1cjBXXzNmZFlxSEdnWHlMaFRtYl81S1hSZ1Q4eTY1MFNKZ2JudklUdDA2d0pMbzNlM1ZzcWd4TmhrZFdDdi1adUI3MExXa1M5NjRvUUhNaHFjM1FrbmMtVnNyWkUzYzI3a0RhUjEyZjNJOFNfRkFBY092N1RQQnJka3BmQWJVQm1BSmVBWnU1ek5HR3ljTWNmRUlyTHdQdmln?oc=5",
         "domain": "news.google.com",
-        "source": "WJBF",
+        "source": "AJC.com",
         "language": "English",
-        "published_at": "2026-07-23T19:33:40+00:00",
-        "summary": "Columbia County, Google & Georgia Power announce partnership on data center development, restrictions WJBF",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRE1LNXV5bHhzV3U4VjhZMXVpSTR3UC15M2Y4Ui1HM2hBUUdQRWlua19oRUJYa2lOZVNlQUhIQ000M2VWYnFNNE1nYmg5TnJsT28yRDBkM3dXQzBndl9QTXY5OG9obGlsTUY2RzE3Z09LWk05NlBXa3VfbV9TcjJ3elBqOVFTQTFkWmdMUVhxTjQxOExBZDFQd2ZZeGNhQnY1N0Z5MVY5MW1BZDQxTWkwMmZ2NUo3Y2d00gG-AUFVX3lxTE0xYjZQY2pRUDhLZnpRMFBORllZX1hMRGpzRXRwS2o0bTZmZF8yRDBqSXFycEJERXM5aklaTFZSQlBEWTlRT3dGWTBST0NDRk5iSnZ3VHdyOHNCdndMYThQbzhZZlQ0ZnhpSnBMYlAzTmtGbXZ4cC1MZExrTnd2akIwRWxZTmdmSzZxd0ZLOXRkV3NwQmdZUUJuZ3pSOWZZUGNqRnQzZHBORVYzekxncHVwSHZScTdCVnVwWjBUVXc?oc=5\" target=\"_blank\">Columbia County, Google & Georgia Power announce partnership on data center development, restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJBF</font>",
+        "published_at": "2026-07-24T10:01:22+00:00",
+        "summary": "Kemp joins Trump effort to shield consumers from data center power costs AJC.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVk4WlVjZy1Rd2VWYzk1cjBXXzNmZFlxSEdnWHlMaFRtYl81S1hSZ1Q4eTY1MFNKZ2JudklUdDA2d0pMbzNlM1ZzcWd4TmhrZFdDdi1adUI3MExXa1M5NjRvUUhNaHFjM1FrbmMtVnNyWkUzYzI3a0RhUjEyZjNJOFNfRkFBY092N1RQQnJka3BmQWJVQm1BSmVBWnU1ek5HR3ljTWNmRUlyTHdQdmln?oc=5\" target=\"_blank\">Kemp joins Trump effort to shield consumers from data center power costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-23T22:51:07+00:00"
+        "collected_at": "2026-07-24T10:11:37+00:00"
       }
     },
     {
