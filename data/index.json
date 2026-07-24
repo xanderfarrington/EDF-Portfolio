@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-24T10:11:47+00:00",
+  "last_updated": "2026-07-24T13:24:20+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 46,
-      "new_mentions_this_run": 6,
+      "count": 47,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "ec25e5d5b3b4527e",
         "title": "AEPB Bond Profile — Key Metrics - TradingView",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 278,
+      "count": 279,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "ebce177848060f8e",
-        "title": "Kemp joins Trump effort to shield consumers from data center power costs - AJC.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVk4WlVjZy1Rd2VWYzk1cjBXXzNmZFlxSEdnWHlMaFRtYl81S1hSZ1Q4eTY1MFNKZ2JudklUdDA2d0pMbzNlM1ZzcWd4TmhrZFdDdi1adUI3MExXa1M5NjRvUUhNaHFjM1FrbmMtVnNyWkUzYzI3a0RhUjEyZjNJOFNfRkFBY092N1RQQnJka3BmQWJVQm1BSmVBWnU1ek5HR3ljTWNmRUlyTHdQdmln?oc=5",
+        "id": "b5f078a998ad9e73",
+        "title": "Georgia Power to serve major OpenAI project under new customer protection agreement - Daily Energy Insider",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYUtOYkR0QXF5TWRpclFNcG1Tb0dYWVNobE1iUWdfYklvVHZfa3FjNWZZN2phenRFQlRicUdYMzVWTnFMLVBnQzRxaWRIOUlCcVRaZzlieFVUQXZoQnl0aVc0Ym9rX21CZDJTNjMzclZhckJGbHRVdWtobVY0ZlJDSS1JMktRU3Y5cnFBbEUwQU5NTk44NUNnbVhzdlVwZ3o3TjlhNVlEOVp0YjJZSHZjRGVldy1QekhUMU1aMVRoZDZKWWNV?oc=5",
         "domain": "news.google.com",
-        "source": "AJC.com",
+        "source": "Daily Energy Insider",
         "language": "English",
-        "published_at": "2026-07-24T10:01:22+00:00",
-        "summary": "Kemp joins Trump effort to shield consumers from data center power costs AJC.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVk4WlVjZy1Rd2VWYzk1cjBXXzNmZFlxSEdnWHlMaFRtYl81S1hSZ1Q4eTY1MFNKZ2JudklUdDA2d0pMbzNlM1ZzcWd4TmhrZFdDdi1adUI3MExXa1M5NjRvUUhNaHFjM1FrbmMtVnNyWkUzYzI3a0RhUjEyZjNJOFNfRkFBY092N1RQQnJka3BmQWJVQm1BSmVBWnU1ek5HR3ljTWNmRUlyTHdQdmln?oc=5\" target=\"_blank\">Kemp joins Trump effort to shield consumers from data center power costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+        "published_at": "2026-07-24T11:59:53+00:00",
+        "summary": "Georgia Power to serve major OpenAI project under new customer protection agreement Daily Energy Insider",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNYUtOYkR0QXF5TWRpclFNcG1Tb0dYWVNobE1iUWdfYklvVHZfa3FjNWZZN2phenRFQlRicUdYMzVWTnFMLVBnQzRxaWRIOUlCcVRaZzlieFVUQXZoQnl0aVc0Ym9rX21CZDJTNjMzclZhckJGbHRVdWtobVY0ZlJDSS1JMktRU3Y5cnFBbEUwQU5NTk44NUNnbVhzdlVwZ3o3TjlhNVlEOVp0YjJZSHZjRGVldy1QekhUMU1aMVRoZDZKWWNV?oc=5\" target=\"_blank\">Georgia Power to serve major OpenAI project under new customer protection agreement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-24T10:11:37+00:00"
+        "collected_at": "2026-07-24T13:24:10+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 18,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",

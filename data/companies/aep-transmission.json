@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-24T10:11:15+00:00",
+  "last_updated": "2026-07-24T13:23:48+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 46,
+  "count": 47,
   "mentions": [
     {
       "id": "ec25e5d5b3b4527e",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-24T06:20:45+00:00"
+    },
+    {
+      "id": "4d520b499aaebe6c",
+      "title": "American Electric Power Company, Inc. (AEP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pWjNCb0Z2R0c2a0lEWVpweVp3WTdLRmRhd1gwYlZkSVNIeGhQX3hlT01zMDlGUkl2aFkzcUJzQVIwZlAzT010TGZaSkVPeFJn?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo! Finance Canada",
+      "language": "English",
+      "published_at": "2026-07-23T22:48:09+00:00",
+      "summary": "American Electric Power Company, Inc. (AEP) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pWjNCb0Z2R0c2a0lEWVpweVp3WTdLRmRhd1gwYlZkSVNIeGhQX3hlT01zMDlGUkl2aFkzcUJzQVIwZlAzT010TGZaSkVPeFJn?oc=5\" target=\"_blank\">American Electric Power Company, Inc. (AEP) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-24T13:23:48+00:00"
     },
     {
       "id": "66598511264402a0",

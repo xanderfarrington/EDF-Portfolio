@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-24T10:11:37+00:00",
+  "last_updated": "2026-07-24T13:24:10+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 278,
+  "count": 279,
   "mentions": [
+    {
+      "id": "b5f078a998ad9e73",
+      "title": "Georgia Power to serve major OpenAI project under new customer protection agreement - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYUtOYkR0QXF5TWRpclFNcG1Tb0dYWVNobE1iUWdfYklvVHZfa3FjNWZZN2phenRFQlRicUdYMzVWTnFMLVBnQzRxaWRIOUlCcVRaZzlieFVUQXZoQnl0aVc0Ym9rX21CZDJTNjMzclZhckJGbHRVdWtobVY0ZlJDSS1JMktRU3Y5cnFBbEUwQU5NTk44NUNnbVhzdlVwZ3o3TjlhNVlEOVp0YjJZSHZjRGVldy1QekhUMU1aMVRoZDZKWWNV?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-07-24T11:59:53+00:00",
+      "summary": "Georgia Power to serve major OpenAI project under new customer protection agreement Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNYUtOYkR0QXF5TWRpclFNcG1Tb0dYWVNobE1iUWdfYklvVHZfa3FjNWZZN2phenRFQlRicUdYMzVWTnFMLVBnQzRxaWRIOUlCcVRaZzlieFVUQXZoQnl0aVc0Ym9rX21CZDJTNjMzclZhckJGbHRVdWtobVY0ZlJDSS1JMktRU3Y5cnFBbEUwQU5NTk44NUNnbVhzdlVwZ3o3TjlhNVlEOVp0YjJZSHZjRGVldy1QekhUMU1aMVRoZDZKWWNV?oc=5\" target=\"_blank\">Georgia Power to serve major OpenAI project under new customer protection agreement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-24T13:24:10+00:00"
+    },
     {
       "id": "ebce177848060f8e",
       "title": "Kemp joins Trump effort to shield consumers from data center power costs - AJC.com",
