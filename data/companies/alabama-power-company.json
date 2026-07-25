@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-25T13:10:38+00:00",
+  "last_updated": "2026-07-25T14:57:14+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 128,
+  "count": 130,
   "mentions": [
+    {
+      "id": "543b67cd545fa0c8",
+      "title": "Alabama Power adds two members to board of directors By Investing.com - Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVThJV2RuQ1NpbXdfejZyd1dwU0J4SHdEbHpURkR5eEU4SGNqNlNSWTBTWHkzbGxlYkFiWVBJQXY5RmpfZXJkMkVnblV1ZUxnSEtlSEt2dl9LbDhiTGw4UGxILVBGQXNQdTk4YVRDckRDUUdSMVpNWkEwMWFSMHVST2x0N01KNl96cFFaSGJHNzVDMEdaUlBUZUVPNHpWb2c2Vkx5TjJjME1tTjRmczRsM2ItdmRIejU2cTZlT05iRDRlWDQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Investing.com UK",
+      "language": "English",
+      "published_at": "2026-07-25T07:56:32+00:00",
+      "summary": "Alabama Power adds two members to board of directors By Investing.com Investing.com UK",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVThJV2RuQ1NpbXdfejZyd1dwU0J4SHdEbHpURkR5eEU4SGNqNlNSWTBTWHkzbGxlYkFiWVBJQXY5RmpfZXJkMkVnblV1ZUxnSEtlSEt2dl9LbDhiTGw4UGxILVBGQXNQdTk4YVRDckRDUUdSMVpNWkEwMWFSMHVST2x0N01KNl96cFFaSGJHNzVDMEdaUlBUZUVPNHpWb2c2Vkx5TjJjME1tTjRmczRsM2ItdmRIejU2cTZlT05iRDRlWDQ?oc=5\" target=\"_blank\">Alabama Power adds two members to board of directors By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-25T14:57:14+00:00"
+    },
     {
       "id": "351be7118cef7972",
       "title": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS - Rockdale Citizen",
@@ -117,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-25T09:42:00+00:00"
+    },
+    {
+      "id": "d9f4eaba348819fe",
+      "title": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS - The Conway Daily Sun",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ3lhbm56Y3MtNlhiWU54anBUWndaQU00T1VuZWl4a24zV0YxeEVSRC1adXVxWjU3VVJjNjRDVmJUU2UtZ2hXNGNRMFdIUFMwMTlzU3FFOHhNYlFMZE0tWml0VmlxeEx6ZHNmOERhTHk3VnA4c2xqOFYtU0ZWLUV4bmtxSVBUdXd0RVI5Y0dFQjl5TV9Cb1ZvRl9sam9sRUV4ajhReGNxdlM5VXNoSWprWFhHOEVLeTV2WlBOUG5WTnE4TU5KSlh4YVdqZTFta3pVMjlSVFBqWDZuWU9XemNaYTBIS05BRHhzb0w5eXVrNV8yMzhERzdTdzRfVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "The Conway Daily Sun",
+      "language": "English",
+      "published_at": "2026-07-24T20:40:00+00:00",
+      "summary": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS The Conway Daily Sun",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ3lhbm56Y3MtNlhiWU54anBUWndaQU00T1VuZWl4a24zV0YxeEVSRC1adXVxWjU3VVJjNjRDVmJUU2UtZ2hXNGNRMFdIUFMwMTlzU3FFOHhNYlFMZE0tWml0VmlxeEx6ZHNmOERhTHk3VnA4c2xqOFYtU0ZWLUV4bmtxSVBUdXd0RVI5Y0dFQjl5TV9Cb1ZvRl9sam9sRUV4ajhReGNxdlM5VXNoSWprWFhHOEVLeTV2WlBOUG5WTnE4TU5KSlh4YVdqZTFta3pVMjlSVFBqWDZuWU9XemNaYTBIS05BRHhzb0w5eXVrNV8yMzhERzdTdzRfVQ?oc=5\" target=\"_blank\">ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conway Daily Sun</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-25T14:57:14+00:00"
     },
     {
       "id": "5a7a04365e7335f0",

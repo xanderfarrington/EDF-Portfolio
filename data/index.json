@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T13:11:05+00:00",
+  "last_updated": "2026-07-25T14:57:41+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 128,
-      "new_mentions_this_run": 23,
+      "count": 130,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "351be7118cef7972",
-        "title": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS - Rockdale Citizen",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSHNuTkFmM3MycHZfWE90eDlSSEo2QlplXzVVdDZPcnhiaDBxYjZIUmVVSTc0SXJHWTd0eWV5Q29hYUM1WGZpaG92ZmRQWWIxZVVLWHd2ZDRvSk1TVDczNFI3ZFJLdEd6N0pnOG9YX2Nya2c0ek0zU0Y1TmN1dTlMcEd2Nzh1T2Fpc0lQWFdrM1B4MThSMWZjaVNvUE5BUlFhNlRVU3ZNTzFzMUl0REVVNjUyeVcwYWlaSHp2TndqVXplSTVuOWxqOUFLT3dQaHpWVzFoMFJzSTZ6OHhiWWI3ZlJURkxRcTU2NjdjMS0yOWttejQwQkxGU05xVm5oTVVPUldxbg?oc=5",
+        "id": "543b67cd545fa0c8",
+        "title": "Alabama Power adds two members to board of directors By Investing.com - Investing.com UK",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVThJV2RuQ1NpbXdfejZyd1dwU0J4SHdEbHpURkR5eEU4SGNqNlNSWTBTWHkzbGxlYkFiWVBJQXY5RmpfZXJkMkVnblV1ZUxnSEtlSEt2dl9LbDhiTGw4UGxILVBGQXNQdTk4YVRDckRDUUdSMVpNWkEwMWFSMHVST2x0N01KNl96cFFaSGJHNzVDMEdaUlBUZUVPNHpWb2c2Vkx5TjJjME1tTjRmczRsM2ItdmRIejU2cTZlT05iRDRlWDQ?oc=5",
         "domain": "news.google.com",
-        "source": "Rockdale Citizen",
+        "source": "Investing.com UK",
         "language": "English",
-        "published_at": "2026-07-25T07:30:41+00:00",
-        "summary": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS Rockdale Citizen",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPSHNuTkFmM3MycHZfWE90eDlSSEo2QlplXzVVdDZPcnhiaDBxYjZIUmVVSTc0SXJHWTd0eWV5Q29hYUM1WGZpaG92ZmRQWWIxZVVLWHd2ZDRvSk1TVDczNFI3ZFJLdEd6N0pnOG9YX2Nya2c0ek0zU0Y1TmN1dTlMcEd2Nzh1T2Fpc0lQWFdrM1B4MThSMWZjaVNvUE5BUlFhNlRVU3ZNTzFzMUl0REVVNjUyeVcwYWlaSHp2TndqVXplSTVuOWxqOUFLT3dQaHpWVzFoMFJzSTZ6OHhiWWI3ZlJURkxRcTU2NjdjMS0yOWttejQwQkxGU05xVm5oTVVPUldxbg?oc=5\" target=\"_blank\">ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rockdale Citizen</font>",
+        "published_at": "2026-07-25T07:56:32+00:00",
+        "summary": "Alabama Power adds two members to board of directors By Investing.com Investing.com UK",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVThJV2RuQ1NpbXdfejZyd1dwU0J4SHdEbHpURkR5eEU4SGNqNlNSWTBTWHkzbGxlYkFiWVBJQXY5RmpfZXJkMkVnblV1ZUxnSEtlSEt2dl9LbDhiTGw4UGxILVBGQXNQdTk4YVRDckRDUUdSMVpNWkEwMWFSMHVST2x0N01KNl96cFFaSGJHNzVDMEdaUlBUZUVPNHpWb2c2Vkx5TjJjME1tTjRmczRsM2ItdmRIejU2cTZlT05iRDRlWDQ?oc=5\" target=\"_blank\">Alabama Power adds two members to board of directors By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-25T09:42:00+00:00"
+        "collected_at": "2026-07-25T14:57:14+00:00"
       }
     },
     {
