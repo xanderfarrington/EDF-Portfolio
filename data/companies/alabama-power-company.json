@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-24T22:56:20+00:00",
+  "last_updated": "2026-07-25T02:04:50+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 124,
+  "count": 125,
   "mentions": [
+    {
+      "id": "819b9766644f76f7",
+      "title": "Alabama Power adds two members to board of directors By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelV5WXl4WnlDOERrWEt1ZW1BSllDdkc5TXdUOV84bEF5akE0YzluV1pyYXNVWmRScnZuSG1DeE13VmlGbFdBN2hLcTc5V2JBclROVEhySkZYclBEeHlrRGtPNFhJYjNYYkhId1NreVltVkhnMU0wNzAwcUU3M01IY19wdUY3ZHJnWlF6Rl9KbDN3UXZsWjA1azZpeEtSbWdzc3lqSHQ1eFU4cTlNT1dYV2d5QVFuVkI1dGI4ckdjTlROWTg?oc=5",
+      "domain": "news.google.com",
+      "source": "Investing.com India",
+      "language": "English",
+      "published_at": "2026-07-24T21:27:23+00:00",
+      "summary": "Alabama Power adds two members to board of directors By Investing.com Investing.com India",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelV5WXl4WnlDOERrWEt1ZW1BSllDdkc5TXdUOV84bEF5akE0YzluV1pyYXNVWmRScnZuSG1DeE13VmlGbFdBN2hLcTc5V2JBclROVEhySkZYclBEeHlrRGtPNFhJYjNYYkhId1NreVltVkhnMU0wNzAwcUU3M01IY19wdUY3ZHJnWlF6Rl9KbDN3UXZsWjA1azZpeEtSbWdzc3lqSHQ1eFU4cTlNT1dYV2d5QVFuVkI1dGI4ckdjTlROWTg?oc=5\" target=\"_blank\">Alabama Power adds two members to board of directors By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-25T02:04:50+00:00"
+    },
     {
       "id": "5561b075930b1f39",
       "title": "Alabama Power adds two members to board of directors - Investing.com",

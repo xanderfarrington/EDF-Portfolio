@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-24T22:56:47+00:00",
+  "last_updated": "2026-07-25T02:05:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 51,
-      "new_mentions_this_run": 8,
+      "count": 52,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "1516830718c0040f",
         "title": "AEP|American Electric Power Company Inc|Price:134.920| - TradingKey",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 124,
+      "count": 125,
       "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "5561b075930b1f39",
-        "title": "Alabama Power adds two members to board of directors - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGMtc2hkSER1ckVLXy1KMEZRd3g1UXlqTkh2eVlSeWdiTGR4dlZOOWtTTkJZR2I0dmNoclJRVHNJbXJaMVczcHB4Vlc5ZnRQR3hkT2NiZHZuLXloV285WlFnSkZuWk1nZzZKVFNNZkl2UTQwVkdPZnNRcGw2Q0FxZzRsZXJJTmctbnFYTjhWV3ZOUF8tTU9tanlqZFZIZmlsSXM2MnY4aUgyYjBLUlE?oc=5",
+        "id": "819b9766644f76f7",
+        "title": "Alabama Power adds two members to board of directors By Investing.com - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelV5WXl4WnlDOERrWEt1ZW1BSllDdkc5TXdUOV84bEF5akE0YzluV1pyYXNVWmRScnZuSG1DeE13VmlGbFdBN2hLcTc5V2JBclROVEhySkZYclBEeHlrRGtPNFhJYjNYYkhId1NreVltVkhnMU0wNzAwcUU3M01IY19wdUY3ZHJnWlF6Rl9KbDN3UXZsWjA1azZpeEtSbWdzc3lqSHQ1eFU4cTlNT1dYV2d5QVFuVkI1dGI4ckdjTlROWTg?oc=5",
         "domain": "news.google.com",
-        "source": "Investing.com",
+        "source": "Investing.com India",
         "language": "English",
-        "published_at": "2026-07-24T21:25:19+00:00",
-        "summary": "Alabama Power adds two members to board of directors Investing.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGMtc2hkSER1ckVLXy1KMEZRd3g1UXlqTkh2eVlSeWdiTGR4dlZOOWtTTkJZR2I0dmNoclJRVHNJbXJaMVczcHB4Vlc5ZnRQR3hkT2NiZHZuLXloV285WlFnSkZuWk1nZzZKVFNNZkl2UTQwVkdPZnNRcGw2Q0FxZzRsZXJJTmctbnFYTjhWV3ZOUF8tTU9tanlqZFZIZmlsSXM2MnY4aUgyYjBLUlE?oc=5\" target=\"_blank\">Alabama Power adds two members to board of directors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+        "published_at": "2026-07-24T21:27:23+00:00",
+        "summary": "Alabama Power adds two members to board of directors By Investing.com Investing.com India",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelV5WXl4WnlDOERrWEt1ZW1BSllDdkc5TXdUOV84bEF5akE0YzluV1pyYXNVWmRScnZuSG1DeE13VmlGbFdBN2hLcTc5V2JBclROVEhySkZYclBEeHlrRGtPNFhJYjNYYkhId1NreVltVkhnMU0wNzAwcUU3M01IY19wdUY3ZHJnWlF6Rl9KbDN3UXZsWjA1azZpeEtSbWdzc3lqSHQ1eFU4cTlNT1dYV2d5QVFuVkI1dGI4ckdjTlROWTg?oc=5\" target=\"_blank\">Alabama Power adds two members to board of directors By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-24T22:56:20+00:00"
+        "collected_at": "2026-07-25T02:04:50+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 26,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "23cd3bb3397fdae2",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society",
@@ -110,7 +110,7 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 18,
+      "count": 20,
       "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "4c5210b5217d10fb",

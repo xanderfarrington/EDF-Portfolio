@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-07-24T22:56:42+00:00",
+  "last_updated": "2026-07-25T02:05:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 18,
+  "count": 20,
   "mentions": [
     {
       "id": "4c5210b5217d10fb",
@@ -19,6 +19,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-14T07:52:54+00:00"
+    },
+    {
+      "id": "1bbfd7b629c9e338",
+      "title": "U.S. Energy Department finalizes $3.3B loan to Texas utility - Kingsport Times News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzJsYkdBanpIOVJnblRVTXhpZ3hlaHZQUC1QNWE2b1BoMl8zeS1aNmhEWGcyTnlLcmlBMjA2N3ZqMGVZakU5ODcxcE1HNS1GY3lZdEdDUUxJYjRwdldfSk91elN3TTBDLV9aRnpxbmpiZ0ptVVpDZThMSVFYbDh1dGxJUWMzNS1NUmZSNTZvcF9yZGRtWEE?oc=5",
+      "domain": "news.google.com",
+      "source": "Kingsport Times News",
+      "language": "English",
+      "published_at": "2026-07-08T21:00:00+00:00",
+      "summary": "U.S. Energy Department finalizes $3.3B loan to Texas utility Kingsport Times News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzJsYkdBanpIOVJnblRVTXhpZ3hlaHZQUC1QNWE2b1BoMl8zeS1aNmhEWGcyTnlLcmlBMjA2N3ZqMGVZakU5ODcxcE1HNS1GY3lZdEdDUUxJYjRwdldfSk91elN3TTBDLV9aRnpxbmpiZ0ptVVpDZThMSVFYbDh1dGxJUWMzNS1NUmZSNTZvcF9yZGRtWEE?oc=5\" target=\"_blank\">U.S. Energy Department finalizes $3.3B loan to Texas utility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kingsport Times News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-25T02:05:12+00:00"
+    },
+    {
+      "id": "898441f98484824f",
+      "title": "Washington Update: Sustainable Energy & Infrastructure — July 2026 - Mintz",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGpNQS1JTXV3Y2U4ZlpoNlBBZWJaZzlLa1ktbmUwT1JpY052eE1mSzVyZGNORkxhamoxM1U1UERYYUpaamVtc0xLa3loZ2VMdlNDSkZXejdaMXdnbjYtWXNuN2RCRXM0V0V3SUdJdzdZQ0RHUTNialhXbHExN1ViZTZCeHRsR2trY2hmODNHTzFoeVY4b1ZraG1JVkczRjZMRFhGWFBXWmZoV2pLVGo1WE5rakszQkYxQVIwNUpR?oc=5",
+      "domain": "news.google.com",
+      "source": "Mintz",
+      "language": "English",
+      "published_at": "2026-07-06T12:00:00+00:00",
+      "summary": "Washington Update: Sustainable Energy & Infrastructure — July 2026 Mintz",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGpNQS1JTXV3Y2U4ZlpoNlBBZWJaZzlLa1ktbmUwT1JpY052eE1mSzVyZGNORkxhamoxM1U1UERYYUpaamVtc0xLa3loZ2VMdlNDSkZXejdaMXdnbjYtWXNuN2RCRXM0V0V3SUdJdzdZQ0RHUTNialhXbHExN1ViZTZCeHRsR2trY2hmODNHTzFoeVY4b1ZraG1JVkczRjZMRFhGWFBXWmZoV2pLVGo1WE5rakszQkYxQVIwNUpR?oc=5\" target=\"_blank\">Washington Update: Sustainable Energy & Infrastructure — July 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mintz</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-25T02:05:12+00:00"
     },
     {
       "id": "c4e09c5445ba4505",
