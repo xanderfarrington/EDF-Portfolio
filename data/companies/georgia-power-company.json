@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-25T18:58:42+00:00",
+  "last_updated": "2026-07-25T20:42:47+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 283,
+  "count": 284,
   "mentions": [
     {
       "id": "035aa013fdab72b6",
@@ -285,6 +285,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-24T22:56:37+00:00"
+    },
+    {
+      "id": "44ac252a11cc0764",
+      "title": "Georgia Power working with OpenAI on new Effingham County project - WSPA 7News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCeEtJOTJpUzVhX1Q1SW9odEp4bXRJTDVhbVRuMDlsbzdSdU1LVWVTU0VHZEl3SXI1LU9iaDNBNUIyc3RkUnNpQmFBY0lBUW9GeXpLWVBTdmo1QjlKSEJCUmN2TkdVQ254VzNVUFFhc2rSAXZBVV95cUxNU0RpRmluUW5ZNzc4M1N3NzdLbnBSNVpINF93NXBDal9mRFdlcVdaSGxfOC1xMHFyWVVNeVJSSGV3TThNSzdBbkphYXVIU2pRVGdobWhwYlpDNHEyaU1ZSE9wekpCZ1VSVzZoTXllY1FFc2ctbVZn?oc=5",
+      "domain": "news.google.com",
+      "source": "WSPA 7News",
+      "language": "English",
+      "published_at": "2026-07-22T20:59:23+00:00",
+      "summary": "Georgia Power working with OpenAI on new Effingham County project WSPA 7News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBCeEtJOTJpUzVhX1Q1SW9odEp4bXRJTDVhbVRuMDlsbzdSdU1LVWVTU0VHZEl3SXI1LU9iaDNBNUIyc3RkUnNpQmFBY0lBUW9GeXpLWVBTdmo1QjlKSEJCUmN2TkdVQ254VzNVUFFhc2rSAXZBVV95cUxNU0RpRmluUW5ZNzc4M1N3NzdLbnBSNVpINF93NXBDal9mRFdlcVdaSGxfOC1xMHFyWVVNeVJSSGV3TThNSzdBbkphYXVIU2pRVGdobWhwYlpDNHEyaU1ZSE9wekpCZ1VSVzZoTXllY1FFc2ctbVZn?oc=5\" target=\"_blank\">Georgia Power working with OpenAI on new Effingham County project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSPA 7News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-25T20:42:47+00:00"
     },
     {
       "id": "9ac78589462ba22b",
