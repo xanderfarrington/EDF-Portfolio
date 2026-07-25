@@ -2,9 +2,9 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-07-25T14:57:20+00:00",
+  "last_updated": "2026-07-25T16:51:18+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 26,
+  "count": 27,
   "mentions": [
     {
       "id": "23cd3bb3397fdae2",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-23T22:50:56+00:00"
+    },
+    {
+      "id": "6209735943c88ba7",
+      "title": "Qcells Delivers Atlas Solar Projects in Arizona, U.S. - Hanwha Group",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRVlpYUZUdVBVemZQY3NXMjlMa2NrX0JOcldSTVdxNFRtcVRDbGNuMzAzQ1dKRmFEMTFJQW1ORVRaUE5sNVQ2VERxMkJNUDBRdjMwUENRR0NFay02YUhpUm1ETkN1TkpDVTdzT1hxdzZtRmNvSEp1Wng3emxCTWdlNWR3VHNld0hOaXMydXdWdkNZNFp1RkwxTTQ2WXBHdkVzZEJIU0d0YS1JR1I1VFlzc3pZMFJETnlhNVVPUG5OUDZHcnQxVExfNldBWHFxOVVScGdtcEtHVHNUREQ1aE9ycHI4RQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Hanwha Group",
+      "language": "English",
+      "published_at": "2026-07-10T08:41:28+00:00",
+      "summary": "Qcells Delivers Atlas Solar Projects in Arizona, U.S. Hanwha Group",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRVlpYUZUdVBVemZQY3NXMjlMa2NrX0JOcldSTVdxNFRtcVRDbGNuMzAzQ1dKRmFEMTFJQW1ORVRaUE5sNVQ2VERxMkJNUDBRdjMwUENRR0NFay02YUhpUm1ETkN1TkpDVTdzT1hxdzZtRmNvSEp1Wng3emxCTWdlNWR3VHNld0hOaXMydXdWdkNZNFp1RkwxTTQ2WXBHdkVzZEJIU0d0YS1JR1I1VFlzc3pZMFJETnlhNVVPUG5OUDZHcnQxVExfNldBWHFxOVVScGdtcEtHVHNUREQ1aE9ycHI4RQ?oc=5\" target=\"_blank\">Qcells Delivers Atlas Solar Projects in Arizona, U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hanwha Group</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-25T16:51:18+00:00"
     },
     {
       "id": "372ab7ffa82231ea",
