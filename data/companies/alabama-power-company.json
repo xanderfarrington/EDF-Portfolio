@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-25T09:42:00+00:00",
+  "last_updated": "2026-07-25T11:04:26+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 127,
+  "count": 128,
   "mentions": [
     {
       "id": "351be7118cef7972",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-25T09:42:00+00:00"
+    },
+    {
+      "id": "84002e81b44e631c",
+      "title": "Alabama Power adds two members to board of directors By Investing.com - Investing.com Australia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZk03Qmd4RTVWMUVsQy1wd0trTFB3eFZRWFdwMzA1dW0tZGVxb0NmTGN1RTVpSHJpQjJGX1U0TElGQWFGMjZZeko3eEdGdF8taFFVc2tJTHpzX3dpOGc2czNINnZCOVZGci1NV2EzVm9jdG1BMzItUDhMOERBRXk4LU5vdHJJc1A1SVRudzRsQTFMeVBJRFA1aG5BeFp6VzJUOVBvRk9UY1ZPbnV0MTdxUi03TQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Investing.com Australia",
+      "language": "English",
+      "published_at": "2026-07-25T01:01:04+00:00",
+      "summary": "Alabama Power adds two members to board of directors By Investing.com Investing.com Australia",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZk03Qmd4RTVWMUVsQy1wd0trTFB3eFZRWFdwMzA1dW0tZGVxb0NmTGN1RTVpSHJpQjJGX1U0TElGQWFGMjZZeko3eEdGdF8taFFVc2tJTHpzX3dpOGc2czNINnZCOVZGci1NV2EzVm9jdG1BMzItUDhMOERBRXk4LU5vdHJJc1A1SVRudzRsQTFMeVBJRFA1aG5BeFp6VzJUOVBvRk9UY1ZPbnV0MTdxUi03TQ?oc=5\" target=\"_blank\">Alabama Power adds two members to board of directors By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Australia</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-25T11:04:26+00:00"
     },
     {
       "id": "819b9766644f76f7",
