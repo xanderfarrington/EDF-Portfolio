@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T06:11:50+00:00",
+  "last_updated": "2026-07-25T09:42:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 125,
-      "new_mentions_this_run": 21,
+      "count": 127,
+      "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "819b9766644f76f7",
-        "title": "Alabama Power adds two members to board of directors By Investing.com - Investing.com India",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelV5WXl4WnlDOERrWEt1ZW1BSllDdkc5TXdUOV84bEF5akE0YzluV1pyYXNVWmRScnZuSG1DeE13VmlGbFdBN2hLcTc5V2JBclROVEhySkZYclBEeHlrRGtPNFhJYjNYYkhId1NreVltVkhnMU0wNzAwcUU3M01IY19wdUY3ZHJnWlF6Rl9KbDN3UXZsWjA1azZpeEtSbWdzc3lqSHQ1eFU4cTlNT1dYV2d5QVFuVkI1dGI4ckdjTlROWTg?oc=5",
+        "id": "351be7118cef7972",
+        "title": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS - Rockdale Citizen",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSHNuTkFmM3MycHZfWE90eDlSSEo2QlplXzVVdDZPcnhiaDBxYjZIUmVVSTc0SXJHWTd0eWV5Q29hYUM1WGZpaG92ZmRQWWIxZVVLWHd2ZDRvSk1TVDczNFI3ZFJLdEd6N0pnOG9YX2Nya2c0ek0zU0Y1TmN1dTlMcEd2Nzh1T2Fpc0lQWFdrM1B4MThSMWZjaVNvUE5BUlFhNlRVU3ZNTzFzMUl0REVVNjUyeVcwYWlaSHp2TndqVXplSTVuOWxqOUFLT3dQaHpWVzFoMFJzSTZ6OHhiWWI3ZlJURkxRcTU2NjdjMS0yOWttejQwQkxGU05xVm5oTVVPUldxbg?oc=5",
         "domain": "news.google.com",
-        "source": "Investing.com India",
+        "source": "Rockdale Citizen",
         "language": "English",
-        "published_at": "2026-07-24T21:27:23+00:00",
-        "summary": "Alabama Power adds two members to board of directors By Investing.com Investing.com India",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelV5WXl4WnlDOERrWEt1ZW1BSllDdkc5TXdUOV84bEF5akE0YzluV1pyYXNVWmRScnZuSG1DeE13VmlGbFdBN2hLcTc5V2JBclROVEhySkZYclBEeHlrRGtPNFhJYjNYYkhId1NreVltVkhnMU0wNzAwcUU3M01IY19wdUY3ZHJnWlF6Rl9KbDN3UXZsWjA1azZpeEtSbWdzc3lqSHQ1eFU4cTlNT1dYV2d5QVFuVkI1dGI4ckdjTlROWTg?oc=5\" target=\"_blank\">Alabama Power adds two members to board of directors By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font>",
+        "published_at": "2026-07-25T07:30:41+00:00",
+        "summary": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS Rockdale Citizen",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPSHNuTkFmM3MycHZfWE90eDlSSEo2QlplXzVVdDZPcnhiaDBxYjZIUmVVSTc0SXJHWTd0eWV5Q29hYUM1WGZpaG92ZmRQWWIxZVVLWHd2ZDRvSk1TVDczNFI3ZFJLdEd6N0pnOG9YX2Nya2c0ek0zU0Y1TmN1dTlMcEd2Nzh1T2Fpc0lQWFdrM1B4MThSMWZjaVNvUE5BUlFhNlRVU3ZNTzFzMUl0REVVNjUyeVcwYWlaSHp2TndqVXplSTVuOWxqOUFLT3dQaHpWVzFoMFJzSTZ6OHhiWWI3ZlJURkxRcTU2NjdjMS0yOWttejQwQkxGU05xVm5oTVVPUldxbg?oc=5\" target=\"_blank\">ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rockdale Citizen</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-25T02:04:50+00:00"
+        "collected_at": "2026-07-25T09:42:00+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 62,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 282,
+      "count": 283,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "035aa013fdab72b6",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 20,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "4c5210b5217d10fb",
         "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",

@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-25T06:11:40+00:00",
+  "last_updated": "2026-07-25T09:42:17+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 282,
+  "count": 283,
   "mentions": [
     {
       "id": "035aa013fdab72b6",
@@ -201,6 +201,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-23T10:14:37+00:00"
+    },
+    {
+      "id": "7866f15bae81cd0f",
+      "title": "Georgia,Power,Office,Building,Exterior,View.,Georgia,Power,Is,A - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPb1Ffaldrek1ERnI2b20taVVGWWZQSDFSd0JaSUtJb3Frb3dYYlEyNU5UUzVvUE1TUkZmZWE1WTA2SmpVQklwTGRTVjBIQ0E4WlJYd1FsUGJaVzZQUjJ0S3JBS3BaeUowbjc3V0YtMk9KNS01endQdkV6aEl1aXFmYzNEcXdNZ0ZnTmNmMk5Pek02eGFIeEt4cTV2TFp4elBFS3JWMUJYMlR4RTNUY184NG1FOWkzY1RPZ2F3NWRna0hicm5fNy1ZLTNWOHJIM3dtVDVPYXBzQ3JQMXlTbFBhTnQ0OTNSRG13cUZuMmVQeE05XzBLQ3AtdWRkSDJDN3RhaF9rbVV0dkR1Y2tFVlZKLWplYlpRN0stWVdqNDNKRQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "summary": "Georgia,Power,Office,Building,Exterior,View.,Georgia,Power,Is,A Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPb1Ffaldrek1ERnI2b20taVVGWWZQSDFSd0JaSUtJb3Frb3dYYlEyNU5UUzVvUE1TUkZmZWE1WTA2SmpVQklwTGRTVjBIQ0E4WlJYd1FsUGJaVzZQUjJ0S3JBS3BaeUowbjc3V0YtMk9KNS01endQdkV6aEl1aXFmYzNEcXdNZ0ZnTmNmMk5Pek02eGFIeEt4cTV2TFp4elBFS3JWMUJYMlR4RTNUY184NG1FOWkzY1RPZ2F3NWRna0hicm5fNy1ZLTNWOHJIM3dtVDVPYXBzQ3JQMXlTbFBhTnQ0OTNSRG13cUZuMmVQeE05XzBLQ3AtdWRkSDJDN3RhaF9rbVV0dkR1Y2tFVlZKLWplYlpRN0stWVdqNDNKRQ?oc=5\" target=\"_blank\">Georgia,Power,Office,Building,Exterior,View.,Georgia,Power,Is,A</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-25T09:42:17+00:00"
     },
     {
       "id": "d4ee987dd9a606b5",
