@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T09:53:52+00:00",
+  "last_updated": "2026-07-26T11:15:39+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 133,
-      "new_mentions_this_run": 25,
+      "count": 134,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "543b67cd545fa0c8",
         "title": "Alabama Power adds two members to board of directors By Investing.com - Investing.com UK",
