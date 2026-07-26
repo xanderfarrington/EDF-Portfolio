@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T16:52:54+00:00",
+  "last_updated": "2026-07-26T19:02:02+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 135,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "d84a68395278ae5c",
         "title": "Looking for free outdoor adventures this summer? Alabama Power's 74 Preserves offer plenty of options - Yellowhammer News",
