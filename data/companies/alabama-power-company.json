@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-26T02:09:36+00:00",
+  "last_updated": "2026-07-26T06:30:59+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 131,
+  "count": 132,
   "mentions": [
     {
       "id": "543b67cd545fa0c8",
@@ -173,6 +173,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-24T15:22:00+00:00"
+    },
+    {
+      "id": "7abd63992bb4447f",
+      "title": "Southern Co unit Alabama Power adds Tom Hand, Mike Kemp Sr. to board - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmcXhNN0FNOWhFazVYODhza2lyVHdFbjN4YW1WeUdWVjJ6dkl4dE5CMlVmUlQ4MzhMNU9FUmxIQ0ROR0NuRTlIeGZBZEh2U2RDNmp0alFpTnQya1c5Wm9fcUloRdIBY0FVX3lxTFBmcXhNN0FNOWhFazVYODhza2lyVHdFbjN4YW1WeUdWVjJ6dkl4dE5CMlVmUlQ4MzhMNU9FUmxIQ0ROR0NuRTlIeGZBZEh2U2RDNmp0alFpTnQya1c5Wm9fcUloRQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Bitget",
+      "language": "English",
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "summary": "Southern Co unit Alabama Power adds Tom Hand, Mike Kemp Sr. to board Bitget",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmcXhNN0FNOWhFazVYODhza2lyVHdFbjN4YW1WeUdWVjJ6dkl4dE5CMlVmUlQ4MzhMNU9FUmxIQ0ROR0NuRTlIeGZBZEh2U2RDNmp0alFpTnQya1c5Wm9fcUloRdIBY0FVX3lxTFBmcXhNN0FNOWhFazVYODhza2lyVHdFbjN4YW1WeUdWVjJ6dkl4dE5CMlVmUlQ4MzhMNU9FUmxIQ0ROR0NuRTlIeGZBZEh2U2RDNmp0alFpTnQya1c5Wm9fcUloRQ?oc=5\" target=\"_blank\">Southern Co unit Alabama Power adds Tom Hand, Mike Kemp Sr. to board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-26T06:30:59+00:00"
     },
     {
       "id": "db2c5b896ca6c08c",
