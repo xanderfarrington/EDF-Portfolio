@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-25T22:47:39+00:00",
+  "last_updated": "2026-07-26T02:10:03+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 52,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "1516830718c0040f",
         "title": "AEP|American Electric Power Company Inc|Price:134.920| - TradingKey",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 131,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "543b67cd545fa0c8",
         "title": "Alabama Power adds two members to board of directors By Investing.com - Investing.com UK",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 27,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "23cd3bb3397fdae2",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society",
