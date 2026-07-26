@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-26T06:30:59+00:00",
+  "last_updated": "2026-07-26T09:53:25+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 132,
+  "count": 133,
   "mentions": [
     {
       "id": "543b67cd545fa0c8",
@@ -103,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-24T20:56:53+00:00"
+    },
+    {
+      "id": "ee32f06bfdfc3b2c",
+      "title": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRUk5NM2k5aUJOanhFcWU1V281UnhMQk1rMjVTTl9HeWtSdXdlMllfdXBycHowUG1ueGNXeW5oem41RlNBWnJVRFdBcklwZGctRTBGYnR6SDdleEQtbFJubXFQWmF6aXFubThBYQ?oc=5",
+      "domain": "news.google.com",
+      "source": "StreetInsider",
+      "language": "English",
+      "published_at": "2026-07-24T20:41:00+00:00",
+      "summary": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS StreetInsider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBRUk5NM2k5aUJOanhFcWU1V281UnhMQk1rMjVTTl9HeWtSdXdlMllfdXBycHowUG1ueGNXeW5oem41RlNBWnJVRFdBcklwZGctRTBGYnR6SDdleEQtbFJubXFQWmF6aXFubThBYQ?oc=5\" target=\"_blank\">ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-26T09:53:25+00:00"
     },
     {
       "id": "67f06c60b1597bab",

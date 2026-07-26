@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-26T06:31:15+00:00",
+  "last_updated": "2026-07-26T09:53:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 284,
+  "count": 285,
   "mentions": [
+    {
+      "id": "f87afe209b7eefeb",
+      "title": "‘My childhood home is being taken’: Eminent domain for data centers targets properties across a thousand miles of grid expansion in Georgia - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHNaRmo2bXdRRF9xdlc2R2pBcnRyN0tsSjFFVEpmelZ6cmtQMDhDS0ktZkF1dkpQdkJINVZteGtUWnZ2WTdKRlJpRVVYeEJ2YWFNQVpKMkdHV1pDY0YxNGVZOWR2NVllT1BMem90VW14Wkw0TGdjSmt6STZqeERSbHFYb1dRNWRnNl9CaERMRDZtTk9oNEZsRXJqVFZBNEhSOGNkM2hB?oc=5",
+      "domain": "news.google.com",
+      "source": "Fortune",
+      "language": "English",
+      "published_at": "2026-07-26T09:00:00+00:00",
+      "summary": "‘My childhood home is being taken’: Eminent domain for data centers targets properties across a thousand miles of grid expansion in Georgia Fortune",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHNaRmo2bXdRRF9xdlc2R2pBcnRyN0tsSjFFVEpmelZ6cmtQMDhDS0ktZkF1dkpQdkJINVZteGtUWnZ2WTdKRlJpRVVYeEJ2YWFNQVpKMkdHV1pDY0YxNGVZOWR2NVllT1BMem90VW14Wkw0TGdjSmt6STZqeERSbHFYb1dRNWRnNl9CaERMRDZtTk9oNEZsRXJqVFZBNEhSOGNkM2hB?oc=5\" target=\"_blank\">‘My childhood home is being taken’: Eminent domain for data centers targets properties across a thousand miles of grid expansion in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-26T09:53:42+00:00"
+    },
     {
       "id": "035aa013fdab72b6",
       "title": "Georgia Power, White House make energy pledges as a data center alliance forms in GA - Columbus Ledger-Enquirer",

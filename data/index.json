@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T06:31:26+00:00",
+  "last_updated": "2026-07-26T09:53:52+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 132,
-      "new_mentions_this_run": 21,
+      "count": 133,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "543b67cd545fa0c8",
         "title": "Alabama Power adds two members to board of directors By Investing.com - Investing.com UK",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 284,
+      "count": 285,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "035aa013fdab72b6",
-        "title": "Georgia Power, White House make energy pledges as a data center alliance forms in GA - Columbus Ledger-Enquirer",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaS1sMFJZVVpJS3RvazBOREtCeUt0NlVwVTNmem5WcjBaRUhtMG82LUk3VmY3TW1WSVBGVmVfdHppTXdkenE5M0haR1lHY19aOWZuUFVJZjlFZmhFaXVNWnIyRDNiQTN2TlQ5U2JXZHpCLVBvQmxQLWQ2V0jSAXxBVV95cUxQZno0MG4yZlp0NUNSajJXTEZZMldvUFpRMDdPQWthSGs2dWwtWEF4NzNNOWVEeDJEMXFDdUpMSDlFR1dzNW45SjhiNXNTQ29yV3JGR2lObFdickVxQVVsbzFXdnZBYlBwOFcyNzJiWmktNU83LW5uNll3VGxY?oc=5",
+        "id": "f87afe209b7eefeb",
+        "title": "‘My childhood home is being taken’: Eminent domain for data centers targets properties across a thousand miles of grid expansion in Georgia - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHNaRmo2bXdRRF9xdlc2R2pBcnRyN0tsSjFFVEpmelZ6cmtQMDhDS0ktZkF1dkpQdkJINVZteGtUWnZ2WTdKRlJpRVVYeEJ2YWFNQVpKMkdHV1pDY0YxNGVZOWR2NVllT1BMem90VW14Wkw0TGdjSmt6STZqeERSbHFYb1dRNWRnNl9CaERMRDZtTk9oNEZsRXJqVFZBNEhSOGNkM2hB?oc=5",
         "domain": "news.google.com",
-        "source": "Columbus Ledger-Enquirer",
+        "source": "Fortune",
         "language": "English",
-        "published_at": "2026-07-24T19:27:30+00:00",
-        "summary": "Georgia Power, White House make energy pledges as a data center alliance forms in GA Columbus Ledger-Enquirer",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaS1sMFJZVVpJS3RvazBOREtCeUt0NlVwVTNmem5WcjBaRUhtMG82LUk3VmY3TW1WSVBGVmVfdHppTXdkenE5M0haR1lHY19aOWZuUFVJZjlFZmhFaXVNWnIyRDNiQTN2TlQ5U2JXZHpCLVBvQmxQLWQ2V0jSAXxBVV95cUxQZno0MG4yZlp0NUNSajJXTEZZMldvUFpRMDdPQWthSGs2dWwtWEF4NzNNOWVEeDJEMXFDdUpMSDlFR1dzNW45SjhiNXNTQ29yV3JGR2lObFdickVxQVVsbzFXdnZBYlBwOFcyNzJiWmktNU83LW5uNll3VGxY?oc=5\" target=\"_blank\">Georgia Power, White House make energy pledges as a data center alliance forms in GA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbus Ledger-Enquirer</font>",
+        "published_at": "2026-07-26T09:00:00+00:00",
+        "summary": "‘My childhood home is being taken’: Eminent domain for data centers targets properties across a thousand miles of grid expansion in Georgia Fortune",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHNaRmo2bXdRRF9xdlc2R2pBcnRyN0tsSjFFVEpmelZ6cmtQMDhDS0ktZkF1dkpQdkJINVZteGtUWnZ2WTdKRlJpRVVYeEJ2YWFNQVpKMkdHV1pDY0YxNGVZOWR2NVllT1BMem90VW14Wkw0TGdjSmt6STZqeERSbHFYb1dRNWRnNl9CaERMRDZtTk9oNEZsRXJqVFZBNEhSOGNkM2hB?oc=5\" target=\"_blank\">‘My childhood home is being taken’: Eminent domain for data centers targets properties across a thousand miles of grid expansion in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-24T22:56:37+00:00"
+        "collected_at": "2026-07-26T09:53:42+00:00"
       }
     },
     {
