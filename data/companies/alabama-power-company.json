@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-26T11:15:13+00:00",
+  "last_updated": "2026-07-26T13:06:22+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 134,
+  "count": 135,
   "mentions": [
+    {
+      "id": "d84a68395278ae5c",
+      "title": "Looking for free outdoor adventures this summer? Alabama Power's 74 Preserves offer plenty of options - Yellowhammer News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblhZMXFybHV2cVprSUlicFFqNzNMeFVKU1Q5c0pqcDh0WWxWR3dRZlRpMmRNUXJsYklLZDBBeWNLcmh2TGlRUkJtbXhoZllSaVd0MlNfeU5GdHdvQXlxSWUxem9BbV9pS016blBJSktoTjQ4a2JnRTVQVk4yVVpEMDVBNHNCZURXdVJSb1pXOWVrcDBaT3Fqa3NQUHRRQ2NxUHB5NHlHQlp3SlZEYVAxQXVvSTF2UkJKU3k5Rk1MM2poNFRaMWZkZw?oc=5",
+      "domain": "news.google.com",
+      "source": "Yellowhammer News",
+      "language": "English",
+      "published_at": "2026-07-26T12:00:42+00:00",
+      "summary": "Looking for free outdoor adventures this summer? Alabama Power's 74 Preserves offer plenty of options Yellowhammer News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblhZMXFybHV2cVprSUlicFFqNzNMeFVKU1Q5c0pqcDh0WWxWR3dRZlRpMmRNUXJsYklLZDBBeWNLcmh2TGlRUkJtbXhoZllSaVd0MlNfeU5GdHdvQXlxSWUxem9BbV9pS016blBJSktoTjQ4a2JnRTVQVk4yVVpEMDVBNHNCZURXdVJSb1pXOWVrcDBaT3Fqa3NQUHRRQ2NxUHB5NHlHQlp3SlZEYVAxQXVvSTF2UkJKU3k5Rk1MM2poNFRaMWZkZw?oc=5\" target=\"_blank\">Looking for free outdoor adventures this summer? Alabama Power's 74 Preserves offer plenty of options</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellowhammer News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-26T13:06:22+00:00"
+    },
     {
       "id": "543b67cd545fa0c8",
       "title": "Alabama Power adds two members to board of directors By Investing.com - Investing.com UK",
