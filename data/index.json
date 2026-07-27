@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T14:17:58+00:00",
+  "last_updated": "2026-07-27T17:38:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 289,
+      "count": 291,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "3fa880f8ac8dfec0",
-        "title": "EU Sanctions Include Inter RAO, Russian Energy Giant Indirectly Owning Georgia’s Power Assets - Civil Georgia",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16VGMyNUhjYjhhNzFxQ1c3TTN0d2xXb1FCRzFmUjFLSnF0Z3pPak9ka3hEVy1kV3ZzZGJoZUxFZVdocjBHRnhJ0gFMQVVfeXFMTWRlTERXU0NmTnBLSkpLdERCdUxZUFpXUnlaM010MlhUM2N6Z3hGeXQ2WEV2TllDMHJnTUExMkdHb1oxZGd0WW9fRjRCUQ?oc=5",
+        "id": "de48fae8beaa1711",
+        "title": "Georgia Power unveils new Moody Battery Facility - Valdosta Daily Times",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1RRNkNtRFRpZVhteHRodXEzTTV4YzRtU3ZDc1FOeFlzUHZEOVFuSXQ0VG9MVnBOZUhXNVAyLWdqNjBLU3JLWU1hQXVHY1h3VlhxUmRkNjJ5cjhNX0REZU9xdlJ4MUhnTXVacDZaUzRxQWNCb25Ybm9mR0d1eGd6M0FtSlF1WHNCbGpCSkVSRkN2a0FEa3c?oc=5",
         "domain": "news.google.com",
-        "source": "Civil Georgia",
+        "source": "Valdosta Daily Times",
         "language": "English",
-        "published_at": "2026-07-27T11:38:13+00:00",
-        "summary": "EU Sanctions Include Inter RAO, Russian Energy Giant Indirectly Owning Georgia’s Power Assets Civil Georgia",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE16VGMyNUhjYjhhNzFxQ1c3TTN0d2xXb1FCRzFmUjFLSnF0Z3pPak9ka3hEVy1kV3ZzZGJoZUxFZVdocjBHRnhJ0gFMQVVfeXFMTWRlTERXU0NmTnBLSkpLdERCdUxZUFpXUnlaM010MlhUM2N6Z3hGeXQ2WEV2TllDMHJnTUExMkdHb1oxZGd0WW9fRjRCUQ?oc=5\" target=\"_blank\">EU Sanctions Include Inter RAO, Russian Energy Giant Indirectly Owning Georgia’s Power Assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Civil Georgia</font>",
+        "published_at": "2026-07-27T16:23:37+00:00",
+        "summary": "Georgia Power unveils new Moody Battery Facility Valdosta Daily Times",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1RRNkNtRFRpZVhteHRodXEzTTV4YzRtU3ZDc1FOeFlzUHZEOVFuSXQ0VG9MVnBOZUhXNVAyLWdqNjBLU3JLWU1hQXVHY1h3VlhxUmRkNjJ5cjhNX0REZU9xdlJ4MUhnTXVacDZaUzRxQWNCb25Ybm9mR0d1eGd6M0FtSlF1WHNCbGpCSkVSRkN2a0FEa3c?oc=5\" target=\"_blank\">Georgia Power unveils new Moody Battery Facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Valdosta Daily Times</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-27T14:17:48+00:00"
+        "collected_at": "2026-07-27T17:38:06+00:00"
       }
     },
     {

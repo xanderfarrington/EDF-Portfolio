@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-27T14:17:48+00:00",
+  "last_updated": "2026-07-27T17:38:06+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 289,
+  "count": 291,
   "mentions": [
+    {
+      "id": "de48fae8beaa1711",
+      "title": "Georgia Power unveils new Moody Battery Facility - Valdosta Daily Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1RRNkNtRFRpZVhteHRodXEzTTV4YzRtU3ZDc1FOeFlzUHZEOVFuSXQ0VG9MVnBOZUhXNVAyLWdqNjBLU3JLWU1hQXVHY1h3VlhxUmRkNjJ5cjhNX0REZU9xdlJ4MUhnTXVacDZaUzRxQWNCb25Ybm9mR0d1eGd6M0FtSlF1WHNCbGpCSkVSRkN2a0FEa3c?oc=5",
+      "domain": "news.google.com",
+      "source": "Valdosta Daily Times",
+      "language": "English",
+      "published_at": "2026-07-27T16:23:37+00:00",
+      "summary": "Georgia Power unveils new Moody Battery Facility Valdosta Daily Times",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1RRNkNtRFRpZVhteHRodXEzTTV4YzRtU3ZDc1FOeFlzUHZEOVFuSXQ0VG9MVnBOZUhXNVAyLWdqNjBLU3JLWU1hQXVHY1h3VlhxUmRkNjJ5cjhNX0REZU9xdlJ4MUhnTXVacDZaUzRxQWNCb25Ybm9mR0d1eGd6M0FtSlF1WHNCbGpCSkVSRkN2a0FEa3c?oc=5\" target=\"_blank\">Georgia Power unveils new Moody Battery Facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Valdosta Daily Times</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-27T17:38:06+00:00"
+    },
     {
       "id": "3fa880f8ac8dfec0",
       "title": "EU Sanctions Include Inter RAO, Russian Energy Giant Indirectly Owning Georgia’s Power Assets - Civil Georgia",
@@ -1839,6 +1853,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-06T16:49:41+00:00"
+    },
+    {
+      "id": "abf59ade6fa8b7bd",
+      "title": "Kemp, OpenAI, Georgia Power meet - thecurrentga.org",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSDhheXBsTlVhRXhob20wT3VmR1RtNWNvUXhwQWtqZnJjQWxldEY5d005MF9NNGQyQjJpbHgxd1p0SjhJdFFSQU5kNXVkZEVZT2NNREZJOHFjYUM5YW9KNDh4eTZrN0hvdkJsWTNHa204LVQ4SHRwOExqMnR3R0YycnRXYw?oc=5",
+      "domain": "news.google.com",
+      "source": "thecurrentga.org",
+      "language": "English",
+      "published_at": "2026-07-06T07:00:00+00:00",
+      "summary": "Kemp, OpenAI, Georgia Power meet thecurrentga.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSDhheXBsTlVhRXhob20wT3VmR1RtNWNvUXhwQWtqZnJjQWxldEY5d005MF9NNGQyQjJpbHgxd1p0SjhJdFFSQU5kNXVkZEVZT2NNREZJOHFjYUM5YW9KNDh4eTZrN0hvdkJsWTNHa204LVQ4SHRwOExqMnR3R0YycnRXYw?oc=5\" target=\"_blank\">Kemp, OpenAI, Georgia Power meet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-27T17:38:06+00:00"
     },
     {
       "id": "f310b1bedd1e304e",
