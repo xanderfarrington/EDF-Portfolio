@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T06:57:43+00:00",
+  "last_updated": "2026-07-27T11:14:15+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 135,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "d84a68395278ae5c",
         "title": "Looking for free outdoor adventures this summer? Alabama Power's 74 Preserves offer plenty of options - Yellowhammer News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 285,
+      "count": 288,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "f87afe209b7eefeb",
-        "title": "‘My childhood home is being taken’: Eminent domain for data centers targets properties across a thousand miles of grid expansion in Georgia - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHNaRmo2bXdRRF9xdlc2R2pBcnRyN0tsSjFFVEpmelZ6cmtQMDhDS0ktZkF1dkpQdkJINVZteGtUWnZ2WTdKRlJpRVVYeEJ2YWFNQVpKMkdHV1pDY0YxNGVZOWR2NVllT1BMem90VW14Wkw0TGdjSmt6STZqeERSbHFYb1dRNWRnNl9CaERMRDZtTk9oNEZsRXJqVFZBNEhSOGNkM2hB?oc=5",
+        "id": "16a2505d724b70e1",
+        "title": "Georgia Power 100 defensive linemen: Texas A&M commit headlines list of 10 best - AJC.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjZVZFRRRk04Mmlzd0ljbWNjTEE4QmV1dG5jSldPM2hxeno2ekZsemJWanVIT0NxSzFoSGdteDFUaGFqcW1ZdldORDJod0ctcGRoNGpyX3lxQjBERWxyc0hKeHhrSzhIaGVXOTgyVjZyNVZXYTB1V1hyd1ZUb1pmSFAyTThaNk94RTJQOEkzdURyaTRoVEhQMTlhTzlDcG1fdE9vZlRWT1Z2anZZWjh2REs3Zw?oc=5",
         "domain": "news.google.com",
-        "source": "Fortune",
+        "source": "AJC.com",
         "language": "English",
-        "published_at": "2026-07-26T09:00:00+00:00",
-        "summary": "‘My childhood home is being taken’: Eminent domain for data centers targets properties across a thousand miles of grid expansion in Georgia Fortune",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHNaRmo2bXdRRF9xdlc2R2pBcnRyN0tsSjFFVEpmelZ6cmtQMDhDS0ktZkF1dkpQdkJINVZteGtUWnZ2WTdKRlJpRVVYeEJ2YWFNQVpKMkdHV1pDY0YxNGVZOWR2NVllT1BMem90VW14Wkw0TGdjSmt6STZqeERSbHFYb1dRNWRnNl9CaERMRDZtTk9oNEZsRXJqVFZBNEhSOGNkM2hB?oc=5\" target=\"_blank\">‘My childhood home is being taken’: Eminent domain for data centers targets properties across a thousand miles of grid expansion in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+        "published_at": "2026-07-27T09:31:21+00:00",
+        "summary": "Georgia Power 100 defensive linemen: Texas A&M commit headlines list of 10 best AJC.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjZVZFRRRk04Mmlzd0ljbWNjTEE4QmV1dG5jSldPM2hxeno2ekZsemJWanVIT0NxSzFoSGdteDFUaGFqcW1ZdldORDJod0ctcGRoNGpyX3lxQjBERWxyc0hKeHhrSzhIaGVXOTgyVjZyNVZXYTB1V1hyd1ZUb1pmSFAyTThaNk94RTJQOEkzdURyaTRoVEhQMTlhTzlDcG1fdE9vZlRWT1Z2anZZWjh2REs3Zw?oc=5\" target=\"_blank\">Georgia Power 100 defensive linemen: Texas A&amp;M commit headlines list of 10 best</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-26T09:53:42+00:00"
+        "collected_at": "2026-07-27T11:14:05+00:00"
       }
     },
     {
