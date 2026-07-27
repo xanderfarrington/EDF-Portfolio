@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-27T21:05:23+00:00",
+  "last_updated": "2026-07-27T22:55:50+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 52,
+      "count": 53,
       "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "1516830718c0040f",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 291,
+      "count": 292,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "de48fae8beaa1711",
-        "title": "Georgia Power unveils new Moody Battery Facility - Valdosta Daily Times",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1RRNkNtRFRpZVhteHRodXEzTTV4YzRtU3ZDc1FOeFlzUHZEOVFuSXQ0VG9MVnBOZUhXNVAyLWdqNjBLU3JLWU1hQXVHY1h3VlhxUmRkNjJ5cjhNX0REZU9xdlJ4MUhnTXVacDZaUzRxQWNCb25Ybm9mR0d1eGd6M0FtSlF1WHNCbGpCSkVSRkN2a0FEa3c?oc=5",
+        "id": "a9aaf18acef62808",
+        "title": "Georgia Power cuts ribbon on new Moody battery energy storage facility paired with solar - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbFJ2d0s5LXpPZ2VRajNjcDNoQUxPLUJ2c0NqSkRqaVFfcG9GSnMxekM1SnlOSnBuM2hvY0hqeTJNWFFKSnhGdFd1bHhBUmljRVFfZDlOcWVzcWNiYjdwVEVFRWc4M01oM01wX0RhVUhER2FKSWVQN2RyczIxZFk5OWNHUnpQYTE4QU85bW9Rc0R1a1ZWbmtqSHlBbzczbzJ2cW9OTXhHckRZdV9WZlFpNmh2dnIteU5HYy1YcXRHaHdMYVMtWTI0NFF0bWNQWGVwTEtBTUgtVDFPaHBR?oc=5",
         "domain": "news.google.com",
-        "source": "Valdosta Daily Times",
+        "source": "PR Newswire",
         "language": "English",
-        "published_at": "2026-07-27T16:23:37+00:00",
-        "summary": "Georgia Power unveils new Moody Battery Facility Valdosta Daily Times",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1RRNkNtRFRpZVhteHRodXEzTTV4YzRtU3ZDc1FOeFlzUHZEOVFuSXQ0VG9MVnBOZUhXNVAyLWdqNjBLU3JLWU1hQXVHY1h3VlhxUmRkNjJ5cjhNX0REZU9xdlJ4MUhnTXVacDZaUzRxQWNCb25Ybm9mR0d1eGd6M0FtSlF1WHNCbGpCSkVSRkN2a0FEa3c?oc=5\" target=\"_blank\">Georgia Power unveils new Moody Battery Facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Valdosta Daily Times</font>",
+        "published_at": "2026-07-27T21:27:00+00:00",
+        "summary": "Georgia Power cuts ribbon on new Moody battery energy storage facility paired with solar PR Newswire",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbFJ2d0s5LXpPZ2VRajNjcDNoQUxPLUJ2c0NqSkRqaVFfcG9GSnMxekM1SnlOSnBuM2hvY0hqeTJNWFFKSnhGdFd1bHhBUmljRVFfZDlOcWVzcWNiYjdwVEVFRWc4M01oM01wX0RhVUhER2FKSWVQN2RyczIxZFk5OWNHUnpQYTE4QU85bW9Rc0R1a1ZWbmtqSHlBbzczbzJ2cW9OTXhHckRZdV9WZlFpNmh2dnIteU5HYy1YcXRHaHdMYVMtWTI0NFF0bWNQWGVwTEtBTUgtVDFPaHBR?oc=5\" target=\"_blank\">Georgia Power cuts ribbon on new Moody battery energy storage facility paired with solar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-27T17:38:06+00:00"
+        "collected_at": "2026-07-27T22:55:40+00:00"
       }
     },
     {
