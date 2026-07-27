@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-27T11:14:05+00:00",
+  "last_updated": "2026-07-27T14:17:48+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 288,
+  "count": 289,
   "mentions": [
+    {
+      "id": "3fa880f8ac8dfec0",
+      "title": "EU Sanctions Include Inter RAO, Russian Energy Giant Indirectly Owning Georgia’s Power Assets - Civil Georgia",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16VGMyNUhjYjhhNzFxQ1c3TTN0d2xXb1FCRzFmUjFLSnF0Z3pPak9ka3hEVy1kV3ZzZGJoZUxFZVdocjBHRnhJ0gFMQVVfeXFMTWRlTERXU0NmTnBLSkpLdERCdUxZUFpXUnlaM010MlhUM2N6Z3hGeXQ2WEV2TllDMHJnTUExMkdHb1oxZGd0WW9fRjRCUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Civil Georgia",
+      "language": "English",
+      "published_at": "2026-07-27T11:38:13+00:00",
+      "summary": "EU Sanctions Include Inter RAO, Russian Energy Giant Indirectly Owning Georgia’s Power Assets Civil Georgia",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE16VGMyNUhjYjhhNzFxQ1c3TTN0d2xXb1FCRzFmUjFLSnF0Z3pPak9ka3hEVy1kV3ZzZGJoZUxFZVdocjBHRnhJ0gFMQVVfeXFMTWRlTERXU0NmTnBLSkpLdERCdUxZUFpXUnlaM010MlhUM2N6Z3hGeXQ2WEV2TllDMHJnTUExMkdHb1oxZGd0WW9fRjRCUQ?oc=5\" target=\"_blank\">EU Sanctions Include Inter RAO, Russian Energy Giant Indirectly Owning Georgia’s Power Assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Civil Georgia</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-27T14:17:48+00:00"
+    },
     {
       "id": "16a2505d724b70e1",
       "title": "Georgia Power 100 defensive linemen: Texas A&M commit headlines list of 10 best - AJC.com",

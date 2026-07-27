@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T11:14:15+00:00",
+  "last_updated": "2026-07-27T14:17:58+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 135,
-      "new_mentions_this_run": 22,
+      "count": 136,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "d84a68395278ae5c",
         "title": "Looking for free outdoor adventures this summer? Alabama Power's 74 Preserves offer plenty of options - Yellowhammer News",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 62,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 288,
+      "count": 289,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "16a2505d724b70e1",
-        "title": "Georgia Power 100 defensive linemen: Texas A&M commit headlines list of 10 best - AJC.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjZVZFRRRk04Mmlzd0ljbWNjTEE4QmV1dG5jSldPM2hxeno2ekZsemJWanVIT0NxSzFoSGdteDFUaGFqcW1ZdldORDJod0ctcGRoNGpyX3lxQjBERWxyc0hKeHhrSzhIaGVXOTgyVjZyNVZXYTB1V1hyd1ZUb1pmSFAyTThaNk94RTJQOEkzdURyaTRoVEhQMTlhTzlDcG1fdE9vZlRWT1Z2anZZWjh2REs3Zw?oc=5",
+        "id": "3fa880f8ac8dfec0",
+        "title": "EU Sanctions Include Inter RAO, Russian Energy Giant Indirectly Owning Georgia’s Power Assets - Civil Georgia",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16VGMyNUhjYjhhNzFxQ1c3TTN0d2xXb1FCRzFmUjFLSnF0Z3pPak9ka3hEVy1kV3ZzZGJoZUxFZVdocjBHRnhJ0gFMQVVfeXFMTWRlTERXU0NmTnBLSkpLdERCdUxZUFpXUnlaM010MlhUM2N6Z3hGeXQ2WEV2TllDMHJnTUExMkdHb1oxZGd0WW9fRjRCUQ?oc=5",
         "domain": "news.google.com",
-        "source": "AJC.com",
+        "source": "Civil Georgia",
         "language": "English",
-        "published_at": "2026-07-27T09:31:21+00:00",
-        "summary": "Georgia Power 100 defensive linemen: Texas A&M commit headlines list of 10 best AJC.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjZVZFRRRk04Mmlzd0ljbWNjTEE4QmV1dG5jSldPM2hxeno2ekZsemJWanVIT0NxSzFoSGdteDFUaGFqcW1ZdldORDJod0ctcGRoNGpyX3lxQjBERWxyc0hKeHhrSzhIaGVXOTgyVjZyNVZXYTB1V1hyd1ZUb1pmSFAyTThaNk94RTJQOEkzdURyaTRoVEhQMTlhTzlDcG1fdE9vZlRWT1Z2anZZWjh2REs3Zw?oc=5\" target=\"_blank\">Georgia Power 100 defensive linemen: Texas A&amp;M commit headlines list of 10 best</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+        "published_at": "2026-07-27T11:38:13+00:00",
+        "summary": "EU Sanctions Include Inter RAO, Russian Energy Giant Indirectly Owning Georgia’s Power Assets Civil Georgia",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE16VGMyNUhjYjhhNzFxQ1c3TTN0d2xXb1FCRzFmUjFLSnF0Z3pPak9ka3hEVy1kV3ZzZGJoZUxFZVdocjBHRnhJ0gFMQVVfeXFMTWRlTERXU0NmTnBLSkpLdERCdUxZUFpXUnlaM010MlhUM2N6Z3hGeXQ2WEV2TllDMHJnTUExMkdHb1oxZGd0WW9fRjRCUQ?oc=5\" target=\"_blank\">EU Sanctions Include Inter RAO, Russian Energy Giant Indirectly Owning Georgia’s Power Assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Civil Georgia</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-27T11:14:05+00:00"
+        "collected_at": "2026-07-27T14:17:48+00:00"
       }
     },
     {

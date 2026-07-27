@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-27T11:13:48+00:00",
+  "last_updated": "2026-07-27T14:17:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 135,
+  "count": 136,
   "mentions": [
     {
       "id": "d84a68395278ae5c",
@@ -341,6 +341,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-21T15:38:26+00:00"
+    },
+    {
+      "id": "c747adc3e25fecbb",
+      "title": "Alabama Power testing out unmanned drone - WRBL",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aZEhBZGRLODdIcnhxVDhNYTlleHdWNzR0MUNYNllLdG1TSFdjOFRxRFhaXy1iak5GTkZQcFdXU0pnWW1DdXBER0NWc093Q2N3d21GTW5Rd2diVjFlMlBXd1V3NDQ0Rkc3bFNwbTByWWVxMm13OVHSAXtBVV95cUxNbXRPVWxISC1GVVQzRGRPaE85M3QtQzN5TXlfc0FCOEZXQXFmVy05N0pubjhTVFoxcVhRcXJHTDJfa1M1ZFBtNlludlVIdC1DakF2VHBTWUNHNVBIR25FeVlJOGRBbVNmSU5EYXVNdENfb0VFVERobVVENUU?oc=5",
+      "domain": "news.google.com",
+      "source": "WRBL",
+      "language": "English",
+      "published_at": "2026-07-21T13:19:12+00:00",
+      "summary": "Alabama Power testing out unmanned drone WRBL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9aZEhBZGRLODdIcnhxVDhNYTlleHdWNzR0MUNYNllLdG1TSFdjOFRxRFhaXy1iak5GTkZQcFdXU0pnWW1DdXBER0NWc093Q2N3d21GTW5Rd2diVjFlMlBXd1V3NDQ0Rkc3bFNwbTByWWVxMm13OVHSAXtBVV95cUxNbXRPVWxISC1GVVQzRGRPaE85M3QtQzN5TXlfc0FCOEZXQXFmVy05N0pubjhTVFoxcVhRcXJHTDJfa1M1ZFBtNlludlVIdC1DakF2VHBTWUNHNVBIR25FeVlJOGRBbVNmSU5EYXVNdENfb0VFVERobVVENUU?oc=5\" target=\"_blank\">Alabama Power testing out unmanned drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRBL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-27T14:17:31+00:00"
     },
     {
       "id": "bbcabf9677a82984",
