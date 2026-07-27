@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-27T17:37:50+00:00",
+  "last_updated": "2026-07-27T19:17:55+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 136,
+  "count": 137,
   "mentions": [
+    {
+      "id": "15ffea4bb7ba5519",
+      "title": "Alabama Power adds Bham, Mobile execs to board of directors - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRWlvVWJzM0ltT3ptWWRMOHU4Nk0wMnJvd1F6cXRfNkpTcGpzR3ZDcXhjZFFPT044T1ZUZVpiMmZEcXJsWkZuQzY4NkEwOWtfMndVcm9CRkVlOUszTlV1YUZVYkFCVUZwZmdVZ0g2QnJMNXE5OWVZNk0yLVc2eTVjV1lfSkR4bmJIOEFBOU9rRU0?oc=5",
+      "domain": "news.google.com",
+      "source": "The Business Journals",
+      "language": "English",
+      "published_at": "2026-07-27T18:55:00+00:00",
+      "summary": "Alabama Power adds Bham, Mobile execs to board of directors The Business Journals",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQRWlvVWJzM0ltT3ptWWRMOHU4Nk0wMnJvd1F6cXRfNkpTcGpzR3ZDcXhjZFFPT044T1ZUZVpiMmZEcXJsWkZuQzY4NkEwOWtfMndVcm9CRkVlOUszTlV1YUZVYkFCVUZwZmdVZ0g2QnJMNXE5OWVZNk0yLVc2eTVjV1lfSkR4bmJIOEFBOU9rRU0?oc=5\" target=\"_blank\">Alabama Power adds Bham, Mobile execs to board of directors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-27T19:17:55+00:00"
+    },
     {
       "id": "d84a68395278ae5c",
       "title": "Looking for free outdoor adventures this summer? Alabama Power's 74 Preserves offer plenty of options - Yellowhammer News",
