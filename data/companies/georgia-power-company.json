@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-28T11:53:20+00:00",
+  "last_updated": "2026-07-28T13:49:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 294,
+  "count": 298,
   "mentions": [
+    {
+      "id": "71da3f1670a02278",
+      "title": "Georgia Power unveils 49.5-MW BESS at Moody solar farm - Renewables Now",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWRrVUJBUDhRbGpKLU5SSjZ3bnV5V1hiODBxZ2lyTW9yZDByN2JfNUJEVkxOeEpYMmdMSGFqalNDMnVzM0IxQUt3a0pNdERadmxRbnZZekhmLUo3ZTV0T0JLUko3clJVUEU3ejd0bXZId0Fua3k0bEV0d1FUTlhlaURFTjg5MWxQcFNtcWhSb29ubVhQTDhTUi13?oc=5",
+      "domain": "news.google.com",
+      "source": "Renewables Now",
+      "language": "English",
+      "published_at": "2026-07-28T10:24:27+00:00",
+      "summary": "Georgia Power unveils 49.5-MW BESS at Moody solar farm Renewables Now",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWRrVUJBUDhRbGpKLU5SSjZ3bnV5V1hiODBxZ2lyTW9yZDByN2JfNUJEVkxOeEpYMmdMSGFqalNDMnVzM0IxQUt3a0pNdERadmxRbnZZekhmLUo3ZTV0T0JLUko3clJVUEU3ejd0bXZId0Fua3k0bEV0d1FUTlhlaURFTjg5MWxQcFNtcWhSb29ubVhQTDhTUi13?oc=5\" target=\"_blank\">Georgia Power unveils 49.5-MW BESS at Moody solar farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Renewables Now</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-28T13:49:56+00:00"
+    },
+    {
+      "id": "48f7c24eb16df25f",
+      "title": "Georgia Power 100 linebackers: Blessed Trinity 5-star leads list of top 10 - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZGw2OW1qM0hWSUxtQkxTTFF5TXctbHl2YVRrR1RBaC12NXFybl9kdU02M1MxOFF4MmlsNk82RFE1TEFRa09sNTRZbWcyRkZmYTJBM3VIQkVwOFFOX2NJaVl0Rk5LVEJaNjBidlVHNUUzSERXNW1uMGtyLVo0eEtYQVJ6c3hXMEFaMll1T0VZXzJ3X253LVE2eDFZQ3lRZVFLSk5rZzhDUlBKUU91YWc?oc=5",
+      "domain": "news.google.com",
+      "source": "AJC.com",
+      "language": "English",
+      "published_at": "2026-07-28T09:34:22+00:00",
+      "summary": "Georgia Power 100 linebackers: Blessed Trinity 5-star leads list of top 10 AJC.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZGw2OW1qM0hWSUxtQkxTTFF5TXctbHl2YVRrR1RBaC12NXFybl9kdU02M1MxOFF4MmlsNk82RFE1TEFRa09sNTRZbWcyRkZmYTJBM3VIQkVwOFFOX2NJaVl0Rk5LVEJaNjBidlVHNUUzSERXNW1uMGtyLVo0eEtYQVJ6c3hXMEFaMll1T0VZXzJ3X253LVE2eDFZQ3lRZVFLSk5rZzhDUlBKUU91YWc?oc=5\" target=\"_blank\">Georgia Power 100 linebackers: Blessed Trinity 5-star leads list of top 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-28T13:49:56+00:00"
+    },
     {
       "id": "c20e7ab09b32c101",
       "title": "'They put out plenty of chemicals' | Lake Sinclair residents claim Georgia Power is responsible for invasive plant - 13WMAZ",
@@ -35,6 +63,20 @@
       "collected_at": "2026-07-28T01:58:16+00:00"
     },
     {
+      "id": "0aec415a3a32a8a1",
+      "title": "'They put out plenty of chemicals' | Lake Sinclair residents claim Georgia Power is responsible for invasive plant - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb3RxRmNmTFhyYjhsQ19TT2ZBajQ3R3RrdmJwdmprS0dKNnFXWVhhVzVDaFotdDQxUkVoQWFGQ01XS28wUi00cEJBZDAyX2VuYWVJTmRNUmxQWlNlS1FGdFNXZ2RyMHdEMUpmM3Z2Yldzd1RTUVNfRktEcGJrNWhCaFBUWjJWNk5XZzRfbGhqSFhmdw?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-07-27T22:07:02+00:00",
+      "summary": "'They put out plenty of chemicals' | Lake Sinclair residents claim Georgia Power is responsible for invasive plant Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQb3RxRmNmTFhyYjhsQ19TT2ZBajQ3R3RrdmJwdmprS0dKNnFXWVhhVzVDaFotdDQxUkVoQWFGQ01XS28wUi00cEJBZDAyX2VuYWVJTmRNUmxQWlNlS1FGdFNXZ2RyMHdEMUpmM3Z2Yldzd1RTUVNfRktEcGJrNWhCaFBUWjJWNk5XZzRfbGhqSFhmdw?oc=5\" target=\"_blank\">'They put out plenty of chemicals' | Lake Sinclair residents claim Georgia Power is responsible for invasive plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-28T13:49:56+00:00"
+    },
+    {
       "id": "a9aaf18acef62808",
       "title": "Georgia Power cuts ribbon on new Moody battery energy storage facility paired with solar - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbFJ2d0s5LXpPZ2VRajNjcDNoQUxPLUJ2c0NqSkRqaVFfcG9GSnMxekM1SnlOSnBuM2hvY0hqeTJNWFFKSnhGdFd1bHhBUmljRVFfZDlOcWVzcWNiYjdwVEVFRWc4M01oM01wX0RhVUhER2FKSWVQN2RyczIxZFk5OWNHUnpQYTE4QU85bW9Rc0R1a1ZWbmtqSHlBbzczbzJ2cW9OTXhHckRZdV9WZlFpNmh2dnIteU5HYy1YcXRHaHdMYVMtWTI0NFF0bWNQWGVwTEtBTUgtVDFPaHBR?oc=5",
@@ -47,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-27T22:55:40+00:00"
+    },
+    {
+      "id": "89fd1f4ef3936f93",
+      "title": "105-degree heat index triggers EMCs and Georgia Power to enact no-disconnect rule - Columbus Ledger-Enquirer",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2d19lVXh5emJrcGQtZmF6VzRKWVFzTzhaT25RcDRnXzI0dWxmOTNOakhHLXAtMmdmWDNITHNtVjY5ZVY5LWlGLWxvZldrUk8xbzVfX05kbk8zaldGTUllN3ppcnNZV0kxcVpacnRfWVoyYXpaSnhQenpR0gF6QVVfeXFMUDdGYnE0blA5ZE5WTm1UMGx3ajQ1WTJHMS0wQ1QtbjcyV2hjdUR4SWROTUt3WURBbUgzLUpXUk1kUnBYLXgxNUV3WjA3TTFLMG50em5wTlNrTk1TNkxPUzFCVDVyQXY5bnMyQllJcGRXVk5VclhNejNJTFE?oc=5",
+      "domain": "news.google.com",
+      "source": "Columbus Ledger-Enquirer",
+      "language": "English",
+      "published_at": "2026-07-27T18:39:47+00:00",
+      "summary": "105-degree heat index triggers EMCs and Georgia Power to enact no-disconnect rule Columbus Ledger-Enquirer",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA2d19lVXh5emJrcGQtZmF6VzRKWVFzTzhaT25RcDRnXzI0dWxmOTNOakhHLXAtMmdmWDNITHNtVjY5ZVY5LWlGLWxvZldrUk8xbzVfX05kbk8zaldGTUllN3ppcnNZV0kxcVpacnRfWVoyYXpaSnhQenpR0gF6QVVfeXFMUDdGYnE0blA5ZE5WTm1UMGx3ajQ1WTJHMS0wQ1QtbjcyV2hjdUR4SWROTUt3WURBbUgzLUpXUk1kUnBYLXgxNUV3WjA3TTFLMG50em5wTlNrTk1TNkxPUzFCVDVyQXY5bnMyQllJcGRXVk5VclhNejNJTFE?oc=5\" target=\"_blank\">105-degree heat index triggers EMCs and Georgia Power to enact no-disconnect rule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbus Ledger-Enquirer</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-28T13:49:56+00:00"
     },
     {
       "id": "de48fae8beaa1711",

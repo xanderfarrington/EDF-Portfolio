@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-28T11:53:40+00:00",
+  "last_updated": "2026-07-28T13:50:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 54,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "1516830718c0040f",
         "title": "AEP|American Electric Power Company Inc|Price:134.920| - TradingKey",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 137,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "15ffea4bb7ba5519",
         "title": "Alabama Power adds Bham, Mobile execs to board of directors - The Business Journals",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 27,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "23cd3bb3397fdae2",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 62,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -89,42 +89,42 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 294,
-      "new_mentions_this_run": 0,
+      "count": 298,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "c20e7ab09b32c101",
-        "title": "'They put out plenty of chemicals' | Lake Sinclair residents claim Georgia Power is responsible for invasive plant - 13WMAZ",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPT3ZvMFl6NzBNUkE4VUxnTk5sMmw2aEpZeUduN1M1ZlJjY0tCMGw1clJucTFqRHpoSGhyb0dWZjN5TlAxT0pVVlI4MUp3RmU1RUV5Q09YY1VzMF9pSDhXY1BBNjFhQlB5T1VfVVBZNTE2M0FZcmlObTllNU5jazJXVmh2TXZmOWhjN0VaZzFFbjhwbTRUdmRnVFdtM2gyRWR0UFVwY0FvRHRKWDFIamVFd0ZWc1NocTJwUjhzMDBkdFpvYUJBUHpjSm54QThDUGk2MHA5VW1mSDN4TVRHNXRkdzhtQmhKaklmWkVjeVhybVB6ZnRld2EwcDhRdmJTU2ZsMTZj?oc=5",
+        "id": "71da3f1670a02278",
+        "title": "Georgia Power unveils 49.5-MW BESS at Moody solar farm - Renewables Now",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWRrVUJBUDhRbGpKLU5SSjZ3bnV5V1hiODBxZ2lyTW9yZDByN2JfNUJEVkxOeEpYMmdMSGFqalNDMnVzM0IxQUt3a0pNdERadmxRbnZZekhmLUo3ZTV0T0JLUko3clJVUEU3ejd0bXZId0Fua3k0bEV0d1FUTlhlaURFTjg5MWxQcFNtcWhSb29ubVhQTDhTUi13?oc=5",
         "domain": "news.google.com",
-        "source": "13WMAZ",
+        "source": "Renewables Now",
         "language": "English",
-        "published_at": "2026-07-27T22:38:00+00:00",
-        "summary": "'They put out plenty of chemicals' | Lake Sinclair residents claim Georgia Power is responsible for invasive plant 13WMAZ",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPT3ZvMFl6NzBNUkE4VUxnTk5sMmw2aEpZeUduN1M1ZlJjY0tCMGw1clJucTFqRHpoSGhyb0dWZjN5TlAxT0pVVlI4MUp3RmU1RUV5Q09YY1VzMF9pSDhXY1BBNjFhQlB5T1VfVVBZNTE2M0FZcmlObTllNU5jazJXVmh2TXZmOWhjN0VaZzFFbjhwbTRUdmRnVFdtM2gyRWR0UFVwY0FvRHRKWDFIamVFd0ZWc1NocTJwUjhzMDBkdFpvYUJBUHpjSm54QThDUGk2MHA5VW1mSDN4TVRHNXRkdzhtQmhKaklmWkVjeVhybVB6ZnRld2EwcDhRdmJTU2ZsMTZj?oc=5\" target=\"_blank\">'They put out plenty of chemicals' | Lake Sinclair residents claim Georgia Power is responsible for invasive plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13WMAZ</font>",
+        "published_at": "2026-07-28T10:24:27+00:00",
+        "summary": "Georgia Power unveils 49.5-MW BESS at Moody solar farm Renewables Now",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWRrVUJBUDhRbGpKLU5SSjZ3bnV5V1hiODBxZ2lyTW9yZDByN2JfNUJEVkxOeEpYMmdMSGFqalNDMnVzM0IxQUt3a0pNdERadmxRbnZZekhmLUo3ZTV0T0JLUko3clJVUEU3ejd0bXZId0Fua3k0bEV0d1FUTlhlaURFTjg5MWxQcFNtcWhSb29ubVhQTDhTUi13?oc=5\" target=\"_blank\">Georgia Power unveils 49.5-MW BESS at Moody solar farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Renewables Now</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-28T01:58:16+00:00"
+        "collected_at": "2026-07-28T13:49:56+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 20,
-      "new_mentions_this_run": 0,
+      "count": 21,
+      "new_mentions_this_run": 3,
       "latest_mention": {
-        "id": "4c5210b5217d10fb",
-        "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2MxRTlQb05HeWZFRGpBVTU5cVl2U2RKTFJ1ekI5MkpXdFkyQlhGMkhFdlhCcTVETnlsN0pjQ3dIRjViRGM0ZXZLRW90blBjTWE0dUFvbl9zNDgtVFBtQ2xDdC1JNkxDUmtqVm5QRVlTaWxIYzNKaURJblBLVHFZNUJMQVJrVkUwLXpyakpfWGduaks3dUNxNHRHOFdSQldoSTJ3cWdlQjR0dw?oc=5",
+        "id": "0b6e3ce5e41a219a",
+        "title": "Hernan Cortes - Department of Energy (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYQnM5N1ItS2R0cG1ocmRGZE5zcDF4akZBLW1xYlRWcjdVSTJPUHdqazdMTDVkUm5kamJucUVnTnl6UGhzd0g3NU1JTlplODBKbjZTSWZlZUJmSEU?oc=5",
         "domain": "news.google.com",
         "source": "Department of Energy (.gov)",
         "language": "English",
-        "published_at": "2026-07-09T17:30:12+00:00",
-        "summary": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects Department of Energy (.gov)",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2MxRTlQb05HeWZFRGpBVTU5cVl2U2RKTFJ1ekI5MkpXdFkyQlhGMkhFdlhCcTVETnlsN0pjQ3dIRjViRGM0ZXZLRW90blBjTWE0dUFvbl9zNDgtVFBtQ2xDdC1JNkxDUmtqVm5QRVlTaWxIYzNKaURJblBLVHFZNUJMQVJrVkUwLXpyakpfWGduaks3dUNxNHRHOFdSQldoSTJ3cWdlQjR0dw?oc=5\" target=\"_blank\">Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+        "published_at": "2026-07-26T21:38:26+00:00",
+        "summary": "Hernan Cortes Department of Energy (.gov)",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYQnM5N1ItS2R0cG1ocmRGZE5zcDF4akZBLW1xYlRWcjdVSTJPUHdqazdMTDVkUm5kamJucUVnTnl6UGhzd0g3NU1JTlplODBKbjZTSWZlZUJmSEU?oc=5\" target=\"_blank\">Hernan Cortes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-14T07:52:54+00:00"
+        "collected_at": "2026-07-28T13:50:01+00:00"
       }
     }
   ]

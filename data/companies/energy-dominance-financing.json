@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-07-28T11:53:35+00:00",
+  "last_updated": "2026-07-28T13:50:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 20,
+  "count": 21,
   "mentions": [
+    {
+      "id": "0b6e3ce5e41a219a",
+      "title": "Hernan Cortes - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYQnM5N1ItS2R0cG1ocmRGZE5zcDF4akZBLW1xYlRWcjdVSTJPUHdqazdMTDVkUm5kamJucUVnTnl6UGhzd0g3NU1JTlplODBKbjZTSWZlZUJmSEU?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-07-26T21:38:26+00:00",
+      "summary": "Hernan Cortes Department of Energy (.gov)",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYQnM5N1ItS2R0cG1ocmRGZE5zcDF4akZBLW1xYlRWcjdVSTJPUHdqazdMTDVkUm5kamJucUVnTnl6UGhzd0g3NU1JTlplODBKbjZTSWZlZUJmSEU?oc=5\" target=\"_blank\">Hernan Cortes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-28T13:50:01+00:00"
+    },
     {
       "id": "4c5210b5217d10fb",
       "title": "Building an All-of-the-Above Portfolio with Loan Guarantees for Advanced Nuclear Projects - Department of Energy (.gov)",
