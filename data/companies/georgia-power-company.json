@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-28T19:14:29+00:00",
+  "last_updated": "2026-07-28T21:02:48+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 302,
+  "count": 303,
   "mentions": [
+    {
+      "id": "b261954a9f49b7e8",
+      "title": "Local Georgia Power employees collect supplies for schoolkids - WRDW",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNek5fM2NDdlhfWGZYSzdmOWktTlRxTXpoZkpLanVvcHV6aDR2UjhBVFcxZUJTUVlGeUpKaDI4UmRkYWljaGhWR3B6dklwV1kybXJ5dUtJbVBmaWEzSTdKdTQ2VkEyVDBlWGJ3T3lKdDkzWXB6TXBLX19mV2xieDdGanpLNjRjSWVLajRIaTRXVnRTR2Vp0gGoAUFVX3lxTE1kY3JWY1VvNFNfc3FCdWpaRktrWG5tLVRMQU5pejdUY3ZDRVJEN3NoOG1UTmxXdGRGM0pZSExKXzJjTGtjd1ptQnh0X1hEUHUweXkybV8xSXVHWEZDV3NCUkpVTHFlX1Y1bl9EUHpNLUVxemx1SjBYVmo2VEtJbmlXNk9fd0tEMmY5WTc2ZUdnS2E0cUJiLWhQS0NITDRuZHZOVUJYc2hfLQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WRDW",
+      "language": "English",
+      "published_at": "2026-07-28T19:56:00+00:00",
+      "summary": "Local Georgia Power employees collect supplies for schoolkids WRDW",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNek5fM2NDdlhfWGZYSzdmOWktTlRxTXpoZkpLanVvcHV6aDR2UjhBVFcxZUJTUVlGeUpKaDI4UmRkYWljaGhWR3B6dklwV1kybXJ5dUtJbVBmaWEzSTdKdTQ2VkEyVDBlWGJ3T3lKdDkzWXB6TXBLX19mV2xieDdGanpLNjRjSWVLajRIaTRXVnRTR2Vp0gGoAUFVX3lxTE1kY3JWY1VvNFNfc3FCdWpaRktrWG5tLVRMQU5pejdUY3ZDRVJEN3NoOG1UTmxXdGRGM0pZSExKXzJjTGtjd1ptQnh0X1hEUHUweXkybV8xSXVHWEZDV3NCUkpVTHFlX1Y1bl9EUHpNLUVxemx1SjBYVmo2VEtJbmlXNk9fd0tEMmY5WTc2ZUdnS2E0cUJiLWhQS0NITDRuZHZOVUJYc2hfLQ?oc=5\" target=\"_blank\">Local Georgia Power employees collect supplies for schoolkids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-28T21:02:48+00:00"
+    },
     {
       "id": "92391573f4a9c887",
       "title": "How Anonymized PSC Data Foretells OpenAI’s 3.2 GW Build - Data Center Knowledge",
