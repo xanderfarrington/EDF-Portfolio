@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T13:50:06+00:00",
+  "last_updated": "2026-07-28T16:01:45+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 298,
+      "count": 300,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "71da3f1670a02278",
-        "title": "Georgia Power unveils 49.5-MW BESS at Moody solar farm - Renewables Now",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWRrVUJBUDhRbGpKLU5SSjZ3bnV5V1hiODBxZ2lyTW9yZDByN2JfNUJEVkxOeEpYMmdMSGFqalNDMnVzM0IxQUt3a0pNdERadmxRbnZZekhmLUo3ZTV0T0JLUko3clJVUEU3ejd0bXZId0Fua3k0bEV0d1FUTlhlaURFTjg5MWxQcFNtcWhSb29ubVhQTDhTUi13?oc=5",
+        "id": "f555880c2cfafe0e",
+        "title": "Georgia Power pairs 49.5-MW storage facility with existing solar project - Solar Power World",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkllMTRRZGc5bnlPZERTRF9MV2x4MThqclFxYU81UUwwSU5hU25oaUptemNicE1xblU2MUwtdkNMSkMwNy1Pc0JKLXIxeU9mam1ITGdNTWxhMElCN1ZOX3dwSVBrWDJIejJhaUs3Qlo4aWxfenJYV2pEQ00wQVZZeXRWbF85aEpVRlN1LUlFNzlmTVl6Y0ZyOFQ1NGt3eG1TQUJkOXl4eFI4cEg1aUM4T2tTX0V4cUhZZUhj?oc=5",
         "domain": "news.google.com",
-        "source": "Renewables Now",
+        "source": "Solar Power World",
         "language": "English",
-        "published_at": "2026-07-28T10:24:27+00:00",
-        "summary": "Georgia Power unveils 49.5-MW BESS at Moody solar farm Renewables Now",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWRrVUJBUDhRbGpKLU5SSjZ3bnV5V1hiODBxZ2lyTW9yZDByN2JfNUJEVkxOeEpYMmdMSGFqalNDMnVzM0IxQUt3a0pNdERadmxRbnZZekhmLUo3ZTV0T0JLUko3clJVUEU3ejd0bXZId0Fua3k0bEV0d1FUTlhlaURFTjg5MWxQcFNtcWhSb29ubVhQTDhTUi13?oc=5\" target=\"_blank\">Georgia Power unveils 49.5-MW BESS at Moody solar farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Renewables Now</font>",
+        "published_at": "2026-07-28T13:57:27+00:00",
+        "summary": "Georgia Power pairs 49.5-MW storage facility with existing solar project Solar Power World",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkllMTRRZGc5bnlPZERTRF9MV2x4MThqclFxYU81UUwwSU5hU25oaUptemNicE1xblU2MUwtdkNMSkMwNy1Pc0JKLXIxeU9mam1ITGdNTWxhMElCN1ZOX3dwSVBrWDJIejJhaUs3Qlo4aWxfenJYV2pEQ00wQVZZeXRWbF85aEpVRlN1LUlFNzlmTVl6Y0ZyOFQ1NGt3eG1TQUJkOXl4eFI4cEg1aUM4T2tTX0V4cUhZZUhj?oc=5\" target=\"_blank\">Georgia Power pairs 49.5-MW storage facility with existing solar project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solar Power World</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-28T13:49:56+00:00"
+        "collected_at": "2026-07-28T16:01:35+00:00"
       }
     },
     {
