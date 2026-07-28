@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-28T21:02:32+00:00",
+  "last_updated": "2026-07-28T22:53:58+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 138,
+  "count": 139,
   "mentions": [
     {
       "id": "fd9ba09fd5f04b1f",
@@ -565,6 +565,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-16T22:52:15+00:00"
+    },
+    {
+      "id": "f1f9ad8b0fb766fa",
+      "title": "Trust me on this - Lagniappe Daily",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRydzgtdjFhOWQwaUFsTldKZEx2dXVfd3Y2MmxObTE5SWFPcUNVZVlSclhhS2RqQ2RhdjFya0JKcTNySkNWYkdsVHlLYWlGWDU3RmhOdWRkWlRuMkRGZWhlUWdXa2FpS29laDNoYmRBYlVNVzBXN3ZsekdRQTllU0VIZG5Ec3o1T0hTaDFSejU4NTQwUVZSZ01wdUQxQzlIaF96M0lNQVZoQ2FpZ2VqVUtsM2N6MWJqSFpWUtIBwgFBVV95cUxNZ1pKVVFrOGdUR21zWjgteF9oZWp0a0cyWDFocExNVC1wUW9oeVI1VU5hUGRNU1RLNlhmSE02OGkzTTVkeXI3d3B5Q19zT0ZjeWFIRlM3MVdzVW55SXFCdDdPTjRlTmZpRTlGN3Q0S3ZrYzNGRmJ4NHhKN29nZG1HX1ZVbk15N0w0ZzBNUk9VMU14NlBIMVNyVmNnZEwxajRnejA2d3NCVG1vWjJBM25tVlVjM095d1dPOXljYVhES0thdw?oc=5",
+      "domain": "news.google.com",
+      "source": "Lagniappe Daily",
+      "language": "English",
+      "published_at": "2026-07-16T07:00:00+00:00",
+      "summary": "Trust me on this Lagniappe Daily",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRydzgtdjFhOWQwaUFsTldKZEx2dXVfd3Y2MmxObTE5SWFPcUNVZVlSclhhS2RqQ2RhdjFya0JKcTNySkNWYkdsVHlLYWlGWDU3RmhOdWRkWlRuMkRGZWhlUWdXa2FpS29laDNoYmRBYlVNVzBXN3ZsekdRQTllU0VIZG5Ec3o1T0hTaDFSejU4NTQwUVZSZ01wdUQxQzlIaF96M0lNQVZoQ2FpZ2VqVUtsM2N6MWJqSFpWUtIBwgFBVV95cUxNZ1pKVVFrOGdUR21zWjgteF9oZWp0a0cyWDFocExNVC1wUW9oeVI1VU5hUGRNU1RLNlhmSE02OGkzTTVkeXI3d3B5Q19zT0ZjeWFIRlM3MVdzVW55SXFCdDdPTjRlTmZpRTlGN3Q0S3ZrYzNGRmJ4NHhKN29nZG1HX1ZVbk15N0w0ZzBNUk9VMU14NlBIMVNyVmNnZEwxajRnejA2d3NCVG1vWjJBM25tVlVjM095d1dPOXljYVhES0thdw?oc=5\" target=\"_blank\">Trust me on this</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lagniappe Daily</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-28T22:53:58+00:00"
     },
     {
       "id": "d9e37285a37f8efd",

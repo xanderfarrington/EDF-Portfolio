@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T21:02:59+00:00",
+  "last_updated": "2026-07-28T22:54:26+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 138,
-      "new_mentions_this_run": 23,
+      "count": 139,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "fd9ba09fd5f04b1f",
         "title": "Alabama Power adds Tom Hand, Mike Kemp Sr. to board of directors - Yellowhammer News",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 27,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "23cd3bb3397fdae2",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 303,
+      "count": 307,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "b261954a9f49b7e8",
-        "title": "Local Georgia Power employees collect supplies for schoolkids - WRDW",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNek5fM2NDdlhfWGZYSzdmOWktTlRxTXpoZkpLanVvcHV6aDR2UjhBVFcxZUJTUVlGeUpKaDI4UmRkYWljaGhWR3B6dklwV1kybXJ5dUtJbVBmaWEzSTdKdTQ2VkEyVDBlWGJ3T3lKdDkzWXB6TXBLX19mV2xieDdGanpLNjRjSWVLajRIaTRXVnRTR2Vp0gGoAUFVX3lxTE1kY3JWY1VvNFNfc3FCdWpaRktrWG5tLVRMQU5pejdUY3ZDRVJEN3NoOG1UTmxXdGRGM0pZSExKXzJjTGtjd1ptQnh0X1hEUHUweXkybV8xSXVHWEZDV3NCUkpVTHFlX1Y1bl9EUHpNLUVxemx1SjBYVmo2VEtJbmlXNk9fd0tEMmY5WTc2ZUdnS2E0cUJiLWhQS0NITDRuZHZOVUJYc2hfLQ?oc=5",
+        "id": "2673ba34a9285219",
+        "title": "Georgia Power breaks ground on Plant Bowen gas, battery expansion - Atlanta News First",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRW44ZTJGdFNsanFsSXAybVUyenJXeGdVbW1IczRYdEJtTTA5R3JyT0hSekdCeFlQbFhleWI3bDZPSVI2M1RVckt3Q3p1d0lnLWhDT1g2dXZLSUJxTF9KQ2VlSFNGT0lQN1VfWkt0QTdOblFUTXZXMEo4Y3F0Y0E3VWR3M0FTRXRfXy0tS3k3VEtOd25ISHRSTGJrcVo3X1VOT1ZQX1JRTzF0Z9IBvgFBVV95cUxPWnNBYXQtZk0zbkhsVlZQV0hyZHFVX01rQS1iN0M1aVFKMHRZSThlQXU3QmpYZjFDOVdrSlhSdmNRUWx4TWNuWEJzWHI4VDgzbGZHcXBlUjd4SVBYUHFoMjFSZXBVdllCQUYyXzVPWnZ3M3ZKaVdWZ0lwWE1sMVFpN2V5d3Z5TVREVXdBbkxhc1htNXctNEc4QVg5MTFranBrellSdHFQUmNmc1JBajdhT3J6ZnNDT0lxaVlZWVJ3?oc=5",
         "domain": "news.google.com",
-        "source": "WRDW",
+        "source": "Atlanta News First",
         "language": "English",
-        "published_at": "2026-07-28T19:56:00+00:00",
-        "summary": "Local Georgia Power employees collect supplies for schoolkids WRDW",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNek5fM2NDdlhfWGZYSzdmOWktTlRxTXpoZkpLanVvcHV6aDR2UjhBVFcxZUJTUVlGeUpKaDI4UmRkYWljaGhWR3B6dklwV1kybXJ5dUtJbVBmaWEzSTdKdTQ2VkEyVDBlWGJ3T3lKdDkzWXB6TXBLX19mV2xieDdGanpLNjRjSWVLajRIaTRXVnRTR2Vp0gGoAUFVX3lxTE1kY3JWY1VvNFNfc3FCdWpaRktrWG5tLVRMQU5pejdUY3ZDRVJEN3NoOG1UTmxXdGRGM0pZSExKXzJjTGtjd1ptQnh0X1hEUHUweXkybV8xSXVHWEZDV3NCUkpVTHFlX1Y1bl9EUHpNLUVxemx1SjBYVmo2VEtJbmlXNk9fd0tEMmY5WTc2ZUdnS2E0cUJiLWhQS0NITDRuZHZOVUJYc2hfLQ?oc=5\" target=\"_blank\">Local Georgia Power employees collect supplies for schoolkids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+        "published_at": "2026-07-28T22:22:00+00:00",
+        "summary": "Georgia Power breaks ground on Plant Bowen gas, battery expansion Atlanta News First",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRW44ZTJGdFNsanFsSXAybVUyenJXeGdVbW1IczRYdEJtTTA5R3JyT0hSekdCeFlQbFhleWI3bDZPSVI2M1RVckt3Q3p1d0lnLWhDT1g2dXZLSUJxTF9KQ2VlSFNGT0lQN1VfWkt0QTdOblFUTXZXMEo4Y3F0Y0E3VWR3M0FTRXRfXy0tS3k3VEtOd25ISHRSTGJrcVo3X1VOT1ZQX1JRTzF0Z9IBvgFBVV95cUxPWnNBYXQtZk0zbkhsVlZQV0hyZHFVX01rQS1iN0M1aVFKMHRZSThlQXU3QmpYZjFDOVdrSlhSdmNRUWx4TWNuWEJzWHI4VDgzbGZHcXBlUjd4SVBYUHFoMjFSZXBVdllCQUYyXzVPWnZ3M3ZKaVdWZ0lwWE1sMVFpN2V5d3Z5TVREVXdBbkxhc1htNXctNEc4QVg5MTFranBrellSdHFQUmNmc1JBajdhT3J6ZnNDT0lxaVlZWVJ3?oc=5\" target=\"_blank\">Georgia Power breaks ground on Plant Bowen gas, battery expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-28T21:02:48+00:00"
+        "collected_at": "2026-07-28T22:54:15+00:00"
       }
     },
     {
