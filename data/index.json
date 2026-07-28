@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-28T01:58:27+00:00",
+  "last_updated": "2026-07-28T05:17:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 53,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "1516830718c0040f",
         "title": "AEP|American Electric Power Company Inc|Price:134.920| - TradingKey",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 137,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "15ffea4bb7ba5519",
         "title": "Alabama Power adds Bham, Mobile execs to board of directors - The Business Journals",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 27,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "23cd3bb3397fdae2",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 62,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "f8d18ed6fbac21cc",
         "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 294,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "c20e7ab09b32c101",
         "title": "'They put out plenty of chemicals' | Lake Sinclair residents claim Georgia Power is responsible for invasive plant - 13WMAZ",
