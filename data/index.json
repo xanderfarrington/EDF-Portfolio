@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T22:55:50+00:00",
+  "last_updated": "2026-07-28T01:58:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 292,
+      "count": 294,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "a9aaf18acef62808",
-        "title": "Georgia Power cuts ribbon on new Moody battery energy storage facility paired with solar - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbFJ2d0s5LXpPZ2VRajNjcDNoQUxPLUJ2c0NqSkRqaVFfcG9GSnMxekM1SnlOSnBuM2hvY0hqeTJNWFFKSnhGdFd1bHhBUmljRVFfZDlOcWVzcWNiYjdwVEVFRWc4M01oM01wX0RhVUhER2FKSWVQN2RyczIxZFk5OWNHUnpQYTE4QU85bW9Rc0R1a1ZWbmtqSHlBbzczbzJ2cW9OTXhHckRZdV9WZlFpNmh2dnIteU5HYy1YcXRHaHdMYVMtWTI0NFF0bWNQWGVwTEtBTUgtVDFPaHBR?oc=5",
+        "id": "c20e7ab09b32c101",
+        "title": "'They put out plenty of chemicals' | Lake Sinclair residents claim Georgia Power is responsible for invasive plant - 13WMAZ",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPT3ZvMFl6NzBNUkE4VUxnTk5sMmw2aEpZeUduN1M1ZlJjY0tCMGw1clJucTFqRHpoSGhyb0dWZjN5TlAxT0pVVlI4MUp3RmU1RUV5Q09YY1VzMF9pSDhXY1BBNjFhQlB5T1VfVVBZNTE2M0FZcmlObTllNU5jazJXVmh2TXZmOWhjN0VaZzFFbjhwbTRUdmRnVFdtM2gyRWR0UFVwY0FvRHRKWDFIamVFd0ZWc1NocTJwUjhzMDBkdFpvYUJBUHpjSm54QThDUGk2MHA5VW1mSDN4TVRHNXRkdzhtQmhKaklmWkVjeVhybVB6ZnRld2EwcDhRdmJTU2ZsMTZj?oc=5",
         "domain": "news.google.com",
-        "source": "PR Newswire",
+        "source": "13WMAZ",
         "language": "English",
-        "published_at": "2026-07-27T21:27:00+00:00",
-        "summary": "Georgia Power cuts ribbon on new Moody battery energy storage facility paired with solar PR Newswire",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbFJ2d0s5LXpPZ2VRajNjcDNoQUxPLUJ2c0NqSkRqaVFfcG9GSnMxekM1SnlOSnBuM2hvY0hqeTJNWFFKSnhGdFd1bHhBUmljRVFfZDlOcWVzcWNiYjdwVEVFRWc4M01oM01wX0RhVUhER2FKSWVQN2RyczIxZFk5OWNHUnpQYTE4QU85bW9Rc0R1a1ZWbmtqSHlBbzczbzJ2cW9OTXhHckRZdV9WZlFpNmh2dnIteU5HYy1YcXRHaHdMYVMtWTI0NFF0bWNQWGVwTEtBTUgtVDFPaHBR?oc=5\" target=\"_blank\">Georgia Power cuts ribbon on new Moody battery energy storage facility paired with solar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "published_at": "2026-07-27T22:38:00+00:00",
+        "summary": "'They put out plenty of chemicals' | Lake Sinclair residents claim Georgia Power is responsible for invasive plant 13WMAZ",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPT3ZvMFl6NzBNUkE4VUxnTk5sMmw2aEpZeUduN1M1ZlJjY0tCMGw1clJucTFqRHpoSGhyb0dWZjN5TlAxT0pVVlI4MUp3RmU1RUV5Q09YY1VzMF9pSDhXY1BBNjFhQlB5T1VfVVBZNTE2M0FZcmlObTllNU5jazJXVmh2TXZmOWhjN0VaZzFFbjhwbTRUdmRnVFdtM2gyRWR0UFVwY0FvRHRKWDFIamVFd0ZWc1NocTJwUjhzMDBkdFpvYUJBUHpjSm54QThDUGk2MHA5VW1mSDN4TVRHNXRkdzhtQmhKaklmWkVjeVhybVB6ZnRld2EwcDhRdmJTU2ZsMTZj?oc=5\" target=\"_blank\">'They put out plenty of chemicals' | Lake Sinclair residents claim Georgia Power is responsible for invasive plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13WMAZ</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-27T22:55:40+00:00"
+        "collected_at": "2026-07-28T01:58:16+00:00"
       }
     },
     {
