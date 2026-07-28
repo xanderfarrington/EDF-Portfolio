@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-28T16:01:35+00:00",
+  "last_updated": "2026-07-28T19:14:29+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 300,
+  "count": 302,
   "mentions": [
+    {
+      "id": "92391573f4a9c887",
+      "title": "How Anonymized PSC Data Foretells OpenAI’s 3.2 GW Build - Data Center Knowledge",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmx1UUEzMkREOW9IQVhzeFF5VUQzZFNaYlpOODI5d0k4cVN6UFNhamE0SkhxM0VDSXMxNnNQUHh0ZmJsSWt1V0dUSEluc21sb2plWjZkRFB0V250THBRS0d0U2xFeE9tYVFYMldHZF9WeFdxekxITDNYbTR5T2RDN2dkRmo3UGFWQmlWREZqc3NUN09xVFhIRVdULXRjR1g1VEMyOFUtWDNCUlBjU0JzVURMbWM4eTlpMFhKWlFDdzllampPS2FieWRJSHRlN28zZ1NUVmhn?oc=5",
+      "domain": "news.google.com",
+      "source": "Data Center Knowledge",
+      "language": "English",
+      "published_at": "2026-07-28T16:52:33+00:00",
+      "summary": "How Anonymized PSC Data Foretells OpenAI’s 3.2 GW Build Data Center Knowledge",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmx1UUEzMkREOW9IQVhzeFF5VUQzZFNaYlpOODI5d0k4cVN6UFNhamE0SkhxM0VDSXMxNnNQUHh0ZmJsSWt1V0dUSEluc21sb2plWjZkRFB0V250THBRS0d0U2xFeE9tYVFYMldHZF9WeFdxekxITDNYbTR5T2RDN2dkRmo3UGFWQmlWREZqc3NUN09xVFhIRVdULXRjR1g1VEMyOFUtWDNCUlBjU0JzVURMbWM4eTlpMFhKWlFDdzllampPS2FieWRJSHRlN28zZ1NUVmhn?oc=5\" target=\"_blank\">How Anonymized PSC Data Foretells OpenAI’s 3.2 GW Build</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Knowledge</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-28T19:14:29+00:00"
+    },
     {
       "id": "f555880c2cfafe0e",
       "title": "Georgia Power pairs 49.5-MW storage facility with existing solar project - Solar Power World",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-28T16:01:35+00:00"
+    },
+    {
+      "id": "1c6f64929c8642a5",
+      "title": "Georgia Power cuts ribbon on Moody Battery Facility - Solar Builder",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjNkY2FrTFQ4d0RYSWVMRjV2TDVBVzNDZGxlZGpYbmh1azRjbG5BT0JNWnVUVVZKNUxQR3hNc0hSaEhPQy13MlNrd2kwT1dSdHZNVlZNbFY5cE1vMWxMLW5FcHYtQ3VGYms2bTlLZ1loQnZEU2E2UW80aGdla29YeG41LTlIU0tNcDh2Yi1aN3cwak12dXNwNXkzOA?oc=5",
+      "domain": "news.google.com",
+      "source": "Solar Builder",
+      "language": "English",
+      "published_at": "2026-07-28T13:42:20+00:00",
+      "summary": "Georgia Power cuts ribbon on Moody Battery Facility Solar Builder",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjNkY2FrTFQ4d0RYSWVMRjV2TDVBVzNDZGxlZGpYbmh1azRjbG5BT0JNWnVUVVZKNUxQR3hNc0hSaEhPQy13MlNrd2kwT1dSdHZNVlZNbFY5cE1vMWxMLW5FcHYtQ3VGYms2bTlLZ1loQnZEU2E2UW80aGdla29YeG41LTlIU0tNcDh2Yi1aN3cwak12dXNwNXkzOA?oc=5\" target=\"_blank\">Georgia Power cuts ribbon on Moody Battery Facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solar Builder</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-28T19:14:29+00:00"
     },
     {
       "id": "85f619faac3b1d27",

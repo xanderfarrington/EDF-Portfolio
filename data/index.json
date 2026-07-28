@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-28T16:01:45+00:00",
+  "last_updated": "2026-07-28T19:14:39+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 54,
+      "count": 55,
       "new_mentions_this_run": 8,
       "latest_mention": {
-        "id": "1516830718c0040f",
-        "title": "AEP|American Electric Power Company Inc|Price:134.920| - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSDdwX0ZreGJzUGxvMFo5NkQ5Z2xNZTJXR1JnLXFKYjYwOUpDcGx3U1plc0pYVVB0azVtaERMb1FUUFJoU2xHc1JXd3Y5amdPMXdTem1lb2tMS1FPZkRxZGRwSQ?oc=5",
+        "id": "28df8cffc8c0d101",
+        "title": "AEP|American Electric Power Company Inc|Price:135.810|Chg%:+2.220 - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwYndETDhfb09Wb1hOX1hZLU1xX0hEZUF0WUtxSmhLUFh0VnBwNkJTQlN4cEU0bDV4U0ZrRXJ6V1drZEltSFVwb3Z3bEF3Rk4tYVlqOEZwdTk?oc=5",
         "domain": "news.google.com",
         "source": "TradingKey",
         "language": "English",
-        "published_at": "2026-07-24T12:32:47+00:00",
-        "summary": "AEP|American Electric Power Company Inc|Price:134.920| TradingKey",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSDdwX0ZreGJzUGxvMFo5NkQ5Z2xNZTJXR1JnLXFKYjYwOUpDcGx3U1plc0pYVVB0azVtaERMb1FUUFJoU2xHc1JXd3Y5amdPMXdTem1lb2tMS1FPZkRxZGRwSQ?oc=5\" target=\"_blank\">AEP|American Electric Power Company Inc|Price:134.920|</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+        "published_at": "2026-07-27T07:00:00+00:00",
+        "summary": "AEP|American Electric Power Company Inc|Price:135.810|Chg%:+2.220 TradingKey",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwYndETDhfb09Wb1hOX1hZLU1xX0hEZUF0WUtxSmhLUFh0VnBwNkJTQlN4cEU0bDV4U0ZrRXJ6V1drZEltSFVwb3Z3bEF3Rk4tYVlqOEZwdTk?oc=5\" target=\"_blank\">AEP|American Electric Power Company Inc|Price:135.810|Chg%:+2.220</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-24T15:21:55+00:00"
+        "collected_at": "2026-07-28T19:14:07+00:00"
       }
     },
     {
@@ -89,42 +89,42 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 300,
+      "count": 302,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "f555880c2cfafe0e",
-        "title": "Georgia Power pairs 49.5-MW storage facility with existing solar project - Solar Power World",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkllMTRRZGc5bnlPZERTRF9MV2x4MThqclFxYU81UUwwSU5hU25oaUptemNicE1xblU2MUwtdkNMSkMwNy1Pc0JKLXIxeU9mam1ITGdNTWxhMElCN1ZOX3dwSVBrWDJIejJhaUs3Qlo4aWxfenJYV2pEQ00wQVZZeXRWbF85aEpVRlN1LUlFNzlmTVl6Y0ZyOFQ1NGt3eG1TQUJkOXl4eFI4cEg1aUM4T2tTX0V4cUhZZUhj?oc=5",
+        "id": "92391573f4a9c887",
+        "title": "How Anonymized PSC Data Foretells OpenAI’s 3.2 GW Build - Data Center Knowledge",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmx1UUEzMkREOW9IQVhzeFF5VUQzZFNaYlpOODI5d0k4cVN6UFNhamE0SkhxM0VDSXMxNnNQUHh0ZmJsSWt1V0dUSEluc21sb2plWjZkRFB0V250THBRS0d0U2xFeE9tYVFYMldHZF9WeFdxekxITDNYbTR5T2RDN2dkRmo3UGFWQmlWREZqc3NUN09xVFhIRVdULXRjR1g1VEMyOFUtWDNCUlBjU0JzVURMbWM4eTlpMFhKWlFDdzllampPS2FieWRJSHRlN28zZ1NUVmhn?oc=5",
         "domain": "news.google.com",
-        "source": "Solar Power World",
+        "source": "Data Center Knowledge",
         "language": "English",
-        "published_at": "2026-07-28T13:57:27+00:00",
-        "summary": "Georgia Power pairs 49.5-MW storage facility with existing solar project Solar Power World",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkllMTRRZGc5bnlPZERTRF9MV2x4MThqclFxYU81UUwwSU5hU25oaUptemNicE1xblU2MUwtdkNMSkMwNy1Pc0JKLXIxeU9mam1ITGdNTWxhMElCN1ZOX3dwSVBrWDJIejJhaUs3Qlo4aWxfenJYV2pEQ00wQVZZeXRWbF85aEpVRlN1LUlFNzlmTVl6Y0ZyOFQ1NGt3eG1TQUJkOXl4eFI4cEg1aUM4T2tTX0V4cUhZZUhj?oc=5\" target=\"_blank\">Georgia Power pairs 49.5-MW storage facility with existing solar project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solar Power World</font>",
+        "published_at": "2026-07-28T16:52:33+00:00",
+        "summary": "How Anonymized PSC Data Foretells OpenAI’s 3.2 GW Build Data Center Knowledge",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmx1UUEzMkREOW9IQVhzeFF5VUQzZFNaYlpOODI5d0k4cVN6UFNhamE0SkhxM0VDSXMxNnNQUHh0ZmJsSWt1V0dUSEluc21sb2plWjZkRFB0V250THBRS0d0U2xFeE9tYVFYMldHZF9WeFdxekxITDNYbTR5T2RDN2dkRmo3UGFWQmlWREZqc3NUN09xVFhIRVdULXRjR1g1VEMyOFUtWDNCUlBjU0JzVURMbWM4eTlpMFhKWlFDdzllampPS2FieWRJSHRlN28zZ1NUVmhn?oc=5\" target=\"_blank\">How Anonymized PSC Data Foretells OpenAI’s 3.2 GW Build</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Knowledge</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-28T16:01:35+00:00"
+        "collected_at": "2026-07-28T19:14:29+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 21,
-      "new_mentions_this_run": 3,
+      "count": 23,
+      "new_mentions_this_run": 5,
       "latest_mention": {
-        "id": "0b6e3ce5e41a219a",
-        "title": "Hernan Cortes - Department of Energy (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYQnM5N1ItS2R0cG1ocmRGZE5zcDF4akZBLW1xYlRWcjdVSTJPUHdqazdMTDVkUm5kamJucUVnTnl6UGhzd0g3NU1JTlplODBKbjZTSWZlZUJmSEU?oc=5",
+        "id": "989d8de52174b1ef",
+        "title": "Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies - JD Supra",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX19tU1BuVVktODdZMWpnMkFDZjAwSUNKMVJvVnFJVDI0a05tS1J1Y2NaRVRtYWExb1VKdGNkNjFNN25lTWRMT3dKWTZvN1MxQ0NvMDlnYTZLVG96dDVrLTRCX296QzFZYTVTMnR5NG94RGN5bE5pdGJSazFLZlNJU3pMLWo?oc=5",
         "domain": "news.google.com",
-        "source": "Department of Energy (.gov)",
+        "source": "JD Supra",
         "language": "English",
-        "published_at": "2026-07-26T21:38:26+00:00",
-        "summary": "Hernan Cortes Department of Energy (.gov)",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYQnM5N1ItS2R0cG1ocmRGZE5zcDF4akZBLW1xYlRWcjdVSTJPUHdqazdMTDVkUm5kamJucUVnTnl6UGhzd0g3NU1JTlplODBKbjZTSWZlZUJmSEU?oc=5\" target=\"_blank\">Hernan Cortes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+        "published_at": "2026-07-28T18:34:39+00:00",
+        "summary": "Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies JD Supra",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOX19tU1BuVVktODdZMWpnMkFDZjAwSUNKMVJvVnFJVDI0a05tS1J1Y2NaRVRtYWExb1VKdGNkNjFNN25lTWRMT3dKWTZvN1MxQ0NvMDlnYTZLVG96dDVrLTRCX296QzFZYTVTMnR5NG94RGN5bE5pdGJSazFLZlNJU3pMLWo?oc=5\" target=\"_blank\">Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-28T13:50:01+00:00"
+        "collected_at": "2026-07-28T19:14:34+00:00"
       }
     }
   ]

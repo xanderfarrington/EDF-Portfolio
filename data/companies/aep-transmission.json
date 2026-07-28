@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-28T16:01:13+00:00",
+  "last_updated": "2026-07-28T19:14:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 54,
+  "count": 55,
   "mentions": [
+    {
+      "id": "28df8cffc8c0d101",
+      "title": "AEP|American Electric Power Company Inc|Price:135.810|Chg%:+2.220 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwYndETDhfb09Wb1hOX1hZLU1xX0hEZUF0WUtxSmhLUFh0VnBwNkJTQlN4cEU0bDV4U0ZrRXJ6V1drZEltSFVwb3Z3bEF3Rk4tYVlqOEZwdTk?oc=5",
+      "domain": "news.google.com",
+      "source": "TradingKey",
+      "language": "English",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "summary": "AEP|American Electric Power Company Inc|Price:135.810|Chg%:+2.220 TradingKey",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwYndETDhfb09Wb1hOX1hZLU1xX0hEZUF0WUtxSmhLUFh0VnBwNkJTQlN4cEU0bDV4U0ZrRXJ6V1drZEltSFVwb3Z3bEF3Rk4tYVlqOEZwdTk?oc=5\" target=\"_blank\">AEP|American Electric Power Company Inc|Price:135.810|Chg%:+2.220</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-28T19:14:07+00:00"
+    },
     {
       "id": "1516830718c0040f",
       "title": "AEP|American Electric Power Company Inc|Price:134.920| - TradingKey",
