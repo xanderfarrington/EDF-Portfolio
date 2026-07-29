@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-29T15:46:47+00:00",
+  "last_updated": "2026-07-29T17:08:27+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 143,
+  "count": 144,
   "mentions": [
     {
       "id": "fd9ba09fd5f04b1f",
@@ -383,6 +383,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-21T15:38:26+00:00"
+    },
+    {
+      "id": "208fcec58ff94696",
+      "title": "Mobile traffic alert: Alabama Power repairing pole damaged by crash - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEFFSExjNHJZQV9BQ2xYYk1Za1dFZHFXcllBaDhERFRDMHVVUjJRamRDTEhDeDlnSUFvMjM3OFBtdHc3RGJBdGRyUE1JUXdrMHU0Y2Rma1ppTktNbnRjaVQ4cWpoRnRZdmRIRzdJYTVwdzdscWNXVlRWeUtWaGlWdFFkVjN1SUNqeTdKanBR?oc=5",
+      "domain": "news.google.com",
+      "source": "yahoo.com",
+      "language": "English",
+      "published_at": "2026-07-21T13:33:45+00:00",
+      "summary": "Mobile traffic alert: Alabama Power repairing pole damaged by crash yahoo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEFFSExjNHJZQV9BQ2xYYk1Za1dFZHFXcllBaDhERFRDMHVVUjJRamRDTEhDeDlnSUFvMjM3OFBtdHc3RGJBdGRyUE1JUXdrMHU0Y2Rma1ppTktNbnRjaVQ4cWpoRnRZdmRIRzdJYTVwdzdscWNXVlRWeUtWaGlWdFFkVjN1SUNqeTdKanBR?oc=5\" target=\"_blank\">Mobile traffic alert: Alabama Power repairing pole damaged by crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-29T17:08:27+00:00"
     },
     {
       "id": "c747adc3e25fecbb",
