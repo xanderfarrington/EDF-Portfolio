@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T20:46:57+00:00",
+  "last_updated": "2026-07-29T22:55:38+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 144,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "fd9ba09fd5f04b1f",
         "title": "Alabama Power adds Tom Hand, Mike Kemp Sr. to board of directors - Yellowhammer News",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 65,
+      "count": 66,
       "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "7128b49a56483bfa",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 320,
+      "count": 323,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "a3180bb980a5adb6",
-        "title": "Georgia Power Is Using Eminent Domain to Clear Homes for Power Lines - and 80% of the Grid Expansion Goes to AI Data Centers - Gadget Review",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTG5GLXhrNUhBMXctRGZpRUcwczdDeFdCUXNFU0NEU1gzZC1kQkZlcnFrRGJMTnJZU0hOYnVLUkM0M19IaDFtYWNmWVRDWDQ3RDhvd0NDTWJrOWhNb19CUWR3RWN3cVJGUExXRkE2MEJsN1dmeGg2WVpMOGpBTXFXUzd1UnhBYjNsOWJPLXAyX3RGX3RSaFFZNkNsYTEyUQ?oc=5",
+        "id": "190747e0aec8902e",
+        "title": "Georgia Power breaks ground on 'Future of Plant Bowen' - The Rome News-Tribune",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc3JVdFZqS2FDTjdWUElWWnk5OWk3WE1uTV9wM0V0N3p5Z05pTjdoc1BhRVdtc1FLVllNcDRQRm9pSkxvdzYwUkc3UVBUdUR2enN4cjZ1NExfcGMtcm5SZ1lCOVF2bHJudTRLMnZuVEJMSm0tTTFLbldObmE1UDhuQ0dUN1BQcEpsZ3ROQnRkQXZENmUtUndKclkwZ3lNblBQM3RVZXoyS3RUc1B0WTFqOWQ0YU5sMGo3M3FmQ2x6UWJBMWx6d28wT0E2YlNxNEJOQXByWTJ6NFpyT2h3bGFDU0lMd2hKR3NYSFow?oc=5",
         "domain": "news.google.com",
-        "source": "Gadget Review",
+        "source": "The Rome News-Tribune",
         "language": "English",
-        "published_at": "2026-07-29T15:31:52+00:00",
-        "summary": "Georgia Power Is Using Eminent Domain to Clear Homes for Power Lines - and 80% of the Grid Expansion Goes to AI Data Centers Gadget Review",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTG5GLXhrNUhBMXctRGZpRUcwczdDeFdCUXNFU0NEU1gzZC1kQkZlcnFrRGJMTnJZU0hOYnVLUkM0M19IaDFtYWNmWVRDWDQ3RDhvd0NDTWJrOWhNb19CUWR3RWN3cVJGUExXRkE2MEJsN1dmeGg2WVpMOGpBTXFXUzd1UnhBYjNsOWJPLXAyX3RGX3RSaFFZNkNsYTEyUQ?oc=5\" target=\"_blank\">Georgia Power Is Using Eminent Domain to Clear Homes for Power Lines - and 80% of the Grid Expansion Goes to AI Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gadget Review</font>",
+        "published_at": "2026-07-29T22:00:00+00:00",
+        "summary": "Georgia Power breaks ground on 'Future of Plant Bowen' The Rome News-Tribune",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc3JVdFZqS2FDTjdWUElWWnk5OWk3WE1uTV9wM0V0N3p5Z05pTjdoc1BhRVdtc1FLVllNcDRQRm9pSkxvdzYwUkc3UVBUdUR2enN4cjZ1NExfcGMtcm5SZ1lCOVF2bHJudTRLMnZuVEJMSm0tTTFLbldObmE1UDhuQ0dUN1BQcEpsZ3ROQnRkQXZENmUtUndKclkwZ3lNblBQM3RVZXoyS3RUc1B0WTFqOWQ0YU5sMGo3M3FmQ2x6UWJBMWx6d28wT0E2YlNxNEJOQXByWTJ6NFpyT2h3bGFDU0lMd2hKR3NYSFow?oc=5\" target=\"_blank\">Georgia Power breaks ground on 'Future of Plant Bowen'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-29T15:47:03+00:00"
+        "collected_at": "2026-07-29T22:55:28+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 23,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "989d8de52174b1ef",
         "title": "Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies - JD Supra",
