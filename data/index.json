@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T10:33:37+00:00",
+  "last_updated": "2026-07-29T13:55:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 310,
+      "count": 314,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "d405b1a8af7bbe73",
-        "title": "Georgia Power breaks ground on new gas generators, battery facility - WSB-TV",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMTJXQUpaNkpmRHJjdkwxWV9iNnQ3cnJVajlCRWx4dF95QkRnRkVSRmgwekhtRHpVc1BOUlRTS2lMbUxwMTU2UmluVFBPbTdOZ0VBV2g3UEQ1dzl3alU5WkUyX0d4eXhCSkJxQVM3dlhyN04wMkZGTjUwRWNvN1hNQWRJcnFRenltYmo0N1EtSGZnUmxZSnl3X2pvMENyd29SNVBPTDlFeFd6MjdHUnlvUFg5eS15RUVFamxRUVRYZHZQYW0yUG5LdFNPRGhXQ1YycXdNXzdZQlg?oc=5",
+        "id": "3c524d40125feb39",
+        "title": "Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base - Energy-Storage.News",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnV6dFlMekVwU0xXNFoxRXZVanYyd0hhUGNwRkVFd1lVUWVwRXdyYS10LWk2UklsUC1aYVFldEpQM0hOVHdUOVMyVHZUVEtaOE5oblVpeHcwcGNyZUZrTTlnaW5MVDBKNjdvTWgyZV9VbUpwajBxXzdrVWJkaUtpTFhycWRtTE5ON2luWjB3RTR6NjRCOHYzdFd1cjRaNVQ0LWRKUlUtQVhpdVFFdUNqclBDTQ?oc=5",
         "domain": "news.google.com",
-        "source": "WSB-TV",
+        "source": "Energy-Storage.News",
         "language": "English",
-        "published_at": "2026-07-29T06:28:37+00:00",
-        "summary": "Georgia Power breaks ground on new gas generators, battery facility WSB-TV",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMTJXQUpaNkpmRHJjdkwxWV9iNnQ3cnJVajlCRWx4dF95QkRnRkVSRmgwekhtRHpVc1BOUlRTS2lMbUxwMTU2UmluVFBPbTdOZ0VBV2g3UEQ1dzl3alU5WkUyX0d4eXhCSkJxQVM3dlhyN04wMkZGTjUwRWNvN1hNQWRJcnFRenltYmo0N1EtSGZnUmxZSnl3X2pvMENyd29SNVBPTDlFeFd6MjdHUnlvUFg5eS15RUVFamxRUVRYZHZQYW0yUG5LdFNPRGhXQ1YycXdNXzdZQlg?oc=5\" target=\"_blank\">Georgia Power breaks ground on new gas generators, battery facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "published_at": "2026-07-29T12:52:29+00:00",
+        "summary": "Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base Energy-Storage.News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnV6dFlMekVwU0xXNFoxRXZVanYyd0hhUGNwRkVFd1lVUWVwRXdyYS10LWk2UklsUC1aYVFldEpQM0hOVHdUOVMyVHZUVEtaOE5oblVpeHcwcGNyZUZrTTlnaW5MVDBKNjdvTWgyZV9VbUpwajBxXzdrVWJkaUtpTFhycWRtTE5ON2luWjB3RTR6NjRCOHYzdFd1cjRaNVQ0LWRKUlUtQVhpdVFFdUNqclBDTQ?oc=5\" target=\"_blank\">Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy-Storage.News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-29T10:33:26+00:00"
+        "collected_at": "2026-07-29T13:55:06+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 23,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "989d8de52174b1ef",
         "title": "Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies - JD Supra",
