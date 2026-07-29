@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-29T02:01:19+00:00",
+  "last_updated": "2026-07-29T06:26:18+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 307,
+  "count": 308,
   "mentions": [
+    {
+      "id": "d14660e67bbbc380",
+      "title": "OpenAI's 3.2 GW AI Campus: Utility Planning Began Months Ago - Indiatimes",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbXdmbVBMSGc2UFRWMWtsdnhLZHg0RUdkUWZLN29hTDd0M3VKZzZtSDJrME5nOEdWT183VmlxTkhCeXFjX1dNcVRsVlgtemVLaDNSV05ucmhhU0N0cWE0TUwyLVgyTU1mN2JNWW5BMGRpNmEwZlhJSHljTkxzRmNfTE1TeXhJQ3ItVnhDRUtLaXlPLTBJSVdjclI4bmZRbkpNdTVCdlIxSkpCZGhNR1lLczhhMVJQeG9lel8yVXdpZVFBX3VNQnpYd2l2SVJXamRyRkFOOS15R2Z3cWJQbkZYNnhpWUdwTGc?oc=5",
+      "domain": "news.google.com",
+      "source": "Indiatimes",
+      "language": "English",
+      "published_at": "2026-07-29T02:37:46+00:00",
+      "summary": "OpenAI's 3.2 GW AI Campus: Utility Planning Began Months Ago Indiatimes",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbXdmbVBMSGc2UFRWMWtsdnhLZHg0RUdkUWZLN29hTDd0M3VKZzZtSDJrME5nOEdWT183VmlxTkhCeXFjX1dNcVRsVlgtemVLaDNSV05ucmhhU0N0cWE0TUwyLVgyTU1mN2JNWW5BMGRpNmEwZlhJSHljTkxzRmNfTE1TeXhJQ3ItVnhDRUtLaXlPLTBJSVdjclI4bmZRbkpNdTVCdlIxSkpCZGhNR1lLczhhMVJQeG9lel8yVXdpZVFBX3VNQnpYd2l2SVJXamRyRkFOOS15R2Z3cWJQbkZYNnhpWUdwTGc?oc=5\" target=\"_blank\">OpenAI's 3.2 GW AI Campus: Utility Planning Began Months Ago</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indiatimes</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-29T06:26:18+00:00"
+    },
     {
       "id": "2673ba34a9285219",
       "title": "Georgia Power breaks ground on Plant Bowen gas, battery expansion - Atlanta News First",

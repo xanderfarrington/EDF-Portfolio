@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-07-29T02:01:13+00:00",
+  "last_updated": "2026-07-29T06:26:13+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 62,
+  "count": 63,
   "mentions": [
+    {
+      "id": "7128b49a56483bfa",
+      "title": "NRC & FEMA talk environmental impact as Crane Clean Energy Center set to open in 2027 - local21news.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSG5GeWhOZW1odGxOT2gtYXhmNTh1NGFKMzFJOFBrT0NqYUF6Nlp5MkR3V0VvTXFMLUhsX29VRC1ySG1GX1V4d0ZObjZUNnc4Zk5IamsxcXo4MTg1bDV5cHJWb015TzdMa2d3SlA4bTdQaTVzNkxaT2RXYXNvQWVmcmliYnNMWUYyUHJlem5ueUNwVGxYbnBQakhLWnlWNVBPRUFHQjBseVBRam1aNUM1V0kyN2t3bUx4akE?oc=5",
+      "domain": "news.google.com",
+      "source": "local21news.com",
+      "language": "English",
+      "published_at": "2026-07-29T02:44:30+00:00",
+      "summary": "NRC & FEMA talk environmental impact as Crane Clean Energy Center set to open in 2027 local21news.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQSG5GeWhOZW1odGxOT2gtYXhmNTh1NGFKMzFJOFBrT0NqYUF6Nlp5MkR3V0VvTXFMLUhsX29VRC1ySG1GX1V4d0ZObjZUNnc4Zk5IamsxcXo4MTg1bDV5cHJWb015TzdMa2d3SlA4bTdQaTVzNkxaT2RXYXNvQWVmcmliYnNMWUYyUHJlem5ueUNwVGxYbnBQakhLWnlWNVBPRUFHQjBseVBRam1aNUM1V0kyN2t3bUx4akE?oc=5\" target=\"_blank\">NRC & FEMA talk environmental impact as Crane Clean Energy Center set to open in 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">local21news.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-29T06:26:13+00:00"
+    },
     {
       "id": "f8d18ed6fbac21cc",
       "title": "Nuclear reactor fuel decision pushes Three Mile Island restart forward - thenationalnews.com",
