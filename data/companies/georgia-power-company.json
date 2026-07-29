@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-29T17:08:43+00:00",
+  "last_updated": "2026-07-29T19:04:14+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 315,
+  "count": 318,
   "mentions": [
     {
       "id": "a3180bb980a5adb6",
@@ -147,6 +147,20 @@
       "collected_at": "2026-07-28T22:54:15+00:00"
     },
     {
+      "id": "64914e5b316875cd",
+      "title": "Georgia Power breaks ground on natural gas expansion at Plant Bowen - WRDW",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ3JETnJoSWpWVTNKVkVyaDBEOWJvaHNwdTRiX2s0TGtPeHg1Z3c2c1FDTGgtNHF0b2xaZEFBM25YZkdqZWFSSjZzRWozdUNIekVVZkZfcklxdkZfam1nX19aOXJUckxJUDR3SWRYbjFyNE9aQ2ZHRXozbVNSVmJ0NGxTMVFwNVhSNnpSYzJvckZTU1RYb2J6YXNB0gGuAUFVX3lxTFBSQ1NoLTBEbXBUS09VMkhhd2JmQWY4Z3ppbEQxakxYaFJuTmpuQzhWRTZvUWNhNW1NRy1OQ3Y3VS10R2w3NUpYV3N1WkVQaTZfRUNBNHF5N2RXcEFRS3lMX2hoYnZlbGZGN2QyZ3pOTXJQcFVxd08yTlB4OWRSeXpCT3VUZEV5S3hHaFhqYjdxcGQ5YlQ5T3V5a0ZRS1NMejNVY2lTLVY0S191LTNoQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WRDW",
+      "language": "English",
+      "published_at": "2026-07-28T21:33:00+00:00",
+      "summary": "Georgia Power breaks ground on natural gas expansion at Plant Bowen WRDW",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ3JETnJoSWpWVTNKVkVyaDBEOWJvaHNwdTRiX2s0TGtPeHg1Z3c2c1FDTGgtNHF0b2xaZEFBM25YZkdqZWFSSjZzRWozdUNIekVVZkZfcklxdkZfam1nX19aOXJUckxJUDR3SWRYbjFyNE9aQ2ZHRXozbVNSVmJ0NGxTMVFwNVhSNnpSYzJvckZTU1RYb2J6YXNB0gGuAUFVX3lxTFBSQ1NoLTBEbXBUS09VMkhhd2JmQWY4Z3ppbEQxakxYaFJuTmpuQzhWRTZvUWNhNW1NRy1OQ3Y3VS10R2w3NUpYV3N1WkVQaTZfRUNBNHF5N2RXcEFRS3lMX2hoYnZlbGZGN2QyZ3pOTXJQcFVxd08yTlB4OWRSeXpCT3VUZEV5S3hHaFhqYjdxcGQ5YlQ5T3V5a0ZRS1NMejNVY2lTLVY0S191LTNoQQ?oc=5\" target=\"_blank\">Georgia Power breaks ground on natural gas expansion at Plant Bowen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-29T19:04:14+00:00"
+    },
+    {
       "id": "3de1b08aab2d016b",
       "title": "Georgia Power breaks ground on natural gas expansion at Plant Bowen - WRDW",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTFFOWQwV28wSUNKbUpoM1lyRTBOYlhiSFdZT2prUWNXRW9PcEhuODAxSzdtanF0WXRsbGdZZDdTZUYybldJZFZBUDdEYVBkbjlYbE9VeUdHWHVmaTl3bDN5ZFFma2dvbDQ0clFBcEloTG5KXzBITlNOOXdQRjNEUVVLYlo3TGV0M2hnYTlqazVTcWpPYXJkU0NpMzhXeXFkeXc?oc=5",
@@ -173,6 +187,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-28T21:02:48+00:00"
+    },
+    {
+      "id": "82c5524f72158351",
+      "title": "How Anonymized PSC Data Foretells OpenAI’s 3.2 GW Build - datacenterknowledge.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmx1UUEzMkREOW9IQVhzeFF5VUQzZFNaYlpOODI5d0k4cVN6UFNhamE0SkhxM0VDSXMxNnNQUHh0ZmJsSWt1V0dUSEluc21sb2plWjZkRFB0V250THBRS0d0U2xFeE9tYVFYMldHZF9WeFdxekxITDNYbTR5T2RDN2dkRmo3UGFWQmlWREZqc3NUN09xVFhIRVdULXRjR1g1VEMyOFUtWDNCUlBjU0JzVURMbWM4eTlpMFhKWlFDdzllampPS2FieWRJSHRlN28zZ1NUVmhn?oc=5",
+      "domain": "news.google.com",
+      "source": "datacenterknowledge.com",
+      "language": "English",
+      "published_at": "2026-07-28T18:49:14+00:00",
+      "summary": "How Anonymized PSC Data Foretells OpenAI’s 3.2 GW Build datacenterknowledge.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmx1UUEzMkREOW9IQVhzeFF5VUQzZFNaYlpOODI5d0k4cVN6UFNhamE0SkhxM0VDSXMxNnNQUHh0ZmJsSWt1V0dUSEluc21sb2plWjZkRFB0V250THBRS0d0U2xFeE9tYVFYMldHZF9WeFdxekxITDNYbTR5T2RDN2dkRmo3UGFWQmlWREZqc3NUN09xVFhIRVdULXRjR1g1VEMyOFUtWDNCUlBjU0JzVURMbWM4eTlpMFhKWlFDdzllampPS2FieWRJSHRlN28zZ1NUVmhn?oc=5\" target=\"_blank\">How Anonymized PSC Data Foretells OpenAI’s 3.2 GW Build</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">datacenterknowledge.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-29T19:04:14+00:00"
     },
     {
       "id": "92391573f4a9c887",
@@ -355,6 +383,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-27T17:38:06+00:00"
+    },
+    {
+      "id": "a49e241514578ff1",
+      "title": "Georgia Power unveils new Moody Battery Facility - valdostadailytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1RRNkNtRFRpZVhteHRodXEzTTV4YzRtU3ZDc1FOeFlzUHZEOVFuSXQ0VG9MVnBOZUhXNVAyLWdqNjBLU3JLWU1hQXVHY1h3VlhxUmRkNjJ5cjhNX0REZU9xdlJ4MUhnTXVacDZaUzRxQWNCb25Ybm9mR0d1eGd6M0FtSlF1WHNCbGpCSkVSRkN2a0FEa3c?oc=5",
+      "domain": "news.google.com",
+      "source": "valdostadailytimes.com",
+      "language": "English",
+      "published_at": "2026-07-27T16:23:37+00:00",
+      "summary": "Georgia Power unveils new Moody Battery Facility valdostadailytimes.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1RRNkNtRFRpZVhteHRodXEzTTV4YzRtU3ZDc1FOeFlzUHZEOVFuSXQ0VG9MVnBOZUhXNVAyLWdqNjBLU3JLWU1hQXVHY1h3VlhxUmRkNjJ5cjhNX0REZU9xdlJ4MUhnTXVacDZaUzRxQWNCb25Ybm9mR0d1eGd6M0FtSlF1WHNCbGpCSkVSRkN2a0FEa3c?oc=5\" target=\"_blank\">Georgia Power unveils new Moody Battery Facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">valdostadailytimes.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-29T19:04:14+00:00"
     },
     {
       "id": "3fa880f8ac8dfec0",

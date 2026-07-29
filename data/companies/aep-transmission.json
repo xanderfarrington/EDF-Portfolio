@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-29T17:08:21+00:00",
+  "last_updated": "2026-07-29T19:03:52+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 58,
+  "count": 59,
   "mentions": [
     {
       "id": "a9e6a509c3db1c27",
@@ -285,6 +285,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-16T10:01:54+00:00"
+    },
+    {
+      "id": "7149c69d4b08d214",
+      "title": "News - bartlesvilleradio.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUlUzMk1iY2tURll2MnlnUjk1dzRaNzNSaklSZF9UZk5IYUdxYUJKTEVqam1pOERHdUl3c2hZXzFkNUhHWEVyUlZ2QmROVzJMWjZiX2E4S1J5NVkyaHFJODlhTnZ5YWFMZGsyVmhnWHJkVG1nYlV4NkFsaUZwSGhIZThad0FQUWN4NW9UZjJVa3BhSWJDZ2FGdHhzcmlRM3hMUGdMWWJ0c0JuSjV4VDQyZHNQQ0lNa1lTaWZrV0tlRWRuQktDRTVqal9R?oc=5",
+      "domain": "news.google.com",
+      "source": "bartlesvilleradio.com",
+      "language": "English",
+      "published_at": "2026-07-14T21:05:42+00:00",
+      "summary": "News bartlesvilleradio.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPUlUzMk1iY2tURll2MnlnUjk1dzRaNzNSaklSZF9UZk5IYUdxYUJKTEVqam1pOERHdUl3c2hZXzFkNUhHWEVyUlZ2QmROVzJMWjZiX2E4S1J5NVkyaHFJODlhTnZ5YWFMZGsyVmhnWHJkVG1nYlV4NkFsaUZwSGhIZThad0FQUWN4NW9UZjJVa3BhSWJDZ2FGdHhzcmlRM3hMUGdMWWJ0c0JuSjV4VDQyZHNQQ0lNa1lTaWZrV0tlRWRuQktDRTVqal9R?oc=5\" target=\"_blank\">News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bartlesvilleradio.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-29T19:03:52+00:00"
     },
     {
       "id": "56d8889b2e40f1f4",

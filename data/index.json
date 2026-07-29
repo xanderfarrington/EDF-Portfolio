@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-29T17:08:54+00:00",
+  "last_updated": "2026-07-29T19:04:25+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 58,
+      "count": 59,
       "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "a9e6a509c3db1c27",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 64,
+      "count": 65,
       "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "7128b49a56483bfa",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 315,
+      "count": 318,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "a3180bb980a5adb6",
