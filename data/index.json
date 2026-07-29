@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-28T22:54:26+00:00",
+  "last_updated": "2026-07-29T02:01:29+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 55,
+      "count": 56,
       "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "28df8cffc8c0d101",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 27,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "23cd3bb3397fdae2",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 23,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "989d8de52174b1ef",
         "title": "Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies - JD Supra",
