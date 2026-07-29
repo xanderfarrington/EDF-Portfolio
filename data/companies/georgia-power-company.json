@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-29T19:04:14+00:00",
+  "last_updated": "2026-07-29T20:46:47+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 318,
+  "count": 320,
   "mentions": [
     {
       "id": "a3180bb980a5adb6",
@@ -117,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-28T22:54:15+00:00"
+    },
+    {
+      "id": "0e5f3b0f56b3ff49",
+      "title": "Georgia Power breaks ground on Plant Bowen gas, battery expansion - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnNBYXQtZk0zbkhsVlZQV0hyZHFVX01rQS1iN0M1aVFKMHRZSThlQXU3QmpYZjFDOVdrSlhSdmNRUWx4TWNuWEJzWHI4VDgzbGZHcXBlUjd4SVBYUHFoMjFSZXBVdllCQUYyXzVPWnZ3M3ZKaVdWZ0lwWE1sMVFpN2V5d3Z5TVREVXdBbkxhc1htNXctNEc4QVg5MTFranBrellSdHFQUmNmc1JBajdhT3J6ZnNDT0lxaVlZWVJ30gG-AUFVX3lxTE9ac0FhdC1mTTNuSGxWVlBXSHJkcVVfTWtBLWI3QzVpUUowdFlJOGVBdTdCalhmMUM5V2tKWFJ2Y1FRbHhNY25YQnNYcjhUODNsZkdxcGVSN3hJUFhQcWgyMVJlcFV2WUJBRjJfNU9adnczdkppV1ZnSXBYTWwxUWk3ZXl3dnlNVERVd0FuTGFzWG01dy00RzhBWDkxMWtqcGt6WVJ0cVBSY2ZzUkFqN2FPcnpmc0NPSXFpWVlZUnc?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-07-28T22:22:00+00:00",
+      "summary": "Georgia Power breaks ground on Plant Bowen gas, battery expansion Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnNBYXQtZk0zbkhsVlZQV0hyZHFVX01rQS1iN0M1aVFKMHRZSThlQXU3QmpYZjFDOVdrSlhSdmNRUWx4TWNuWEJzWHI4VDgzbGZHcXBlUjd4SVBYUHFoMjFSZXBVdllCQUYyXzVPWnZ3M3ZKaVdWZ0lwWE1sMVFpN2V5d3Z5TVREVXdBbkxhc1htNXctNEc4QVg5MTFranBrellSdHFQUmNmc1JBajdhT3J6ZnNDT0lxaVlZWVJ30gG-AUFVX3lxTE9ac0FhdC1mTTNuSGxWVlBXSHJkcVVfTWtBLWI3QzVpUUowdFlJOGVBdTdCalhmMUM5V2tKWFJ2Y1FRbHhNY25YQnNYcjhUODNsZkdxcGVSN3hJUFhQcWgyMVJlcFV2WUJBRjJfNU9adnczdkppV1ZnSXBYTWwxUWk3ZXl3dnlNVERVd0FuTGFzWG01dy00RzhBWDkxMWtqcGt6WVJ0cVBSY2ZzUkFqN2FPcnpmc0NPSXFpWVlZUnc?oc=5\" target=\"_blank\">Georgia Power breaks ground on Plant Bowen gas, battery expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-29T20:46:47+00:00"
     },
     {
       "id": "c6d125e37adc9a22",
@@ -495,6 +509,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-25T06:11:40+00:00"
+    },
+    {
+      "id": "ccd692efc11513ba",
+      "title": "Georgia Power, White House make energy pledges as a data center alliance forms in GA - ledger-enquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaS1sMFJZVVpJS3RvazBOREtCeUt0NlVwVTNmem5WcjBaRUhtMG82LUk3VmY3TW1WSVBGVmVfdHppTXdkenE5M0haR1lHY19aOWZuUFVJZjlFZmhFaXVNWnIyRDNiQTN2TlQ5U2JXZHpCLVBvQmxQLWQ2V0jSAXxBVV95cUxQZno0MG4yZlp0NUNSajJXTEZZMldvUFpRMDdPQWthSGs2dWwtWEF4NzNNOWVEeDJEMXFDdUpMSDlFR1dzNW45SjhiNXNTQ29yV3JGR2lObFdickVxQVVsbzFXdnZBYlBwOFcyNzJiWmktNU83LW5uNll3VGxY?oc=5",
+      "domain": "news.google.com",
+      "source": "ledger-enquirer.com",
+      "language": "English",
+      "published_at": "2026-07-24T19:27:00+00:00",
+      "summary": "Georgia Power, White House make energy pledges as a data center alliance forms in GA ledger-enquirer.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBXaS1sMFJZVVpJS3RvazBOREtCeUt0NlVwVTNmem5WcjBaRUhtMG82LUk3VmY3TW1WSVBGVmVfdHppTXdkenE5M0haR1lHY19aOWZuUFVJZjlFZmhFaXVNWnIyRDNiQTN2TlQ5U2JXZHpCLVBvQmxQLWQ2V0jSAXxBVV95cUxQZno0MG4yZlp0NUNSajJXTEZZMldvUFpRMDdPQWthSGs2dWwtWEF4NzNNOWVEeDJEMXFDdUpMSDlFR1dzNW45SjhiNXNTQ29yV3JGR2lObFdickVxQVVsbzFXdnZBYlBwOFcyNzJiWmktNU83LW5uNll3VGxY?oc=5\" target=\"_blank\">Georgia Power, White House make energy pledges as a data center alliance forms in GA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ledger-enquirer.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-29T20:46:47+00:00"
     },
     {
       "id": "b5f078a998ad9e73",
