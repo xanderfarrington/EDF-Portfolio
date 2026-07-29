@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-29T13:55:06+00:00",
+  "last_updated": "2026-07-29T15:47:03+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 314,
+  "count": 315,
   "mentions": [
+    {
+      "id": "a3180bb980a5adb6",
+      "title": "Georgia Power Is Using Eminent Domain to Clear Homes for Power Lines - and 80% of the Grid Expansion Goes to AI Data Centers - Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTG5GLXhrNUhBMXctRGZpRUcwczdDeFdCUXNFU0NEU1gzZC1kQkZlcnFrRGJMTnJZU0hOYnVLUkM0M19IaDFtYWNmWVRDWDQ3RDhvd0NDTWJrOWhNb19CUWR3RWN3cVJGUExXRkE2MEJsN1dmeGg2WVpMOGpBTXFXUzd1UnhBYjNsOWJPLXAyX3RGX3RSaFFZNkNsYTEyUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Gadget Review",
+      "language": "English",
+      "published_at": "2026-07-29T15:31:52+00:00",
+      "summary": "Georgia Power Is Using Eminent Domain to Clear Homes for Power Lines - and 80% of the Grid Expansion Goes to AI Data Centers Gadget Review",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTG5GLXhrNUhBMXctRGZpRUcwczdDeFdCUXNFU0NEU1gzZC1kQkZlcnFrRGJMTnJZU0hOYnVLUkM0M19IaDFtYWNmWVRDWDQ3RDhvd0NDTWJrOWhNb19CUWR3RWN3cVJGUExXRkE2MEJsN1dmeGg2WVpMOGpBTXFXUzd1UnhBYjNsOWJPLXAyX3RGX3RSaFFZNkNsYTEyUQ?oc=5\" target=\"_blank\">Georgia Power Is Using Eminent Domain to Clear Homes for Power Lines - and 80% of the Grid Expansion Goes to AI Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gadget Review</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-29T15:47:03+00:00"
+    },
     {
       "id": "3c524d40125feb39",
       "title": "Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base - Energy-Storage.News",

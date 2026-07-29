@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-07-29T13:55:17+00:00",
+  "last_updated": "2026-07-29T15:47:14+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 56,
-      "new_mentions_this_run": 8,
+      "count": 58,
+      "new_mentions_this_run": 10,
       "latest_mention": {
-        "id": "28df8cffc8c0d101",
-        "title": "AEP|American Electric Power Company Inc|Price:135.810|Chg%:+2.220 - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwYndETDhfb09Wb1hOX1hZLU1xX0hEZUF0WUtxSmhLUFh0VnBwNkJTQlN4cEU0bDV4U0ZrRXJ6V1drZEltSFVwb3Z3bEF3Rk4tYVlqOEZwdTk?oc=5",
+        "id": "a9e6a509c3db1c27",
+        "title": "AEP Again Named Most Adoption-Friendly Workplace in Energy and Utilities Sector - CSRwire",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONmFaaUlzQmVZUkpQdndvMDhPemxyODVmeXVEdkh0TTZWamxwU2FQUnNyc0NILURhajk4dDBPSWdSSUc2RVJGTlNWcHBfYVpGb1pPVDdyZUdtc196NWpiVERZRV9jSFNMLUVfQ3JpS0hyM3dKUi1ULW5mLXZ5ODZ3b1pTTzM0U0t2c00yWThPS0lYZ19vVWwycGRkRTJuS28wU1Jmc2lVNjFNZHpKMFVheTRhbHo?oc=5",
         "domain": "news.google.com",
-        "source": "TradingKey",
+        "source": "CSRwire",
         "language": "English",
-        "published_at": "2026-07-27T07:00:00+00:00",
-        "summary": "AEP|American Electric Power Company Inc|Price:135.810|Chg%:+2.220 TradingKey",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwYndETDhfb09Wb1hOX1hZLU1xX0hEZUF0WUtxSmhLUFh0VnBwNkJTQlN4cEU0bDV4U0ZrRXJ6V1drZEltSFVwb3Z3bEF3Rk4tYVlqOEZwdTk?oc=5\" target=\"_blank\">AEP|American Electric Power Company Inc|Price:135.810|Chg%:+2.220</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+        "published_at": "2026-07-28T19:59:35+00:00",
+        "summary": "AEP Again Named Most Adoption-Friendly Workplace in Energy and Utilities Sector CSRwire",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONmFaaUlzQmVZUkpQdndvMDhPemxyODVmeXVEdkh0TTZWamxwU2FQUnNyc0NILURhajk4dDBPSWdSSUc2RVJGTlNWcHBfYVpGb1pPVDdyZUdtc196NWpiVERZRV9jSFNMLUVfQ3JpS0hyM3dKUi1ULW5mLXZ5ODZ3b1pTTzM0U0t2c00yWThPS0lYZ19vVWwycGRkRTJuS28wU1Jmc2lVNjFNZHpKMFVheTRhbHo?oc=5\" target=\"_blank\">AEP Again Named Most Adoption-Friendly Workplace in Energy and Utilities Sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CSRwire</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-28T19:14:07+00:00"
+        "collected_at": "2026-07-29T15:46:41+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 139,
-      "new_mentions_this_run": 20,
+      "count": 143,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "fd9ba09fd5f04b1f",
         "title": "Alabama Power adds Tom Hand, Mike Kemp Sr. to board of directors - Yellowhammer News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 314,
+      "count": 315,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "3c524d40125feb39",
-        "title": "Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base - Energy-Storage.News",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnV6dFlMekVwU0xXNFoxRXZVanYyd0hhUGNwRkVFd1lVUWVwRXdyYS10LWk2UklsUC1aYVFldEpQM0hOVHdUOVMyVHZUVEtaOE5oblVpeHcwcGNyZUZrTTlnaW5MVDBKNjdvTWgyZV9VbUpwajBxXzdrVWJkaUtpTFhycWRtTE5ON2luWjB3RTR6NjRCOHYzdFd1cjRaNVQ0LWRKUlUtQVhpdVFFdUNqclBDTQ?oc=5",
+        "id": "a3180bb980a5adb6",
+        "title": "Georgia Power Is Using Eminent Domain to Clear Homes for Power Lines - and 80% of the Grid Expansion Goes to AI Data Centers - Gadget Review",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTG5GLXhrNUhBMXctRGZpRUcwczdDeFdCUXNFU0NEU1gzZC1kQkZlcnFrRGJMTnJZU0hOYnVLUkM0M19IaDFtYWNmWVRDWDQ3RDhvd0NDTWJrOWhNb19CUWR3RWN3cVJGUExXRkE2MEJsN1dmeGg2WVpMOGpBTXFXUzd1UnhBYjNsOWJPLXAyX3RGX3RSaFFZNkNsYTEyUQ?oc=5",
         "domain": "news.google.com",
-        "source": "Energy-Storage.News",
+        "source": "Gadget Review",
         "language": "English",
-        "published_at": "2026-07-29T12:52:29+00:00",
-        "summary": "Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base Energy-Storage.News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnV6dFlMekVwU0xXNFoxRXZVanYyd0hhUGNwRkVFd1lVUWVwRXdyYS10LWk2UklsUC1aYVFldEpQM0hOVHdUOVMyVHZUVEtaOE5oblVpeHcwcGNyZUZrTTlnaW5MVDBKNjdvTWgyZV9VbUpwajBxXzdrVWJkaUtpTFhycWRtTE5ON2luWjB3RTR6NjRCOHYzdFd1cjRaNVQ0LWRKUlUtQVhpdVFFdUNqclBDTQ?oc=5\" target=\"_blank\">Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy-Storage.News</font>",
+        "published_at": "2026-07-29T15:31:52+00:00",
+        "summary": "Georgia Power Is Using Eminent Domain to Clear Homes for Power Lines - and 80% of the Grid Expansion Goes to AI Data Centers Gadget Review",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTG5GLXhrNUhBMXctRGZpRUcwczdDeFdCUXNFU0NEU1gzZC1kQkZlcnFrRGJMTnJZU0hOYnVLUkM0M19IaDFtYWNmWVRDWDQ3RDhvd0NDTWJrOWhNb19CUWR3RWN3cVJGUExXRkE2MEJsN1dmeGg2WVpMOGpBTXFXUzd1UnhBYjNsOWJPLXAyX3RGX3RSaFFZNkNsYTEyUQ?oc=5\" target=\"_blank\">Georgia Power Is Using Eminent Domain to Clear Homes for Power Lines - and 80% of the Grid Expansion Goes to AI Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gadget Review</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-29T13:55:06+00:00"
+        "collected_at": "2026-07-29T15:47:03+00:00"
       }
     },
     {

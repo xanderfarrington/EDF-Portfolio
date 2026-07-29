@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-29T13:54:50+00:00",
+  "last_updated": "2026-07-29T15:46:47+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 139,
+  "count": 143,
   "mentions": [
     {
       "id": "fd9ba09fd5f04b1f",
@@ -231,6 +231,20 @@
       "collected_at": "2026-07-25T14:57:14+00:00"
     },
     {
+      "id": "fd82b8a3016e4938",
+      "title": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0pJZ2xrUlNKNlpqaTc1TjNOZ0xDSXRiZmhydDdPVnVnWDloZmRJQ21LNVdvblFia3dCSDlQc3NvbEdpTWctd0h1NWpDYzJEdWxTclJfcFJiRWdnMVQyYnpGb1NHTE9JY3B2SFIzOWlFQ1h5VWVpei15TU1tZFNSYUVUX0RucW9jTXlXT3ViVkFsaEY0SktLbg?oc=5",
+      "domain": "news.google.com",
+      "source": "Financial Times",
+      "language": "English",
+      "published_at": "2026-07-24T20:40:00+00:00",
+      "summary": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS Financial Times",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0pJZ2xrUlNKNlpqaTc1TjNOZ0xDSXRiZmhydDdPVnVnWDloZmRJQ21LNVdvblFia3dCSDlQc3NvbEdpTWctd0h1NWpDYzJEdWxTclJfcFJiRWdnMVQyYnpGb1NHTE9JY3B2SFIzOWlFQ1h5VWVpei15TU1tZFNSYUVUX0RucW9jTXlXT3ViVkFsaEY0SktLbg?oc=5\" target=\"_blank\">ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-29T15:46:47+00:00"
+    },
+    {
       "id": "5a7a04365e7335f0",
       "title": "Alabama Power tests unmanned drone to speed up power restoration - WVUA 23",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVdlQTVYU2pCcTBnMS1HVUZ1VHVyaUI0RWNFTUNNdkVtdEJYTkstUTg4SFN1NVlfM3d0NXhtRHdVTS02c3otZ3NLeGYwcEZDblNKdGQ3akxFQmxYTXJzdC1qc3p2TE5CRnBULUFGeU9Rd3E5OEhRWXlweDd6X3Vvak40cklxeXdoTF9qd0ZUenZQWUwwMzJaTlJ3RU1rSWlaZHdFbUYxZF9MRTM0NlVyYlpZekRCMExZdUJWS2FOb2x1RThQMzQ1OWF1aTAyS3NrZ2NJLUQtWkh1UQ?oc=5",
@@ -427,6 +441,20 @@
       "collected_at": "2026-07-21T06:23:31+00:00"
     },
     {
+      "id": "8c0c3b9a93f1ae9f",
+      "title": "Alabama Power testing out unmanned drone - cbs42.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HakwxVlNCbTVub0Jjdl82UWI1RVlEblU2a3NNR2kyTUhtY01CeDNkLVU1eldZX3Q1NmlSeXhReHY5aEp0SElTUHd0TlFWc2puN0hnSEM1SERfLW1ETURXSkIwMnVQWnJRcGFGU0hyM1VsS0VpeDFwVFJ3ZktzR2PSAYQBQVVfeXFMTkhMd0NLeENOMTAwRFNtTkgxT0xPVi0yM3NVdGdHZzQyUWNGei0zUTFVbGZvTGZ0WE5ZMU5uVUFDTDgwOW81OS1GSXRKZUFYN0w0WWhMT3B4T0N4Q0dETHBjUFJ5Rzl0VGNlTm5tWlk1OWFTZUctNC16cTRERVFaUDdoNU5R?oc=5",
+      "domain": "news.google.com",
+      "source": "cbs42.com",
+      "language": "English",
+      "published_at": "2026-07-21T01:37:41+00:00",
+      "summary": "Alabama Power testing out unmanned drone cbs42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5HakwxVlNCbTVub0Jjdl82UWI1RVlEblU2a3NNR2kyTUhtY01CeDNkLVU1eldZX3Q1NmlSeXhReHY5aEp0SElTUHd0TlFWc2puN0hnSEM1SERfLW1ETURXSkIwMnVQWnJRcGFGU0hyM1VsS0VpeDFwVFJ3ZktzR2PSAYQBQVVfeXFMTkhMd0NLeENOMTAwRFNtTkgxT0xPVi0yM3NVdGdHZzQyUWNGei0zUTFVbGZvTGZ0WE5ZMU5uVUFDTDgwOW81OS1GSXRKZUFYN0w0WWhMT3B4T0N4Q0dETHBjUFJ5Rzl0VGNlTm5tWlk1OWFTZUctNC16cTRERVFaUDdoNU5R?oc=5\" target=\"_blank\">Alabama Power testing out unmanned drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-29T15:46:47+00:00"
+    },
+    {
       "id": "71f26c7734bca195",
       "title": "Alabama Power using drones - CBS 42",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ENklnX2Y4c1BMQ3Z1czhmbWZsWXM3cDFvWFRUZTRYcDVRTlBUNmlpN19zbGg1Q1RyN2w4U0puRnc2M2VESVZCNjVqMDBzNHd4aGd1SGpOOUY4OW5rSXJ3a1lPMHJNZlEza1dzYmN6ek9nQQ?oc=5",
@@ -453,6 +481,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-21T21:00:32+00:00"
+    },
+    {
+      "id": "97a58da00bc3d3b8",
+      "title": "Alabama Power using drones - cbs42.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ENklnX2Y4c1BMQ3Z1czhmbWZsWXM3cDFvWFRUZTRYcDVRTlBUNmlpN19zbGg1Q1RyN2w4U0puRnc2M2VESVZCNjVqMDBzNHd4aGd1SGpOOUY4OW5rSXJ3a1lPMHJNZlEza1dzYmN6ek9nQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "cbs42.com",
+      "language": "English",
+      "published_at": "2026-07-20T23:21:28+00:00",
+      "summary": "Alabama Power using drones cbs42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9ENklnX2Y4c1BMQ3Z1czhmbWZsWXM3cDFvWFRUZTRYcDVRTlBUNmlpN19zbGg1Q1RyN2w4U0puRnc2M2VESVZCNjVqMDBzNHd4aGd1SGpOOUY4OW5rSXJ3a1lPMHJNZlEza1dzYmN6ek9nQQ?oc=5\" target=\"_blank\">Alabama Power using drones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-29T15:46:47+00:00"
     },
     {
       "id": "ca0ccb95708bb359",
@@ -621,6 +663,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-07T22:55:11+00:00"
+    },
+    {
+      "id": "c8554733303d255b",
+      "title": "PSC seeks to control data centers with ‘balancing act’ between Alabama Power, ratepayers - al.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQlRRSFhMbHg1Umt5X3FqLTFDSXhXTXl5bF9UNUpBQzREZE5pMERnYmxqb0dkdXlrXzRSRUdydENlLTVSLUpyTlZ3cVBWWEhad2NSYUxFMTRhMk0xT1RuWUZWMmpqSXdKb3VjaXphMXRzakRZS29RY1U3MHZCa1RLUFRVVTBFV1dXQm82Q0Q1NnpBQ2ViSkxRTGZWSGtOV2k3dGZnVFlxbEhWTHlFTDh0WlpjdjRCSnZ6aGJyQ1ZETdIB0wFBVV95cUxOenU2VnhMVXRQR05rN3pUZFc5OGRMUmJlVXJMa2hORGE0QTFwalpIY05sd1Vzck5HU3pUbmhwemNBOURVaVFqVHJvejhtVEdOTWNYQ3FMdHNZR054Y3JDTUhfWktKSERGMDcwS2FKM3NMV3A2aksxRi1XQ21BR1k3b0x6YWdJRXEwYXBQZmpZNlpyZjFSeEc2emJVZVFNMF9CaW94MEZvLWkwUFZfck1IN19FLVpOUk1CZVEtM1RmT0Y5cTJ4bmU0SjR5dHNndElrWWdn?oc=5",
+      "domain": "news.google.com",
+      "source": "al.com",
+      "language": "English",
+      "published_at": "2026-07-07T07:00:00+00:00",
+      "summary": "PSC seeks to control data centers with ‘balancing act’ between Alabama Power, ratepayers al.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQQlRRSFhMbHg1Umt5X3FqLTFDSXhXTXl5bF9UNUpBQzREZE5pMERnYmxqb0dkdXlrXzRSRUdydENlLTVSLUpyTlZ3cVBWWEhad2NSYUxFMTRhMk0xT1RuWUZWMmpqSXdKb3VjaXphMXRzakRZS29RY1U3MHZCa1RLUFRVVTBFV1dXQm82Q0Q1NnpBQ2ViSkxRTGZWSGtOV2k3dGZnVFlxbEhWTHlFTDh0WlpjdjRCSnZ6aGJyQ1ZETdIB0wFBVV95cUxOenU2VnhMVXRQR05rN3pUZFc5OGRMUmJlVXJMa2hORGE0QTFwalpIY05sd1Vzck5HU3pUbmhwemNBOURVaVFqVHJvejhtVEdOTWNYQ3FMdHNZR054Y3JDTUhfWktKSERGMDcwS2FKM3NMV3A2aksxRi1XQ21BR1k3b0x6YWdJRXEwYXBQZmpZNlpyZjFSeEc2emJVZVFNMF9CaW94MEZvLWkwUFZfck1IN19FLVpOUk1CZVEtM1RmT0Y5cTJ4bmU0SjR5dHNndElrWWdn?oc=5\" target=\"_blank\">PSC seeks to control data centers with ‘balancing act’ between Alabama Power, ratepayers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-29T15:46:47+00:00"
     },
     {
       "id": "900741f11769165c",
