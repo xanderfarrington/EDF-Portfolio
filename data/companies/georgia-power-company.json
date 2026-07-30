@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-30T04:53:59+00:00",
+  "last_updated": "2026-07-30T08:13:23+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 326,
+  "count": 329,
   "mentions": [
     {
       "id": "190747e0aec8902e",
@@ -187,6 +187,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-29T20:46:47+00:00"
+    },
+    {
+      "id": "37ef13fb923f6f66",
+      "title": "Georgia Power breaks ground on Plant Bowen gas, battery expansion - atlantanewsfirst.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRW44ZTJGdFNsanFsSXAybVUyenJXeGdVbW1IczRYdEJtTTA5R3JyT0hSekdCeFlQbFhleWI3bDZPSVI2M1RVckt3Q3p1d0lnLWhDT1g2dXZLSUJxTF9KQ2VlSFNGT0lQN1VfWkt0QTdOblFUTXZXMEo4Y3F0Y0E3VWR3M0FTRXRfXy0tS3k3VEtOd25ISHRSTGJrcVo3X1VOT1ZQX1JRTzF0Z9IBvgFBVV95cUxPWnNBYXQtZk0zbkhsVlZQV0hyZHFVX01rQS1iN0M1aVFKMHRZSThlQXU3QmpYZjFDOVdrSlhSdmNRUWx4TWNuWEJzWHI4VDgzbGZHcXBlUjd4SVBYUHFoMjFSZXBVdllCQUYyXzVPWnZ3M3ZKaVdWZ0lwWE1sMVFpN2V5d3Z5TVREVXdBbkxhc1htNXctNEc4QVg5MTFranBrellSdHFQUmNmc1JBajdhT3J6ZnNDT0lxaVlZWVJ3?oc=5",
+      "domain": "news.google.com",
+      "source": "atlantanewsfirst.com",
+      "language": "English",
+      "published_at": "2026-07-28T22:22:00+00:00",
+      "summary": "Georgia Power breaks ground on Plant Bowen gas, battery expansion atlantanewsfirst.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRW44ZTJGdFNsanFsSXAybVUyenJXeGdVbW1IczRYdEJtTTA5R3JyT0hSekdCeFlQbFhleWI3bDZPSVI2M1RVckt3Q3p1d0lnLWhDT1g2dXZLSUJxTF9KQ2VlSFNGT0lQN1VfWkt0QTdOblFUTXZXMEo4Y3F0Y0E3VWR3M0FTRXRfXy0tS3k3VEtOd25ISHRSTGJrcVo3X1VOT1ZQX1JRTzF0Z9IBvgFBVV95cUxPWnNBYXQtZk0zbkhsVlZQV0hyZHFVX01rQS1iN0M1aVFKMHRZSThlQXU3QmpYZjFDOVdrSlhSdmNRUWx4TWNuWEJzWHI4VDgzbGZHcXBlUjd4SVBYUHFoMjFSZXBVdllCQUYyXzVPWnZ3M3ZKaVdWZ0lwWE1sMVFpN2V5d3Z5TVREVXdBbkxhc1htNXctNEc4QVg5MTFranBrellSdHFQUmNmc1JBajdhT3J6ZnNDT0lxaVlZWVJ3?oc=5\" target=\"_blank\">Georgia Power breaks ground on Plant Bowen gas, battery expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">atlantanewsfirst.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T08:13:23+00:00"
     },
     {
       "id": "c6d125e37adc9a22",
@@ -385,6 +399,20 @@
       "collected_at": "2026-07-29T13:55:06+00:00"
     },
     {
+      "id": "68e0c2212290dc74",
+      "title": "Lake Sinclair residents claim Georgia Power is responsible for invasive plant, but Georgia Power says that's not the whole story - 13wmaz.com",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPT3ZvMFl6NzBNUkE4VUxnTk5sMmw2aEpZeUduN1M1ZlJjY0tCMGw1clJucTFqRHpoSGhyb0dWZjN5TlAxT0pVVlI4MUp3RmU1RUV5Q09YY1VzMF9pSDhXY1BBNjFhQlB5T1VfVVBZNTE2M0FZcmlObTllNU5jazJXVmh2TXZmOWhjN0VaZzFFbjhwbTRUdmRnVFdtM2gyRWR0UFVwY0FvRHRKWDFIamVFd0ZWc1NocTJwUjhzMDBkdFpvYUJBUHpjSm54QThDUGk2MHA5VW1mSDN4TVRHNXRkdzhtQmhKaklmWkVjeVhybVB6ZnRld2EwcDhRdmJTU2ZsMTZj?oc=5",
+      "domain": "news.google.com",
+      "source": "13wmaz.com",
+      "language": "English",
+      "published_at": "2026-07-27T22:38:00+00:00",
+      "summary": "Lake Sinclair residents claim Georgia Power is responsible for invasive plant, but Georgia Power says that's not the whole story 13wmaz.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPT3ZvMFl6NzBNUkE4VUxnTk5sMmw2aEpZeUduN1M1ZlJjY0tCMGw1clJucTFqRHpoSGhyb0dWZjN5TlAxT0pVVlI4MUp3RmU1RUV5Q09YY1VzMF9pSDhXY1BBNjFhQlB5T1VfVVBZNTE2M0FZcmlObTllNU5jazJXVmh2TXZmOWhjN0VaZzFFbjhwbTRUdmRnVFdtM2gyRWR0UFVwY0FvRHRKWDFIamVFd0ZWc1NocTJwUjhzMDBkdFpvYUJBUHpjSm54QThDUGk2MHA5VW1mSDN4TVRHNXRkdzhtQmhKaklmWkVjeVhybVB6ZnRld2EwcDhRdmJTU2ZsMTZj?oc=5\" target=\"_blank\">Lake Sinclair residents claim Georgia Power is responsible for invasive plant, but Georgia Power says that's not the whole story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13wmaz.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T08:13:23+00:00"
+    },
+    {
       "id": "552b27ddd8d74d6b",
       "title": "Lake Sinclair residents claim Georgia Power is responsible for invasive plant - 13WMAZ",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSWdNSEpTQkZqUm1ZTVNNaHdIUkh6Ul9Id19KNHl1TkdGajAxT1JBak16bkhuYUJvTFM1WVp1NFpfX0VrcVYxVXR1RjkwdzZCelRnNkpQTDdFTUhxelNqOC1sdGhwVXlyeE5oUmhLNDZsekRPbVBTTWtmY2QwUmNQN2RtQXQzTzQwTF9scnZCeHFLS0xhR2F0V001SnQ1WUFNUWxoLXV2UmpjV0EyRWxjc0tmTE5VQ3dQdXJZYkV5UjFOYTIyWDlpeF9RYk5fS2E0cUlmY0g2dVZZcnc5TERHWm11M21GUFBUSDFQczV3?oc=5",
@@ -397,6 +425,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-28T01:58:16+00:00"
+    },
+    {
+      "id": "6cd83034e612803e",
+      "title": "Lake Sinclair residents claim Georgia Power is responsible for invasive plant - 13wmaz.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSWdNSEpTQkZqUm1ZTVNNaHdIUkh6Ul9Id19KNHl1TkdGajAxT1JBak16bkhuYUJvTFM1WVp1NFpfX0VrcVYxVXR1RjkwdzZCelRnNkpQTDdFTUhxelNqOC1sdGhwVXlyeE5oUmhLNDZsekRPbVBTTWtmY2QwUmNQN2RtQXQzTzQwTF9scnZCeHFLS0xhR2F0V001SnQ1WUFNUWxoLXV2UmpjV0EyRWxjc0tmTE5VQ3dQdXJZYkV5UjFOYTIyWDlpeF9RYk5fS2E0cUlmY0g2dVZZcnc5TERHWm11M21GUFBUSDFQczV3?oc=5",
+      "domain": "news.google.com",
+      "source": "13wmaz.com",
+      "language": "English",
+      "published_at": "2026-07-27T22:18:00+00:00",
+      "summary": "Lake Sinclair residents claim Georgia Power is responsible for invasive plant 13wmaz.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSWdNSEpTQkZqUm1ZTVNNaHdIUkh6Ul9Id19KNHl1TkdGajAxT1JBak16bkhuYUJvTFM1WVp1NFpfX0VrcVYxVXR1RjkwdzZCelRnNkpQTDdFTUhxelNqOC1sdGhwVXlyeE5oUmhLNDZsekRPbVBTTWtmY2QwUmNQN2RtQXQzTzQwTF9scnZCeHFLS0xhR2F0V001SnQ1WUFNUWxoLXV2UmpjV0EyRWxjc0tmTE5VQ3dQdXJZYkV5UjFOYTIyWDlpeF9RYk5fS2E0cUlmY0g2dVZZcnc5TERHWm11M21GUFBUSDFQczV3?oc=5\" target=\"_blank\">Lake Sinclair residents claim Georgia Power is responsible for invasive plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13wmaz.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T08:13:23+00:00"
     },
     {
       "id": "0aec415a3a32a8a1",
