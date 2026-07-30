@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-07-30T08:13:18+00:00",
+  "last_updated": "2026-07-30T11:47:16+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 66,
+  "count": 67,
   "mentions": [
     {
       "id": "7128b49a56483bfa",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-29T19:04:09+00:00"
+    },
+    {
+      "id": "3942a3a8ed2ba091",
+      "title": "Crane Restart - energy.gov",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FXzhGcTBEZkEtdVNzSmtGNDUxajRuNXlxd2J6VEw5ZjlsVjVUdkRkUEEyZUlMOC15OGMxSFoxQ2t5d2h6akJlWkhNc3haaUN1Wnc?oc=5",
+      "domain": "news.google.com",
+      "source": "energy.gov",
+      "language": "English",
+      "published_at": "2026-07-26T21:38:26+00:00",
+      "summary": "Crane Restart energy.gov",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FXzhGcTBEZkEtdVNzSmtGNDUxajRuNXlxd2J6VEw5ZjlsVjVUdkRkUEEyZUlMOC15OGMxSFoxQ2t5d2h6akJlWkhNc3haaUN1Wnc?oc=5\" target=\"_blank\">Crane Restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energy.gov</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T11:47:16+00:00"
     },
     {
       "id": "7f5cda3bc6b96906",

@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-30T08:13:23+00:00",
+  "last_updated": "2026-07-30T11:47:21+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 329,
+  "count": 335,
   "mentions": [
+    {
+      "id": "ad11f1da7d33199e",
+      "title": "Local teachers attend Georgia Power educator externship - The Rome News-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUnRuOE5ZSEdQSkF1Rzd1WW1xQTh5WlY4MFhOU3ZFSl8yb3RvWXR6a1V0M0k3azU0LUlEdFFldnc5YldLbUNZamFSVmJHTmZKRE95cXA2MG5wUkZZQTRNaEFicUs4Ui1Zdk50cUVYMVViRHFTWXdfR0ZvWkZPX1ktZkhkS3ZOb0hCLUt3S3VveV95U0lDRHpHQWRMM3hTejgtaFluZUNQSWpxT1JlbHl0SkxESHJIUGl6YVNuMG9oTjFVX01BNllQNV9Jd21hdW5wclVYcVRndEVTQnFkUW5LSUxLbXZ2aWVtdFZzV1Zubw?oc=5",
+      "domain": "news.google.com",
+      "source": "The Rome News-Tribune",
+      "language": "English",
+      "published_at": "2026-07-30T10:00:00+00:00",
+      "summary": "Local teachers attend Georgia Power educator externship The Rome News-Tribune",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUnRuOE5ZSEdQSkF1Rzd1WW1xQTh5WlY4MFhOU3ZFSl8yb3RvWXR6a1V0M0k3azU0LUlEdFFldnc5YldLbUNZamFSVmJHTmZKRE95cXA2MG5wUkZZQTRNaEFicUs4Ui1Zdk50cUVYMVViRHFTWXdfR0ZvWkZPX1ktZkhkS3ZOb0hCLUt3S3VveV95U0lDRHpHQWRMM3hTejgtaFluZUNQSWpxT1JlbHl0SkxESHJIUGl6YVNuMG9oTjFVX01BNllQNV9Jd21hdW5wclVYcVRndEVTQnFkUW5LSUxLbXZ2aWVtdFZzV1Zubw?oc=5\" target=\"_blank\">Local teachers attend Georgia Power educator externship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T11:47:21+00:00"
+    },
+    {
+      "id": "a7d9cde26b584321",
+      "title": "Georgia Power 100 specialists: Two top-10 nationally ranked kickers make list - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTBrSDJTbzA2cURSYmxzOTJXOUVESWZNd2tqNnBJSWZmeFlwdXA3Yy05dS1MWGI4aFA3U0FwTF9nbmxqbE4yWVJtN0RpNkZ1bktUcXFRTFB1ODI1MTJiWm42OXNnUUhpVWFDU0VHMEhTNlRGaHl2WDJ5U2xPRlV6NDF2VEtyRmpEemRXR0x5UFczZXlLWmhwWVdrTV9WYVlUaVlfTHR3SGNrTFRjbXZEMUNR?oc=5",
+      "domain": "news.google.com",
+      "source": "AJC.com",
+      "language": "English",
+      "published_at": "2026-07-30T09:32:18+00:00",
+      "summary": "Georgia Power 100 specialists: Two top-10 nationally ranked kickers make list AJC.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTBrSDJTbzA2cURSYmxzOTJXOUVESWZNd2tqNnBJSWZmeFlwdXA3Yy05dS1MWGI4aFA3U0FwTF9nbmxqbE4yWVJtN0RpNkZ1bktUcXFRTFB1ODI1MTJiWm42OXNnUUhpVWFDU0VHMEhTNlRGaHl2WDJ5U2xPRlV6NDF2VEtyRmpEemRXR0x5UFczZXlLWmhwWVdrTV9WYVlUaVlfTHR3SGNrTFRjbXZEMUNR?oc=5\" target=\"_blank\">Georgia Power 100 specialists: Two top-10 nationally ranked kickers make list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T11:47:21+00:00"
+    },
     {
       "id": "190747e0aec8902e",
       "title": "Georgia Power breaks ground on 'Future of Plant Bowen' - The Rome News-Tribune",
@@ -245,6 +273,20 @@
       "collected_at": "2026-07-29T19:04:14+00:00"
     },
     {
+      "id": "c063d759a269b7be",
+      "title": "Georgia Power breaks ground on natural gas expansion at Plant Bowen - wrdw.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ3JETnJoSWpWVTNKVkVyaDBEOWJvaHNwdTRiX2s0TGtPeHg1Z3c2c1FDTGgtNHF0b2xaZEFBM25YZkdqZWFSSjZzRWozdUNIekVVZkZfcklxdkZfam1nX19aOXJUckxJUDR3SWRYbjFyNE9aQ2ZHRXozbVNSVmJ0NGxTMVFwNVhSNnpSYzJvckZTU1RYb2J6YXNB0gGuAUFVX3lxTFBSQ1NoLTBEbXBUS09VMkhhd2JmQWY4Z3ppbEQxakxYaFJuTmpuQzhWRTZvUWNhNW1NRy1OQ3Y3VS10R2w3NUpYV3N1WkVQaTZfRUNBNHF5N2RXcEFRS3lMX2hoYnZlbGZGN2QyZ3pOTXJQcFVxd08yTlB4OWRSeXpCT3VUZEV5S3hHaFhqYjdxcGQ5YlQ5T3V5a0ZRS1NMejNVY2lTLVY0S191LTNoQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "wrdw.com",
+      "language": "English",
+      "published_at": "2026-07-28T21:33:00+00:00",
+      "summary": "Georgia Power breaks ground on natural gas expansion at Plant Bowen wrdw.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ3JETnJoSWpWVTNKVkVyaDBEOWJvaHNwdTRiX2s0TGtPeHg1Z3c2c1FDTGgtNHF0b2xaZEFBM25YZkdqZWFSSjZzRWozdUNIekVVZkZfcklxdkZfam1nX19aOXJUckxJUDR3SWRYbjFyNE9aQ2ZHRXozbVNSVmJ0NGxTMVFwNVhSNnpSYzJvckZTU1RYb2J6YXNB0gGuAUFVX3lxTFBSQ1NoLTBEbXBUS09VMkhhd2JmQWY4Z3ppbEQxakxYaFJuTmpuQzhWRTZvUWNhNW1NRy1OQ3Y3VS10R2w3NUpYV3N1WkVQaTZfRUNBNHF5N2RXcEFRS3lMX2hoYnZlbGZGN2QyZ3pOTXJQcFVxd08yTlB4OWRSeXpCT3VUZEV5S3hHaFhqYjdxcGQ5YlQ5T3V5a0ZRS1NMejNVY2lTLVY0S191LTNoQQ?oc=5\" target=\"_blank\">Georgia Power breaks ground on natural gas expansion at Plant Bowen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wrdw.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T11:47:21+00:00"
+    },
+    {
       "id": "3de1b08aab2d016b",
       "title": "Georgia Power breaks ground on natural gas expansion at Plant Bowen - WRDW",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTFFOWQwV28wSUNKbUpoM1lyRTBOYlhiSFdZT2prUWNXRW9PcEhuODAxSzdtanF0WXRsbGdZZDdTZUYybldJZFZBUDdEYVBkbjlYbE9VeUdHWHVmaTl3bDN5ZFFma2dvbDQ0clFBcEloTG5KXzBITlNOOXdQRjNEUVVLYlo3TGV0M2hnYTlqazVTcWpPYXJkU0NpMzhXeXFkeXc?oc=5",
@@ -259,6 +301,20 @@
       "collected_at": "2026-07-28T22:54:15+00:00"
     },
     {
+      "id": "cc424bbae54cdc83",
+      "title": "Georgia Power breaks ground on natural gas expansion at Plant Bowen - wrdw.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTFFOWQwV28wSUNKbUpoM1lyRTBOYlhiSFdZT2prUWNXRW9PcEhuODAxSzdtanF0WXRsbGdZZDdTZUYybldJZFZBUDdEYVBkbjlYbE9VeUdHWHVmaTl3bDN5ZFFma2dvbDQ0clFBcEloTG5KXzBITlNOOXdQRjNEUVVLYlo3TGV0M2hnYTlqazVTcWpPYXJkU0NpMzhXeXFkeXc?oc=5",
+      "domain": "news.google.com",
+      "source": "wrdw.com",
+      "language": "English",
+      "published_at": "2026-07-28T21:32:00+00:00",
+      "summary": "Georgia Power breaks ground on natural gas expansion at Plant Bowen wrdw.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTFFOWQwV28wSUNKbUpoM1lyRTBOYlhiSFdZT2prUWNXRW9PcEhuODAxSzdtanF0WXRsbGdZZDdTZUYybldJZFZBUDdEYVBkbjlYbE9VeUdHWHVmaTl3bDN5ZFFma2dvbDQ0clFBcEloTG5KXzBITlNOOXdQRjNEUVVLYlo3TGV0M2hnYTlqazVTcWpPYXJkU0NpMzhXeXFkeXc?oc=5\" target=\"_blank\">Georgia Power breaks ground on natural gas expansion at Plant Bowen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wrdw.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T11:47:21+00:00"
+    },
+    {
       "id": "b261954a9f49b7e8",
       "title": "Local Georgia Power employees collect supplies for schoolkids - WRDW",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNek5fM2NDdlhfWGZYSzdmOWktTlRxTXpoZkpLanVvcHV6aDR2UjhBVFcxZUJTUVlGeUpKaDI4UmRkYWljaGhWR3B6dklwV1kybXJ5dUtJbVBmaWEzSTdKdTQ2VkEyVDBlWGJ3T3lKdDkzWXB6TXBLX19mV2xieDdGanpLNjRjSWVLajRIaTRXVnRTR2Vp0gGoAUFVX3lxTE1kY3JWY1VvNFNfc3FCdWpaRktrWG5tLVRMQU5pejdUY3ZDRVJEN3NoOG1UTmxXdGRGM0pZSExKXzJjTGtjd1ptQnh0X1hEUHUweXkybV8xSXVHWEZDV3NCUkpVTHFlX1Y1bl9EUHpNLUVxemx1SjBYVmo2VEtJbmlXNk9fd0tEMmY5WTc2ZUdnS2E0cUJiLWhQS0NITDRuZHZOVUJYc2hfLQ?oc=5",
@@ -271,6 +327,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-28T21:02:48+00:00"
+    },
+    {
+      "id": "188ca11c85cd4466",
+      "title": "Local Georgia Power employees collect supplies for schoolkids - wrdw.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNek5fM2NDdlhfWGZYSzdmOWktTlRxTXpoZkpLanVvcHV6aDR2UjhBVFcxZUJTUVlGeUpKaDI4UmRkYWljaGhWR3B6dklwV1kybXJ5dUtJbVBmaWEzSTdKdTQ2VkEyVDBlWGJ3T3lKdDkzWXB6TXBLX19mV2xieDdGanpLNjRjSWVLajRIaTRXVnRTR2Vp0gGoAUFVX3lxTE1kY3JWY1VvNFNfc3FCdWpaRktrWG5tLVRMQU5pejdUY3ZDRVJEN3NoOG1UTmxXdGRGM0pZSExKXzJjTGtjd1ptQnh0X1hEUHUweXkybV8xSXVHWEZDV3NCUkpVTHFlX1Y1bl9EUHpNLUVxemx1SjBYVmo2VEtJbmlXNk9fd0tEMmY5WTc2ZUdnS2E0cUJiLWhQS0NITDRuZHZOVUJYc2hfLQ?oc=5",
+      "domain": "news.google.com",
+      "source": "wrdw.com",
+      "language": "English",
+      "published_at": "2026-07-28T19:56:00+00:00",
+      "summary": "Local Georgia Power employees collect supplies for schoolkids wrdw.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNek5fM2NDdlhfWGZYSzdmOWktTlRxTXpoZkpLanVvcHV6aDR2UjhBVFcxZUJTUVlGeUpKaDI4UmRkYWljaGhWR3B6dklwV1kybXJ5dUtJbVBmaWEzSTdKdTQ2VkEyVDBlWGJ3T3lKdDkzWXB6TXBLX19mV2xieDdGanpLNjRjSWVLajRIaTRXVnRTR2Vp0gGoAUFVX3lxTE1kY3JWY1VvNFNfc3FCdWpaRktrWG5tLVRMQU5pejdUY3ZDRVJEN3NoOG1UTmxXdGRGM0pZSExKXzJjTGtjd1ptQnh0X1hEUHUweXkybV8xSXVHWEZDV3NCUkpVTHFlX1Y1bl9EUHpNLUVxemx1SjBYVmo2VEtJbmlXNk9fd0tEMmY5WTc2ZUdnS2E0cUJiLWhQS0NITDRuZHZOVUJYc2hfLQ?oc=5\" target=\"_blank\">Local Georgia Power employees collect supplies for schoolkids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wrdw.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T11:47:21+00:00"
     },
     {
       "id": "82c5524f72158351",
@@ -313,6 +383,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-28T16:01:35+00:00"
+    },
+    {
+      "id": "f8c508539ecfe148",
+      "title": "Georgia Power pairs 49.5-MW storage facility with existing solar project - solarpowerworldonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkllMTRRZGc5bnlPZERTRF9MV2x4MThqclFxYU81UUwwSU5hU25oaUptemNicE1xblU2MUwtdkNMSkMwNy1Pc0JKLXIxeU9mam1ITGdNTWxhMElCN1ZOX3dwSVBrWDJIejJhaUs3Qlo4aWxfenJYV2pEQ00wQVZZeXRWbF85aEpVRlN1LUlFNzlmTVl6Y0ZyOFQ1NGt3eG1TQUJkOXl4eFI4cEg1aUM4T2tTX0V4cUhZZUhj?oc=5",
+      "domain": "news.google.com",
+      "source": "solarpowerworldonline.com",
+      "language": "English",
+      "published_at": "2026-07-28T13:57:27+00:00",
+      "summary": "Georgia Power pairs 49.5-MW storage facility with existing solar project solarpowerworldonline.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkllMTRRZGc5bnlPZERTRF9MV2x4MThqclFxYU81UUwwSU5hU25oaUptemNicE1xblU2MUwtdkNMSkMwNy1Pc0JKLXIxeU9mam1ITGdNTWxhMElCN1ZOX3dwSVBrWDJIejJhaUs3Qlo4aWxfenJYV2pEQ00wQVZZeXRWbF85aEpVRlN1LUlFNzlmTVl6Y0ZyOFQ1NGt3eG1TQUJkOXl4eFI4cEg1aUM4T2tTX0V4cUhZZUhj?oc=5\" target=\"_blank\">Georgia Power pairs 49.5-MW storage facility with existing solar project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">solarpowerworldonline.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T11:47:21+00:00"
     },
     {
       "id": "1c6f64929c8642a5",

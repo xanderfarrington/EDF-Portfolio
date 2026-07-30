@@ -2,9 +2,9 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-07-30T08:13:12+00:00",
+  "last_updated": "2026-07-30T11:47:10+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 28,
+  "count": 29,
   "mentions": [
     {
       "id": "0fada82a957e4d38",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-25T16:51:18+00:00"
+    },
+    {
+      "id": "377e0780f666c45f",
+      "title": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks - wpr.org",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUJsb3lhRWt2NDZhSmV4eGZEWjR3UE8weEZxZUtjYmY5eXhaZEJUeGVZQ0kzTEVRcnlDeVFRWmNnREJRRExVS3JUT2U3Q3RnT1pDNVV5WmpwZ3JxMlNRRUtzaW5aaGRvemF0czFxRWFGUHlBVzBtT0VQc1h0VjJtMWlTeVI4aVFGQXVBMGE1NUFHTnR1RWlEVU9zSkFyZ2NzdEl3bFVxNndGelBH?oc=5",
+      "domain": "news.google.com",
+      "source": "wpr.org",
+      "language": "English",
+      "published_at": "2026-07-08T07:00:00+00:00",
+      "summary": "A Wisconsin company is using fusion technology to beat supply chain bottlenecks wpr.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUJsb3lhRWt2NDZhSmV4eGZEWjR3UE8weEZxZUtjYmY5eXhaZEJUeGVZQ0kzTEVRcnlDeVFRWmNnREJRRExVS3JUT2U3Q3RnT1pDNVV5WmpwZ3JxMlNRRUtzaW5aaGRvemF0czFxRWFGUHlBVzBtT0VQc1h0VjJtMWlTeVI4aVFGQXVBMGE1NUFHTnR1RWlEVU9zSkFyZ2NzdEl3bFVxNndGelBH?oc=5\" target=\"_blank\">A Wisconsin company is using fusion technology to beat supply chain bottlenecks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wpr.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T11:47:10+00:00"
     },
     {
       "id": "372ab7ffa82231ea",
