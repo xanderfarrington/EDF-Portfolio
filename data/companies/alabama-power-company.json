@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-29T22:55:11+00:00",
+  "last_updated": "2026-07-30T01:51:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 144,
+  "count": 147,
   "mentions": [
+    {
+      "id": "654e7e9262d1557a",
+      "title": "Alabama Power Celebrates Wiregrass Partnerships - Wiregrass Daily News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPem1OU3FDY1RNTjZtX05USjFTWmtxbFJjT1VrZVBfOGhZZllsNG03SG1wUnhNT19qcG9NZ3ZmdkRLaWc4TW9UWEpvUmdnQ1AxdU5GN1J2clRDY04wVUp1UnE2eGliQ1lLVnpHUUFqamo4RzdBNGFaUHhUNktVdVNrLWJFa3lmRzBzLXFUWWdvSVJBaVhrcTFfaG9HUnNVd0pwYThIclhpcw?oc=5",
+      "domain": "news.google.com",
+      "source": "Wiregrass Daily News",
+      "language": "English",
+      "published_at": "2026-07-29T20:07:21+00:00",
+      "summary": "Alabama Power Celebrates Wiregrass Partnerships Wiregrass Daily News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPem1OU3FDY1RNTjZtX05USjFTWmtxbFJjT1VrZVBfOGhZZllsNG03SG1wUnhNT19qcG9NZ3ZmdkRLaWc4TW9UWEpvUmdnQ1AxdU5GN1J2clRDY04wVUp1UnE2eGliQ1lLVnpHUUFqamo4RzdBNGFaUHhUNktVdVNrLWJFa3lmRzBzLXFUWWdvSVJBaVhrcTFfaG9HUnNVd0pwYThIclhpcw?oc=5\" target=\"_blank\">Alabama Power Celebrates Wiregrass Partnerships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiregrass Daily News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T01:51:36+00:00"
+    },
     {
       "id": "fd9ba09fd5f04b1f",
       "title": "Alabama Power adds Tom Hand, Mike Kemp Sr. to board of directors - Yellowhammer News",
@@ -315,6 +329,20 @@
       "collected_at": "2026-07-23T17:13:24+00:00"
     },
     {
+      "id": "c3649c0640e6821a",
+      "title": "Alabama Power shares energy-saving tips - wsfa.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGU5aFJPNUN2aV8wempmeHBJWHRSSm01QWtuc2tRQkV2VGxzdzZTMEtpTTNjR3I5NlpWZGpuMEhuOEIzaHBLQy1mSndLQmhFblI4TVlkX0NqQUM3T2pKQVZKS0dEVGJJSU9qR2xNUm5Qek1jRGhBaDd2cGFCcHpRYm1ZNnM?oc=5",
+      "domain": "news.google.com",
+      "source": "wsfa.com",
+      "language": "English",
+      "published_at": "2026-07-23T16:00:00+00:00",
+      "summary": "Alabama Power shares energy-saving tips wsfa.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGU5aFJPNUN2aV8wempmeHBJWHRSSm01QWtuc2tRQkV2VGxzdzZTMEtpTTNjR3I5NlpWZGpuMEhuOEIzaHBLQy1mSndLQmhFblI4TVlkX0NqQUM3T2pKQVZKS0dEVGJJSU9qR2xNUm5Qek1jRGhBaDd2cGFCcHpRYm1ZNnM?oc=5\" target=\"_blank\">Alabama Power shares energy-saving tips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsfa.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T01:51:36+00:00"
+    },
+    {
       "id": "19a1fe74987af075",
       "title": "Alabama Power program predicts power outages before they happen - WVUA 23",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOTlXZ3pCT2Zpd0lleHV5N0RtNzJCdFNXaUp0YUxZa1Y5elVlcExFV1hTSUxEc3pNWG9pN2t2ekJYZkZlVXZib0Q3Skp6MjBOZWwwTHVDak52aEhoUGdCUVQ0NjZ5RTAyaFhLanVPekZGdkRHOXZtaVRvVmZpZ1FEb3ZEMlJVQ2JuRXZpR3BzdERwMmVhazg4Y1dVR0d1dkt0QnZTWnVPejZGcURiMXJOR0hxQ2tlcDJzWVphN3lhQlRnSXZPMmNGM2xrTHdiajRNRjctZGg3WmY?oc=5",
@@ -509,6 +537,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-29T15:46:47+00:00"
+    },
+    {
+      "id": "8f171ee03dfb0f97",
+      "title": "Alabama Power testing out unmanned drone - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTN2UFY2V01vZVJuM055d20yWElPaTlmU1czbkVFcGVqRzF3SWhPai1USlVZZTdLQ3AycURSZmo3QzZKZUVrTXVaTGFRRXFlQ01oWGhNMS1pLVpEdXJEc0ZBM3dmUzdQX1RvUXRoM3dkV2dmNkJoRWp0b1RfTzVxaGRrNW5NcnlxWFRyMU1OX05OTDd0?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-07-20T07:00:00+00:00",
+      "summary": "Alabama Power testing out unmanned drone Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTN2UFY2V01vZVJuM055d20yWElPaTlmU1czbkVFcGVqRzF3SWhPai1USlVZZTdLQ3AycURSZmo3QzZKZUVrTXVaTGFRRXFlQ01oWGhNMS1pLVpEdXJEc0ZBM3dmUzdQX1RvUXRoM3dkV2dmNkJoRWp0b1RfTzVxaGRrNW5NcnlxWFRyMU1OX05OTDd0?oc=5\" target=\"_blank\">Alabama Power testing out unmanned drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T01:51:36+00:00"
     },
     {
       "id": "ca0ccb95708bb359",

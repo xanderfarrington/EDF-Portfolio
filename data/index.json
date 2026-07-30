@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-29T22:55:38+00:00",
+  "last_updated": "2026-07-30T01:52:02+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 59,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "a9e6a509c3db1c27",
         "title": "AEP Again Named Most Adoption-Friendly Workplace in Energy and Utilities Sector - CSRwire",
@@ -26,42 +26,42 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 144,
-      "new_mentions_this_run": 20,
+      "count": 147,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "fd9ba09fd5f04b1f",
-        "title": "Alabama Power adds Tom Hand, Mike Kemp Sr. to board of directors - Yellowhammer News",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOW40UUJ4eVZxcF85a1JCTjQtcGxSWGlqeHREcWUzRGVKcml5dFJDNEtNZDQzWGdHUVZBZlJGM3Z5QVcxMDdCU0poeE0yTUg0SVVtQUJZVW5YS0xHbERjRVJnZW9ITGF2MUJidXNRZ0NUVDY1emw0ZGRIeEF2NnVSVlRPejczdFJscUZ0RWNQMXlrTkZ2RnY4?oc=5",
+        "id": "654e7e9262d1557a",
+        "title": "Alabama Power Celebrates Wiregrass Partnerships - Wiregrass Daily News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPem1OU3FDY1RNTjZtX05USjFTWmtxbFJjT1VrZVBfOGhZZllsNG03SG1wUnhNT19qcG9NZ3ZmdkRLaWc4TW9UWEpvUmdnQ1AxdU5GN1J2clRDY04wVUp1UnE2eGliQ1lLVnpHUUFqamo4RzdBNGFaUHhUNktVdVNrLWJFa3lmRzBzLXFUWWdvSVJBaVhrcTFfaG9HUnNVd0pwYThIclhpcw?oc=5",
         "domain": "news.google.com",
-        "source": "Yellowhammer News",
+        "source": "Wiregrass Daily News",
         "language": "English",
-        "published_at": "2026-07-28T19:15:52+00:00",
-        "summary": "Alabama Power adds Tom Hand, Mike Kemp Sr. to board of directors Yellowhammer News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQOW40UUJ4eVZxcF85a1JCTjQtcGxSWGlqeHREcWUzRGVKcml5dFJDNEtNZDQzWGdHUVZBZlJGM3Z5QVcxMDdCU0poeE0yTUg0SVVtQUJZVW5YS0xHbERjRVJnZW9ITGF2MUJidXNRZ0NUVDY1emw0ZGRIeEF2NnVSVlRPejczdFJscUZ0RWNQMXlrTkZ2RnY4?oc=5\" target=\"_blank\">Alabama Power adds Tom Hand, Mike Kemp Sr. to board of directors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellowhammer News</font>",
+        "published_at": "2026-07-29T20:07:21+00:00",
+        "summary": "Alabama Power Celebrates Wiregrass Partnerships Wiregrass Daily News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPem1OU3FDY1RNTjZtX05USjFTWmtxbFJjT1VrZVBfOGhZZllsNG03SG1wUnhNT19qcG9NZ3ZmdkRLaWc4TW9UWEpvUmdnQ1AxdU5GN1J2clRDY04wVUp1UnE2eGliQ1lLVnpHUUFqamo4RzdBNGFaUHhUNktVdVNrLWJFa3lmRzBzLXFUWWdvSVJBaVhrcTFfaG9HUnNVd0pwYThIclhpcw?oc=5\" target=\"_blank\">Alabama Power Celebrates Wiregrass Partnerships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiregrass Daily News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-28T21:02:32+00:00"
+        "collected_at": "2026-07-30T01:51:36+00:00"
       }
     },
     {
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 27,
+      "count": 28,
       "new_mentions_this_run": 2,
       "latest_mention": {
-        "id": "23cd3bb3397fdae2",
-        "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society",
+        "id": "0fada82a957e4d38",
+        "title": "Shine receives $263M conditional DOE loan to complete isotope facility - ans.org",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5",
         "domain": "news.google.com",
-        "source": "American Nuclear Society",
+        "source": "ans.org",
         "language": "English",
-        "published_at": "2026-07-23T15:30:18+00:00",
-        "summary": "Shine receives $263M conditional DOE loan to complete isotope facility American Nuclear Society",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5\" target=\"_blank\">Shine receives $263M conditional DOE loan to complete isotope facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society</font>",
+        "published_at": "2026-07-28T17:39:25+00:00",
+        "summary": "Shine receives $263M conditional DOE loan to complete isotope facility ans.org",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5\" target=\"_blank\">Shine receives $263M conditional DOE loan to complete isotope facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ans.org</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-23T22:50:56+00:00"
+        "collected_at": "2026-07-30T01:51:41+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 323,
+      "count": 326,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "190747e0aec8902e",

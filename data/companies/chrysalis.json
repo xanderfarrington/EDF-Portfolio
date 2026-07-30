@@ -2,10 +2,24 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-07-29T22:55:16+00:00",
+  "last_updated": "2026-07-30T01:51:41+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 27,
+  "count": 28,
   "mentions": [
+    {
+      "id": "0fada82a957e4d38",
+      "title": "Shine receives $263M conditional DOE loan to complete isotope facility - ans.org",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5",
+      "domain": "news.google.com",
+      "source": "ans.org",
+      "language": "English",
+      "published_at": "2026-07-28T17:39:25+00:00",
+      "summary": "Shine receives $263M conditional DOE loan to complete isotope facility ans.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5\" target=\"_blank\">Shine receives $263M conditional DOE loan to complete isotope facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ans.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T01:51:41+00:00"
+    },
     {
       "id": "23cd3bb3397fdae2",
       "title": "Shine receives $263M conditional DOE loan to complete isotope facility - American Nuclear Society",

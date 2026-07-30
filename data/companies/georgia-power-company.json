@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-29T22:55:28+00:00",
+  "last_updated": "2026-07-30T01:51:52+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 323,
+  "count": 326,
   "mentions": [
     {
       "id": "190747e0aec8902e",
@@ -49,6 +49,20 @@
       "collected_at": "2026-07-29T22:55:28+00:00"
     },
     {
+      "id": "c2014e5025453540",
+      "title": "Georgia Power Is Using Eminent Domain to Clear Homes for Power Lines – and 80% of the Grid Expansion Goes to AI Data Centers - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2ZRSjVfeWNJRU5rajVpQUFSeXMzNmI4aTd6Y2l1T0JSc3FTXzRidEhLTEVWVlRKLUZHRWh6ZHJadjIwWnlJemdCRlUxVUdGQVJHWFVfc2V3ZmIwN0tLSVZkYy1QS0RsWU81cVFLNkZtQVAxMjhZVWxyV1BjSFItMG5yQlp0bThNUmgxQkVrXzY5UQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-07-29T15:31:52+00:00",
+      "summary": "Georgia Power Is Using Eminent Domain to Clear Homes for Power Lines – and 80% of the Grid Expansion Goes to AI Data Centers Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2ZRSjVfeWNJRU5rajVpQUFSeXMzNmI4aTd6Y2l1T0JSc3FTXzRidEhLTEVWVlRKLUZHRWh6ZHJadjIwWnlJemdCRlUxVUdGQVJHWFVfc2V3ZmIwN0tLSVZkYy1QS0RsWU81cVFLNkZtQVAxMjhZVWxyV1BjSFItMG5yQlp0bThNUmgxQkVrXzY5UQ?oc=5\" target=\"_blank\">Georgia Power Is Using Eminent Domain to Clear Homes for Power Lines – and 80% of the Grid Expansion Goes to AI Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T01:51:52+00:00"
+    },
+    {
       "id": "3c524d40125feb39",
       "title": "Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base - Energy-Storage.News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnV6dFlMekVwU0xXNFoxRXZVanYyd0hhUGNwRkVFd1lVUWVwRXdyYS10LWk2UklsUC1aYVFldEpQM0hOVHdUOVMyVHZUVEtaOE5oblVpeHcwcGNyZUZrTTlnaW5MVDBKNjdvTWgyZV9VbUpwajBxXzdrVWJkaUtpTFhycWRtTE5ON2luWjB3RTR6NjRCOHYzdFd1cjRaNVQ0LWRKUlUtQVhpdVFFdUNqclBDTQ?oc=5",
@@ -61,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-29T13:55:06+00:00"
+    },
+    {
+      "id": "ce102a56c98d9f25",
+      "title": "Georgia Power 100 defensive backs: 2 highly rated junior prospects top 10 best - ajc.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmRkQWxCM0VVQ3FUdkJPbk16TDVJeHlDZHFTZkFtYWFmX2Fyd205V25KdFFDcVM2b2p2a2RuMXc4NkJqRXNJSW93UUlJSDhZVzVoYXIyVVFhZlRFandqQ2lwNzRTZkRPMVFjOUNPZ3BWTDFtal85cW9pOG90X2QtR3ZwQmFyMjBjRnJtMm1nMXpjTm9uMTh6ei00UTl4b2l2MWRVRG12cXhzZm9peElWMGJHUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "ajc.com",
+      "language": "English",
+      "published_at": "2026-07-29T09:38:36+00:00",
+      "summary": "Georgia Power 100 defensive backs: 2 highly rated junior prospects top 10 best ajc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmRkQWxCM0VVQ3FUdkJPbk16TDVJeHlDZHFTZkFtYWFmX2Fyd205V25KdFFDcVM2b2p2a2RuMXc4NkJqRXNJSW93UUlJSDhZVzVoYXIyVVFhZlRFandqQ2lwNzRTZkRPMVFjOUNPZ3BWTDFtal85cW9pOG90X2QtR3ZwQmFyMjBjRnJtMm1nMXpjTm9uMTh6ei00UTl4b2l2MWRVRG12cXhzZm9peElWMGJHUQ?oc=5\" target=\"_blank\">Georgia Power 100 defensive backs: 2 highly rated junior prospects top 10 best</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ajc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T01:51:52+00:00"
     },
     {
       "id": "71942240d97561c2",
@@ -481,6 +509,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-27T11:14:05+00:00"
+    },
+    {
+      "id": "84d38b5ecb9350ba",
+      "title": "Vanessa Jozwiak with Georgia Power, Powering a Growing Georgia - middlegeorgiaceo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjhjVXkwVHRCY2hsLXFSdTNfWUpCX0twQ3dUbDVxbzZXQlJ6dDFRaE1DcnRLX29LYmVDOVlVVU5ka0JzWkJaV2tHMkQ0T1VNRTg3ejdOMjZtZHhXNFgtczBMeV9OUnpGdzVOYlF0TjMyZzlwZ3VPQTkyODE3RllhdDNYR1VwU0xlQW9mRkMtMFlJNmxremNhR3oxNzVqbTQ?oc=5",
+      "domain": "news.google.com",
+      "source": "middlegeorgiaceo.com",
+      "language": "English",
+      "published_at": "2026-07-27T07:42:54+00:00",
+      "summary": "Vanessa Jozwiak with Georgia Power, Powering a Growing Georgia middlegeorgiaceo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjhjVXkwVHRCY2hsLXFSdTNfWUpCX0twQ3dUbDVxbzZXQlJ6dDFRaE1DcnRLX29LYmVDOVlVVU5ka0JzWkJaV2tHMkQ0T1VNRTg3ejdOMjZtZHhXNFgtczBMeV9OUnpGdzVOYlF0TjMyZzlwZ3VPQTkyODE3RllhdDNYR1VwU0xlQW9mRkMtMFlJNmxremNhR3oxNzVqbTQ?oc=5\" target=\"_blank\">Vanessa Jozwiak with Georgia Power, Powering a Growing Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">middlegeorgiaceo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T01:51:52+00:00"
     },
     {
       "id": "680662eb027b7782",
