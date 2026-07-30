@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-30T15:46:53+00:00",
+  "last_updated": "2026-07-30T17:19:17+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 63,
+  "count": 64,
   "mentions": [
+    {
+      "id": "dee1304602b5c27c",
+      "title": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFFZc3hIU0JadUpxU3Q2bUJhNVhsSU52eFZTNHRCRXBWYmxYZTR1WjY5NEpRM3dMeEJSU09yLTBxbzBXM1MtVnFWanpUcHR0T1RsWFFHSmVRdk5vLXhzaWNkTGhBTXlrbjlEb3Q3QTRkOF9kdjVIMVkwMHJCbTJiTmEzczhzN0d6ZXhoZHNXQWk1ZTcyLUJHdjY0YlBqNXdnZUVVeVZtYUlGdjVJRHdZSVZvTTBJWGk5djNlLTFjb2o?oc=5",
+      "domain": "news.google.com",
+      "source": "TradingView",
+      "language": "English",
+      "published_at": "2026-07-30T15:20:00+00:00",
+      "summary": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y TradingView",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFFZc3hIU0JadUpxU3Q2bUJhNVhsSU52eFZTNHRCRXBWYmxYZTR1WjY5NEpRM3dMeEJSU09yLTBxbzBXM1MtVnFWanpUcHR0T1RsWFFHSmVRdk5vLXhzaWNkTGhBTXlrbjlEb3Q3QTRkOF9kdjVIMVkwMHJCbTJiTmEzczhzN0d6ZXhoZHNXQWk1ZTcyLUJHdjY0YlBqNXdnZUVVeVZtYUlGdjVJRHdZSVZvTTBJWGk5djNlLTFjb2o?oc=5\" target=\"_blank\">American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T17:19:17+00:00"
+    },
     {
       "id": "689bc096c5e11aca",
       "title": "AEP Reports Second-Quarter 2026 Earnings, Raises Full-Year Guidance - aep.com",

@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-30T15:47:25+00:00",
+  "last_updated": "2026-07-30T17:19:50+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 63,
+      "count": 64,
       "new_mentions_this_run": 10,
       "latest_mention": {
-        "id": "689bc096c5e11aca",
-        "title": "AEP Reports Second-Quarter 2026 Earnings, Raises Full-Year Guidance - aep.com",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsel8tY1FrRnFaNEhHRktGOUZwd2ItWmZZc0h4b3lWdVhOR1loZjFOcGZsRkw1UGJLMml0dzJrNExlWkFMS004ZUt4QkF5TER2VUdhNkZkdw?oc=5",
+        "id": "dee1304602b5c27c",
+        "title": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFFZc3hIU0JadUpxU3Q2bUJhNVhsSU52eFZTNHRCRXBWYmxYZTR1WjY5NEpRM3dMeEJSU09yLTBxbzBXM1MtVnFWanpUcHR0T1RsWFFHSmVRdk5vLXhzaWNkTGhBTXlrbjlEb3Q3QTRkOF9kdjVIMVkwMHJCbTJiTmEzczhzN0d6ZXhoZHNXQWk1ZTcyLUJHdjY0YlBqNXdnZUVVeVZtYUlGdjVJRHdZSVZvTTBJWGk5djNlLTFjb2o?oc=5",
         "domain": "news.google.com",
-        "source": "aep.com",
+        "source": "TradingView",
         "language": "English",
-        "published_at": "2026-07-30T11:39:14+00:00",
-        "summary": "AEP Reports Second-Quarter 2026 Earnings, Raises Full-Year Guidance aep.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsel8tY1FrRnFaNEhHRktGOUZwd2ItWmZZc0h4b3lWdVhOR1loZjFOcGZsRkw1UGJLMml0dzJrNExlWkFMS004ZUt4QkF5TER2VUdhNkZkdw?oc=5\" target=\"_blank\">AEP Reports Second-Quarter 2026 Earnings, Raises Full-Year Guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aep.com</font>",
+        "published_at": "2026-07-30T15:20:00+00:00",
+        "summary": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y TradingView",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFFZc3hIU0JadUpxU3Q2bUJhNVhsSU52eFZTNHRCRXBWYmxYZTR1WjY5NEpRM3dMeEJSU09yLTBxbzBXM1MtVnFWanpUcHR0T1RsWFFHSmVRdk5vLXhzaWNkTGhBTXlrbjlEb3Q3QTRkOF9kdjVIMVkwMHJCbTJiTmEzczhzN0d6ZXhoZHNXQWk1ZTcyLUJHdjY0YlBqNXdnZUVVeVZtYUlGdjVJRHdZSVZvTTBJWGk5djNlLTFjb2o?oc=5\" target=\"_blank\">American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-30T11:46:59+00:00"
+        "collected_at": "2026-07-30T17:19:17+00:00"
       }
     },
     {
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 151,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "654e7e9262d1557a",
         "title": "Alabama Power Celebrates Wiregrass Partnerships - Wiregrass Daily News",
