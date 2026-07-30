@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-30T13:44:15+00:00",
+  "last_updated": "2026-07-30T15:46:53+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 62,
+  "count": 63,
   "mentions": [
     {
       "id": "689bc096c5e11aca",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-30T11:46:59+00:00"
+    },
+    {
+      "id": "a90709af1d68287d",
+      "title": "AEP Reports Second-Quarter 2026 Earnings, Raises Full-Year Guidance - AEP.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsel8tY1FrRnFaNEhHRktGOUZwd2ItWmZZc0h4b3lWdVhOR1loZjFOcGZsRkw1UGJLMml0dzJrNExlWkFMS004ZUt4QkF5TER2VUdhNkZkdw?oc=5",
+      "domain": "news.google.com",
+      "source": "AEP.com",
+      "language": "English",
+      "published_at": "2026-07-30T11:39:14+00:00",
+      "summary": "AEP Reports Second-Quarter 2026 Earnings, Raises Full-Year Guidance AEP.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsel8tY1FrRnFaNEhHRktGOUZwd2ItWmZZc0h4b3lWdVhOR1loZjFOcGZsRkw1UGJLMml0dzJrNExlWkFMS004ZUt4QkF5TER2VUdhNkZkdw?oc=5\" target=\"_blank\">AEP Reports Second-Quarter 2026 Earnings, Raises Full-Year Guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AEP.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T15:46:53+00:00"
     },
     {
       "id": "a9e6a509c3db1c27",

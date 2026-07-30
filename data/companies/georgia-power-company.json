@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-30T13:44:37+00:00",
+  "last_updated": "2026-07-30T15:47:15+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 336,
+  "count": 338,
   "mentions": [
     {
       "id": "ad11f1da7d33199e",
@@ -63,6 +63,20 @@
       "collected_at": "2026-07-29T22:55:28+00:00"
     },
     {
+      "id": "3cc177941f4d048a",
+      "title": "Georgia Power breaks ground on 'Future of Plant Bowen' - The Rome News-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVG1Pc0RUR19GZWhqU3RnWGk0STNCMkJpeEdSQmp2SmY4aTAxdmhJVzdIejhQVWhER3NHT25pTENvMlpobnVBSF9EcnRKeGRRTDNBQl8yTHJKbTN1MFg3QXhKYVgtRnlZVjlNZUFQTVExX3dva2huYXBZQUhqUFE3RWN1MGw2d2U2b3lGdUhGOHNXM09YMDRnQ0VXVG02d0MtLXlFV1lKU0lwTmp4XzhDU2tHT295emNPMnRzM2xQSXY3ZFFRbUhrRmhnSE5zcXF3Um1kemNRb1hzRGVoZUc3ZkRRMkFQbmdCM2ZoNzNacm5yOUo2bTFkeFBsMzg?oc=5",
+      "domain": "news.google.com",
+      "source": "The Rome News-Tribune",
+      "language": "English",
+      "published_at": "2026-07-29T22:00:00+00:00",
+      "summary": "Georgia Power breaks ground on 'Future of Plant Bowen' The Rome News-Tribune",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVG1Pc0RUR19GZWhqU3RnWGk0STNCMkJpeEdSQmp2SmY4aTAxdmhJVzdIejhQVWhER3NHT25pTENvMlpobnVBSF9EcnRKeGRRTDNBQl8yTHJKbTN1MFg3QXhKYVgtRnlZVjlNZUFQTVExX3dva2huYXBZQUhqUFE3RWN1MGw2d2U2b3lGdUhGOHNXM09YMDRnQ0VXVG02d0MtLXlFV1lKU0lwTmp4XzhDU2tHT295emNPMnRzM2xQSXY3ZFFRbUhrRmhnSE5zcXF3Um1kemNRb1hzRGVoZUc3ZkRRMkFQbmdCM2ZoNzNacm5yOUo2bTFkeFBsMzg?oc=5\" target=\"_blank\">Georgia Power breaks ground on 'Future of Plant Bowen'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T15:47:15+00:00"
+    },
+    {
       "id": "a3180bb980a5adb6",
       "title": "Georgia Power Is Using Eminent Domain to Clear Homes for Power Lines - and 80% of the Grid Expansion Goes to AI Data Centers - Gadget Review",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTG5GLXhrNUhBMXctRGZpRUcwczdDeFdCUXNFU0NEU1gzZC1kQkZlcnFrRGJMTnJZU0hOYnVLUkM0M19IaDFtYWNmWVRDWDQ3RDhvd0NDTWJrOWhNb19CUWR3RWN3cVJGUExXRkE2MEJsN1dmeGg2WVpMOGpBTXFXUzd1UnhBYjNsOWJPLXAyX3RGX3RSaFFZNkNsYTEyUQ?oc=5",
@@ -103,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-30T01:51:52+00:00"
+    },
+    {
+      "id": "a27a16cadcab40bb",
+      "title": "Residents Furious at Plan to Seize and Destroy Their Homes for AI Data Centers - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFNCa3poVFJBUDBEUWxCdzAycTlUVXBETXJNNUF1M2t2YVNBekh1bkh3NUZvQUh3cW42OWtIT1hzX3gya3hQQ294RTNCSjE2aTNuYWFRWTlQa0FldTRjZ1hlbjV3RW9CbVRCZFZZV3NYbExWY01JRm5aZWZVUFpGdFZiaVlGeWZQREJzamZCLWlfdjJ1UDd4ZXJJdGF6U0Y0d2I3RFBiTFpPUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Futurism",
+      "language": "English",
+      "published_at": "2026-07-29T12:54:18+00:00",
+      "summary": "Residents Furious at Plan to Seize and Destroy Their Homes for AI Data Centers Futurism",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFNCa3poVFJBUDBEUWxCdzAycTlUVXBETXJNNUF1M2t2YVNBekh1bkh3NUZvQUh3cW42OWtIT1hzX3gya3hQQ294RTNCSjE2aTNuYWFRWTlQa0FldTRjZ1hlbjV3RW9CbVRCZFZZV3NYbExWY01JRm5aZWZVUFpGdFZiaVlGeWZQREJzamZCLWlfdjJ1UDd4ZXJJdGF6U0Y0d2I3RFBiTFpPUQ?oc=5\" target=\"_blank\">Residents Furious at Plan to Seize and Destroy Their Homes for AI Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Futurism</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T15:47:15+00:00"
     },
     {
       "id": "3c524d40125feb39",
