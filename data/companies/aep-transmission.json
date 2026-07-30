@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-30T01:51:30+00:00",
+  "last_updated": "2026-07-30T04:53:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 59,
+  "count": 60,
   "mentions": [
     {
       "id": "a9e6a509c3db1c27",
@@ -145,6 +145,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-24T20:56:47+00:00"
+    },
+    {
+      "id": "b9bbb29183c67d2e",
+      "title": "AEP5834279 Bond Profile — Key Metrics - tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jWEc1TndGYnpfRG42NF84YlItdHFjcnkwbnpWbGhLbzZ3cHhhRGxOdV9aZTR5cUR4Yk05LUViZ29SRDFocTlvT1hzMUhLY2NtR1BGVkZUdWhfY3FnVk80bDZpUHRYSzNnTHhhTjQ4TW1KSTI0YUpJd2x3?oc=5",
+      "domain": "news.google.com",
+      "source": "tradingview.com",
+      "language": "English",
+      "published_at": "2026-07-24T10:12:08+00:00",
+      "summary": "AEP5834279 Bond Profile — Key Metrics tradingview.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1jWEc1TndGYnpfRG42NF84YlItdHFjcnkwbnpWbGhLbzZ3cHhhRGxOdV9aZTR5cUR4Yk05LUViZ29SRDFocTlvT1hzMUhLY2NtR1BGVkZUdWhfY3FnVk80bDZpUHRYSzNnTHhhTjQ4TW1KSTI0YUpJd2x3?oc=5\" target=\"_blank\">AEP5834279 Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tradingview.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T04:53:37+00:00"
     },
     {
       "id": "ec25e5d5b3b4527e",

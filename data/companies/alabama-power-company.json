@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-30T01:51:36+00:00",
+  "last_updated": "2026-07-30T04:53:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 147,
+  "count": 148,
   "mentions": [
     {
       "id": "654e7e9262d1557a",
@@ -537,6 +537,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-29T15:46:47+00:00"
+    },
+    {
+      "id": "55b856b1575f2722",
+      "title": "Alabama Power using drones - wrbl.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45a3M0VjZqN1FIWTJMQ0x1YTlVUmtrWENFZXBNR0FBTU1pc1FYbDVtbnRJV2Vkc1NtRlNDbWhFUHZNMXhEd1RhcUtOYnFzeG9aUFZQTDhzR3R4WTJOTUItOVdDY1QwanNxSjBOWXVhQkM?oc=5",
+      "domain": "news.google.com",
+      "source": "wrbl.com",
+      "language": "English",
+      "published_at": "2026-07-20T23:21:28+00:00",
+      "summary": "Alabama Power using drones wrbl.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE45a3M0VjZqN1FIWTJMQ0x1YTlVUmtrWENFZXBNR0FBTU1pc1FYbDVtbnRJV2Vkc1NtRlNDbWhFUHZNMXhEd1RhcUtOYnFzeG9aUFZQTDhzR3R4WTJOTUItOVdDY1QwanNxSjBOWXVhQkM?oc=5\" target=\"_blank\">Alabama Power using drones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wrbl.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T04:53:42+00:00"
     },
     {
       "id": "8f171ee03dfb0f97",
