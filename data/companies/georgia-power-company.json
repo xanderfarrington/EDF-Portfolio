@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-30T11:47:21+00:00",
+  "last_updated": "2026-07-30T13:44:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 335,
+  "count": 336,
   "mentions": [
     {
       "id": "ad11f1da7d33199e",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-30T11:47:21+00:00"
+    },
+    {
+      "id": "6f2fa5f767e65993",
+      "title": "Local teachers attend Georgia Power educator externship - northwestgeorgianews.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUnRuOE5ZSEdQSkF1Rzd1WW1xQTh5WlY4MFhOU3ZFSl8yb3RvWXR6a1V0M0k3azU0LUlEdFFldnc5YldLbUNZamFSVmJHTmZKRE95cXA2MG5wUkZZQTRNaEFicUs4Ui1Zdk50cUVYMVViRHFTWXdfR0ZvWkZPX1ktZkhkS3ZOb0hCLUt3S3VveV95U0lDRHpHQWRMM3hTejgtaFluZUNQSWpxT1JlbHl0SkxESHJIUGl6YVNuMG9oTjFVX01BNllQNV9Jd21hdW5wclVYcVRndEVTQnFkUW5LSUxLbXZ2aWVtdFZzV1Zubw?oc=5",
+      "domain": "news.google.com",
+      "source": "northwestgeorgianews.com",
+      "language": "English",
+      "published_at": "2026-07-30T10:00:00+00:00",
+      "summary": "Local teachers attend Georgia Power educator externship northwestgeorgianews.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUnRuOE5ZSEdQSkF1Rzd1WW1xQTh5WlY4MFhOU3ZFSl8yb3RvWXR6a1V0M0k3azU0LUlEdFFldnc5YldLbUNZamFSVmJHTmZKRE95cXA2MG5wUkZZQTRNaEFicUs4Ui1Zdk50cUVYMVViRHFTWXdfR0ZvWkZPX1ktZkhkS3ZOb0hCLUt3S3VveV95U0lDRHpHQWRMM3hTejgtaFluZUNQSWpxT1JlbHl0SkxESHJIUGl6YVNuMG9oTjFVX01BNllQNV9Jd21hdW5wclVYcVRndEVTQnFkUW5LSUxLbXZ2aWVtdFZzV1Zubw?oc=5\" target=\"_blank\">Local teachers attend Georgia Power educator externship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">northwestgeorgianews.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T13:44:37+00:00"
     },
     {
       "id": "a7d9cde26b584321",
