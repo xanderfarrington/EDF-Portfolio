@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-30T21:00:43+00:00",
+  "last_updated": "2026-07-30T22:58:58+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 340,
+  "count": 341,
   "mentions": [
     {
       "id": "ad11f1da7d33199e",
@@ -159,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-29T13:55:06+00:00"
+    },
+    {
+      "id": "53db69a007a8112c",
+      "title": "Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base - energy-storage.news",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnV6dFlMekVwU0xXNFoxRXZVanYyd0hhUGNwRkVFd1lVUWVwRXdyYS10LWk2UklsUC1aYVFldEpQM0hOVHdUOVMyVHZUVEtaOE5oblVpeHcwcGNyZUZrTTlnaW5MVDBKNjdvTWgyZV9VbUpwajBxXzdrVWJkaUtpTFhycWRtTE5ON2luWjB3RTR6NjRCOHYzdFd1cjRaNVQ0LWRKUlUtQVhpdVFFdUNqclBDTQ?oc=5",
+      "domain": "news.google.com",
+      "source": "energy-storage.news",
+      "language": "English",
+      "published_at": "2026-07-29T12:52:29+00:00",
+      "summary": "Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base energy-storage.news",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnV6dFlMekVwU0xXNFoxRXZVanYyd0hhUGNwRkVFd1lVUWVwRXdyYS10LWk2UklsUC1aYVFldEpQM0hOVHdUOVMyVHZUVEtaOE5oblVpeHcwcGNyZUZrTTlnaW5MVDBKNjdvTWgyZV9VbUpwajBxXzdrVWJkaUtpTFhycWRtTE5ON2luWjB3RTR6NjRCOHYzdFd1cjRaNVQ0LWRKUlUtQVhpdVFFdUNqclBDTQ?oc=5\" target=\"_blank\">Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energy-storage.news</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T22:58:58+00:00"
     },
     {
       "id": "ce102a56c98d9f25",

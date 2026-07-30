@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T21:00:54+00:00",
+  "last_updated": "2026-07-30T22:59:08+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 151,
+      "count": 153,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "654e7e9262d1557a",
-        "title": "Alabama Power Celebrates Wiregrass Partnerships - Wiregrass Daily News",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPem1OU3FDY1RNTjZtX05USjFTWmtxbFJjT1VrZVBfOGhZZllsNG03SG1wUnhNT19qcG9NZ3ZmdkRLaWc4TW9UWEpvUmdnQ1AxdU5GN1J2clRDY04wVUp1UnE2eGliQ1lLVnpHUUFqamo4RzdBNGFaUHhUNktVdVNrLWJFa3lmRzBzLXFUWWdvSVJBaVhrcTFfaG9HUnNVd0pwYThIclhpcw?oc=5",
+        "id": "9bc6f52546dd8e33",
+        "title": "Alabama Power hosts Touch-a-Truck event in Montgomery - WSFA",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG5Wb3VER2JlWTc0UU42WV81RExxem5WLUhTQ1JfWDFqVmFxX1NXaU5CNnhldUZDWmtudjVELVJtMFBkTU1lRDNpNUpRaHh3VjRMS3dXX3dsYWV0dnpUTWJYY2UyazNCdGp1aU5uSmkzVTFfSHpKQ1dxMS1kdlRRTkFzQ3E5cm9rSWdsWEItV1lwc1k?oc=5",
         "domain": "news.google.com",
-        "source": "Wiregrass Daily News",
+        "source": "WSFA",
         "language": "English",
-        "published_at": "2026-07-29T20:07:21+00:00",
-        "summary": "Alabama Power Celebrates Wiregrass Partnerships Wiregrass Daily News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPem1OU3FDY1RNTjZtX05USjFTWmtxbFJjT1VrZVBfOGhZZllsNG03SG1wUnhNT19qcG9NZ3ZmdkRLaWc4TW9UWEpvUmdnQ1AxdU5GN1J2clRDY04wVUp1UnE2eGliQ1lLVnpHUUFqamo4RzdBNGFaUHhUNktVdVNrLWJFa3lmRzBzLXFUWWdvSVJBaVhrcTFfaG9HUnNVd0pwYThIclhpcw?oc=5\" target=\"_blank\">Alabama Power Celebrates Wiregrass Partnerships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiregrass Daily News</font>",
+        "published_at": "2026-07-30T01:39:26+00:00",
+        "summary": "Alabama Power hosts Touch-a-Truck event in Montgomery WSFA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG5Wb3VER2JlWTc0UU42WV81RExxem5WLUhTQ1JfWDFqVmFxX1NXaU5CNnhldUZDWmtudjVELVJtMFBkTU1lRDNpNUpRaHh3VjRMS3dXX3dsYWV0dnpUTWJYY2UyazNCdGp1aU5uSmkzVTFfSHpKQ1dxMS1kdlRRTkFzQ3E5cm9rSWdsWEItV1lwc1k?oc=5\" target=\"_blank\">Alabama Power hosts Touch-a-Truck event in Montgomery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-30T01:51:36+00:00"
+        "collected_at": "2026-07-30T22:58:41+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 340,
+      "count": 341,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "ad11f1da7d33199e",
