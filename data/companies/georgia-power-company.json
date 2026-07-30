@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-30T17:19:40+00:00",
+  "last_updated": "2026-07-30T19:16:08+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 338,
+  "count": 340,
   "mentions": [
     {
       "id": "ad11f1da7d33199e",
@@ -75,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-30T15:47:15+00:00"
+    },
+    {
+      "id": "2536451637452ab3",
+      "title": "Georgia Power breaks ground on 'Future of Plant Bowen' - northwestgeorgianews.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVG1Pc0RUR19GZWhqU3RnWGk0STNCMkJpeEdSQmp2SmY4aTAxdmhJVzdIejhQVWhER3NHT25pTENvMlpobnVBSF9EcnRKeGRRTDNBQl8yTHJKbTN1MFg3QXhKYVgtRnlZVjlNZUFQTVExX3dva2huYXBZQUhqUFE3RWN1MGw2d2U2b3lGdUhGOHNXM09YMDRnQ0VXVG02d0MtLXlFV1lKU0lwTmp4XzhDU2tHT295emNPMnRzM2xQSXY3ZFFRbUhrRmhnSE5zcXF3Um1kemNRb1hzRGVoZUc3ZkRRMkFQbmdCM2ZoNzNacm5yOUo2bTFkeFBsMzg?oc=5",
+      "domain": "news.google.com",
+      "source": "northwestgeorgianews.com",
+      "language": "English",
+      "published_at": "2026-07-29T22:00:00+00:00",
+      "summary": "Georgia Power breaks ground on 'Future of Plant Bowen' northwestgeorgianews.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVG1Pc0RUR19GZWhqU3RnWGk0STNCMkJpeEdSQmp2SmY4aTAxdmhJVzdIejhQVWhER3NHT25pTENvMlpobnVBSF9EcnRKeGRRTDNBQl8yTHJKbTN1MFg3QXhKYVgtRnlZVjlNZUFQTVExX3dva2huYXBZQUhqUFE3RWN1MGw2d2U2b3lGdUhGOHNXM09YMDRnQ0VXVG02d0MtLXlFV1lKU0lwTmp4XzhDU2tHT295emNPMnRzM2xQSXY3ZFFRbUhrRmhnSE5zcXF3Um1kemNRb1hzRGVoZUc3ZkRRMkFQbmdCM2ZoNzNacm5yOUo2bTFkeFBsMzg?oc=5\" target=\"_blank\">Georgia Power breaks ground on 'Future of Plant Bowen'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">northwestgeorgianews.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T19:16:08+00:00"
     },
     {
       "id": "a3180bb980a5adb6",
@@ -453,6 +467,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-28T19:14:29+00:00"
+    },
+    {
+      "id": "65ed0b7caf235a7b",
+      "title": "Georgia Power cuts ribbon on Moody Battery Facility - solarbuildermag.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjNkY2FrTFQ4d0RYSWVMRjV2TDVBVzNDZGxlZGpYbmh1azRjbG5BT0JNWnVUVVZKNUxQR3hNc0hSaEhPQy13MlNrd2kwT1dSdHZNVlZNbFY5cE1vMWxMLW5FcHYtQ3VGYms2bTlLZ1loQnZEU2E2UW80aGdla29YeG41LTlIU0tNcDh2Yi1aN3cwak12dXNwNXkzOA?oc=5",
+      "domain": "news.google.com",
+      "source": "solarbuildermag.com",
+      "language": "English",
+      "published_at": "2026-07-28T13:42:20+00:00",
+      "summary": "Georgia Power cuts ribbon on Moody Battery Facility solarbuildermag.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjNkY2FrTFQ4d0RYSWVMRjV2TDVBVzNDZGxlZGpYbmh1azRjbG5BT0JNWnVUVVZKNUxQR3hNc0hSaEhPQy13MlNrd2kwT1dSdHZNVlZNbFY5cE1vMWxMLW5FcHYtQ3VGYms2bTlLZ1loQnZEU2E2UW80aGdla29YeG41LTlIU0tNcDh2Yi1aN3cwak12dXNwNXkzOA?oc=5\" target=\"_blank\">Georgia Power cuts ribbon on Moody Battery Facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">solarbuildermag.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T19:16:08+00:00"
     },
     {
       "id": "85f619faac3b1d27",

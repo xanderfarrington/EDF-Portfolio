@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-30T17:19:50+00:00",
+  "last_updated": "2026-07-30T19:16:19+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 64,
+      "count": 67,
       "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "dee1304602b5c27c",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 151,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "654e7e9262d1557a",
         "title": "Alabama Power Celebrates Wiregrass Partnerships - Wiregrass Daily News",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 29,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "0fada82a957e4d38",
         "title": "Shine receives $263M conditional DOE loan to complete isotope facility - ans.org",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 338,
+      "count": 340,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "ad11f1da7d33199e",

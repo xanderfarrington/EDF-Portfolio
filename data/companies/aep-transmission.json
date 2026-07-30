@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-30T17:19:17+00:00",
+  "last_updated": "2026-07-30T19:15:46+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 64,
+  "count": 67,
   "mentions": [
     {
       "id": "dee1304602b5c27c",
@@ -63,6 +63,20 @@
       "collected_at": "2026-07-29T15:46:41+00:00"
     },
     {
+      "id": "bdd3d1e9a2c00498",
+      "title": "AEP Again Named Most Adoption-Friendly Workplace in Energy and Utilities Sector - csrwire.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONmFaaUlzQmVZUkpQdndvMDhPemxyODVmeXVEdkh0TTZWamxwU2FQUnNyc0NILURhajk4dDBPSWdSSUc2RVJGTlNWcHBfYVpGb1pPVDdyZUdtc196NWpiVERZRV9jSFNMLUVfQ3JpS0hyM3dKUi1ULW5mLXZ5ODZ3b1pTTzM0U0t2c00yWThPS0lYZ19vVWwycGRkRTJuS28wU1Jmc2lVNjFNZHpKMFVheTRhbHo?oc=5",
+      "domain": "news.google.com",
+      "source": "csrwire.com",
+      "language": "English",
+      "published_at": "2026-07-28T19:59:35+00:00",
+      "summary": "AEP Again Named Most Adoption-Friendly Workplace in Energy and Utilities Sector csrwire.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONmFaaUlzQmVZUkpQdndvMDhPemxyODVmeXVEdkh0TTZWamxwU2FQUnNyc0NILURhajk4dDBPSWdSSUc2RVJGTlNWcHBfYVpGb1pPVDdyZUdtc196NWpiVERZRV9jSFNMLUVfQ3JpS0hyM3dKUi1ULW5mLXZ5ODZ3b1pTTzM0U0t2c00yWThPS0lYZ19vVWwycGRkRTJuS28wU1Jmc2lVNjFNZHpKMFVheTRhbHo?oc=5\" target=\"_blank\">AEP Again Named Most Adoption-Friendly Workplace in Energy and Utilities Sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">csrwire.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T19:15:46+00:00"
+    },
+    {
       "id": "487798435be5a864",
       "title": "Working Mother Magazine Honors AEP for Fifth Time - CSRwire",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjdxWmRsVGo2M2R0eUgwRHQ1MmhMR3NzUzZnU0xPbXBZRWp3dHpkRkIzTlViMGlsUkM2NEc0dThLV1hfWUNFdzhQOUFXYS1vcm9ENWFfRm5STmxzZkEydlEybV9QZjZVaUp6WXREOEE3aG1JaHZMa05JQTZlZ1JsS1JRcXI0S3J6YmdKZw?oc=5",
@@ -75,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-29T15:46:41+00:00"
+    },
+    {
+      "id": "f117e2622609de50",
+      "title": "Working Mother Magazine Honors AEP for Fifth Time - csrwire.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjdxWmRsVGo2M2R0eUgwRHQ1MmhMR3NzUzZnU0xPbXBZRWp3dHpkRkIzTlViMGlsUkM2NEc0dThLV1hfWUNFdzhQOUFXYS1vcm9ENWFfRm5STmxzZkEydlEybV9QZjZVaUp6WXREOEE3aG1JaHZMa05JQTZlZ1JsS1JRcXI0S3J6YmdKZw?oc=5",
+      "domain": "news.google.com",
+      "source": "csrwire.com",
+      "language": "English",
+      "published_at": "2026-07-28T17:31:59+00:00",
+      "summary": "Working Mother Magazine Honors AEP for Fifth Time csrwire.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjdxWmRsVGo2M2R0eUgwRHQ1MmhMR3NzUzZnU0xPbXBZRWp3dHpkRkIzTlViMGlsUkM2NEc0dThLV1hfWUNFdzhQOUFXYS1vcm9ENWFfRm5STmxzZkEydlEybV9QZjZVaUp6WXREOEE3aG1JaHZMa05JQTZlZ1JsS1JRcXI0S3J6YmdKZw?oc=5\" target=\"_blank\">Working Mother Magazine Honors AEP for Fifth Time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">csrwire.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T19:15:46+00:00"
     },
     {
       "id": "28df8cffc8c0d101",
@@ -383,6 +411,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-14T04:46:34+00:00"
+    },
+    {
+      "id": "51fa1f59e47c7d2f",
+      "title": "AEP Headquarters Building Earns Recognition For Energy Efficiency Efforts - csrwire.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkVzZ3dNeW1YWGhVNVFyOXF6OHk3OV9wQV9oN1hMaVBjbjhuS3l6WXpiN3d0dWgxcjMtOXBBcXRlYkRLYW9GOGlvWG9EVy1BYWxlc0dSVW9Hc2FFSExOMUVMNWVnS2lPQzhQeGZNcXVtczA1RFBGMm40R2FMNEI2b1JRV240WEh3bHZJRkNFS0hRUkZJTmFDMDEwMlBsQUVudWVRV0hsbkJTM2RU?oc=5",
+      "domain": "news.google.com",
+      "source": "csrwire.com",
+      "language": "English",
+      "published_at": "2026-07-13T21:56:33+00:00",
+      "summary": "AEP Headquarters Building Earns Recognition For Energy Efficiency Efforts csrwire.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkVzZ3dNeW1YWGhVNVFyOXF6OHk3OV9wQV9oN1hMaVBjbjhuS3l6WXpiN3d0dWgxcjMtOXBBcXRlYkRLYW9GOGlvWG9EVy1BYWxlc0dSVW9Hc2FFSExOMUVMNWVnS2lPQzhQeGZNcXVtczA1RFBGMm40R2FMNEI2b1JRV240WEh3bHZJRkNFS0hRUkZJTmFDMDEwMlBsQUVudWVRV0hsbkJTM2RU?oc=5\" target=\"_blank\">AEP Headquarters Building Earns Recognition For Energy Efficiency Efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">csrwire.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-30T19:15:46+00:00"
     },
     {
       "id": "a6054a3fffa98efd",
