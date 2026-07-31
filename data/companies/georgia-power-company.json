@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-31T17:41:37+00:00",
+  "last_updated": "2026-07-31T19:15:03+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 351,
+  "count": 352,
   "mentions": [
+    {
+      "id": "849907a078361b27",
+      "title": "Data center expansion in Georgia has implications for consumers’ power bills - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUpVZ0ZDNGx6bnZXN2dGZm5TQzByajBxU0hHVC12cnlTYVQzSTNnVVNZNUZteTZIYVJBeVE2UFBFdkZhV2lJdjlza3VNcVFzQVhXQVlkVENHNDlDWWl0OS01MGU5MTVQdklpZGJGZ1pXbDhReFd6blRiUEVkQzVMeW5iUmxIdUNCZ2h6T2t4SW1TVGFzaGFQenJqV0V2VkI4WVFDR0ItMlNacTAyZmxsamtn?oc=5",
+      "domain": "news.google.com",
+      "source": "AJC.com",
+      "language": "English",
+      "published_at": "2026-07-31T19:00:53+00:00",
+      "summary": "Data center expansion in Georgia has implications for consumers’ power bills AJC.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUpVZ0ZDNGx6bnZXN2dGZm5TQzByajBxU0hHVC12cnlTYVQzSTNnVVNZNUZteTZIYVJBeVE2UFBFdkZhV2lJdjlza3VNcVFzQVhXQVlkVENHNDlDWWl0OS01MGU5MTVQdklpZGJGZ1pXbDhReFd6blRiUEVkQzVMeW5iUmxIdUNCZ2h6T2t4SW1TVGFzaGFQenJqV0V2VkI4WVFDR0ItMlNacTAyZmxsamtn?oc=5\" target=\"_blank\">Data center expansion in Georgia has implications for consumers’ power bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T19:15:03+00:00"
+    },
     {
       "id": "c6b76b77413ef937",
       "title": "Georgia Power expands Plant Bowen with 1,500 MW gas units and 500 MW battery storage to meet rising demand. - Pluang",
