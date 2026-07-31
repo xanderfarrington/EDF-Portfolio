@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-07-31T20:58:14+00:00",
+  "last_updated": "2026-07-31T22:54:50+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 29,
+  "count": 30,
   "mentions": [
     {
       "id": "989d8de52174b1ef",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-28T19:14:34+00:00"
+    },
+    {
+      "id": "a66f2b2b7fc3263d",
+      "title": "Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies - jdsupra.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX19tU1BuVVktODdZMWpnMkFDZjAwSUNKMVJvVnFJVDI0a05tS1J1Y2NaRVRtYWExb1VKdGNkNjFNN25lTWRMT3dKWTZvN1MxQ0NvMDlnYTZLVG96dDVrLTRCX296QzFZYTVTMnR5NG94RGN5bE5pdGJSazFLZlNJU3pMLWo?oc=5",
+      "domain": "news.google.com",
+      "source": "jdsupra.com",
+      "language": "English",
+      "published_at": "2026-07-28T18:34:39+00:00",
+      "summary": "Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies jdsupra.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOX19tU1BuVVktODdZMWpnMkFDZjAwSUNKMVJvVnFJVDI0a05tS1J1Y2NaRVRtYWExb1VKdGNkNjFNN25lTWRMT3dKWTZvN1MxQ0NvMDlnYTZLVG96dDVrLTRCX296QzFZYTVTMnR5NG94RGN5bE5pdGJSazFLZlNJU3pMLWo?oc=5\" target=\"_blank\">Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jdsupra.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T22:54:50+00:00"
     },
     {
       "id": "0b6e3ce5e41a219a",
