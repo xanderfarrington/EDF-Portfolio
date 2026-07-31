@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-31T06:38:48+00:00",
+  "last_updated": "2026-07-31T10:31:29+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 158,
+  "count": 160,
   "mentions": [
     {
       "id": "5bb3319a5c67471f",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-31T02:09:42+00:00"
+    },
+    {
+      "id": "bf52d43b8f1bc33c",
+      "title": "Southern Company announces $1.2 billion profit in second quarter of 2026 - 1819 News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmYwRmtLdmJ5eXllS0w1LW8tR0h5U3V6R0tFcUpFWFRSMVJhbDlxNDl6WGxzX3E0c0ROVzVEVVpCaHBHdnFZel9HY0VxRnp3NEh1ME5yTEVzcmp5MnMzeW81QjRJZjg2TGFWUnJocTl1MDB3ZnVXTFB1NUxXeFVNS2o1bno1SU9rWWEzT3VlZU1meW4ybEJnNlZjZjVWWk1WZmZQRg?oc=5",
+      "domain": "news.google.com",
+      "source": "1819 News",
+      "language": "English",
+      "published_at": "2026-07-30T19:04:52+00:00",
+      "summary": "Southern Company announces $1.2 billion profit in second quarter of 2026 1819 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmYwRmtLdmJ5eXllS0w1LW8tR0h5U3V6R0tFcUpFWFRSMVJhbDlxNDl6WGxzX3E0c0ROVzVEVVpCaHBHdnFZel9HY0VxRnp3NEh1ME5yTEVzcmp5MnMzeW81QjRJZjg2TGFWUnJocTl1MDB3ZnVXTFB1NUxXeFVNS2o1bno1SU9rWWEzT3VlZU1meW4ybEJnNlZjZjVWWk1WZmZQRg?oc=5\" target=\"_blank\">Southern Company announces $1.2 billion profit in second quarter of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T10:31:29+00:00"
     },
     {
       "id": "9bc6f52546dd8e33",
@@ -831,6 +845,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-28T22:53:58+00:00"
+    },
+    {
+      "id": "f28297b5a833696e",
+      "title": "Trust me on this - lagniappemobile.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRydzgtdjFhOWQwaUFsTldKZEx2dXVfd3Y2MmxObTE5SWFPcUNVZVlSclhhS2RqQ2RhdjFya0JKcTNySkNWYkdsVHlLYWlGWDU3RmhOdWRkWlRuMkRGZWhlUWdXa2FpS29laDNoYmRBYlVNVzBXN3ZsekdRQTllU0VIZG5Ec3o1T0hTaDFSejU4NTQwUVZSZ01wdUQxQzlIaF96M0lNQVZoQ2FpZ2VqVUtsM2N6MWJqSFpWUtIBwgFBVV95cUxNZ1pKVVFrOGdUR21zWjgteF9oZWp0a0cyWDFocExNVC1wUW9oeVI1VU5hUGRNU1RLNlhmSE02OGkzTTVkeXI3d3B5Q19zT0ZjeWFIRlM3MVdzVW55SXFCdDdPTjRlTmZpRTlGN3Q0S3ZrYzNGRmJ4NHhKN29nZG1HX1ZVbk15N0w0ZzBNUk9VMU14NlBIMVNyVmNnZEwxajRnejA2d3NCVG1vWjJBM25tVlVjM095d1dPOXljYVhES0thdw?oc=5",
+      "domain": "news.google.com",
+      "source": "lagniappemobile.com",
+      "language": "English",
+      "published_at": "2026-07-16T07:00:00+00:00",
+      "summary": "Trust me on this lagniappemobile.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRydzgtdjFhOWQwaUFsTldKZEx2dXVfd3Y2MmxObTE5SWFPcUNVZVlSclhhS2RqQ2RhdjFya0JKcTNySkNWYkdsVHlLYWlGWDU3RmhOdWRkWlRuMkRGZWhlUWdXa2FpS29laDNoYmRBYlVNVzBXN3ZsekdRQTllU0VIZG5Ec3o1T0hTaDFSejU4NTQwUVZSZ01wdUQxQzlIaF96M0lNQVZoQ2FpZ2VqVUtsM2N6MWJqSFpWUtIBwgFBVV95cUxNZ1pKVVFrOGdUR21zWjgteF9oZWp0a0cyWDFocExNVC1wUW9oeVI1VU5hUGRNU1RLNlhmSE02OGkzTTVkeXI3d3B5Q19zT0ZjeWFIRlM3MVdzVW55SXFCdDdPTjRlTmZpRTlGN3Q0S3ZrYzNGRmJ4NHhKN29nZG1HX1ZVbk15N0w0ZzBNUk9VMU14NlBIMVNyVmNnZEwxajRnejA2d3NCVG1vWjJBM25tVlVjM095d1dPOXljYVhES0thdw?oc=5\" target=\"_blank\">Trust me on this</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lagniappemobile.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T10:31:29+00:00"
     },
     {
       "id": "d9e37285a37f8efd",

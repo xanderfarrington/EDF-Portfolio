@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-31T06:39:05+00:00",
+  "last_updated": "2026-07-31T10:31:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 341,
+  "count": 342,
   "mentions": [
+    {
+      "id": "79ad9c6893b3d3ab",
+      "title": "Georgia Power makes $7.3 million purchase in Savannah's east side - Savannah Morning News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNEJxSk5paXFGQ1ZTZnJ1djd5eUYwN0JMQnFFQkxJeGZXVkU4M2JWM0ZLOUlGSXhnaExYLVpLLXExUFFXVjBjaE9lN1FjZmJ5bzVRUTBxX2tjbkNjbVg1UjhPZ1JpdEtBdDFxV0hGWjB5RUtudjZHRnprUGE2MTZoVTdlQjNfNjA3WVNTZzY5c0VPcFItVGRIdEdNOVNmWXdHbUZ1cmFPODZfUTVFUUJnMlc2TzVMdXUxdVU0Sw?oc=5",
+      "domain": "news.google.com",
+      "source": "Savannah Morning News",
+      "language": "English",
+      "published_at": "2026-07-31T09:04:00+00:00",
+      "summary": "Georgia Power makes $7.3 million purchase in Savannah's east side Savannah Morning News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNNEJxSk5paXFGQ1ZTZnJ1djd5eUYwN0JMQnFFQkxJeGZXVkU4M2JWM0ZLOUlGSXhnaExYLVpLLXExUFFXVjBjaE9lN1FjZmJ5bzVRUTBxX2tjbkNjbVg1UjhPZ1JpdEtBdDFxV0hGWjB5RUtudjZHRnprUGE2MTZoVTdlQjNfNjA3WVNTZzY5c0VPcFItVGRIdEdNOVNmWXdHbUZ1cmFPODZfUTVFUUJnMlc2TzVMdXUxdVU0Sw?oc=5\" target=\"_blank\">Georgia Power makes $7.3 million purchase in Savannah's east side</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T10:31:45+00:00"
+    },
     {
       "id": "ad11f1da7d33199e",
       "title": "Local teachers attend Georgia Power educator externship - The Rome News-Tribune",
