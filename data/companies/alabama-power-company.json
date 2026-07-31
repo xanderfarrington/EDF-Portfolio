@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-31T15:58:38+00:00",
+  "last_updated": "2026-07-31T17:41:21+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 163,
+  "count": 165,
   "mentions": [
     {
       "id": "5bb3319a5c67471f",
@@ -427,6 +427,20 @@
       "collected_at": "2026-07-31T02:09:42+00:00"
     },
     {
+      "id": "6116b7430731a20e",
+      "title": "Alabama Power tests unmanned drone to speed up power restoration - wvua23.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVdlQTVYU2pCcTBnMS1HVUZ1VHVyaUI0RWNFTUNNdkVtdEJYTkstUTg4SFN1NVlfM3d0NXhtRHdVTS02c3otZ3NLeGYwcEZDblNKdGQ3akxFQmxYTXJzdC1qc3p2TE5CRnBULUFGeU9Rd3E5OEhRWXlweDd6X3Vvak40cklxeXdoTF9qd0ZUenZQWUwwMzJaTlJ3RU1rSWlaZHdFbUYxZF9MRTM0NlVyYlpZekRCMExZdUJWS2FOb2x1RThQMzQ1OWF1aTAyS3NrZ2NJLUQtWkh1UQ?oc=5",
+      "domain": "news.google.com",
+      "source": "wvua23.com",
+      "language": "English",
+      "published_at": "2026-07-24T15:05:11+00:00",
+      "summary": "Alabama Power tests unmanned drone to speed up power restoration wvua23.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVdlQTVYU2pCcTBnMS1HVUZ1VHVyaUI0RWNFTUNNdkVtdEJYTkstUTg4SFN1NVlfM3d0NXhtRHdVTS02c3otZ3NLeGYwcEZDblNKdGQ3akxFQmxYTXJzdC1qc3p2TE5CRnBULUFGeU9Rd3E5OEhRWXlweDd6X3Vvak40cklxeXdoTF9qd0ZUenZQWUwwMzJaTlJ3RU1rSWlaZHdFbUYxZF9MRTM0NlVyYlpZekRCMExZdUJWS2FOb2x1RThQMzQ1OWF1aTAyS3NrZ2NJLUQtWkh1UQ?oc=5\" target=\"_blank\">Alabama Power tests unmanned drone to speed up power restoration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvua23.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T17:41:21+00:00"
+    },
+    {
       "id": "5a7a04365e7335f0",
       "title": "Alabama Power tests unmanned drone to speed up power restoration - WVUA 23",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVdlQTVYU2pCcTBnMS1HVUZ1VHVyaUI0RWNFTUNNdkVtdEJYTkstUTg4SFN1NVlfM3d0NXhtRHdVTS02c3otZ3NLeGYwcEZDblNKdGQ3akxFQmxYTXJzdC1qc3p2TE5CRnBULUFGeU9Rd3E5OEhRWXlweDd6X3Vvak40cklxeXdoTF9qd0ZUenZQWUwwMzJaTlJ3RU1rSWlaZHdFbUYxZF9MRTM0NlVyYlpZekRCMExZdUJWS2FOb2x1RThQMzQ1OWF1aTAyS3NrZ2NJLUQtWkh1UQ?oc=5",
@@ -467,6 +481,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-24T15:22:00+00:00"
+    },
+    {
+      "id": "4c761760634d7c81",
+      "title": "Alabama Power testing new drone to restore power faster - wvua23.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOME5za1N6eDJwMDltMDJLWGlROFhhd2NhSmlTZi0zMkNJbmtJSU1JeTVtOXRQZ3V2cXFPRWVCdXpBOEk4M0E3YlRyY0RXcklOeFlVcGhmZDl2c3JSelZWQXhvdlhIRlVqRWFuXzZldThReHRjRG1EN0hNdDVkYTdKb2ZLMGxEdTBBekU5b0Z3TUdHaVlqUzNTbGo4Q3UxMjAyR3JXLTBTME9qMERSUmh4dHA5Z2h6VXdWb2VOUm8zbHZlMlZkMlZUdF9ENDcyc0l4WnBz?oc=5",
+      "domain": "news.google.com",
+      "source": "wvua23.com",
+      "language": "English",
+      "published_at": "2026-07-23T22:40:00+00:00",
+      "summary": "Alabama Power testing new drone to restore power faster wvua23.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOME5za1N6eDJwMDltMDJLWGlROFhhd2NhSmlTZi0zMkNJbmtJSU1JeTVtOXRQZ3V2cXFPRWVCdXpBOEk4M0E3YlRyY0RXcklOeFlVcGhmZDl2c3JSelZWQXhvdlhIRlVqRWFuXzZldThReHRjRG1EN0hNdDVkYTdKb2ZLMGxEdTBBekU5b0Z3TUdHaVlqUzNTbGo4Q3UxMjAyR3JXLTBTME9qMERSUmh4dHA5Z2h6VXdWb2VOUm8zbHZlMlZkMlZUdF9ENDcyc0l4WnBz?oc=5\" target=\"_blank\">Alabama Power testing new drone to restore power faster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvua23.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T17:41:21+00:00"
     },
     {
       "id": "80e04d981ca5dc9e",
