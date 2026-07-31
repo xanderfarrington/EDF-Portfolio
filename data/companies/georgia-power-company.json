@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-31T13:49:42+00:00",
+  "last_updated": "2026-07-31T15:58:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 346,
+  "count": 348,
   "mentions": [
+    {
+      "id": "a81546794de4a0f3",
+      "title": "Data centers raise electric prices and lower reliability, but not in Georgia - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUFpOC1yNzFkZlFMd3hFWDlSVkJKSVBTajhHNlJ5ZURyT0F1dXM4Zk5KZnpoUmpEZHZMcElsZzEzMlEwUjRnTUVSaGJWTFhmQTNkLXpGOEo5dVpUWFRWd1k5TUp6c3RSUjVRejROaHdlSmFEZTU3RXJXRUlQZGlqRFpZWGVweGp1bnlKUlJ0cEJGOW1nUU85V3Y0bjNSaGFZem5QTndXRzQyUmcxc1M1X1lB?oc=5",
+      "domain": "news.google.com",
+      "source": "AJC.com",
+      "language": "English",
+      "published_at": "2026-07-31T11:42:44+00:00",
+      "summary": "Data centers raise electric prices and lower reliability, but not in Georgia AJC.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUFpOC1yNzFkZlFMd3hFWDlSVkJKSVBTajhHNlJ5ZURyT0F1dXM4Zk5KZnpoUmpEZHZMcElsZzEzMlEwUjRnTUVSaGJWTFhmQTNkLXpGOEo5dVpUWFRWd1k5TUp6c3RSUjVRejROaHdlSmFEZTU3RXJXRUlQZGlqRFpZWGVweGp1bnlKUlJ0cEJGOW1nUU85V3Y0bjNSaGFZem5QTndXRzQyUmcxc1M1X1lB?oc=5\" target=\"_blank\">Data centers raise electric prices and lower reliability, but not in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T15:58:54+00:00"
+    },
     {
       "id": "a6bc745ca950551a",
       "title": "Data centers raise electric prices and lower reliability, but not in Georgia - ajc.com",
@@ -61,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-31T13:49:42+00:00"
+    },
+    {
+      "id": "88d337a29e04f4da",
+      "title": "Southern Company’s data center pipeline keeps filling up - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNW9oVy1pSDV3ckJzdW55UEl3WEtsZmdwWi16dV9NUHpRVDAzQWFpZHg4OWs5OU1vWEEtSExHYXNDbUpiYllUZmJJSTB6QjJxSGo0LUdxLUg5S1UwTnh0dHk4NzZkUFd5MHp0bndVLXk3ZDI5bm5KN0hJcU9TX1NhUDZIam5pdkNfbEdCSVhMQjE0Wm5STmYxQw?oc=5",
+      "domain": "news.google.com",
+      "source": "AJC.com",
+      "language": "English",
+      "published_at": "2026-07-31T00:11:35+00:00",
+      "summary": "Southern Company’s data center pipeline keeps filling up AJC.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNW9oVy1pSDV3ckJzdW55UEl3WEtsZmdwWi16dV9NUHpRVDAzQWFpZHg4OWs5OU1vWEEtSExHYXNDbUpiYllUZmJJSTB6QjJxSGo0LUdxLUg5S1UwTnh0dHk4NzZkUFd5MHp0bndVLXk3ZDI5bm5KN0hJcU9TX1NhUDZIam5pdkNfbEdCSVhMQjE0Wm5STmYxQw?oc=5\" target=\"_blank\">Southern Company’s data center pipeline keeps filling up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T15:58:54+00:00"
     },
     {
       "id": "ad11f1da7d33199e",

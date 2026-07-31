@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T13:49:53+00:00",
+  "last_updated": "2026-07-31T15:59:05+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 161,
+      "count": 163,
       "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "5bb3319a5c67471f",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 346,
+      "count": 348,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "a6bc745ca950551a",
-        "title": "Data centers raise electric prices and lower reliability, but not in Georgia - ajc.com",
+        "id": "a81546794de4a0f3",
+        "title": "Data centers raise electric prices and lower reliability, but not in Georgia - AJC.com",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUFpOC1yNzFkZlFMd3hFWDlSVkJKSVBTajhHNlJ5ZURyT0F1dXM4Zk5KZnpoUmpEZHZMcElsZzEzMlEwUjRnTUVSaGJWTFhmQTNkLXpGOEo5dVpUWFRWd1k5TUp6c3RSUjVRejROaHdlSmFEZTU3RXJXRUlQZGlqRFpZWGVweGp1bnlKUlJ0cEJGOW1nUU85V3Y0bjNSaGFZem5QTndXRzQyUmcxc1M1X1lB?oc=5",
         "domain": "news.google.com",
-        "source": "ajc.com",
+        "source": "AJC.com",
         "language": "English",
-        "published_at": "2026-07-31T11:29:57+00:00",
-        "summary": "Data centers raise electric prices and lower reliability, but not in Georgia ajc.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUFpOC1yNzFkZlFMd3hFWDlSVkJKSVBTajhHNlJ5ZURyT0F1dXM4Zk5KZnpoUmpEZHZMcElsZzEzMlEwUjRnTUVSaGJWTFhmQTNkLXpGOEo5dVpUWFRWd1k5TUp6c3RSUjVRejROaHdlSmFEZTU3RXJXRUlQZGlqRFpZWGVweGp1bnlKUlJ0cEJGOW1nUU85V3Y0bjNSaGFZem5QTndXRzQyUmcxc1M1X1lB?oc=5\" target=\"_blank\">Data centers raise electric prices and lower reliability, but not in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ajc.com</font>",
+        "published_at": "2026-07-31T11:42:44+00:00",
+        "summary": "Data centers raise electric prices and lower reliability, but not in Georgia AJC.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUFpOC1yNzFkZlFMd3hFWDlSVkJKSVBTajhHNlJ5ZURyT0F1dXM4Zk5KZnpoUmpEZHZMcElsZzEzMlEwUjRnTUVSaGJWTFhmQTNkLXpGOEo5dVpUWFRWd1k5TUp6c3RSUjVRejROaHdlSmFEZTU3RXJXRUlQZGlqRFpZWGVweGp1bnlKUlJ0cEJGOW1nUU85V3Y0bjNSaGFZem5QTndXRzQyUmcxc1M1X1lB?oc=5\" target=\"_blank\">Data centers raise electric prices and lower reliability, but not in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-31T13:49:42+00:00"
+        "collected_at": "2026-07-31T15:58:54+00:00"
       }
     },
     {

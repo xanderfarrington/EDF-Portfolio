@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-31T13:49:26+00:00",
+  "last_updated": "2026-07-31T15:58:38+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 161,
+  "count": 163,
   "mentions": [
     {
       "id": "5bb3319a5c67471f",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-31T02:09:42+00:00"
+    },
+    {
+      "id": "2b52eb58fdda58a8",
+      "title": "Alabama Power hosts Touch-a-Truck event in Montgomery - wsfa.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG5Wb3VER2JlWTc0UU42WV81RExxem5WLUhTQ1JfWDFqVmFxX1NXaU5CNnhldUZDWmtudjVELVJtMFBkTU1lRDNpNUpRaHh3VjRMS3dXX3dsYWV0dnpUTWJYY2UyazNCdGp1aU5uSmkzVTFfSHpKQ1dxMS1kdlRRTkFzQ3E5cm9rSWdsWEItV1lwc1k?oc=5",
+      "domain": "news.google.com",
+      "source": "wsfa.com",
+      "language": "English",
+      "published_at": "2026-07-30T22:08:26+00:00",
+      "summary": "Alabama Power hosts Touch-a-Truck event in Montgomery wsfa.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG5Wb3VER2JlWTc0UU42WV81RExxem5WLUhTQ1JfWDFqVmFxX1NXaU5CNnhldUZDWmtudjVELVJtMFBkTU1lRDNpNUpRaHh3VjRMS3dXX3dsYWV0dnpUTWJYY2UyazNCdGp1aU5uSmkzVTFfSHpKQ1dxMS1kdlRRTkFzQ3E5cm9rSWdsWEItV1lwc1k?oc=5\" target=\"_blank\">Alabama Power hosts Touch-a-Truck event in Montgomery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsfa.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T15:58:38+00:00"
     },
     {
       "id": "c2b7b54431db6dac",
@@ -117,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-30T22:58:41+00:00"
+    },
+    {
+      "id": "1bb7d8199d8500ae",
+      "title": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS - AOL.ca",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWnBTb0t0aEtmQUpxN2stTm5pQWxjTkhaQWx6dzNiUVRWZ0xNSWItbTBUQ3UxRnExLVhEV0pqZDhsa05MQ3YxZy1lTWZxSHRXTVN4Sk9LU2VmWFVZTEo1aUY4VXRPUXJqUVFiZm1Jc3VrOWpTSjl1RGpiZDZpcW1YM1FCWHFoa1NQOEE?oc=5",
+      "domain": "news.google.com",
+      "source": "AOL.ca",
+      "language": "English",
+      "published_at": "2026-07-29T17:36:21+00:00",
+      "summary": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS AOL.ca",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQWnBTb0t0aEtmQUpxN2stTm5pQWxjTkhaQWx6dzNiUVRWZ0xNSWItbTBUQ3UxRnExLVhEV0pqZDhsa05MQ3YxZy1lTWZxSHRXTVN4Sk9LU2VmWFVZTEo1aUY4VXRPUXJqUVFiZm1Jc3VrOWpTSjl1RGpiZDZpcW1YM1FCWHFoa1NQOEE?oc=5\" target=\"_blank\">ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.ca</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T15:58:38+00:00"
     },
     {
       "id": "fd9ba09fd5f04b1f",
