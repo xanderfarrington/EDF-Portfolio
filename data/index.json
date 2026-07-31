@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-31T02:10:09+00:00",
+  "last_updated": "2026-07-31T06:39:15+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 68,
+      "count": 70,
       "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "dee1304602b5c27c",

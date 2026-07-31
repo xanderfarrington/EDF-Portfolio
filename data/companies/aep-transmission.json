@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-07-31T02:09:37+00:00",
+  "last_updated": "2026-07-31T06:38:43+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 68,
+  "count": 70,
   "mentions": [
     {
       "id": "dee1304602b5c27c",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-30T17:19:17+00:00"
+    },
+    {
+      "id": "c04b6db6c964066f",
+      "title": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y - tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFFZc3hIU0JadUpxU3Q2bUJhNVhsSU52eFZTNHRCRXBWYmxYZTR1WjY5NEpRM3dMeEJSU09yLTBxbzBXM1MtVnFWanpUcHR0T1RsWFFHSmVRdk5vLXhzaWNkTGhBTXlrbjlEb3Q3QTRkOF9kdjVIMVkwMHJCbTJiTmEzczhzN0d6ZXhoZHNXQWk1ZTcyLUJHdjY0YlBqNXdnZUVVeVZtYUlGdjVJRHdZSVZvTTBJWGk5djNlLTFjb2o?oc=5",
+      "domain": "news.google.com",
+      "source": "tradingview.com",
+      "language": "English",
+      "published_at": "2026-07-30T15:20:00+00:00",
+      "summary": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y tradingview.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFFZc3hIU0JadUpxU3Q2bUJhNVhsSU52eFZTNHRCRXBWYmxYZTR1WjY5NEpRM3dMeEJSU09yLTBxbzBXM1MtVnFWanpUcHR0T1RsWFFHSmVRdk5vLXhzaWNkTGhBTXlrbjlEb3Q3QTRkOF9kdjVIMVkwMHJCbTJiTmEzczhzN0d6ZXhoZHNXQWk1ZTcyLUJHdjY0YlBqNXdnZUVVeVZtYUlGdjVJRHdZSVZvTTBJWGk5djNlLTFjb2o?oc=5\" target=\"_blank\">American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tradingview.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T06:38:43+00:00"
     },
     {
       "id": "54f019d459ee4d8d",
@@ -61,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-30T15:46:53+00:00"
+    },
+    {
+      "id": "5cd22ac0fddbb968",
+      "title": "AEP|American Electric Power Company Inc|Price:128.688|Chg%:-0.712 - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1Rm9iOURPaUNKUDRWSzBTR3BzamxjY3pEUDJpUndpR281VFQtc1VwU2tQUExwbVE2cnVnekR6a0pzeXZnenJ3ZkxOZnJYNWs4cW1hWW9ITmk4ZUpoVEQyZ0NSRk83T2FGSmVVSw?oc=5",
+      "domain": "news.google.com",
+      "source": "TradingKey",
+      "language": "English",
+      "published_at": "2026-07-29T07:00:00+00:00",
+      "summary": "AEP|American Electric Power Company Inc|Price:128.688|Chg%:-0.712 TradingKey",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFA1Rm9iOURPaUNKUDRWSzBTR3BzamxjY3pEUDJpUndpR281VFQtc1VwU2tQUExwbVE2cnVnekR6a0pzeXZnenJ3ZkxOZnJYNWs4cW1hWW9ITmk4ZUpoVEQyZ0NSRk83T2FGSmVVSw?oc=5\" target=\"_blank\">AEP|American Electric Power Company Inc|Price:128.688|Chg%:-0.712</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T06:38:43+00:00"
     },
     {
       "id": "a9e6a509c3db1c27",
