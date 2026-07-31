@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-30T22:59:08+00:00",
+  "last_updated": "2026-07-31T02:10:09+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 67,
+      "count": 68,
       "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "dee1304602b5c27c",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 153,
+      "count": 158,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "9bc6f52546dd8e33",
-        "title": "Alabama Power hosts Touch-a-Truck event in Montgomery - WSFA",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG5Wb3VER2JlWTc0UU42WV81RExxem5WLUhTQ1JfWDFqVmFxX1NXaU5CNnhldUZDWmtudjVELVJtMFBkTU1lRDNpNUpRaHh3VjRMS3dXX3dsYWV0dnpUTWJYY2UyazNCdGp1aU5uSmkzVTFfSHpKQ1dxMS1kdlRRTkFzQ3E5cm9rSWdsWEItV1lwc1k?oc=5",
+        "id": "5bb3319a5c67471f",
+        "title": "Public can read Alabama Power’s data center contract, just not parts that could affect bill - WBRC 6 News",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmlqZkVQa0ZxQjctRl9ZUnRnZ3Q0YTZTb3N3UnVGeGtSZWkzTU03OHpQVFEzazZ0LUNuYTdsUjB2Z0VEbGZPWU9Sb29BbDE0VTNHLVFNcE02UUU3TmtHTWhnLUhIQVhhUy1RQkdTV25nOGU3V3F6MlI5LW1KdVFITkdHM2dneGxTZURyY05sNUZKTmdMVWt3MHg4cmdPekZFZkZ4X3JYaGFiQkJfaU1GN2ppcTVQTC0zdXpDSVVORQ?oc=5",
         "domain": "news.google.com",
-        "source": "WSFA",
+        "source": "WBRC 6 News",
         "language": "English",
-        "published_at": "2026-07-30T01:39:26+00:00",
-        "summary": "Alabama Power hosts Touch-a-Truck event in Montgomery WSFA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG5Wb3VER2JlWTc0UU42WV81RExxem5WLUhTQ1JfWDFqVmFxX1NXaU5CNnhldUZDWmtudjVELVJtMFBkTU1lRDNpNUpRaHh3VjRMS3dXX3dsYWV0dnpUTWJYY2UyazNCdGp1aU5uSmkzVTFfSHpKQ1dxMS1kdlRRTkFzQ3E5cm9rSWdsWEItV1lwc1k?oc=5\" target=\"_blank\">Alabama Power hosts Touch-a-Truck event in Montgomery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
+        "published_at": "2026-07-30T23:10:00+00:00",
+        "summary": "Public can read Alabama Power’s data center contract, just not parts that could affect bill WBRC 6 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmlqZkVQa0ZxQjctRl9ZUnRnZ3Q0YTZTb3N3UnVGeGtSZWkzTU03OHpQVFEzazZ0LUNuYTdsUjB2Z0VEbGZPWU9Sb29BbDE0VTNHLVFNcE02UUU3TmtHTWhnLUhIQVhhUy1RQkdTV25nOGU3V3F6MlI5LW1KdVFITkdHM2dneGxTZURyY05sNUZKTmdMVWt3MHg4cmdPekZFZkZ4X3JYaGFiQkJfaU1GN2ppcTVQTC0zdXpDSVVORQ?oc=5\" target=\"_blank\">Public can read Alabama Power’s data center contract, just not parts that could affect bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC 6 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-30T22:58:41+00:00"
+        "collected_at": "2026-07-31T02:09:42+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 29,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "989d8de52174b1ef",
         "title": "Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies - JD Supra",

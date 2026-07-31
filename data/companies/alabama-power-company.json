@@ -2,10 +2,52 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-30T22:58:41+00:00",
+  "last_updated": "2026-07-31T02:09:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 153,
+  "count": 158,
   "mentions": [
+    {
+      "id": "5bb3319a5c67471f",
+      "title": "Public can read Alabama Power’s data center contract, just not parts that could affect bill - WBRC 6 News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmlqZkVQa0ZxQjctRl9ZUnRnZ3Q0YTZTb3N3UnVGeGtSZWkzTU03OHpQVFEzazZ0LUNuYTdsUjB2Z0VEbGZPWU9Sb29BbDE0VTNHLVFNcE02UUU3TmtHTWhnLUhIQVhhUy1RQkdTV25nOGU3V3F6MlI5LW1KdVFITkdHM2dneGxTZURyY05sNUZKTmdMVWt3MHg4cmdPekZFZkZ4X3JYaGFiQkJfaU1GN2ppcTVQTC0zdXpDSVVORQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC 6 News",
+      "language": "English",
+      "published_at": "2026-07-30T23:10:00+00:00",
+      "summary": "Public can read Alabama Power’s data center contract, just not parts that could affect bill WBRC 6 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmlqZkVQa0ZxQjctRl9ZUnRnZ3Q0YTZTb3N3UnVGeGtSZWkzTU03OHpQVFEzazZ0LUNuYTdsUjB2Z0VEbGZPWU9Sb29BbDE0VTNHLVFNcE02UUU3TmtHTWhnLUhIQVhhUy1RQkdTV25nOGU3V3F6MlI5LW1KdVFITkdHM2dneGxTZURyY05sNUZKTmdMVWt3MHg4cmdPekZFZkZ4X3JYaGFiQkJfaU1GN2ppcTVQTC0zdXpDSVVORQ?oc=5\" target=\"_blank\">Public can read Alabama Power’s data center contract, just not parts that could affect bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC 6 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T02:09:42+00:00"
+    },
+    {
+      "id": "c2b7b54431db6dac",
+      "title": "Alabama Power hosts Touch-a-Truck event in Montgomery - wsfa.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeDdIYTVGSGlDZjN5ZHlCN2R1UXI0YnlHQWZvc1NDVkNEYlk4b0NlUExkdFJoc1dabFhZUjF0X0U0dXdpMlpPdXpQMTluZHI2VVpmQUxzVllOUDlBdVFrRnp5MjYxcjMtaWdCcnljODA4MlJLOGRnT3VMUjV6WjJBMVN6OFBITnZRa3h3dmFfT21DVWdTNVBNZDRsdkJhMEJ2V3liOWRjQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "wsfa.com",
+      "language": "English",
+      "published_at": "2026-07-30T21:43:11+00:00",
+      "summary": "Alabama Power hosts Touch-a-Truck event in Montgomery wsfa.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNeDdIYTVGSGlDZjN5ZHlCN2R1UXI0YnlHQWZvc1NDVkNEYlk4b0NlUExkdFJoc1dabFhZUjF0X0U0dXdpMlpPdXpQMTluZHI2VVpmQUxzVllOUDlBdVFrRnp5MjYxcjMtaWdCcnljODA4MlJLOGRnT3VMUjV6WjJBMVN6OFBITnZRa3h3dmFfT21DVWdTNVBNZDRsdkJhMEJ2V3liOWRjQQ?oc=5\" target=\"_blank\">Alabama Power hosts Touch-a-Truck event in Montgomery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsfa.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T02:09:42+00:00"
+    },
+    {
+      "id": "76b5126105d50b94",
+      "title": "Southern Company announces $1.2 billion profit in second quarter of 2026 - 1819news.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmYwRmtLdmJ5eXllS0w1LW8tR0h5U3V6R0tFcUpFWFRSMVJhbDlxNDl6WGxzX3E0c0ROVzVEVVpCaHBHdnFZel9HY0VxRnp3NEh1ME5yTEVzcmp5MnMzeW81QjRJZjg2TGFWUnJocTl1MDB3ZnVXTFB1NUxXeFVNS2o1bno1SU9rWWEzT3VlZU1meW4ybEJnNlZjZjVWWk1WZmZQRg?oc=5",
+      "domain": "news.google.com",
+      "source": "1819news.com",
+      "language": "English",
+      "published_at": "2026-07-30T19:04:52+00:00",
+      "summary": "Southern Company announces $1.2 billion profit in second quarter of 2026 1819news.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmYwRmtLdmJ5eXllS0w1LW8tR0h5U3V6R0tFcUpFWFRSMVJhbDlxNDl6WGxzX3E0c0ROVzVEVVpCaHBHdnFZel9HY0VxRnp3NEh1ME5yTEVzcmp5MnMzeW81QjRJZjg2TGFWUnJocTl1MDB3ZnVXTFB1NUxXeFVNS2o1bno1SU9rWWEzT3VlZU1meW4ybEJnNlZjZjVWWk1WZmZQRg?oc=5\" target=\"_blank\">Southern Company announces $1.2 billion profit in second quarter of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819news.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T02:09:42+00:00"
+    },
     {
       "id": "9bc6f52546dd8e33",
       "title": "Alabama Power hosts Touch-a-Truck event in Montgomery - WSFA",
@@ -19,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-30T22:58:41+00:00"
+    },
+    {
+      "id": "5319abe21430b691",
+      "title": "Alabama Power, Georgia Power and Mississippi Power All Named to Site Selection Magazine’s 2025 Top Utilities List - CSRwire",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2Q4U0ctS0dib3FYcW1INC1XdGtEZlBVa0tXNHZqV2R6Nnp0VkZhUlpGczItbVNaTHZ0UUc0RXl2eFU0Tkx2d1g4bXlhVUpUU3ZWajc2QkdwQWpqYnV4ODJvUFFBaExTbTBWcUxzRnpkbnpsOFpZeEY1eVFDVjFPdzl0cnFPd2F6TFlPUHo0d2dEUzBEQnJTUkxjZi14WGVhZ3dlWHI1LXhHYXB1Rmc?oc=5",
+      "domain": "news.google.com",
+      "source": "CSRwire",
+      "language": "English",
+      "published_at": "2026-07-30T00:02:59+00:00",
+      "summary": "Alabama Power, Georgia Power and Mississippi Power All Named to Site Selection Magazine’s 2025 Top Utilities List CSRwire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2Q4U0ctS0dib3FYcW1INC1XdGtEZlBVa0tXNHZqV2R6Nnp0VkZhUlpGczItbVNaTHZ0UUc0RXl2eFU0Tkx2d1g4bXlhVUpUU3ZWajc2QkdwQWpqYnV4ODJvUFFBaExTbTBWcUxzRnpkbnpsOFpZeEY1eVFDVjFPdzl0cnFPd2F6TFlPUHo0d2dEUzBEQnJTUkxjZi14WGVhZ3dlWHI1LXhHYXB1Rmc?oc=5\" target=\"_blank\">Alabama Power, Georgia Power and Mississippi Power All Named to Site Selection Magazine’s 2025 Top Utilities List</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CSRwire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T02:09:42+00:00"
     },
     {
       "id": "654e7e9262d1557a",
@@ -313,6 +369,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-29T15:46:47+00:00"
+    },
+    {
+      "id": "da3fb1d05267ea90",
+      "title": "Volkert CEO and KMS founder elected to Alabama Power board - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcW5UTFBub2hlQ2NyNkFwNm5jYmo5VmdhVXdnSW9kNUNta0RIVFVia0JUNTdWTTVROTFQMHA2bkw4ZmNoVVVNMl9reFFINTUtY2NTNUQwTWh5ampXajRaNV83WHRWOENjRjJfeldTNEpXM1FUVWdWaGNRUVJqMnZRNDNPY244S3Bva19GUWVKdmQ2RzNSNm9wMnVLN25nbFE?oc=5",
+      "domain": "news.google.com",
+      "source": "stocktitan.net",
+      "language": "English",
+      "published_at": "2026-07-24T20:40:00+00:00",
+      "summary": "Volkert CEO and KMS founder elected to Alabama Power board stocktitan.net",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcW5UTFBub2hlQ2NyNkFwNm5jYmo5VmdhVXdnSW9kNUNta0RIVFVia0JUNTdWTTVROTFQMHA2bkw4ZmNoVVVNMl9reFFINTUtY2NTNUQwTWh5ampXajRaNV83WHRWOENjRjJfeldTNEpXM1FUVWdWaGNRUVJqMnZRNDNPY244S3Bva19GUWVKdmQ2RzNSNm9wMnVLN25nbFE?oc=5\" target=\"_blank\">Volkert CEO and KMS founder elected to Alabama Power board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stocktitan.net</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T02:09:42+00:00"
     },
     {
       "id": "5a7a04365e7335f0",
