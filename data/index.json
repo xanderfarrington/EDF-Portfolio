@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T19:15:14+00:00",
+  "last_updated": "2026-07-31T20:58:19+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 165,
+      "count": 166,
       "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "5bb3319a5c67471f",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 352,
+      "count": 355,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "849907a078361b27",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 29,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "989d8de52174b1ef",
         "title": "Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies - JD Supra",

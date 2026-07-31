@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-31T19:14:46+00:00",
+  "last_updated": "2026-07-31T20:57:52+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 165,
+  "count": 166,
   "mentions": [
     {
       "id": "5bb3319a5c67471f",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-31T02:09:42+00:00"
+    },
+    {
+      "id": "21066a71f7ced991",
+      "title": "Alabama Power hosts 'Touch-a-Truck' event in Montgomery - WSFA",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG5Wb3VER2JlWTc0UU42WV81RExxem5WLUhTQ1JfWDFqVmFxX1NXaU5CNnhldUZDWmtudjVELVJtMFBkTU1lRDNpNUpRaHh3VjRMS3dXX3dsYWV0dnpUTWJYY2UyazNCdGp1aU5uSmkzVTFfSHpKQ1dxMS1kdlRRTkFzQ3E5cm9rSWdsWEItV1lwc1k?oc=5",
+      "domain": "news.google.com",
+      "source": "WSFA",
+      "language": "English",
+      "published_at": "2026-07-30T21:33:01+00:00",
+      "summary": "Alabama Power hosts 'Touch-a-Truck' event in Montgomery WSFA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG5Wb3VER2JlWTc0UU42WV81RExxem5WLUhTQ1JfWDFqVmFxX1NXaU5CNnhldUZDWmtudjVELVJtMFBkTU1lRDNpNUpRaHh3VjRMS3dXX3dsYWV0dnpUTWJYY2UyazNCdGp1aU5uSmkzVTFfSHpKQ1dxMS1kdlRRTkFzQ3E5cm9rSWdsWEItV1lwc1k?oc=5\" target=\"_blank\">Alabama Power hosts 'Touch-a-Truck' event in Montgomery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T20:57:52+00:00"
     },
     {
       "id": "76b5126105d50b94",
