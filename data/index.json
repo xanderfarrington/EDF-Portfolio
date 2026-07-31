@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T10:31:56+00:00",
+  "last_updated": "2026-07-31T13:49:53+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 160,
-      "new_mentions_this_run": 25,
+      "count": 161,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "5bb3319a5c67471f",
         "title": "Public can read Alabama Power’s data center contract, just not parts that could affect bill - WBRC 6 News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 342,
+      "count": 346,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "79ad9c6893b3d3ab",
-        "title": "Georgia Power makes $7.3 million purchase in Savannah's east side - Savannah Morning News",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNEJxSk5paXFGQ1ZTZnJ1djd5eUYwN0JMQnFFQkxJeGZXVkU4M2JWM0ZLOUlGSXhnaExYLVpLLXExUFFXVjBjaE9lN1FjZmJ5bzVRUTBxX2tjbkNjbVg1UjhPZ1JpdEtBdDFxV0hGWjB5RUtudjZHRnprUGE2MTZoVTdlQjNfNjA3WVNTZzY5c0VPcFItVGRIdEdNOVNmWXdHbUZ1cmFPODZfUTVFUUJnMlc2TzVMdXUxdVU0Sw?oc=5",
+        "id": "a6bc745ca950551a",
+        "title": "Data centers raise electric prices and lower reliability, but not in Georgia - ajc.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUFpOC1yNzFkZlFMd3hFWDlSVkJKSVBTajhHNlJ5ZURyT0F1dXM4Zk5KZnpoUmpEZHZMcElsZzEzMlEwUjRnTUVSaGJWTFhmQTNkLXpGOEo5dVpUWFRWd1k5TUp6c3RSUjVRejROaHdlSmFEZTU3RXJXRUlQZGlqRFpZWGVweGp1bnlKUlJ0cEJGOW1nUU85V3Y0bjNSaGFZem5QTndXRzQyUmcxc1M1X1lB?oc=5",
         "domain": "news.google.com",
-        "source": "Savannah Morning News",
+        "source": "ajc.com",
         "language": "English",
-        "published_at": "2026-07-31T09:04:00+00:00",
-        "summary": "Georgia Power makes $7.3 million purchase in Savannah's east side Savannah Morning News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNNEJxSk5paXFGQ1ZTZnJ1djd5eUYwN0JMQnFFQkxJeGZXVkU4M2JWM0ZLOUlGSXhnaExYLVpLLXExUFFXVjBjaE9lN1FjZmJ5bzVRUTBxX2tjbkNjbVg1UjhPZ1JpdEtBdDFxV0hGWjB5RUtudjZHRnprUGE2MTZoVTdlQjNfNjA3WVNTZzY5c0VPcFItVGRIdEdNOVNmWXdHbUZ1cmFPODZfUTVFUUJnMlc2TzVMdXUxdVU0Sw?oc=5\" target=\"_blank\">Georgia Power makes $7.3 million purchase in Savannah's east side</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+        "published_at": "2026-07-31T11:29:57+00:00",
+        "summary": "Data centers raise electric prices and lower reliability, but not in Georgia ajc.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUFpOC1yNzFkZlFMd3hFWDlSVkJKSVBTajhHNlJ5ZURyT0F1dXM4Zk5KZnpoUmpEZHZMcElsZzEzMlEwUjRnTUVSaGJWTFhmQTNkLXpGOEo5dVpUWFRWd1k5TUp6c3RSUjVRejROaHdlSmFEZTU3RXJXRUlQZGlqRFpZWGVweGp1bnlKUlJ0cEJGOW1nUU85V3Y0bjNSaGFZem5QTndXRzQyUmcxc1M1X1lB?oc=5\" target=\"_blank\">Data centers raise electric prices and lower reliability, but not in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ajc.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-31T10:31:45+00:00"
+        "collected_at": "2026-07-31T13:49:42+00:00"
       }
     },
     {

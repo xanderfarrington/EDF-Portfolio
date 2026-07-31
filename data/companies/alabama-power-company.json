@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-07-31T10:31:29+00:00",
+  "last_updated": "2026-07-31T13:49:26+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 160,
+  "count": 161,
   "mentions": [
     {
       "id": "5bb3319a5c67471f",
@@ -859,6 +859,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-31T10:31:29+00:00"
+    },
+    {
+      "id": "5e84cfb0d0b650c3",
+      "title": "UWA partners with Alabama Power for Safe-T-Zone training - uwa.edu",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXl2elpjczhhWHZmZ0pBeFMzUE9VWmZOc0tmejhDWFdpSktNMWRXTW1xNDV0eE1vaFA4UWtUMHJmTTM1T1dEVnJsY1BKUWpId0tzY1lIMlI4dTZSaUhtVElBMXJkUlZ2SlNwczlpeE05LXpweXUycHZYYXp1YkUxeE1CRmlBQnA2UGc?oc=5",
+      "domain": "news.google.com",
+      "source": "uwa.edu",
+      "language": "English",
+      "published_at": "2026-07-16T07:00:00+00:00",
+      "summary": "UWA partners with Alabama Power for Safe-T-Zone training uwa.edu",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXl2elpjczhhWHZmZ0pBeFMzUE9VWmZOc0tmejhDWFdpSktNMWRXTW1xNDV0eE1vaFA4UWtUMHJmTTM1T1dEVnJsY1BKUWpId0tzY1lIMlI4dTZSaUhtVElBMXJkUlZ2SlNwczlpeE05LXpweXUycHZYYXp1YkUxeE1CRmlBQnA2UGc?oc=5\" target=\"_blank\">UWA partners with Alabama Power for Safe-T-Zone training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uwa.edu</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T13:49:26+00:00"
     },
     {
       "id": "d9e37285a37f8efd",

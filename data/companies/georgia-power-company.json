@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-07-31T10:31:45+00:00",
+  "last_updated": "2026-07-31T13:49:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 342,
+  "count": 346,
   "mentions": [
+    {
+      "id": "a6bc745ca950551a",
+      "title": "Data centers raise electric prices and lower reliability, but not in Georgia - ajc.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUFpOC1yNzFkZlFMd3hFWDlSVkJKSVBTajhHNlJ5ZURyT0F1dXM4Zk5KZnpoUmpEZHZMcElsZzEzMlEwUjRnTUVSaGJWTFhmQTNkLXpGOEo5dVpUWFRWd1k5TUp6c3RSUjVRejROaHdlSmFEZTU3RXJXRUlQZGlqRFpZWGVweGp1bnlKUlJ0cEJGOW1nUU85V3Y0bjNSaGFZem5QTndXRzQyUmcxc1M1X1lB?oc=5",
+      "domain": "news.google.com",
+      "source": "ajc.com",
+      "language": "English",
+      "published_at": "2026-07-31T11:29:57+00:00",
+      "summary": "Data centers raise electric prices and lower reliability, but not in Georgia ajc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUFpOC1yNzFkZlFMd3hFWDlSVkJKSVBTajhHNlJ5ZURyT0F1dXM4Zk5KZnpoUmpEZHZMcElsZzEzMlEwUjRnTUVSaGJWTFhmQTNkLXpGOEo5dVpUWFRWd1k5TUp6c3RSUjVRejROaHdlSmFEZTU3RXJXRUlQZGlqRFpZWGVweGp1bnlKUlJ0cEJGOW1nUU85V3Y0bjNSaGFZem5QTndXRzQyUmcxc1M1X1lB?oc=5\" target=\"_blank\">Data centers raise electric prices and lower reliability, but not in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ajc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T13:49:42+00:00"
+    },
+    {
+      "id": "6126629d30333c43",
+      "title": "Georgia Power 100 concludes with these top ATHs in the state - ajc.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGtkb3VXLXFFOTljT2VTLWltQmpXS005RjJXUWZzY1VST2N2Qk5lYTBwSUNqUnktcEdtbFc4YzJ4TEdDV01MZnNjdVVGaDJuTXVhZHVjVEFYYWJkYmVHa0FlcHMxSkRPNU1KSk4zcVJYNEtiOURNRWF5LVBHZkdObWh1eHQ3dk1kTXE1MGxGR1VOX1c5cWdNVGVJQkQ?oc=5",
+      "domain": "news.google.com",
+      "source": "ajc.com",
+      "language": "English",
+      "published_at": "2026-07-31T09:11:35+00:00",
+      "summary": "Georgia Power 100 concludes with these top ATHs in the state ajc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGtkb3VXLXFFOTljT2VTLWltQmpXS005RjJXUWZzY1VST2N2Qk5lYTBwSUNqUnktcEdtbFc4YzJ4TEdDV01MZnNjdVVGaDJuTXVhZHVjVEFYYWJkYmVHa0FlcHMxSkRPNU1KSk4zcVJYNEtiOURNRWF5LVBHZkdObWh1eHQ3dk1kTXE1MGxGR1VOX1c5cWdNVGVJQkQ?oc=5\" target=\"_blank\">Georgia Power 100 concludes with these top ATHs in the state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ajc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T13:49:42+00:00"
+    },
     {
       "id": "79ad9c6893b3d3ab",
       "title": "Georgia Power makes $7.3 million purchase in Savannah's east side - Savannah Morning News",
@@ -19,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-31T10:31:45+00:00"
+    },
+    {
+      "id": "744fc41fcae1b5f8",
+      "title": "Southern Company’s data center pipeline keeps filling up - ajc.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNW9oVy1pSDV3ckJzdW55UEl3WEtsZmdwWi16dV9NUHpRVDAzQWFpZHg4OWs5OU1vWEEtSExHYXNDbUpiYllUZmJJSTB6QjJxSGo0LUdxLUg5S1UwTnh0dHk4NzZkUFd5MHp0bndVLXk3ZDI5bm5KN0hJcU9TX1NhUDZIam5pdkNfbEdCSVhMQjE0Wm5STmYxQw?oc=5",
+      "domain": "news.google.com",
+      "source": "ajc.com",
+      "language": "English",
+      "published_at": "2026-07-31T00:11:35+00:00",
+      "summary": "Southern Company’s data center pipeline keeps filling up ajc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNW9oVy1pSDV3ckJzdW55UEl3WEtsZmdwWi16dV9NUHpRVDAzQWFpZHg4OWs5OU1vWEEtSExHYXNDbUpiYllUZmJJSTB6QjJxSGo0LUdxLUg5S1UwTnh0dHk4NzZkUFd5MHp0bndVLXk3ZDI5bm5KN0hJcU9TX1NhUDZIam5pdkNfbEdCSVhMQjE0Wm5STmYxQw?oc=5\" target=\"_blank\">Southern Company’s data center pipeline keeps filling up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ajc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T13:49:42+00:00"
     },
     {
       "id": "ad11f1da7d33199e",
@@ -47,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-30T13:44:37+00:00"
+    },
+    {
+      "id": "541b47795b6f12b3",
+      "title": "Georgia Power 100 specialists: Two top-10 nationally ranked kickers make list - ajc.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTBrSDJTbzA2cURSYmxzOTJXOUVESWZNd2tqNnBJSWZmeFlwdXA3Yy05dS1MWGI4aFA3U0FwTF9nbmxqbE4yWVJtN0RpNkZ1bktUcXFRTFB1ODI1MTJiWm42OXNnUUhpVWFDU0VHMEhTNlRGaHl2WDJ5U2xPRlV6NDF2VEtyRmpEemRXR0x5UFczZXlLWmhwWVdrTV9WYVlUaVlfTHR3SGNrTFRjbXZEMUNR?oc=5",
+      "domain": "news.google.com",
+      "source": "ajc.com",
+      "language": "English",
+      "published_at": "2026-07-30T09:52:42+00:00",
+      "summary": "Georgia Power 100 specialists: Two top-10 nationally ranked kickers make list ajc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTBrSDJTbzA2cURSYmxzOTJXOUVESWZNd2tqNnBJSWZmeFlwdXA3Yy05dS1MWGI4aFA3U0FwTF9nbmxqbE4yWVJtN0RpNkZ1bktUcXFRTFB1ODI1MTJiWm42OXNnUUhpVWFDU0VHMEhTNlRGaHl2WDJ5U2xPRlV6NDF2VEtyRmpEemRXR0x5UFczZXlLWmhwWVdrTV9WYVlUaVlfTHR3SGNrTFRjbXZEMUNR?oc=5\" target=\"_blank\">Georgia Power 100 specialists: Two top-10 nationally ranked kickers make list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ajc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-07-31T13:49:42+00:00"
     },
     {
       "id": "a7d9cde26b584321",
