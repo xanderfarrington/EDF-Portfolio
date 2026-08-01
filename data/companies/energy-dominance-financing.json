@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-08-01T02:11:32+00:00",
+  "last_updated": "2026-08-01T06:23:18+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 30,
+  "count": 31,
   "mentions": [
+    {
+      "id": "addfbf3308caf432",
+      "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5",
+      "domain": "news.google.com",
+      "source": "energy.gov",
+      "language": "English",
+      "published_at": "2026-07-29T13:26:32+00:00",
+      "summary": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing energy.gov",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5\" target=\"_blank\">NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energy.gov</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-01T06:23:18+00:00"
+    },
     {
       "id": "989d8de52174b1ef",
       "title": "Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies - JD Supra",

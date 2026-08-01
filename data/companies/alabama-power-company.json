@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-01T02:11:10+00:00",
+  "last_updated": "2026-08-01T06:22:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 166,
+  "count": 167,
   "mentions": [
     {
       "id": "5bb3319a5c67471f",
@@ -159,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-31T15:58:38+00:00"
+    },
+    {
+      "id": "c1fa10c32b5e0cf8",
+      "title": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS - aol.ca",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWnBTb0t0aEtmQUpxN2stTm5pQWxjTkhaQWx6dzNiUVRWZ0xNSWItbTBUQ3UxRnExLVhEV0pqZDhsa05MQ3YxZy1lTWZxSHRXTVN4Sk9LU2VmWFVZTEo1aUY4VXRPUXJqUVFiZm1Jc3VrOWpTSjl1RGpiZDZpcW1YM1FCWHFoa1NQOEE?oc=5",
+      "domain": "news.google.com",
+      "source": "aol.ca",
+      "language": "English",
+      "published_at": "2026-07-29T17:36:21+00:00",
+      "summary": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS aol.ca",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQWnBTb0t0aEtmQUpxN2stTm5pQWxjTkhaQWx6dzNiUVRWZ0xNSWItbTBUQ3UxRnExLVhEV0pqZDhsa05MQ3YxZy1lTWZxSHRXTVN4Sk9LU2VmWFVZTEo1aUY4VXRPUXJqUVFiZm1Jc3VrOWpTSjl1RGpiZDZpcW1YM1FCWHFoa1NQOEE?oc=5\" target=\"_blank\">ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aol.ca</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-01T06:22:56+00:00"
     },
     {
       "id": "fd9ba09fd5f04b1f",

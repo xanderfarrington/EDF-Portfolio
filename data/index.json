@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T02:11:37+00:00",
+  "last_updated": "2026-08-01T06:23:23+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 166,
+      "count": 167,
       "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "5bb3319a5c67471f",
@@ -47,21 +47,21 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 29,
-      "new_mentions_this_run": 2,
+      "count": 30,
+      "new_mentions_this_run": 1,
       "latest_mention": {
-        "id": "0fada82a957e4d38",
-        "title": "Shine receives $263M conditional DOE loan to complete isotope facility - ans.org",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5",
+        "id": "addfbf3308caf432",
+        "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5",
         "domain": "news.google.com",
-        "source": "ans.org",
+        "source": "energy.gov",
         "language": "English",
-        "published_at": "2026-07-28T17:39:25+00:00",
-        "summary": "Shine receives $263M conditional DOE loan to complete isotope facility ans.org",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFE1ZldYZ3VhSkFvUERSZ3A2ZEZVWFd2VGZvaG1tOHlJWkRsOE5UNF9OcmtUM0dWRU56b3hyS202bjZxLURJak96ZlhmZlRFV3dVNDJPVzNkRjg5dTFkRF9Na0R2cXRLODBqRzVDRmhvc3JMVlJMaVhMN1ZMbEI0MWNydHA0cVRxSW8wdDlEdkxnRWJyVkVxQV9DclBsbzBsbDZNOHgyZF9XX2N3?oc=5\" target=\"_blank\">Shine receives $263M conditional DOE loan to complete isotope facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ans.org</font>",
+        "published_at": "2026-07-29T13:26:32+00:00",
+        "summary": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing energy.gov",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5\" target=\"_blank\">NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energy.gov</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-30T01:51:41+00:00"
+        "collected_at": "2026-08-01T06:23:01+00:00"
       }
     },
     {
@@ -89,42 +89,42 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 356,
+      "count": 357,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "849907a078361b27",
-        "title": "Data center expansion in Georgia has implications for consumers’ power bills - AJC.com",
+        "id": "f5021fad031cb5fc",
+        "title": "Data center expansion in Georgia has implications for consumers’ power bills - ajc.com",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUpVZ0ZDNGx6bnZXN2dGZm5TQzByajBxU0hHVC12cnlTYVQzSTNnVVNZNUZteTZIYVJBeVE2UFBFdkZhV2lJdjlza3VNcVFzQVhXQVlkVENHNDlDWWl0OS01MGU5MTVQdklpZGJGZ1pXbDhReFd6blRiUEVkQzVMeW5iUmxIdUNCZ2h6T2t4SW1TVGFzaGFQenJqV0V2VkI4WVFDR0ItMlNacTAyZmxsamtn?oc=5",
         "domain": "news.google.com",
-        "source": "AJC.com",
+        "source": "ajc.com",
         "language": "English",
-        "published_at": "2026-07-31T19:00:53+00:00",
-        "summary": "Data center expansion in Georgia has implications for consumers’ power bills AJC.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUpVZ0ZDNGx6bnZXN2dGZm5TQzByajBxU0hHVC12cnlTYVQzSTNnVVNZNUZteTZIYVJBeVE2UFBFdkZhV2lJdjlza3VNcVFzQVhXQVlkVENHNDlDWWl0OS01MGU5MTVQdklpZGJGZ1pXbDhReFd6blRiUEVkQzVMeW5iUmxIdUNCZ2h6T2t4SW1TVGFzaGFQenJqV0V2VkI4WVFDR0ItMlNacTAyZmxsamtn?oc=5\" target=\"_blank\">Data center expansion in Georgia has implications for consumers’ power bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+        "published_at": "2026-07-31T19:31:54+00:00",
+        "summary": "Data center expansion in Georgia has implications for consumers’ power bills ajc.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUpVZ0ZDNGx6bnZXN2dGZm5TQzByajBxU0hHVC12cnlTYVQzSTNnVVNZNUZteTZIYVJBeVE2UFBFdkZhV2lJdjlza3VNcVFzQVhXQVlkVENHNDlDWWl0OS01MGU5MTVQdklpZGJGZ1pXbDhReFd6blRiUEVkQzVMeW5iUmxIdUNCZ2h6T2t4SW1TVGFzaGFQenJqV0V2VkI4WVFDR0ItMlNacTAyZmxsamtn?oc=5\" target=\"_blank\">Data center expansion in Georgia has implications for consumers’ power bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ajc.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-31T19:15:03+00:00"
+        "collected_at": "2026-08-01T06:23:12+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 30,
+      "count": 31,
       "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "989d8de52174b1ef",
-        "title": "Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies - JD Supra",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX19tU1BuVVktODdZMWpnMkFDZjAwSUNKMVJvVnFJVDI0a05tS1J1Y2NaRVRtYWExb1VKdGNkNjFNN25lTWRMT3dKWTZvN1MxQ0NvMDlnYTZLVG96dDVrLTRCX296QzFZYTVTMnR5NG94RGN5bE5pdGJSazFLZlNJU3pMLWo?oc=5",
+        "id": "addfbf3308caf432",
+        "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5",
         "domain": "news.google.com",
-        "source": "JD Supra",
+        "source": "energy.gov",
         "language": "English",
-        "published_at": "2026-07-28T18:34:39+00:00",
-        "summary": "Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies JD Supra",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOX19tU1BuVVktODdZMWpnMkFDZjAwSUNKMVJvVnFJVDI0a05tS1J1Y2NaRVRtYWExb1VKdGNkNjFNN25lTWRMT3dKWTZvN1MxQ0NvMDlnYTZLVG96dDVrLTRCX296QzFZYTVTMnR5NG94RGN5bE5pdGJSazFLZlNJU3pMLWo?oc=5\" target=\"_blank\">Ten Common Misconceptions About DOE Energy Dominance Financing | Mintz - ML Strategies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>",
+        "published_at": "2026-07-29T13:26:32+00:00",
+        "summary": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing energy.gov",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5\" target=\"_blank\">NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energy.gov</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-28T19:14:34+00:00"
+        "collected_at": "2026-08-01T06:23:18+00:00"
       }
     }
   ]
