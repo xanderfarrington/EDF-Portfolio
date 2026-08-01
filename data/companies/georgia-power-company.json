@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-01T16:53:47+00:00",
+  "last_updated": "2026-08-01T18:59:50+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 357,
+  "count": 358,
   "mentions": [
     {
       "id": "f5021fad031cb5fc",
@@ -537,6 +537,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-28T22:54:15+00:00"
+    },
+    {
+      "id": "64dd3643da0507a2",
+      "title": "Work begins on expansion of decades-old Georgia Power plant - wsbradio.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUXNrbjN4R2NTWWthRGVZZDN4T3FLTUZlM3JtYVctWEhsdDNSdVpQSlc0cllILUloUFVvMmFmZE56X24zUXlodDlJWHVZSmdFNEZfYnlDdlAybkxyS25pY3o5UXFfY2hPMldDVjZTaXhrWTFwdTNoeDNNUDdhdW9zSzJjLTlzdHQ1SWNwNlhhMlFFTnhpUVdjMjFlZExEUG1oZmVJMkVPOUNpa0pXUDFCTV9QWm5tclR30gHMAUFVX3lxTE4za0UyZU9FOXI2X0J2OV9CRjhUbFV2OGdBTWFudFV4dFJ3T0NXYWhDZmVCbllWeTIyY3N5MEdZWGZ6QTJQa2hZcDE4OTFjNUNzb3NRWEowTDNqSGlLNE9uOGxYWFlENEgtcll1MVppRy0yOGpPTmg0d29BVjJ6OTJOQXZ1NW9yYldobUVDbGtzYXVjY0RlM0dGZmlSaXhzck1tYWEzRVF1TjhGNTl4QnhUdVFCR1d3eVducWZET3kzSERQbm5vSnBnenBJVA?oc=5",
+      "domain": "news.google.com",
+      "source": "wsbradio.com",
+      "language": "English",
+      "published_at": "2026-07-28T21:37:20+00:00",
+      "summary": "Work begins on expansion of decades-old Georgia Power plant wsbradio.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUXNrbjN4R2NTWWthRGVZZDN4T3FLTUZlM3JtYVctWEhsdDNSdVpQSlc0cllILUloUFVvMmFmZE56X24zUXlodDlJWHVZSmdFNEZfYnlDdlAybkxyS25pY3o5UXFfY2hPMldDVjZTaXhrWTFwdTNoeDNNUDdhdW9zSzJjLTlzdHQ1SWNwNlhhMlFFTnhpUVdjMjFlZExEUG1oZmVJMkVPOUNpa0pXUDFCTV9QWm5tclR30gHMAUFVX3lxTE4za0UyZU9FOXI2X0J2OV9CRjhUbFV2OGdBTWFudFV4dFJ3T0NXYWhDZmVCbllWeTIyY3N5MEdZWGZ6QTJQa2hZcDE4OTFjNUNzb3NRWEowTDNqSGlLNE9uOGxYWFlENEgtcll1MVppRy0yOGpPTmg0d29BVjJ6OTJOQXZ1NW9yYldobUVDbGtzYXVjY0RlM0dGZmlSaXhzck1tYWEzRVF1TjhGNTl4QnhUdVFCR1d3eVducWZET3kzSERQbm5vSnBnenBJVA?oc=5\" target=\"_blank\">Work begins on expansion of decades-old Georgia Power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsbradio.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-01T18:59:50+00:00"
     },
     {
       "id": "7d7398c43519c9c9",
