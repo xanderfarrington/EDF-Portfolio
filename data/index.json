@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-02T19:00:52+00:00",
+  "last_updated": "2026-08-02T20:46:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 72,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "dee1304602b5c27c",
         "title": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y - TradingView",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 31,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "addfbf3308caf432",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
