@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T13:06:54+00:00",
+  "last_updated": "2026-08-02T14:57:15+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 169,
-      "new_mentions_this_run": 19,
+      "count": 171,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "c3eaca6246540a63",
         "title": "Alabama Power hosts 'Touch-a-Truck' event in Montgomery - wsfa.com",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 30,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "addfbf3308caf432",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",

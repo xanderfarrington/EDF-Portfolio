@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-02T13:06:27+00:00",
+  "last_updated": "2026-08-02T14:56:48+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 169,
+  "count": 171,
   "mentions": [
     {
       "id": "c3eaca6246540a63",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-31T02:09:42+00:00"
+    },
+    {
+      "id": "eb841413d090d3c2",
+      "title": "Public can read Alabama Power’s data center contract, just not parts that could affect bill - wbrc.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmlqZkVQa0ZxQjctRl9ZUnRnZ3Q0YTZTb3N3UnVGeGtSZWkzTU03OHpQVFEzazZ0LUNuYTdsUjB2Z0VEbGZPWU9Sb29BbDE0VTNHLVFNcE02UUU3TmtHTWhnLUhIQVhhUy1RQkdTV25nOGU3V3F6MlI5LW1KdVFITkdHM2dneGxTZURyY05sNUZKTmdMVWt3MHg4cmdPekZFZkZ4X3JYaGFiQkJfaU1GN2ppcTVQTC0zdXpDSVVORQ?oc=5",
+      "domain": "news.google.com",
+      "source": "wbrc.com",
+      "language": "English",
+      "published_at": "2026-07-30T23:10:00+00:00",
+      "summary": "Public can read Alabama Power’s data center contract, just not parts that could affect bill wbrc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmlqZkVQa0ZxQjctRl9ZUnRnZ3Q0YTZTb3N3UnVGeGtSZWkzTU03OHpQVFEzazZ0LUNuYTdsUjB2Z0VEbGZPWU9Sb29BbDE0VTNHLVFNcE02UUU3TmtHTWhnLUhIQVhhUy1RQkdTV25nOGU3V3F6MlI5LW1KdVFITkdHM2dneGxTZURyY05sNUZKTmdMVWt3MHg4cmdPekZFZkZ4X3JYaGFiQkJfaU1GN2ppcTVQTC0zdXpDSVVORQ?oc=5\" target=\"_blank\">Public can read Alabama Power’s data center contract, just not parts that could affect bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wbrc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-02T14:56:48+00:00"
     },
     {
       "id": "2b52eb58fdda58a8",
@@ -187,6 +201,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-01T06:22:56+00:00"
+    },
+    {
+      "id": "ad9d236e78d94c09",
+      "title": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS - conwaydailysun.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ3lhbm56Y3MtNlhiWU54anBUWndaQU00T1VuZWl4a24zV0YxeEVSRC1adXVxWjU3VVJjNjRDVmJUU2UtZ2hXNGNRMFdIUFMwMTlzU3FFOHhNYlFMZE0tWml0VmlxeEx6ZHNmOERhTHk3VnA4c2xqOFYtU0ZWLUV4bmtxSVBUdXd0RVI5Y0dFQjl5TV9Cb1ZvRl9sam9sRUV4ajhReGNxdlM5VXNoSWprWFhHOEVLeTV2WlBOUG5WTnE4TU5KSlh4YVdqZTFta3pVMjlSVFBqWDZuWU9XemNaYTBIS05BRHhzb0w5eXVrNV8yMzhERzdTdzRfVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "conwaydailysun.com",
+      "language": "English",
+      "published_at": "2026-07-29T07:13:42+00:00",
+      "summary": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS conwaydailysun.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ3lhbm56Y3MtNlhiWU54anBUWndaQU00T1VuZWl4a24zV0YxeEVSRC1adXVxWjU3VVJjNjRDVmJUU2UtZ2hXNGNRMFdIUFMwMTlzU3FFOHhNYlFMZE0tWml0VmlxeEx6ZHNmOERhTHk3VnA4c2xqOFYtU0ZWLUV4bmtxSVBUdXd0RVI5Y0dFQjl5TV9Cb1ZvRl9sam9sRUV4ajhReGNxdlM5VXNoSWprWFhHOEVLeTV2WlBOUG5WTnE4TU5KSlh4YVdqZTFta3pVMjlSVFBqWDZuWU9XemNaYTBIS05BRHhzb0w5eXVrNV8yMzhERzdTdzRfVQ?oc=5\" target=\"_blank\">ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">conwaydailysun.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-02T14:56:48+00:00"
     },
     {
       "id": "fd9ba09fd5f04b1f",
