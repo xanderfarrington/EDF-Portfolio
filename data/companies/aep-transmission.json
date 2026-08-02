@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-08-01T22:47:32+00:00",
+  "last_updated": "2026-08-02T02:08:04+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 71,
+  "count": 72,
   "mentions": [
     {
       "id": "dee1304602b5c27c",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-31T02:09:37+00:00"
+    },
+    {
+      "id": "5238a5335f2a41f3",
+      "title": "AEP (AEP) Q2 2026 Earnings Call Transcript - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjNRVUJhU0VzLWI1NHl1aWYxYVpjTTdkSkpvSDBDR1BKN29oeDltOUNRNkpJM0Rzc2ZUa0VIcTROVjE4OGpxUnVtVy1YbUhadkdMZVlkcG1Oa3BJd1VQc1RpZUhUOXI2WmRzRVZyd3F1VUtfcVdkU29nQkpLMHlBNmxhUkc2RlpySEIySUoxZm5IRTVFREI1QUs4STFSMW9MX21lSnB6b3ZGNGVYOGhwNldZV3RnRU1VSVJkODIwUnRzQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "theglobeandmail.com",
+      "language": "English",
+      "published_at": "2026-07-30T13:00:00+00:00",
+      "summary": "AEP (AEP) Q2 2026 Earnings Call Transcript theglobeandmail.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjNRVUJhU0VzLWI1NHl1aWYxYVpjTTdkSkpvSDBDR1BKN29oeDltOUNRNkpJM0Rzc2ZUa0VIcTROVjE4OGpxUnVtVy1YbUhadkdMZVlkcG1Oa3BJd1VQc1RpZUhUOXI2WmRzRVZyd3F1VUtfcVdkU29nQkpLMHlBNmxhUkc2RlpySEIySUoxZm5IRTVFREI1QUs4STFSMW9MX21lSnB6b3ZGNGVYOGhwNldZV3RnRU1VSVJkODIwUnRzQQ?oc=5\" target=\"_blank\">AEP (AEP) Q2 2026 Earnings Call Transcript</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theglobeandmail.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-02T02:08:04+00:00"
     },
     {
       "id": "689bc096c5e11aca",
