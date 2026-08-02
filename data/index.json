@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-02T11:13:00+00:00",
+  "last_updated": "2026-08-02T13:06:54+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 72,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "dee1304602b5c27c",
         "title": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y - TradingView",
