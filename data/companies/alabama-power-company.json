@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-02T02:08:10+00:00",
+  "last_updated": "2026-08-02T06:28:06+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 167,
+  "count": 168,
   "mentions": [
     {
       "id": "5bb3319a5c67471f",
@@ -313,6 +313,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-25T20:42:30+00:00"
+    },
+    {
+      "id": "dbefef553d3afef5",
+      "title": "Alabama Power Announces Additions To Board Of Directors - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzVpbmFVaUUzTklxTGlzQXlVZnVhMWNrS1dfcEM2OE1pWmVhallVeVhuRlpMS2xzckhjbnpmQ2lDSjZtNlVxRWQwa1NYX3hiSndKcFpJMTB0dUVDNlk5MExWSXdldG9xNGE2blZ2NFBuZHZWOFgyRTFZTEVtbERpTkxFcVc2ZG82SzZUOFdNTXZ0MS0xdjJTdGpZQnl6X1Q4MkdWQzhFQWo1Rm1FZXpkRHNjSFUtckdXblNERU5oUjJ0STQ?oc=5",
+      "domain": "news.google.com",
+      "source": "TradingView",
+      "language": "English",
+      "published_at": "2026-07-24T21:35:19+00:00",
+      "summary": "Alabama Power Announces Additions To Board Of Directors TradingView",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzVpbmFVaUUzTklxTGlzQXlVZnVhMWNrS1dfcEM2OE1pWmVhallVeVhuRlpMS2xzckhjbnpmQ2lDSjZtNlVxRWQwa1NYX3hiSndKcFpJMTB0dUVDNlk5MExWSXdldG9xNGE2blZ2NFBuZHZWOFgyRTFZTEVtbERpTkxFcVc2ZG82SzZUOFdNTXZ0MS0xdjJTdGpZQnl6X1Q4MkdWQzhFQWo1Rm1FZXpkRHNjSFUtckdXblNERU5oUjJ0STQ?oc=5\" target=\"_blank\">Alabama Power Announces Additions To Board Of Directors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-02T06:28:06+00:00"
     },
     {
       "id": "819b9766644f76f7",
