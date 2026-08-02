@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-08-02T14:56:59+00:00",
+  "last_updated": "2026-08-02T16:52:53+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 68,
+  "count": 69,
   "mentions": [
     {
       "id": "7128b49a56483bfa",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-31T10:31:40+00:00"
+    },
+    {
+      "id": "876fe9dff7c88617",
+      "title": "NRC outlines inspections and public input for Crane Clean Energy Center restart - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUp2b2lkbjFyQlJ1U1NwbG1fRlU1SUp2U0dRaV9Ma3Rvdm9KMG0tdG94Z0I2MkdvV1JKMFB5WTAwOUJFMVZpZ2RibE1QaFdZSlM5R1lLeFhkNkpwT3JINEtjY2NiSVN2ZWJmMVZpQzlMM0xlb0dRN2R0Q2xuVTRqVXhPUW9KSnVzRVJsOEVqUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-07-29T02:13:00+00:00",
+      "summary": "NRC outlines inspections and public input for Crane Clean Energy Center restart Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUp2b2lkbjFyQlJ1U1NwbG1fRlU1SUp2U0dRaV9Ma3Rvdm9KMG0tdG94Z0I2MkdvV1JKMFB5WTAwOUJFMVZpZ2RibE1QaFdZSlM5R1lLeFhkNkpwT3JINEtjY2NiSVN2ZWJmMVZpQzlMM0xlb0dRN2R0Q2xuVTRqVXhPUW9KSnVzRVJsOEVqUQ?oc=5\" target=\"_blank\">NRC outlines inspections and public input for Crane Clean Energy Center restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-02T16:52:53+00:00"
     },
     {
       "id": "8ae30a1e1929c51d",

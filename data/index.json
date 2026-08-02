@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T14:57:15+00:00",
+  "last_updated": "2026-08-02T16:53:09+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 30,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "addfbf3308caf432",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
@@ -68,8 +68,8 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 68,
-      "new_mentions_this_run": 5,
+      "count": 69,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "7128b49a56483bfa",
         "title": "NRC & FEMA talk environmental impact as Crane Clean Energy Center set to open in 2027 - local21news.com",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 359,
+      "count": 360,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "f5021fad031cb5fc",
