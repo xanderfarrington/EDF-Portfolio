@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T14:25:33+00:00",
+  "last_updated": "2026-08-03T17:46:16+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -68,28 +68,28 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 69,
-      "new_mentions_this_run": 6,
+      "count": 70,
+      "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "7128b49a56483bfa",
-        "title": "NRC & FEMA talk environmental impact as Crane Clean Energy Center set to open in 2027 - local21news.com",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSG5GeWhOZW1odGxOT2gtYXhmNTh1NGFKMzFJOFBrT0NqYUF6Nlp5MkR3V0VvTXFMLUhsX29VRC1ySG1GX1V4d0ZObjZUNnc4Zk5IamsxcXo4MTg1bDV5cHJWb015TzdMa2d3SlA4bTdQaTVzNkxaT2RXYXNvQWVmcmliYnNMWUYyUHJlem5ueUNwVGxYbnBQakhLWnlWNVBPRUFHQjBseVBRam1aNUM1V0kyN2t3bUx4akE?oc=5",
+        "id": "92885afb47b68a0e",
+        "title": "US may decide on Three Mile Island restart in June, Constellation execs say - cumberlink.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2VJU3pWaUo1d3ZLNklUUTdObUQ4djY0RTNNdkxPMkNsSUdZb2VBbVBEOFNuN19wVklnN3dzb0pPUVpaNEQ4NU5oV1JBbF8ydENiWm9qZm1mbkZUZENIQ2hNTlg4bldDTEVITTBDUEMwR2xRRzNwU2oxZnBleEozWV93ZTkyYlFJLTRzWGpYRWdCajJqUWtDekMzaGFhdm5VYXdR?oc=5",
         "domain": "news.google.com",
-        "source": "local21news.com",
+        "source": "cumberlink.com",
         "language": "English",
-        "published_at": "2026-07-29T02:44:30+00:00",
-        "summary": "NRC & FEMA talk environmental impact as Crane Clean Energy Center set to open in 2027 local21news.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQSG5GeWhOZW1odGxOT2gtYXhmNTh1NGFKMzFJOFBrT0NqYUF6Nlp5MkR3V0VvTXFMLUhsX29VRC1ySG1GX1V4d0ZObjZUNnc4Zk5IamsxcXo4MTg1bDV5cHJWb015TzdMa2d3SlA4bTdQaTVzNkxaT2RXYXNvQWVmcmliYnNMWUYyUHJlem5ueUNwVGxYbnBQakhLWnlWNVBPRUFHQjBseVBRam1aNUM1V0kyN2t3bUx4akE?oc=5\" target=\"_blank\">NRC & FEMA talk environmental impact as Crane Clean Energy Center set to open in 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">local21news.com</font>",
+        "published_at": "2026-08-01T14:54:36+00:00",
+        "summary": "US may decide on Three Mile Island restart in June, Constellation execs say cumberlink.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2VJU3pWaUo1d3ZLNklUUTdObUQ4djY0RTNNdkxPMkNsSUdZb2VBbVBEOFNuN19wVklnN3dzb0pPUVpaNEQ4NU5oV1JBbF8ydENiWm9qZm1mbkZUZENIQ2hNTlg4bldDTEVITTBDUEMwR2xRRzNwU2oxZnBleEozWV93ZTkyYlFJLTRzWGpYRWdCajJqUWtDekMzaGFhdm5VYXdR?oc=5\" target=\"_blank\">US may decide on Three Mile Island restart in June, Constellation execs say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cumberlink.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-07-29T06:26:13+00:00"
+        "collected_at": "2026-08-03T17:46:00+00:00"
       }
     },
     {
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 366,
+      "count": 367,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "7dfa6c444de64ca5",

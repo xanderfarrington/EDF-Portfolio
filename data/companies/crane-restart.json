@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-08-03T14:25:17+00:00",
+  "last_updated": "2026-08-03T17:46:00+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 69,
+  "count": 70,
   "mentions": [
+    {
+      "id": "92885afb47b68a0e",
+      "title": "US may decide on Three Mile Island restart in June, Constellation execs say - cumberlink.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2VJU3pWaUo1d3ZLNklUUTdObUQ4djY0RTNNdkxPMkNsSUdZb2VBbVBEOFNuN19wVklnN3dzb0pPUVpaNEQ4NU5oV1JBbF8ydENiWm9qZm1mbkZUZENIQ2hNTlg4bldDTEVITTBDUEMwR2xRRzNwU2oxZnBleEozWV93ZTkyYlFJLTRzWGpYRWdCajJqUWtDekMzaGFhdm5VYXdR?oc=5",
+      "domain": "news.google.com",
+      "source": "cumberlink.com",
+      "language": "English",
+      "published_at": "2026-08-01T14:54:36+00:00",
+      "summary": "US may decide on Three Mile Island restart in June, Constellation execs say cumberlink.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2VJU3pWaUo1d3ZLNklUUTdObUQ4djY0RTNNdkxPMkNsSUdZb2VBbVBEOFNuN19wVklnN3dzb0pPUVpaNEQ4NU5oV1JBbF8ydENiWm9qZm1mbkZUZENIQ2hNTlg4bldDTEVITTBDUEMwR2xRRzNwU2oxZnBleEozWV93ZTkyYlFJLTRzWGpYRWdCajJqUWtDekMzaGFhdm5VYXdR?oc=5\" target=\"_blank\">US may decide on Three Mile Island restart in June, Constellation execs say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cumberlink.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-03T17:46:00+00:00"
+    },
     {
       "id": "7128b49a56483bfa",
       "title": "NRC & FEMA talk environmental impact as Crane Clean Energy Center set to open in 2027 - local21news.com",
