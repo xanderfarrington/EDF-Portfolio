@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-02T22:49:41+00:00",
+  "last_updated": "2026-08-03T02:10:30+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 171,
+  "count": 172,
   "mentions": [
     {
       "id": "c3eaca6246540a63",
@@ -257,6 +257,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-27T19:17:55+00:00"
+    },
+    {
+      "id": "00aaea721434bfb2",
+      "title": "Alabama Power adds Bham, Mobile execs to board of directors - bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRWlvVWJzM0ltT3ptWWRMOHU4Nk0wMnJvd1F6cXRfNkpTcGpzR3ZDcXhjZFFPT044T1ZUZVpiMmZEcXJsWkZuQzY4NkEwOWtfMndVcm9CRkVlOUszTlV1YUZVYkFCVUZwZmdVZ0g2QnJMNXE5OWVZNk0yLVc2eTVjV1lfSkR4bmJIOEFBOU9rRU0?oc=5",
+      "domain": "news.google.com",
+      "source": "bizjournals.com",
+      "language": "English",
+      "published_at": "2026-07-27T18:55:00+00:00",
+      "summary": "Alabama Power adds Bham, Mobile execs to board of directors bizjournals.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQRWlvVWJzM0ltT3ptWWRMOHU4Nk0wMnJvd1F6cXRfNkpTcGpzR3ZDcXhjZFFPT044T1ZUZVpiMmZEcXJsWkZuQzY4NkEwOWtfMndVcm9CRkVlOUszTlV1YUZVYkFCVUZwZmdVZ0g2QnJMNXE5OWVZNk0yLVc2eTVjV1lfSkR4bmJIOEFBOU9rRU0?oc=5\" target=\"_blank\">Alabama Power adds Bham, Mobile execs to board of directors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bizjournals.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-03T02:10:30+00:00"
     },
     {
       "id": "d84a68395278ae5c",

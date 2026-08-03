@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T22:50:08+00:00",
+  "last_updated": "2026-08-03T02:10:57+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 171,
-      "new_mentions_this_run": 19,
+      "count": 172,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "c3eaca6246540a63",
         "title": "Alabama Power hosts 'Touch-a-Truck' event in Montgomery - wsfa.com",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 360,
+      "count": 361,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "f5021fad031cb5fc",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 31,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "addfbf3308caf432",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
