@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-04T14:25:06+00:00",
+  "last_updated": "2026-08-04T17:39:13+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 72,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "dee1304602b5c27c",
         "title": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y - TradingView",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 172,
-      "new_mentions_this_run": 18,
+      "count": 174,
+      "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "c3eaca6246540a63",
-        "title": "Alabama Power hosts 'Touch-a-Truck' event in Montgomery - wsfa.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG5Wb3VER2JlWTc0UU42WV81RExxem5WLUhTQ1JfWDFqVmFxX1NXaU5CNnhldUZDWmtudjVELVJtMFBkTU1lRDNpNUpRaHh3VjRMS3dXX3dsYWV0dnpUTWJYY2UyazNCdGp1aU5uSmkzVTFfSHpKQ1dxMS1kdlRRTkFzQ3E5cm9rSWdsWEItV1lwc1k?oc=5",
+        "id": "2e3161fdff5e71e1",
+        "title": "New solar plant coming to east Alabama in support of $1.5 billion data center - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHY1V1RUalJiX1RWOG1ZQ1N0MDJTTDNFbmxMTk90UWdrZFBSR0RMNldWTGM3SzJCRXpMQXBFbjNzQzl6S2xEOENxQWdkMlZJTXgwTjg3cUxGYjh4cDhQd2lkS1JoVWtmRDJ5ZXpqNzBXMmxFNk4xb1loYklLc3kxZlZqRTBrRHhieFN1dENZRHA1N2xfVndjTnpieTVaSnVoaXV5RTdoV2pSZTVfMDhpckdiR0h6OUxQcVBzODVPcTA?oc=5",
         "domain": "news.google.com",
-        "source": "wsfa.com",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-07-31T16:33:01+00:00",
-        "summary": "Alabama Power hosts 'Touch-a-Truck' event in Montgomery wsfa.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG5Wb3VER2JlWTc0UU42WV81RExxem5WLUhTQ1JfWDFqVmFxX1NXaU5CNnhldUZDWmtudjVELVJtMFBkTU1lRDNpNUpRaHh3VjRMS3dXX3dsYWV0dnpUTWJYY2UyazNCdGp1aU5uSmkzVTFfSHpKQ1dxMS1kdlRRTkFzQ3E5cm9rSWdsWEItV1lwc1k?oc=5\" target=\"_blank\">Alabama Power hosts 'Touch-a-Truck' event in Montgomery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsfa.com</font>",
+        "published_at": "2026-08-04T17:21:00+00:00",
+        "summary": "New solar plant coming to east Alabama in support of $1.5 billion data center AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHY1V1RUalJiX1RWOG1ZQ1N0MDJTTDNFbmxMTk90UWdrZFBSR0RMNldWTGM3SzJCRXpMQXBFbjNzQzl6S2xEOENxQWdkMlZJTXgwTjg3cUxGYjh4cDhQd2lkS1JoVWtmRDJ5ZXpqNzBXMmxFNk4xb1loYklLc3kxZlZqRTBrRHhieFN1dENZRHA1N2xfVndjTnpieTVaSnVoaXV5RTdoV2pSZTVfMDhpckdiR0h6OUxQcVBzODVPcTA?oc=5\" target=\"_blank\">New solar plant coming to east Alabama in support of $1.5 billion data center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-02T09:50:42+00:00"
+        "collected_at": "2026-08-04T17:38:46+00:00"
       }
     },
     {
