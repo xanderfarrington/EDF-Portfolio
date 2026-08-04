@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T01:56:26+00:00",
+  "last_updated": "2026-08-04T05:12:01+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 172,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "c3eaca6246540a63",
         "title": "Alabama Power hosts 'Touch-a-Truck' event in Montgomery - wsfa.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 368,
+      "count": 369,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "7dfa6c444de64ca5",
-        "title": "Georgia Power breaks ground on natural gas expansion at Plant Bowen despite air pollution concerns - Now Georgia",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVU5TUkh1UDVSaEtZMGF0eEZ2bXBpZVFkR0oyTFU2Y1BXWHRnNmZ2YjFSdnhuaEMybTRYZkdDMy1IWktXcGp5ekVTa0RkREhiTzFXcU5qdjVpUHJieHA4dlFRUHYyME9vNkFFdERYaEZsblBRcmhVeWRXOHFtMWpLdC1fWGdFQ1VpdEFYdDVLdTN5UmtWX1BFMzVrMGJheTRuT1dhcDBQdHdrM2pERGJFZHNZdDg1dThfdGxNSmgxUQ?oc=5",
+        "id": "3aa7b121ffe4b164",
+        "title": "Georgia Power breaks ground on natural gas expansion at Plant Bowen despite air pollution concerns - WABE",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjY0cVFaRlJUalVBU1RJdnFoLTNlSjdSWWZadXVWQWlDeXlnN2stNlZSRlVxUE1JZmNDeGRjd1I3QVNCQkphY01Kak51MjRoVmx4VGlzTHItTlFPQ1pubnhvcmU2ejY4M0VOaTEtY1pJY3pTc2pxTnphNm1oQjhMOThfblNuejFRYWtKUVhvQVhNOEVwNF9jTGdqMGlPeGtsc2UxZGhLT3FxT3hGV0tESlFnYjNQbHpBX3BmMg?oc=5",
         "domain": "news.google.com",
-        "source": "Now Georgia",
+        "source": "WABE",
         "language": "English",
-        "published_at": "2026-08-03T12:22:01+00:00",
-        "summary": "Georgia Power breaks ground on natural gas expansion at Plant Bowen despite air pollution concerns Now Georgia",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNVU5TUkh1UDVSaEtZMGF0eEZ2bXBpZVFkR0oyTFU2Y1BXWHRnNmZ2YjFSdnhuaEMybTRYZkdDMy1IWktXcGp5ekVTa0RkREhiTzFXcU5qdjVpUHJieHA4dlFRUHYyME9vNkFFdERYaEZsblBRcmhVeWRXOHFtMWpLdC1fWGdFQ1VpdEFYdDVLdTN5UmtWX1BFMzVrMGJheTRuT1dhcDBQdHdrM2pERGJFZHNZdDg1dThfdGxNSmgxUQ?oc=5\" target=\"_blank\">Georgia Power breaks ground on natural gas expansion at Plant Bowen despite air pollution concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Now Georgia</font>",
+        "published_at": "2026-08-03T16:07:12+00:00",
+        "summary": "Georgia Power breaks ground on natural gas expansion at Plant Bowen despite air pollution concerns WABE",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjY0cVFaRlJUalVBU1RJdnFoLTNlSjdSWWZadXVWQWlDeXlnN2stNlZSRlVxUE1JZmNDeGRjd1I3QVNCQkphY01Kak51MjRoVmx4VGlzTHItTlFPQ1pubnhvcmU2ejY4M0VOaTEtY1pJY3pTc2pxTnphNm1oQjhMOThfblNuejFRYWtKUVhvQVhNOEVwNF9jTGdqMGlPeGtsc2UxZGhLT3FxT3hGV0tESlFnYjNQbHpBX3BmMg?oc=5\" target=\"_blank\">Georgia Power breaks ground on natural gas expansion at Plant Bowen despite air pollution concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-03T14:25:23+00:00"
+        "collected_at": "2026-08-04T05:11:51+00:00"
       }
     },
     {
