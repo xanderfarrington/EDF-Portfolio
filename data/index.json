@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T21:05:27+00:00",
+  "last_updated": "2026-08-04T22:56:51+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 175,
+      "count": 176,
       "new_mentions_this_run": 19,
       "latest_mention": {
-        "id": "2e3161fdff5e71e1",
-        "title": "New solar plant coming to east Alabama in support of $1.5 billion data center - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHY1V1RUalJiX1RWOG1ZQ1N0MDJTTDNFbmxMTk90UWdrZFBSR0RMNldWTGM3SzJCRXpMQXBFbjNzQzl6S2xEOENxQWdkMlZJTXgwTjg3cUxGYjh4cDhQd2lkS1JoVWtmRDJ5ZXpqNzBXMmxFNk4xb1loYklLc3kxZlZqRTBrRHhieFN1dENZRHA1N2xfVndjTnpieTVaSnVoaXV5RTdoV2pSZTVfMDhpckdiR0h6OUxQcVBzODVPcTA?oc=5",
+        "id": "1cdcc84fe9c58184",
+        "title": "Alabama Public Service Commission approves solar project supporting data center - Alabama Reflector",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMW1ZQTlpM09pWmxjN2VJWGtYOWZsWEFoeWFtamQwU01VRXozRGxFSHpTY21GcER6bFlJeGxFcFFucnBsUm5ST3ZscUtNcmN5SmN5clYwZWVrNExLVDRmbF96bGhKbVYyRTJsR3VLWGF0cE5uU0x4c0lhX2VfRTdOWWpJaGhWTzdMZlYwRDBRRDZpWXlKTGUtdVhYWkNFZzN4dkpDTGdyanR5RVRENGdVT3VsRzRSNHE5MTRSUQ?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "Alabama Reflector",
         "language": "English",
-        "published_at": "2026-08-04T17:21:00+00:00",
-        "summary": "New solar plant coming to east Alabama in support of $1.5 billion data center AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHY1V1RUalJiX1RWOG1ZQ1N0MDJTTDNFbmxMTk90UWdrZFBSR0RMNldWTGM3SzJCRXpMQXBFbjNzQzl6S2xEOENxQWdkMlZJTXgwTjg3cUxGYjh4cDhQd2lkS1JoVWtmRDJ5ZXpqNzBXMmxFNk4xb1loYklLc3kxZlZqRTBrRHhieFN1dENZRHA1N2xfVndjTnpieTVaSnVoaXV5RTdoV2pSZTVfMDhpckdiR0h6OUxQcVBzODVPcTA?oc=5\" target=\"_blank\">New solar plant coming to east Alabama in support of $1.5 billion data center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-08-04T19:39:37+00:00",
+        "summary": "Alabama Public Service Commission approves solar project supporting data center Alabama Reflector",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMW1ZQTlpM09pWmxjN2VJWGtYOWZsWEFoeWFtamQwU01VRXozRGxFSHpTY21GcER6bFlJeGxFcFFucnBsUm5ST3ZscUtNcmN5SmN5clYwZWVrNExLVDRmbF96bGhKbVYyRTJsR3VLWGF0cE5uU0x4c0lhX2VfRTdOWWpJaGhWTzdMZlYwRDBRRDZpWXlKTGUtdVhYWkNFZzN4dkpDTGdyanR5RVRENGdVT3VsRzRSNHE5MTRSUQ?oc=5\" target=\"_blank\">Alabama Public Service Commission approves solar project supporting data center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Reflector</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-04T17:38:46+00:00"
+        "collected_at": "2026-08-04T22:56:24+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 376,
+      "count": 377,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "82e4a7f7da0571c5",

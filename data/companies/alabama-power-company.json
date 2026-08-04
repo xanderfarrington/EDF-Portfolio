@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-04T21:05:00+00:00",
+  "last_updated": "2026-08-04T22:56:24+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 175,
+  "count": 176,
   "mentions": [
+    {
+      "id": "1cdcc84fe9c58184",
+      "title": "Alabama Public Service Commission approves solar project supporting data center - Alabama Reflector",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMW1ZQTlpM09pWmxjN2VJWGtYOWZsWEFoeWFtamQwU01VRXozRGxFSHpTY21GcER6bFlJeGxFcFFucnBsUm5ST3ZscUtNcmN5SmN5clYwZWVrNExLVDRmbF96bGhKbVYyRTJsR3VLWGF0cE5uU0x4c0lhX2VfRTdOWWpJaGhWTzdMZlYwRDBRRDZpWXlKTGUtdVhYWkNFZzN4dkpDTGdyanR5RVRENGdVT3VsRzRSNHE5MTRSUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Alabama Reflector",
+      "language": "English",
+      "published_at": "2026-08-04T19:39:37+00:00",
+      "summary": "Alabama Public Service Commission approves solar project supporting data center Alabama Reflector",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMW1ZQTlpM09pWmxjN2VJWGtYOWZsWEFoeWFtamQwU01VRXozRGxFSHpTY21GcER6bFlJeGxFcFFucnBsUm5ST3ZscUtNcmN5SmN5clYwZWVrNExLVDRmbF96bGhKbVYyRTJsR3VLWGF0cE5uU0x4c0lhX2VfRTdOWWpJaGhWTzdMZlYwRDBRRDZpWXlKTGUtdVhYWkNFZzN4dkpDTGdyanR5RVRENGdVT3VsRzRSNHE5MTRSUQ?oc=5\" target=\"_blank\">Alabama Public Service Commission approves solar project supporting data center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Reflector</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-04T22:56:24+00:00"
+    },
     {
       "id": "2e3161fdff5e71e1",
       "title": "New solar plant coming to east Alabama in support of $1.5 billion data center - AL.com",
