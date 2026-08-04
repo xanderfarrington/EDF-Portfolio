@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-03T22:55:26+00:00",
+  "last_updated": "2026-08-04T01:56:26+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 72,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "dee1304602b5c27c",
         "title": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y - TradingView",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 172,
-      "new_mentions_this_run": 18,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "c3eaca6246540a63",
         "title": "Alabama Power hosts 'Touch-a-Truck' event in Montgomery - wsfa.com",
