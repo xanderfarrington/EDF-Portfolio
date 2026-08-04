@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-04T17:39:02+00:00",
+  "last_updated": "2026-08-04T19:22:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 373,
+  "count": 375,
   "mentions": [
+    {
+      "id": "e0ed064c7767fe3b",
+      "title": "State regulator reviews OpenAI-Georgia Power contract - thecurrentga.org",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjZyNVFZdURnZG5QcjNlbEFXTWpPbGktdDM1VlR6cGFHMmEtcWF4eHlTekFrb3JQT1RXczVtTkJxWk91VTNERS1hb2JyVGFLdnl5RkZzZlh5RmFNd3c0b2xCcFVMZHhtTEVBNjZ0d2FjMFUyWU1takU0NmlUWGdxVGg5TTI3dHc2WGhaa1NTMG42WEkz?oc=5",
+      "domain": "news.google.com",
+      "source": "thecurrentga.org",
+      "language": "English",
+      "published_at": "2026-08-04T18:56:13+00:00",
+      "summary": "State regulator reviews OpenAI-Georgia Power contract thecurrentga.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjZyNVFZdURnZG5QcjNlbEFXTWpPbGktdDM1VlR6cGFHMmEtcWF4eHlTekFrb3JQT1RXczVtTkJxWk91VTNERS1hb2JyVGFLdnl5RkZzZlh5RmFNd3c0b2xCcFVMZHhtTEVBNjZ0d2FjMFUyWU1takU0NmlUWGdxVGg5TTI3dHc2WGhaa1NTMG42WEkz?oc=5\" target=\"_blank\">State regulator reviews OpenAI-Georgia Power contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-04T19:22:34+00:00"
+    },
     {
       "id": "ee98eb081cc3cc18",
       "title": "Georgia Power starts work on 1.5 GW gas units and 500 MW BESS (US) - Enerdata",
@@ -131,6 +145,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-03T11:16:26+00:00"
+    },
+    {
+      "id": "f82d9ab8d749f6e7",
+      "title": "Georgia Power breaks ground on natural gas expansion at Plant Bowen despite air pollution concerns - georgiarecorder.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDMyNW4xS0ticHJhQWdLZDVNZXFvOFNqbnloX0hxbzhmZGRFUlhwc2l5bnQ3Yks3NzlNcnNMY0pFVWhtS3NWcTJFOU1TQTRLWWpKWHVWZ3VZWlNKa1Rqd2dQcE5WR3dMTmVGTkhiQlpEbmxkc0xTQnV2Yk9IcjVORE9nQ04zR3NfejdZU1RwXzQxTHY1OEV4ckFSODBXcnMwYkhaY3JxX0FsQzF1eXRuSXQ4WHk0Y01RMk5XLU5ZODNfMzZmYjBGcy1mQXdQRlBZQ1pRcg?oc=5",
+      "domain": "news.google.com",
+      "source": "georgiarecorder.com",
+      "language": "English",
+      "published_at": "2026-08-03T09:02:17+00:00",
+      "summary": "Georgia Power breaks ground on natural gas expansion at Plant Bowen despite air pollution concerns georgiarecorder.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDMyNW4xS0ticHJhQWdLZDVNZXFvOFNqbnloX0hxbzhmZGRFUlhwc2l5bnQ3Yks3NzlNcnNMY0pFVWhtS3NWcTJFOU1TQTRLWWpKWHVWZ3VZWlNKa1Rqd2dQcE5WR3dMTmVGTkhiQlpEbmxkc0xTQnV2Yk9IcjVORE9nQ04zR3NfejdZU1RwXzQxTHY1OEV4ckFSODBXcnMwYkhaY3JxX0FsQzF1eXRuSXQ4WHk0Y01RMk5XLU5ZODNfMzZmYjBGcy1mQXdQRlBZQ1pRcg?oc=5\" target=\"_blank\">Georgia Power breaks ground on natural gas expansion at Plant Bowen despite air pollution concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">georgiarecorder.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-04T19:22:34+00:00"
     },
     {
       "id": "ee8871d826506a12",

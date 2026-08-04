@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T17:39:13+00:00",
+  "last_updated": "2026-08-04T19:22:44+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 373,
+      "count": 375,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "ee98eb081cc3cc18",
-        "title": "Georgia Power starts work on 1.5 GW gas units and 500 MW BESS (US) - Enerdata",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV3JDMk1zY1NZZzNzMmhWcThZWndnMG5SOF9LRDAyRnNXZkVGeENHWThTb0xHWnVDYmtaaks3M0tudFdOZUJYWEVraFlENXZ6YXZJSG8wVmh0a1VvbXdlWEI4dTJndGx0V2RlMFpaVUgzXzU4SUdlQkhIWmtJRFlFeUpZNjdVOXl4Zmp5amQxbEhRQVM1OFlyMjRES2dhNFg4R1BYZjJtWFVDZ2RoamhpekFfa3FDT3hPNUtmNDJB?oc=5",
+        "id": "e0ed064c7767fe3b",
+        "title": "State regulator reviews OpenAI-Georgia Power contract - thecurrentga.org",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjZyNVFZdURnZG5QcjNlbEFXTWpPbGktdDM1VlR6cGFHMmEtcWF4eHlTekFrb3JQT1RXczVtTkJxWk91VTNERS1hb2JyVGFLdnl5RkZzZlh5RmFNd3c0b2xCcFVMZHhtTEVBNjZ0d2FjMFUyWU1takU0NmlUWGdxVGg5TTI3dHc2WGhaa1NTMG42WEkz?oc=5",
         "domain": "news.google.com",
-        "source": "Enerdata",
+        "source": "thecurrentga.org",
         "language": "English",
-        "published_at": "2026-08-04T08:58:22+00:00",
-        "summary": "Georgia Power starts work on 1.5 GW gas units and 500 MW BESS (US) Enerdata",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPV3JDMk1zY1NZZzNzMmhWcThZWndnMG5SOF9LRDAyRnNXZkVGeENHWThTb0xHWnVDYmtaaks3M0tudFdOZUJYWEVraFlENXZ6YXZJSG8wVmh0a1VvbXdlWEI4dTJndGx0V2RlMFpaVUgzXzU4SUdlQkhIWmtJRFlFeUpZNjdVOXl4Zmp5amQxbEhRQVM1OFlyMjRES2dhNFg4R1BYZjJtWFVDZ2RoamhpekFfa3FDT3hPNUtmNDJB?oc=5\" target=\"_blank\">Georgia Power starts work on 1.5 GW gas units and 500 MW BESS (US)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Enerdata</font>",
+        "published_at": "2026-08-04T18:56:13+00:00",
+        "summary": "State regulator reviews OpenAI-Georgia Power contract thecurrentga.org",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjZyNVFZdURnZG5QcjNlbEFXTWpPbGktdDM1VlR6cGFHMmEtcWF4eHlTekFrb3JQT1RXczVtTkJxWk91VTNERS1hb2JyVGFLdnl5RkZzZlh5RmFNd3c0b2xCcFVMZHhtTEVBNjZ0d2FjMFUyWU1takU0NmlUWGdxVGg5TTI3dHc2WGhaa1NTMG42WEkz?oc=5\" target=\"_blank\">State regulator reviews OpenAI-Georgia Power contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-04T11:59:17+00:00"
+        "collected_at": "2026-08-04T19:22:34+00:00"
       }
     },
     {
