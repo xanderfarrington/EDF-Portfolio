@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-04T19:22:17+00:00",
+  "last_updated": "2026-08-04T21:05:00+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 174,
+  "count": 175,
   "mentions": [
     {
       "id": "2e3161fdff5e71e1",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-04T17:38:46+00:00"
+    },
+    {
+      "id": "7b71859a521bdaeb",
+      "title": "Alabama Power reports year-to-year increase in second-quarter profits - newsfromthestates.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUkNoQ1FYX05aRGxleEpJdWE1Qnl4Z1hVd2czTk5FTlFONWhPdWJ4QlU0b1BJLUNkenFwSGU4Rl80Z0JmMHJ2aExuU3poSmVUbmR0RU5ZZlk4aGhjTk8zZnE4blQ0N2xHdTdHX0dxQ3RkZlF0SzY3dk9EOWpFSmFiN0RSdFZYYkIyUFNfbVMzMmc5NVA4UWx6M2o1RU9ZbjNsbWJydWwtUEY?oc=5",
+      "domain": "news.google.com",
+      "source": "newsfromthestates.com",
+      "language": "English",
+      "published_at": "2026-08-04T09:59:18+00:00",
+      "summary": "Alabama Power reports year-to-year increase in second-quarter profits newsfromthestates.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUkNoQ1FYX05aRGxleEpJdWE1Qnl4Z1hVd2czTk5FTlFONWhPdWJ4QlU0b1BJLUNkenFwSGU4Rl80Z0JmMHJ2aExuU3poSmVUbmR0RU5ZZlk4aGhjTk8zZnE4blQ0N2xHdTdHX0dxQ3RkZlF0SzY3dk9EOWpFSmFiN0RSdFZYYkIyUFNfbVMzMmc5NVA4UWx6M2o1RU9ZbjNsbWJydWwtUEY?oc=5\" target=\"_blank\">Alabama Power reports year-to-year increase in second-quarter profits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsfromthestates.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-04T21:05:00+00:00"
     },
     {
       "id": "c3eaca6246540a63",

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-04T19:22:44+00:00",
+  "last_updated": "2026-08-04T21:05:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 72,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "dee1304602b5c27c",
         "title": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y - TradingView",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 174,
-      "new_mentions_this_run": 20,
+      "count": 175,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "2e3161fdff5e71e1",
         "title": "New solar plant coming to east Alabama in support of $1.5 billion data center - AL.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 375,
+      "count": 376,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "e0ed064c7767fe3b",
-        "title": "State regulator reviews OpenAI-Georgia Power contract - thecurrentga.org",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjZyNVFZdURnZG5QcjNlbEFXTWpPbGktdDM1VlR6cGFHMmEtcWF4eHlTekFrb3JQT1RXczVtTkJxWk91VTNERS1hb2JyVGFLdnl5RkZzZlh5RmFNd3c0b2xCcFVMZHhtTEVBNjZ0d2FjMFUyWU1takU0NmlUWGdxVGg5TTI3dHc2WGhaa1NTMG42WEkz?oc=5",
+        "id": "82e4a7f7da0571c5",
+        "title": "State regulator reviews OpenAI-Georgia Power contract - WABE",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEVxS0VJd3NVOXl3Y1RfREp2cktSRE9IWmVmLWFzNlFFV1hnak04a0ZWQnhtbXU0MUUwTkRqSXVwQ3BQYTBhbS0ya056XzdvZE1hQUFvWXU1S2dkaWRobGpfM1JnVGZkaXRNaURIY0hNRUNPNWlkT3FjUTRFVHRJaA?oc=5",
         "domain": "news.google.com",
-        "source": "thecurrentga.org",
+        "source": "WABE",
         "language": "English",
-        "published_at": "2026-08-04T18:56:13+00:00",
-        "summary": "State regulator reviews OpenAI-Georgia Power contract thecurrentga.org",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjZyNVFZdURnZG5QcjNlbEFXTWpPbGktdDM1VlR6cGFHMmEtcWF4eHlTekFrb3JQT1RXczVtTkJxWk91VTNERS1hb2JyVGFLdnl5RkZzZlh5RmFNd3c0b2xCcFVMZHhtTEVBNjZ0d2FjMFUyWU1takU0NmlUWGdxVGg5TTI3dHc2WGhaa1NTMG42WEkz?oc=5\" target=\"_blank\">State regulator reviews OpenAI-Georgia Power contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
+        "published_at": "2026-08-04T19:37:22+00:00",
+        "summary": "State regulator reviews OpenAI-Georgia Power contract WABE",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEVxS0VJd3NVOXl3Y1RfREp2cktSRE9IWmVmLWFzNlFFV1hnak04a0ZWQnhtbXU0MUUwTkRqSXVwQ3BQYTBhbS0ya056XzdvZE1hQUFvWXU1S2dkaWRobGpfM1JnVGZkaXRNaURIY0hNRUNPNWlkT3FjUTRFVHRJaA?oc=5\" target=\"_blank\">State regulator reviews OpenAI-Georgia Power contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-04T19:22:34+00:00"
+        "collected_at": "2026-08-04T21:05:17+00:00"
       }
     },
     {
