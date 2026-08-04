@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-04T08:27:09+00:00",
+  "last_updated": "2026-08-04T11:59:17+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 370,
+  "count": 372,
   "mentions": [
+    {
+      "id": "ee98eb081cc3cc18",
+      "title": "Georgia Power starts work on 1.5 GW gas units and 500 MW BESS (US) - Enerdata",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV3JDMk1zY1NZZzNzMmhWcThZWndnMG5SOF9LRDAyRnNXZkVGeENHWThTb0xHWnVDYmtaaks3M0tudFdOZUJYWEVraFlENXZ6YXZJSG8wVmh0a1VvbXdlWEI4dTJndGx0V2RlMFpaVUgzXzU4SUdlQkhIWmtJRFlFeUpZNjdVOXl4Zmp5amQxbEhRQVM1OFlyMjRES2dhNFg4R1BYZjJtWFVDZ2RoamhpekFfa3FDT3hPNUtmNDJB?oc=5",
+      "domain": "news.google.com",
+      "source": "Enerdata",
+      "language": "English",
+      "published_at": "2026-08-04T08:58:22+00:00",
+      "summary": "Georgia Power starts work on 1.5 GW gas units and 500 MW BESS (US) Enerdata",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPV3JDMk1zY1NZZzNzMmhWcThZWndnMG5SOF9LRDAyRnNXZkVGeENHWThTb0xHWnVDYmtaaks3M0tudFdOZUJYWEVraFlENXZ6YXZJSG8wVmh0a1VvbXdlWEI4dTJndGx0V2RlMFpaVUgzXzU4SUdlQkhIWmtJRFlFeUpZNjdVOXl4Zmp5amQxbEhRQVM1OFlyMjRES2dhNFg4R1BYZjJtWFVDZ2RoamhpekFfa3FDT3hPNUtmNDJB?oc=5\" target=\"_blank\">Georgia Power starts work on 1.5 GW gas units and 500 MW BESS (US)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Enerdata</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-04T11:59:17+00:00"
+    },
     {
       "id": "558a63fbdb8ed8aa",
       "title": "Southern Co. Credits Data Centers with Q2 Growth - rtoinsider.com",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-04T08:27:09+00:00"
+    },
+    {
+      "id": "fe57ae7e8a1387db",
+      "title": "Southern Co. Credits Data Centers with Q2 Growth - RTO Insider",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRkY1LVJBZU56N2lrSnQzY0dZT3hIVWw1cklHWm5vRXVuUEJHWmR1OUdMblRLdzBJWThrQ2Fnc1F6TWFIX1BFSWp0SWo0dFhZRmotZDdsSHhJZ29NV2FSd3Z3OVNONXRUY3E0U01JYkZ2cldCSXNCaFk5eEtBbnlCMzdpVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "RTO Insider",
+      "language": "English",
+      "published_at": "2026-08-04T01:24:13+00:00",
+      "summary": "Southern Co. Credits Data Centers with Q2 Growth RTO Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQRkY1LVJBZU56N2lrSnQzY0dZT3hIVWw1cklHWm5vRXVuUEJHWmR1OUdMblRLdzBJWThrQ2Fnc1F6TWFIX1BFSWp0SWo0dFhZRmotZDdsSHhJZ29NV2FSd3Z3OVNONXRUY3E0U01JYkZ2cldCSXNCaFk5eEtBbnlCMzdpVQ?oc=5\" target=\"_blank\">Southern Co. Credits Data Centers with Q2 Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-04T11:59:17+00:00"
     },
     {
       "id": "3aa7b121ffe4b164",

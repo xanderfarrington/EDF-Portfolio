@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T08:27:19+00:00",
+  "last_updated": "2026-08-04T11:59:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 172,
-      "new_mentions_this_run": 20,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "c3eaca6246540a63",
         "title": "Alabama Power hosts 'Touch-a-Truck' event in Montgomery - wsfa.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 370,
+      "count": 372,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "558a63fbdb8ed8aa",
-        "title": "Southern Co. Credits Data Centers with Q2 Growth - rtoinsider.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRkY1LVJBZU56N2lrSnQzY0dZT3hIVWw1cklHWm5vRXVuUEJHWmR1OUdMblRLdzBJWThrQ2Fnc1F6TWFIX1BFSWp0SWo0dFhZRmotZDdsSHhJZ29NV2FSd3Z3OVNONXRUY3E0U01JYkZ2cldCSXNCaFk5eEtBbnlCMzdpVQ?oc=5",
+        "id": "ee98eb081cc3cc18",
+        "title": "Georgia Power starts work on 1.5 GW gas units and 500 MW BESS (US) - Enerdata",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV3JDMk1zY1NZZzNzMmhWcThZWndnMG5SOF9LRDAyRnNXZkVGeENHWThTb0xHWnVDYmtaaks3M0tudFdOZUJYWEVraFlENXZ6YXZJSG8wVmh0a1VvbXdlWEI4dTJndGx0V2RlMFpaVUgzXzU4SUdlQkhIWmtJRFlFeUpZNjdVOXl4Zmp5amQxbEhRQVM1OFlyMjRES2dhNFg4R1BYZjJtWFVDZ2RoamhpekFfa3FDT3hPNUtmNDJB?oc=5",
         "domain": "news.google.com",
-        "source": "rtoinsider.com",
+        "source": "Enerdata",
         "language": "English",
-        "published_at": "2026-08-04T01:24:13+00:00",
-        "summary": "Southern Co. Credits Data Centers with Q2 Growth rtoinsider.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQRkY1LVJBZU56N2lrSnQzY0dZT3hIVWw1cklHWm5vRXVuUEJHWmR1OUdMblRLdzBJWThrQ2Fnc1F6TWFIX1BFSWp0SWo0dFhZRmotZDdsSHhJZ29NV2FSd3Z3OVNONXRUY3E0U01JYkZ2cldCSXNCaFk5eEtBbnlCMzdpVQ?oc=5\" target=\"_blank\">Southern Co. Credits Data Centers with Q2 Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rtoinsider.com</font>",
+        "published_at": "2026-08-04T08:58:22+00:00",
+        "summary": "Georgia Power starts work on 1.5 GW gas units and 500 MW BESS (US) Enerdata",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPV3JDMk1zY1NZZzNzMmhWcThZWndnMG5SOF9LRDAyRnNXZkVGeENHWThTb0xHWnVDYmtaaks3M0tudFdOZUJYWEVraFlENXZ6YXZJSG8wVmh0a1VvbXdlWEI4dTJndGx0V2RlMFpaVUgzXzU4SUdlQkhIWmtJRFlFeUpZNjdVOXl4Zmp5amQxbEhRQVM1OFlyMjRES2dhNFg4R1BYZjJtWFVDZ2RoamhpekFfa3FDT3hPNUtmNDJB?oc=5\" target=\"_blank\">Georgia Power starts work on 1.5 GW gas units and 500 MW BESS (US)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Enerdata</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-04T08:27:09+00:00"
+        "collected_at": "2026-08-04T11:59:17+00:00"
       }
     },
     {
