@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-08-05T11:53:53+00:00",
+  "last_updated": "2026-08-05T13:52:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 31,
+  "count": 33,
   "mentions": [
     {
       "id": "addfbf3308caf432",
@@ -19,6 +19,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-01T06:23:18+00:00"
+    },
+    {
+      "id": "33957318a8c3ed35",
+      "title": "Hernan Cortes - energy.gov",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYQnM5N1ItS2R0cG1ocmRGZE5zcDF4akZBLW1xYlRWcjdVSTJPUHdqazdMTDVkUm5kamJucUVnTnl6UGhzd0g3NU1JTlplODBKbjZTSWZlZUJmSEU?oc=5",
+      "domain": "news.google.com",
+      "source": "energy.gov",
+      "language": "English",
+      "published_at": "2026-07-29T13:26:32+00:00",
+      "summary": "Hernan Cortes energy.gov",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYQnM5N1ItS2R0cG1ocmRGZE5zcDF4akZBLW1xYlRWcjdVSTJPUHdqazdMTDVkUm5kamJucUVnTnl6UGhzd0g3NU1JTlplODBKbjZTSWZlZUJmSEU?oc=5\" target=\"_blank\">Hernan Cortes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energy.gov</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-05T13:52:45+00:00"
+    },
+    {
+      "id": "f00647226ef3fb37",
+      "title": "Updates to the Section 1703 Loan Guarantee Program - energy.gov",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONHZ6MzJXUktlak4xdE12dFVpSFRVZ2xqN1hPNzdHV3NWSnZXSUJoM0JXWjZES2tBTG40Nk81VmU2eExjQ3pCM3hxanEzS29LbldnT0dqUjRTd1VlYmNOMkRPQWFGT2FVU2M5NFpMWU9qV3FnR3ZvMjlJbmJlRDQtT21QaWgzUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "energy.gov",
+      "language": "English",
+      "published_at": "2026-07-29T13:26:32+00:00",
+      "summary": "Updates to the Section 1703 Loan Guarantee Program energy.gov",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONHZ6MzJXUktlak4xdE12dFVpSFRVZ2xqN1hPNzdHV3NWSnZXSUJoM0JXWjZES2tBTG40Nk81VmU2eExjQ3pCM3hxanEzS29LbldnT0dqUjRTd1VlYmNOMkRPQWFGT2FVU2M5NFpMWU9qV3FnR3ZvMjlJbmJlRDQtT21QaWgzUQ?oc=5\" target=\"_blank\">Updates to the Section 1703 Loan Guarantee Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energy.gov</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-05T13:52:45+00:00"
     },
     {
       "id": "989d8de52174b1ef",
