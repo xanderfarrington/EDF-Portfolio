@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-04T22:56:40+00:00",
+  "last_updated": "2026-08-05T01:55:53+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 377,
+  "count": 378,
   "mentions": [
     {
       "id": "82e4a7f7da0571c5",
@@ -159,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-03T11:16:26+00:00"
+    },
+    {
+      "id": "8e9a278c5bf15f1f",
+      "title": "Georgia Power breaks ground on 'Future of Plant Bowen' - northwestgeorgianews.com",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTFBXcWVxTGlwN3A2RmRhTlhHdm5WbHJXN054M3o2NjZUdW9hX2Z4TnI4WmJPOU05V1pkMnJXMFVUd0ZDZ1lSeFFKSmdkTU1UMXEzS1JZM2h5MmVvQmNuV2pQS09fRmpDMmROVFV6bjdTcUJ4U0pnVWlBX3BkYTJUSzI1dVRyWEpYNmh4T1BzaVdMRWlzcXo5dXJCeWlaN0VwN1VUQTAxRGV5bGhFT0ZOekNfNnJheVBTQnA5U0g0WGQtZTh0WWVaWTI2Nm5iVXhOOTl4ZHpyWmxLaVNfX18zcGYyWE9LUTExNWsxaEcySEFBalhCVWVPZDZQZzQ0UWc?oc=5",
+      "domain": "news.google.com",
+      "source": "northwestgeorgianews.com",
+      "language": "English",
+      "published_at": "2026-08-03T10:00:00+00:00",
+      "summary": "Georgia Power breaks ground on 'Future of Plant Bowen' northwestgeorgianews.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTFBXcWVxTGlwN3A2RmRhTlhHdm5WbHJXN054M3o2NjZUdW9hX2Z4TnI4WmJPOU05V1pkMnJXMFVUd0ZDZ1lSeFFKSmdkTU1UMXEzS1JZM2h5MmVvQmNuV2pQS09fRmpDMmROVFV6bjdTcUJ4U0pnVWlBX3BkYTJUSzI1dVRyWEpYNmh4T1BzaVdMRWlzcXo5dXJCeWlaN0VwN1VUQTAxRGV5bGhFT0ZOekNfNnJheVBTQnA5U0g0WGQtZTh0WWVaWTI2Nm5iVXhOOTl4ZHpyWmxLaVNfX18zcGYyWE9LUTExNWsxaEcySEFBalhCVWVPZDZQZzQ0UWc?oc=5\" target=\"_blank\">Georgia Power breaks ground on 'Future of Plant Bowen'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">northwestgeorgianews.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-05T01:55:53+00:00"
     },
     {
       "id": "1378a7cee775d551",
