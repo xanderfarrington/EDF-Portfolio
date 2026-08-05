@@ -2,7 +2,7 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-08-05T01:55:48+00:00",
+  "last_updated": "2026-08-05T05:10:40+00:00",
   "archive_policy": "append_only_no_deletion",
   "count": 71,
   "mentions": [
