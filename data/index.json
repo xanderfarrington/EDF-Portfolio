@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T17:37:23+00:00",
+  "last_updated": "2026-08-05T19:21:01+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 177,
+      "count": 179,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "1cdcc84fe9c58184",
@@ -110,21 +110,21 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 33,
-      "new_mentions_this_run": 4,
+      "count": 34,
+      "new_mentions_this_run": 5,
       "latest_mention": {
-        "id": "addfbf3308caf432",
-        "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5",
+        "id": "e5327bb6296941af",
+        "title": "DOE’s Office of Energy Dominance Financing: What Energy & Critical Minerals Developers Need to Know - Mayer Brown",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWjJZekI0d181WWpLSU8tRFhmT0lwWDlMN1hHaXJ2Y1p0NWY5WUVtRUZDaGZBWTNManlta2NySXdVQnVicFNVRFJhV3JRUE5iNVd1QkxBMkZzVXV2d1JPemkycExXNml1cGJWQ3JXNEItVWw4WDlXcGpqeURiRFl4NVN4bGpIcFRNXzV4TUk3RG5xTHBsMHJpME9OTW83VEY2WkdhUW9hQ2laeHdwenoxYnlsNWp2dGpuN2lFdWZ3elNVYWVqMmFRRzk2X2VzN2hHTmFZbWN0ckJ3cDEyRmdQLXdoN3paOUpya0xF?oc=5",
         "domain": "news.google.com",
-        "source": "energy.gov",
+        "source": "Mayer Brown",
         "language": "English",
-        "published_at": "2026-07-29T13:26:32+00:00",
-        "summary": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing energy.gov",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5\" target=\"_blank\">NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energy.gov</font>",
+        "published_at": "2026-08-04T19:33:56+00:00",
+        "summary": "DOE’s Office of Energy Dominance Financing: What Energy & Critical Minerals Developers Need to Know Mayer Brown",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWjJZekI0d181WWpLSU8tRFhmT0lwWDlMN1hHaXJ2Y1p0NWY5WUVtRUZDaGZBWTNManlta2NySXdVQnVicFNVRFJhV3JRUE5iNVd1QkxBMkZzVXV2d1JPemkycExXNml1cGJWQ3JXNEItVWw4WDlXcGpqeURiRFl4NVN4bGpIcFRNXzV4TUk3RG5xTHBsMHJpME9OTW83VEY2WkdhUW9hQ2laeHdwenoxYnlsNWp2dGpuN2lFdWZ3elNVYWVqMmFRRzk2X2VzN2hHTmFZbWN0ckJ3cDEyRmdQLXdoN3paOUpya0xF?oc=5\" target=\"_blank\">DOE’s Office of Energy Dominance Financing: What Energy & Critical Minerals Developers Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mayer Brown</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-01T06:23:18+00:00"
+        "collected_at": "2026-08-05T19:20:56+00:00"
       }
     }
   ]

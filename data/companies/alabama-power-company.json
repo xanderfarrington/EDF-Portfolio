@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-05T17:36:56+00:00",
+  "last_updated": "2026-08-05T19:20:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 177,
+  "count": 179,
   "mentions": [
     {
       "id": "1cdcc84fe9c58184",
@@ -455,6 +455,20 @@
       "collected_at": "2026-08-02T06:28:06+00:00"
     },
     {
+      "id": "1a438c66798c241c",
+      "title": "Alabama Power Announces Additions To Board Of Directors - tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzVpbmFVaUUzTklxTGlzQXlVZnVhMWNrS1dfcEM2OE1pWmVhallVeVhuRlpMS2xzckhjbnpmQ2lDSjZtNlVxRWQwa1NYX3hiSndKcFpJMTB0dUVDNlk5MExWSXdldG9xNGE2blZ2NFBuZHZWOFgyRTFZTEVtbERpTkxFcVc2ZG82SzZUOFdNTXZ0MS0xdjJTdGpZQnl6X1Q4MkdWQzhFQWo1Rm1FZXpkRHNjSFUtckdXblNERU5oUjJ0STQ?oc=5",
+      "domain": "news.google.com",
+      "source": "tradingview.com",
+      "language": "English",
+      "published_at": "2026-07-24T21:35:19+00:00",
+      "summary": "Alabama Power Announces Additions To Board Of Directors tradingview.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzVpbmFVaUUzTklxTGlzQXlVZnVhMWNrS1dfcEM2OE1pWmVhallVeVhuRlpMS2xzckhjbnpmQ2lDSjZtNlVxRWQwa1NYX3hiSndKcFpJMTB0dUVDNlk5MExWSXdldG9xNGE2blZ2NFBuZHZWOFgyRTFZTEVtbERpTkxFcVc2ZG82SzZUOFdNTXZ0MS0xdjJTdGpZQnl6X1Q4MkdWQzhFQWo1Rm1FZXpkRHNjSFUtckdXblNERU5oUjJ0STQ?oc=5\" target=\"_blank\">Alabama Power Announces Additions To Board Of Directors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tradingview.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-05T19:20:34+00:00"
+    },
+    {
       "id": "819b9766644f76f7",
       "title": "Alabama Power adds two members to board of directors By Investing.com - Investing.com India",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelV5WXl4WnlDOERrWEt1ZW1BSllDdkc5TXdUOV84bEF5akE0YzluV1pyYXNVWmRScnZuSG1DeE13VmlGbFdBN2hLcTc5V2JBclROVEhySkZYclBEeHlrRGtPNFhJYjNYYkhId1NreVltVkhnMU0wNzAwcUU3M01IY19wdUY3ZHJnWlF6Rl9KbDN3UXZsWjA1azZpeEtSbWdzc3lqSHQ1eFU4cTlNT1dYV2d5QVFuVkI1dGI4ckdjTlROWTg?oc=5",
@@ -593,6 +607,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-31T02:09:42+00:00"
+    },
+    {
+      "id": "00554b89e85578c9",
+      "title": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS - rockdalenewtoncitizen.com",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSHNuTkFmM3MycHZfWE90eDlSSEo2QlplXzVVdDZPcnhiaDBxYjZIUmVVSTc0SXJHWTd0eWV5Q29hYUM1WGZpaG92ZmRQWWIxZVVLWHd2ZDRvSk1TVDczNFI3ZFJLdEd6N0pnOG9YX2Nya2c0ek0zU0Y1TmN1dTlMcEd2Nzh1T2Fpc0lQWFdrM1B4MThSMWZjaVNvUE5BUlFhNlRVU3ZNTzFzMUl0REVVNjUyeVcwYWlaSHp2TndqVXplSTVuOWxqOUFLT3dQaHpWVzFoMFJzSTZ6OHhiWWI3ZlJURkxRcTU2NjdjMS0yOWttejQwQkxGU05xVm5oTVVPUldxbg?oc=5",
+      "domain": "news.google.com",
+      "source": "rockdalenewtoncitizen.com",
+      "language": "English",
+      "published_at": "2026-07-24T20:40:00+00:00",
+      "summary": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS rockdalenewtoncitizen.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPSHNuTkFmM3MycHZfWE90eDlSSEo2QlplXzVVdDZPcnhiaDBxYjZIUmVVSTc0SXJHWTd0eWV5Q29hYUM1WGZpaG92ZmRQWWIxZVVLWHd2ZDRvSk1TVDczNFI3ZFJLdEd6N0pnOG9YX2Nya2c0ek0zU0Y1TmN1dTlMcEd2Nzh1T2Fpc0lQWFdrM1B4MThSMWZjaVNvUE5BUlFhNlRVU3ZNTzFzMUl0REVVNjUyeVcwYWlaSHp2TndqVXplSTVuOWxqOUFLT3dQaHpWVzFoMFJzSTZ6OHhiWWI3ZlJURkxRcTU2NjdjMS0yOWttejQwQkxGU05xVm5oTVVPUldxbg?oc=5\" target=\"_blank\">ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rockdalenewtoncitizen.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-05T19:20:34+00:00"
     },
     {
       "id": "6116b7430731a20e",
