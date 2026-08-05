@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T05:10:56+00:00",
+  "last_updated": "2026-08-05T08:26:15+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 71,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "92885afb47b68a0e",
         "title": "US may decide on Three Mile Island restart in June, Constellation execs say - cumberlink.com",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 379,
+      "count": 381,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "82e4a7f7da0571c5",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 31,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "addfbf3308caf432",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",

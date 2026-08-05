@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-05T05:10:46+00:00",
+  "last_updated": "2026-08-05T08:26:04+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 379,
+  "count": 381,
   "mentions": [
     {
       "id": "82e4a7f7da0571c5",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-05T05:10:46+00:00"
+    },
+    {
+      "id": "d4c73296587b38b4",
+      "title": "Georgia Power starts construction on new natural gas units at Plant Bowen - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHFPS1I4OHcxYVhPVW0yRk54ejFoZUlKNzRwWWRsaTl3ZmtBYmdGS29EeXdSVzVyVDd1RGlkVVZoN2hvUlI5YXU2N09mU3FjU3lHcm1GY2p5a3JmRmhvRlRfdURPY19ndUVscF9YZFZHVjF3UXd5QXJNQzVacXFiV0RXVmtucVlFdmVpZlBxby1BNVRlck5MUmltbzFMdXYtaHA2S1ZGb1ZCMS1Ka25oSUlncm1KcHc?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-08-04T12:15:43+00:00",
+      "summary": "Georgia Power starts construction on new natural gas units at Plant Bowen Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHFPS1I4OHcxYVhPVW0yRk54ejFoZUlKNzRwWWRsaTl3ZmtBYmdGS29EeXdSVzVyVDd1RGlkVVZoN2hvUlI5YXU2N09mU3FjU3lHcm1GY2p5a3JmRmhvRlRfdURPY19ndUVscF9YZFZHVjF3UXd5QXJNQzVacXFiV0RXVmtucVlFdmVpZlBxby1BNVRlck5MUmltbzFMdXYtaHA2S1ZGb1ZCMS1Ka25oSUlncm1KcHc?oc=5\" target=\"_blank\">Georgia Power starts construction on new natural gas units at Plant Bowen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-05T08:26:04+00:00"
     },
     {
       "id": "ee98eb081cc3cc18",
@@ -1223,6 +1237,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-30T01:51:52+00:00"
+    },
+    {
+      "id": "6cfc1448c8c28a48",
+      "title": "Georgia Power cuts ribbon on new Moody battery energy storage facility paired with solar - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNDFDeGRBZVZIdjBkejYtd3pER1JPbFpkRktmQ0h0blI0ZGNPdmQ1ZVM1a1QxR1dCSlNjaDllMEtmOXQ5ZFJqekFnUEc5a2Fuc3Q2VE1aNTlpNkdBR2ZQNkdMeEsxdU1tdU1UZEtCdHBYSUVKMHZ0cDhLRFpSSjBETEJsZnhCeC1hb2FETS1rY08zUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "summary": "Georgia Power cuts ribbon on new Moody battery energy storage facility paired with solar Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPNDFDeGRBZVZIdjBkejYtd3pER1JPbFpkRktmQ0h0blI0ZGNPdmQ1ZVM1a1QxR1dCSlNjaDllMEtmOXQ5ZFJqekFnUEc5a2Fuc3Q2VE1aNTlpNkdBR2ZQNkdMeEsxdU1tdU1UZEtCdHBYSUVKMHZ0cDhLRFpSSjBETEJsZnhCeC1hb2FETS1rY08zUQ?oc=5\" target=\"_blank\">Georgia Power cuts ribbon on new Moody battery energy storage facility paired with solar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-05T08:26:04+00:00"
     },
     {
       "id": "680662eb027b7782",
