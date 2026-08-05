@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T08:26:15+00:00",
+  "last_updated": "2026-08-05T11:53:58+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 177,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "1cdcc84fe9c58184",
         "title": "Alabama Public Service Commission approves solar project supporting data center - Alabama Reflector",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 30,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "addfbf3308caf432",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 381,
+      "count": 382,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "82e4a7f7da0571c5",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 31,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "addfbf3308caf432",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
