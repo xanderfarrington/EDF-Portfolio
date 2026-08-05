@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-05T19:20:34+00:00",
+  "last_updated": "2026-08-05T21:00:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 179,
+  "count": 183,
   "mentions": [
+    {
+      "id": "ffcf0e793de267ed",
+      "title": "Lanett approves electric easement, makes proclamations - Valley Times-News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUw4T0I2eGFENnhZbmhwYkkwcWM1cG9OQ2tZZE92S29qQ2VDdEN4d1Fma2J1cGg1MDRKcjZnNm8zeEw1Ni13SzZFa1M2VmlLUHE2TXlqRjJxTHpCYjlSUE5wRG14ckR0MHJNWTVhSUdIQkI3ZTRVZFgyVXY5aU1PN3JkMXo5QlJoZHhkNGt3RWV5eEpGZUZqTlQzZkhXeGl4OWc?oc=5",
+      "domain": "news.google.com",
+      "source": "Valley Times-News",
+      "language": "English",
+      "published_at": "2026-08-05T20:24:38+00:00",
+      "summary": "Lanett approves electric easement, makes proclamations Valley Times-News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUw4T0I2eGFENnhZbmhwYkkwcWM1cG9OQ2tZZE92S29qQ2VDdEN4d1Fma2J1cGg1MDRKcjZnNm8zeEw1Ni13SzZFa1M2VmlLUHE2TXlqRjJxTHpCYjlSUE5wRG14ckR0MHJNWTVhSUdIQkI3ZTRVZFgyVXY5aU1PN3JkMXo5QlJoZHhkNGt3RWV5eEpGZUZqTlQzZkhXeGl4OWc?oc=5\" target=\"_blank\">Lanett approves electric easement, makes proclamations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Valley Times-News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-05T21:00:54+00:00"
+    },
     {
       "id": "1cdcc84fe9c58184",
       "title": "Alabama Public Service Commission approves solar project supporting data center - Alabama Reflector",
@@ -21,6 +35,20 @@
       "collected_at": "2026-08-04T22:56:24+00:00"
     },
     {
+      "id": "72b5e6a0c00fca8a",
+      "title": "Alabama Public Service Commission approves solar project supporting data center - alabamareflector.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMW1ZQTlpM09pWmxjN2VJWGtYOWZsWEFoeWFtamQwU01VRXozRGxFSHpTY21GcER6bFlJeGxFcFFucnBsUm5ST3ZscUtNcmN5SmN5clYwZWVrNExLVDRmbF96bGhKbVYyRTJsR3VLWGF0cE5uU0x4c0lhX2VfRTdOWWpJaGhWTzdMZlYwRDBRRDZpWXlKTGUtdVhYWkNFZzN4dkpDTGdyanR5RVRENGdVT3VsRzRSNHE5MTRSUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamareflector.com",
+      "language": "English",
+      "published_at": "2026-08-04T19:39:37+00:00",
+      "summary": "Alabama Public Service Commission approves solar project supporting data center alabamareflector.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMW1ZQTlpM09pWmxjN2VJWGtYOWZsWEFoeWFtamQwU01VRXozRGxFSHpTY21GcER6bFlJeGxFcFFucnBsUm5ST3ZscUtNcmN5SmN5clYwZWVrNExLVDRmbF96bGhKbVYyRTJsR3VLWGF0cE5uU0x4c0lhX2VfRTdOWWpJaGhWTzdMZlYwRDBRRDZpWXlKTGUtdVhYWkNFZzN4dkpDTGdyanR5RVRENGdVT3VsRzRSNHE5MTRSUQ?oc=5\" target=\"_blank\">Alabama Public Service Commission approves solar project supporting data center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamareflector.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-05T21:00:54+00:00"
+    },
+    {
       "id": "e8f5b7720ac7b286",
       "title": "Alabama Power reports year-to-year increase in second-quarter profits - Alabama Reflector",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkYtdHpLOWVJM1pPekpFVE1WQXdOUGFISlZEaDRGcW9ua2NYUTFBeVZseG5WeS13eTUtTnRxLVdNb19QbGpxRzFMM1duRmdmbDA0Q29HdDVXQ18wT0I5VjBzZm1Bc0JtWXNuNzVKdDF1UV9EX3VZalk2WHhwUVh2bTlmaldnalZYTW5HdlN6SVk4cTJZd09kRkYwOW03eERUUExxekotdVRkTFZYTHFF?oc=5",
@@ -33,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-05T05:10:29+00:00"
+    },
+    {
+      "id": "4897c4dcbdb0a75c",
+      "title": "Alabama Power reports year-to-year increase in second-quarter profits - alabamareflector.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkYtdHpLOWVJM1pPekpFVE1WQXdOUGFISlZEaDRGcW9ua2NYUTFBeVZseG5WeS13eTUtTnRxLVdNb19QbGpxRzFMM1duRmdmbDA0Q29HdDVXQ18wT0I5VjBzZm1Bc0JtWXNuNzVKdDF1UV9EX3VZalk2WHhwUVh2bTlmaldnalZYTW5HdlN6SVk4cTJZd09kRkYwOW03eERUUExxekotdVRkTFZYTHFF?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamareflector.com",
+      "language": "English",
+      "published_at": "2026-08-04T17:28:48+00:00",
+      "summary": "Alabama Power reports year-to-year increase in second-quarter profits alabamareflector.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkYtdHpLOWVJM1pPekpFVE1WQXdOUGFISlZEaDRGcW9ua2NYUTFBeVZseG5WeS13eTUtTnRxLVdNb19QbGpxRzFMM1duRmdmbDA0Q29HdDVXQ18wT0I5VjBzZm1Bc0JtWXNuNzVKdDF1UV9EX3VZalk2WHhwUVh2bTlmaldnalZYTW5HdlN6SVk4cTJZd09kRkYwOW03eERUUExxekotdVRkTFZYTHFF?oc=5\" target=\"_blank\">Alabama Power reports year-to-year increase in second-quarter profits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamareflector.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-05T21:00:54+00:00"
     },
     {
       "id": "2e3161fdff5e71e1",
@@ -663,6 +705,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-26T06:30:59+00:00"
+    },
+    {
+      "id": "fcc62af10493f33f",
+      "title": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS - News-Graphic.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQLVVoMk1kcEZ3VzZyZG15bXBSa0RCZzY4SVhfSUFYdS1KdTU0a0FkUUpLWEIxOE5BTlJzd0FwUHY2SVZuN3JoeG5sdDNCM1BtWnJ0LTJxM3NpRHI3X1g4R2t6MkZxTUVPTUc5d2N4eTh0YmJ2YWM1S3I3RjBFRURQMFptM05Sc0V6Nm5oTG5LTUpkQ3R4UUE2MHlrSDVxR3FZRDdvc2pkTXhWNHg4eXprY3VNaWRJbjBER2dyN3dKdlBnRzJlbjdNRnZKSVZhd3VBeGU5WkVTQk8xQmk0TWFNNG1rdnRKLW1RelRBX2d2cHREeEdBVzRtYw?oc=5",
+      "domain": "news.google.com",
+      "source": "News-Graphic.com",
+      "language": "English",
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "summary": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS News-Graphic.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQLVVoMk1kcEZ3VzZyZG15bXBSa0RCZzY4SVhfSUFYdS1KdTU0a0FkUUpLWEIxOE5BTlJzd0FwUHY2SVZuN3JoeG5sdDNCM1BtWnJ0LTJxM3NpRHI3X1g4R2t6MkZxTUVPTUc5d2N4eTh0YmJ2YWM1S3I3RjBFRURQMFptM05Sc0V6Nm5oTG5LTUpkQ3R4UUE2MHlrSDVxR3FZRDdvc2pkTXhWNHg4eXprY3VNaWRJbjBER2dyN3dKdlBnRzJlbjdNRnZKSVZhd3VBeGU5WkVTQk8xQmk0TWFNNG1rdnRKLW1RelRBX2d2cHREeEdBVzRtYw?oc=5\" target=\"_blank\">ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Graphic.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-05T21:00:54+00:00"
     },
     {
       "id": "db2c5b896ca6c08c",

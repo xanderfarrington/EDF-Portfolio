@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T19:21:01+00:00",
+  "last_updated": "2026-08-05T21:01:21+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 179,
+      "count": 183,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "1cdcc84fe9c58184",
-        "title": "Alabama Public Service Commission approves solar project supporting data center - Alabama Reflector",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMW1ZQTlpM09pWmxjN2VJWGtYOWZsWEFoeWFtamQwU01VRXozRGxFSHpTY21GcER6bFlJeGxFcFFucnBsUm5ST3ZscUtNcmN5SmN5clYwZWVrNExLVDRmbF96bGhKbVYyRTJsR3VLWGF0cE5uU0x4c0lhX2VfRTdOWWpJaGhWTzdMZlYwRDBRRDZpWXlKTGUtdVhYWkNFZzN4dkpDTGdyanR5RVRENGdVT3VsRzRSNHE5MTRSUQ?oc=5",
+        "id": "ffcf0e793de267ed",
+        "title": "Lanett approves electric easement, makes proclamations - Valley Times-News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUw4T0I2eGFENnhZbmhwYkkwcWM1cG9OQ2tZZE92S29qQ2VDdEN4d1Fma2J1cGg1MDRKcjZnNm8zeEw1Ni13SzZFa1M2VmlLUHE2TXlqRjJxTHpCYjlSUE5wRG14ckR0MHJNWTVhSUdIQkI3ZTRVZFgyVXY5aU1PN3JkMXo5QlJoZHhkNGt3RWV5eEpGZUZqTlQzZkhXeGl4OWc?oc=5",
         "domain": "news.google.com",
-        "source": "Alabama Reflector",
+        "source": "Valley Times-News",
         "language": "English",
-        "published_at": "2026-08-04T19:39:37+00:00",
-        "summary": "Alabama Public Service Commission approves solar project supporting data center Alabama Reflector",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMW1ZQTlpM09pWmxjN2VJWGtYOWZsWEFoeWFtamQwU01VRXozRGxFSHpTY21GcER6bFlJeGxFcFFucnBsUm5ST3ZscUtNcmN5SmN5clYwZWVrNExLVDRmbF96bGhKbVYyRTJsR3VLWGF0cE5uU0x4c0lhX2VfRTdOWWpJaGhWTzdMZlYwRDBRRDZpWXlKTGUtdVhYWkNFZzN4dkpDTGdyanR5RVRENGdVT3VsRzRSNHE5MTRSUQ?oc=5\" target=\"_blank\">Alabama Public Service Commission approves solar project supporting data center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Reflector</font>",
+        "published_at": "2026-08-05T20:24:38+00:00",
+        "summary": "Lanett approves electric easement, makes proclamations Valley Times-News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUw4T0I2eGFENnhZbmhwYkkwcWM1cG9OQ2tZZE92S29qQ2VDdEN4d1Fma2J1cGg1MDRKcjZnNm8zeEw1Ni13SzZFa1M2VmlLUHE2TXlqRjJxTHpCYjlSUE5wRG14ckR0MHJNWTVhSUdIQkI3ZTRVZFgyVXY5aU1PN3JkMXo5QlJoZHhkNGt3RWV5eEpGZUZqTlQzZkhXeGl4OWc?oc=5\" target=\"_blank\">Lanett approves electric easement, makes proclamations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Valley Times-News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-04T22:56:24+00:00"
+        "collected_at": "2026-08-05T21:00:54+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 71,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "92885afb47b68a0e",
         "title": "US may decide on Three Mile Island restart in June, Constellation execs say - cumberlink.com",
