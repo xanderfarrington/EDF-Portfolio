@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-05T21:00:54+00:00",
+  "last_updated": "2026-08-05T22:52:05+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 183,
+  "count": 184,
   "mentions": [
+    {
+      "id": "98d35de1f6ae50ec",
+      "title": "Alabama Power providing energy assistance amid soaring temperatures, energy costs - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlllb3dUZE0tUmhHaTRWZVhsZnUwUEREWmVCbmM3RTg4T0IycnRYQS1oNTh2SldlNU9VR1NFeE5rRzQ3OGZ6dXdZRk1hQjJmVjBlYVViRHljZ2Zwb3ZTQ3FoNmY0SW9fTEZXSFh0b3NuUXh5QVZOVFRsdWp4alQ0SnJxOHRmazNGQ0VIS3dB?oc=5",
+      "domain": "news.google.com",
+      "source": "AOL.com",
+      "language": "English",
+      "published_at": "2026-08-05T22:13:29+00:00",
+      "summary": "Alabama Power providing energy assistance amid soaring temperatures, energy costs AOL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlllb3dUZE0tUmhHaTRWZVhsZnUwUEREWmVCbmM3RTg4T0IycnRYQS1oNTh2SldlNU9VR1NFeE5rRzQ3OGZ6dXdZRk1hQjJmVjBlYVViRHljZ2Zwb3ZTQ3FoNmY0SW9fTEZXSFh0b3NuUXh5QVZOVFRsdWp4alQ0SnJxOHRmazNGQ0VIS3dB?oc=5\" target=\"_blank\">Alabama Power providing energy assistance amid soaring temperatures, energy costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-05T22:52:05+00:00"
+    },
     {
       "id": "ffcf0e793de267ed",
       "title": "Lanett approves electric easement, makes proclamations - Valley Times-News",

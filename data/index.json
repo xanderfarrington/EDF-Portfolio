@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-05T21:01:21+00:00",
+  "last_updated": "2026-08-05T22:52:32+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 73,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "dee1304602b5c27c",
         "title": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y - TradingView",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 183,
+      "count": 184,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "ffcf0e793de267ed",
-        "title": "Lanett approves electric easement, makes proclamations - Valley Times-News",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUw4T0I2eGFENnhZbmhwYkkwcWM1cG9OQ2tZZE92S29qQ2VDdEN4d1Fma2J1cGg1MDRKcjZnNm8zeEw1Ni13SzZFa1M2VmlLUHE2TXlqRjJxTHpCYjlSUE5wRG14ckR0MHJNWTVhSUdIQkI3ZTRVZFgyVXY5aU1PN3JkMXo5QlJoZHhkNGt3RWV5eEpGZUZqTlQzZkhXeGl4OWc?oc=5",
+        "id": "98d35de1f6ae50ec",
+        "title": "Alabama Power providing energy assistance amid soaring temperatures, energy costs - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlllb3dUZE0tUmhHaTRWZVhsZnUwUEREWmVCbmM3RTg4T0IycnRYQS1oNTh2SldlNU9VR1NFeE5rRzQ3OGZ6dXdZRk1hQjJmVjBlYVViRHljZ2Zwb3ZTQ3FoNmY0SW9fTEZXSFh0b3NuUXh5QVZOVFRsdWp4alQ0SnJxOHRmazNGQ0VIS3dB?oc=5",
         "domain": "news.google.com",
-        "source": "Valley Times-News",
+        "source": "AOL.com",
         "language": "English",
-        "published_at": "2026-08-05T20:24:38+00:00",
-        "summary": "Lanett approves electric easement, makes proclamations Valley Times-News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUw4T0I2eGFENnhZbmhwYkkwcWM1cG9OQ2tZZE92S29qQ2VDdEN4d1Fma2J1cGg1MDRKcjZnNm8zeEw1Ni13SzZFa1M2VmlLUHE2TXlqRjJxTHpCYjlSUE5wRG14ckR0MHJNWTVhSUdIQkI3ZTRVZFgyVXY5aU1PN3JkMXo5QlJoZHhkNGt3RWV5eEpGZUZqTlQzZkhXeGl4OWc?oc=5\" target=\"_blank\">Lanett approves electric easement, makes proclamations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Valley Times-News</font>",
+        "published_at": "2026-08-05T22:13:29+00:00",
+        "summary": "Alabama Power providing energy assistance amid soaring temperatures, energy costs AOL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlllb3dUZE0tUmhHaTRWZVhsZnUwUEREWmVCbmM3RTg4T0IycnRYQS1oNTh2SldlNU9VR1NFeE5rRzQ3OGZ6dXdZRk1hQjJmVjBlYVViRHljZ2Zwb3ZTQ3FoNmY0SW9fTEZXSFh0b3NuUXh5QVZOVFRsdWp4alQ0SnJxOHRmazNGQ0VIS3dB?oc=5\" target=\"_blank\">Alabama Power providing energy assistance amid soaring temperatures, energy costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-05T21:00:54+00:00"
+        "collected_at": "2026-08-05T22:52:05+00:00"
       }
     },
     {
