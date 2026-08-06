@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T01:59:33+00:00",
+  "last_updated": "2026-08-06T05:20:45+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 185,
-      "new_mentions_this_run": 25,
+      "count": 186,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "98d35de1f6ae50ec",
         "title": "Alabama Power providing energy assistance amid soaring temperatures, energy costs - AOL.com",
@@ -89,42 +89,42 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 385,
+      "count": 386,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "82e4a7f7da0571c5",
-        "title": "State regulator reviews OpenAI-Georgia Power contract - WABE",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEVxS0VJd3NVOXl3Y1RfREp2cktSRE9IWmVmLWFzNlFFV1hnak04a0ZWQnhtbXU0MUUwTkRqSXVwQ3BQYTBhbS0ya056XzdvZE1hQUFvWXU1S2dkaWRobGpfM1JnVGZkaXRNaURIY0hNRUNPNWlkT3FjUTRFVHRJaA?oc=5",
+        "id": "12415021a2e4bec5",
+        "title": "EU threatens Georgia’s power supply with sanctions on Russian company - Follow the Money - Platform for investigative journalism",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkVrcm9xNVZIWnVnT3pjTVp5QmNqTmJVVW94MWZRQTlnT25vYVRaZGQ0WG1GTHNfa2NmaV9nVnlzblZkMVVUaUJUQ0FPMjd5SWtiOWRoSU40aXpLTUxfMlZvUzBnMDZxWE1sRFVkTmpyUEp2b0RmRkU5NV9saXlWNnVZcUl1cEF5ajYycWlRU1J5eGFlTG9IS1lFRUZnVWpHcEZLUw?oc=5",
         "domain": "news.google.com",
-        "source": "WABE",
+        "source": "Follow the Money - Platform for investigative journalism",
         "language": "English",
-        "published_at": "2026-08-04T19:37:22+00:00",
-        "summary": "State regulator reviews OpenAI-Georgia Power contract WABE",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEVxS0VJd3NVOXl3Y1RfREp2cktSRE9IWmVmLWFzNlFFV1hnak04a0ZWQnhtbXU0MUUwTkRqSXVwQ3BQYTBhbS0ya056XzdvZE1hQUFvWXU1S2dkaWRobGpfM1JnVGZkaXRNaURIY0hNRUNPNWlkT3FjUTRFVHRJaA?oc=5\" target=\"_blank\">State regulator reviews OpenAI-Georgia Power contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
+        "published_at": "2026-08-06T04:00:00+00:00",
+        "summary": "EU threatens Georgia’s power supply with sanctions on Russian company Follow the Money - Platform for investigative journalism",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkVrcm9xNVZIWnVnT3pjTVp5QmNqTmJVVW94MWZRQTlnT25vYVRaZGQ0WG1GTHNfa2NmaV9nVnlzblZkMVVUaUJUQ0FPMjd5SWtiOWRoSU40aXpLTUxfMlZvUzBnMDZxWE1sRFVkTmpyUEp2b0RmRkU5NV9saXlWNnVZcUl1cEF5ajYycWlRU1J5eGFlTG9IS1lFRUZnVWpHcEZLUw?oc=5\" target=\"_blank\">EU threatens Georgia’s power supply with sanctions on Russian company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Follow the Money - Platform for investigative journalism</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-04T21:05:17+00:00"
+        "collected_at": "2026-08-06T05:20:35+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 34,
-      "new_mentions_this_run": 5,
+      "count": 35,
+      "new_mentions_this_run": 6,
       "latest_mention": {
-        "id": "e5327bb6296941af",
-        "title": "DOE’s Office of Energy Dominance Financing: What Energy & Critical Minerals Developers Need to Know - Mayer Brown",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWjJZekI0d181WWpLSU8tRFhmT0lwWDlMN1hHaXJ2Y1p0NWY5WUVtRUZDaGZBWTNManlta2NySXdVQnVicFNVRFJhV3JRUE5iNVd1QkxBMkZzVXV2d1JPemkycExXNml1cGJWQ3JXNEItVWw4WDlXcGpqeURiRFl4NVN4bGpIcFRNXzV4TUk3RG5xTHBsMHJpME9OTW83VEY2WkdhUW9hQ2laeHdwenoxYnlsNWp2dGpuN2lFdWZ3elNVYWVqMmFRRzk2X2VzN2hHTmFZbWN0ckJ3cDEyRmdQLXdoN3paOUpya0xF?oc=5",
+        "id": "2e45e048ed7664fe",
+        "title": "United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C. - mondaq.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLUFZUS0yZ1BkYTdid1RUR2RJQ2lRcmNoU1hMdEJaRFJ4RE9kU0s3MDZERF8yeWw5TzBOS2pTcEliOFpMOERaX3BySlNOVWplakNFTFFMWGR5MXpmVkZ4RU5UeWhBMHdZUzJwSzZDb25FbHE4R0FDbWFGQ1pHNUM0SkV1Vm45cXNvU1g5VHdPa3FUN01ZZHZYa1I0ekpvSjdKcmNsQ0VPcVNHbjg0cXBQemNCNHhVSFJUel9tdHV6dTFmLWUyVVdUdERqZWN2SENGZ0EzRS1qUFliakRPVjB6T0h4OTE1YWhzTnFmb2U5ZlA5UQ?oc=5",
         "domain": "news.google.com",
-        "source": "Mayer Brown",
+        "source": "mondaq.com",
         "language": "English",
-        "published_at": "2026-08-04T19:33:56+00:00",
-        "summary": "DOE’s Office of Energy Dominance Financing: What Energy & Critical Minerals Developers Need to Know Mayer Brown",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWjJZekI0d181WWpLSU8tRFhmT0lwWDlMN1hHaXJ2Y1p0NWY5WUVtRUZDaGZBWTNManlta2NySXdVQnVicFNVRFJhV3JRUE5iNVd1QkxBMkZzVXV2d1JPemkycExXNml1cGJWQ3JXNEItVWw4WDlXcGpqeURiRFl4NVN4bGpIcFRNXzV4TUk3RG5xTHBsMHJpME9OTW83VEY2WkdhUW9hQ2laeHdwenoxYnlsNWp2dGpuN2lFdWZ3elNVYWVqMmFRRzk2X2VzN2hHTmFZbWN0ckJ3cDEyRmdQLXdoN3paOUpya0xF?oc=5\" target=\"_blank\">DOE’s Office of Energy Dominance Financing: What Energy & Critical Minerals Developers Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mayer Brown</font>",
+        "published_at": "2026-08-05T07:31:03+00:00",
+        "summary": "United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C. mondaq.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLUFZUS0yZ1BkYTdid1RUR2RJQ2lRcmNoU1hMdEJaRFJ4RE9kU0s3MDZERF8yeWw5TzBOS2pTcEliOFpMOERaX3BySlNOVWplakNFTFFMWGR5MXpmVkZ4RU5UeWhBMHdZUzJwSzZDb25FbHE4R0FDbWFGQ1pHNUM0SkV1Vm45cXNvU1g5VHdPa3FUN01ZZHZYa1I0ekpvSjdKcmNsQ0VPcVNHbjg0cXBQemNCNHhVSFJUel9tdHV6dTFmLWUyVVdUdERqZWN2SENGZ0EzRS1qUFliakRPVjB6T0h4OTE1YWhzTnFmb2U5ZlA5UQ?oc=5\" target=\"_blank\">United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mondaq.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-05T19:20:56+00:00"
+        "collected_at": "2026-08-06T05:20:40+00:00"
       }
     }
   ]
