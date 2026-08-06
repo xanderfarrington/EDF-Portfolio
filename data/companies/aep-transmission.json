@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-08-05T22:51:59+00:00",
+  "last_updated": "2026-08-06T01:59:00+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 73,
+  "count": 74,
   "mentions": [
     {
       "id": "dee1304602b5c27c",
@@ -537,6 +537,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-08T22:58:29+00:00"
+    },
+    {
+      "id": "32fd9cb5958a9d15",
+      "title": "DOE to Loan AEP Texas up to $3.26B for Upgrades - rtoinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1Mzd2laSVJtM21QUmFEQWRLX0RHdklYTEtlWEpudWVXSGZBWkxMd3IwbEZrcWQzNWZNYlhrRzloQ3FhX1JnUlM1V2VXS2ktbl9hN1JsZDhJQzlaaWdYMmZsUlFRbnpDVGxfNWYtZTVwZXVkeGFjbHVicHphR0VlZDhkZnphQTRrZVE?oc=5",
+      "domain": "news.google.com",
+      "source": "rtoinsider.com",
+      "language": "English",
+      "published_at": "2026-07-08T21:54:25+00:00",
+      "summary": "DOE to Loan AEP Texas up to $3.26B for Upgrades rtoinsider.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1Mzd2laSVJtM21QUmFEQWRLX0RHdklYTEtlWEpudWVXSGZBWkxMd3IwbEZrcWQzNWZNYlhrRzloQ3FhX1JnUlM1V2VXS2ktbl9hN1JsZDhJQzlaaWdYMmZsUlFRbnpDVGxfNWYtZTVwZXVkeGFjbHVicHphR0VlZDhkZnphQTRrZVE?oc=5\" target=\"_blank\">DOE to Loan AEP Texas up to $3.26B for Upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rtoinsider.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-06T01:59:00+00:00"
     },
     {
       "id": "130945e5daeea6c3",
