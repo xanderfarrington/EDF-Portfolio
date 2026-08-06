@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-06T14:24:27+00:00",
+  "last_updated": "2026-08-06T23:53:08+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 74,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "dee1304602b5c27c",
         "title": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y - TradingView",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 188,
-      "new_mentions_this_run": 0,
+      "count": 192,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "8cdd642c39bc5cf7",
-        "title": "PSC approves construction of Macon and Bullock County solar facility paid for by Meta - aldailynews.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXN0bS1ULXJiZF9oUXhlMk5kbXA4cGtBcF9xQmU0SmR4RUhKNThHdE1DME9helVEYXBTSW55MXQ5bFBxeFhCdzJTQTNYUl9ZUE1sUlE3aE1IMTRTdjFuSXpkUEptM1liTkN0Qmd4Q1hrbWNWdmstbUZNTThhWDdjYkJaOTRyLVJxckxUamY1dmRhYU9Hcm5iT2d0ZkdEeDRyek9UMzhFVmhBWEF6MVhJ?oc=5",
+        "id": "08f7a9dd6ee250b0",
+        "title": "Tuberville calls for Alabama Power to extend rate freeze - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlJUZTBDZTJmZjlHcmtJSG5WcENzVFVuWVRoM1FrMlV2NGxNWUgzeDVKMGY5azdYNWxwUVN0ZjI3OWc2T0JJaWF1UlFsMGtyUEJoVXdvcUhTWUE0LU1yRUhfWDkyRENienpMNXNDcG1QSkNTYlptMUU4R3N5NnlDZzFZakpTS0ZmZnhMajNYVHFycjRwYjRYQ9IBrAFBVV95cUxNUDFaVjdGUnlXb2lKM3BCNi1kU1Y5cjk0S1dQTU5GQThJRGZXcGI4V0pzSWFKa29Fd0VLd0xSVmNkd2tZT21QcEFzd2ZQVmVLdWRuM3ZBM091elFGck9YM09oVmg4bk45em5sVVNiUEh6Q1d1UHVTV1FuOFpfZE8zc3pBNnhTMjhNOWpyc0JyaThJR3hsQkhjSGVCeE9rc0JUMHNRZ0Z5azVYUkpk?oc=5",
         "domain": "news.google.com",
-        "source": "aldailynews.com",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-08-06T11:56:50+00:00",
-        "summary": "PSC approves construction of Macon and Bullock County solar facility paid for by Meta aldailynews.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXN0bS1ULXJiZF9oUXhlMk5kbXA4cGtBcF9xQmU0SmR4RUhKNThHdE1DME9helVEYXBTSW55MXQ5bFBxeFhCdzJTQTNYUl9ZUE1sUlE3aE1IMTRTdjFuSXpkUEptM1liTkN0Qmd4Q1hrbWNWdmstbUZNTThhWDdjYkJaOTRyLVJxckxUamY1dmRhYU9Hcm5iT2d0ZkdEeDRyek9UMzhFVmhBWEF6MVhJ?oc=5\" target=\"_blank\">PSC approves construction of Macon and Bullock County solar facility paid for by Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aldailynews.com</font>",
+        "published_at": "2026-08-06T19:32:00+00:00",
+        "summary": "Tuberville calls for Alabama Power to extend rate freeze AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlJUZTBDZTJmZjlHcmtJSG5WcENzVFVuWVRoM1FrMlV2NGxNWUgzeDVKMGY5azdYNWxwUVN0ZjI3OWc2T0JJaWF1UlFsMGtyUEJoVXdvcUhTWUE0LU1yRUhfWDkyRENienpMNXNDcG1QSkNTYlptMUU4R3N5NnlDZzFZakpTS0ZmZnhMajNYVHFycjRwYjRYQ9IBrAFBVV95cUxNUDFaVjdGUnlXb2lKM3BCNi1kU1Y5cjk0S1dQTU5GQThJRGZXcGI4V0pzSWFKa29Fd0VLd0xSVmNkd2tZT21QcEFzd2ZQVmVLdWRuM3ZBM091elFGck9YM09oVmg4bk45em5sVVNiUEh6Q1d1UHVTV1FuOFpfZE8zc3pBNnhTMjhNOWpyc0JyaThJR3hsQkhjSGVCeE9rc0JUMHNRZ0Z5azVYUkpk?oc=5\" target=\"_blank\">Tuberville calls for Alabama Power to extend rate freeze</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-06T11:59:17+00:00"
+        "collected_at": "2026-08-06T23:52:41+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 30,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "addfbf3308caf432",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 71,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "92885afb47b68a0e",
         "title": "US may decide on Three Mile Island restart in June, Constellation execs say - cumberlink.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 386,
-      "new_mentions_this_run": 0,
+      "count": 388,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "12415021a2e4bec5",
-        "title": "EU threatens Georgia’s power supply with sanctions on Russian company - Follow the Money - Platform for investigative journalism",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkVrcm9xNVZIWnVnT3pjTVp5QmNqTmJVVW94MWZRQTlnT25vYVRaZGQ0WG1GTHNfa2NmaV9nVnlzblZkMVVUaUJUQ0FPMjd5SWtiOWRoSU40aXpLTUxfMlZvUzBnMDZxWE1sRFVkTmpyUEp2b0RmRkU5NV9saXlWNnVZcUl1cEF5ajYycWlRU1J5eGFlTG9IS1lFRUZnVWpHcEZLUw?oc=5",
+        "id": "5db694834bf67046",
+        "title": "AJC Varsity preseason all-state teams: Watch for these standouts in 2026 - AJC.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS19sYkhIVGVZUlhDcVFhVFZHTEFLalZWV25YMGctRFZLY0ZWdU92Ullyc2JkQ091UW9Yd3NBSDVzZ3VQRXhxUFpEV0tfaUlHWEJmNzRTQl9SYTNsX18wbGQtWUUtdTdOcU1rQnVGdVoybnV5MUlQMDR4SktycWZuVmRMUHU1VXNNSnZPTlRHenkzVFBXRWdpSzh5UmRpQmhPTU4zNTljWjZBbVNxUUE?oc=5",
         "domain": "news.google.com",
-        "source": "Follow the Money - Platform for investigative journalism",
+        "source": "AJC.com",
         "language": "English",
-        "published_at": "2026-08-06T04:00:00+00:00",
-        "summary": "EU threatens Georgia’s power supply with sanctions on Russian company Follow the Money - Platform for investigative journalism",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkVrcm9xNVZIWnVnT3pjTVp5QmNqTmJVVW94MWZRQTlnT25vYVRaZGQ0WG1GTHNfa2NmaV9nVnlzblZkMVVUaUJUQ0FPMjd5SWtiOWRoSU40aXpLTUxfMlZvUzBnMDZxWE1sRFVkTmpyUEp2b0RmRkU5NV9saXlWNnVZcUl1cEF5ajYycWlRU1J5eGFlTG9IS1lFRUZnVWpHcEZLUw?oc=5\" target=\"_blank\">EU threatens Georgia’s power supply with sanctions on Russian company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Follow the Money - Platform for investigative journalism</font>",
+        "published_at": "2026-08-06T18:52:47+00:00",
+        "summary": "AJC Varsity preseason all-state teams: Watch for these standouts in 2026 AJC.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOS19sYkhIVGVZUlhDcVFhVFZHTEFLalZWV25YMGctRFZLY0ZWdU92Ullyc2JkQ091UW9Yd3NBSDVzZ3VQRXhxUFpEV0tfaUlHWEJmNzRTQl9SYTNsX18wbGQtWUUtdTdOcU1rQnVGdVoybnV5MUlQMDR4SktycWZuVmRMUHU1VXNNSnZPTlRHenkzVFBXRWdpSzh5UmRpQmhPTU4zNTljWjZBbVNxUUE?oc=5\" target=\"_blank\">AJC Varsity preseason all-state teams: Watch for these standouts in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-06T05:20:35+00:00"
+        "collected_at": "2026-08-06T23:52:57+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 36,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "2e45e048ed7664fe",
         "title": "United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C. - mondaq.com",
