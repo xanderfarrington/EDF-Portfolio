@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T08:24:03+00:00",
+  "last_updated": "2026-08-06T11:59:44+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 186,
-      "new_mentions_this_run": 19,
+      "count": 188,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "98d35de1f6ae50ec",
-        "title": "Alabama Power providing energy assistance amid soaring temperatures, energy costs - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlllb3dUZE0tUmhHaTRWZVhsZnUwUEREWmVCbmM3RTg4T0IycnRYQS1oNTh2SldlNU9VR1NFeE5rRzQ3OGZ6dXdZRk1hQjJmVjBlYVViRHljZ2Zwb3ZTQ3FoNmY0SW9fTEZXSFh0b3NuUXh5QVZOVFRsdWp4alQ0SnJxOHRmazNGQ0VIS3dB?oc=5",
+        "id": "8cdd642c39bc5cf7",
+        "title": "PSC approves construction of Macon and Bullock County solar facility paid for by Meta - aldailynews.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXN0bS1ULXJiZF9oUXhlMk5kbXA4cGtBcF9xQmU0SmR4RUhKNThHdE1DME9helVEYXBTSW55MXQ5bFBxeFhCdzJTQTNYUl9ZUE1sUlE3aE1IMTRTdjFuSXpkUEptM1liTkN0Qmd4Q1hrbWNWdmstbUZNTThhWDdjYkJaOTRyLVJxckxUamY1dmRhYU9Hcm5iT2d0ZkdEeDRyek9UMzhFVmhBWEF6MVhJ?oc=5",
         "domain": "news.google.com",
-        "source": "AOL.com",
+        "source": "aldailynews.com",
         "language": "English",
-        "published_at": "2026-08-05T22:13:29+00:00",
-        "summary": "Alabama Power providing energy assistance amid soaring temperatures, energy costs AOL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlllb3dUZE0tUmhHaTRWZVhsZnUwUEREWmVCbmM3RTg4T0IycnRYQS1oNTh2SldlNU9VR1NFeE5rRzQ3OGZ6dXdZRk1hQjJmVjBlYVViRHljZ2Zwb3ZTQ3FoNmY0SW9fTEZXSFh0b3NuUXh5QVZOVFRsdWp4alQ0SnJxOHRmazNGQ0VIS3dB?oc=5\" target=\"_blank\">Alabama Power providing energy assistance amid soaring temperatures, energy costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "published_at": "2026-08-06T11:56:50+00:00",
+        "summary": "PSC approves construction of Macon and Bullock County solar facility paid for by Meta aldailynews.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXN0bS1ULXJiZF9oUXhlMk5kbXA4cGtBcF9xQmU0SmR4RUhKNThHdE1DME9helVEYXBTSW55MXQ5bFBxeFhCdzJTQTNYUl9ZUE1sUlE3aE1IMTRTdjFuSXpkUEptM1liTkN0Qmd4Q1hrbWNWdmstbUZNTThhWDdjYkJaOTRyLVJxckxUamY1dmRhYU9Hcm5iT2d0ZkdEeDRyek9UMzhFVmhBWEF6MVhJ?oc=5\" target=\"_blank\">PSC approves construction of Macon and Bullock County solar facility paid for by Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aldailynews.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-05T22:52:05+00:00"
+        "collected_at": "2026-08-06T11:59:17+00:00"
       }
     },
     {

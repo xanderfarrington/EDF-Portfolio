@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-06T08:23:35+00:00",
+  "last_updated": "2026-08-06T11:59:17+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 186,
+  "count": 188,
   "mentions": [
+    {
+      "id": "8cdd642c39bc5cf7",
+      "title": "PSC approves construction of Macon and Bullock County solar facility paid for by Meta - aldailynews.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXN0bS1ULXJiZF9oUXhlMk5kbXA4cGtBcF9xQmU0SmR4RUhKNThHdE1DME9helVEYXBTSW55MXQ5bFBxeFhCdzJTQTNYUl9ZUE1sUlE3aE1IMTRTdjFuSXpkUEptM1liTkN0Qmd4Q1hrbWNWdmstbUZNTThhWDdjYkJaOTRyLVJxckxUamY1dmRhYU9Hcm5iT2d0ZkdEeDRyek9UMzhFVmhBWEF6MVhJ?oc=5",
+      "domain": "news.google.com",
+      "source": "aldailynews.com",
+      "language": "English",
+      "published_at": "2026-08-06T11:56:50+00:00",
+      "summary": "PSC approves construction of Macon and Bullock County solar facility paid for by Meta aldailynews.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXN0bS1ULXJiZF9oUXhlMk5kbXA4cGtBcF9xQmU0SmR4RUhKNThHdE1DME9helVEYXBTSW55MXQ5bFBxeFhCdzJTQTNYUl9ZUE1sUlE3aE1IMTRTdjFuSXpkUEptM1liTkN0Qmd4Q1hrbWNWdmstbUZNTThhWDdjYkJaOTRyLVJxckxUamY1dmRhYU9Hcm5iT2d0ZkdEeDRyek9UMzhFVmhBWEF6MVhJ?oc=5\" target=\"_blank\">PSC approves construction of Macon and Bullock County solar facility paid for by Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aldailynews.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-06T11:59:17+00:00"
+    },
     {
       "id": "98d35de1f6ae50ec",
       "title": "Alabama Power providing energy assistance amid soaring temperatures, energy costs - AOL.com",
@@ -33,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-06T01:59:06+00:00"
+    },
+    {
+      "id": "8ee8b722c21fd8dc",
+      "title": "Alabama Power providing energy assistance amid soaring temperatures, energy costs - WRBL",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVJfaFBmMldNYUgyenIzTWdaQVpCaXFLSGdHWXZaMWYwSXZHbjB1UzlQT3NBaVJQOTZSRi1iSHBKOEZ6LXJOZWhhZ2I4d3Y3M1RZejBiZmU0dVoyZ1VQRWdwYVhDdU5CaENNWGtSV2lickhVWERJMHp0aFpJZlJueW94TzJHV2g3VXBoTGxRQkZQd21nRHNEMVNLMlhpUTczcmF2YWE1ZzFYT1HSAbABQVVfeXFMTmtlaHc3c3k3ZG05Z3N1NU1RZ2VXc1A0aFViaF9nTG1PS2UzeVlHQXZvanVHbktqZURJYl90YVBOM2ppNXlzN2hzbnNTS0Q1cFJvUGQ5cDRNaktrNmRLUmU5c2M5YWdyS3oybUlVS2VKb2NWM1dqb3NsWXdRaF8zVkFzNEQtRDhHazhyYnM3dTAzZVNRMmw5OURzMEtzTzNxTWhfTEJVSkZuMzRRUVRkM2s?oc=5",
+      "domain": "news.google.com",
+      "source": "WRBL",
+      "language": "English",
+      "published_at": "2026-08-05T21:12:15+00:00",
+      "summary": "Alabama Power providing energy assistance amid soaring temperatures, energy costs WRBL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVJfaFBmMldNYUgyenIzTWdaQVpCaXFLSGdHWXZaMWYwSXZHbjB1UzlQT3NBaVJQOTZSRi1iSHBKOEZ6LXJOZWhhZ2I4d3Y3M1RZejBiZmU0dVoyZ1VQRWdwYVhDdU5CaENNWGtSV2lickhVWERJMHp0aFpJZlJueW94TzJHV2g3VXBoTGxRQkZQd21nRHNEMVNLMlhpUTczcmF2YWE1ZzFYT1HSAbABQVVfeXFMTmtlaHc3c3k3ZG05Z3N1NU1RZ2VXc1A0aFViaF9nTG1PS2UzeVlHQXZvanVHbktqZURJYl90YVBOM2ppNXlzN2hzbnNTS0Q1cFJvUGQ5cDRNaktrNmRLUmU5c2M5YWdyS3oybUlVS2VKb2NWM1dqb3NsWXdRaF8zVkFzNEQtRDhHazhyYnM3dTAzZVNRMmw5OURzMEtzTzNxTWhfTEJVSkZuMzRRUVRkM2s?oc=5\" target=\"_blank\">Alabama Power providing energy assistance amid soaring temperatures, energy costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRBL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-06T11:59:17+00:00"
     },
     {
       "id": "ffcf0e793de267ed",
