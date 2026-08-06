@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-06T11:59:44+00:00",
+  "last_updated": "2026-08-06T14:24:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 74,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "dee1304602b5c27c",
         "title": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y - TradingView",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 188,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "8cdd642c39bc5cf7",
         "title": "PSC approves construction of Macon and Bullock County solar facility paid for by Meta - aldailynews.com",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 30,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "addfbf3308caf432",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 71,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "92885afb47b68a0e",
         "title": "US may decide on Three Mile Island restart in June, Constellation execs say - cumberlink.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 386,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "12415021a2e4bec5",
         "title": "EU threatens Georgia’s power supply with sanctions on Russian company - Follow the Money - Platform for investigative journalism",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 36,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "2e45e048ed7664fe",
         "title": "United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C. - mondaq.com",
