@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-07T10:45:45+00:00",
+  "last_updated": "2026-08-07T12:48:00+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 196,
+  "count": 197,
   "mentions": [
     {
       "id": "08f7a9dd6ee250b0",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-06T23:52:41+00:00"
+    },
+    {
+      "id": "6f012e1c35378855",
+      "title": "Tuberville calls on Alabama Power to freeze rates 'further into the future' amid data center debate - 1819news.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkkyZEh2dUpLR2ROb19sWGJ1MUIwX2N3TDUzM3Q5LVJLaktQZ0ZLaE9LTkVLWXVKTVNtNURWQlRzcDVjalQzNUxSSmRGZDlxdTB0Y0h2c2NyX1A5T2k0eTlTSXNRY2FQTkhMMzFPY00wLTZWM2RtSUVHYkstNVpMS3d4ZXViS3ladHMzUkF2d0VmWmNlamtpZXlGc3BIQkdsVkFOc1FhUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "1819news.com",
+      "language": "English",
+      "published_at": "2026-08-06T16:11:58+00:00",
+      "summary": "Tuberville calls on Alabama Power to freeze rates 'further into the future' amid data center debate 1819news.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkkyZEh2dUpLR2ROb19sWGJ1MUIwX2N3TDUzM3Q5LVJLaktQZ0ZLaE9LTkVLWXVKTVNtNURWQlRzcDVjalQzNUxSSmRGZDlxdTB0Y0h2c2NyX1A5T2k0eTlTSXNRY2FQTkhMMzFPY00wLTZWM2RtSUVHYkstNVpMS3d4ZXViS3ladHMzUkF2d0VmWmNlamtpZXlGc3BIQkdsVkFOc1FhUQ?oc=5\" target=\"_blank\">Tuberville calls on Alabama Power to freeze rates 'further into the future' amid data center debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819news.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-07T12:48:00+00:00"
     },
     {
       "id": "8cdd642c39bc5cf7",

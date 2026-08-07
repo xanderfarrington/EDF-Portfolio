@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-07T10:46:01+00:00",
+  "last_updated": "2026-08-07T12:48:16+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 390,
+  "count": 391,
   "mentions": [
     {
       "id": "5db694834bf67046",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-06T05:20:35+00:00"
+    },
+    {
+      "id": "d752e2bf05ffcf44",
+      "title": "State regulator reviews OpenAI-Georgia Power contract - wabe.org",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEVxS0VJd3NVOXl3Y1RfREp2cktSRE9IWmVmLWFzNlFFV1hnak04a0ZWQnhtbXU0MUUwTkRqSXVwQ3BQYTBhbS0ya056XzdvZE1hQUFvWXU1S2dkaWRobGpfM1JnVGZkaXRNaURIY0hNRUNPNWlkT3FjUTRFVHRJaA?oc=5",
+      "domain": "news.google.com",
+      "source": "wabe.org",
+      "language": "English",
+      "published_at": "2026-08-04T19:38:15+00:00",
+      "summary": "State regulator reviews OpenAI-Georgia Power contract wabe.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEVxS0VJd3NVOXl3Y1RfREp2cktSRE9IWmVmLWFzNlFFV1hnak04a0ZWQnhtbXU0MUUwTkRqSXVwQ3BQYTBhbS0ya056XzdvZE1hQUFvWXU1S2dkaWRobGpfM1JnVGZkaXRNaURIY0hNRUNPNWlkT3FjUTRFVHRJaA?oc=5\" target=\"_blank\">State regulator reviews OpenAI-Georgia Power contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wabe.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-07T12:48:16+00:00"
     },
     {
       "id": "82e4a7f7da0571c5",
