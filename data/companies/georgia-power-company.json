@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-07T16:46:09+00:00",
+  "last_updated": "2026-08-07T18:44:55+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 391,
+  "count": 392,
   "mentions": [
     {
       "id": "5db694834bf67046",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-06T05:20:35+00:00"
+    },
+    {
+      "id": "96be7bb386fcde87",
+      "title": "Georgia Power, DOE celebrate Plant Bowen’s energy future - AllOnGeorgia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2FyX21oQ0tyQmdSaTh5dWRzWFBtSTNQUjR3QUtrQ24tR1l0SFNCdElEWk9UVWpvS2FwRlBid0QwZUxudDBtQnhsRUlCZ05OeUFDMkhydlN3b2RLdHFXbUFUTDJtbThtYXI1ek90VVlibnpPZV9DZXU1VF9aZEc1cXMzbGd1aWVkUzBobk9sRXNjTUQxT0gyRWxVZGN5Tk1hS1pF?oc=5",
+      "domain": "news.google.com",
+      "source": "AllOnGeorgia",
+      "language": "English",
+      "published_at": "2026-08-05T12:48:18+00:00",
+      "summary": "Georgia Power, DOE celebrate Plant Bowen’s energy future AllOnGeorgia",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2FyX21oQ0tyQmdSaTh5dWRzWFBtSTNQUjR3QUtrQ24tR1l0SFNCdElEWk9UVWpvS2FwRlBid0QwZUxudDBtQnhsRUlCZ05OeUFDMkhydlN3b2RLdHFXbUFUTDJtbThtYXI1ek90VVlibnpPZV9DZXU1VF9aZEc1cXMzbGd1aWVkUzBobk9sRXNjTUQxT0gyRWxVZGN5Tk1hS1pF?oc=5\" target=\"_blank\">Georgia Power, DOE celebrate Plant Bowen’s energy future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AllOnGeorgia</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-07T18:44:55+00:00"
     },
     {
       "id": "d752e2bf05ffcf44",
