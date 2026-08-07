@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-07T08:50:54+00:00",
+  "last_updated": "2026-08-07T10:45:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 193,
+  "count": 196,
   "mentions": [
     {
       "id": "08f7a9dd6ee250b0",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-06T23:52:41+00:00"
+    },
+    {
+      "id": "ea148808ba206d67",
+      "title": "Tuberville calls for Alabama Power to extend rate freeze - al.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlJUZTBDZTJmZjlHcmtJSG5WcENzVFVuWVRoM1FrMlV2NGxNWUgzeDVKMGY5azdYNWxwUVN0ZjI3OWc2T0JJaWF1UlFsMGtyUEJoVXdvcUhTWUE0LU1yRUhfWDkyRENienpMNXNDcG1QSkNTYlptMUU4R3N5NnlDZzFZakpTS0ZmZnhMajNYVHFycjRwYjRYQ9IBrAFBVV95cUxNUDFaVjdGUnlXb2lKM3BCNi1kU1Y5cjk0S1dQTU5GQThJRGZXcGI4V0pzSWFKa29Fd0VLd0xSVmNkd2tZT21QcEFzd2ZQVmVLdWRuM3ZBM091elFGck9YM09oVmg4bk45em5sVVNiUEh6Q1d1UHVTV1FuOFpfZE8zc3pBNnhTMjhNOWpyc0JyaThJR3hsQkhjSGVCeE9rc0JUMHNRZ0Z5azVYUkpk?oc=5",
+      "domain": "news.google.com",
+      "source": "al.com",
+      "language": "English",
+      "published_at": "2026-08-06T19:32:00+00:00",
+      "summary": "Tuberville calls for Alabama Power to extend rate freeze al.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlJUZTBDZTJmZjlHcmtJSG5WcENzVFVuWVRoM1FrMlV2NGxNWUgzeDVKMGY5azdYNWxwUVN0ZjI3OWc2T0JJaWF1UlFsMGtyUEJoVXdvcUhTWUE0LU1yRUhfWDkyRENienpMNXNDcG1QSkNTYlptMUU4R3N5NnlDZzFZakpTS0ZmZnhMajNYVHFycjRwYjRYQ9IBrAFBVV95cUxNUDFaVjdGUnlXb2lKM3BCNi1kU1Y5cjk0S1dQTU5GQThJRGZXcGI4V0pzSWFKa29Fd0VLd0xSVmNkd2tZT21QcEFzd2ZQVmVLdWRuM3ZBM091elFGck9YM09oVmg4bk45em5sVVNiUEh6Q1d1UHVTV1FuOFpfZE8zc3pBNnhTMjhNOWpyc0JyaThJR3hsQkhjSGVCeE9rc0JUMHNRZ0Z5azVYUkpk?oc=5\" target=\"_blank\">Tuberville calls for Alabama Power to extend rate freeze</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-07T10:45:45+00:00"
     },
     {
       "id": "394c449b81e70072",
@@ -231,6 +245,20 @@
       "collected_at": "2026-08-04T17:38:46+00:00"
     },
     {
+      "id": "51a4fb0cf9933240",
+      "title": "New solar plant coming to east Alabama in support of $1.5 billion data center - al.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHY1V1RUalJiX1RWOG1ZQ1N0MDJTTDNFbmxMTk90UWdrZFBSR0RMNldWTGM3SzJCRXpMQXBFbjNzQzl6S2xEOENxQWdkMlZJTXgwTjg3cUxGYjh4cDhQd2lkS1JoVWtmRDJ5ZXpqNzBXMmxFNk4xb1loYklLc3kxZlZqRTBrRHhieFN1dENZRHA1N2xfVndjTnpieTVaSnVoaXV5RTdoV2pSZTVfMDhpckdiR0h6OUxQcVBzODVPcTA?oc=5",
+      "domain": "news.google.com",
+      "source": "al.com",
+      "language": "English",
+      "published_at": "2026-08-04T17:21:00+00:00",
+      "summary": "New solar plant coming to east Alabama in support of $1.5 billion data center al.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHY1V1RUalJiX1RWOG1ZQ1N0MDJTTDNFbmxMTk90UWdrZFBSR0RMNldWTGM3SzJCRXpMQXBFbjNzQzl6S2xEOENxQWdkMlZJTXgwTjg3cUxGYjh4cDhQd2lkS1JoVWtmRDJ5ZXpqNzBXMmxFNk4xb1loYklLc3kxZlZqRTBrRHhieFN1dENZRHA1N2xfVndjTnpieTVaSnVoaXV5RTdoV2pSZTVfMDhpckdiR0h6OUxQcVBzODVPcTA?oc=5\" target=\"_blank\">New solar plant coming to east Alabama in support of $1.5 billion data center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-07T10:45:45+00:00"
+    },
+    {
       "id": "66ccd5cad61ad4af",
       "title": "Alabama Power reports year-to-year increase in second-quarter profits - News From The States",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUkNoQ1FYX05aRGxleEpJdWE1Qnl4Z1hVd2czTk5FTlFONWhPdWJ4QlU0b1BJLUNkenFwSGU4Rl80Z0JmMHJ2aExuU3poSmVUbmR0RU5ZZlk4aGhjTk8zZnE4blQ0N2xHdTdHX0dxQ3RkZlF0SzY3dk9EOWpFSmFiN0RSdFZYYkIyUFNfbVMzMmc5NVA4UWx6M2o1RU9ZbjNsbWJydWwtUEY?oc=5",
@@ -397,6 +425,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-31T02:09:42+00:00"
+    },
+    {
+      "id": "4d1eb096937f9a33",
+      "title": "Alabama Power, Georgia Power and Mississippi Power All Named to Site Selection Magazine’s 2025 Top Utilities List - csrwire.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2Q4U0ctS0dib3FYcW1INC1XdGtEZlBVa0tXNHZqV2R6Nnp0VkZhUlpGczItbVNaTHZ0UUc0RXl2eFU0Tkx2d1g4bXlhVUpUU3ZWajc2QkdwQWpqYnV4ODJvUFFBaExTbTBWcUxzRnpkbnpsOFpZeEY1eVFDVjFPdzl0cnFPd2F6TFlPUHo0d2dEUzBEQnJTUkxjZi14WGVhZ3dlWHI1LXhHYXB1Rmc?oc=5",
+      "domain": "news.google.com",
+      "source": "csrwire.com",
+      "language": "English",
+      "published_at": "2026-07-30T00:02:59+00:00",
+      "summary": "Alabama Power, Georgia Power and Mississippi Power All Named to Site Selection Magazine’s 2025 Top Utilities List csrwire.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2Q4U0ctS0dib3FYcW1INC1XdGtEZlBVa0tXNHZqV2R6Nnp0VkZhUlpGczItbVNaTHZ0UUc0RXl2eFU0Tkx2d1g4bXlhVUpUU3ZWajc2QkdwQWpqYnV4ODJvUFFBaExTbTBWcUxzRnpkbnpsOFpZeEY1eVFDVjFPdzl0cnFPd2F6TFlPUHo0d2dEUzBEQnJTUkxjZi14WGVhZ3dlWHI1LXhHYXB1Rmc?oc=5\" target=\"_blank\">Alabama Power, Georgia Power and Mississippi Power All Named to Site Selection Magazine’s 2025 Top Utilities List</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">csrwire.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-07T10:45:45+00:00"
     },
     {
       "id": "654e7e9262d1557a",
