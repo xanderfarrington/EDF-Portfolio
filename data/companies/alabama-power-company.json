@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-07T02:21:27+00:00",
+  "last_updated": "2026-08-07T05:30:06+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 192,
+  "count": 193,
   "mentions": [
     {
       "id": "08f7a9dd6ee250b0",
@@ -131,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-05T21:00:54+00:00"
+    },
+    {
+      "id": "30d8b7b23a6678e0",
+      "title": "Lanett approves electric easement, makes proclamations - valleytimes-news.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUw4T0I2eGFENnhZbmhwYkkwcWM1cG9OQ2tZZE92S29qQ2VDdEN4d1Fma2J1cGg1MDRKcjZnNm8zeEw1Ni13SzZFa1M2VmlLUHE2TXlqRjJxTHpCYjlSUE5wRG14ckR0MHJNWTVhSUdIQkI3ZTRVZFgyVXY5aU1PN3JkMXo5QlJoZHhkNGt3RWV5eEpGZUZqTlQzZkhXeGl4OWc?oc=5",
+      "domain": "news.google.com",
+      "source": "valleytimes-news.com",
+      "language": "English",
+      "published_at": "2026-08-05T20:24:38+00:00",
+      "summary": "Lanett approves electric easement, makes proclamations valleytimes-news.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUw4T0I2eGFENnhZbmhwYkkwcWM1cG9OQ2tZZE92S29qQ2VDdEN4d1Fma2J1cGg1MDRKcjZnNm8zeEw1Ni13SzZFa1M2VmlLUHE2TXlqRjJxTHpCYjlSUE5wRG14ckR0MHJNWTVhSUdIQkI3ZTRVZFgyVXY5aU1PN3JkMXo5QlJoZHhkNGt3RWV5eEpGZUZqTlQzZkhXeGl4OWc?oc=5\" target=\"_blank\">Lanett approves electric easement, makes proclamations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">valleytimes-news.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-07T05:30:06+00:00"
     },
     {
       "id": "be9bd3421fb20566",
