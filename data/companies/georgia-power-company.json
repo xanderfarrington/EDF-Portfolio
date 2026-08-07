@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-07T05:30:22+00:00",
+  "last_updated": "2026-08-07T07:04:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 389,
+  "count": 390,
   "mentions": [
     {
       "id": "5db694834bf67046",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-06T23:52:57+00:00"
+    },
+    {
+      "id": "f15ffb6a6c38eff6",
+      "title": "AJC Varsity preseason all-state teams: Watch for these standouts in 2026 - ajc.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS19sYkhIVGVZUlhDcVFhVFZHTEFLalZWV25YMGctRFZLY0ZWdU92Ullyc2JkQ091UW9Yd3NBSDVzZ3VQRXhxUFpEV0tfaUlHWEJmNzRTQl9SYTNsX18wbGQtWUUtdTdOcU1rQnVGdVoybnV5MUlQMDR4SktycWZuVmRMUHU1VXNNSnZPTlRHenkzVFBXRWdpSzh5UmRpQmhPTU4zNTljWjZBbVNxUUE?oc=5",
+      "domain": "news.google.com",
+      "source": "ajc.com",
+      "language": "English",
+      "published_at": "2026-08-06T18:22:47+00:00",
+      "summary": "AJC Varsity preseason all-state teams: Watch for these standouts in 2026 ajc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOS19sYkhIVGVZUlhDcVFhVFZHTEFLalZWV25YMGctRFZLY0ZWdU92Ullyc2JkQ091UW9Yd3NBSDVzZ3VQRXhxUFpEV0tfaUlHWEJmNzRTQl9SYTNsX18wbGQtWUUtdTdOcU1rQnVGdVoybnV5MUlQMDR4SktycWZuVmRMUHU1VXNNSnZPTlRHenkzVFBXRWdpSzh5UmRpQmhPTU4zNTljWjZBbVNxUUE?oc=5\" target=\"_blank\">AJC Varsity preseason all-state teams: Watch for these standouts in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ajc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-07T07:04:42+00:00"
     },
     {
       "id": "b0d434ba74a8e8d7",
