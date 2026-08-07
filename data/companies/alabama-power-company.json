@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-07T12:48:00+00:00",
+  "last_updated": "2026-08-07T14:48:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 197,
+  "count": 198,
   "mentions": [
     {
       "id": "08f7a9dd6ee250b0",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-06T23:52:41+00:00"
+    },
+    {
+      "id": "f296f147e369c5ec",
+      "title": "Solar, battery facility approved for Bullock, Macon counties - waka.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY3BDdl95TkNpc3BXWmtYc0VUNHdWZVF6YXF5NGdvenZqS2dYdEp0XzJpQlVhWDhTdjZITW5rbE80N21vbHNDRG1wWTc0dWQwLTNuWFF6U1ZScGVlbkJrbmdtOG02cWJrdlJFWWQwSGF1a0JFWkZ6eUt6UEJnMWFmd2JEa1MydFAtUjVsR0xvZ3FZUllFMHc?oc=5",
+      "domain": "news.google.com",
+      "source": "waka.com",
+      "language": "English",
+      "published_at": "2026-08-06T18:14:00+00:00",
+      "summary": "Solar, battery facility approved for Bullock, Macon counties waka.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPY3BDdl95TkNpc3BXWmtYc0VUNHdWZVF6YXF5NGdvenZqS2dYdEp0XzJpQlVhWDhTdjZITW5rbE80N21vbHNDRG1wWTc0dWQwLTNuWFF6U1ZScGVlbkJrbmdtOG02cWJrdlJFWWQwSGF1a0JFWkZ6eUt6UEJnMWFmd2JEa1MydFAtUjVsR0xvZ3FZUllFMHc?oc=5\" target=\"_blank\">Solar, battery facility approved for Bullock, Macon counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">waka.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-07T14:48:01+00:00"
     },
     {
       "id": "6cd6b9ef67688225",

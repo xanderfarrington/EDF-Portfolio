@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-07T12:48:26+00:00",
+  "last_updated": "2026-08-07T14:48:28+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 75,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "dee1304602b5c27c",
         "title": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y - TradingView",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 197,
+      "count": 198,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "08f7a9dd6ee250b0",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 391,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "5db694834bf67046",
         "title": "AJC Varsity preseason all-state teams: Watch for these standouts in 2026 - AJC.com",
@@ -110,7 +110,7 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 36,
+      "count": 37,
       "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "2e45e048ed7664fe",

@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-08-07T12:48:21+00:00",
+  "last_updated": "2026-08-07T14:48:23+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 36,
+  "count": 37,
   "mentions": [
     {
       "id": "2e45e048ed7664fe",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-05T19:20:56+00:00"
+    },
+    {
+      "id": "424c93501d0b3933",
+      "title": "DOE’s Office of Energy Dominance Financing: What Energy & Critical Minerals Developers Need to Know - mayerbrown.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWjJZekI0d181WWpLSU8tRFhmT0lwWDlMN1hHaXJ2Y1p0NWY5WUVtRUZDaGZBWTNManlta2NySXdVQnVicFNVRFJhV3JRUE5iNVd1QkxBMkZzVXV2d1JPemkycExXNml1cGJWQ3JXNEItVWw4WDlXcGpqeURiRFl4NVN4bGpIcFRNXzV4TUk3RG5xTHBsMHJpME9OTW83VEY2WkdhUW9hQ2laeHdwenoxYnlsNWp2dGpuN2lFdWZ3elNVYWVqMmFRRzk2X2VzN2hHTmFZbWN0ckJ3cDEyRmdQLXdoN3paOUpya0xF?oc=5",
+      "domain": "news.google.com",
+      "source": "mayerbrown.com",
+      "language": "English",
+      "published_at": "2026-08-04T19:33:56+00:00",
+      "summary": "DOE’s Office of Energy Dominance Financing: What Energy & Critical Minerals Developers Need to Know mayerbrown.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWjJZekI0d181WWpLSU8tRFhmT0lwWDlMN1hHaXJ2Y1p0NWY5WUVtRUZDaGZBWTNManlta2NySXdVQnVicFNVRFJhV3JRUE5iNVd1QkxBMkZzVXV2d1JPemkycExXNml1cGJWQ3JXNEItVWw4WDlXcGpqeURiRFl4NVN4bGpIcFRNXzV4TUk3RG5xTHBsMHJpME9OTW83VEY2WkdhUW9hQ2laeHdwenoxYnlsNWp2dGpuN2lFdWZ3elNVYWVqMmFRRzk2X2VzN2hHTmFZbWN0ckJ3cDEyRmdQLXdoN3paOUpya0xF?oc=5\" target=\"_blank\">DOE’s Office of Energy Dominance Financing: What Energy & Critical Minerals Developers Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mayerbrown.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-07T14:48:23+00:00"
     },
     {
       "id": "addfbf3308caf432",
