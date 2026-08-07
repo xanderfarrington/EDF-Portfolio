@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-06T23:52:57+00:00",
+  "last_updated": "2026-08-07T02:21:43+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 388,
+  "count": 389,
   "mentions": [
     {
       "id": "5db694834bf67046",
@@ -131,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-05T11:53:47+00:00"
+    },
+    {
+      "id": "3e63f0806bfe02ec",
+      "title": "Georgia Power starts construction on new natural gas units at Plant Bowen - dailyenergyinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUkwM3g1VjJsLWVNVUV4UDhYM3RDdGk4NkREX1VDbEItekN0SkZMSXpVWG95MUk2ZktrMkR4d2s1UGNtdUxvdzVlOFpKeFNBVjh3Q1FyX1dhZGoydzU2eGdLV2NfZHY0Y05FMUdycWhlX2FVZkE5UTkzYlJlWE5pWWpVb013UFpLckd5a0VGYVVqMmw3OUgycDQ5WWxNNFJJRUQ5dUhPTV9Ob2tRbFY1QTVKanZVaU13QWotRA?oc=5",
+      "domain": "news.google.com",
+      "source": "dailyenergyinsider.com",
+      "language": "English",
+      "published_at": "2026-08-04T12:15:43+00:00",
+      "summary": "Georgia Power starts construction on new natural gas units at Plant Bowen dailyenergyinsider.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUkwM3g1VjJsLWVNVUV4UDhYM3RDdGk4NkREX1VDbEItekN0SkZMSXpVWG95MUk2ZktrMkR4d2s1UGNtdUxvdzVlOFpKeFNBVjh3Q1FyX1dhZGoydzU2eGdLV2NfZHY0Y05FMUdycWhlX2FVZkE5UTkzYlJlWE5pWWpVb013UFpLckd5a0VGYVVqMmw3OUgycDQ5WWxNNFJJRUQ5dUhPTV9Ob2tRbFY1QTVKanZVaU13QWotRA?oc=5\" target=\"_blank\">Georgia Power starts construction on new natural gas units at Plant Bowen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailyenergyinsider.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-07T02:21:43+00:00"
     },
     {
       "id": "ee98eb081cc3cc18",
