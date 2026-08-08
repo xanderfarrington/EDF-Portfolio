@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-08T12:34:07+00:00",
+  "last_updated": "2026-08-08T14:25:27+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 201,
+  "count": 203,
   "mentions": [
+    {
+      "id": "f8c96bcbbf4b5f82",
+      "title": "Country star turned Trump official fights Alabama Power to protect Shelby County man’s dream home - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmU0eXVwLVNMUllMZk1Zbno0R2pqbUUzTDI1aHF1TGVwYnQ5eDdZQkwxY1BSdmxEOXRKOFJkb3g3RjA1ZkFTMWM0S2F2MDhvSnM5eDBrT3QzNDkxeU85Si15QXVLWEMzbndEVWMzOVFWUXhkYTFrYy1TZ3lJT041dTdQcEZtQUc3TEJVSXB4WE5fS3M1cmJjcG53?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-08-08T11:01:49+00:00",
+      "summary": "Country star turned Trump official fights Alabama Power to protect Shelby County man’s dream home Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmU0eXVwLVNMUllMZk1Zbno0R2pqbUUzTDI1aHF1TGVwYnQ5eDdZQkwxY1BSdmxEOXRKOFJkb3g3RjA1ZkFTMWM0S2F2MDhvSnM5eDBrT3QzNDkxeU85Si15QXVLWEMzbndEVWMzOVFWUXhkYTFrYy1TZ3lJT041dTdQcEZtQUc3TEJVSXB4WE5fS3M1cmJjcG53?oc=5\" target=\"_blank\">Country star turned Trump official fights Alabama Power to protect Shelby County man’s dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-08T14:25:27+00:00"
+    },
     {
       "id": "bfbc8e1fe2e01c2b",
       "title": "Country star turned Trump official fights Alabama Power to protect Shelby County man’s dream home - AL.com",
@@ -145,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-05T22:52:05+00:00"
+    },
+    {
+      "id": "58b72d0f72cb0ee6",
+      "title": "Alabama Power providing energy assistance amid soaring temperatures, energy costs - aol.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlllb3dUZE0tUmhHaTRWZVhsZnUwUEREWmVCbmM3RTg4T0IycnRYQS1oNTh2SldlNU9VR1NFeE5rRzQ3OGZ6dXdZRk1hQjJmVjBlYVViRHljZ2Zwb3ZTQ3FoNmY0SW9fTEZXSFh0b3NuUXh5QVZOVFRsdWp4alQ0SnJxOHRmazNGQ0VIS3dB?oc=5",
+      "domain": "news.google.com",
+      "source": "aol.com",
+      "language": "English",
+      "published_at": "2026-08-05T21:12:17+00:00",
+      "summary": "Alabama Power providing energy assistance amid soaring temperatures, energy costs aol.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlllb3dUZE0tUmhHaTRWZVhsZnUwUEREWmVCbmM3RTg4T0IycnRYQS1oNTh2SldlNU9VR1NFeE5rRzQ3OGZ6dXdZRk1hQjJmVjBlYVViRHljZ2Zwb3ZTQ3FoNmY0SW9fTEZXSFh0b3NuUXh5QVZOVFRsdWp4alQ0SnJxOHRmazNGQ0VIS3dB?oc=5\" target=\"_blank\">Alabama Power providing energy assistance amid soaring temperatures, energy costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aol.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-08T14:25:27+00:00"
     },
     {
       "id": "bf38dd0e8a2bfad6",
