@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T01:07:48+00:00",
+  "last_updated": "2026-08-08T03:19:37+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 199,
+      "count": 200,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "08f7a9dd6ee250b0",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 395,
+      "count": 396,
       "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "5db694834bf67046",
