@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T03:19:37+00:00",
+  "last_updated": "2026-08-08T04:50:15+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 396,
+      "count": 397,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "5db694834bf67046",
-        "title": "AJC Varsity preseason all-state teams: Watch for these standouts in 2026 - AJC.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS19sYkhIVGVZUlhDcVFhVFZHTEFLalZWV25YMGctRFZLY0ZWdU92Ullyc2JkQ091UW9Yd3NBSDVzZ3VQRXhxUFpEV0tfaUlHWEJmNzRTQl9SYTNsX18wbGQtWUUtdTdOcU1rQnVGdVoybnV5MUlQMDR4SktycWZuVmRMUHU1VXNNSnZPTlRHenkzVFBXRWdpSzh5UmRpQmhPTU4zNTljWjZBbVNxUUE?oc=5",
+        "id": "6c6603009f2e3e2e",
+        "title": "Georgia Power breaks ground on natural gas expansion at Plant Bowen despite air pollution concerns - Griffin Daily News",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPd2hlTWtyeFVISHZFV0tSWVZqa0FkZkJyZUw5R3g5RTJEUWlqOTZvc1B2WmNpbTA1TjhQMTlTeU9BZnVQZ2dUcklSV0hFT18zMkFORlM1MGNhVHJuYklCWlNqdWtBdU12R1NhUUNFWExfcVpjbnhSZUE2MjhPaEVKeW9KZkdzQ0ZNdU5zLUJIYzgtcnVOOHh6TlIxSmppZ1RVTzhTMXZvMlM0RERGdHljbjRyM3p4MXZrdkpHZmluazVWenZBXzlTdzJ0TEdLcnJObkVyNUxLVW9GSXl0QzZNQnVfa1RWRWREQUJwdDZFcDZRZDlIZnJicHIyUE9ac2d2UjREYmVGUTAxNFY0R2FvRTBpS0E?oc=5",
         "domain": "news.google.com",
-        "source": "AJC.com",
+        "source": "Griffin Daily News",
         "language": "English",
-        "published_at": "2026-08-06T18:52:47+00:00",
-        "summary": "AJC Varsity preseason all-state teams: Watch for these standouts in 2026 AJC.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOS19sYkhIVGVZUlhDcVFhVFZHTEFLalZWV25YMGctRFZLY0ZWdU92Ullyc2JkQ091UW9Yd3NBSDVzZ3VQRXhxUFpEV0tfaUlHWEJmNzRTQl9SYTNsX18wbGQtWUUtdTdOcU1rQnVGdVoybnV5MUlQMDR4SktycWZuVmRMUHU1VXNNSnZPTlRHenkzVFBXRWdpSzh5UmRpQmhPTU4zNTljWjZBbVNxUUE?oc=5\" target=\"_blank\">AJC Varsity preseason all-state teams: Watch for these standouts in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+        "published_at": "2026-08-08T04:00:00+00:00",
+        "summary": "Georgia Power breaks ground on natural gas expansion at Plant Bowen despite air pollution concerns Griffin Daily News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxPd2hlTWtyeFVISHZFV0tSWVZqa0FkZkJyZUw5R3g5RTJEUWlqOTZvc1B2WmNpbTA1TjhQMTlTeU9BZnVQZ2dUcklSV0hFT18zMkFORlM1MGNhVHJuYklCWlNqdWtBdU12R1NhUUNFWExfcVpjbnhSZUE2MjhPaEVKeW9KZkdzQ0ZNdU5zLUJIYzgtcnVOOHh6TlIxSmppZ1RVTzhTMXZvMlM0RERGdHljbjRyM3p4MXZrdkpHZmluazVWenZBXzlTdzJ0TEdLcnJObkVyNUxLVW9GSXl0QzZNQnVfa1RWRWREQUJwdDZFcDZRZDlIZnJicHIyUE9ac2d2UjREYmVGUTAxNFY0R2FvRTBpS0E?oc=5\" target=\"_blank\">Georgia Power breaks ground on natural gas expansion at Plant Bowen despite air pollution concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Griffin Daily News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-06T23:52:57+00:00"
+        "collected_at": "2026-08-08T04:50:04+00:00"
       }
     },
     {

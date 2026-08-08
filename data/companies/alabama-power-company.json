@@ -2,7 +2,7 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-08T03:19:10+00:00",
+  "last_updated": "2026-08-08T04:49:48+00:00",
   "archive_policy": "append_only_no_deletion",
   "count": 200,
   "mentions": [
