@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-07T22:28:16+00:00",
+  "last_updated": "2026-08-08T01:07:38+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 392,
+  "count": 395,
   "mentions": [
     {
       "id": "5db694834bf67046",
@@ -49,6 +49,34 @@
       "collected_at": "2026-08-06T23:52:57+00:00"
     },
     {
+      "id": "df2b9630880c217e",
+      "title": "Georgia Power Generation employees keep reliable energy flowing throughout the hottest days of summer - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUmNQZ2ZpaEFtYXhDT1JkaGtYVkFJd1c5blBveTl1Um1MZnY2dTU1MEdlanFKTERYUXR0a005WEI1dzVLamlRSW5jY0QzaFJDS0FScWtrSjNqQXZlM2tRYzdfV1IxOFEzN2Q0cmFqaVNoYWFRakJYUEtpbnp3S0ZXWXpORzEyMzdkcTQwekRQMHM4OV92VS1ycV92akI?oc=5",
+      "domain": "news.google.com",
+      "source": "finance.yahoo.com",
+      "language": "English",
+      "published_at": "2026-08-06T16:00:00+00:00",
+      "summary": "Georgia Power Generation employees keep reliable energy flowing throughout the hottest days of summer finance.yahoo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUmNQZ2ZpaEFtYXhDT1JkaGtYVkFJd1c5blBveTl1Um1MZnY2dTU1MEdlanFKTERYUXR0a005WEI1dzVLamlRSW5jY0QzaFJDS0FScWtrSjNqQXZlM2tRYzdfV1IxOFEzN2Q0cmFqaVNoYWFRakJYUEtpbnp3S0ZXWXpORzEyMzdkcTQwekRQMHM4OV92VS1ycV92akI?oc=5\" target=\"_blank\">Georgia Power Generation employees keep reliable energy flowing throughout the hottest days of summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-08T01:07:38+00:00"
+    },
+    {
+      "id": "933065ff57a54a8a",
+      "title": "Georgia Power expects nearly 250 full-time hires as generation expands - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUYwd1BmRmlkSjNFZHhLb1Ruc2xHVUpLWTdvYVBWMmlSNlVlOXM5ZEMzY3BJMDhzOWlPcFNVcm94TXNNclVpMmNCamt1b0piVTJDVm1TNTI3cDhzOVZYTGgxMkZjdE4wTllRa3lpZWlzbXhUaldMbzE2YmswZkFfWGpTN05IMDI4UWFnTFlQT045VFVfVWxOaXZkR3dVdUV6aUVjN0ZiWDVFczJ1N3FZYTdPNF9NaG8?oc=5",
+      "domain": "news.google.com",
+      "source": "Stock Titan",
+      "language": "English",
+      "published_at": "2026-08-06T16:00:00+00:00",
+      "summary": "Georgia Power expects nearly 250 full-time hires as generation expands Stock Titan",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUYwd1BmRmlkSjNFZHhLb1Ruc2xHVUpLWTdvYVBWMmlSNlVlOXM5ZEMzY3BJMDhzOWlPcFNVcm94TXNNclVpMmNCamt1b0piVTJDVm1TNTI3cDhzOVZYTGgxMkZjdE4wTllRa3lpZWlzbXhUaldMbzE2YmswZkFfWGpTN05IMDI4UWFnTFlQT045VFVfVWxOaXZkR3dVdUV6aUVjN0ZiWDVFczJ1N3FZYTdPNF9NaG8?oc=5\" target=\"_blank\">Georgia Power expects nearly 250 full-time hires as generation expands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-08T01:07:38+00:00"
+    },
+    {
       "id": "12415021a2e4bec5",
       "title": "EU threatens Georgia’s power supply with sanctions on Russian company - Follow the Money - Platform for investigative journalism",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkVrcm9xNVZIWnVnT3pjTVp5QmNqTmJVVW94MWZRQTlnT25vYVRaZGQ0WG1GTHNfa2NmaV9nVnlzblZkMVVUaUJUQ0FPMjd5SWtiOWRoSU40aXpLTUxfMlZvUzBnMDZxWE1sRFVkTmpyUEp2b0RmRkU5NV9saXlWNnVZcUl1cEF5ajYycWlRU1J5eGFlTG9IS1lFRUZnVWpHcEZLUw?oc=5",
@@ -75,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-07T18:44:55+00:00"
+    },
+    {
+      "id": "9b36b0883fc6191c",
+      "title": "Georgia Power, DOE celebrate Plant Bowen’s energy future - allongeorgia.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2FyX21oQ0tyQmdSaTh5dWRzWFBtSTNQUjR3QUtrQ24tR1l0SFNCdElEWk9UVWpvS2FwRlBid0QwZUxudDBtQnhsRUlCZ05OeUFDMkhydlN3b2RLdHFXbUFUTDJtbThtYXI1ek90VVlibnpPZV9DZXU1VF9aZEc1cXMzbGd1aWVkUzBobk9sRXNjTUQxT0gyRWxVZGN5Tk1hS1pF?oc=5",
+      "domain": "news.google.com",
+      "source": "allongeorgia.com",
+      "language": "English",
+      "published_at": "2026-08-05T12:48:18+00:00",
+      "summary": "Georgia Power, DOE celebrate Plant Bowen’s energy future allongeorgia.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2FyX21oQ0tyQmdSaTh5dWRzWFBtSTNQUjR3QUtrQ24tR1l0SFNCdElEWk9UVWpvS2FwRlBid0QwZUxudDBtQnhsRUlCZ05OeUFDMkhydlN3b2RLdHFXbUFUTDJtbThtYXI1ek90VVlibnpPZV9DZXU1VF9aZEc1cXMzbGd1aWVkUzBobk9sRXNjTUQxT0gyRWxVZGN5Tk1hS1pF?oc=5\" target=\"_blank\">Georgia Power, DOE celebrate Plant Bowen’s energy future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">allongeorgia.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-08T01:07:38+00:00"
     },
     {
       "id": "d752e2bf05ffcf44",
