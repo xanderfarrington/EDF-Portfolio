@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-09T10:26:29+00:00",
+  "last_updated": "2026-08-09T12:37:24+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 398,
+  "count": 399,
   "mentions": [
     {
       "id": "6c6603009f2e3e2e",
@@ -2819,6 +2819,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-29T22:55:28+00:00"
+    },
+    {
+      "id": "71382a53fbdce9de",
+      "title": "Georgia Power outlines new pledge to protect your rates - atlantanewsfirst.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXJPT25TVFBVRENTNTFYYXY0enpBaEFYQW5FZFVkcXJfT0pad1d0LTJDQzRiRWhqNDBIWHlOd091TVZVOURUZGRXa3VrV242cXU2VzdUTjV5SjI0dXN6Rm9rV1JreE5ybkpLTkNPd0xWR3BoNk9tNmJyR1VROVNraW9meVd5RWVma0lkTnFYUVNZUGZVQ1p2XzYzWm9oQdIBsgFBVV95cUxORVFZUlJXQUs5SkNsS3RNZzU5MHFUQlZCN01NOWJ3LWJjR1JRa0RJNDZMRGF4YllBTy15YkZuZ0NjZkIzTldhclJkMEF2Sm1VaVFYb25LV0JZamtXS2Z6MTMydEFNMjllc2ZuRDBLSnRCdFdLWl9Cb0JNY0htem9nTHlGSkw3ZEtibExRaEplYzFMMnNEZjdWNzV0OUtXMVZMbjUtOGZ1S3o2UHRyRzRXdDNB?oc=5",
+      "domain": "news.google.com",
+      "source": "atlantanewsfirst.com",
+      "language": "English",
+      "published_at": "2026-07-15T07:00:00+00:00",
+      "summary": "Georgia Power outlines new pledge to protect your rates atlantanewsfirst.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOYXJPT25TVFBVRENTNTFYYXY0enpBaEFYQW5FZFVkcXJfT0pad1d0LTJDQzRiRWhqNDBIWHlOd091TVZVOURUZGRXa3VrV242cXU2VzdUTjV5SjI0dXN6Rm9rV1JreE5ybkpLTkNPd0xWR3BoNk9tNmJyR1VROVNraW9meVd5RWVma0lkTnFYUVNZUGZVQ1p2XzYzWm9oQdIBsgFBVV95cUxORVFZUlJXQUs5SkNsS3RNZzU5MHFUQlZCN01NOWJ3LWJjR1JRa0RJNDZMRGF4YllBTy15YkZuZ0NjZkIzTldhclJkMEF2Sm1VaVFYb25LV0JZamtXS2Z6MTMydEFNMjllc2ZuRDBLSnRCdFdLWl9Cb0JNY0htem9nTHlGSkw3ZEtibExRaEplYzFMMnNEZjdWNzV0OUtXMVZMbjUtOGZ1S3o2UHRyRzRXdDNB?oc=5\" target=\"_blank\">Georgia Power outlines new pledge to protect your rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">atlantanewsfirst.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-09T12:37:24+00:00"
     },
     {
       "id": "61ddbb4a29804a4b",
