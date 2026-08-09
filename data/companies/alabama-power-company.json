@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-09T04:58:02+00:00",
+  "last_updated": "2026-08-09T06:43:43+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 205,
+  "count": 206,
   "mentions": [
     {
       "id": "f8c96bcbbf4b5f82",
@@ -509,6 +509,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-31T10:31:29+00:00"
+    },
+    {
+      "id": "0c5d1d0224a04136",
+      "title": "Public can read Alabama Power’s data center contract, just not parts that could affect bill - WBRC",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmlqZkVQa0ZxQjctRl9ZUnRnZ3Q0YTZTb3N3UnVGeGtSZWkzTU03OHpQVFEzazZ0LUNuYTdsUjB2Z0VEbGZPWU9Sb29BbDE0VTNHLVFNcE02UUU3TmtHTWhnLUhIQVhhUy1RQkdTV25nOGU3V3F6MlI5LW1KdVFITkdHM2dneGxTZURyY05sNUZKTmdMVWt3MHg4cmdPekZFZkZ4X3JYaGFiQkJfaU1GN2ppcTVQTC0zdXpDSVVORQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC",
+      "language": "English",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "summary": "Public can read Alabama Power’s data center contract, just not parts that could affect bill WBRC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmlqZkVQa0ZxQjctRl9ZUnRnZ3Q0YTZTb3N3UnVGeGtSZWkzTU03OHpQVFEzazZ0LUNuYTdsUjB2Z0VEbGZPWU9Sb29BbDE0VTNHLVFNcE02UUU3TmtHTWhnLUhIQVhhUy1RQkdTV25nOGU3V3F6MlI5LW1KdVFITkdHM2dneGxTZURyY05sNUZKTmdMVWt3MHg4cmdPekZFZkZ4X3JYaGFiQkJfaU1GN2ppcTVQTC0zdXpDSVVORQ?oc=5\" target=\"_blank\">Public can read Alabama Power’s data center contract, just not parts that could affect bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-09T06:43:43+00:00"
     },
     {
       "id": "9bc6f52546dd8e33",
