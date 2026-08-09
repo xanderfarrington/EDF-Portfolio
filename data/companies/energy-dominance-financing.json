@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-08-09T01:12:36+00:00",
+  "last_updated": "2026-08-09T03:28:02+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 38,
+  "count": 39,
   "mentions": [
     {
       "id": "2e45e048ed7664fe",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-07T22:28:21+00:00"
+    },
+    {
+      "id": "43ebf6c3f1435071",
+      "title": "DOE’s Office of Energy Dominance Financing C... - bnamericas.com",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPY3RBRlFuQ3Z3Y19kN0RCV01xSlZsSFBXUlc5QmRqc3M5OUoyVG9HdTVrZWtReVF4dHYyVFdzTVlGQ0VMQ0FzZnN3Tm9kTVVWU3dSTWVkeHdzajd3WXZ6WnRScTVOT25nS2MyanFkY21KbkIxNzVjaUQtUGJGVFp6UXliVi11S3doa080STlnaHYxb0Z2UHhQT2JjOWFtdTBQYUEtWkg1emdlZldaNXZnU29JOXRaUk0taVVSNGJUMktucVFBVTVuYURyRWxmR25lSVUyVmVKUkVSOXRrdU5KWGZGWGdINjNPT20yNm9NQ21WcHJ1UUtGU0VjaVJVbXlQN0d0bThNZ19Xellx?oc=5",
+      "domain": "news.google.com",
+      "source": "bnamericas.com",
+      "language": "English",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "summary": "DOE’s Office of Energy Dominance Financing C... bnamericas.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPY3RBRlFuQ3Z3Y19kN0RCV01xSlZsSFBXUlc5QmRqc3M5OUoyVG9HdTVrZWtReVF4dHYyVFdzTVlGQ0VMQ0FzZnN3Tm9kTVVWU3dSTWVkeHdzajd3WXZ6WnRScTVOT25nS2MyanFkY21KbkIxNzVjaUQtUGJGVFp6UXliVi11S3doa080STlnaHYxb0Z2UHhQT2JjOWFtdTBQYUEtWkg1emdlZldaNXZnU29JOXRaUk0taVVSNGJUMktucVFBVTVuYURyRWxmR25lSVUyVmVKUkVSOXRrdU5KWGZGWGdINjNPT20yNm9NQ21WcHJ1UUtGU0VjaVJVbXlQN0d0bThNZ19Xellx?oc=5\" target=\"_blank\">DOE’s Office of Energy Dominance Financing C...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bnamericas.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-09T03:28:02+00:00"
     },
     {
       "id": "e5327bb6296941af",
