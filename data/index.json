@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T22:21:58+00:00",
+  "last_updated": "2026-08-09T01:12:41+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 204,
+      "count": 205,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "f8c96bcbbf4b5f82",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 38,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "2e45e048ed7664fe",
         "title": "United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C. - mondaq.com",
