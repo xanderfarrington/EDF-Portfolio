@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T18:47:40+00:00",
+  "last_updated": "2026-08-10T20:34:56+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 71,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "92885afb47b68a0e",
         "title": "US may decide on Three Mile Island restart in June, Constellation execs say - cumberlink.com",
