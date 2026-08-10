@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T22:23:21+00:00",
+  "last_updated": "2026-08-10T01:14:36+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -110,7 +110,7 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 39,
+      "count": 40,
       "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "2e45e048ed7664fe",

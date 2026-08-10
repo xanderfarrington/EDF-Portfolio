@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-08-09T22:23:16+00:00",
+  "last_updated": "2026-08-10T01:14:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 39,
+  "count": 40,
   "mentions": [
     {
       "id": "2e45e048ed7664fe",
@@ -89,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-07T14:48:23+00:00"
+    },
+    {
+      "id": "692aff82901c7586",
+      "title": "Todd Stribley - energy.gov",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xeHJKS0daT2JHRVRuVXdORVpQTk95NWFYTXNaMkRsMm1nTWQwYWl3cE4tdi1CZVkzV0J4d0U4aUlVUUZZcVl2VUItb09PTEJSREN4OERwaThCSlU?oc=5",
+      "domain": "news.google.com",
+      "source": "energy.gov",
+      "language": "English",
+      "published_at": "2026-08-04T14:30:00+00:00",
+      "summary": "Todd Stribley energy.gov",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xeHJKS0daT2JHRVRuVXdORVpQTk95NWFYTXNaMkRsMm1nTWQwYWl3cE4tdi1CZVkzV0J4d0U4aUlVUUZZcVl2VUItb09PTEJSREN4OERwaThCSlU?oc=5\" target=\"_blank\">Todd Stribley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energy.gov</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-10T01:14:31+00:00"
     },
     {
       "id": "addfbf3308caf432",
