@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T20:34:56+00:00",
+  "last_updated": "2026-08-10T22:30:38+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 209,
+      "count": 210,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "f8c96bcbbf4b5f82",
-        "title": "Country star turned Trump official fights Alabama Power to protect Shelby County man’s dream home - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmU0eXVwLVNMUllMZk1Zbno0R2pqbUUzTDI1aHF1TGVwYnQ5eDdZQkwxY1BSdmxEOXRKOFJkb3g3RjA1ZkFTMWM0S2F2MDhvSnM5eDBrT3QzNDkxeU85Si15QXVLWEMzbndEVWMzOVFWUXhkYTFrYy1TZ3lJT041dTdQcEZtQUc3TEJVSXB4WE5fS3M1cmJjcG53?oc=5",
+        "id": "b9d407243074164b",
+        "title": "John Rich helping Shelby County man fighting Alabama Power - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3JpU3k5dk9PZkU2ZDBpYk4zRDRabnE5cmdnWU00UGwxeUdpbWpJR3VmLXE2eHlkSnBTU2RvcVdCbGRyaTNac3dwVTQzczlReENkaTVXVnZIbGJzcHZlMThhMjZiWWhWSlg0RVQ2RUpGY21KYnVYb2ZUb3QybVlGa1BiSXVma3JEUG5IRGhkZzhXV2M?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo",
+        "source": "1819 News",
         "language": "English",
-        "published_at": "2026-08-08T11:01:49+00:00",
-        "summary": "Country star turned Trump official fights Alabama Power to protect Shelby County man’s dream home Yahoo",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmU0eXVwLVNMUllMZk1Zbno0R2pqbUUzTDI1aHF1TGVwYnQ5eDdZQkwxY1BSdmxEOXRKOFJkb3g3RjA1ZkFTMWM0S2F2MDhvSnM5eDBrT3QzNDkxeU85Si15QXVLWEMzbndEVWMzOVFWUXhkYTFrYy1TZ3lJT041dTdQcEZtQUc3TEJVSXB4WE5fS3M1cmJjcG53?oc=5\" target=\"_blank\">Country star turned Trump official fights Alabama Power to protect Shelby County man’s dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "published_at": "2026-08-10T19:07:50+00:00",
+        "summary": "John Rich helping Shelby County man fighting Alabama Power 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3JpU3k5dk9PZkU2ZDBpYk4zRDRabnE5cmdnWU00UGwxeUdpbWpJR3VmLXE2eHlkSnBTU2RvcVdCbGRyaTNac3dwVTQzczlReENkaTVXVnZIbGJzcHZlMThhMjZiWWhWSlg0RVQ2RUpGY21KYnVYb2ZUb3QybVlGa1BiSXVma3JEUG5IRGhkZzhXV2M?oc=5\" target=\"_blank\">John Rich helping Shelby County man fighting Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-08T14:25:27+00:00"
+        "collected_at": "2026-08-10T22:30:10+00:00"
       }
     },
     {
