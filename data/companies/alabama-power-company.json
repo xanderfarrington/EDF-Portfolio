@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-10T05:19:57+00:00",
+  "last_updated": "2026-08-10T07:18:35+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 207,
+  "count": 209,
   "mentions": [
     {
       "id": "f8c96bcbbf4b5f82",
@@ -61,6 +61,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-08T16:24:47+00:00"
+    },
+    {
+      "id": "61af6dd06735cfa4",
+      "title": "Country star turned Trump official fights Alabama Power to protect Shelby County man’s dream home - al.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY3JHZHh3OUxDQTlDb0FOYkYtLXA3d0tTemh5eFlmTjhHdWVjQ0xtS1NqVXRhYmJCd3BpS3NaMUREcEZHcTVLMmtZc01jbEdzSS1UVHVKeHJLczBtaFBjOVROOWMwUjZmR3czU1ZVMjdsR0RwV3hoTk85ZzE5WmFzS2tJR3E4eDFsdUpWb1pnLWc2YVcxQ05JVkY5RTczenhwbmhRaGgzeVhwWHU1bVlVZWJBZ0JrTDYtN0VGQXBJczhIN2wxeEY0UmU3MFJzd9IB4gFBVV95cUxPLVNDSFgxZG5oMzlvODBFTWp3RUNLSy1XUXI2TlEzYWFBU3cxQnhjbENnWjNOdHlySlJrWEw2UnpKNHk4aFNRTzh2cld1Zl8xS2tXMS1XSEhVTWMyeU43V0R4X1NyRlltRWRXV1RqOEFNcTQxVnptZEZ2WG8yRXZsMUVTaHVlLUNKbzZzLW8tVEFrY2tjX3QxU21ickM5RlA4ajJPMTE0SzVLVWdWUTNucWNYSWV2Zld0dmNRUzhpTDQtLVdSY0JtN0RQMG5oR1NYZFk0NmQ2WnRhWXphTkJWaWl3?oc=5",
+      "domain": "news.google.com",
+      "source": "al.com",
+      "language": "English",
+      "published_at": "2026-08-08T11:00:00+00:00",
+      "summary": "Country star turned Trump official fights Alabama Power to protect Shelby County man’s dream home al.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQY3JHZHh3OUxDQTlDb0FOYkYtLXA3d0tTemh5eFlmTjhHdWVjQ0xtS1NqVXRhYmJCd3BpS3NaMUREcEZHcTVLMmtZc01jbEdzSS1UVHVKeHJLczBtaFBjOVROOWMwUjZmR3czU1ZVMjdsR0RwV3hoTk85ZzE5WmFzS2tJR3E4eDFsdUpWb1pnLWc2YVcxQ05JVkY5RTczenhwbmhRaGgzeVhwWHU1bVlVZWJBZ0JrTDYtN0VGQXBJczhIN2wxeEY0UmU3MFJzd9IB4gFBVV95cUxPLVNDSFgxZG5oMzlvODBFTWp3RUNLSy1XUXI2TlEzYWFBU3cxQnhjbENnWjNOdHlySlJrWEw2UnpKNHk4aFNRTzh2cld1Zl8xS2tXMS1XSEhVTWMyeU43V0R4X1NyRlltRWRXV1RqOEFNcTQxVnptZEZ2WG8yRXZsMUVTaHVlLUNKbzZzLW8tVEFrY2tjX3QxU21ickM5RlA4ajJPMTE0SzVLVWdWUTNucWNYSWV2Zld0dmNRUzhpTDQtLVdSY0JtN0RQMG5oR1NYZFk0NmQ2WnRhWXphTkJWaWl3?oc=5\" target=\"_blank\">Country star turned Trump official fights Alabama Power to protect Shelby County man’s dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-10T07:18:35+00:00"
+    },
+    {
+      "id": "971eefc83bf3f194",
+      "title": "Country star turned Trump official fights Alabama Power to protect Shelby County man’s dream home - al.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLVNDSFgxZG5oMzlvODBFTWp3RUNLSy1XUXI2TlEzYWFBU3cxQnhjbENnWjNOdHlySlJrWEw2UnpKNHk4aFNRTzh2cld1Zl8xS2tXMS1XSEhVTWMyeU43V0R4X1NyRlltRWRXV1RqOEFNcTQxVnptZEZ2WG8yRXZsMUVTaHVlLUNKbzZzLW8tVEFrY2tjX3QxU21ickM5RlA4ajJPMTE0SzVLVWdWUTNucWNYSWV2Zld0dmNRUzhpTDQtLVdSY0JtN0RQMG5oR1NYZFk0NmQ2WnRhWXphTkJWaWl30gHiAUFVX3lxTE8tU0NIWDFkbmgzOW84MEVNandFQ0tLLVdRcjZOUTNhYUFTdzFCeGNsQ2daM050eXJKUmtYTDZSeko0eThoU1FPOHZyV3VmXzFLa1cxLVdISFVNYzJ5TjdXRHhfU3JGWW1FZFdXVGo4QU1xNDFWem1kRnZYbzJFdmwxRVNodWUtQ0pvNnMtby1UQWtja2NfdDFTbWJyQzlGUDhqMk8xMTRLNUtVZ1ZRM25xY1hJZXZmV3R2Y1FTOGlMNC0tV1JjQm03RFAwbmhHU1hkWTQ2ZDZadGFZemFOQlZpaXc?oc=5",
+      "domain": "news.google.com",
+      "source": "al.com",
+      "language": "English",
+      "published_at": "2026-08-08T11:00:00+00:00",
+      "summary": "Country star turned Trump official fights Alabama Power to protect Shelby County man’s dream home al.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLVNDSFgxZG5oMzlvODBFTWp3RUNLSy1XUXI2TlEzYWFBU3cxQnhjbENnWjNOdHlySlJrWEw2UnpKNHk4aFNRTzh2cld1Zl8xS2tXMS1XSEhVTWMyeU43V0R4X1NyRlltRWRXV1RqOEFNcTQxVnptZEZ2WG8yRXZsMUVTaHVlLUNKbzZzLW8tVEFrY2tjX3QxU21ickM5RlA4ajJPMTE0SzVLVWdWUTNucWNYSWV2Zld0dmNRUzhpTDQtLVdSY0JtN0RQMG5oR1NYZFk0NmQ2WnRhWXphTkJWaWl30gHiAUFVX3lxTE8tU0NIWDFkbmgzOW84MEVNandFQ0tLLVdRcjZOUTNhYUFTdzFCeGNsQ2daM050eXJKUmtYTDZSeko0eThoU1FPOHZyV3VmXzFLa1cxLVdISFVNYzJ5TjdXRHhfU3JGWW1FZFdXVGo4QU1xNDFWem1kRnZYbzJFdmwxRVNodWUtQ0pvNnMtby1UQWtja2NfdDFTbWJyQzlGUDhqMk8xMTRLNUtVZ1ZRM25xY1hJZXZmV3R2Y1FTOGlMNC0tV1JjQm03RFAwbmhHU1hkWTQ2ZDZadGFZemFOQlZpaXc?oc=5\" target=\"_blank\">Country star turned Trump official fights Alabama Power to protect Shelby County man’s dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-10T07:18:35+00:00"
     },
     {
       "id": "08f7a9dd6ee250b0",
