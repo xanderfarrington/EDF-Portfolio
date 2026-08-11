@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T12:49:46+00:00",
+  "last_updated": "2026-08-11T14:52:28+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 400,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "6c6603009f2e3e2e",
         "title": "Georgia Power breaks ground on natural gas expansion at Plant Bowen despite air pollution concerns - Griffin Daily News",
