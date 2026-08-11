@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-11T08:47:29+00:00",
+  "last_updated": "2026-08-11T10:44:32+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 210,
+  "count": 211,
   "mentions": [
     {
       "id": "b9d407243074164b",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-10T22:30:10+00:00"
+    },
+    {
+      "id": "17d4bdce847ae9ed",
+      "title": "John Rich helping Shelby County man fighting Alabama Power - 1819news.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3JpU3k5dk9PZkU2ZDBpYk4zRDRabnE5cmdnWU00UGwxeUdpbWpJR3VmLXE2eHlkSnBTU2RvcVdCbGRyaTNac3dwVTQzczlReENkaTVXVnZIbGJzcHZlMThhMjZiWWhWSlg0RVQ2RUpGY21KYnVYb2ZUb3QybVlGa1BiSXVma3JEUG5IRGhkZzhXV2M?oc=5",
+      "domain": "news.google.com",
+      "source": "1819news.com",
+      "language": "English",
+      "published_at": "2026-08-10T19:07:50+00:00",
+      "summary": "John Rich helping Shelby County man fighting Alabama Power 1819news.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3JpU3k5dk9PZkU2ZDBpYk4zRDRabnE5cmdnWU00UGwxeUdpbWpJR3VmLXE2eHlkSnBTU2RvcVdCbGRyaTNac3dwVTQzczlReENkaTVXVnZIbGJzcHZlMThhMjZiWWhWSlg0RVQ2RUpGY21KYnVYb2ZUb3QybVlGa1BiSXVma3JEUG5IRGhkZzhXV2M?oc=5\" target=\"_blank\">John Rich helping Shelby County man fighting Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819news.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-11T10:44:32+00:00"
     },
     {
       "id": "f8c96bcbbf4b5f82",
