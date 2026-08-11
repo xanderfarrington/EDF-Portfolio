@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-10T22:30:28+00:00",
+  "last_updated": "2026-08-11T01:12:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 399,
+  "count": 400,
   "mentions": [
     {
       "id": "6c6603009f2e3e2e",
@@ -425,6 +425,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-03T11:16:26+00:00"
+    },
+    {
+      "id": "f96ccd72d681345b",
+      "title": "Georgia Power starts construction on 1.5GW gas units at Plant Bowen - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjB0aXlTRGVGNU9mSjQxY0JueV9oS1AySDRkMzhKQ0JwcjBBQjdBb2dPdFJGRjlsMkoxMjlrckJPN0x2QzFjN2NsdUxXdGVXZmdQWWxnX25WaUhPXzBJSm1rUHlKcGNOd19LZVRPNkZqbzhQTUZyeXpqVUlfVUFOMzJXZmF3NGppc194Y0d1ajRUcHZrZG1J?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-08-03T08:47:50+00:00",
+      "summary": "Georgia Power starts construction on 1.5GW gas units at Plant Bowen Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjB0aXlTRGVGNU9mSjQxY0JueV9oS1AySDRkMzhKQ0JwcjBBQjdBb2dPdFJGRjlsMkoxMjlrckJPN0x2QzFjN2NsdUxXdGVXZmdQWWxnX25WaUhPXzBJSm1rUHlKcGNOd19LZVRPNkZqbzhQTUZyeXpqVUlfVUFOMzJXZmF3NGppc194Y0d1ajRUcHZrZG1J?oc=5\" target=\"_blank\">Georgia Power starts construction on 1.5GW gas units at Plant Bowen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-11T01:12:40+00:00"
     },
     {
       "id": "4f77fa49d7c5d8e4",
