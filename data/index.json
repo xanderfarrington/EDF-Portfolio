@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-11T06:55:50+00:00",
+  "last_updated": "2026-08-11T08:47:56+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 78,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "a084c17b45239523",
         "title": "AEP5300365 Bond Profile — Key Metrics - tradingview.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 400,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "6c6603009f2e3e2e",
         "title": "Georgia Power breaks ground on natural gas expansion at Plant Bowen despite air pollution concerns - Griffin Daily News",
