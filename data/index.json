@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T20:37:34+00:00",
+  "last_updated": "2026-08-11T22:35:19+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 40,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "2e45e048ed7664fe",
         "title": "United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C. - mondaq.com",
