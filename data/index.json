@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T18:53:49+00:00",
+  "last_updated": "2026-08-11T20:37:34+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 401,
-      "new_mentions_this_run": 21,
+      "count": 403,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "14bd26a10ab02be4",
         "title": "Michigan Commit, Nation's No. 1 Kicker Ruled Ineligible After Transfer to Georgia Power Milton - Sports Illustrated",
