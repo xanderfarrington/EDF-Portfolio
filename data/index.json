@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T22:35:19+00:00",
+  "last_updated": "2026-08-12T01:20:56+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 211,
+      "count": 212,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "b9d407243074164b",
-        "title": "John Rich helping Shelby County man fighting Alabama Power - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3JpU3k5dk9PZkU2ZDBpYk4zRDRabnE5cmdnWU00UGwxeUdpbWpJR3VmLXE2eHlkSnBTU2RvcVdCbGRyaTNac3dwVTQzczlReENkaTVXVnZIbGJzcHZlMThhMjZiWWhWSlg0RVQ2RUpGY21KYnVYb2ZUb3QybVlGa1BiSXVma3JEUG5IRGhkZzhXV2M?oc=5",
+        "id": "d2791b4f381f9c49",
+        "title": "Wiregrass Museum of Art awarded grant from Alabama Power Company - WDHN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWVhueVpBYlVxck1JTDJoUXJWa3dQRHpyaEhsWUFuNC1KTVJySWRKQVExR181cFQwRzYzX3lGcXlBelhXbmFxYnFLVDI1Y0RkRldmbzR4RHQ3SUhLRjVJdzJwb0MyV05rS2ZLN19OMlNud2ZOSDBCeHhDTk5aYjNmMm5fZmhhOUN4V2M5cFU5eGV4QWM0Q0xpeENFb2VxZ0V0VnZYU1FSUXU0M25ROXNPbDBVZW1WcVBlZkE?oc=5",
         "domain": "news.google.com",
-        "source": "1819 News",
+        "source": "WDHN",
         "language": "English",
-        "published_at": "2026-08-10T19:07:50+00:00",
-        "summary": "John Rich helping Shelby County man fighting Alabama Power 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3JpU3k5dk9PZkU2ZDBpYk4zRDRabnE5cmdnWU00UGwxeUdpbWpJR3VmLXE2eHlkSnBTU2RvcVdCbGRyaTNac3dwVTQzczlReENkaTVXVnZIbGJzcHZlMThhMjZiWWhWSlg0RVQ2RUpGY21KYnVYb2ZUb3QybVlGa1BiSXVma3JEUG5IRGhkZzhXV2M?oc=5\" target=\"_blank\">John Rich helping Shelby County man fighting Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-08-11T22:50:46+00:00",
+        "summary": "Wiregrass Museum of Art awarded grant from Alabama Power Company WDHN",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNWVhueVpBYlVxck1JTDJoUXJWa3dQRHpyaEhsWUFuNC1KTVJySWRKQVExR181cFQwRzYzX3lGcXlBelhXbmFxYnFLVDI1Y0RkRldmbzR4RHQ3SUhLRjVJdzJwb0MyV05rS2ZLN19OMlNud2ZOSDBCeHhDTk5aYjNmMm5fZmhhOUN4V2M5cFU5eGV4QWM0Q0xpeENFb2VxZ0V0VnZYU1FSUXU0M25ROXNPbDBVZW1WcVBlZkE?oc=5\" target=\"_blank\">Wiregrass Museum of Art awarded grant from Alabama Power Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDHN</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-10T22:30:10+00:00"
+        "collected_at": "2026-08-12T01:20:30+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 403,
+      "count": 404,
       "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "14bd26a10ab02be4",

@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-11T22:35:08+00:00",
+  "last_updated": "2026-08-12T01:20:46+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 403,
+  "count": 404,
   "mentions": [
     {
       "id": "14bd26a10ab02be4",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-11T20:37:23+00:00"
+    },
+    {
+      "id": "c8c22b47d1df19e2",
+      "title": "Keep Newnan Beautiful Brings Outdoor STEM Classroom to Newnan Crossing Elementary School - thecitizen.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTNXSTlibjlBbkN0eDNuN0JwNkFacFd6UktrblVrU1N3RHhEMm9MVkNkdksxdHlFRGlXN1IzTmp5eWJYRXpiOV9sTVYwcjlka2d4TUcyM0h5a3d1cmlTRVduU2c0LXo2WUYyeGQxTE5qMnJEanZGT3gzbTZXY0paVUIweXF4VkVYNHd3aDJrdVpwMEs3VVBGNGhzWTgyWG1OeGNMTy1HRjlUamlTSE9KUVlZSGg5R3dFdEFLWmgxQnM?oc=5",
+      "domain": "news.google.com",
+      "source": "thecitizen.com",
+      "language": "English",
+      "published_at": "2026-08-11T16:56:22+00:00",
+      "summary": "Keep Newnan Beautiful Brings Outdoor STEM Classroom to Newnan Crossing Elementary School thecitizen.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTNXSTlibjlBbkN0eDNuN0JwNkFacFd6UktrblVrU1N3RHhEMm9MVkNkdksxdHlFRGlXN1IzTmp5eWJYRXpiOV9sTVYwcjlka2d4TUcyM0h5a3d1cmlTRVduU2c0LXo2WUYyeGQxTE5qMnJEanZGT3gzbTZXY0paVUIweXF4VkVYNHd3aDJrdVpwMEs3VVBGNGhzWTgyWG1OeGNMTy1HRjlUamlTSE9KUVlZSGg5R3dFdEFLWmgxQnM?oc=5\" target=\"_blank\">Keep Newnan Beautiful Brings Outdoor STEM Classroom to Newnan Crossing Elementary School</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecitizen.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-12T01:20:46+00:00"
     },
     {
       "id": "b156b9fe602d53c5",
