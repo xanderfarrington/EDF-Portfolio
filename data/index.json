@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T16:52:07+00:00",
+  "last_updated": "2026-08-12T18:54:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 217,
-      "new_mentions_this_run": 22,
+      "count": 218,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "3b296381bd32c95c",
         "title": "Alabama Power ‘hell-bent on eminent domain’ — John Rich continues to spotlight Shelby County fight - 1819 News",

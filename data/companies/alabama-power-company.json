@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-12T16:51:40+00:00",
+  "last_updated": "2026-08-12T18:53:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 217,
+  "count": 218,
   "mentions": [
     {
       "id": "3b296381bd32c95c",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-12T16:51:40+00:00"
+    },
+    {
+      "id": "273f553a4c73dddf",
+      "title": "Alabama Electricity Rates & Costs (August 2026) - ElectricChoice.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01VFdRWWNScjBKUXpMdHREOTJ0dC1PQ3ZRN0l6dXMxLWc4NHZDdEdqY3pHRnJ3dXNFbWM5YktFejJCbXpVQ2h5T3pwM0xpMENPTE5PU0c0RWZicXRqOWVrdFBmN3RRSkxhWDFHMmVVM25MNHEtd0E?oc=5",
+      "domain": "news.google.com",
+      "source": "ElectricChoice.com",
+      "language": "English",
+      "published_at": "2026-08-12T03:30:29+00:00",
+      "summary": "Alabama Electricity Rates & Costs (August 2026) ElectricChoice.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE01VFdRWWNScjBKUXpMdHREOTJ0dC1PQ3ZRN0l6dXMxLWc4NHZDdEdqY3pHRnJ3dXNFbWM5YktFejJCbXpVQ2h5T3pwM0xpMENPTE5PU0c0RWZicXRqOWVrdFBmN3RRSkxhWDFHMmVVM25MNHEtd0E?oc=5\" target=\"_blank\">Alabama Electricity Rates & Costs (August 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ElectricChoice.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-12T18:53:37+00:00"
     },
     {
       "id": "d2791b4f381f9c49",
