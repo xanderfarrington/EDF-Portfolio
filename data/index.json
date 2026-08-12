@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T10:56:00+00:00",
+  "last_updated": "2026-08-12T12:54:39+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 215,
+      "count": 216,
       "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "3b296381bd32c95c",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 406,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "14bd26a10ab02be4",
         "title": "Michigan Commit, Nation's No. 1 Kicker Ruled Ineligible After Transfer to Georgia Power Milton - Sports Illustrated",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 40,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "2e45e048ed7664fe",
         "title": "United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C. - mondaq.com",
