@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-12T12:54:29+00:00",
+  "last_updated": "2026-08-12T14:51:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 406,
+  "count": 407,
   "mentions": [
     {
       "id": "14bd26a10ab02be4",
@@ -75,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-11T20:37:23+00:00"
+    },
+    {
+      "id": "8f55621d46f78b53",
+      "title": "Incentive Rebate360 Earns Georgia Power Commercial Energy Efficiency Program Gold Participating Contractor Recognition - einpresswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSF9pbjhpWGhFM3VkV0drVmEwNzVlTkNlTmJtLTdTQjh4azUxZmtHdzl4Y3ZIYmVCenRfREZtOXctbVBmRzF6UDdrWlAwREFMbHVyRUhDNjZkWjZGUkVzczJRcUlNSDM1S1JITF90c0NZdWdfcWhuSzk4bFBCTkZxVW9XUGhMSy16Zm8teFZfR2NQZVhmd3RHZERoc3VMVkhFd1kzZnQwWG93MjlfUkU0QTBlbjF4clJrU1VNR1VEWWNTeEs1UFlpTTE2eHVHVXkybTZhQ1lkV0JhZXpsQUdhWmctMkVnUkR1RTdzb3lQWWgwd2J0U3hTWg?oc=5",
+      "domain": "news.google.com",
+      "source": "einpresswire.com",
+      "language": "English",
+      "published_at": "2026-08-11T13:55:00+00:00",
+      "summary": "Incentive Rebate360 Earns Georgia Power Commercial Energy Efficiency Program Gold Participating Contractor Recognition einpresswire.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSF9pbjhpWGhFM3VkV0drVmEwNzVlTkNlTmJtLTdTQjh4azUxZmtHdzl4Y3ZIYmVCenRfREZtOXctbVBmRzF6UDdrWlAwREFMbHVyRUhDNjZkWjZGUkVzczJRcUlNSDM1S1JITF90c0NZdWdfcWhuSzk4bFBCTkZxVW9XUGhMSy16Zm8teFZfR2NQZVhmd3RHZERoc3VMVkhFd1kzZnQwWG93MjlfUkU0QTBlbjF4clJrU1VNR1VEWWNTeEs1UFlpTTE2eHVHVXkybTZhQ1lkV0JhZXpsQUdhWmctMkVnUkR1RTdzb3lQWWgwd2J0U3hTWg?oc=5\" target=\"_blank\">Incentive Rebate360 Earns Georgia Power Commercial Energy Efficiency Program Gold Participating Contractor Recognition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">einpresswire.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-12T14:51:31+00:00"
     },
     {
       "id": "6c6603009f2e3e2e",

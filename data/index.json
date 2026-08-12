@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T12:54:39+00:00",
+  "last_updated": "2026-08-12T14:51:41+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 216,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "3b296381bd32c95c",
         "title": "Alabama Power ‘hell-bent on eminent domain’ — John Rich continues to spotlight Shelby County fight - 1819 News",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 406,
-      "new_mentions_this_run": 21,
+      "count": 407,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "14bd26a10ab02be4",
         "title": "Michigan Commit, Nation's No. 1 Kicker Ruled Ineligible After Transfer to Georgia Power Milton - Sports Illustrated",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 40,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "2e45e048ed7664fe",
         "title": "United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C. - mondaq.com",
