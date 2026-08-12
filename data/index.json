@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T07:15:28+00:00",
+  "last_updated": "2026-08-12T09:06:39+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 214,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "d2791b4f381f9c49",
         "title": "Wiregrass Museum of Art awarded grant from Alabama Power Company - WDHN",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 404,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "14bd26a10ab02be4",
         "title": "Michigan Commit, Nation's No. 1 Kicker Ruled Ineligible After Transfer to Georgia Power Milton - Sports Illustrated",
