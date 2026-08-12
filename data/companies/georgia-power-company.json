@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-12T09:06:29+00:00",
+  "last_updated": "2026-08-12T10:55:50+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 404,
+  "count": 406,
   "mentions": [
     {
       "id": "14bd26a10ab02be4",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-11T18:53:38+00:00"
+    },
+    {
+      "id": "0fb9cd8a7549493e",
+      "title": "Michigan Commit, Nation's No. 1 Kicker Ruled Ineligible After Transfer to Georgia Power Milton - si.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRFFkOW9NUFU5bV9qZEVvNzRpYzNsb193VVlBT0Q0OUo4LWVvQXJ1X3F5allzYjJrdURxNVRhM05ZQWg5X1R4TWVlNlZDZTlCbi1DblE4OUo2T3JYS19FV0tld1Boc0lHQkQzZTBxbXNNOXR5QS1ma2RRcXRvTnhuRzJXbmJJLV9BMXJCN2I0RXRCYlhmNldDd0YwSm43czlCTTBSMkUyRGZqczhkNXVhWHdYcEJpR0Facm5NMDQwdTJiakg1QU4xTm8wem9MaXR5TFlqdjN3dWRiLVNP?oc=5",
+      "domain": "news.google.com",
+      "source": "si.com",
+      "language": "English",
+      "published_at": "2026-08-11T17:16:56+00:00",
+      "summary": "Michigan Commit, Nation's No. 1 Kicker Ruled Ineligible After Transfer to Georgia Power Milton si.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRFFkOW9NUFU5bV9qZEVvNzRpYzNsb193VVlBT0Q0OUo4LWVvQXJ1X3F5allzYjJrdURxNVRhM05ZQWg5X1R4TWVlNlZDZTlCbi1DblE4OUo2T3JYS19FV0tld1Boc0lHQkQzZTBxbXNNOXR5QS1ma2RRcXRvTnhuRzJXbmJJLV9BMXJCN2I0RXRCYlhmNldDd0YwSm43czlCTTBSMkUyRGZqczhkNXVhWHdYcEJpR0Facm5NMDQwdTJiakg1QU4xTm8wem9MaXR5TFlqdjN3dWRiLVNP?oc=5\" target=\"_blank\">Michigan Commit, Nation's No. 1 Kicker Ruled Ineligible After Transfer to Georgia Power Milton</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">si.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-12T10:55:50+00:00"
     },
     {
       "id": "3a7407117e09c5a1",
@@ -1321,6 +1335,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-28T13:49:56+00:00"
+    },
+    {
+      "id": "e6443feaf5f51a32",
+      "title": "Georgia Power unveils 49.5-MW BESS at Moody solar farm - renewablesnow.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWRrVUJBUDhRbGpKLU5SSjZ3bnV5V1hiODBxZ2lyTW9yZDByN2JfNUJEVkxOeEpYMmdMSGFqalNDMnVzM0IxQUt3a0pNdERadmxRbnZZekhmLUo3ZTV0T0JLUko3clJVUEU3ejd0bXZId0Fua3k0bEV0d1FUTlhlaURFTjg5MWxQcFNtcWhSb29ubVhQTDhTUi13?oc=5",
+      "domain": "news.google.com",
+      "source": "renewablesnow.com",
+      "language": "English",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "summary": "Georgia Power unveils 49.5-MW BESS at Moody solar farm renewablesnow.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWRrVUJBUDhRbGpKLU5SSjZ3bnV5V1hiODBxZ2lyTW9yZDByN2JfNUJEVkxOeEpYMmdMSGFqalNDMnVzM0IxQUt3a0pNdERadmxRbnZZekhmLUo3ZTV0T0JLUko3clJVUEU3ejd0bXZId0Fua3k0bEV0d1FUTlhlaURFTjg5MWxQcFNtcWhSb29ubVhQTDhTUi13?oc=5\" target=\"_blank\">Georgia Power unveils 49.5-MW BESS at Moody solar farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">renewablesnow.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-12T10:55:50+00:00"
     },
     {
       "id": "c20e7ab09b32c101",

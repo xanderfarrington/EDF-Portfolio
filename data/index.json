@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T09:06:39+00:00",
+  "last_updated": "2026-08-12T10:56:00+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 214,
+      "count": 215,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "d2791b4f381f9c49",
-        "title": "Wiregrass Museum of Art awarded grant from Alabama Power Company - WDHN",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWVhueVpBYlVxck1JTDJoUXJWa3dQRHpyaEhsWUFuNC1KTVJySWRKQVExR181cFQwRzYzX3lGcXlBelhXbmFxYnFLVDI1Y0RkRldmbzR4RHQ3SUhLRjVJdzJwb0MyV05rS2ZLN19OMlNud2ZOSDBCeHhDTk5aYjNmMm5fZmhhOUN4V2M5cFU5eGV4QWM0Q0xpeENFb2VxZ0V0VnZYU1FSUXU0M25ROXNPbDBVZW1WcVBlZkE?oc=5",
+        "id": "3b296381bd32c95c",
+        "title": "Alabama Power ‘hell-bent on eminent domain’ — John Rich continues to spotlight Shelby County fight - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTVtVUI5MGE2eEQ2X0ljM2NIcnQtWjRPTjNtd3dDbThaVFdzcC05ZlZoUzlyQzM5Uk1xLVpQSkMtdFNoZnBWWXdGWjZudU5EcWVha1lxWVNYMndEaDBEdG5SMXN0U2RBNXlMRER5LXctc3o3eVFsMFRWMHhxVWxMbTExXzlTaFFuZEl0cUczcXUxT2NNZm42anRjU1Y1MzJBRGhXMTJMblZjbERvV2tlNm10Z2h4b05sTDlFWE5UZVlsUGM?oc=5",
         "domain": "news.google.com",
-        "source": "WDHN",
+        "source": "1819 News",
         "language": "English",
-        "published_at": "2026-08-11T22:50:46+00:00",
-        "summary": "Wiregrass Museum of Art awarded grant from Alabama Power Company WDHN",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNWVhueVpBYlVxck1JTDJoUXJWa3dQRHpyaEhsWUFuNC1KTVJySWRKQVExR181cFQwRzYzX3lGcXlBelhXbmFxYnFLVDI1Y0RkRldmbzR4RHQ3SUhLRjVJdzJwb0MyV05rS2ZLN19OMlNud2ZOSDBCeHhDTk5aYjNmMm5fZmhhOUN4V2M5cFU5eGV4QWM0Q0xpeENFb2VxZ0V0VnZYU1FSUXU0M25ROXNPbDBVZW1WcVBlZkE?oc=5\" target=\"_blank\">Wiregrass Museum of Art awarded grant from Alabama Power Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDHN</font>",
+        "published_at": "2026-08-12T10:06:12+00:00",
+        "summary": "Alabama Power ‘hell-bent on eminent domain’ — John Rich continues to spotlight Shelby County fight 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTVtVUI5MGE2eEQ2X0ljM2NIcnQtWjRPTjNtd3dDbThaVFdzcC05ZlZoUzlyQzM5Uk1xLVpQSkMtdFNoZnBWWXdGWjZudU5EcWVha1lxWVNYMndEaDBEdG5SMXN0U2RBNXlMRER5LXctc3o3eVFsMFRWMHhxVWxMbTExXzlTaFFuZEl0cUczcXUxT2NNZm42anRjU1Y1MzJBRGhXMTJMblZjbERvV2tlNm10Z2h4b05sTDlFWE5UZVlsUGM?oc=5\" target=\"_blank\">Alabama Power ‘hell-bent on eminent domain’ — John Rich continues to spotlight Shelby County fight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-12T01:20:30+00:00"
+        "collected_at": "2026-08-12T10:55:33+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 404,
+      "count": 406,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "14bd26a10ab02be4",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 40,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "2e45e048ed7664fe",
         "title": "United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C. - mondaq.com",

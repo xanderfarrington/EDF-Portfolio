@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-12T09:06:13+00:00",
+  "last_updated": "2026-08-12T10:55:33+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 214,
+  "count": 215,
   "mentions": [
+    {
+      "id": "3b296381bd32c95c",
+      "title": "Alabama Power ‘hell-bent on eminent domain’ — John Rich continues to spotlight Shelby County fight - 1819 News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTVtVUI5MGE2eEQ2X0ljM2NIcnQtWjRPTjNtd3dDbThaVFdzcC05ZlZoUzlyQzM5Uk1xLVpQSkMtdFNoZnBWWXdGWjZudU5EcWVha1lxWVNYMndEaDBEdG5SMXN0U2RBNXlMRER5LXctc3o3eVFsMFRWMHhxVWxMbTExXzlTaFFuZEl0cUczcXUxT2NNZm42anRjU1Y1MzJBRGhXMTJMblZjbERvV2tlNm10Z2h4b05sTDlFWE5UZVlsUGM?oc=5",
+      "domain": "news.google.com",
+      "source": "1819 News",
+      "language": "English",
+      "published_at": "2026-08-12T10:06:12+00:00",
+      "summary": "Alabama Power ‘hell-bent on eminent domain’ — John Rich continues to spotlight Shelby County fight 1819 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTVtVUI5MGE2eEQ2X0ljM2NIcnQtWjRPTjNtd3dDbThaVFdzcC05ZlZoUzlyQzM5Uk1xLVpQSkMtdFNoZnBWWXdGWjZudU5EcWVha1lxWVNYMndEaDBEdG5SMXN0U2RBNXlMRER5LXctc3o3eVFsMFRWMHhxVWxMbTExXzlTaFFuZEl0cUczcXUxT2NNZm42anRjU1Y1MzJBRGhXMTJMblZjbERvV2tlNm10Z2h4b05sTDlFWE5UZVlsUGM?oc=5\" target=\"_blank\">Alabama Power ‘hell-bent on eminent domain’ — John Rich continues to spotlight Shelby County fight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-12T10:55:33+00:00"
+    },
     {
       "id": "d2791b4f381f9c49",
       "title": "Wiregrass Museum of Art awarded grant from Alabama Power Company - WDHN",
