@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-12T01:20:30+00:00",
+  "last_updated": "2026-08-12T04:00:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 212,
+  "count": 213,
   "mentions": [
     {
       "id": "d2791b4f381f9c49",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-12T01:20:30+00:00"
+    },
+    {
+      "id": "211566c57219ece7",
+      "title": "Wiregrass Museum of Art awarded grant from Alabama Power Company - WDHN",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0RoaHFVYmE2VlI2VXZoSXRaVHl4cTB2N0lIQUJFUFpHMzhjdl8yZzVZQ1NOanpCOHFoS1o3clo5Y3R5OEhHMjVUdDhNcGVWVHJCV0hodHVwZGZ3SzhYLXc3YWFISXNLeTNkVDB3R0UwTExsSkd6MEg1UHNXejZ2TkVyQlIteGU2UW9KMDRQcGRVem5zTnc?oc=5",
+      "domain": "news.google.com",
+      "source": "WDHN",
+      "language": "English",
+      "published_at": "2026-08-11T22:50:46+00:00",
+      "summary": "Wiregrass Museum of Art awarded grant from Alabama Power Company WDHN",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0RoaHFVYmE2VlI2VXZoSXRaVHl4cTB2N0lIQUJFUFpHMzhjdl8yZzVZQ1NOanpCOHFoS1o3clo5Y3R5OEhHMjVUdDhNcGVWVHJCV0hodHVwZGZ3SzhYLXc3YWFISXNLeTNkVDB3R0UwTExsSkd6MEg1UHNXejZ2TkVyQlIteGU2UW9KMDRQcGRVem5zTnc?oc=5\" target=\"_blank\">Wiregrass Museum of Art awarded grant from Alabama Power Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDHN</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-12T04:00:01+00:00"
     },
     {
       "id": "b9d407243074164b",
