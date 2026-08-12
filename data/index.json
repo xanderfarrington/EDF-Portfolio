@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T14:51:41+00:00",
+  "last_updated": "2026-08-12T16:52:07+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 216,
+      "count": 217,
       "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "3b296381bd32c95c",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 407,
-      "new_mentions_this_run": 22,
+      "count": 408,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "14bd26a10ab02be4",
-        "title": "Michigan Commit, Nation's No. 1 Kicker Ruled Ineligible After Transfer to Georgia Power Milton - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRFFkOW9NUFU5bV9qZEVvNzRpYzNsb193VVlBT0Q0OUo4LWVvQXJ1X3F5allzYjJrdURxNVRhM05ZQWg5X1R4TWVlNlZDZTlCbi1DblE4OUo2T3JYS19FV0tld1Boc0lHQkQzZTBxbXNNOXR5QS1ma2RRcXRvTnhuRzJXbmJJLV9BMXJCN2I0RXRCYlhmNldDd0YwSm43czlCTTBSMkUyRGZqczhkNXVhWHdYcEJpR0Facm5NMDQwdTJiakg1QU4xTm8wem9MaXR5TFlqdjN3dWRiLVNP?oc=5",
+        "id": "9cee847edc111ba9",
+        "title": "Georgia’s power grid prepared for hottest days of summer - 95.5 WSB",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWFQdFp5ZjdfZUxtQ2RZRWdCNzNhbURDYnA1VlFMaDBnN2xUY0NEVFNycGJUTUxTZGZRZ2VFWEZubUZsMWFSV1E4TVEtSExHVDBEcHpyRjB5SEJiSW5VS3RWd0NoTHNTRFZ0WXViX3lMRjcxZ3R4OHNyMnF4VzQ4WTZ5Q3BkbVVkM0ZSVmpJcTZoNXZCd0Y3RTZVc25FYU1MSXUxU1lOMi1sVmFNWTJBcGln0gHGAUFVX3lxTE94ampNYXRhYUw3aEFvcVFPclRKUTVhU1RyVFdWRjFQLUdZNDFFYXlzX1NEc3hxOVBDYTREVVVCMDFDWUY1Tm5ucUtvWFhoVS1WY2JRZHBJRmJfT3JtQWZPQm0zdzJyZ2E1a2FXNkNnRy02TGV5VzZzczgzcnZtTEZiN2loV2NHZEJGTENocm9GVVBPQkRyWWF0MWg5blNaMXRvd2FqMHdKVlNLT1dzZWUtOGlnYm04d1RJZnlRTEpaUXQybWdDdw?oc=5",
         "domain": "news.google.com",
-        "source": "Sports Illustrated",
+        "source": "95.5 WSB",
         "language": "English",
-        "published_at": "2026-08-11T17:16:56+00:00",
-        "summary": "Michigan Commit, Nation's No. 1 Kicker Ruled Ineligible After Transfer to Georgia Power Milton Sports Illustrated",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRFFkOW9NUFU5bV9qZEVvNzRpYzNsb193VVlBT0Q0OUo4LWVvQXJ1X3F5allzYjJrdURxNVRhM05ZQWg5X1R4TWVlNlZDZTlCbi1DblE4OUo2T3JYS19FV0tld1Boc0lHQkQzZTBxbXNNOXR5QS1ma2RRcXRvTnhuRzJXbmJJLV9BMXJCN2I0RXRCYlhmNldDd0YwSm43czlCTTBSMkUyRGZqczhkNXVhWHdYcEJpR0Facm5NMDQwdTJiakg1QU4xTm8wem9MaXR5TFlqdjN3dWRiLVNP?oc=5\" target=\"_blank\">Michigan Commit, Nation's No. 1 Kicker Ruled Ineligible After Transfer to Georgia Power Milton</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sports Illustrated</font>",
+        "published_at": "2026-08-12T15:15:17+00:00",
+        "summary": "Georgia’s power grid prepared for hottest days of summer 95.5 WSB",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWFQdFp5ZjdfZUxtQ2RZRWdCNzNhbURDYnA1VlFMaDBnN2xUY0NEVFNycGJUTUxTZGZRZ2VFWEZubUZsMWFSV1E4TVEtSExHVDBEcHpyRjB5SEJiSW5VS3RWd0NoTHNTRFZ0WXViX3lMRjcxZ3R4OHNyMnF4VzQ4WTZ5Q3BkbVVkM0ZSVmpJcTZoNXZCd0Y3RTZVc25FYU1MSXUxU1lOMi1sVmFNWTJBcGln0gHGAUFVX3lxTE94ampNYXRhYUw3aEFvcVFPclRKUTVhU1RyVFdWRjFQLUdZNDFFYXlzX1NEc3hxOVBDYTREVVVCMDFDWUY1Tm5ucUtvWFhoVS1WY2JRZHBJRmJfT3JtQWZPQm0zdzJyZ2E1a2FXNkNnRy02TGV5VzZzczgzcnZtTEZiN2loV2NHZEJGTENocm9GVVBPQkRyWWF0MWg5blNaMXRvd2FqMHdKVlNLT1dzZWUtOGlnYm04d1RJZnlRTEpaUXQybWdDdw?oc=5\" target=\"_blank\">Georgia’s power grid prepared for hottest days of summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">95.5 WSB</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-11T18:53:38+00:00"
+        "collected_at": "2026-08-12T16:51:57+00:00"
       }
     },
     {
