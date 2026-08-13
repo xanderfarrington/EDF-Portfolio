@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-13T20:35:22+00:00",
+  "last_updated": "2026-08-13T22:35:02+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 78,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "a084c17b45239523",
         "title": "AEP5300365 Bond Profile — Key Metrics - tradingview.com",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 229,
+      "count": 231,
       "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "9704ef4a658778eb",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 411,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "9cee847edc111ba9",
         "title": "Georgia’s power grid prepared for hottest days of summer - 95.5 WSB",
@@ -110,21 +110,21 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 40,
-      "new_mentions_this_run": 5,
+      "count": 41,
+      "new_mentions_this_run": 6,
       "latest_mention": {
-        "id": "2e45e048ed7664fe",
-        "title": "United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C. - mondaq.com",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLUFZUS0yZ1BkYTdid1RUR2RJQ2lRcmNoU1hMdEJaRFJ4RE9kU0s3MDZERF8yeWw5TzBOS2pTcEliOFpMOERaX3BySlNOVWplakNFTFFMWGR5MXpmVkZ4RU5UeWhBMHdZUzJwSzZDb25FbHE4R0FDbWFGQ1pHNUM0SkV1Vm45cXNvU1g5VHdPa3FUN01ZZHZYa1I0ekpvSjdKcmNsQ0VPcVNHbjg0cXBQemNCNHhVSFJUel9tdHV6dTFmLWUyVVdUdERqZWN2SENGZ0EzRS1qUFliakRPVjB6T0h4OTE1YWhzTnFmb2U5ZlA5UQ?oc=5",
+        "id": "132a4b59653532de",
+        "title": "DOE looking for large-scale projects to fund - Midland Reporter-Telegram",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGR6QmhKRmRjX095ZFhGUHhfOERzY0lzZjc5MXJDeEx0T3Vva3RINUs1OXluMXVCcGc4MlFPRkFJQWpIVk4zcjdLbWZkdnU3Z2ZkYXZWSjBrd1FtRkY2S0VDdXlzOV81WGtLa09jRHJ5MU90ZXZ3UERYY1Z1ZW1ZZFRCWXpDbjZLSzJJdGEzT0x5Qk5k?oc=5",
         "domain": "news.google.com",
-        "source": "mondaq.com",
+        "source": "Midland Reporter-Telegram",
         "language": "English",
-        "published_at": "2026-08-05T07:31:03+00:00",
-        "summary": "United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C. mondaq.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLUFZUS0yZ1BkYTdid1RUR2RJQ2lRcmNoU1hMdEJaRFJ4RE9kU0s3MDZERF8yeWw5TzBOS2pTcEliOFpMOERaX3BySlNOVWplakNFTFFMWGR5MXpmVkZ4RU5UeWhBMHdZUzJwSzZDb25FbHE4R0FDbWFGQ1pHNUM0SkV1Vm45cXNvU1g5VHdPa3FUN01ZZHZYa1I0ekpvSjdKcmNsQ0VPcVNHbjg0cXBQemNCNHhVSFJUel9tdHV6dTFmLWUyVVdUdERqZWN2SENGZ0EzRS1qUFliakRPVjB6T0h4OTE1YWhzTnFmb2U5ZlA5UQ?oc=5\" target=\"_blank\">United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mondaq.com</font>",
+        "published_at": "2026-08-13T21:21:41+00:00",
+        "summary": "DOE looking for large-scale projects to fund Midland Reporter-Telegram",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGR6QmhKRmRjX095ZFhGUHhfOERzY0lzZjc5MXJDeEx0T3Vva3RINUs1OXluMXVCcGc4MlFPRkFJQWpIVk4zcjdLbWZkdnU3Z2ZkYXZWSjBrd1FtRkY2S0VDdXlzOV81WGtLa09jRHJ5MU90ZXZ3UERYY1Z1ZW1ZZFRCWXpDbjZLSzJJdGEzT0x5Qk5k?oc=5\" target=\"_blank\">DOE looking for large-scale projects to fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Midland Reporter-Telegram</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-06T05:20:40+00:00"
+        "collected_at": "2026-08-13T22:34:57+00:00"
       }
     }
   ]

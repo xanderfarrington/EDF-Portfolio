@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-08-13T20:35:17+00:00",
+  "last_updated": "2026-08-13T22:34:57+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 40,
+  "count": 41,
   "mentions": [
+    {
+      "id": "132a4b59653532de",
+      "title": "DOE looking for large-scale projects to fund - Midland Reporter-Telegram",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGR6QmhKRmRjX095ZFhGUHhfOERzY0lzZjc5MXJDeEx0T3Vva3RINUs1OXluMXVCcGc4MlFPRkFJQWpIVk4zcjdLbWZkdnU3Z2ZkYXZWSjBrd1FtRkY2S0VDdXlzOV81WGtLa09jRHJ5MU90ZXZ3UERYY1Z1ZW1ZZFRCWXpDbjZLSzJJdGEzT0x5Qk5k?oc=5",
+      "domain": "news.google.com",
+      "source": "Midland Reporter-Telegram",
+      "language": "English",
+      "published_at": "2026-08-13T21:21:41+00:00",
+      "summary": "DOE looking for large-scale projects to fund Midland Reporter-Telegram",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGR6QmhKRmRjX095ZFhGUHhfOERzY0lzZjc5MXJDeEx0T3Vva3RINUs1OXluMXVCcGc4MlFPRkFJQWpIVk4zcjdLbWZkdnU3Z2ZkYXZWSjBrd1FtRkY2S0VDdXlzOV81WGtLa09jRHJ5MU90ZXZ3UERYY1Z1ZW1ZZFRCWXpDbjZLSzJJdGEzT0x5Qk5k?oc=5\" target=\"_blank\">DOE looking for large-scale projects to fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Midland Reporter-Telegram</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-13T22:34:57+00:00"
+    },
     {
       "id": "2e45e048ed7664fe",
       "title": "United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C. - mondaq.com",

@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-13T20:34:55+00:00",
+  "last_updated": "2026-08-13T22:34:35+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 229,
+  "count": 231,
   "mentions": [
     {
       "id": "9704ef4a658778eb",
@@ -63,6 +63,20 @@
       "collected_at": "2026-08-13T20:34:55+00:00"
     },
     {
+      "id": "ee7fc69b77ccde8b",
+      "title": "'It's an invasion': Shelby County man pushes back against Alabama Power in property easement dispute - wvtm",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObjkwZ216WXVGaVpaeVJCNHlvSHA2WGJQdW5xS09YZEVRUV9HalpjampZNGI1MmRSeVFCRzJ5eWU1dG94UWdQTUNoemxHa2ItaERiNk5MaFJHQVZZOW9EUkp2ZlNuV2ZmTWFMUTdvTHROSTRhQkM0OEdxVzZFRkZpOXMzNXN2elc3WVdNcFJ1WWRKRk44Qzl0UTF5aw?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm",
+      "language": "English",
+      "published_at": "2026-08-13T00:54:00+00:00",
+      "summary": "'It's an invasion': Shelby County man pushes back against Alabama Power in property easement dispute wvtm",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxObjkwZ216WXVGaVpaeVJCNHlvSHA2WGJQdW5xS09YZEVRUV9HalpjampZNGI1MmRSeVFCRzJ5eWU1dG94UWdQTUNoemxHa2ItaERiNk5MaFJHQVZZOW9EUkp2ZlNuV2ZmTWFMUTdvTHROSTRhQkM0OEdxVzZFRkZpOXMzNXN2elc3WVdNcFJ1WWRKRk44Qzl0UTF5aw?oc=5\" target=\"_blank\">'It's an invasion': Shelby County man pushes back against Alabama Power in property easement dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-13T22:34:35+00:00"
+    },
+    {
       "id": "bd4524e6279acba6",
       "title": "'Its an invasion': Shelby County man pushes back against Alabama Power in property easement dispute - WVTM",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObjkwZ216WXVGaVpaeVJCNHlvSHA2WGJQdW5xS09YZEVRUV9HalpjampZNGI1MmRSeVFCRzJ5eWU1dG94UWdQTUNoemxHa2ItaERiNk5MaFJHQVZZOW9EUkp2ZlNuV2ZmTWFMUTdvTHROSTRhQkM0OEdxVzZFRkZpOXMzNXN2elc3WVdNcFJ1WWRKRk44Qzl0UTF5aw?oc=5",
@@ -117,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-13T01:22:04+00:00"
+    },
+    {
+      "id": "d88a476aa4eafa05",
+      "title": "‘That is egregious behavior’: Country star John Rich supporting Alabama man in fight for land - cbs42.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0UwRlpvNGxHYXlqTFZ2bnRnY1d0aEtGMEt0YW1xT1Y5ajJCY0ViUFhudWlTd0VaQ0FJU19wOVlpOE9BZElXQlNUcjdnTVNpNUxSVVVzSXUyNXg2ZFdTYkFVaWFKSnJUeDE0NFFjanRQdXltS2ZlUlN1Z0p1dk9Mam5jeFJaT0xzTThTd0tUc3E0ck9za2JLal9jUkhxLXlJNGowSVZvajE5MTF5VXlkN0xEeXVnQWNiZHZtQ0FkQVJ2UdIBxwFBVV95cUxQLTJoaGg4Rl9jaHFyTXlfMUNNcjhPdGFBVUVtdWk1d3ZjSXAzNGpXNjBqTW9KT1Y4dmhSNlE4RDcwZXFzZUYzWGdMdzZvcWV4WmU4TV85RDhvdlZtNC1iRjJvWTRmdDVtQi1wNXpVRy1zMjNnaTNOaVVhMnRXdUZZRVdOV052YjZLMDV3T3FUNEp5eWNCRlpFTlhZYzFXbkloakJJZFJNREp3a2wyd1YzTHFFc29mWFF0ZTg3SWZQaVpKLVJOYVNF?oc=5",
+      "domain": "news.google.com",
+      "source": "cbs42.com",
+      "language": "English",
+      "published_at": "2026-08-12T19:50:51+00:00",
+      "summary": "‘That is egregious behavior’: Country star John Rich supporting Alabama man in fight for land cbs42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0UwRlpvNGxHYXlqTFZ2bnRnY1d0aEtGMEt0YW1xT1Y5ajJCY0ViUFhudWlTd0VaQ0FJU19wOVlpOE9BZElXQlNUcjdnTVNpNUxSVVVzSXUyNXg2ZFdTYkFVaWFKSnJUeDE0NFFjanRQdXltS2ZlUlN1Z0p1dk9Mam5jeFJaT0xzTThTd0tUc3E0ck9za2JLal9jUkhxLXlJNGowSVZvajE5MTF5VXlkN0xEeXVnQWNiZHZtQ0FkQVJ2UdIBxwFBVV95cUxQLTJoaGg4Rl9jaHFyTXlfMUNNcjhPdGFBVUVtdWk1d3ZjSXAzNGpXNjBqTW9KT1Y4dmhSNlE4RDcwZXFzZUYzWGdMdzZvcWV4WmU4TV85RDhvdlZtNC1iRjJvWTRmdDVtQi1wNXpVRy1zMjNnaTNOaVVhMnRXdUZZRVdOV052YjZLMDV3T3FUNEp5eWNCRlpFTlhZYzFXbkloakJJZFJNREp3a2wyd1YzTHFFc29mWFF0ZTg3SWZQaVpKLVJOYVNF?oc=5\" target=\"_blank\">‘That is egregious behavior’: Country star John Rich supporting Alabama man in fight for land</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-13T22:34:35+00:00"
     },
     {
       "id": "d9363bfda4f5e69e",
