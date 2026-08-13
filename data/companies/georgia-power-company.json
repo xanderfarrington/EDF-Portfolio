@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-13T18:54:34+00:00",
+  "last_updated": "2026-08-13T20:35:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 409,
+  "count": 411,
   "mentions": [
     {
       "id": "9cee847edc111ba9",
@@ -1615,6 +1615,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-05T13:52:39+00:00"
+    },
+    {
+      "id": "8a970527e8f66b65",
+      "title": "Lake Sinclair residents claim Georgia Power is responsible for invasive plant - WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSWdNSEpTQkZqUm1ZTVNNaHdIUkh6Ul9Id19KNHl1TkdGajAxT1JBak16bkhuYUJvTFM1WVp1NFpfX0VrcVYxVXR1RjkwdzZCelRnNkpQTDdFTUhxelNqOC1sdGhwVXlyeE5oUmhLNDZsekRPbVBTTWtmY2QwUmNQN2RtQXQzTzQwTF9scnZCeHFLS0xhR2F0V001SnQ1WUFNUWxoLXV2UmpjV0EyRWxjc0tmTE5VQ3dQdXJZYkV5UjFOYTIyWDlpeF9RYk5fS2E0cUlmY0g2dVZZcnc5TERHWm11M21GUFBUSDFQczV3?oc=5",
+      "domain": "news.google.com",
+      "source": "WMAZ",
+      "language": "English",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "summary": "Lake Sinclair residents claim Georgia Power is responsible for invasive plant WMAZ",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSWdNSEpTQkZqUm1ZTVNNaHdIUkh6Ul9Id19KNHl1TkdGajAxT1JBak16bkhuYUJvTFM1WVp1NFpfX0VrcVYxVXR1RjkwdzZCelRnNkpQTDdFTUhxelNqOC1sdGhwVXlyeE5oUmhLNDZsekRPbVBTTWtmY2QwUmNQN2RtQXQzTzQwTF9scnZCeHFLS0xhR2F0V001SnQ1WUFNUWxoLXV2UmpjV0EyRWxjc0tmTE5VQ3dQdXJZYkV5UjFOYTIyWDlpeF9RYk5fS2E0cUlmY0g2dVZZcnc5TERHWm11M21GUFBUSDFQczV3?oc=5\" target=\"_blank\">Lake Sinclair residents claim Georgia Power is responsible for invasive plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WMAZ</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-13T20:35:12+00:00"
+    },
+    {
+      "id": "080eda476298e953",
+      "title": "Lake Sinclair residents claim Georgia Power is responsible for invasive plant, but Georgia Power says that's not the whole story - WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPT3ZvMFl6NzBNUkE4VUxnTk5sMmw2aEpZeUduN1M1ZlJjY0tCMGw1clJucTFqRHpoSGhyb0dWZjN5TlAxT0pVVlI4MUp3RmU1RUV5Q09YY1VzMF9pSDhXY1BBNjFhQlB5T1VfVVBZNTE2M0FZcmlObTllNU5jazJXVmh2TXZmOWhjN0VaZzFFbjhwbTRUdmRnVFdtM2gyRWR0UFVwY0FvRHRKWDFIamVFd0ZWc1NocTJwUjhzMDBkdFpvYUJBUHpjSm54QThDUGk2MHA5VW1mSDN4TVRHNXRkdzhtQmhKaklmWkVjeVhybVB6ZnRld2EwcDhRdmJTU2ZsMTZj?oc=5",
+      "domain": "news.google.com",
+      "source": "WMAZ",
+      "language": "English",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "summary": "Lake Sinclair residents claim Georgia Power is responsible for invasive plant, but Georgia Power says that's not the whole story WMAZ",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPT3ZvMFl6NzBNUkE4VUxnTk5sMmw2aEpZeUduN1M1ZlJjY0tCMGw1clJucTFqRHpoSGhyb0dWZjN5TlAxT0pVVlI4MUp3RmU1RUV5Q09YY1VzMF9pSDhXY1BBNjFhQlB5T1VfVVBZNTE2M0FZcmlObTllNU5jazJXVmh2TXZmOWhjN0VaZzFFbjhwbTRUdmRnVFdtM2gyRWR0UFVwY0FvRHRKWDFIamVFd0ZWc1NocTJwUjhzMDBkdFpvYUJBUHpjSm54QThDUGk2MHA5VW1mSDN4TVRHNXRkdzhtQmhKaklmWkVjeVhybVB6ZnRld2EwcDhRdmJTU2ZsMTZj?oc=5\" target=\"_blank\">Lake Sinclair residents claim Georgia Power is responsible for invasive plant, but Georgia Power says that's not the whole story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WMAZ</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-13T20:35:12+00:00"
     },
     {
       "id": "680662eb027b7782",

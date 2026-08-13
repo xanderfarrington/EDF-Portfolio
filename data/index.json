@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T18:54:45+00:00",
+  "last_updated": "2026-08-13T20:35:22+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 227,
+      "count": 229,
       "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "f6ee24ee8bd67c39",
-        "title": "'It's an invasion': Shelby County man pushes back against Alabama Power in property easement dispute - WVTM",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObjkwZ216WXVGaVpaeVJCNHlvSHA2WGJQdW5xS09YZEVRUV9HalpjampZNGI1MmRSeVFCRzJ5eWU1dG94UWdQTUNoemxHa2ItaERiNk5MaFJHQVZZOW9EUkp2ZlNuV2ZmTWFMUTdvTHROSTRhQkM0OEdxVzZFRkZpOXMzNXN2elc3WVdNcFJ1WWRKRk44Qzl0UTF5aw?oc=5",
+        "id": "9704ef4a658778eb",
+        "title": "'It's like a slap in the face': John Rich blasts Alabama Power over Shelby County eminent domain dispute - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObTBNV21VUG5yQlVTTFI3d2k0aFNMV2pYZjA3WEN1MXNzZC1TMy14TXZfZVZZWjdDcG45T0wtQWVXSkpzdmN0WmpVaURsRmc3Ty1ERDQ5d3FCalJ2MC1lTXlzUlExWHZ1dWFpTFdST1lHR3p2Ukp5QWhBa0tqWGI4Z0N6dV9iRjJ0QlR2TDBvZDRUeUFnYWMtSk9uZVdLa2t4ZEhsM3UzZmhTZmVpZkV4eUtpZ3U5WEd5NzlBeGlfdUpKbGJPYU0yNVN2UQ?oc=5",
         "domain": "news.google.com",
-        "source": "WVTM",
+        "source": "1819 News",
         "language": "English",
-        "published_at": "2026-08-13T00:54:00+00:00",
-        "summary": "'It's an invasion': Shelby County man pushes back against Alabama Power in property easement dispute WVTM",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxObjkwZ216WXVGaVpaeVJCNHlvSHA2WGJQdW5xS09YZEVRUV9HalpjampZNGI1MmRSeVFCRzJ5eWU1dG94UWdQTUNoemxHa2ItaERiNk5MaFJHQVZZOW9EUkp2ZlNuV2ZmTWFMUTdvTHROSTRhQkM0OEdxVzZFRkZpOXMzNXN2elc3WVdNcFJ1WWRKRk44Qzl0UTF5aw?oc=5\" target=\"_blank\">'It's an invasion': Shelby County man pushes back against Alabama Power in property easement dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+        "published_at": "2026-08-13T19:03:25+00:00",
+        "summary": "'It's like a slap in the face': John Rich blasts Alabama Power over Shelby County eminent domain dispute 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxObTBNV21VUG5yQlVTTFI3d2k0aFNMV2pYZjA3WEN1MXNzZC1TMy14TXZfZVZZWjdDcG45T0wtQWVXSkpzdmN0WmpVaURsRmc3Ty1ERDQ5d3FCalJ2MC1lTXlzUlExWHZ1dWFpTFdST1lHR3p2Ukp5QWhBa0tqWGI4Z0N6dV9iRjJ0QlR2TDBvZDRUeUFnYWMtSk9uZVdLa2t4ZEhsM3UzZmhTZmVpZkV4eUtpZ3U5WEd5NzlBeGlfdUpKbGJPYU0yNVN2UQ?oc=5\" target=\"_blank\">'It's like a slap in the face': John Rich blasts Alabama Power over Shelby County eminent domain dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-13T07:17:01+00:00"
+        "collected_at": "2026-08-13T20:34:55+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 409,
+      "count": 411,
       "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "9cee847edc111ba9",
