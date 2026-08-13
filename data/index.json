@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T12:55:35+00:00",
+  "last_updated": "2026-08-13T14:51:54+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 226,
-      "new_mentions_this_run": 20,
+      "count": 227,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "f6ee24ee8bd67c39",
         "title": "'It's an invasion': Shelby County man pushes back against Alabama Power in property easement dispute - WVTM",
@@ -68,21 +68,21 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 71,
+      "count": 72,
       "new_mentions_this_run": 3,
       "latest_mention": {
-        "id": "92885afb47b68a0e",
-        "title": "US may decide on Three Mile Island restart in June, Constellation execs say - cumberlink.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2VJU3pWaUo1d3ZLNklUUTdObUQ4djY0RTNNdkxPMkNsSUdZb2VBbVBEOFNuN19wVklnN3dzb0pPUVpaNEQ4NU5oV1JBbF8ydENiWm9qZm1mbkZUZENIQ2hNTlg4bldDTEVITTBDUEMwR2xRRzNwU2oxZnBleEozWV93ZTkyYlFJLTRzWGpYRWdCajJqUWtDekMzaGFhdm5VYXdR?oc=5",
+        "id": "194ca3a64b5f3494",
+        "title": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more - American Nuclear Society -- ANS",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWRhaWpxMVA4M0ozd2F3d0Noa2pZczlOLXR6OWJaZGtUenAtU3dJTEc5SWtNek5FT1EzQ1ZDQXE2bS1KN2dHX1JvZmF1VWJzWHFoUXh3VUpfS1RpUkNCb2xJMkFHWHRKV09POHZoWUIyd05Id0ZMV19QeUl1a3dTQVB5UVExN294U0tLeXpncXVPNDktVlJtdjFvbzM1dXdQZHNEYVcxX1U0NWM0NXVpOA?oc=5",
         "domain": "news.google.com",
-        "source": "cumberlink.com",
+        "source": "American Nuclear Society -- ANS",
         "language": "English",
-        "published_at": "2026-08-01T14:54:36+00:00",
-        "summary": "US may decide on Three Mile Island restart in June, Constellation execs say cumberlink.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2VJU3pWaUo1d3ZLNklUUTdObUQ4djY0RTNNdkxPMkNsSUdZb2VBbVBEOFNuN19wVklnN3dzb0pPUVpaNEQ4NU5oV1JBbF8ydENiWm9qZm1mbkZUZENIQ2hNTlg4bldDTEVITTBDUEMwR2xRRzNwU2oxZnBleEozWV93ZTkyYlFJLTRzWGpYRWdCajJqUWtDekMzaGFhdm5VYXdR?oc=5\" target=\"_blank\">US may decide on Three Mile Island restart in June, Constellation execs say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cumberlink.com</font>",
+        "published_at": "2026-08-13T14:41:40+00:00",
+        "summary": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more American Nuclear Society -- ANS",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWRhaWpxMVA4M0ozd2F3d0Noa2pZczlOLXR6OWJaZGtUenAtU3dJTEc5SWtNek5FT1EzQ1ZDQXE2bS1KN2dHX1JvZmF1VWJzWHFoUXh3VUpfS1RpUkNCb2xJMkFHWHRKV09POHZoWUIyd05Id0ZMV19QeUl1a3dTQVB5UVExN294U0tLeXpncXVPNDktVlJtdjFvbzM1dXdQZHNEYVcxX1U0NWM0NXVpOA?oc=5\" target=\"_blank\">Second-quarter updates from Constellation: New PPAs, Crane restart, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society -- ANS</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-03T17:46:00+00:00"
+        "collected_at": "2026-08-13T14:51:37+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 409,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "9cee847edc111ba9",
         "title": "Georgia’s power grid prepared for hottest days of summer - 95.5 WSB",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 40,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "2e45e048ed7664fe",
         "title": "United States - Former Energy Dominance Financing Program Officials Sydney Bopp And Kevin Curley Join Holland & Knight In Washington, D.C. - mondaq.com",

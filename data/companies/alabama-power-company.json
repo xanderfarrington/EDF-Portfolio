@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-13T12:55:09+00:00",
+  "last_updated": "2026-08-13T14:51:25+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 226,
+  "count": 227,
   "mentions": [
     {
       "id": "f6ee24ee8bd67c39",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-13T07:17:01+00:00"
+    },
+    {
+      "id": "b5169001409849c8",
+      "title": "'It's an invasion': Shelby County man pushes back against Alabama Power in property easement dispute - wvtm13.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObjkwZ216WXVGaVpaeVJCNHlvSHA2WGJQdW5xS09YZEVRUV9HalpjampZNGI1MmRSeVFCRzJ5eWU1dG94UWdQTUNoemxHa2ItaERiNk5MaFJHQVZZOW9EUkp2ZlNuV2ZmTWFMUTdvTHROSTRhQkM0OEdxVzZFRkZpOXMzNXN2elc3WVdNcFJ1WWRKRk44Qzl0UTF5aw?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm13.com",
+      "language": "English",
+      "published_at": "2026-08-13T00:54:00+00:00",
+      "summary": "'It's an invasion': Shelby County man pushes back against Alabama Power in property easement dispute wvtm13.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxObjkwZ216WXVGaVpaeVJCNHlvSHA2WGJQdW5xS09YZEVRUV9HalpjampZNGI1MmRSeVFCRzJ5eWU1dG94UWdQTUNoemxHa2ItaERiNk5MaFJHQVZZOW9EUkp2ZlNuV2ZmTWFMUTdvTHROSTRhQkM0OEdxVzZFRkZpOXMzNXN2elc3WVdNcFJ1WWRKRk44Qzl0UTF5aw?oc=5\" target=\"_blank\">'It's an invasion': Shelby County man pushes back against Alabama Power in property easement dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm13.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-13T14:51:25+00:00"
     },
     {
       "id": "bd4524e6279acba6",
