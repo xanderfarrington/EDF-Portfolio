@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-13T04:04:52+00:00",
+  "last_updated": "2026-08-13T07:17:17+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 408,
+  "count": 409,
   "mentions": [
     {
       "id": "9cee847edc111ba9",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-12T16:51:57+00:00"
+    },
+    {
+      "id": "33b1a373eccca89f",
+      "title": "Georgia’s power grid prepared for hottest days of summer - wsbradio.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWFQdFp5ZjdfZUxtQ2RZRWdCNzNhbURDYnA1VlFMaDBnN2xUY0NEVFNycGJUTUxTZGZRZ2VFWEZubUZsMWFSV1E4TVEtSExHVDBEcHpyRjB5SEJiSW5VS3RWd0NoTHNTRFZ0WXViX3lMRjcxZ3R4OHNyMnF4VzQ4WTZ5Q3BkbVVkM0ZSVmpJcTZoNXZCd0Y3RTZVc25FYU1MSXUxU1lOMi1sVmFNWTJBcGln0gHGAUFVX3lxTE94ampNYXRhYUw3aEFvcVFPclRKUTVhU1RyVFdWRjFQLUdZNDFFYXlzX1NEc3hxOVBDYTREVVVCMDFDWUY1Tm5ucUtvWFhoVS1WY2JRZHBJRmJfT3JtQWZPQm0zdzJyZ2E1a2FXNkNnRy02TGV5VzZzczgzcnZtTEZiN2loV2NHZEJGTENocm9GVVBPQkRyWWF0MWg5blNaMXRvd2FqMHdKVlNLT1dzZWUtOGlnYm04d1RJZnlRTEpaUXQybWdDdw?oc=5",
+      "domain": "news.google.com",
+      "source": "wsbradio.com",
+      "language": "English",
+      "published_at": "2026-08-12T15:15:17+00:00",
+      "summary": "Georgia’s power grid prepared for hottest days of summer wsbradio.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWFQdFp5ZjdfZUxtQ2RZRWdCNzNhbURDYnA1VlFMaDBnN2xUY0NEVFNycGJUTUxTZGZRZ2VFWEZubUZsMWFSV1E4TVEtSExHVDBEcHpyRjB5SEJiSW5VS3RWd0NoTHNTRFZ0WXViX3lMRjcxZ3R4OHNyMnF4VzQ4WTZ5Q3BkbVVkM0ZSVmpJcTZoNXZCd0Y3RTZVc25FYU1MSXUxU1lOMi1sVmFNWTJBcGln0gHGAUFVX3lxTE94ampNYXRhYUw3aEFvcVFPclRKUTVhU1RyVFdWRjFQLUdZNDFFYXlzX1NEc3hxOVBDYTREVVVCMDFDWUY1Tm5ucUtvWFhoVS1WY2JRZHBJRmJfT3JtQWZPQm0zdzJyZ2E1a2FXNkNnRy02TGV5VzZzczgzcnZtTEZiN2loV2NHZEJGTENocm9GVVBPQkRyWWF0MWg5blNaMXRvd2FqMHdKVlNLT1dzZWUtOGlnYm04d1RJZnlRTEpaUXQybWdDdw?oc=5\" target=\"_blank\">Georgia’s power grid prepared for hottest days of summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsbradio.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-13T07:17:17+00:00"
     },
     {
       "id": "14bd26a10ab02be4",

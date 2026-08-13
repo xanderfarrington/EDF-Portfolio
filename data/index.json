@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-13T04:05:02+00:00",
+  "last_updated": "2026-08-13T07:17:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 78,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "a084c17b45239523",
         "title": "AEP5300365 Bond Profile — Key Metrics - tradingview.com",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 223,
+      "count": 225,
       "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "bd4524e6279acba6",
-        "title": "'Its an invasion': Shelby County man pushes back against Alabama Power in property easement dispute - WVTM",
+        "id": "f6ee24ee8bd67c39",
+        "title": "'It's an invasion': Shelby County man pushes back against Alabama Power in property easement dispute - WVTM",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObjkwZ216WXVGaVpaeVJCNHlvSHA2WGJQdW5xS09YZEVRUV9HalpjampZNGI1MmRSeVFCRzJ5eWU1dG94UWdQTUNoemxHa2ItaERiNk5MaFJHQVZZOW9EUkp2ZlNuV2ZmTWFMUTdvTHROSTRhQkM0OEdxVzZFRkZpOXMzNXN2elc3WVdNcFJ1WWRKRk44Qzl0UTF5aw?oc=5",
         "domain": "news.google.com",
         "source": "WVTM",
         "language": "English",
-        "published_at": "2026-08-12T23:21:00+00:00",
-        "summary": "'Its an invasion': Shelby County man pushes back against Alabama Power in property easement dispute WVTM",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxObjkwZ216WXVGaVpaeVJCNHlvSHA2WGJQdW5xS09YZEVRUV9HalpjampZNGI1MmRSeVFCRzJ5eWU1dG94UWdQTUNoemxHa2ItaERiNk5MaFJHQVZZOW9EUkp2ZlNuV2ZmTWFMUTdvTHROSTRhQkM0OEdxVzZFRkZpOXMzNXN2elc3WVdNcFJ1WWRKRk44Qzl0UTF5aw?oc=5\" target=\"_blank\">'Its an invasion': Shelby County man pushes back against Alabama Power in property easement dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+        "published_at": "2026-08-13T00:54:00+00:00",
+        "summary": "'It's an invasion': Shelby County man pushes back against Alabama Power in property easement dispute WVTM",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxObjkwZ216WXVGaVpaeVJCNHlvSHA2WGJQdW5xS09YZEVRUV9HalpjampZNGI1MmRSeVFCRzJ5eWU1dG94UWdQTUNoemxHa2ItaERiNk5MaFJHQVZZOW9EUkp2ZlNuV2ZmTWFMUTdvTHROSTRhQkM0OEdxVzZFRkZpOXMzNXN2elc3WVdNcFJ1WWRKRk44Qzl0UTF5aw?oc=5\" target=\"_blank\">'It's an invasion': Shelby County man pushes back against Alabama Power in property easement dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-13T04:04:35+00:00"
+        "collected_at": "2026-08-13T07:17:01+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 408,
+      "count": 409,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "9cee847edc111ba9",
