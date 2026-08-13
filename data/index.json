@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T01:22:31+00:00",
+  "last_updated": "2026-08-13T04:05:02+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 222,
+      "count": 223,
       "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "3b0e9ab9dca4b67f",
-        "title": "Country star Trump official calls out Alabama Power over Shelby County land dispute: ‘Slap in the face’ - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVVuaVZqODFBdjRPbEQ4aWJjbUlsaV9zZHZzLVNMUUR5VUFlLTBhVUVJek5xZjNFLVlqZmFsOFdYc0NXRF94YVFMalpDSm03Szg4SENBRlAybFlONFZhY3JCM1pEQzFjZUZncEZOakp4bjExWVV6cFRmenVKd2tXU3JjZ0FZTFpPSTdnNVVTTWFFcVZMWVpEdmlScDRuQ19sOHBGSkxtZXpacHJZZEZUbTczQkFSenNrcXI1NE5fTG1YY2hxeEd2VEw5VTUtSHkySVVv0gHnAUFVX3lxTE9iLTB2d3VuNC1nWlczbmo3cTlkN1FLQnlsQzAxY1FLWFZmS0Uydy1GSml2RmVQVTBHYXZObmNhWGxZamNsMnpFcmszeno0ODFsQzl4QjlfQnFnS1ExM21rVi1xYm1IaXM5UThVRTh1U2wxa2NjSDNLcUM5OGVIaUk5cjJEeTlKdGZsc3QzZ0tIUV9EVmdhSEJ6NDA2aGpIM3RuODBvTF9MT2RqMkZQdW1feURYdHVJQ1IwVnl6RWdLWVhWLW85ejJ5VWw1OUQ4TDYwam9wX1Q2TXV2ZHI1SFNvMEVMUkJHNA?oc=5",
+        "id": "bd4524e6279acba6",
+        "title": "'Its an invasion': Shelby County man pushes back against Alabama Power in property easement dispute - WVTM",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObjkwZ216WXVGaVpaeVJCNHlvSHA2WGJQdW5xS09YZEVRUV9HalpjampZNGI1MmRSeVFCRzJ5eWU1dG94UWdQTUNoemxHa2ItaERiNk5MaFJHQVZZOW9EUkp2ZlNuV2ZmTWFMUTdvTHROSTRhQkM0OEdxVzZFRkZpOXMzNXN2elc3WVdNcFJ1WWRKRk44Qzl0UTF5aw?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "WVTM",
         "language": "English",
-        "published_at": "2026-08-12T23:18:00+00:00",
-        "summary": "Country star Trump official calls out Alabama Power over Shelby County land dispute: ‘Slap in the face’ AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVVuaVZqODFBdjRPbEQ4aWJjbUlsaV9zZHZzLVNMUUR5VUFlLTBhVUVJek5xZjNFLVlqZmFsOFdYc0NXRF94YVFMalpDSm03Szg4SENBRlAybFlONFZhY3JCM1pEQzFjZUZncEZOakp4bjExWVV6cFRmenVKd2tXU3JjZ0FZTFpPSTdnNVVTTWFFcVZMWVpEdmlScDRuQ19sOHBGSkxtZXpacHJZZEZUbTczQkFSenNrcXI1NE5fTG1YY2hxeEd2VEw5VTUtSHkySVVv0gHnAUFVX3lxTE9iLTB2d3VuNC1nWlczbmo3cTlkN1FLQnlsQzAxY1FLWFZmS0Uydy1GSml2RmVQVTBHYXZObmNhWGxZamNsMnpFcmszeno0ODFsQzl4QjlfQnFnS1ExM21rVi1xYm1IaXM5UThVRTh1U2wxa2NjSDNLcUM5OGVIaUk5cjJEeTlKdGZsc3QzZ0tIUV9EVmdhSEJ6NDA2aGpIM3RuODBvTF9MT2RqMkZQdW1feURYdHVJQ1IwVnl6RWdLWVhWLW85ejJ5VWw1OUQ4TDYwam9wX1Q2TXV2ZHI1SFNvMEVMUkJHNA?oc=5\" target=\"_blank\">Country star Trump official calls out Alabama Power over Shelby County land dispute: ‘Slap in the face’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-08-12T23:21:00+00:00",
+        "summary": "'Its an invasion': Shelby County man pushes back against Alabama Power in property easement dispute WVTM",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxObjkwZ216WXVGaVpaeVJCNHlvSHA2WGJQdW5xS09YZEVRUV9HalpjampZNGI1MmRSeVFCRzJ5eWU1dG94UWdQTUNoemxHa2ItaERiNk5MaFJHQVZZOW9EUkp2ZlNuV2ZmTWFMUTdvTHROSTRhQkM0OEdxVzZFRkZpOXMzNXN2elc3WVdNcFJ1WWRKRk44Qzl0UTF5aw?oc=5\" target=\"_blank\">'Its an invasion': Shelby County man pushes back against Alabama Power in property easement dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-13T01:22:04+00:00"
+        "collected_at": "2026-08-13T04:04:35+00:00"
       }
     },
     {
