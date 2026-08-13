@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T16:50:30+00:00",
+  "last_updated": "2026-08-13T18:54:45+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 227,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "f6ee24ee8bd67c39",
         "title": "'It's an invasion': Shelby County man pushes back against Alabama Power in property easement dispute - WVTM",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 30,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "addfbf3308caf432",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 409,
-      "new_mentions_this_run": 20,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "9cee847edc111ba9",
         "title": "Georgia’s power grid prepared for hottest days of summer - 95.5 WSB",
