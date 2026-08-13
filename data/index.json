@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T22:33:51+00:00",
+  "last_updated": "2026-08-13T01:22:31+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 219,
-      "new_mentions_this_run": 23,
+      "count": 222,
+      "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "3b296381bd32c95c",
-        "title": "Alabama Power ‘hell-bent on eminent domain’ — John Rich continues to spotlight Shelby County fight - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTVtVUI5MGE2eEQ2X0ljM2NIcnQtWjRPTjNtd3dDbThaVFdzcC05ZlZoUzlyQzM5Uk1xLVpQSkMtdFNoZnBWWXdGWjZudU5EcWVha1lxWVNYMndEaDBEdG5SMXN0U2RBNXlMRER5LXctc3o3eVFsMFRWMHhxVWxMbTExXzlTaFFuZEl0cUczcXUxT2NNZm42anRjU1Y1MzJBRGhXMTJMblZjbERvV2tlNm10Z2h4b05sTDlFWE5UZVlsUGM?oc=5",
+        "id": "3b0e9ab9dca4b67f",
+        "title": "Country star Trump official calls out Alabama Power over Shelby County land dispute: ‘Slap in the face’ - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVVuaVZqODFBdjRPbEQ4aWJjbUlsaV9zZHZzLVNMUUR5VUFlLTBhVUVJek5xZjNFLVlqZmFsOFdYc0NXRF94YVFMalpDSm03Szg4SENBRlAybFlONFZhY3JCM1pEQzFjZUZncEZOakp4bjExWVV6cFRmenVKd2tXU3JjZ0FZTFpPSTdnNVVTTWFFcVZMWVpEdmlScDRuQ19sOHBGSkxtZXpacHJZZEZUbTczQkFSenNrcXI1NE5fTG1YY2hxeEd2VEw5VTUtSHkySVVv0gHnAUFVX3lxTE9iLTB2d3VuNC1nWlczbmo3cTlkN1FLQnlsQzAxY1FLWFZmS0Uydy1GSml2RmVQVTBHYXZObmNhWGxZamNsMnpFcmszeno0ODFsQzl4QjlfQnFnS1ExM21rVi1xYm1IaXM5UThVRTh1U2wxa2NjSDNLcUM5OGVIaUk5cjJEeTlKdGZsc3QzZ0tIUV9EVmdhSEJ6NDA2aGpIM3RuODBvTF9MT2RqMkZQdW1feURYdHVJQ1IwVnl6RWdLWVhWLW85ejJ5VWw1OUQ4TDYwam9wX1Q2TXV2ZHI1SFNvMEVMUkJHNA?oc=5",
         "domain": "news.google.com",
-        "source": "1819 News",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-08-12T10:06:12+00:00",
-        "summary": "Alabama Power ‘hell-bent on eminent domain’ — John Rich continues to spotlight Shelby County fight 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTVtVUI5MGE2eEQ2X0ljM2NIcnQtWjRPTjNtd3dDbThaVFdzcC05ZlZoUzlyQzM5Uk1xLVpQSkMtdFNoZnBWWXdGWjZudU5EcWVha1lxWVNYMndEaDBEdG5SMXN0U2RBNXlMRER5LXctc3o3eVFsMFRWMHhxVWxMbTExXzlTaFFuZEl0cUczcXUxT2NNZm42anRjU1Y1MzJBRGhXMTJMblZjbERvV2tlNm10Z2h4b05sTDlFWE5UZVlsUGM?oc=5\" target=\"_blank\">Alabama Power ‘hell-bent on eminent domain’ — John Rich continues to spotlight Shelby County fight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-08-12T23:18:00+00:00",
+        "summary": "Country star Trump official calls out Alabama Power over Shelby County land dispute: ‘Slap in the face’ AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVVuaVZqODFBdjRPbEQ4aWJjbUlsaV9zZHZzLVNMUUR5VUFlLTBhVUVJek5xZjNFLVlqZmFsOFdYc0NXRF94YVFMalpDSm03Szg4SENBRlAybFlONFZhY3JCM1pEQzFjZUZncEZOakp4bjExWVV6cFRmenVKd2tXU3JjZ0FZTFpPSTdnNVVTTWFFcVZMWVpEdmlScDRuQ19sOHBGSkxtZXpacHJZZEZUbTczQkFSenNrcXI1NE5fTG1YY2hxeEd2VEw5VTUtSHkySVVv0gHnAUFVX3lxTE9iLTB2d3VuNC1nWlczbmo3cTlkN1FLQnlsQzAxY1FLWFZmS0Uydy1GSml2RmVQVTBHYXZObmNhWGxZamNsMnpFcmszeno0ODFsQzl4QjlfQnFnS1ExM21rVi1xYm1IaXM5UThVRTh1U2wxa2NjSDNLcUM5OGVIaUk5cjJEeTlKdGZsc3QzZ0tIUV9EVmdhSEJ6NDA2aGpIM3RuODBvTF9MT2RqMkZQdW1feURYdHVJQ1IwVnl6RWdLWVhWLW85ejJ5VWw1OUQ4TDYwam9wX1Q2TXV2ZHI1SFNvMEVMUkJHNA?oc=5\" target=\"_blank\">Country star Trump official calls out Alabama Power over Shelby County land dispute: ‘Slap in the face’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-12T10:55:33+00:00"
+        "collected_at": "2026-08-13T01:22:04+00:00"
       }
     },
     {
