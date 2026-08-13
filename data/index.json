@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-13T09:06:09+00:00",
+  "last_updated": "2026-08-13T10:56:46+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 78,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "a084c17b45239523",
         "title": "AEP5300365 Bond Profile — Key Metrics - tradingview.com",
