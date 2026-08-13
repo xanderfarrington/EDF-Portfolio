@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-13T10:56:19+00:00",
+  "last_updated": "2026-08-13T12:55:09+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 225,
+  "count": 226,
   "mentions": [
     {
       "id": "f6ee24ee8bd67c39",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-13T01:22:04+00:00"
+    },
+    {
+      "id": "8f00ddd22d9e88a4",
+      "title": "Country star Trump official calls out Alabama Power over Shelby County land dispute: ‘Slap in the face’ - al.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVVuaVZqODFBdjRPbEQ4aWJjbUlsaV9zZHZzLVNMUUR5VUFlLTBhVUVJek5xZjNFLVlqZmFsOFdYc0NXRF94YVFMalpDSm03Szg4SENBRlAybFlONFZhY3JCM1pEQzFjZUZncEZOakp4bjExWVV6cFRmenVKd2tXU3JjZ0FZTFpPSTdnNVVTTWFFcVZMWVpEdmlScDRuQ19sOHBGSkxtZXpacHJZZEZUbTczQkFSenNrcXI1NE5fTG1YY2hxeEd2VEw5VTUtSHkySVVv0gHnAUFVX3lxTE9iLTB2d3VuNC1nWlczbmo3cTlkN1FLQnlsQzAxY1FLWFZmS0Uydy1GSml2RmVQVTBHYXZObmNhWGxZamNsMnpFcmszeno0ODFsQzl4QjlfQnFnS1ExM21rVi1xYm1IaXM5UThVRTh1U2wxa2NjSDNLcUM5OGVIaUk5cjJEeTlKdGZsc3QzZ0tIUV9EVmdhSEJ6NDA2aGpIM3RuODBvTF9MT2RqMkZQdW1feURYdHVJQ1IwVnl6RWdLWVhWLW85ejJ5VWw1OUQ4TDYwam9wX1Q2TXV2ZHI1SFNvMEVMUkJHNA?oc=5",
+      "domain": "news.google.com",
+      "source": "al.com",
+      "language": "English",
+      "published_at": "2026-08-12T23:18:00+00:00",
+      "summary": "Country star Trump official calls out Alabama Power over Shelby County land dispute: ‘Slap in the face’ al.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVVuaVZqODFBdjRPbEQ4aWJjbUlsaV9zZHZzLVNMUUR5VUFlLTBhVUVJek5xZjNFLVlqZmFsOFdYc0NXRF94YVFMalpDSm03Szg4SENBRlAybFlONFZhY3JCM1pEQzFjZUZncEZOakp4bjExWVV6cFRmenVKd2tXU3JjZ0FZTFpPSTdnNVVTTWFFcVZMWVpEdmlScDRuQ19sOHBGSkxtZXpacHJZZEZUbTczQkFSenNrcXI1NE5fTG1YY2hxeEd2VEw5VTUtSHkySVVv0gHnAUFVX3lxTE9iLTB2d3VuNC1nWlczbmo3cTlkN1FLQnlsQzAxY1FLWFZmS0Uydy1GSml2RmVQVTBHYXZObmNhWGxZamNsMnpFcmszeno0ODFsQzl4QjlfQnFnS1ExM21rVi1xYm1IaXM5UThVRTh1U2wxa2NjSDNLcUM5OGVIaUk5cjJEeTlKdGZsc3QzZ0tIUV9EVmdhSEJ6NDA2aGpIM3RuODBvTF9MT2RqMkZQdW1feURYdHVJQ1IwVnl6RWdLWVhWLW85ejJ5VWw1OUQ4TDYwam9wX1Q2TXV2ZHI1SFNvMEVMUkJHNA?oc=5\" target=\"_blank\">Country star Trump official calls out Alabama Power over Shelby County land dispute: ‘Slap in the face’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-13T12:55:09+00:00"
     },
     {
       "id": "deceffddd5960353",
