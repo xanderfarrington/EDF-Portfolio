@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-14T09:02:33+00:00",
+  "last_updated": "2026-08-14T10:52:39+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 415,
+  "count": 416,
   "mentions": [
     {
       "id": "99c73b280e1b5d82",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-14T01:21:40+00:00"
+    },
+    {
+      "id": "79003c7de68f08d3",
+      "title": "Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWZMTEMyRjNEbUFKcDkwOFNNWE5MQU5NOFh2ZUh0NkxOSzBwMXZtamprc2hFQTZwUmFBUzVWQm1RbW93ZV83Mmw5cFFYNlI5MEUzUkpqc2h5MWhtN1FvcVliaEVLa1R0MzU2VXBJUHN3emxkNlVwYVdHS2VnVnNtZXFTUU5vRzF5WnA1TUQ1SWNaMF9sZlhsR1RvV1FveGp5Qm9oRGtCb2JDb2J2MVIwNjZNcDROZzVPN1E?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-08-13T22:52:14+00:00",
+      "summary": "Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxONWZMTEMyRjNEbUFKcDkwOFNNWE5MQU5NOFh2ZUh0NkxOSzBwMXZtamprc2hFQTZwUmFBUzVWQm1RbW93ZV83Mmw5cFFYNlI5MEUzUkpqc2h5MWhtN1FvcVliaEVLa1R0MzU2VXBJUHN3emxkNlVwYVdHS2VnVnNtZXFTUU5vRzF5WnA1TUQ1SWNaMF9sZlhsR1RvV1FveGp5Qm9oRGtCb2JDb2J2MVIwNjZNcDROZzVPN1E?oc=5\" target=\"_blank\">Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-14T10:52:39+00:00"
     },
     {
       "id": "2c1191ab64d769df",

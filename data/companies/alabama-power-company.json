@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-14T09:02:16+00:00",
+  "last_updated": "2026-08-14T10:52:22+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 231,
+  "count": 232,
   "mentions": [
     {
       "id": "9704ef4a658778eb",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-13T20:34:55+00:00"
+    },
+    {
+      "id": "d4eef0c9b807a603",
+      "title": "'It's like a slap in the face': John Rich blasts Alabama Power over Shelby County eminent domain dispute - 1819news.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObTBNV21VUG5yQlVTTFI3d2k0aFNMV2pYZjA3WEN1MXNzZC1TMy14TXZfZVZZWjdDcG45T0wtQWVXSkpzdmN0WmpVaURsRmc3Ty1ERDQ5d3FCalJ2MC1lTXlzUlExWHZ1dWFpTFdST1lHR3p2Ukp5QWhBa0tqWGI4Z0N6dV9iRjJ0QlR2TDBvZDRUeUFnYWMtSk9uZVdLa2t4ZEhsM3UzZmhTZmVpZkV4eUtpZ3U5WEd5NzlBeGlfdUpKbGJPYU0yNVN2UQ?oc=5",
+      "domain": "news.google.com",
+      "source": "1819news.com",
+      "language": "English",
+      "published_at": "2026-08-13T19:03:25+00:00",
+      "summary": "'It's like a slap in the face': John Rich blasts Alabama Power over Shelby County eminent domain dispute 1819news.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxObTBNV21VUG5yQlVTTFI3d2k0aFNMV2pYZjA3WEN1MXNzZC1TMy14TXZfZVZZWjdDcG45T0wtQWVXSkpzdmN0WmpVaURsRmc3Ty1ERDQ5d3FCalJ2MC1lTXlzUlExWHZ1dWFpTFdST1lHR3p2Ukp5QWhBa0tqWGI4Z0N6dV9iRjJ0QlR2TDBvZDRUeUFnYWMtSk9uZVdLa2t4ZEhsM3UzZmhTZmVpZkV4eUtpZ3U5WEd5NzlBeGlfdUpKbGJPYU0yNVN2UQ?oc=5\" target=\"_blank\">'It's like a slap in the face': John Rich blasts Alabama Power over Shelby County eminent domain dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819news.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-14T10:52:22+00:00"
     },
     {
       "id": "f6ee24ee8bd67c39",
