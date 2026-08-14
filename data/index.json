@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T22:35:02+00:00",
+  "last_updated": "2026-08-14T01:21:50+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 411,
-      "new_mentions_this_run": 21,
+      "count": 412,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "9cee847edc111ba9",
-        "title": "Georgia’s power grid prepared for hottest days of summer - 95.5 WSB",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWFQdFp5ZjdfZUxtQ2RZRWdCNzNhbURDYnA1VlFMaDBnN2xUY0NEVFNycGJUTUxTZGZRZ2VFWEZubUZsMWFSV1E4TVEtSExHVDBEcHpyRjB5SEJiSW5VS3RWd0NoTHNTRFZ0WXViX3lMRjcxZ3R4OHNyMnF4VzQ4WTZ5Q3BkbVVkM0ZSVmpJcTZoNXZCd0Y3RTZVc25FYU1MSXUxU1lOMi1sVmFNWTJBcGln0gHGAUFVX3lxTE94ampNYXRhYUw3aEFvcVFPclRKUTVhU1RyVFdWRjFQLUdZNDFFYXlzX1NEc3hxOVBDYTREVVVCMDFDWUY1Tm5ucUtvWFhoVS1WY2JRZHBJRmJfT3JtQWZPQm0zdzJyZ2E1a2FXNkNnRy02TGV5VzZzczgzcnZtTEZiN2loV2NHZEJGTENocm9GVVBPQkRyWWF0MWg5blNaMXRvd2FqMHdKVlNLT1dzZWUtOGlnYm04d1RJZnlRTEpaUXQybWdDdw?oc=5",
+        "id": "7ce1908c31d0549b",
+        "title": "Transparency, Accountability Needed in Open AI Contract with Georgia Power - CleanTechnica",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjN0bDdvSktfODBtTUx2ejI5TXFEZmNjcXA2MHhwbDhsVXZNVXJMNjBHVy1lbjBBazJWOENpVVVXTWFIbHNkcTNFZmxoWjFuT2Zpbkl1dWRUYlo2ZlhnY1lmZmFxQkV1NnJDM1FBRmJad2lrWWZzZlJTTWp3UGtmRnlpNXhOU2tsZkh6a3FWS1dHTWFYME5nMUxQMnNkd2R1RUJBbU5aVTlUSndCakdwcA?oc=5",
         "domain": "news.google.com",
-        "source": "95.5 WSB",
+        "source": "CleanTechnica",
         "language": "English",
-        "published_at": "2026-08-12T15:15:17+00:00",
-        "summary": "Georgia’s power grid prepared for hottest days of summer 95.5 WSB",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWFQdFp5ZjdfZUxtQ2RZRWdCNzNhbURDYnA1VlFMaDBnN2xUY0NEVFNycGJUTUxTZGZRZ2VFWEZubUZsMWFSV1E4TVEtSExHVDBEcHpyRjB5SEJiSW5VS3RWd0NoTHNTRFZ0WXViX3lMRjcxZ3R4OHNyMnF4VzQ4WTZ5Q3BkbVVkM0ZSVmpJcTZoNXZCd0Y3RTZVc25FYU1MSXUxU1lOMi1sVmFNWTJBcGln0gHGAUFVX3lxTE94ampNYXRhYUw3aEFvcVFPclRKUTVhU1RyVFdWRjFQLUdZNDFFYXlzX1NEc3hxOVBDYTREVVVCMDFDWUY1Tm5ucUtvWFhoVS1WY2JRZHBJRmJfT3JtQWZPQm0zdzJyZ2E1a2FXNkNnRy02TGV5VzZzczgzcnZtTEZiN2loV2NHZEJGTENocm9GVVBPQkRyWWF0MWg5blNaMXRvd2FqMHdKVlNLT1dzZWUtOGlnYm04d1RJZnlRTEpaUXQybWdDdw?oc=5\" target=\"_blank\">Georgia’s power grid prepared for hottest days of summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">95.5 WSB</font>",
+        "published_at": "2026-08-14T00:19:45+00:00",
+        "summary": "Transparency, Accountability Needed in Open AI Contract with Georgia Power CleanTechnica",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjN0bDdvSktfODBtTUx2ejI5TXFEZmNjcXA2MHhwbDhsVXZNVXJMNjBHVy1lbjBBazJWOENpVVVXTWFIbHNkcTNFZmxoWjFuT2Zpbkl1dWRUYlo2ZlhnY1lmZmFxQkV1NnJDM1FBRmJad2lrWWZzZlJTTWp3UGtmRnlpNXhOU2tsZkh6a3FWS1dHTWFYME5nMUxQMnNkd2R1RUJBbU5aVTlUSndCakdwcA?oc=5\" target=\"_blank\">Transparency, Accountability Needed in Open AI Contract with Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CleanTechnica</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-12T16:51:57+00:00"
+        "collected_at": "2026-08-14T01:21:40+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 41,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "132a4b59653532de",
         "title": "DOE looking for large-scale projects to fund - Midland Reporter-Telegram",

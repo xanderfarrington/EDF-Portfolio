@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-13T22:34:52+00:00",
+  "last_updated": "2026-08-14T01:21:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 411,
+  "count": 412,
   "mentions": [
+    {
+      "id": "7ce1908c31d0549b",
+      "title": "Transparency, Accountability Needed in Open AI Contract with Georgia Power - CleanTechnica",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjN0bDdvSktfODBtTUx2ejI5TXFEZmNjcXA2MHhwbDhsVXZNVXJMNjBHVy1lbjBBazJWOENpVVVXTWFIbHNkcTNFZmxoWjFuT2Zpbkl1dWRUYlo2ZlhnY1lmZmFxQkV1NnJDM1FBRmJad2lrWWZzZlJTTWp3UGtmRnlpNXhOU2tsZkh6a3FWS1dHTWFYME5nMUxQMnNkd2R1RUJBbU5aVTlUSndCakdwcA?oc=5",
+      "domain": "news.google.com",
+      "source": "CleanTechnica",
+      "language": "English",
+      "published_at": "2026-08-14T00:19:45+00:00",
+      "summary": "Transparency, Accountability Needed in Open AI Contract with Georgia Power CleanTechnica",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjN0bDdvSktfODBtTUx2ejI5TXFEZmNjcXA2MHhwbDhsVXZNVXJMNjBHVy1lbjBBazJWOENpVVVXTWFIbHNkcTNFZmxoWjFuT2Zpbkl1dWRUYlo2ZlhnY1lmZmFxQkV1NnJDM1FBRmJad2lrWWZzZlJTTWp3UGtmRnlpNXhOU2tsZkh6a3FWS1dHTWFYME5nMUxQMnNkd2R1RUJBbU5aVTlUSndCakdwcA?oc=5\" target=\"_blank\">Transparency, Accountability Needed in Open AI Contract with Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CleanTechnica</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-14T01:21:40+00:00"
+    },
     {
       "id": "9cee847edc111ba9",
       "title": "Georgia’s power grid prepared for hottest days of summer - 95.5 WSB",
