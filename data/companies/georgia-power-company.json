@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-14T20:24:36+00:00",
+  "last_updated": "2026-08-14T22:15:52+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 417,
+  "count": 419,
   "mentions": [
+    {
+      "id": "69b44fc90462bc99",
+      "title": "Georgia Power cedes more time for state regulators to review OpenAI contract for huge power supply - Georgia Public Broadcasting",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHVQaGVybXdEdVdWM09WdnRJZXJpU05fcmt3VnFxNFRIYUotNjFQZDJNTXI5aXR0NG1DSHUzZ0pnY0pST214QXY3TUFrRUt6ZEdEQ0FzTUJXNUkzcXZtNDNuODhfUmxFZ1FibUpsaGVEWlNJZnBOdHAxUDlCSGZvdlFTREx0UmtSb2dZOUllMUFoNWxLREdJSWttSVRkSERjNTVXZThuUE1jdGo1UnNpTUlLU2tfc3RXQ3c?oc=5",
+      "domain": "news.google.com",
+      "source": "Georgia Public Broadcasting",
+      "language": "English",
+      "published_at": "2026-08-14T20:51:00+00:00",
+      "summary": "Georgia Power cedes more time for state regulators to review OpenAI contract for huge power supply Georgia Public Broadcasting",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHVQaGVybXdEdVdWM09WdnRJZXJpU05fcmt3VnFxNFRIYUotNjFQZDJNTXI5aXR0NG1DSHUzZ0pnY0pST214QXY3TUFrRUt6ZEdEQ0FzTUJXNUkzcXZtNDNuODhfUmxFZ1FibUpsaGVEWlNJZnBOdHAxUDlCSGZvdlFTREx0UmtSb2dZOUllMUFoNWxLREdJSWttSVRkSERjNTVXZThuUE1jdGo1UnNpTUlLU2tfc3RXQ3c?oc=5\" target=\"_blank\">Georgia Power cedes more time for state regulators to review OpenAI contract for huge power supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Public Broadcasting</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-14T22:15:52+00:00"
+    },
     {
       "id": "99c73b280e1b5d82",
       "title": "Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat - WTOC",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-14T04:00:33+00:00"
+    },
+    {
+      "id": "859efae4fe9e3cb1",
+      "title": "Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVE5nblBJMDNKUFZZM1IxZS1Ba2RSSnlrc0VOOVRVNnVOU2YtcHE4cEUxVWxGdGxLRmZDUUNQZzdtdmlvLWM5cl85UXhYaTBSYVFuNTVJaXlJS29wWm5sWjcyVDNHTDNhTUl6M19mcm9FYmQ2cGdRTmJLUE4tdTJQWUZTZGlMM2JwVEEzYnFEY1lCVG9SQ2xOVHlrZ0xEVkx4WndnSldpVXY4Zk81b2Qyb2Rn0gHGAUFVX3lxTE9ydWFEdVJQUWRUam9jU1AyYnhfRzUtM25IdkJrUVFYOXJ5UVRWVWk4bTRHLU5CTWdVcVF2MWo0b0MwRDNBUUcxT0Z3dTIyWUliaXNyYkdZbllRUklmeFNpLVp4RnlJNjZSTWRHZGxZSXJkUmg2MnVwZEpYek0tQ0VNQnYteDFBZy1Xb2JQN1MzX2FxRjA0WFh3emtMYmFSZXNSTFlOX1VFY0ZVelpxT1N1QTNYdGlndFBfd2RsRjJsOGpQZmZGdw?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-08-14T02:51:00+00:00",
+      "summary": "Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOVE5nblBJMDNKUFZZM1IxZS1Ba2RSSnlrc0VOOVRVNnVOU2YtcHE4cEUxVWxGdGxLRmZDUUNQZzdtdmlvLWM5cl85UXhYaTBSYVFuNTVJaXlJS29wWm5sWjcyVDNHTDNhTUl6M19mcm9FYmQ2cGdRTmJLUE4tdTJQWUZTZGlMM2JwVEEzYnFEY1lCVG9SQ2xOVHlrZ0xEVkx4WndnSldpVXY4Zk81b2Qyb2Rn0gHGAUFVX3lxTE9ydWFEdVJQUWRUam9jU1AyYnhfRzUtM25IdkJrUVFYOXJ5UVRWVWk4bTRHLU5CTWdVcVF2MWo0b0MwRDNBUUcxT0Z3dTIyWUliaXNyYkdZbllRUklmeFNpLVp4RnlJNjZSTWRHZGxZSXJkUmg2MnVwZEpYek0tQ0VNQnYteDFBZy1Xb2JQN1MzX2FxRjA0WFh3emtMYmFSZXNSTFlOX1VFY0ZVelpxT1N1QTNYdGlndFBfd2RsRjJsOGpQZmZGdw?oc=5\" target=\"_blank\">Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-14T22:15:52+00:00"
     },
     {
       "id": "d74fe5e37366cd3e",
