@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-14T18:43:49+00:00",
+  "last_updated": "2026-08-14T20:24:20+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 232,
+  "count": 233,
   "mentions": [
+    {
+      "id": "444fc8fe755a8f04",
+      "title": "Alabama Power: Efficiently Cooling Your Manufactured Home Is Worth the Extra Effort - Wiregrass Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZmRqbF9hdkVlR0Y2WmU5bFo5NFVGWWJYbm9DM0htWGRlMlpsa1JxOUI2TnNRQmExcFlHOW9GRUg0TXhDbnZxdFRwMzlhZXNkUExpNHd0bFZwN2Faenl4dFQ5aWsza2VZNm5XZHpLdzFWT3Y0WVVoQmd1cnFSa2tvZk1oSzZ6T1dkSHFnUzE1Q3dWMEVCOXlWbW4tZFVDQ3NmWXRXX0FVbTYwVzdnM3JJTGVpSnVkdThib0JxNXFYUi1CZEVNdXBBUllYcGs2ZF9iZXFBTQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Wiregrass Daily News",
+      "language": "English",
+      "published_at": "2026-08-14T19:16:50+00:00",
+      "summary": "Alabama Power: Efficiently Cooling Your Manufactured Home Is Worth the Extra Effort Wiregrass Daily News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZmRqbF9hdkVlR0Y2WmU5bFo5NFVGWWJYbm9DM0htWGRlMlpsa1JxOUI2TnNRQmExcFlHOW9GRUg0TXhDbnZxdFRwMzlhZXNkUExpNHd0bFZwN2Faenl4dFQ5aWsza2VZNm5XZHpLdzFWT3Y0WVVoQmd1cnFSa2tvZk1oSzZ6T1dkSHFnUzE1Q3dWMEVCOXlWbW4tZFVDQ3NmWXRXX0FVbTYwVzdnM3JJTGVpSnVkdThib0JxNXFYUi1CZEVNdXBBUllYcGs2ZF9iZXFBTQ?oc=5\" target=\"_blank\">Alabama Power: Efficiently Cooling Your Manufactured Home Is Worth the Extra Effort</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiregrass Daily News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-14T20:24:20+00:00"
+    },
     {
       "id": "9704ef4a658778eb",
       "title": "'It's like a slap in the face': John Rich blasts Alabama Power over Shelby County eminent domain dispute - 1819 News",
