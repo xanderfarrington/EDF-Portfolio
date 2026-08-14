@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-14T01:21:40+00:00",
+  "last_updated": "2026-08-14T04:00:33+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 412,
+  "count": 415,
   "mentions": [
+    {
+      "id": "99c73b280e1b5d82",
+      "title": "Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVE5nblBJMDNKUFZZM1IxZS1Ba2RSSnlrc0VOOVRVNnVOU2YtcHE4cEUxVWxGdGxLRmZDUUNQZzdtdmlvLWM5cl85UXhYaTBSYVFuNTVJaXlJS29wWm5sWjcyVDNHTDNhTUl6M19mcm9FYmQ2cGdRTmJLUE4tdTJQWUZTZGlMM2JwVEEzYnFEY1lCVG9SQ2xOVHlrZ0xEVkx4WndnSldpVXY4Zk81b2Qyb2Rn?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-08-14T02:51:00+00:00",
+      "summary": "Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOVE5nblBJMDNKUFZZM1IxZS1Ba2RSSnlrc0VOOVRVNnVOU2YtcHE4cEUxVWxGdGxLRmZDUUNQZzdtdmlvLWM5cl85UXhYaTBSYVFuNTVJaXlJS29wWm5sWjcyVDNHTDNhTUl6M19mcm9FYmQ2cGdRTmJLUE4tdTJQWUZTZGlMM2JwVEEzYnFEY1lCVG9SQ2xOVHlrZ0xEVkx4WndnSldpVXY4Zk81b2Qyb2Rn?oc=5\" target=\"_blank\">Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-14T04:00:33+00:00"
+    },
+    {
+      "id": "d74fe5e37366cd3e",
+      "title": "Georgia Power extends deadline for PSC to consider its contract with OpenAI - thecurrentga.org",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWdvNjdSYUZrdnNXOHhBaGlseEtIYnI3WnB3dHNMY3hTdk1pZXJYOWdZWmdfUXcwcUJXSGhMbk5IdU56aWFFQlhzV1FWdm90ektxd1dqdkprNWYwbzd1eGcySlZKb0UxQUZtdXRUQkRadWo3ZjVXVWZGcV96VnZMRXR1WDJuQ2xicVY5YTFiN2kxNGdJSVV6VjJlaHZ5ZGJaalhDVkttc09IVHNiYVdDWnhB?oc=5",
+      "domain": "news.google.com",
+      "source": "thecurrentga.org",
+      "language": "English",
+      "published_at": "2026-08-14T01:26:42+00:00",
+      "summary": "Georgia Power extends deadline for PSC to consider its contract with OpenAI thecurrentga.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWdvNjdSYUZrdnNXOHhBaGlseEtIYnI3WnB3dHNMY3hTdk1pZXJYOWdZWmdfUXcwcUJXSGhMbk5IdU56aWFFQlhzV1FWdm90ektxd1dqdkprNWYwbzd1eGcySlZKb0UxQUZtdXRUQkRadWo3ZjVXVWZGcV96VnZMRXR1WDJuQ2xicVY5YTFiN2kxNGdJSVV6VjJlaHZ5ZGJaalhDVkttc09IVHNiYVdDWnhB?oc=5\" target=\"_blank\">Georgia Power extends deadline for PSC to consider its contract with OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-14T04:00:33+00:00"
+    },
     {
       "id": "7ce1908c31d0549b",
       "title": "Transparency, Accountability Needed in Open AI Contract with Georgia Power - CleanTechnica",
@@ -19,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-14T01:21:40+00:00"
+    },
+    {
+      "id": "2c1191ab64d769df",
+      "title": "Georgia Power adds time, not transparency, to OpenAI data center contract after public pressure - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDMwRnNZWjlzUHhQWFBMZm1tVlVwY0RHcEZpWkxyR0RsTmJqSHUwMVNWREl5ZDRfTjk3TGk0OXdOaUZGMnV2TzVjWmhXdHk4N3dIc0hsSVV3WXZDTmRkRkhvbmstSVFIYXpqQkswYmVBQ0JZTUZFRnRmaldqT0tTZkZLcjB2UXE0akFja1pIRTc?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-08-13T20:55:48+00:00",
+      "summary": "Georgia Power adds time, not transparency, to OpenAI data center contract after public pressure Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDMwRnNZWjlzUHhQWFBMZm1tVlVwY0RHcEZpWkxyR0RsTmJqSHUwMVNWREl5ZDRfTjk3TGk0OXdOaUZGMnV2TzVjWmhXdHk4N3dIc0hsSVV3WXZDTmRkRkhvbmstSVFIYXpqQkswYmVBQ0JZTUZFRnRmaldqT0tTZkZLcjB2UXE0akFja1pIRTc?oc=5\" target=\"_blank\">Georgia Power adds time, not transparency, to OpenAI data center contract after public pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-14T04:00:33+00:00"
     },
     {
       "id": "9cee847edc111ba9",

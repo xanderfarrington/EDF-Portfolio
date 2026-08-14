@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T01:21:50+00:00",
+  "last_updated": "2026-08-14T04:00:43+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -68,8 +68,8 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 72,
-      "new_mentions_this_run": 3,
+      "count": 73,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "194ca3a64b5f3494",
         "title": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more - American Nuclear Society -- ANS",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 412,
-      "new_mentions_this_run": 24,
+      "count": 415,
+      "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "7ce1908c31d0549b",
-        "title": "Transparency, Accountability Needed in Open AI Contract with Georgia Power - CleanTechnica",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjN0bDdvSktfODBtTUx2ejI5TXFEZmNjcXA2MHhwbDhsVXZNVXJMNjBHVy1lbjBBazJWOENpVVVXTWFIbHNkcTNFZmxoWjFuT2Zpbkl1dWRUYlo2ZlhnY1lmZmFxQkV1NnJDM1FBRmJad2lrWWZzZlJTTWp3UGtmRnlpNXhOU2tsZkh6a3FWS1dHTWFYME5nMUxQMnNkd2R1RUJBbU5aVTlUSndCakdwcA?oc=5",
+        "id": "99c73b280e1b5d82",
+        "title": "Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat - WTOC",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVE5nblBJMDNKUFZZM1IxZS1Ba2RSSnlrc0VOOVRVNnVOU2YtcHE4cEUxVWxGdGxLRmZDUUNQZzdtdmlvLWM5cl85UXhYaTBSYVFuNTVJaXlJS29wWm5sWjcyVDNHTDNhTUl6M19mcm9FYmQ2cGdRTmJLUE4tdTJQWUZTZGlMM2JwVEEzYnFEY1lCVG9SQ2xOVHlrZ0xEVkx4WndnSldpVXY4Zk81b2Qyb2Rn?oc=5",
         "domain": "news.google.com",
-        "source": "CleanTechnica",
+        "source": "WTOC",
         "language": "English",
-        "published_at": "2026-08-14T00:19:45+00:00",
-        "summary": "Transparency, Accountability Needed in Open AI Contract with Georgia Power CleanTechnica",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjN0bDdvSktfODBtTUx2ejI5TXFEZmNjcXA2MHhwbDhsVXZNVXJMNjBHVy1lbjBBazJWOENpVVVXTWFIbHNkcTNFZmxoWjFuT2Zpbkl1dWRUYlo2ZlhnY1lmZmFxQkV1NnJDM1FBRmJad2lrWWZzZlJTTWp3UGtmRnlpNXhOU2tsZkh6a3FWS1dHTWFYME5nMUxQMnNkd2R1RUJBbU5aVTlUSndCakdwcA?oc=5\" target=\"_blank\">Transparency, Accountability Needed in Open AI Contract with Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CleanTechnica</font>",
+        "published_at": "2026-08-14T02:51:00+00:00",
+        "summary": "Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat WTOC",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOVE5nblBJMDNKUFZZM1IxZS1Ba2RSSnlrc0VOOVRVNnVOU2YtcHE4cEUxVWxGdGxLRmZDUUNQZzdtdmlvLWM5cl85UXhYaTBSYVFuNTVJaXlJS29wWm5sWjcyVDNHTDNhTUl6M19mcm9FYmQ2cGdRTmJLUE4tdTJQWUZTZGlMM2JwVEEzYnFEY1lCVG9SQ2xOVHlrZ0xEVkx4WndnSldpVXY4Zk81b2Qyb2Rn?oc=5\" target=\"_blank\">Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-14T01:21:40+00:00"
+        "collected_at": "2026-08-14T04:00:33+00:00"
       }
     },
     {

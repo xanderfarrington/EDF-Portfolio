@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-08-14T01:21:34+00:00",
+  "last_updated": "2026-08-14T04:00:27+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 72,
+  "count": 73,
   "mentions": [
     {
       "id": "194ca3a64b5f3494",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-03T17:46:00+00:00"
+    },
+    {
+      "id": "b49ac738f398e23e",
+      "title": "Public Meeting held to give updates on Crane Clean Energy Center reopening - fox43.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3ByWTluRXJtd0JIcDFzLUNtUjd5UTVuUUJBNHdoWDBwQTM4aGU0YTc2MHJQVFZSOGgzU3RlZFdKTVhaTE9NODVwZFhobGR0MUJUeVNPbEEwTmstVTkyOGlLU3AzZ3Z6d1JueXl5NzRBajNKVlpDUXlIbGNJQ18zTHRKeDVzYk1mWWE4c0hoMk96WllLeDZ2bEh5WjVaNHBPRkJpRGtFc2ZOU0QzVUVWZjlFQXlEVGk3S2JfbEFhVGFXenJMX3ZYazJTeU9lRk91MFlweWw2Tkd5WWRxU2Jfc1Fn?oc=5",
+      "domain": "news.google.com",
+      "source": "fox43.com",
+      "language": "English",
+      "published_at": "2026-07-29T11:15:00+00:00",
+      "summary": "Public Meeting held to give updates on Crane Clean Energy Center reopening fox43.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3ByWTluRXJtd0JIcDFzLUNtUjd5UTVuUUJBNHdoWDBwQTM4aGU0YTc2MHJQVFZSOGgzU3RlZFdKTVhaTE9NODVwZFhobGR0MUJUeVNPbEEwTmstVTkyOGlLU3AzZ3Z6d1JueXl5NzRBajNKVlpDUXlIbGNJQ18zTHRKeDVzYk1mWWE4c0hoMk96WllLeDZ2bEh5WjVaNHBPRkJpRGtFc2ZOU0QzVUVWZjlFQXlEVGk3S2JfbEFhVGFXenJMX3ZYazJTeU9lRk91MFlweWw2Tkd5WWRxU2Jfc1Fn?oc=5\" target=\"_blank\">Public Meeting held to give updates on Crane Clean Energy Center reopening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox43.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-14T04:00:27+00:00"
     },
     {
       "id": "7128b49a56483bfa",
