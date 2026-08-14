@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T04:00:43+00:00",
+  "last_updated": "2026-08-14T07:15:38+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 231,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "9704ef4a658778eb",
         "title": "'It's like a slap in the face': John Rich blasts Alabama Power over Shelby County eminent domain dispute - 1819 News",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 41,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "132a4b59653532de",
         "title": "DOE looking for large-scale projects to fund - Midland Reporter-Telegram",
