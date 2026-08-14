@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T14:45:37+00:00",
+  "last_updated": "2026-08-14T16:49:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 232,
-      "new_mentions_this_run": 20,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "9704ef4a658778eb",
         "title": "'It's like a slap in the face': John Rich blasts Alabama Power over Shelby County eminent domain dispute - 1819 News",
