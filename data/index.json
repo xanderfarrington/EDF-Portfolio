@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T22:16:03+00:00",
+  "last_updated": "2026-08-15T00:52:45+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 233,
+      "count": 234,
       "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "444fc8fe755a8f04",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 419,
-      "new_mentions_this_run": 21,
+      "count": 422,
+      "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "69b44fc90462bc99",
-        "title": "Georgia Power cedes more time for state regulators to review OpenAI contract for huge power supply - Georgia Public Broadcasting",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHVQaGVybXdEdVdWM09WdnRJZXJpU05fcmt3VnFxNFRIYUotNjFQZDJNTXI5aXR0NG1DSHUzZ0pnY0pST214QXY3TUFrRUt6ZEdEQ0FzTUJXNUkzcXZtNDNuODhfUmxFZ1FibUpsaGVEWlNJZnBOdHAxUDlCSGZvdlFTREx0UmtSb2dZOUllMUFoNWxLREdJSWttSVRkSERjNTVXZThuUE1jdGo1UnNpTUlLU2tfc3RXQ3c?oc=5",
+        "id": "1fa87b37c778209f",
+        "title": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on - WSB-TV",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWdKWmhmNzlqaE9CdGNLeks1ZUNObDhseUxuU1JWZllibmtvZUVRVkF3c01hZDZzNTREVFVweVBjbklpaXFURXhPRmpYRlNDamoxdkFleVBaTDNlV2JIb3c2eGVJVnNwV2dEazFETUNXSWVEX1hiOEcwX09RUm50MDdaWTdwMmhGY3FDMlk1ZWkxeWdWaVktLWt3VXhTbXFjRUdScTB5QUpJZG9xeUI3c294ZklEbkxaZ0lEbGNKYXAxR0RKQUxWTWZVTldmeGFMeXlLbENHLXc?oc=5",
         "domain": "news.google.com",
-        "source": "Georgia Public Broadcasting",
+        "source": "WSB-TV",
         "language": "English",
-        "published_at": "2026-08-14T20:51:00+00:00",
-        "summary": "Georgia Power cedes more time for state regulators to review OpenAI contract for huge power supply Georgia Public Broadcasting",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHVQaGVybXdEdVdWM09WdnRJZXJpU05fcmt3VnFxNFRIYUotNjFQZDJNTXI5aXR0NG1DSHUzZ0pnY0pST214QXY3TUFrRUt6ZEdEQ0FzTUJXNUkzcXZtNDNuODhfUmxFZ1FibUpsaGVEWlNJZnBOdHAxUDlCSGZvdlFTREx0UmtSb2dZOUllMUFoNWxLREdJSWttSVRkSERjNTVXZThuUE1jdGo1UnNpTUlLU2tfc3RXQ3c?oc=5\" target=\"_blank\">Georgia Power cedes more time for state regulators to review OpenAI contract for huge power supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Public Broadcasting</font>",
+        "published_at": "2026-08-14T22:41:42+00:00",
+        "summary": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on WSB-TV",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWdKWmhmNzlqaE9CdGNLeks1ZUNObDhseUxuU1JWZllibmtvZUVRVkF3c01hZDZzNTREVFVweVBjbklpaXFURXhPRmpYRlNDamoxdkFleVBaTDNlV2JIb3c2eGVJVnNwV2dEazFETUNXSWVEX1hiOEcwX09RUm50MDdaWTdwMmhGY3FDMlk1ZWkxeWdWaVktLWt3VXhTbXFjRUdScTB5QUpJZG9xeUI3c294ZklEbkxaZ0lEbGNKYXAxR0RKQUxWTWZVTldmeGFMeXlLbENHLXc?oc=5\" target=\"_blank\">As temperatures rise, Georgia Power workers battle the heat to keep the lights on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-14T22:15:52+00:00"
+        "collected_at": "2026-08-15T00:52:35+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 42,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "132a4b59653532de",
         "title": "DOE looking for large-scale projects to fund - Midland Reporter-Telegram",
