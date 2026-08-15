@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-15T02:46:26+00:00",
+  "last_updated": "2026-08-15T04:22:55+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 422,
+  "count": 426,
   "mentions": [
     {
       "id": "1fa87b37c778209f",
@@ -21,6 +21,20 @@
       "collected_at": "2026-08-15T00:52:35+00:00"
     },
     {
+      "id": "16be8f9da5a4c121",
+      "title": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on - wsbtv.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWdKWmhmNzlqaE9CdGNLeks1ZUNObDhseUxuU1JWZllibmtvZUVRVkF3c01hZDZzNTREVFVweVBjbklpaXFURXhPRmpYRlNDamoxdkFleVBaTDNlV2JIb3c2eGVJVnNwV2dEazFETUNXSWVEX1hiOEcwX09RUm50MDdaWTdwMmhGY3FDMlk1ZWkxeWdWaVktLWt3VXhTbXFjRUdScTB5QUpJZG9xeUI3c294ZklEbkxaZ0lEbGNKYXAxR0RKQUxWTWZVTldmeGFMeXlLbENHLXc?oc=5",
+      "domain": "news.google.com",
+      "source": "wsbtv.com",
+      "language": "English",
+      "published_at": "2026-08-14T22:41:42+00:00",
+      "summary": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on wsbtv.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWdKWmhmNzlqaE9CdGNLeks1ZUNObDhseUxuU1JWZllibmtvZUVRVkF3c01hZDZzNTREVFVweVBjbklpaXFURXhPRmpYRlNDamoxdkFleVBaTDNlV2JIb3c2eGVJVnNwV2dEazFETUNXSWVEX1hiOEcwX09RUm50MDdaWTdwMmhGY3FDMlk1ZWkxeWdWaVktLWt3VXhTbXFjRUdScTB5QUpJZG9xeUI3c294ZklEbkxaZ0lEbGNKYXAxR0RKQUxWTWZVTldmeGFMeXlLbENHLXc?oc=5\" target=\"_blank\">As temperatures rise, Georgia Power workers battle the heat to keep the lights on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsbtv.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-15T04:22:55+00:00"
+    },
+    {
       "id": "f3eb27dc81fe2a00",
       "title": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on - WSB-TV",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2pwVTBjUmJCbmxxSkxSaENrdVJQWXpsVThjejZ6N2R4Y3ByM3A3VE5JZldlMVFWTnZwa183SUp5cjhOZ1RyU2NHeVBHd1Z5Sk5tZ0thY3g0OXpMVUZ3V3QxbjVGclBRTVdYM3dvdjk5YXNvN21Nd1N3dFNwa21NTWk2M2ktSUN6ZXg3M1FTLUg1QWc0OFhOZU56MV9fOVc3ZGtoLWpPamdXa3cxVWhackk4c3FjYkdfVXVMeDhpX3MwUdIB1gFBVV95cUxQMDFZbTJ1OU5wNGZ2aXNKZ2pGS2dqTXdpb0cyMGNHVlNoM1lZcGM3Q2RRSUpaMmJ5czlBaXJfN2JJWmUtc1lhNzQ3cUlNMzV1dkYxbDFtQUVTckYzU3pkeE45NEV5NDQyQ2NFeFNlZVJXV2g1UjhWeXI0M0s3eHpuWXB2M190cklFLVZ4cjktaDNWRGhERjQzcGdyNkVjZVdmajM3NWx2SW5kblV0ZTB5b250bm5qUWx0SmROYV9sSm9BRXNfeUZZSS1xY3V1aUVXWHVCeUxR?oc=5",
@@ -33,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-15T00:52:35+00:00"
+    },
+    {
+      "id": "669aef1aa240ccff",
+      "title": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on - wsbtv.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2pwVTBjUmJCbmxxSkxSaENrdVJQWXpsVThjejZ6N2R4Y3ByM3A3VE5JZldlMVFWTnZwa183SUp5cjhOZ1RyU2NHeVBHd1Z5Sk5tZ0thY3g0OXpMVUZ3V3QxbjVGclBRTVdYM3dvdjk5YXNvN21Nd1N3dFNwa21NTWk2M2ktSUN6ZXg3M1FTLUg1QWc0OFhOZU56MV9fOVc3ZGtoLWpPamdXa3cxVWhackk4c3FjYkdfVXVMeDhpX3MwUdIB1gFBVV95cUxQMDFZbTJ1OU5wNGZ2aXNKZ2pGS2dqTXdpb0cyMGNHVlNoM1lZcGM3Q2RRSUpaMmJ5czlBaXJfN2JJWmUtc1lhNzQ3cUlNMzV1dkYxbDFtQUVTckYzU3pkeE45NEV5NDQyQ2NFeFNlZVJXV2g1UjhWeXI0M0s3eHpuWXB2M190cklFLVZ4cjktaDNWRGhERjQzcGdyNkVjZVdmajM3NWx2SW5kblV0ZTB5b250bm5qUWx0SmROYV9sSm9BRXNfeUZZSS1xY3V1aUVXWHVCeUxR?oc=5",
+      "domain": "news.google.com",
+      "source": "wsbtv.com",
+      "language": "English",
+      "published_at": "2026-08-14T22:38:29+00:00",
+      "summary": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on wsbtv.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2pwVTBjUmJCbmxxSkxSaENrdVJQWXpsVThjejZ6N2R4Y3ByM3A3VE5JZldlMVFWTnZwa183SUp5cjhOZ1RyU2NHeVBHd1Z5Sk5tZ0thY3g0OXpMVUZ3V3QxbjVGclBRTVdYM3dvdjk5YXNvN21Nd1N3dFNwa21NTWk2M2ktSUN6ZXg3M1FTLUg1QWc0OFhOZU56MV9fOVc3ZGtoLWpPamdXa3cxVWhackk4c3FjYkdfVXVMeDhpX3MwUdIB1gFBVV95cUxQMDFZbTJ1OU5wNGZ2aXNKZ2pGS2dqTXdpb0cyMGNHVlNoM1lZcGM3Q2RRSUpaMmJ5czlBaXJfN2JJWmUtc1lhNzQ3cUlNMzV1dkYxbDFtQUVTckYzU3pkeE45NEV5NDQyQ2NFeFNlZVJXV2g1UjhWeXI0M0s3eHpuWXB2M190cklFLVZ4cjktaDNWRGhERjQzcGdyNkVjZVdmajM3NWx2SW5kblV0ZTB5b250bm5qUWx0SmROYV9sSm9BRXNfeUZZSS1xY3V1aUVXWHVCeUxR?oc=5\" target=\"_blank\">As temperatures rise, Georgia Power workers battle the heat to keep the lights on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsbtv.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-15T04:22:55+00:00"
     },
     {
       "id": "69b44fc90462bc99",
@@ -77,6 +105,20 @@
       "collected_at": "2026-08-14T22:15:52+00:00"
     },
     {
+      "id": "824b0c9346a36389",
+      "title": "Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat - wtoc.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVE5nblBJMDNKUFZZM1IxZS1Ba2RSSnlrc0VOOVRVNnVOU2YtcHE4cEUxVWxGdGxLRmZDUUNQZzdtdmlvLWM5cl85UXhYaTBSYVFuNTVJaXlJS29wWm5sWjcyVDNHTDNhTUl6M19mcm9FYmQ2cGdRTmJLUE4tdTJQWUZTZGlMM2JwVEEzYnFEY1lCVG9SQ2xOVHlrZ0xEVkx4WndnSldpVXY4Zk81b2Qyb2Rn0gHGAUFVX3lxTE9ydWFEdVJQUWRUam9jU1AyYnhfRzUtM25IdkJrUVFYOXJ5UVRWVWk4bTRHLU5CTWdVcVF2MWo0b0MwRDNBUUcxT0Z3dTIyWUliaXNyYkdZbllRUklmeFNpLVp4RnlJNjZSTWRHZGxZSXJkUmg2MnVwZEpYek0tQ0VNQnYteDFBZy1Xb2JQN1MzX2FxRjA0WFh3emtMYmFSZXNSTFlOX1VFY0ZVelpxT1N1QTNYdGlndFBfd2RsRjJsOGpQZmZGdw?oc=5",
+      "domain": "news.google.com",
+      "source": "wtoc.com",
+      "language": "English",
+      "published_at": "2026-08-14T02:51:00+00:00",
+      "summary": "Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat wtoc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOVE5nblBJMDNKUFZZM1IxZS1Ba2RSSnlrc0VOOVRVNnVOU2YtcHE4cEUxVWxGdGxLRmZDUUNQZzdtdmlvLWM5cl85UXhYaTBSYVFuNTVJaXlJS29wWm5sWjcyVDNHTDNhTUl6M19mcm9FYmQ2cGdRTmJLUE4tdTJQWUZTZGlMM2JwVEEzYnFEY1lCVG9SQ2xOVHlrZ0xEVkx4WndnSldpVXY4Zk81b2Qyb2Rn0gHGAUFVX3lxTE9ydWFEdVJQUWRUam9jU1AyYnhfRzUtM25IdkJrUVFYOXJ5UVRWVWk4bTRHLU5CTWdVcVF2MWo0b0MwRDNBUUcxT0Z3dTIyWUliaXNyYkdZbllRUklmeFNpLVp4RnlJNjZSTWRHZGxZSXJkUmg2MnVwZEpYek0tQ0VNQnYteDFBZy1Xb2JQN1MzX2FxRjA0WFh3emtMYmFSZXNSTFlOX1VFY0ZVelpxT1N1QTNYdGlndFBfd2RsRjJsOGpQZmZGdw?oc=5\" target=\"_blank\">Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wtoc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-15T04:22:55+00:00"
+    },
+    {
       "id": "d74fe5e37366cd3e",
       "title": "Georgia Power extends deadline for PSC to consider its contract with OpenAI - thecurrentga.org",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWdvNjdSYUZrdnNXOHhBaGlseEtIYnI3WnB3dHNMY3hTdk1pZXJYOWdZWmdfUXcwcUJXSGhMbk5IdU56aWFFQlhzV1FWdm90ektxd1dqdkprNWYwbzd1eGcySlZKb0UxQUZtdXRUQkRadWo3ZjVXVWZGcV96VnZMRXR1WDJuQ2xicVY5YTFiN2kxNGdJSVV6VjJlaHZ5ZGJaalhDVkttc09IVHNiYVdDWnhB?oc=5",
@@ -117,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-14T10:52:39+00:00"
+    },
+    {
+      "id": "ceaf3f600e857947",
+      "title": "Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat - wtoc.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWZMTEMyRjNEbUFKcDkwOFNNWE5MQU5NOFh2ZUh0NkxOSzBwMXZtamprc2hFQTZwUmFBUzVWQm1RbW93ZV83Mmw5cFFYNlI5MEUzUkpqc2h5MWhtN1FvcVliaEVLa1R0MzU2VXBJUHN3emxkNlVwYVdHS2VnVnNtZXFTUU5vRzF5WnA1TUQ1SWNaMF9sZlhsR1RvV1FveGp5Qm9oRGtCb2JDb2J2MVIwNjZNcDROZzVPN1E?oc=5",
+      "domain": "news.google.com",
+      "source": "wtoc.com",
+      "language": "English",
+      "published_at": "2026-08-13T22:52:14+00:00",
+      "summary": "Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat wtoc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxONWZMTEMyRjNEbUFKcDkwOFNNWE5MQU5NOFh2ZUh0NkxOSzBwMXZtamprc2hFQTZwUmFBUzVWQm1RbW93ZV83Mmw5cFFYNlI5MEUzUkpqc2h5MWhtN1FvcVliaEVLa1R0MzU2VXBJUHN3emxkNlVwYVdHS2VnVnNtZXFTUU5vRzF5WnA1TUQ1SWNaMF9sZlhsR1RvV1FveGp5Qm9oRGtCb2JDb2J2MVIwNjZNcDROZzVPN1E?oc=5\" target=\"_blank\">Georgia Power postpones Whitemarsh Island maintenance outage ahead of extreme heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wtoc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-15T04:22:55+00:00"
     },
     {
       "id": "2c1191ab64d769df",
