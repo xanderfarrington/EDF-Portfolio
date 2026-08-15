@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-15T18:19:31+00:00",
+  "last_updated": "2026-08-15T20:15:23+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 78,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "a084c17b45239523",
         "title": "AEP5300365 Bond Profile — Key Metrics - tradingview.com",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 42,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "132a4b59653532de",
         "title": "DOE looking for large-scale projects to fund - Midland Reporter-Telegram",
