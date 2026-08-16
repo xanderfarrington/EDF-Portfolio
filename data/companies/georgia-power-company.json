@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-16T06:28:44+00:00",
+  "last_updated": "2026-08-16T08:20:50+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 427,
+  "count": 428,
   "mentions": [
     {
       "id": "1fa87b37c778209f",
@@ -89,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-14T22:15:52+00:00"
+    },
+    {
+      "id": "23e9c7757b9488e1",
+      "title": "Georgia Power cedes more time for state regulators to review OpenAI contract for huge power supply - gpb.org",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHVQaGVybXdEdVdWM09WdnRJZXJpU05fcmt3VnFxNFRIYUotNjFQZDJNTXI5aXR0NG1DSHUzZ0pnY0pST214QXY3TUFrRUt6ZEdEQ0FzTUJXNUkzcXZtNDNuODhfUmxFZ1FibUpsaGVEWlNJZnBOdHAxUDlCSGZvdlFTREx0UmtSb2dZOUllMUFoNWxLREdJSWttSVRkSERjNTVXZThuUE1jdGo1UnNpTUlLU2tfc3RXQ3c?oc=5",
+      "domain": "news.google.com",
+      "source": "gpb.org",
+      "language": "English",
+      "published_at": "2026-08-14T20:51:00+00:00",
+      "summary": "Georgia Power cedes more time for state regulators to review OpenAI contract for huge power supply gpb.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHVQaGVybXdEdVdWM09WdnRJZXJpU05fcmt3VnFxNFRIYUotNjFQZDJNTXI5aXR0NG1DSHUzZ0pnY0pST214QXY3TUFrRUt6ZEdEQ0FzTUJXNUkzcXZtNDNuODhfUmxFZ1FibUpsaGVEWlNJZnBOdHAxUDlCSGZvdlFTREx0UmtSb2dZOUllMUFoNWxLREdJSWttSVRkSERjNTVXZThuUE1jdGo1UnNpTUlLU2tfc3RXQ3c?oc=5\" target=\"_blank\">Georgia Power cedes more time for state regulators to review OpenAI contract for huge power supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gpb.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-16T08:20:50+00:00"
     },
     {
       "id": "99c73b280e1b5d82",

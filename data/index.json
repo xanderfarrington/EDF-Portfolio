@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T06:28:55+00:00",
+  "last_updated": "2026-08-16T08:21:00+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 236,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "555a63d922854260",
         "title": "Alabama Power: Efficiently Cooling Your Manufactured Home Is Worth the Extra Effort - wiregrassdailynews.com",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 427,
-      "new_mentions_this_run": 21,
+      "count": 428,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "1fa87b37c778209f",
         "title": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on - WSB-TV",
