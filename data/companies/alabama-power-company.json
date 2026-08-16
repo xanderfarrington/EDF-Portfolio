@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-15T22:13:43+00:00",
+  "last_updated": "2026-08-16T00:55:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 234,
+  "count": 235,
   "mentions": [
     {
       "id": "444fc8fe755a8f04",
@@ -1839,6 +1839,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-17T18:58:39+00:00"
+    },
+    {
+      "id": "9a5e80b0e42655af",
+      "title": "UWA partners with Alabama Power for Safe-T-Zone training - wtok.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS1pNR0wyMVhOeVpMQjAzNElBanl6VG5PcFNqUjhPeVNKcW9OUVp4NmZ2UTZnRlBtNkFTTXdwWWRlWHdLanRETGItV1BKeXFWUHIwOUtWTWtRMFhnVkppcU5kUEZHUnZRaU1UZmx1UVB2eTJnUnNaS1lab0RFamZ6SThzZlZ6UGY4X1d6U29n0gGiAUFVX3lxTE9rTUpmSFpCQ3Y2UXRNR2l3bDVJQ2N4RGgxckd3NHFvM3FqYlpGS0ExLWM2ZGJKZnhUbEtiZGVnc25wN2hBT1FGQ25SREZ1QlpxUVNIZGNvUU1EbUtWOFNMdjdlYmtfTlFLZUxNTjVaTzdRckxwTkNzckx2SmpCT2dORUtDb29BSnBjaVVoZFFqbU9BWFNNVFdjTkJ3dGQ5TE1hQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "wtok.com",
+      "language": "English",
+      "published_at": "2026-07-17T07:00:00+00:00",
+      "summary": "UWA partners with Alabama Power for Safe-T-Zone training wtok.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOS1pNR0wyMVhOeVpMQjAzNElBanl6VG5PcFNqUjhPeVNKcW9OUVp4NmZ2UTZnRlBtNkFTTXdwWWRlWHdLanRETGItV1BKeXFWUHIwOUtWTWtRMFhnVkppcU5kUEZHUnZRaU1UZmx1UVB2eTJnUnNaS1lab0RFamZ6SThzZlZ6UGY4X1d6U29n0gGiAUFVX3lxTE9rTUpmSFpCQ3Y2UXRNR2l3bDVJQ2N4RGgxckd3NHFvM3FqYlpGS0ExLWM2ZGJKZnhUbEtiZGVnc25wN2hBT1FGQ25SREZ1QlpxUVNIZGNvUU1EbUtWOFNMdjdlYmtfTlFLZUxNTjVaTzdRckxwTkNzckx2SmpCT2dORUtDb29BSnBjaVVoZFFqbU9BWFNNVFdjTkJ3dGQ5TE1hQQ?oc=5\" target=\"_blank\">UWA partners with Alabama Power for Safe-T-Zone training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wtok.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-16T00:55:07+00:00"
     },
     {
       "id": "b0b147733978aeee",
