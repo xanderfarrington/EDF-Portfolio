@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-16T20:14:16+00:00",
+  "last_updated": "2026-08-16T22:13:55+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 236,
+  "count": 237,
   "mentions": [
     {
       "id": "555a63d922854260",
@@ -677,6 +677,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-08T03:19:10+00:00"
+    },
+    {
+      "id": "35b243d0e9080630",
+      "title": "Alabama Power providing energy assistance amid soaring temperatures, energy costs - wrbl.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVJfaFBmMldNYUgyenIzTWdaQVpCaXFLSGdHWXZaMWYwSXZHbjB1UzlQT3NBaVJQOTZSRi1iSHBKOEZ6LXJOZWhhZ2I4d3Y3M1RZejBiZmU0dVoyZ1VQRWdwYVhDdU5CaENNWGtSV2lickhVWERJMHp0aFpJZlJueW94TzJHV2g3VXBoTGxRQkZQd21nRHNEMVNLMlhpUTczcmF2YWE1ZzFYT1HSAbABQVVfeXFMTmtlaHc3c3k3ZG05Z3N1NU1RZ2VXc1A0aFViaF9nTG1PS2UzeVlHQXZvanVHbktqZURJYl90YVBOM2ppNXlzN2hzbnNTS0Q1cFJvUGQ5cDRNaktrNmRLUmU5c2M5YWdyS3oybUlVS2VKb2NWM1dqb3NsWXdRaF8zVkFzNEQtRDhHazhyYnM3dTAzZVNRMmw5OURzMEtzTzNxTWhfTEJVSkZuMzRRUVRkM2s?oc=5",
+      "domain": "news.google.com",
+      "source": "wrbl.com",
+      "language": "English",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "summary": "Alabama Power providing energy assistance amid soaring temperatures, energy costs wrbl.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVJfaFBmMldNYUgyenIzTWdaQVpCaXFLSGdHWXZaMWYwSXZHbjB1UzlQT3NBaVJQOTZSRi1iSHBKOEZ6LXJOZWhhZ2I4d3Y3M1RZejBiZmU0dVoyZ1VQRWdwYVhDdU5CaENNWGtSV2lickhVWERJMHp0aFpJZlJueW94TzJHV2g3VXBoTGxRQkZQd21nRHNEMVNLMlhpUTczcmF2YWE1ZzFYT1HSAbABQVVfeXFMTmtlaHc3c3k3ZG05Z3N1NU1RZ2VXc1A0aFViaF9nTG1PS2UzeVlHQXZvanVHbktqZURJYl90YVBOM2ppNXlzN2hzbnNTS0Q1cFJvUGQ5cDRNaktrNmRLUmU5c2M5YWdyS3oybUlVS2VKb2NWM1dqb3NsWXdRaF8zVkFzNEQtRDhHazhyYnM3dTAzZVNRMmw5OURzMEtzTzNxTWhfTEJVSkZuMzRRUVRkM2s?oc=5\" target=\"_blank\">Alabama Power providing energy assistance amid soaring temperatures, energy costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wrbl.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-16T22:13:55+00:00"
     },
     {
       "id": "1cdcc84fe9c58184",
