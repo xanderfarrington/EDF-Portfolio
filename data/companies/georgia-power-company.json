@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-16T04:29:13+00:00",
+  "last_updated": "2026-08-16T06:28:44+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 426,
+  "count": 427,
   "mentions": [
     {
       "id": "1fa87b37c778209f",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-15T04:22:55+00:00"
+    },
+    {
+      "id": "a69b21fb640c18b9",
+      "title": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMDFZbTJ1OU5wNGZ2aXNKZ2pGS2dqTXdpb0cyMGNHVlNoM1lZcGM3Q2RRSUpaMmJ5czlBaXJfN2JJWmUtc1lhNzQ3cUlNMzV1dkYxbDFtQUVTckYzU3pkeE45NEV5NDQyQ2NFeFNlZVJXV2g1UjhWeXI0M0s3eHpuWXB2M190cklFLVZ4cjktaDNWRGhERjQzcGdyNkVjZVdmajM3NWx2SW5kblV0ZTB5b250bm5qUWx0SmROYV9sSm9BRXNfeUZZSS1xY3V1aUVXWHVCeUxR0gHWAUFVX3lxTFAwMVltMnU5TnA0ZnZpc0pnakZLZ2pNd2lvRzIwY0dWU2gzWVlwYzdDZFFJSloyYnlzOUFpcl83YklaZS1zWWE3NDdxSU0zNXV2RjFsMW1BRVNyRjNTemR4Tjk0RXk0NDJDY0V4U2VlUldXaDVSOFZ5cjQzSzd4em5ZcHYzX3RySUUtVnhyOS1oM1ZEaERGNDNwZ3I2RWNlV2ZqMzc1bHZJbmRuVXRlMHlvbnRubmpRbHRKZE5hX2xKb0FFc195RllJLXFjdXVpRVdYdUJ5TFE?oc=5",
+      "domain": "news.google.com",
+      "source": "WSB-TV",
+      "language": "English",
+      "published_at": "2026-08-14T22:38:29+00:00",
+      "summary": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on WSB-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMDFZbTJ1OU5wNGZ2aXNKZ2pGS2dqTXdpb0cyMGNHVlNoM1lZcGM3Q2RRSUpaMmJ5czlBaXJfN2JJWmUtc1lhNzQ3cUlNMzV1dkYxbDFtQUVTckYzU3pkeE45NEV5NDQyQ2NFeFNlZVJXV2g1UjhWeXI0M0s3eHpuWXB2M190cklFLVZ4cjktaDNWRGhERjQzcGdyNkVjZVdmajM3NWx2SW5kblV0ZTB5b250bm5qUWx0SmROYV9sSm9BRXNfeUZZSS1xY3V1aUVXWHVCeUxR0gHWAUFVX3lxTFAwMVltMnU5TnA0ZnZpc0pnakZLZ2pNd2lvRzIwY0dWU2gzWVlwYzdDZFFJSloyYnlzOUFpcl83YklaZS1zWWE3NDdxSU0zNXV2RjFsMW1BRVNyRjNTemR4Tjk0RXk0NDJDY0V4U2VlUldXaDVSOFZ5cjQzSzd4em5ZcHYzX3RySUUtVnhyOS1oM1ZEaERGNDNwZ3I2RWNlV2ZqMzc1bHZJbmRuVXRlMHlvbnRubmpRbHRKZE5hX2xKb0FFc195RllJLXFjdXVpRVdYdUJ5TFE?oc=5\" target=\"_blank\">As temperatures rise, Georgia Power workers battle the heat to keep the lights on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-16T06:28:44+00:00"
     },
     {
       "id": "69b44fc90462bc99",
