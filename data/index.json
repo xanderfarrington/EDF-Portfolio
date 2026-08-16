@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-16T12:26:45+00:00",
+  "last_updated": "2026-08-16T14:16:22+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 78,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "a084c17b45239523",
         "title": "AEP5300365 Bond Profile — Key Metrics - tradingview.com",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 236,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "555a63d922854260",
         "title": "Alabama Power: Efficiently Cooling Your Manufactured Home Is Worth the Extra Effort - wiregrassdailynews.com",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 74,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "194ca3a64b5f3494",
         "title": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more - American Nuclear Society -- ANS",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 428,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "1fa87b37c778209f",
         "title": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on - WSB-TV",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 42,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "132a4b59653532de",
         "title": "DOE looking for large-scale projects to fund - Midland Reporter-Telegram",
