@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T02:54:12+00:00",
+  "last_updated": "2026-08-16T04:29:24+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 42,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "132a4b59653532de",
         "title": "DOE looking for large-scale projects to fund - Midland Reporter-Telegram",
