@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T08:21:00+00:00",
+  "last_updated": "2026-08-16T10:16:52+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 428,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "1fa87b37c778209f",
         "title": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on - WSB-TV",
