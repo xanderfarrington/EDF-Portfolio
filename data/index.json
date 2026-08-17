@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T18:28:53+00:00",
+  "last_updated": "2026-08-17T20:19:22+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 238,
-      "new_mentions_this_run": 22,
+      "count": 239,
+      "new_mentions_this_run": 17,
       "latest_mention": {
-        "id": "b8ff7195644ad8da",
-        "title": "'They need to listen to the people' — Fenn Church looking to elected… - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaTBCd3Z3MlVRdWFXWkhxLTZtNjdGVGdueWVYbVd2Ym40ZS1OblcwR1d2TmZqekg3RHM0V3lqalFQUnYta2JFTUtsZzU3b3Z0MGlCX2JsNGJuek1fUTFGbGF3TUUzTzVDc0s0ZlZjd2I2djZfRTFCdUREUnpxM0xTRW9JOHVjSWJLUldFaFFjck1nTWJyWG1VeU84bUY4cFRoZ19oaFFuSmNON29NMTlCWnlDT0xMTjZkS1RKbnZ1S2pqV1pyTVl2d2RLaWV2TjNxZF9SbEZNS19IQXJvc2xzUU84U1g?oc=5",
+        "id": "a787e8b771674d92",
+        "title": "Keeping Alabama’s lights on: The people and power behind Alabama Power’s reliability - Yellowhammer News",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUFZU2JqR1Qya1FWUEJQMEFTcDJPdUJtSi01VjdteTd2Zi1sVVNjTk5NWThSdU1RdFh3NUltQ0NiLWpJNGFucmJ6WVhPQ0pYMDVQbTNhTUgtUTh0Z19SU291YWNNZGdvUVVlRUxrMXFmVjkzVW16SEFVTE5BeEh0djdVUjR4UnBrTDg5aTBCMC1NSFc4bWxBb2xrNDRDWmFvX1cxcUhKQjhjVHBtN3FqRQ?oc=5",
         "domain": "news.google.com",
-        "source": "1819 News",
+        "source": "Yellowhammer News",
         "language": "English",
-        "published_at": "2026-08-17T11:15:00+00:00",
-        "summary": "'They need to listen to the people' — Fenn Church looking to elected… 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaTBCd3Z3MlVRdWFXWkhxLTZtNjdGVGdueWVYbVd2Ym40ZS1OblcwR1d2TmZqekg3RHM0V3lqalFQUnYta2JFTUtsZzU3b3Z0MGlCX2JsNGJuek1fUTFGbGF3TUUzTzVDc0s0ZlZjd2I2djZfRTFCdUREUnpxM0xTRW9JOHVjSWJLUldFaFFjck1nTWJyWG1VeU84bUY4cFRoZ19oaFFuSmNON29NMTlCWnlDT0xMTjZkS1RKbnZ1S2pqV1pyTVl2d2RLaWV2TjNxZF9SbEZNS19IQXJvc2xzUU84U1g?oc=5\" target=\"_blank\">'They need to listen to the people' — Fenn Church looking to elected…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-08-17T18:41:18+00:00",
+        "summary": "Keeping Alabama’s lights on: The people and power behind Alabama Power’s reliability Yellowhammer News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUFZU2JqR1Qya1FWUEJQMEFTcDJPdUJtSi01VjdteTd2Zi1sVVNjTk5NWThSdU1RdFh3NUltQ0NiLWpJNGFucmJ6WVhPQ0pYMDVQbTNhTUgtUTh0Z19SU291YWNNZGdvUVVlRUxrMXFmVjkzVW16SEFVTE5BeEh0djdVUjR4UnBrTDg5aTBCMC1NSFc4bWxBb2xrNDRDWmFvX1cxcUhKQjhjVHBtN3FqRQ?oc=5\" target=\"_blank\">Keeping Alabama’s lights on: The people and power behind Alabama Power’s reliability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellowhammer News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-17T12:30:28+00:00"
+        "collected_at": "2026-08-17T20:18:55+00:00"
       }
     },
     {
@@ -68,21 +68,21 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 78,
-      "new_mentions_this_run": 7,
+      "count": 80,
+      "new_mentions_this_run": 9,
       "latest_mention": {
-        "id": "d2886a395d414541",
-        "title": "Crane Clean Energy takes delivery of power transformer - PennLive.com",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HakVlSm45VFlLenRfd3NlUEhuV3NJSXVTUFVPUkpfdFNuUVhxS014M2RkTXlTXzNyeFJMRlJYbVZnOVQtQXNvRVVmakgtT1Y4enJ6WGxwc0w0ZXJlWEtBOV8taFZ3SkZ1TGNGUzl2Yw?oc=5",
+        "id": "d2f5e15ae74ba2c1",
+        "title": "Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward - fox43.com",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNVljTU54VjliOVVDUHVyTHhFXzZibXhRODdWWDVTX2NWZ3FBYlZQQ1Zldk9SQWtRWU1sdFJMNm9qTkhkRTd3VXROVjVKdWxVWDI0WnFHaks4eG44T2FTcm01NVIwNTBqREU2ZkR3MmYzbnRxbDZYTU51ZW8wdDF1aW9ySW9fWmJIbXQyMjR3Z081SS1ReEdWTlhaQlRZdVBhbjFHMnBTMVVjWC16YjhoSDFMMmdDQTJjMlBhU1B1dGI1RWNqd1NrckJaMjF3cnRES3NGekhCQ2cyWkk2OUF0Ul81ZmNPdTI4dHhoUnRMcDRBYkJudEZyc3JjXzFyUjBSZGRIVm85RGpUcS00bjM5TEVB?oc=5",
         "domain": "news.google.com",
-        "source": "PennLive.com",
+        "source": "fox43.com",
         "language": "English",
-        "published_at": "2026-08-17T16:51:55+00:00",
-        "summary": "Crane Clean Energy takes delivery of power transformer PennLive.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1HakVlSm45VFlLenRfd3NlUEhuV3NJSXVTUFVPUkpfdFNuUVhxS014M2RkTXlTXzNyeFJMRlJYbVZnOVQtQXNvRVVmakgtT1Y4enJ6WGxwc0w0ZXJlWEtBOV8taFZ3SkZ1TGNGUzl2Yw?oc=5\" target=\"_blank\">Crane Clean Energy takes delivery of power transformer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PennLive.com</font>",
+        "published_at": "2026-08-17T18:59:00+00:00",
+        "summary": "Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward fox43.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQNVljTU54VjliOVVDUHVyTHhFXzZibXhRODdWWDVTX2NWZ3FBYlZQQ1Zldk9SQWtRWU1sdFJMNm9qTkhkRTd3VXROVjVKdWxVWDI0WnFHaks4eG44T2FTcm01NVIwNTBqREU2ZkR3MmYzbnRxbDZYTU51ZW8wdDF1aW9ySW9fWmJIbXQyMjR3Z081SS1ReEdWTlhaQlRZdVBhbjFHMnBTMVVjWC16YjhoSDFMMmdDQTJjMlBhU1B1dGI1RWNqd1NrckJaMjF3cnRES3NGekhCQ2cyWkk2OUF0Ul81ZmNPdTI4dHhoUnRMcDRBYkJudEZyc3JjXzFyUjBSZGRIVm85RGpUcS00bjM5TEVB?oc=5\" target=\"_blank\">Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox43.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-17T18:28:37+00:00"
+        "collected_at": "2026-08-17T20:19:06+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 432,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "2501d40fbadc44d1",
         "title": "Georgia Power deal to serve $20B OpenAI data center goes under the microscope - ajc.com",

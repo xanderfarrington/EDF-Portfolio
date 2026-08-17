@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-17T18:28:27+00:00",
+  "last_updated": "2026-08-17T20:18:55+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 238,
+  "count": 239,
   "mentions": [
+    {
+      "id": "a787e8b771674d92",
+      "title": "Keeping Alabama’s lights on: The people and power behind Alabama Power’s reliability - Yellowhammer News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUFZU2JqR1Qya1FWUEJQMEFTcDJPdUJtSi01VjdteTd2Zi1sVVNjTk5NWThSdU1RdFh3NUltQ0NiLWpJNGFucmJ6WVhPQ0pYMDVQbTNhTUgtUTh0Z19SU291YWNNZGdvUVVlRUxrMXFmVjkzVW16SEFVTE5BeEh0djdVUjR4UnBrTDg5aTBCMC1NSFc4bWxBb2xrNDRDWmFvX1cxcUhKQjhjVHBtN3FqRQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yellowhammer News",
+      "language": "English",
+      "published_at": "2026-08-17T18:41:18+00:00",
+      "summary": "Keeping Alabama’s lights on: The people and power behind Alabama Power’s reliability Yellowhammer News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUFZU2JqR1Qya1FWUEJQMEFTcDJPdUJtSi01VjdteTd2Zi1sVVNjTk5NWThSdU1RdFh3NUltQ0NiLWpJNGFucmJ6WVhPQ0pYMDVQbTNhTUgtUTh0Z19SU291YWNNZGdvUVVlRUxrMXFmVjkzVW16SEFVTE5BeEh0djdVUjR4UnBrTDg5aTBCMC1NSFc4bWxBb2xrNDRDWmFvX1cxcUhKQjhjVHBtN3FqRQ?oc=5\" target=\"_blank\">Keeping Alabama’s lights on: The people and power behind Alabama Power’s reliability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellowhammer News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-17T20:18:55+00:00"
+    },
     {
       "id": "b8ff7195644ad8da",
       "title": "'They need to listen to the people' — Fenn Church looking to elected… - 1819 News",
