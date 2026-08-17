@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-17T20:19:12+00:00",
+  "last_updated": "2026-08-17T22:18:00+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 432,
+  "count": 433,
   "mentions": [
+    {
+      "id": "ed959d062030ce4b",
+      "title": "Will the New OpenAI Data Center Raise Georgia Power Bills? - Southern Alliance for Clean Energy",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSlloaW4yN0xwNDVCc1phZXhMUUotUVBWVGJzMHljSjA1dXRCdnhzdk8taERKWjlDR01fZGFZaVZjb1dxUV9WQi1nWDYtd2REeWhraVhocWJFbjRVMlIzYnhzVDdnZlZOamE0NFJ1dUx3WjdfVUVjRy1KMVJLcjVGU19GTUdDd25NU3ZKNXA2VGY?oc=5",
+      "domain": "news.google.com",
+      "source": "Southern Alliance for Clean Energy",
+      "language": "English",
+      "published_at": "2026-08-17T20:55:24+00:00",
+      "summary": "Will the New OpenAI Data Center Raise Georgia Power Bills? Southern Alliance for Clean Energy",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQSlloaW4yN0xwNDVCc1phZXhMUUotUVBWVGJzMHljSjA1dXRCdnhzdk8taERKWjlDR01fZGFZaVZjb1dxUV9WQi1nWDYtd2REeWhraVhocWJFbjRVMlIzYnhzVDdnZlZOamE0NFJ1dUx3WjdfVUVjRy1KMVJLcjVGU19GTUdDd25NU3ZKNXA2VGY?oc=5\" target=\"_blank\">Will the New OpenAI Data Center Raise Georgia Power Bills?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southern Alliance for Clean Energy</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-17T22:18:00+00:00"
+    },
     {
       "id": "2501d40fbadc44d1",
       "title": "Georgia Power deal to serve $20B OpenAI data center goes under the microscope - ajc.com",

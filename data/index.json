@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T20:19:22+00:00",
+  "last_updated": "2026-08-17T22:18:10+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 80,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "d2f5e15ae74ba2c1",
         "title": "Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward - fox43.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 432,
-      "new_mentions_this_run": 21,
+      "count": 433,
+      "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "2501d40fbadc44d1",
-        "title": "Georgia Power deal to serve $20B OpenAI data center goes under the microscope - ajc.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFNRX1RSQ0RpYlhud04tcVQwR2IzMlZhN1N2dk1LMzYtRlRzRTV4ZEoxWU5tanRxY2ltLXEzWGM1THU1VXk5ek1GVTZXVlVpRVdwclUtSjFrcnI2emlhS0R6MzA3SVl3c1FFR2JIMWdTNHlGeFR6dDFPbWNkcTMwbU5WeWFPTTU0LTFvcG1wQUc2aEg1aGk2SXlzb1FTUnZQT3RneHo0WmdlQjRSZG1hNDZNTWtVR1E?oc=5",
+        "id": "ed959d062030ce4b",
+        "title": "Will the New OpenAI Data Center Raise Georgia Power Bills? - Southern Alliance for Clean Energy",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSlloaW4yN0xwNDVCc1phZXhMUUotUVBWVGJzMHljSjA1dXRCdnhzdk8taERKWjlDR01fZGFZaVZjb1dxUV9WQi1nWDYtd2REeWhraVhocWJFbjRVMlIzYnhzVDdnZlZOamE0NFJ1dUx3WjdfVUVjRy1KMVJLcjVGU19GTUdDd25NU3ZKNXA2VGY?oc=5",
         "domain": "news.google.com",
-        "source": "ajc.com",
+        "source": "Southern Alliance for Clean Energy",
         "language": "English",
-        "published_at": "2026-08-17T09:03:13+00:00",
-        "summary": "Georgia Power deal to serve $20B OpenAI data center goes under the microscope ajc.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFNRX1RSQ0RpYlhud04tcVQwR2IzMlZhN1N2dk1LMzYtRlRzRTV4ZEoxWU5tanRxY2ltLXEzWGM1THU1VXk5ek1GVTZXVlVpRVdwclUtSjFrcnI2emlhS0R6MzA3SVl3c1FFR2JIMWdTNHlGeFR6dDFPbWNkcTMwbU5WeWFPTTU0LTFvcG1wQUc2aEg1aGk2SXlzb1FTUnZQT3RneHo0WmdlQjRSZG1hNDZNTWtVR1E?oc=5\" target=\"_blank\">Georgia Power deal to serve $20B OpenAI data center goes under the microscope</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ajc.com</font>",
+        "published_at": "2026-08-17T20:55:24+00:00",
+        "summary": "Will the New OpenAI Data Center Raise Georgia Power Bills? Southern Alliance for Clean Energy",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQSlloaW4yN0xwNDVCc1phZXhMUUotUVBWVGJzMHljSjA1dXRCdnhzdk8taERKWjlDR01fZGFZaVZjb1dxUV9WQi1nWDYtd2REeWhraVhocWJFbjRVMlIzYnhzVDdnZlZOamE0NFJ1dUx3WjdfVUVjRy1KMVJLcjVGU19GTUdDd25NU3ZKNXA2VGY?oc=5\" target=\"_blank\">Will the New OpenAI Data Center Raise Georgia Power Bills?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southern Alliance for Clean Energy</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-17T18:28:43+00:00"
+        "collected_at": "2026-08-17T22:18:00+00:00"
       }
     },
     {
