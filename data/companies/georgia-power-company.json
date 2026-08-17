@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-17T02:54:11+00:00",
+  "last_updated": "2026-08-17T04:34:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 428,
+  "count": 429,
   "mentions": [
     {
       "id": "1fa87b37c778209f",
@@ -75,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-16T06:28:44+00:00"
+    },
+    {
+      "id": "578a505555ebc7ae",
+      "title": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPREE5T1JMM1pLUWwyZVdkWTRWX0NOQUFtanRhX3ExZ01QSzRvMmVpcjdOQTY5eEMxbl9qWFlRV2lvbXJjUW5GWHp4QTY4NTAyY2Fvck9hNU1MSU42MTRiSVNsSkJzbzFDTGdPMFBxVHcwcW50RTduQ1R5NWtzNS1hdmw1NnNURXFDRkQ5bzBzME9NeUM2cTgwZGFHMjlrajdDOHFXay1B?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-08-14T22:38:29+00:00",
+      "summary": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPREE5T1JMM1pLUWwyZVdkWTRWX0NOQUFtanRhX3ExZ01QSzRvMmVpcjdOQTY5eEMxbl9qWFlRV2lvbXJjUW5GWHp4QTY4NTAyY2Fvck9hNU1MSU42MTRiSVNsSkJzbzFDTGdPMFBxVHcwcW50RTduQ1R5NWtzNS1hdmw1NnNURXFDRkQ5bzBzME9NeUM2cTgwZGFHMjlrajdDOHFXay1B?oc=5\" target=\"_blank\">As temperatures rise, Georgia Power workers battle the heat to keep the lights on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-17T04:34:45+00:00"
     },
     {
       "id": "69b44fc90462bc99",
