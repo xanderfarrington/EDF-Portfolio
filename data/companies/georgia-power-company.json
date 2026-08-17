@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-17T08:35:33+00:00",
+  "last_updated": "2026-08-17T10:25:59+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 429,
+  "count": 430,
   "mentions": [
+    {
+      "id": "b41071c908938f71",
+      "title": "Georgia Power deal to serve $20B OpenAI data center goes under the microscope - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFNRX1RSQ0RpYlhud04tcVQwR2IzMlZhN1N2dk1LMzYtRlRzRTV4ZEoxWU5tanRxY2ltLXEzWGM1THU1VXk5ek1GVTZXVlVpRVdwclUtSjFrcnI2emlhS0R6MzA3SVl3c1FFR2JIMWdTNHlGeFR6dDFPbWNkcTMwbU5WeWFPTTU0LTFvcG1wQUc2aEg1aGk2SXlzb1FTUnZQT3RneHo0WmdlQjRSZG1hNDZNTWtVR1E?oc=5",
+      "domain": "news.google.com",
+      "source": "AJC.com",
+      "language": "English",
+      "published_at": "2026-08-17T09:03:07+00:00",
+      "summary": "Georgia Power deal to serve $20B OpenAI data center goes under the microscope AJC.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFNRX1RSQ0RpYlhud04tcVQwR2IzMlZhN1N2dk1LMzYtRlRzRTV4ZEoxWU5tanRxY2ltLXEzWGM1THU1VXk5ek1GVTZXVlVpRVdwclUtSjFrcnI2emlhS0R6MzA3SVl3c1FFR2JIMWdTNHlGeFR6dDFPbWNkcTMwbU5WeWFPTTU0LTFvcG1wQUc2aEg1aGk2SXlzb1FTUnZQT3RneHo0WmdlQjRSZG1hNDZNTWtVR1E?oc=5\" target=\"_blank\">Georgia Power deal to serve $20B OpenAI data center goes under the microscope</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-17T10:25:59+00:00"
+    },
     {
       "id": "1fa87b37c778209f",
       "title": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on - WSB-TV",

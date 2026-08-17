@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-17T08:35:43+00:00",
+  "last_updated": "2026-08-17T10:26:09+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 78,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "a084c17b45239523",
         "title": "AEP5300365 Bond Profile — Key Metrics - tradingview.com",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 74,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "194ca3a64b5f3494",
         "title": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more - American Nuclear Society -- ANS",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 429,
-      "new_mentions_this_run": 21,
+      "count": 430,
+      "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "1fa87b37c778209f",
-        "title": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on - WSB-TV",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWdKWmhmNzlqaE9CdGNLeks1ZUNObDhseUxuU1JWZllibmtvZUVRVkF3c01hZDZzNTREVFVweVBjbklpaXFURXhPRmpYRlNDamoxdkFleVBaTDNlV2JIb3c2eGVJVnNwV2dEazFETUNXSWVEX1hiOEcwX09RUm50MDdaWTdwMmhGY3FDMlk1ZWkxeWdWaVktLWt3VXhTbXFjRUdScTB5QUpJZG9xeUI3c294ZklEbkxaZ0lEbGNKYXAxR0RKQUxWTWZVTldmeGFMeXlLbENHLXc?oc=5",
+        "id": "b41071c908938f71",
+        "title": "Georgia Power deal to serve $20B OpenAI data center goes under the microscope - AJC.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFNRX1RSQ0RpYlhud04tcVQwR2IzMlZhN1N2dk1LMzYtRlRzRTV4ZEoxWU5tanRxY2ltLXEzWGM1THU1VXk5ek1GVTZXVlVpRVdwclUtSjFrcnI2emlhS0R6MzA3SVl3c1FFR2JIMWdTNHlGeFR6dDFPbWNkcTMwbU5WeWFPTTU0LTFvcG1wQUc2aEg1aGk2SXlzb1FTUnZQT3RneHo0WmdlQjRSZG1hNDZNTWtVR1E?oc=5",
         "domain": "news.google.com",
-        "source": "WSB-TV",
+        "source": "AJC.com",
         "language": "English",
-        "published_at": "2026-08-14T22:41:42+00:00",
-        "summary": "As temperatures rise, Georgia Power workers battle the heat to keep the lights on WSB-TV",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWdKWmhmNzlqaE9CdGNLeks1ZUNObDhseUxuU1JWZllibmtvZUVRVkF3c01hZDZzNTREVFVweVBjbklpaXFURXhPRmpYRlNDamoxdkFleVBaTDNlV2JIb3c2eGVJVnNwV2dEazFETUNXSWVEX1hiOEcwX09RUm50MDdaWTdwMmhGY3FDMlk1ZWkxeWdWaVktLWt3VXhTbXFjRUdScTB5QUpJZG9xeUI3c294ZklEbkxaZ0lEbGNKYXAxR0RKQUxWTWZVTldmeGFMeXlLbENHLXc?oc=5\" target=\"_blank\">As temperatures rise, Georgia Power workers battle the heat to keep the lights on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "published_at": "2026-08-17T09:03:07+00:00",
+        "summary": "Georgia Power deal to serve $20B OpenAI data center goes under the microscope AJC.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFNRX1RSQ0RpYlhud04tcVQwR2IzMlZhN1N2dk1LMzYtRlRzRTV4ZEoxWU5tanRxY2ltLXEzWGM1THU1VXk5ek1GVTZXVlVpRVdwclUtSjFrcnI2emlhS0R6MzA3SVl3c1FFR2JIMWdTNHlGeFR6dDFPbWNkcTMwbU5WeWFPTTU0LTFvcG1wQUc2aEg1aGk2SXlzb1FTUnZQT3RneHo0WmdlQjRSZG1hNDZNTWtVR1E?oc=5\" target=\"_blank\">Georgia Power deal to serve $20B OpenAI data center goes under the microscope</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-15T00:52:35+00:00"
+        "collected_at": "2026-08-17T10:25:59+00:00"
       }
     },
     {
