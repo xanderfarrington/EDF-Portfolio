@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T16:20:10+00:00",
+  "last_updated": "2026-08-17T18:28:53+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -68,42 +68,42 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 75,
-      "new_mentions_this_run": 4,
+      "count": 78,
+      "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "090f37765c5f6240",
-        "title": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more - ans.org",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWRhaWpxMVA4M0ozd2F3d0Noa2pZczlOLXR6OWJaZGtUenAtU3dJTEc5SWtNek5FT1EzQ1ZDQXE2bS1KN2dHX1JvZmF1VWJzWHFoUXh3VUpfS1RpUkNCb2xJMkFHWHRKV09POHZoWUIyd05Id0ZMV19QeUl1a3dTQVB5UVExN294U0tLeXpncXVPNDktVlJtdjFvbzM1dXdQZHNEYVcxX1U0NWM0NXVpOA?oc=5",
+        "id": "d2886a395d414541",
+        "title": "Crane Clean Energy takes delivery of power transformer - PennLive.com",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HakVlSm45VFlLenRfd3NlUEhuV3NJSXVTUFVPUkpfdFNuUVhxS014M2RkTXlTXzNyeFJMRlJYbVZnOVQtQXNvRVVmakgtT1Y4enJ6WGxwc0w0ZXJlWEtBOV8taFZ3SkZ1TGNGUzl2Yw?oc=5",
         "domain": "news.google.com",
-        "source": "ans.org",
+        "source": "PennLive.com",
         "language": "English",
-        "published_at": "2026-08-13T17:40:07+00:00",
-        "summary": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more ans.org",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWRhaWpxMVA4M0ozd2F3d0Noa2pZczlOLXR6OWJaZGtUenAtU3dJTEc5SWtNek5FT1EzQ1ZDQXE2bS1KN2dHX1JvZmF1VWJzWHFoUXh3VUpfS1RpUkNCb2xJMkFHWHRKV09POHZoWUIyd05Id0ZMV19QeUl1a3dTQVB5UVExN294U0tLeXpncXVPNDktVlJtdjFvbzM1dXdQZHNEYVcxX1U0NWM0NXVpOA?oc=5\" target=\"_blank\">Second-quarter updates from Constellation: New PPAs, Crane restart, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ans.org</font>",
+        "published_at": "2026-08-17T16:51:55+00:00",
+        "summary": "Crane Clean Energy takes delivery of power transformer PennLive.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1HakVlSm45VFlLenRfd3NlUEhuV3NJSXVTUFVPUkpfdFNuUVhxS014M2RkTXlTXzNyeFJMRlJYbVZnOVQtQXNvRVVmakgtT1Y4enJ6WGxwc0w0ZXJlWEtBOV8taFZ3SkZ1TGNGUzl2Yw?oc=5\" target=\"_blank\">Crane Clean Energy takes delivery of power transformer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PennLive.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-17T14:20:52+00:00"
+        "collected_at": "2026-08-17T18:28:37+00:00"
       }
     },
     {
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 430,
+      "count": 432,
       "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "b41071c908938f71",
-        "title": "Georgia Power deal to serve $20B OpenAI data center goes under the microscope - AJC.com",
+        "id": "2501d40fbadc44d1",
+        "title": "Georgia Power deal to serve $20B OpenAI data center goes under the microscope - ajc.com",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFNRX1RSQ0RpYlhud04tcVQwR2IzMlZhN1N2dk1LMzYtRlRzRTV4ZEoxWU5tanRxY2ltLXEzWGM1THU1VXk5ek1GVTZXVlVpRVdwclUtSjFrcnI2emlhS0R6MzA3SVl3c1FFR2JIMWdTNHlGeFR6dDFPbWNkcTMwbU5WeWFPTTU0LTFvcG1wQUc2aEg1aGk2SXlzb1FTUnZQT3RneHo0WmdlQjRSZG1hNDZNTWtVR1E?oc=5",
         "domain": "news.google.com",
-        "source": "AJC.com",
+        "source": "ajc.com",
         "language": "English",
-        "published_at": "2026-08-17T09:03:07+00:00",
-        "summary": "Georgia Power deal to serve $20B OpenAI data center goes under the microscope AJC.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFNRX1RSQ0RpYlhud04tcVQwR2IzMlZhN1N2dk1LMzYtRlRzRTV4ZEoxWU5tanRxY2ltLXEzWGM1THU1VXk5ek1GVTZXVlVpRVdwclUtSjFrcnI2emlhS0R6MzA3SVl3c1FFR2JIMWdTNHlGeFR6dDFPbWNkcTMwbU5WeWFPTTU0LTFvcG1wQUc2aEg1aGk2SXlzb1FTUnZQT3RneHo0WmdlQjRSZG1hNDZNTWtVR1E?oc=5\" target=\"_blank\">Georgia Power deal to serve $20B OpenAI data center goes under the microscope</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+        "published_at": "2026-08-17T09:03:13+00:00",
+        "summary": "Georgia Power deal to serve $20B OpenAI data center goes under the microscope ajc.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFNRX1RSQ0RpYlhud04tcVQwR2IzMlZhN1N2dk1LMzYtRlRzRTV4ZEoxWU5tanRxY2ltLXEzWGM1THU1VXk5ek1GVTZXVlVpRVdwclUtSjFrcnI2emlhS0R6MzA3SVl3c1FFR2JIMWdTNHlGeFR6dDFPbWNkcTMwbU5WeWFPTTU0LTFvcG1wQUc2aEg1aGk2SXlzb1FTUnZQT3RneHo0WmdlQjRSZG1hNDZNTWtVR1E?oc=5\" target=\"_blank\">Georgia Power deal to serve $20B OpenAI data center goes under the microscope</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ajc.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-17T10:25:59+00:00"
+        "collected_at": "2026-08-17T18:28:43+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 42,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "132a4b59653532de",
         "title": "DOE looking for large-scale projects to fund - Midland Reporter-Telegram",
