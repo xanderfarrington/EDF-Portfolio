@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T10:26:09+00:00",
+  "last_updated": "2026-08-17T12:30:55+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 237,
-      "new_mentions_this_run": 21,
+      "count": 238,
+      "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "555a63d922854260",
-        "title": "Alabama Power: Efficiently Cooling Your Manufactured Home Is Worth the Extra Effort - wiregrassdailynews.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZmRqbF9hdkVlR0Y2WmU5bFo5NFVGWWJYbm9DM0htWGRlMlpsa1JxOUI2TnNRQmExcFlHOW9GRUg0TXhDbnZxdFRwMzlhZXNkUExpNHd0bFZwN2Faenl4dFQ5aWsza2VZNm5XZHpLdzFWT3Y0WVVoQmd1cnFSa2tvZk1oSzZ6T1dkSHFnUzE1Q3dWMEVCOXlWbW4tZFVDQ3NmWXRXX0FVbTYwVzdnM3JJTGVpSnVkdThib0JxNXFYUi1CZEVNdXBBUllYcGs2ZF9iZXFBTQ?oc=5",
+        "id": "b8ff7195644ad8da",
+        "title": "'They need to listen to the people' — Fenn Church looking to elected… - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaTBCd3Z3MlVRdWFXWkhxLTZtNjdGVGdueWVYbVd2Ym40ZS1OblcwR1d2TmZqekg3RHM0V3lqalFQUnYta2JFTUtsZzU3b3Z0MGlCX2JsNGJuek1fUTFGbGF3TUUzTzVDc0s0ZlZjd2I2djZfRTFCdUREUnpxM0xTRW9JOHVjSWJLUldFaFFjck1nTWJyWG1VeU84bUY4cFRoZ19oaFFuSmNON29NMTlCWnlDT0xMTjZkS1RKbnZ1S2pqV1pyTVl2d2RLaWV2TjNxZF9SbEZNS19IQXJvc2xzUU84U1g?oc=5",
         "domain": "news.google.com",
-        "source": "wiregrassdailynews.com",
+        "source": "1819 News",
         "language": "English",
-        "published_at": "2026-08-14T19:36:17+00:00",
-        "summary": "Alabama Power: Efficiently Cooling Your Manufactured Home Is Worth the Extra Effort wiregrassdailynews.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZmRqbF9hdkVlR0Y2WmU5bFo5NFVGWWJYbm9DM0htWGRlMlpsa1JxOUI2TnNRQmExcFlHOW9GRUg0TXhDbnZxdFRwMzlhZXNkUExpNHd0bFZwN2Faenl4dFQ5aWsza2VZNm5XZHpLdzFWT3Y0WVVoQmd1cnFSa2tvZk1oSzZ6T1dkSHFnUzE1Q3dWMEVCOXlWbW4tZFVDQ3NmWXRXX0FVbTYwVzdnM3JJTGVpSnVkdThib0JxNXFYUi1CZEVNdXBBUllYcGs2ZF9iZXFBTQ?oc=5\" target=\"_blank\">Alabama Power: Efficiently Cooling Your Manufactured Home Is Worth the Extra Effort</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wiregrassdailynews.com</font>",
+        "published_at": "2026-08-17T11:15:00+00:00",
+        "summary": "'They need to listen to the people' — Fenn Church looking to elected… 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaTBCd3Z3MlVRdWFXWkhxLTZtNjdGVGdueWVYbVd2Ym40ZS1OblcwR1d2TmZqekg3RHM0V3lqalFQUnYta2JFTUtsZzU3b3Z0MGlCX2JsNGJuek1fUTFGbGF3TUUzTzVDc0s0ZlZjd2I2djZfRTFCdUREUnpxM0xTRW9JOHVjSWJLUldFaFFjck1nTWJyWG1VeU84bUY4cFRoZ19oaFFuSmNON29NMTlCWnlDT0xMTjZkS1RKbnZ1S2pqV1pyTVl2d2RLaWV2TjNxZF9SbEZNS19IQXJvc2xzUU84U1g?oc=5\" target=\"_blank\">'They need to listen to the people' — Fenn Church looking to elected…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-16T02:53:46+00:00"
+        "collected_at": "2026-08-17T12:30:28+00:00"
       }
     },
     {
