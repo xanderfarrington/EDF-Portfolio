@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T14:21:08+00:00",
+  "last_updated": "2026-08-17T16:20:10+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 238,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "b8ff7195644ad8da",
         "title": "'They need to listen to the people' — Fenn Church looking to elected… - 1819 News",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 75,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "090f37765c5f6240",
         "title": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more - ans.org",
