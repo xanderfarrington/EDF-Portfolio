@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-08-17T12:30:55+00:00",
+  "last_updated": "2026-08-17T14:21:08+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 78,
-      "new_mentions_this_run": 3,
+      "count": 79,
+      "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "a084c17b45239523",
-        "title": "AEP5300365 Bond Profile — Key Metrics - tradingview.com",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51aDlNdEdtdjU1c0I2eE1JekFmNGZPdV8zVUN6WkxNV191eDNqR296dEJEUDVrM21FNnpfbFF1YmYxbTF6MUdjM2VDMTFVZUtRV1lXTzRmX1cxTlRvSzRtMnkwVXJHdFRPT3M1VmFnSWlHT044SkROR29B?oc=5",
+        "id": "f5e1d9ca2efc7c36",
+        "title": "The United States Cancels Three National Interest Electric Transmission Corridors - energynews.pro",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYTI3QlEtYUd2U0VTOFJpM2FCZkEzRzVlT1B0WTJ4ZFdnVUU1SWVSS2J4MGtXamFGdnY1dWVlblRLN21peTN1NnI2U2E0Z0pLOGtkdmwzR3VTei16MGg4clFHUkFHTHd6T1o0c1YtYmVhb1Q5SGgwWngtUjFNUVhWVGctTDVnMWhpd1pWZ21QSnZZVnpfclJQbnVyV0M5d3hiWHZBSlhOVW1NYjg?oc=5",
         "domain": "news.google.com",
-        "source": "tradingview.com",
+        "source": "energynews.pro",
         "language": "English",
-        "published_at": "2026-08-07T11:03:33+00:00",
-        "summary": "AEP5300365 Bond Profile — Key Metrics tradingview.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE51aDlNdEdtdjU1c0I2eE1JekFmNGZPdV8zVUN6WkxNV191eDNqR296dEJEUDVrM21FNnpfbFF1YmYxbTF6MUdjM2VDMTFVZUtRV1lXTzRmX1cxTlRvSzRtMnkwVXJHdFRPT3M1VmFnSWlHT044SkROR29B?oc=5\" target=\"_blank\">AEP5300365 Bond Profile — Key Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tradingview.com</font>",
+        "published_at": "2026-08-17T13:32:35+00:00",
+        "summary": "The United States Cancels Three National Interest Electric Transmission Corridors energynews.pro",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYTI3QlEtYUd2U0VTOFJpM2FCZkEzRzVlT1B0WTJ4ZFdnVUU1SWVSS2J4MGtXamFGdnY1dWVlblRLN21peTN1NnI2U2E0Z0pLOGtkdmwzR3VTei16MGg4clFHUkFHTHd6T1o0c1YtYmVhb1Q5SGgwWngtUjFNUVhWVGctTDVnMWhpd1pWZ21QSnZZVnpfclJQbnVyV0M5d3hiWHZBSlhOVW1NYjg?oc=5\" target=\"_blank\">The United States Cancels Three National Interest Electric Transmission Corridors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energynews.pro</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-07T16:45:47+00:00"
+        "collected_at": "2026-08-17T14:20:36+00:00"
       }
     },
     {
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 238,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "b8ff7195644ad8da",
         "title": "'They need to listen to the people' — Fenn Church looking to elected… - 1819 News",
@@ -68,21 +68,21 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 74,
+      "count": 75,
       "new_mentions_this_run": 3,
       "latest_mention": {
-        "id": "194ca3a64b5f3494",
-        "title": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more - American Nuclear Society -- ANS",
+        "id": "090f37765c5f6240",
+        "title": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more - ans.org",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWRhaWpxMVA4M0ozd2F3d0Noa2pZczlOLXR6OWJaZGtUenAtU3dJTEc5SWtNek5FT1EzQ1ZDQXE2bS1KN2dHX1JvZmF1VWJzWHFoUXh3VUpfS1RpUkNCb2xJMkFHWHRKV09POHZoWUIyd05Id0ZMV19QeUl1a3dTQVB5UVExN294U0tLeXpncXVPNDktVlJtdjFvbzM1dXdQZHNEYVcxX1U0NWM0NXVpOA?oc=5",
         "domain": "news.google.com",
-        "source": "American Nuclear Society -- ANS",
+        "source": "ans.org",
         "language": "English",
-        "published_at": "2026-08-13T14:41:40+00:00",
-        "summary": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more American Nuclear Society -- ANS",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWRhaWpxMVA4M0ozd2F3d0Noa2pZczlOLXR6OWJaZGtUenAtU3dJTEc5SWtNek5FT1EzQ1ZDQXE2bS1KN2dHX1JvZmF1VWJzWHFoUXh3VUpfS1RpUkNCb2xJMkFHWHRKV09POHZoWUIyd05Id0ZMV19QeUl1a3dTQVB5UVExN294U0tLeXpncXVPNDktVlJtdjFvbzM1dXdQZHNEYVcxX1U0NWM0NXVpOA?oc=5\" target=\"_blank\">Second-quarter updates from Constellation: New PPAs, Crane restart, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society -- ANS</font>",
+        "published_at": "2026-08-13T17:40:07+00:00",
+        "summary": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more ans.org",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWRhaWpxMVA4M0ozd2F3d0Noa2pZczlOLXR6OWJaZGtUenAtU3dJTEc5SWtNek5FT1EzQ1ZDQXE2bS1KN2dHX1JvZmF1VWJzWHFoUXh3VUpfS1RpUkNCb2xJMkFHWHRKV09POHZoWUIyd05Id0ZMV19QeUl1a3dTQVB5UVExN294U0tLeXpncXVPNDktVlJtdjFvbzM1dXdQZHNEYVcxX1U0NWM0NXVpOA?oc=5\" target=\"_blank\">Second-quarter updates from Constellation: New PPAs, Crane restart, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ans.org</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-13T14:51:37+00:00"
+        "collected_at": "2026-08-17T14:20:52+00:00"
       }
     },
     {

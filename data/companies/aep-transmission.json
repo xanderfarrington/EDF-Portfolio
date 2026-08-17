@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-08-17T12:30:23+00:00",
+  "last_updated": "2026-08-17T14:20:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 78,
+  "count": 79,
   "mentions": [
+    {
+      "id": "f5e1d9ca2efc7c36",
+      "title": "The United States Cancels Three National Interest Electric Transmission Corridors - energynews.pro",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYTI3QlEtYUd2U0VTOFJpM2FCZkEzRzVlT1B0WTJ4ZFdnVUU1SWVSS2J4MGtXamFGdnY1dWVlblRLN21peTN1NnI2U2E0Z0pLOGtkdmwzR3VTei16MGg4clFHUkFHTHd6T1o0c1YtYmVhb1Q5SGgwWngtUjFNUVhWVGctTDVnMWhpd1pWZ21QSnZZVnpfclJQbnVyV0M5d3hiWHZBSlhOVW1NYjg?oc=5",
+      "domain": "news.google.com",
+      "source": "energynews.pro",
+      "language": "English",
+      "published_at": "2026-08-17T13:32:35+00:00",
+      "summary": "The United States Cancels Three National Interest Electric Transmission Corridors energynews.pro",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYTI3QlEtYUd2U0VTOFJpM2FCZkEzRzVlT1B0WTJ4ZFdnVUU1SWVSS2J4MGtXamFGdnY1dWVlblRLN21peTN1NnI2U2E0Z0pLOGtkdmwzR3VTei16MGg4clFHUkFHTHd6T1o0c1YtYmVhb1Q5SGgwWngtUjFNUVhWVGctTDVnMWhpd1pWZ21QSnZZVnpfclJQbnVyV0M5d3hiWHZBSlhOVW1NYjg?oc=5\" target=\"_blank\">The United States Cancels Three National Interest Electric Transmission Corridors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energynews.pro</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-17T14:20:36+00:00"
+    },
     {
       "id": "a084c17b45239523",
       "title": "AEP5300365 Bond Profile — Key Metrics - tradingview.com",

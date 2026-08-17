@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-08-17T12:30:39+00:00",
+  "last_updated": "2026-08-17T14:20:52+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 74,
+  "count": 75,
   "mentions": [
+    {
+      "id": "090f37765c5f6240",
+      "title": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more - ans.org",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWRhaWpxMVA4M0ozd2F3d0Noa2pZczlOLXR6OWJaZGtUenAtU3dJTEc5SWtNek5FT1EzQ1ZDQXE2bS1KN2dHX1JvZmF1VWJzWHFoUXh3VUpfS1RpUkNCb2xJMkFHWHRKV09POHZoWUIyd05Id0ZMV19QeUl1a3dTQVB5UVExN294U0tLeXpncXVPNDktVlJtdjFvbzM1dXdQZHNEYVcxX1U0NWM0NXVpOA?oc=5",
+      "domain": "news.google.com",
+      "source": "ans.org",
+      "language": "English",
+      "published_at": "2026-08-13T17:40:07+00:00",
+      "summary": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more ans.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWRhaWpxMVA4M0ozd2F3d0Noa2pZczlOLXR6OWJaZGtUenAtU3dJTEc5SWtNek5FT1EzQ1ZDQXE2bS1KN2dHX1JvZmF1VWJzWHFoUXh3VUpfS1RpUkNCb2xJMkFHWHRKV09POHZoWUIyd05Id0ZMV19QeUl1a3dTQVB5UVExN294U0tLeXpncXVPNDktVlJtdjFvbzM1dXdQZHNEYVcxX1U0NWM0NXVpOA?oc=5\" target=\"_blank\">Second-quarter updates from Constellation: New PPAs, Crane restart, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ans.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-17T14:20:52+00:00"
+    },
     {
       "id": "194ca3a64b5f3494",
       "title": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more - American Nuclear Society -- ANS",
