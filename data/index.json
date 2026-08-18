@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T22:18:10+00:00",
+  "last_updated": "2026-08-18T00:52:22+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -68,8 +68,8 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 80,
-      "new_mentions_this_run": 8,
+      "count": 81,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "d2f5e15ae74ba2c1",
         "title": "Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward - fox43.com",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 433,
+      "count": 434,
       "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "ed959d062030ce4b",
@@ -110,21 +110,21 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 42,
-      "new_mentions_this_run": 6,
+      "count": 43,
+      "new_mentions_this_run": 8,
       "latest_mention": {
-        "id": "132a4b59653532de",
-        "title": "DOE looking for large-scale projects to fund - Midland Reporter-Telegram",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGR6QmhKRmRjX095ZFhGUHhfOERzY0lzZjc5MXJDeEx0T3Vva3RINUs1OXluMXVCcGc4MlFPRkFJQWpIVk4zcjdLbWZkdnU3Z2ZkYXZWSjBrd1FtRkY2S0VDdXlzOV81WGtLa09jRHJ5MU90ZXZ3UERYY1Z1ZW1ZZFRCWXpDbjZLSzJJdGEzT0x5Qk5k?oc=5",
+        "id": "4c321ea858b80262",
+        "title": "AEP Transmission - Department of Energy (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uLUJLWVFkUVNjSmpXOTFjeks5dkItUXR4U01zb3hUd0NOekR5WjRLOG5tTXpyWllmQkhSejNWLUVSMnc5OWM4XzdoNzdkTTJuTlV6bVlR?oc=5",
         "domain": "news.google.com",
-        "source": "Midland Reporter-Telegram",
+        "source": "Department of Energy (.gov)",
         "language": "English",
-        "published_at": "2026-08-13T21:21:41+00:00",
-        "summary": "DOE looking for large-scale projects to fund Midland Reporter-Telegram",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGR6QmhKRmRjX095ZFhGUHhfOERzY0lzZjc5MXJDeEx0T3Vva3RINUs1OXluMXVCcGc4MlFPRkFJQWpIVk4zcjdLbWZkdnU3Z2ZkYXZWSjBrd1FtRkY2S0VDdXlzOV81WGtLa09jRHJ5MU90ZXZ3UERYY1Z1ZW1ZZFRCWXpDbjZLSzJJdGEzT0x5Qk5k?oc=5\" target=\"_blank\">DOE looking for large-scale projects to fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Midland Reporter-Telegram</font>",
+        "published_at": "2026-08-14T10:00:00+00:00",
+        "summary": "AEP Transmission Department of Energy (.gov)",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uLUJLWVFkUVNjSmpXOTFjeks5dkItUXR4U01zb3hUd0NOekR5WjRLOG5tTXpyWllmQkhSejNWLUVSMnc5OWM4XzdoNzdkTTJuTlV6bVlR?oc=5\" target=\"_blank\">AEP Transmission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-13T22:34:57+00:00"
+        "collected_at": "2026-08-18T00:52:17+00:00"
       }
     }
   ]

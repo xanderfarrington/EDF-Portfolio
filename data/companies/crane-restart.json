@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-08-17T22:17:54+00:00",
+  "last_updated": "2026-08-18T00:52:06+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 80,
+  "count": 81,
   "mentions": [
     {
       "id": "d2f5e15ae74ba2c1",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-17T18:28:37+00:00"
+    },
+    {
+      "id": "e27f8c1d0bb0b498",
+      "title": "Slow roll onto Three Mile Island marks big step in return of nuclear power - PennLive.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd3lISkJmOVZuOHdOSXBnR3ZacDk2VUs0azBPMEhoVG9XZXdzV3VOUUVIOUpSdjNKT0lPa2lDeUFuN0M0UzUwOXhEdTRtaWJ6LUFDMXFOcTdnNmtSSXZ2clk4T1B0MlRPUzlzM2dqclhzcU1INHlBV2Etb19IeDN3bnBSNjhIQnlKaktHRC1VRDVBbGtpOEFBVW1kQzJLa2pOdEdQZmJfbTZPcDlUOFlwVmJPbko5S3Ns0gHMAUFVX3lxTE1aanFCRzk4eGNxblBaOTdtWU9yVGc2Q1hyWndyRXVqYURyZWRheVdldDlYdVVGV3lfbG9MU1otcDk0aGpNdTJlZjBVT2tWdGxoa01wWlgwUVpYNVJrVFZDeVF3RXNwSkxuSjRGVHd3ZHRhSmNVRWdfMHI1Vnh6dS1SQmFZQ3I0UjVVcmFDVkhIb0xYTEd2RkdveHRjSmtjY2VNYk5lOFB0bXJHOEItVkRQcjZLOWhrajUwTWh4VVB5dDFCRWROazFiMXhUUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "PennLive.com",
+      "language": "English",
+      "published_at": "2026-08-17T16:46:00+00:00",
+      "summary": "Slow roll onto Three Mile Island marks big step in return of nuclear power PennLive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd3lISkJmOVZuOHdOSXBnR3ZacDk2VUs0azBPMEhoVG9XZXdzV3VOUUVIOUpSdjNKT0lPa2lDeUFuN0M0UzUwOXhEdTRtaWJ6LUFDMXFOcTdnNmtSSXZ2clk4T1B0MlRPUzlzM2dqclhzcU1INHlBV2Etb19IeDN3bnBSNjhIQnlKaktHRC1VRDVBbGtpOEFBVW1kQzJLa2pOdEdQZmJfbTZPcDlUOFlwVmJPbko5S3Ns0gHMAUFVX3lxTE1aanFCRzk4eGNxblBaOTdtWU9yVGc2Q1hyWndyRXVqYURyZWRheVdldDlYdVVGV3lfbG9MU1otcDk0aGpNdTJlZjBVT2tWdGxoa01wWlgwUVpYNVJrVFZDeVF3RXNwSkxuSjRGVHd3ZHRhSmNVRWdfMHI1Vnh6dS1SQmFZQ3I0UjVVcmFDVkhIb0xYTEd2RkdveHRjSmtjY2VNYk5lOFB0bXJHOEItVkRQcjZLOWhrajUwTWh4VVB5dDFCRWROazFiMXhUUQ?oc=5\" target=\"_blank\">Slow roll onto Three Mile Island marks big step in return of nuclear power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PennLive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-18T00:52:06+00:00"
     },
     {
       "id": "349a8fa90a0bf049",

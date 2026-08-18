@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-17T22:18:00+00:00",
+  "last_updated": "2026-08-18T00:52:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 433,
+  "count": 434,
   "mentions": [
     {
       "id": "ed959d062030ce4b",
@@ -271,6 +271,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-15T04:22:55+00:00"
+    },
+    {
+      "id": "bcaf79b708d2fcae",
+      "title": "Georgia Power adds time, not transparency, to OpenAI data center contract after public pressure - ledger-enquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMmZLcklYcmZJdlZDZnd5Q0ZpUVhtV2xsdjFoa2duQVJDdkhndWxVaFlpajBhZ3dRcjlmOTJBNXlKRzBMQzdsQnA2UEkyUWJ3VG9IcjBNSGFXNERFeENOakNCMmZlaUVVaXJfM0xmY0RjZkxrcWVxaTVSNm4xMFhNcXpsNjPSAYQBQVVfeXFMTm1GcEliaHJHQkl0b2tKMXNDNG5JNVB2V2FGNTNvczRqTWFVQ0R5UGlRNURGSXVGb28zMVJmVDlPSzY0Qm5QbllBQzhvLWFrMDIyOG1nS3V1Z01rNzNjV2xYZkhLOUM2aEFwMi1ud2VaTHF6RjQwLU1ybmp0Q1lPbkZvUmo4?oc=5",
+      "domain": "news.google.com",
+      "source": "ledger-enquirer.com",
+      "language": "English",
+      "published_at": "2026-08-13T21:11:48+00:00",
+      "summary": "Georgia Power adds time, not transparency, to OpenAI data center contract after public pressure ledger-enquirer.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPMmZLcklYcmZJdlZDZnd5Q0ZpUVhtV2xsdjFoa2duQVJDdkhndWxVaFlpajBhZ3dRcjlmOTJBNXlKRzBMQzdsQnA2UEkyUWJ3VG9IcjBNSGFXNERFeENOakNCMmZlaUVVaXJfM0xmY0RjZkxrcWVxaTVSNm4xMFhNcXpsNjPSAYQBQVVfeXFMTm1GcEliaHJHQkl0b2tKMXNDNG5JNVB2V2FGNTNvczRqTWFVQ0R5UGlRNURGSXVGb28zMVJmVDlPSzY0Qm5QbllBQzhvLWFrMDIyOG1nS3V1Z01rNzNjV2xYZkhLOUM2aEFwMi1ud2VaTHF6RjQwLU1ybmp0Q1lPbkZvUmo4?oc=5\" target=\"_blank\">Georgia Power adds time, not transparency, to OpenAI data center contract after public pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ledger-enquirer.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-18T00:52:12+00:00"
     },
     {
       "id": "2c1191ab64d769df",
