@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T00:52:22+00:00",
+  "last_updated": "2026-08-18T02:50:28+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 239,
-      "new_mentions_this_run": 17,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "a787e8b771674d92",
         "title": "Keeping Alabama’s lights on: The people and power behind Alabama Power’s reliability - Yellowhammer News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 434,
+      "count": 435,
       "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "ed959d062030ce4b",
-        "title": "Will the New OpenAI Data Center Raise Georgia Power Bills? - Southern Alliance for Clean Energy",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSlloaW4yN0xwNDVCc1phZXhMUUotUVBWVGJzMHljSjA1dXRCdnhzdk8taERKWjlDR01fZGFZaVZjb1dxUV9WQi1nWDYtd2REeWhraVhocWJFbjRVMlIzYnhzVDdnZlZOamE0NFJ1dUx3WjdfVUVjRy1KMVJLcjVGU19GTUdDd25NU3ZKNXA2VGY?oc=5",
+        "id": "2de076e66ff2f3f3",
+        "title": "Georgia PSC Extends Review of Hyperscale Data Center Contract - RTO Insider",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQem4wS1cxbmYzSFVKREdVVTQ3azdYMHdfWVUycW1LTFh3akRXcUN1SHZVWnVpT1h3NnY4ek80YmVaeUcwSkdzT3FrVzVPOFhxZHBiUllrUEUwNDI2SFlYZ3NLcWdKenFKb3k2OERsUGR6TWVMQmFDY21ZQ1o4TjBWS1ZTaTZRMGNqR0YzaWdxOVp6YUoycGwwTg?oc=5",
         "domain": "news.google.com",
-        "source": "Southern Alliance for Clean Energy",
+        "source": "RTO Insider",
         "language": "English",
-        "published_at": "2026-08-17T20:55:24+00:00",
-        "summary": "Will the New OpenAI Data Center Raise Georgia Power Bills? Southern Alliance for Clean Energy",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQSlloaW4yN0xwNDVCc1phZXhMUUotUVBWVGJzMHljSjA1dXRCdnhzdk8taERKWjlDR01fZGFZaVZjb1dxUV9WQi1nWDYtd2REeWhraVhocWJFbjRVMlIzYnhzVDdnZlZOamE0NFJ1dUx3WjdfVUVjRy1KMVJLcjVGU19GTUdDd25NU3ZKNXA2VGY?oc=5\" target=\"_blank\">Will the New OpenAI Data Center Raise Georgia Power Bills?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southern Alliance for Clean Energy</font>",
+        "published_at": "2026-08-18T00:52:41+00:00",
+        "summary": "Georgia PSC Extends Review of Hyperscale Data Center Contract RTO Insider",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQem4wS1cxbmYzSFVKREdVVTQ3azdYMHdfWVUycW1LTFh3akRXcUN1SHZVWnVpT1h3NnY4ek80YmVaeUcwSkdzT3FrVzVPOFhxZHBiUllrUEUwNDI2SFlYZ3NLcWdKenFKb3k2OERsUGR6TWVMQmFDY21ZQ1o4TjBWS1ZTaTZRMGNqR0YzaWdxOVp6YUoycGwwTg?oc=5\" target=\"_blank\">Georgia PSC Extends Review of Hyperscale Data Center Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-17T22:18:00+00:00"
+        "collected_at": "2026-08-18T02:50:18+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 43,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "4c321ea858b80262",
         "title": "AEP Transmission - Department of Energy (.gov)",
