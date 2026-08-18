@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-18T14:26:23+00:00",
+  "last_updated": "2026-08-18T16:23:28+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 435,
+  "count": 436,
   "mentions": [
+    {
+      "id": "94358e7c2138eafd",
+      "title": "GNTC Automation Technology students have bright future at Georgia Power - The Rome News-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNb0Y4M1JqajNwSmUxSHdEWUJuUHZVYzNINl9FM1ZTMkszNHplTWRvMlAyamgwYS0weGZmMEg5TEtuakdjdUR3Tk01Zzh3VlQzaE05eVdqQjA5ZER0SEMzUkNUX0pxTzFEdHZjZlBQSXJCV055TkMwUHBoWTNEVlA0U3ltcXhvVGdvbUpHZmx6UE5vRk5QdllBUnNlSVZYUzdHMmJad1lXRVBTM0lGYlVoY21kaWdxZUJfNy1JaHNDekhla0pJTmxMVS1TMEhvV1hQUmpoWG5jd0Q4M0hyaU96c1pyVTkzdXl4ejNWVUVBc3p4ZUpKemV2Z01YaDZaVEIwcmtycU0tUVVZeERsNHcyWDl1U2NyckJJTkFHTXpR?oc=5",
+      "domain": "news.google.com",
+      "source": "The Rome News-Tribune",
+      "language": "English",
+      "published_at": "2026-08-18T15:30:00+00:00",
+      "summary": "GNTC Automation Technology students have bright future at Georgia Power The Rome News-Tribune",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNb0Y4M1JqajNwSmUxSHdEWUJuUHZVYzNINl9FM1ZTMkszNHplTWRvMlAyamgwYS0weGZmMEg5TEtuakdjdUR3Tk01Zzh3VlQzaE05eVdqQjA5ZER0SEMzUkNUX0pxTzFEdHZjZlBQSXJCV055TkMwUHBoWTNEVlA0U3ltcXhvVGdvbUpHZmx6UE5vRk5QdllBUnNlSVZYUzdHMmJad1lXRVBTM0lGYlVoY21kaWdxZUJfNy1JaHNDekhla0pJTmxMVS1TMEhvV1hQUmpoWG5jd0Q4M0hyaU96c1pyVTkzdXl4ejNWVUVBc3p4ZUpKemV2Z01YaDZaVEIwcmtycU0tUVVZeERsNHcyWDl1U2NyckJJTkFHTXpR?oc=5\" target=\"_blank\">GNTC Automation Technology students have bright future at Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-18T16:23:28+00:00"
+    },
     {
       "id": "2de076e66ff2f3f3",
       "title": "Georgia PSC Extends Review of Hyperscale Data Center Contract - RTO Insider",

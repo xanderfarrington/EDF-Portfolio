@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T14:26:34+00:00",
+  "last_updated": "2026-08-18T16:23:39+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 239,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "a787e8b771674d92",
         "title": "Keeping Alabama’s lights on: The people and power behind Alabama Power’s reliability - Yellowhammer News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 435,
+      "count": 436,
       "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "2de076e66ff2f3f3",
-        "title": "Georgia PSC Extends Review of Hyperscale Data Center Contract - RTO Insider",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQem4wS1cxbmYzSFVKREdVVTQ3azdYMHdfWVUycW1LTFh3akRXcUN1SHZVWnVpT1h3NnY4ek80YmVaeUcwSkdzT3FrVzVPOFhxZHBiUllrUEUwNDI2SFlYZ3NLcWdKenFKb3k2OERsUGR6TWVMQmFDY21ZQ1o4TjBWS1ZTaTZRMGNqR0YzaWdxOVp6YUoycGwwTg?oc=5",
+        "id": "94358e7c2138eafd",
+        "title": "GNTC Automation Technology students have bright future at Georgia Power - The Rome News-Tribune",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNb0Y4M1JqajNwSmUxSHdEWUJuUHZVYzNINl9FM1ZTMkszNHplTWRvMlAyamgwYS0weGZmMEg5TEtuakdjdUR3Tk01Zzh3VlQzaE05eVdqQjA5ZER0SEMzUkNUX0pxTzFEdHZjZlBQSXJCV055TkMwUHBoWTNEVlA0U3ltcXhvVGdvbUpHZmx6UE5vRk5QdllBUnNlSVZYUzdHMmJad1lXRVBTM0lGYlVoY21kaWdxZUJfNy1JaHNDekhla0pJTmxMVS1TMEhvV1hQUmpoWG5jd0Q4M0hyaU96c1pyVTkzdXl4ejNWVUVBc3p4ZUpKemV2Z01YaDZaVEIwcmtycU0tUVVZeERsNHcyWDl1U2NyckJJTkFHTXpR?oc=5",
         "domain": "news.google.com",
-        "source": "RTO Insider",
+        "source": "The Rome News-Tribune",
         "language": "English",
-        "published_at": "2026-08-18T00:52:41+00:00",
-        "summary": "Georgia PSC Extends Review of Hyperscale Data Center Contract RTO Insider",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQem4wS1cxbmYzSFVKREdVVTQ3azdYMHdfWVUycW1LTFh3akRXcUN1SHZVWnVpT1h3NnY4ek80YmVaeUcwSkdzT3FrVzVPOFhxZHBiUllrUEUwNDI2SFlYZ3NLcWdKenFKb3k2OERsUGR6TWVMQmFDY21ZQ1o4TjBWS1ZTaTZRMGNqR0YzaWdxOVp6YUoycGwwTg?oc=5\" target=\"_blank\">Georgia PSC Extends Review of Hyperscale Data Center Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
+        "published_at": "2026-08-18T15:30:00+00:00",
+        "summary": "GNTC Automation Technology students have bright future at Georgia Power The Rome News-Tribune",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNb0Y4M1JqajNwSmUxSHdEWUJuUHZVYzNINl9FM1ZTMkszNHplTWRvMlAyamgwYS0weGZmMEg5TEtuakdjdUR3Tk01Zzh3VlQzaE05eVdqQjA5ZER0SEMzUkNUX0pxTzFEdHZjZlBQSXJCV055TkMwUHBoWTNEVlA0U3ltcXhvVGdvbUpHZmx6UE5vRk5QdllBUnNlSVZYUzdHMmJad1lXRVBTM0lGYlVoY21kaWdxZUJfNy1JaHNDekhla0pJTmxMVS1TMEhvV1hQUmpoWG5jd0Q4M0hyaU96c1pyVTkzdXl4ejNWVUVBc3p4ZUpKemV2Z01YaDZaVEIwcmtycU0tUVVZeERsNHcyWDl1U2NyckJJTkFHTXpR?oc=5\" target=\"_blank\">GNTC Automation Technology students have bright future at Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-18T02:50:18+00:00"
+        "collected_at": "2026-08-18T16:23:28+00:00"
       }
     },
     {
