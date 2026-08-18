@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T16:23:39+00:00",
+  "last_updated": "2026-08-18T18:28:11+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 239,
-      "new_mentions_this_run": 16,
+      "count": 240,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "a787e8b771674d92",
         "title": "Keeping Alabama’s lights on: The people and power behind Alabama Power’s reliability - Yellowhammer News",
@@ -68,42 +68,42 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 83,
+      "count": 85,
       "new_mentions_this_run": 9,
       "latest_mention": {
-        "id": "d2f5e15ae74ba2c1",
-        "title": "Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward - fox43.com",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNVljTU54VjliOVVDUHVyTHhFXzZibXhRODdWWDVTX2NWZ3FBYlZQQ1Zldk9SQWtRWU1sdFJMNm9qTkhkRTd3VXROVjVKdWxVWDI0WnFHaks4eG44T2FTcm01NVIwNTBqREU2ZkR3MmYzbnRxbDZYTU51ZW8wdDF1aW9ySW9fWmJIbXQyMjR3Z081SS1ReEdWTlhaQlRZdVBhbjFHMnBTMVVjWC16YjhoSDFMMmdDQTJjMlBhU1B1dGI1RWNqd1NrckJaMjF3cnRES3NGekhCQ2cyWkk2OUF0Ul81ZmNPdTI4dHhoUnRMcDRBYkJudEZyc3JjXzFyUjBSZGRIVm85RGpUcS00bjM5TEVB?oc=5",
+        "id": "d8093fd1912710d0",
+        "title": "Massive transformer delivery marks milestone in Crane Clean Energy Center restart - wgal.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNU5fZmpBOTFGTEVzVlJNclpWVVh4a3I1dEk0Z2pCcksyTDhERDF3d0R4d1loXzBEelJLc054aV9WVVMtUjlFVFZRX2Z5blIya3JKcUViMndXNmp4by1qUGxkM3AtVEZ5NjRnTDBOU1NJcUcxVmZtaFpwLW85Z0Fmc2I4RFYybV9tVHQ1Q0NsYlZLajZLRTk3WF9pcVZOa1dw?oc=5",
         "domain": "news.google.com",
-        "source": "fox43.com",
+        "source": "wgal.com",
         "language": "English",
-        "published_at": "2026-08-17T18:59:00+00:00",
-        "summary": "Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward fox43.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQNVljTU54VjliOVVDUHVyTHhFXzZibXhRODdWWDVTX2NWZ3FBYlZQQ1Zldk9SQWtRWU1sdFJMNm9qTkhkRTd3VXROVjVKdWxVWDI0WnFHaks4eG44T2FTcm01NVIwNTBqREU2ZkR3MmYzbnRxbDZYTU51ZW8wdDF1aW9ySW9fWmJIbXQyMjR3Z081SS1ReEdWTlhaQlRZdVBhbjFHMnBTMVVjWC16YjhoSDFMMmdDQTJjMlBhU1B1dGI1RWNqd1NrckJaMjF3cnRES3NGekhCQ2cyWkk2OUF0Ul81ZmNPdTI4dHhoUnRMcDRBYkJudEZyc3JjXzFyUjBSZGRIVm85RGpUcS00bjM5TEVB?oc=5\" target=\"_blank\">Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox43.com</font>",
+        "published_at": "2026-08-17T23:07:00+00:00",
+        "summary": "Massive transformer delivery marks milestone in Crane Clean Energy Center restart wgal.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNU5fZmpBOTFGTEVzVlJNclpWVVh4a3I1dEk0Z2pCcksyTDhERDF3d0R4d1loXzBEelJLc054aV9WVVMtUjlFVFZRX2Z5blIya3JKcUViMndXNmp4by1qUGxkM3AtVEZ5NjRnTDBOU1NJcUcxVmZtaFpwLW85Z0Fmc2I4RFYybV9tVHQ1Q0NsYlZLajZLRTk3WF9pcVZOa1dw?oc=5\" target=\"_blank\">Massive transformer delivery marks milestone in Crane Clean Energy Center restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wgal.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-17T20:19:06+00:00"
+        "collected_at": "2026-08-18T18:27:55+00:00"
       }
     },
     {
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 436,
+      "count": 437,
       "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "94358e7c2138eafd",
-        "title": "GNTC Automation Technology students have bright future at Georgia Power - The Rome News-Tribune",
-        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNb0Y4M1JqajNwSmUxSHdEWUJuUHZVYzNINl9FM1ZTMkszNHplTWRvMlAyamgwYS0weGZmMEg5TEtuakdjdUR3Tk01Zzh3VlQzaE05eVdqQjA5ZER0SEMzUkNUX0pxTzFEdHZjZlBQSXJCV055TkMwUHBoWTNEVlA0U3ltcXhvVGdvbUpHZmx6UE5vRk5QdllBUnNlSVZYUzdHMmJad1lXRVBTM0lGYlVoY21kaWdxZUJfNy1JaHNDekhla0pJTmxMVS1TMEhvV1hQUmpoWG5jd0Q4M0hyaU96c1pyVTkzdXl4ejNWVUVBc3p4ZUpKemV2Z01YaDZaVEIwcmtycU0tUVVZeERsNHcyWDl1U2NyckJJTkFHTXpR?oc=5",
+        "id": "5a458a8418b4a044",
+        "title": "GNTC Automation Technology Students Have Bright Future At Georgia Power - Chattanoogan.com Breaking News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2NXZ1lNd1M5bk1PS0dWalNzRVBfbjNtd3N6U1J1NGJ4RldhR3Azdm9lOXBSN25HblF5TXd3Y0xudmpuQl9RcFN3Z2JUVWExd0xjVVVBUm1YWGRhaExQMkFZRUZ2enJENlFISFMxQkQyNE9hY3NLUm9xVUQ0MkEwbmRuWElzcEtIYWpOTWk0NA?oc=5",
         "domain": "news.google.com",
-        "source": "The Rome News-Tribune",
+        "source": "Chattanoogan.com Breaking News",
         "language": "English",
-        "published_at": "2026-08-18T15:30:00+00:00",
-        "summary": "GNTC Automation Technology students have bright future at Georgia Power The Rome News-Tribune",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNb0Y4M1JqajNwSmUxSHdEWUJuUHZVYzNINl9FM1ZTMkszNHplTWRvMlAyamgwYS0weGZmMEg5TEtuakdjdUR3Tk01Zzh3VlQzaE05eVdqQjA5ZER0SEMzUkNUX0pxTzFEdHZjZlBQSXJCV055TkMwUHBoWTNEVlA0U3ltcXhvVGdvbUpHZmx6UE5vRk5QdllBUnNlSVZYUzdHMmJad1lXRVBTM0lGYlVoY21kaWdxZUJfNy1JaHNDekhla0pJTmxMVS1TMEhvV1hQUmpoWG5jd0Q4M0hyaU96c1pyVTkzdXl4ejNWVUVBc3p4ZUpKemV2Z01YaDZaVEIwcmtycU0tUVVZeERsNHcyWDl1U2NyckJJTkFHTXpR?oc=5\" target=\"_blank\">GNTC Automation Technology students have bright future at Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
+        "published_at": "2026-08-18T15:53:20+00:00",
+        "summary": "GNTC Automation Technology Students Have Bright Future At Georgia Power Chattanoogan.com Breaking News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2NXZ1lNd1M5bk1PS0dWalNzRVBfbjNtd3N6U1J1NGJ4RldhR3Azdm9lOXBSN25HblF5TXd3Y0xudmpuQl9RcFN3Z2JUVWExd0xjVVVBUm1YWGRhaExQMkFZRUZ2enJENlFISFMxQkQyNE9hY3NLUm9xVUQ0MkEwbmRuWElzcEtIYWpOTWk0NA?oc=5\" target=\"_blank\">GNTC Automation Technology Students Have Bright Future At Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chattanoogan.com Breaking News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-18T16:23:28+00:00"
+        "collected_at": "2026-08-18T18:28:01+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 43,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "4c321ea858b80262",
         "title": "AEP Transmission - Department of Energy (.gov)",

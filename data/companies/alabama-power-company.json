@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-18T16:23:12+00:00",
+  "last_updated": "2026-08-18T18:27:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 239,
+  "count": 240,
   "mentions": [
     {
       "id": "a787e8b771674d92",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-14T20:24:20+00:00"
+    },
+    {
+      "id": "8326f6ef059c7843",
+      "title": "Southern Company - energy.gov",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jb1ZpLUhtUjBiRXpkdlVJakdzRkM0M0owZUMyMms3UnlYcDdFNXZkWjhiRDc4RDdnNGVuem1lRU1STFVsX2FVVm1maGZqV0RXeHlMeWhR?oc=5",
+      "domain": "news.google.com",
+      "source": "energy.gov",
+      "language": "English",
+      "published_at": "2026-08-14T10:00:00+00:00",
+      "summary": "Southern Company energy.gov",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jb1ZpLUhtUjBiRXpkdlVJakdzRkM0M0owZUMyMms3UnlYcDdFNXZkWjhiRDc4RDdnNGVuem1lRU1STFVsX2FVVm1maGZqV0RXeHlMeWhR?oc=5\" target=\"_blank\">Southern Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energy.gov</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-18T18:27:45+00:00"
     },
     {
       "id": "9704ef4a658778eb",

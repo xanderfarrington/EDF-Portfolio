@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-08-18T16:23:23+00:00",
+  "last_updated": "2026-08-18T18:27:55+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 83,
+  "count": 85,
   "mentions": [
+    {
+      "id": "d8093fd1912710d0",
+      "title": "Massive transformer delivery marks milestone in Crane Clean Energy Center restart - wgal.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNU5fZmpBOTFGTEVzVlJNclpWVVh4a3I1dEk0Z2pCcksyTDhERDF3d0R4d1loXzBEelJLc054aV9WVVMtUjlFVFZRX2Z5blIya3JKcUViMndXNmp4by1qUGxkM3AtVEZ5NjRnTDBOU1NJcUcxVmZtaFpwLW85Z0Fmc2I4RFYybV9tVHQ1Q0NsYlZLajZLRTk3WF9pcVZOa1dw?oc=5",
+      "domain": "news.google.com",
+      "source": "wgal.com",
+      "language": "English",
+      "published_at": "2026-08-17T23:07:00+00:00",
+      "summary": "Massive transformer delivery marks milestone in Crane Clean Energy Center restart wgal.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNU5fZmpBOTFGTEVzVlJNclpWVVh4a3I1dEk0Z2pCcksyTDhERDF3d0R4d1loXzBEelJLc054aV9WVVMtUjlFVFZRX2Z5blIya3JKcUViMndXNmp4by1qUGxkM3AtVEZ5NjRnTDBOU1NJcUcxVmZtaFpwLW85Z0Fmc2I4RFYybV9tVHQ1Q0NsYlZLajZLRTk3WF9pcVZOa1dw?oc=5\" target=\"_blank\">Massive transformer delivery marks milestone in Crane Clean Energy Center restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wgal.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-18T18:27:55+00:00"
+    },
     {
       "id": "d2f5e15ae74ba2c1",
       "title": "Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward - fox43.com",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-17T20:19:06+00:00"
+    },
+    {
+      "id": "1917185a54b76a0d",
+      "title": "Transformer delivery brings Three Mile Island restart one step closer to reality - penncapital-star.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR05XckFTN3pkRjA5RFZTbGJYR2MxOEp6bC1ESXhDU3QxSW41SDBaNnNkdUJralAtdE1SbmMwWkFSVi1DeVVxQURVbkVtMXV4WC1LUllOZVRlOXFuSndKZW1nTkxDZnkyRzBNbU5vTzJLb2NTLXZPUlNlU0tmbVRCNnQybG5FMVppTEY0MzRPVEZSNGkzTF9ZT3Y0S3VWeDdnS2dVcTZySTNkakFqczBjQmxxdWdBZ0I0Ty1MUm5qVkxnRnZGTlRuVw?oc=5",
+      "domain": "news.google.com",
+      "source": "penncapital-star.com",
+      "language": "English",
+      "published_at": "2026-08-17T18:39:07+00:00",
+      "summary": "Transformer delivery brings Three Mile Island restart one step closer to reality penncapital-star.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR05XckFTN3pkRjA5RFZTbGJYR2MxOEp6bC1ESXhDU3QxSW41SDBaNnNkdUJralAtdE1SbmMwWkFSVi1DeVVxQURVbkVtMXV4WC1LUllOZVRlOXFuSndKZW1nTkxDZnkyRzBNbU5vTzJLb2NTLXZPUlNlU0tmbVRCNnQybG5FMVppTEY0MzRPVEZSNGkzTF9ZT3Y0S3VWeDdnS2dVcTZySTNkakFqczBjQmxxdWdBZ0I0Ty1MUm5qVkxnRnZGTlRuVw?oc=5\" target=\"_blank\">Transformer delivery brings Three Mile Island restart one step closer to reality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">penncapital-star.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-18T18:27:55+00:00"
     },
     {
       "id": "aeb4ade0aec426dd",

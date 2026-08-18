@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-18T16:23:28+00:00",
+  "last_updated": "2026-08-18T18:28:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 436,
+  "count": 437,
   "mentions": [
+    {
+      "id": "5a458a8418b4a044",
+      "title": "GNTC Automation Technology Students Have Bright Future At Georgia Power - Chattanoogan.com Breaking News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2NXZ1lNd1M5bk1PS0dWalNzRVBfbjNtd3N6U1J1NGJ4RldhR3Azdm9lOXBSN25HblF5TXd3Y0xudmpuQl9RcFN3Z2JUVWExd0xjVVVBUm1YWGRhaExQMkFZRUZ2enJENlFISFMxQkQyNE9hY3NLUm9xVUQ0MkEwbmRuWElzcEtIYWpOTWk0NA?oc=5",
+      "domain": "news.google.com",
+      "source": "Chattanoogan.com Breaking News",
+      "language": "English",
+      "published_at": "2026-08-18T15:53:20+00:00",
+      "summary": "GNTC Automation Technology Students Have Bright Future At Georgia Power Chattanoogan.com Breaking News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2NXZ1lNd1M5bk1PS0dWalNzRVBfbjNtd3N6U1J1NGJ4RldhR3Azdm9lOXBSN25HblF5TXd3Y0xudmpuQl9RcFN3Z2JUVWExd0xjVVVBUm1YWGRhaExQMkFZRUZ2enJENlFISFMxQkQyNE9hY3NLUm9xVUQ0MkEwbmRuWElzcEtIYWpOTWk0NA?oc=5\" target=\"_blank\">GNTC Automation Technology Students Have Bright Future At Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chattanoogan.com Breaking News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-18T18:28:01+00:00"
+    },
     {
       "id": "94358e7c2138eafd",
       "title": "GNTC Automation Technology students have bright future at Georgia Power - The Rome News-Tribune",
