@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T04:29:05+00:00",
+  "last_updated": "2026-08-18T06:32:14+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 81,
+      "count": 82,
       "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "d2f5e15ae74ba2c1",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 43,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "4c321ea858b80262",
         "title": "AEP Transmission - Department of Energy (.gov)",
