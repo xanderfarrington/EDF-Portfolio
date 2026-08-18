@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T18:28:11+00:00",
+  "last_updated": "2026-08-18T20:16:07+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 240,
+      "count": 241,
       "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "a787e8b771674d92",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 85,
+      "count": 86,
       "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "d8093fd1912710d0",
