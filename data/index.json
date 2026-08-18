@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T20:16:07+00:00",
+  "last_updated": "2026-08-18T22:16:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -68,21 +68,21 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 86,
-      "new_mentions_this_run": 9,
+      "count": 87,
+      "new_mentions_this_run": 10,
       "latest_mention": {
-        "id": "d8093fd1912710d0",
-        "title": "Massive transformer delivery marks milestone in Crane Clean Energy Center restart - wgal.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNU5fZmpBOTFGTEVzVlJNclpWVVh4a3I1dEk0Z2pCcksyTDhERDF3d0R4d1loXzBEelJLc054aV9WVVMtUjlFVFZRX2Z5blIya3JKcUViMndXNmp4by1qUGxkM3AtVEZ5NjRnTDBOU1NJcUcxVmZtaFpwLW85Z0Fmc2I4RFYybV9tVHQ1Q0NsYlZLajZLRTk3WF9pcVZOa1dw?oc=5",
+        "id": "512468455fd03c04",
+        "title": "Transformer delivery brings Three Mile Island restart one step closer to reality - The Frederick News-Post",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeF9FY1ZSd3hOVXNkbk5abVdEMXB3RDEzd180MTBwM1paRGtBM0ptRFlqRmFOdjBrbHRVMDVXdXY1SWpvRFFfamwtaGtrRHo1em9LREhwOXBtQ3oxRkJpajVKVjdTYjU1dkItS1ZIUDhFVEdEa1g1cW9HOV9LM0M0QS1NOEUtVUxUWklKZXV5cnphZ1l3RnpQOTBZeXBsZlRaRGJFZ1B6ZndMM2xSZnBGLVJjTE1lWDJHRU4yTThnQTIyQy1NbFV2VV9IdlVrUW1fczZMMDVYeFZiZWY5ekNkbjFEb2ljSjFSUjRnbVRHR1k3VzZsU2cxT2pDX0dQZHNHMkp6dDNhbDVCcjJFS3hXOVMwUjlmUE13ZUE?oc=5",
         "domain": "news.google.com",
-        "source": "wgal.com",
+        "source": "The Frederick News-Post",
         "language": "English",
-        "published_at": "2026-08-17T23:07:00+00:00",
-        "summary": "Massive transformer delivery marks milestone in Crane Clean Energy Center restart wgal.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNU5fZmpBOTFGTEVzVlJNclpWVVh4a3I1dEk0Z2pCcksyTDhERDF3d0R4d1loXzBEelJLc054aV9WVVMtUjlFVFZRX2Z5blIya3JKcUViMndXNmp4by1qUGxkM3AtVEZ5NjRnTDBOU1NJcUcxVmZtaFpwLW85Z0Fmc2I4RFYybV9tVHQ1Q0NsYlZLajZLRTk3WF9pcVZOa1dw?oc=5\" target=\"_blank\">Massive transformer delivery marks milestone in Crane Clean Energy Center restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wgal.com</font>",
+        "published_at": "2026-08-18T14:45:00+00:00",
+        "summary": "Transformer delivery brings Three Mile Island restart one step closer to reality The Frederick News-Post",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxPeF9FY1ZSd3hOVXNkbk5abVdEMXB3RDEzd180MTBwM1paRGtBM0ptRFlqRmFOdjBrbHRVMDVXdXY1SWpvRFFfamwtaGtrRHo1em9LREhwOXBtQ3oxRkJpajVKVjdTYjU1dkItS1ZIUDhFVEdEa1g1cW9HOV9LM0M0QS1NOEUtVUxUWklKZXV5cnphZ1l3RnpQOTBZeXBsZlRaRGJFZ1B6ZndMM2xSZnBGLVJjTE1lWDJHRU4yTThnQTIyQy1NbFV2VV9IdlVrUW1fczZMMDVYeFZiZWY5ekNkbjFEb2ljSjFSUjRnbVRHR1k3VzZsU2cxT2pDX0dQZHNHMkp6dDNhbDVCcjJFS3hXOVMwUjlmUE13ZUE?oc=5\" target=\"_blank\">Transformer delivery brings Three Mile Island restart one step closer to reality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Frederick News-Post</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-18T18:27:55+00:00"
+        "collected_at": "2026-08-18T22:16:01+00:00"
       }
     },
     {
