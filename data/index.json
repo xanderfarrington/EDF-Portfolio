@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T00:53:04+00:00",
+  "last_updated": "2026-08-19T02:52:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 242,
-      "new_mentions_this_run": 17,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "a787e8b771674d92",
         "title": "Keeping Alabama’s lights on: The people and power behind Alabama Power’s reliability - Yellowhammer News",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 437,
+      "count": 438,
       "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "5a458a8418b4a044",

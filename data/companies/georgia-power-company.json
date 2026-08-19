@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-19T00:52:53+00:00",
+  "last_updated": "2026-08-19T02:51:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 437,
+  "count": 438,
   "mentions": [
     {
       "id": "5a458a8418b4a044",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-18T16:23:28+00:00"
+    },
+    {
+      "id": "3b22c84c826c7b67",
+      "title": "Georgia PSC Extends Review of Hyperscale Data Center Contract - rtoinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQem4wS1cxbmYzSFVKREdVVTQ3azdYMHdfWVUycW1LTFh3akRXcUN1SHZVWnVpT1h3NnY4ek80YmVaeUcwSkdzT3FrVzVPOFhxZHBiUllrUEUwNDI2SFlYZ3NLcWdKenFKb3k2OERsUGR6TWVMQmFDY21ZQ1o4TjBWS1ZTaTZRMGNqR0YzaWdxOVp6YUoycGwwTg?oc=5",
+      "domain": "news.google.com",
+      "source": "rtoinsider.com",
+      "language": "English",
+      "published_at": "2026-08-18T00:53:03+00:00",
+      "summary": "Georgia PSC Extends Review of Hyperscale Data Center Contract rtoinsider.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQem4wS1cxbmYzSFVKREdVVTQ3azdYMHdfWVUycW1LTFh3akRXcUN1SHZVWnVpT1h3NnY4ek80YmVaeUcwSkdzT3FrVzVPOFhxZHBiUllrUEUwNDI2SFlYZ3NLcWdKenFKb3k2OERsUGR6TWVMQmFDY21ZQ1o4TjBWS1ZTaTZRMGNqR0YzaWdxOVp6YUoycGwwTg?oc=5\" target=\"_blank\">Georgia PSC Extends Review of Hyperscale Data Center Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rtoinsider.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-19T02:51:56+00:00"
     },
     {
       "id": "2de076e66ff2f3f3",
