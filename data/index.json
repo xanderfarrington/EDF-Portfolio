@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-19T08:29:12+00:00",
+  "last_updated": "2026-08-19T10:21:55+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 80,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 242,
-      "new_mentions_this_run": 15,
+      "count": 243,
+      "new_mentions_this_run": 17,
       "latest_mention": {
-        "id": "a787e8b771674d92",
-        "title": "Keeping Alabama’s lights on: The people and power behind Alabama Power’s reliability - Yellowhammer News",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUFZU2JqR1Qya1FWUEJQMEFTcDJPdUJtSi01VjdteTd2Zi1sVVNjTk5NWThSdU1RdFh3NUltQ0NiLWpJNGFucmJ6WVhPQ0pYMDVQbTNhTUgtUTh0Z19SU291YWNNZGdvUVVlRUxrMXFmVjkzVW16SEFVTE5BeEh0djdVUjR4UnBrTDg5aTBCMC1NSFc4bWxBb2xrNDRDWmFvX1cxcUhKQjhjVHBtN3FqRQ?oc=5",
+        "id": "493f37eaf80626b2",
+        "title": "Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay? - Inside Climate News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1FVc3V2SmZRMnFHTlNYSUFBTU1HR3FwTWlFYlkwa2h6dTNnS3RJd1Bwb0FLMHR1c1dzSktlcmdQd3hjY1JIcW94YlpOc1FrelJoRnRrejNrSFRvZ2taMk9CUXVVTUhqOVczT3JEWjdrTzR3OExHUjNrbUdVTkIzQTUzY25xR3lSZnQ5YTNvZzlBWG9FSWdWNjB3?oc=5",
         "domain": "news.google.com",
-        "source": "Yellowhammer News",
+        "source": "Inside Climate News",
         "language": "English",
-        "published_at": "2026-08-17T18:41:18+00:00",
-        "summary": "Keeping Alabama’s lights on: The people and power behind Alabama Power’s reliability Yellowhammer News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUFZU2JqR1Qya1FWUEJQMEFTcDJPdUJtSi01VjdteTd2Zi1sVVNjTk5NWThSdU1RdFh3NUltQ0NiLWpJNGFucmJ6WVhPQ0pYMDVQbTNhTUgtUTh0Z19SU291YWNNZGdvUVVlRUxrMXFmVjkzVW16SEFVTE5BeEh0djdVUjR4UnBrTDg5aTBCMC1NSFc4bWxBb2xrNDRDWmFvX1cxcUhKQjhjVHBtN3FqRQ?oc=5\" target=\"_blank\">Keeping Alabama’s lights on: The people and power behind Alabama Power’s reliability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellowhammer News</font>",
+        "published_at": "2026-08-19T09:00:00+00:00",
+        "summary": "Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay? Inside Climate News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1FVc3V2SmZRMnFHTlNYSUFBTU1HR3FwTWlFYlkwa2h6dTNnS3RJd1Bwb0FLMHR1c1dzSktlcmdQd3hjY1JIcW94YlpOc1FrelJoRnRrejNrSFRvZ2taMk9CUXVVTUhqOVczT3JEWjdrTzR3OExHUjNrbUdVTkIzQTUzY25xR3lSZnQ5YTNvZzlBWG9FSWdWNjB3?oc=5\" target=\"_blank\">Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-17T20:18:55+00:00"
+        "collected_at": "2026-08-19T10:21:26+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 440,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "f42af9c8f4b0c0f8",
         "title": "GNTC Automation Technology students have bright future at Georgia Power - coosavalleynews.com",

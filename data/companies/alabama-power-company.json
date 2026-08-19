@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-19T08:28:45+00:00",
+  "last_updated": "2026-08-19T10:21:26+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 242,
+  "count": 243,
   "mentions": [
+    {
+      "id": "493f37eaf80626b2",
+      "title": "Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay? - Inside Climate News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1FVc3V2SmZRMnFHTlNYSUFBTU1HR3FwTWlFYlkwa2h6dTNnS3RJd1Bwb0FLMHR1c1dzSktlcmdQd3hjY1JIcW94YlpOc1FrelJoRnRrejNrSFRvZ2taMk9CUXVVTUhqOVczT3JEWjdrTzR3OExHUjNrbUdVTkIzQTUzY25xR3lSZnQ5YTNvZzlBWG9FSWdWNjB3?oc=5",
+      "domain": "news.google.com",
+      "source": "Inside Climate News",
+      "language": "English",
+      "published_at": "2026-08-19T09:00:00+00:00",
+      "summary": "Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay? Inside Climate News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1FVc3V2SmZRMnFHTlNYSUFBTU1HR3FwTWlFYlkwa2h6dTNnS3RJd1Bwb0FLMHR1c1dzSktlcmdQd3hjY1JIcW94YlpOc1FrelJoRnRrejNrSFRvZ2taMk9CUXVVTUhqOVczT3JEWjdrTzR3OExHUjNrbUdVTkIzQTUzY25xR3lSZnQ5YTNvZzlBWG9FSWdWNjB3?oc=5\" target=\"_blank\">Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-19T10:21:26+00:00"
+    },
     {
       "id": "a787e8b771674d92",
       "title": "Keeping Alabama’s lights on: The people and power behind Alabama Power’s reliability - Yellowhammer News",
