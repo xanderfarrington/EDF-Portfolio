@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T02:52:06+00:00",
+  "last_updated": "2026-08-19T04:31:05+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 87,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "512468455fd03c04",
         "title": "Transformer delivery brings Three Mile Island restart one step closer to reality - The Frederick News-Post",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 438,
-      "new_mentions_this_run": 22,
+      "count": 439,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "5a458a8418b4a044",
-        "title": "GNTC Automation Technology Students Have Bright Future At Georgia Power - Chattanoogan.com Breaking News",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2NXZ1lNd1M5bk1PS0dWalNzRVBfbjNtd3N6U1J1NGJ4RldhR3Azdm9lOXBSN25HblF5TXd3Y0xudmpuQl9RcFN3Z2JUVWExd0xjVVVBUm1YWGRhaExQMkFZRUZ2enJENlFISFMxQkQyNE9hY3NLUm9xVUQ0MkEwbmRuWElzcEtIYWpOTWk0NA?oc=5",
+        "id": "f42af9c8f4b0c0f8",
+        "title": "GNTC Automation Technology students have bright future at Georgia Power - coosavalleynews.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRl9DTWh5Qi1pX0N3elRPUTFTejN6ZldiRUVJQzRydjFTeU9Xb0dxOXlCbU9BakM5RVNLal9mdUVpOV8tSmN2akFFelBVNFZFVWxUMEpCaW5tWm4tbkFkaEpIWTA3Qy03cDVJN0I4RUw1TG8xUVRFYzl3bm9VUm1UQnQ3bDJCSnF5b3VaM3RBZWJGRWl4U1VWSDB0WlRYUVhXU2pLMVh3Uk9TYU94?oc=5",
         "domain": "news.google.com",
-        "source": "Chattanoogan.com Breaking News",
+        "source": "coosavalleynews.com",
         "language": "English",
-        "published_at": "2026-08-18T15:53:20+00:00",
-        "summary": "GNTC Automation Technology Students Have Bright Future At Georgia Power Chattanoogan.com Breaking News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2NXZ1lNd1M5bk1PS0dWalNzRVBfbjNtd3N6U1J1NGJ4RldhR3Azdm9lOXBSN25HblF5TXd3Y0xudmpuQl9RcFN3Z2JUVWExd0xjVVVBUm1YWGRhaExQMkFZRUZ2enJENlFISFMxQkQyNE9hY3NLUm9xVUQ0MkEwbmRuWElzcEtIYWpOTWk0NA?oc=5\" target=\"_blank\">GNTC Automation Technology Students Have Bright Future At Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chattanoogan.com Breaking News</font>",
+        "published_at": "2026-08-19T04:13:04+00:00",
+        "summary": "GNTC Automation Technology students have bright future at Georgia Power coosavalleynews.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPRl9DTWh5Qi1pX0N3elRPUTFTejN6ZldiRUVJQzRydjFTeU9Xb0dxOXlCbU9BakM5RVNLal9mdUVpOV8tSmN2akFFelBVNFZFVWxUMEpCaW5tWm4tbkFkaEpIWTA3Qy03cDVJN0I4RUw1TG8xUVRFYzl3bm9VUm1UQnQ3bDJCSnF5b3VaM3RBZWJGRWl4U1VWSDB0WlRYUVhXU2pLMVh3Uk9TYU94?oc=5\" target=\"_blank\">GNTC Automation Technology students have bright future at Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">coosavalleynews.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-18T18:28:01+00:00"
+        "collected_at": "2026-08-19T04:30:55+00:00"
       }
     },
     {
