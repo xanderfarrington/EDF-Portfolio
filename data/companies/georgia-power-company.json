@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-19T06:32:56+00:00",
+  "last_updated": "2026-08-19T08:29:02+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 439,
+  "count": 440,
   "mentions": [
     {
       "id": "f42af9c8f4b0c0f8",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-19T04:30:55+00:00"
+    },
+    {
+      "id": "cbdd7f04fd1298ec",
+      "title": "GNTC Automation Technology students have bright future at Georgia Power - Coosa Valley News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRl9DTWh5Qi1pX0N3elRPUTFTejN6ZldiRUVJQzRydjFTeU9Xb0dxOXlCbU9BakM5RVNLal9mdUVpOV8tSmN2akFFelBVNFZFVWxUMEpCaW5tWm4tbkFkaEpIWTA3Qy03cDVJN0I4RUw1TG8xUVRFYzl3bm9VUm1UQnQ3bDJCSnF5b3VaM3RBZWJGRWl4U1VWSDB0WlRYUVhXU2pLMVh3Uk9TYU94?oc=5",
+      "domain": "news.google.com",
+      "source": "Coosa Valley News",
+      "language": "English",
+      "published_at": "2026-08-19T04:13:04+00:00",
+      "summary": "GNTC Automation Technology students have bright future at Georgia Power Coosa Valley News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPRl9DTWh5Qi1pX0N3elRPUTFTejN6ZldiRUVJQzRydjFTeU9Xb0dxOXlCbU9BakM5RVNLal9mdUVpOV8tSmN2akFFelBVNFZFVWxUMEpCaW5tWm4tbkFkaEpIWTA3Qy03cDVJN0I4RUw1TG8xUVRFYzl3bm9VUm1UQnQ3bDJCSnF5b3VaM3RBZWJGRWl4U1VWSDB0WlRYUVhXU2pLMVh3Uk9TYU94?oc=5\" target=\"_blank\">GNTC Automation Technology students have bright future at Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coosa Valley News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-19T08:29:02+00:00"
     },
     {
       "id": "5a458a8418b4a044",
