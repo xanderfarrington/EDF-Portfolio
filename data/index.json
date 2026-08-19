@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T04:31:05+00:00",
+  "last_updated": "2026-08-19T06:33:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -68,8 +68,8 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 87,
-      "new_mentions_this_run": 9,
+      "count": 89,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "512468455fd03c04",
         "title": "Transformer delivery brings Three Mile Island restart one step closer to reality - The Frederick News-Post",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 439,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "f42af9c8f4b0c0f8",
         "title": "GNTC Automation Technology students have bright future at Georgia Power - coosavalleynews.com",

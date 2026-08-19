@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-08-19T04:30:49+00:00",
+  "last_updated": "2026-08-19T06:32:50+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 87,
+  "count": 89,
   "mentions": [
     {
       "id": "512468455fd03c04",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-18T18:27:55+00:00"
+    },
+    {
+      "id": "886b8febaa011c07",
+      "title": "Massive transformer delivery marks milestone in Crane Clean Energy Center restart - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb2tqdGNPbDZUeUhQTk45d194dTZwaHdyWlpRdnMxWnJGOWZJd1J4SmVpQXNKX2xIcTJXcndISEhKZmFvZ1dYc2ppNmZEaTBuRG1uTVk5cWVOQ2xSV0RNZThYakJPaTBXU3JyV0U4Z19PdlV0Tnc0LTR5eGhJZXFEMzF5c3BkRFM2aDh5V1dhWUZjN05Vd1JVTA?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-08-17T22:27:14+00:00",
+      "summary": "Massive transformer delivery marks milestone in Crane Clean Energy Center restart Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNb2tqdGNPbDZUeUhQTk45d194dTZwaHdyWlpRdnMxWnJGOWZJd1J4SmVpQXNKX2xIcTJXcndISEhKZmFvZ1dYc2ppNmZEaTBuRG1uTVk5cWVOQ2xSV0RNZThYakJPaTBXU3JyV0U4Z19PdlV0Tnc0LTR5eGhJZXFEMzF5c3BkRFM2aDh5V1dhWUZjN05Vd1JVTA?oc=5\" target=\"_blank\">Massive transformer delivery marks milestone in Crane Clean Energy Center restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-19T06:32:50+00:00"
     },
     {
       "id": "d2f5e15ae74ba2c1",
@@ -243,6 +257,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-14T04:00:27+00:00"
+    },
+    {
+      "id": "ce7f7eaefd0a0b26",
+      "title": "Concern persists as former Three Mile Island nuclear plant progresses toward 2027 restart - Pennsylvania Capital-Star",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOTQxUzc1Z2FEN1Ria0xzd3l6U3pkbXUwM0RkRGw5enQtUkNhRTNRN2NsZnk5RmxBWVZqaGtUU1RXOVF3UkQ5MkZrZWZ5QmR5MnJISXVxUkFmYjRtYm1TMTlpOUd4T1hSYi1vQ216amsxdlQ0R09UWk5GdnZUbnVIVzlxRlhSTi1mVlVtdGtyTExBdXpqSjBLUjFCMTJjWGxmdzdqc3JPdC1qY0daUGpOR1hNbGVZb0IwMHhj?oc=5",
+      "domain": "news.google.com",
+      "source": "Pennsylvania Capital-Star",
+      "language": "English",
+      "published_at": "2026-07-29T07:00:00+00:00",
+      "summary": "Concern persists as former Three Mile Island nuclear plant progresses toward 2027 restart Pennsylvania Capital-Star",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOTQxUzc1Z2FEN1Ria0xzd3l6U3pkbXUwM0RkRGw5enQtUkNhRTNRN2NsZnk5RmxBWVZqaGtUU1RXOVF3UkQ5MkZrZWZ5QmR5MnJISXVxUkFmYjRtYm1TMTlpOUd4T1hSYi1vQ216amsxdlQ0R09UWk5GdnZUbnVIVzlxRlhSTi1mVlVtdGtyTExBdXpqSjBLUjFCMTJjWGxmdzdqc3JPdC1qY0daUGpOR1hNbGVZb0IwMHhj?oc=5\" target=\"_blank\">Concern persists as former Three Mile Island nuclear plant progresses toward 2027 restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pennsylvania Capital-Star</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-19T06:32:50+00:00"
     },
     {
       "id": "7128b49a56483bfa",
