@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-08-19T10:21:38+00:00",
+  "last_updated": "2026-08-19T12:33:10+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 89,
+  "count": 92,
   "mentions": [
     {
       "id": "512468455fd03c04",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-19T06:32:50+00:00"
+    },
+    {
+      "id": "e259c526f9d90e19",
+      "title": "Massive transformer delivery marks milestone in Crane Clean Energy Center restart - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb2tqdGNPbDZUeUhQTk45d194dTZwaHdyWlpRdnMxWnJGOWZJd1J4SmVpQXNKX2xIcTJXcndISEhKZmFvZ1dYc2ppNmZEaTBuRG1uTVk5cWVOQ2xSV0RNZThYakJPaTBXU3JyV0U4Z19PdlV0Tnc0LTR5eGhJZXFEMzF5c3BkRFM2aDh5V1dhWUZjN05Vd1JVTA?oc=5",
+      "domain": "news.google.com",
+      "source": "yahoo.com",
+      "language": "English",
+      "published_at": "2026-08-17T22:27:14+00:00",
+      "summary": "Massive transformer delivery marks milestone in Crane Clean Energy Center restart yahoo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNb2tqdGNPbDZUeUhQTk45d194dTZwaHdyWlpRdnMxWnJGOWZJd1J4SmVpQXNKX2xIcTJXcndISEhKZmFvZ1dYc2ppNmZEaTBuRG1uTVk5cWVOQ2xSV0RNZThYakJPaTBXU3JyV0U4Z19PdlV0Tnc0LTR5eGhJZXFEMzF5c3BkRFM2aDh5V1dhWUZjN05Vd1JVTA?oc=5\" target=\"_blank\">Massive transformer delivery marks milestone in Crane Clean Energy Center restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-19T12:33:10+00:00"
     },
     {
       "id": "d2f5e15ae74ba2c1",
@@ -117,6 +131,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-18T12:32:41+00:00"
+    },
+    {
+      "id": "d33d4bfd6e2dc346",
+      "title": "Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjItSmZkVnQ5RWRYc3NZODZmdkZkNE90NnY3YndKWVBCZTlWajl6Nlk3alZYV2h1aHMtVjFBZl9peW44bmxJN0tlLXdFTWVZQUcwNjVIcTExX1hUUGlGWV9aWVlmU1FDZmlrUFh2ZDNIcG43RFpMOGRiemo5Wm9iNVhNa3J2TDdlUWtrUW5IaW5lM2ZZWnc?oc=5",
+      "domain": "news.google.com",
+      "source": "yahoo.com",
+      "language": "English",
+      "published_at": "2026-08-17T17:42:25+00:00",
+      "summary": "Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward yahoo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjItSmZkVnQ5RWRYc3NZODZmdkZkNE90NnY3YndKWVBCZTlWajl6Nlk3alZYV2h1aHMtVjFBZl9peW44bmxJN0tlLXdFTWVZQUcwNjVIcTExX1hUUGlGWV9aWVlmU1FDZmlrUFh2ZDNIcG43RFpMOGRiemo5Wm9iNVhNa3J2TDdlUWtrUW5IaW5lM2ZZWnc?oc=5\" target=\"_blank\">Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-19T12:33:10+00:00"
+    },
+    {
+      "id": "782929bbaffac7da",
+      "title": "Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSl9sQW1MSUhzcVZlTWdjU3lXc2dSVVNFaWVRS2tIUXliaWtNQllOU09tQmQ0Sk1GUVEyVU5sV1lmYUxnUDVhWHNLY3U3UHo3WjVMYkpVOFBxckpDQ1pQRDgyOUFzUGdDdjVTZEprSWpnNnNjaDMtZWFVMkw1SlM2eTdXYkVzMEdXLTRUbzAxZw?oc=5",
+      "domain": "news.google.com",
+      "source": "yahoo.com",
+      "language": "English",
+      "published_at": "2026-08-17T17:42:25+00:00",
+      "summary": "Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward yahoo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSl9sQW1MSUhzcVZlTWdjU3lXc2dSVVNFaWVRS2tIUXliaWtNQllOU09tQmQ0Sk1GUVEyVU5sV1lmYUxnUDVhWHNLY3U3UHo3WjVMYkpVOFBxckpDQ1pQRDgyOUFzUGdDdjVTZEprSWpnNnNjaDMtZWFVMkw1SlM2eTdXYkVzMEdXLTRUbzAxZw?oc=5\" target=\"_blank\">Transformer arrives at former Three Mile Island as Crane Clean Energy Center restart moves forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-19T12:33:10+00:00"
     },
     {
       "id": "d2886a395d414541",

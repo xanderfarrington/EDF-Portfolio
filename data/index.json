@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-19T10:21:55+00:00",
+  "last_updated": "2026-08-19T12:33:26+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 80,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 89,
+      "count": 92,
       "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "512468455fd03c04",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 440,
+      "count": 442,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "f42af9c8f4b0c0f8",
-        "title": "GNTC Automation Technology students have bright future at Georgia Power - coosavalleynews.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRl9DTWh5Qi1pX0N3elRPUTFTejN6ZldiRUVJQzRydjFTeU9Xb0dxOXlCbU9BakM5RVNLal9mdUVpOV8tSmN2akFFelBVNFZFVWxUMEpCaW5tWm4tbkFkaEpIWTA3Qy03cDVJN0I4RUw1TG8xUVRFYzl3bm9VUm1UQnQ3bDJCSnF5b3VaM3RBZWJGRWl4U1VWSDB0WlRYUVhXU2pLMVh3Uk9TYU94?oc=5",
+        "id": "886696025e7be45c",
+        "title": "Georgia Power's Learning Power program marks 15 years and 1.5 million Georgia students reached - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGlNcTV0dVBielhaQ21hVDMwSmdicFlNelZaNk9HY296VE1FN09oOFZFVmZQd2N5aFkwSkNSRVdqWjFtbzBpV3owTm1ZZnBqTEVjSHh6SkRUODZCRUdBMUQxUXZpQlMweDR6YmpjREpJcVJoNG5ZV29wVkNrZ2sxdEVWV29rTVFjMVVHZmZIU1RYaWducUw1MURB?oc=5",
         "domain": "news.google.com",
-        "source": "coosavalleynews.com",
+        "source": "Yahoo Finance",
         "language": "English",
-        "published_at": "2026-08-19T04:13:04+00:00",
-        "summary": "GNTC Automation Technology students have bright future at Georgia Power coosavalleynews.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPRl9DTWh5Qi1pX0N3elRPUTFTejN6ZldiRUVJQzRydjFTeU9Xb0dxOXlCbU9BakM5RVNLal9mdUVpOV8tSmN2akFFelBVNFZFVWxUMEpCaW5tWm4tbkFkaEpIWTA3Qy03cDVJN0I4RUw1TG8xUVRFYzl3bm9VUm1UQnQ3bDJCSnF5b3VaM3RBZWJGRWl4U1VWSDB0WlRYUVhXU2pLMVh3Uk9TYU94?oc=5\" target=\"_blank\">GNTC Automation Technology students have bright future at Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">coosavalleynews.com</font>",
+        "published_at": "2026-08-19T12:00:00+00:00",
+        "summary": "Georgia Power's Learning Power program marks 15 years and 1.5 million Georgia students reached Yahoo Finance",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGlNcTV0dVBielhaQ21hVDMwSmdicFlNelZaNk9HY296VE1FN09oOFZFVmZQd2N5aFkwSkNSRVdqWjFtbzBpV3owTm1ZZnBqTEVjSHh6SkRUODZCRUdBMUQxUXZpQlMweDR6YmpjREpJcVJoNG5ZV29wVkNrZ2sxdEVWV29rTVFjMVVHZmZIU1RYaWducUw1MURB?oc=5\" target=\"_blank\">Georgia Power's Learning Power program marks 15 years and 1.5 million Georgia students reached</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-19T04:30:55+00:00"
+        "collected_at": "2026-08-19T12:33:15+00:00"
       }
     },
     {
