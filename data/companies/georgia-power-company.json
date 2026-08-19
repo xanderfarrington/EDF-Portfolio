@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-19T20:19:21+00:00",
+  "last_updated": "2026-08-19T22:18:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 443,
+  "count": 444,
   "mentions": [
+    {
+      "id": "892b967763d82260",
+      "title": "Data centers spur on power grid expansion in Southeast Georgia - Bryan County News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcF9wS012TEtNVUg1cnJROTlZZi1LUHRsMGlGaEFLNmdNb21QdGtfMnVVbEFCdXhScXhvbjRWbVNXVXJnQmo1Z3hxLUdfZ3JnQkxRNVhDQzdFcVU1VjAxNXJ5XzRUd0EzMk5ucVdyMERyY1NXc2ZEX0djUDdRYkpWQ1dURzh6VGhvRks3NU0zM1pGQ3NPWjV4QXI3WmZRdUg4T3c?oc=5",
+      "domain": "news.google.com",
+      "source": "Bryan County News",
+      "language": "English",
+      "published_at": "2026-08-19T21:44:59+00:00",
+      "summary": "Data centers spur on power grid expansion in Southeast Georgia Bryan County News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOcF9wS012TEtNVUg1cnJROTlZZi1LUHRsMGlGaEFLNmdNb21QdGtfMnVVbEFCdXhScXhvbjRWbVNXVXJnQmo1Z3hxLUdfZ3JnQkxRNVhDQzdFcVU1VjAxNXJ5XzRUd0EzMk5ucVdyMERyY1NXc2ZEX0djUDdRYkpWQ1dURzh6VGhvRks3NU0zM1pGQ3NPWjV4QXI3WmZRdUg4T3c?oc=5\" target=\"_blank\">Data centers spur on power grid expansion in Southeast Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bryan County News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-19T22:18:07+00:00"
+    },
     {
       "id": "886696025e7be45c",
       "title": "Georgia Power's Learning Power program marks 15 years and 1.5 million Georgia students reached - Yahoo Finance",

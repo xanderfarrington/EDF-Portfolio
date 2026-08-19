@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T20:19:31+00:00",
+  "last_updated": "2026-08-19T22:18:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 243,
-      "new_mentions_this_run": 17,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "493f37eaf80626b2",
         "title": "Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay? - Inside Climate News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 443,
-      "new_mentions_this_run": 25,
+      "count": 444,
+      "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "886696025e7be45c",
-        "title": "Georgia Power's Learning Power program marks 15 years and 1.5 million Georgia students reached - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGlNcTV0dVBielhaQ21hVDMwSmdicFlNelZaNk9HY296VE1FN09oOFZFVmZQd2N5aFkwSkNSRVdqWjFtbzBpV3owTm1ZZnBqTEVjSHh6SkRUODZCRUdBMUQxUXZpQlMweDR6YmpjREpJcVJoNG5ZV29wVkNrZ2sxdEVWV29rTVFjMVVHZmZIU1RYaWducUw1MURB?oc=5",
+        "id": "892b967763d82260",
+        "title": "Data centers spur on power grid expansion in Southeast Georgia - Bryan County News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcF9wS012TEtNVUg1cnJROTlZZi1LUHRsMGlGaEFLNmdNb21QdGtfMnVVbEFCdXhScXhvbjRWbVNXVXJnQmo1Z3hxLUdfZ3JnQkxRNVhDQzdFcVU1VjAxNXJ5XzRUd0EzMk5ucVdyMERyY1NXc2ZEX0djUDdRYkpWQ1dURzh6VGhvRks3NU0zM1pGQ3NPWjV4QXI3WmZRdUg4T3c?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo Finance",
+        "source": "Bryan County News",
         "language": "English",
-        "published_at": "2026-08-19T12:00:00+00:00",
-        "summary": "Georgia Power's Learning Power program marks 15 years and 1.5 million Georgia students reached Yahoo Finance",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGlNcTV0dVBielhaQ21hVDMwSmdicFlNelZaNk9HY296VE1FN09oOFZFVmZQd2N5aFkwSkNSRVdqWjFtbzBpV3owTm1ZZnBqTEVjSHh6SkRUODZCRUdBMUQxUXZpQlMweDR6YmpjREpJcVJoNG5ZV29wVkNrZ2sxdEVWV29rTVFjMVVHZmZIU1RYaWducUw1MURB?oc=5\" target=\"_blank\">Georgia Power's Learning Power program marks 15 years and 1.5 million Georgia students reached</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "published_at": "2026-08-19T21:44:59+00:00",
+        "summary": "Data centers spur on power grid expansion in Southeast Georgia Bryan County News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOcF9wS012TEtNVUg1cnJROTlZZi1LUHRsMGlGaEFLNmdNb21QdGtfMnVVbEFCdXhScXhvbjRWbVNXVXJnQmo1Z3hxLUdfZ3JnQkxRNVhDQzdFcVU1VjAxNXJ5XzRUd0EzMk5ucVdyMERyY1NXc2ZEX0djUDdRYkpWQ1dURzh6VGhvRks3NU0zM1pGQ3NPWjV4QXI3WmZRdUg4T3c?oc=5\" target=\"_blank\">Data centers spur on power grid expansion in Southeast Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bryan County News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-19T12:33:15+00:00"
+        "collected_at": "2026-08-19T22:18:07+00:00"
       }
     },
     {
