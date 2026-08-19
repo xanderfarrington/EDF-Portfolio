@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-19T18:24:45+00:00",
+  "last_updated": "2026-08-19T20:19:31+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 80,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 243,
-      "new_mentions_this_run": 18,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "493f37eaf80626b2",
         "title": "Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay? - Inside Climate News",
