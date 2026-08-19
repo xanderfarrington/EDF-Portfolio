@@ -1,32 +1,32 @@
 {
-  "last_updated": "2026-08-18T22:16:17+00:00",
+  "last_updated": "2026-08-19T00:53:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 79,
-      "new_mentions_this_run": 4,
+      "count": 80,
+      "new_mentions_this_run": 5,
       "latest_mention": {
-        "id": "f5e1d9ca2efc7c36",
-        "title": "The United States Cancels Three National Interest Electric Transmission Corridors - energynews.pro",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYTI3QlEtYUd2U0VTOFJpM2FCZkEzRzVlT1B0WTJ4ZFdnVUU1SWVSS2J4MGtXamFGdnY1dWVlblRLN21peTN1NnI2U2E0Z0pLOGtkdmwzR3VTei16MGg4clFHUkFHTHd6T1o0c1YtYmVhb1Q5SGgwWngtUjFNUVhWVGctTDVnMWhpd1pWZ21QSnZZVnpfclJQbnVyV0M5d3hiWHZBSlhOVW1NYjg?oc=5",
+        "id": "21b0eacc322a228b",
+        "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFBPYWhkYTROc0lXckM3T0NvZ3NoLWtRd2ZJZ2RJMVFmUFZyZkZWbU94VktVTEdSa1dvQ3czcjhNalBhZWNpUEdIOGZ5Q1JxcVFxbnA1TkMtVHlYeDRvVDdyUHZVZDQ0QkpydEt1M1FIejB5OHlpeXpiXzFmc1FXY25Yb3dWZEhDOXZCVGRWZnhORjRUNXREWjYtVHFYb3pPdVh5N3kzUl8xczNLY2FkSUdWZzhvWW42ZlZmOVhWRVowQ04yWGpLVk5IZElGanp5NExmejg0OTJXQdIB3wFBVV95cUxOYlNJNnJydjdSRjBlVFAtMFZXRXRkV3V2UlNrVHdpU2toZ2c0emo4V3FXa3lpUmZGNmNHYWlCSkJaQl94Z2NxZlRYeGotZEFteFBGSFRTZFdlSjRPZkgxQzlVbjhWd0xmc2dtZ1Z0ajJGbzBQMTRhMVFRcldndzVxQ1FGOWZsd2VvVWlrdHZEWUphNzRaRWllUXdhamFadUFKZi1RaVFQX0YwYjh3amt1R1NOdHJDUFV4djJ0ZkFIV1Z5QVZJLTRjY1dRdkhHa2lTa1dFMFROYWIxTEdvY3dV?oc=5",
         "domain": "news.google.com",
-        "source": "energynews.pro",
+        "source": "simplywall.st",
         "language": "English",
-        "published_at": "2026-08-17T13:32:35+00:00",
-        "summary": "The United States Cancels Three National Interest Electric Transmission Corridors energynews.pro",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYTI3QlEtYUd2U0VTOFJpM2FCZkEzRzVlT1B0WTJ4ZFdnVUU1SWVSS2J4MGtXamFGdnY1dWVlblRLN21peTN1NnI2U2E0Z0pLOGtkdmwzR3VTei16MGg4clFHUkFHTHd6T1o0c1YtYmVhb1Q5SGgwWngtUjFNUVhWVGctTDVnMWhpd1pWZ21QSnZZVnpfclJQbnVyV0M5d3hiWHZBSlhOVW1NYjg?oc=5\" target=\"_blank\">The United States Cancels Three National Interest Electric Transmission Corridors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energynews.pro</font>",
+        "published_at": "2026-08-19T00:35:13+00:00",
+        "summary": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan simplywall.st",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFBPYWhkYTROc0lXckM3T0NvZ3NoLWtRd2ZJZ2RJMVFmUFZyZkZWbU94VktVTEdSa1dvQ3czcjhNalBhZWNpUEdIOGZ5Q1JxcVFxbnA1TkMtVHlYeDRvVDdyUHZVZDQ0QkpydEt1M1FIejB5OHlpeXpiXzFmc1FXY25Yb3dWZEhDOXZCVGRWZnhORjRUNXREWjYtVHFYb3pPdVh5N3kzUl8xczNLY2FkSUdWZzhvWW42ZlZmOVhWRVowQ04yWGpLVk5IZElGanp5NExmejg0OTJXQdIB3wFBVV95cUxOYlNJNnJydjdSRjBlVFAtMFZXRXRkV3V2UlNrVHdpU2toZ2c0emo4V3FXa3lpUmZGNmNHYWlCSkJaQl94Z2NxZlRYeGotZEFteFBGSFRTZFdlSjRPZkgxQzlVbjhWd0xmc2dtZ1Z0ajJGbzBQMTRhMVFRcldndzVxQ1FGOWZsd2VvVWlrdHZEWUphNzRaRWllUXdhamFadUFKZi1RaVFQX0YwYjh3amt1R1NOdHJDUFV4djJ0ZkFIV1Z5QVZJLTRjY1dRdkhHa2lTa1dFMFROYWIxTEdvY3dV?oc=5\" target=\"_blank\">How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-17T14:20:36+00:00"
+        "collected_at": "2026-08-19T00:52:31+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 241,
+      "count": 242,
       "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "a787e8b771674d92",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 437,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "5a458a8418b4a044",
         "title": "GNTC Automation Technology Students Have Bright Future At Georgia Power - Chattanoogan.com Breaking News",
