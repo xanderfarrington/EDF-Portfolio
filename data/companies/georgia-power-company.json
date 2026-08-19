@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-19T16:23:29+00:00",
+  "last_updated": "2026-08-19T18:24:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 442,
+  "count": 443,
   "mentions": [
     {
       "id": "886696025e7be45c",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-19T12:33:15+00:00"
+    },
+    {
+      "id": "0daefab44c4c7834",
+      "title": "Georgia Power's Learning Power program marks 15 years and 1.5 million Georgia students reached - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUEJIZXY4ZFdCZzA5M1pHRmdkeHpRWHZTX0dfSnEteTE2eEkyRHRpZVdwLTdPd200Z1d0VFZmLVVrNUNOLTV5UUVtRmdPd2hWQk1WT1I1VlI1R2xnaVhhR3o5V0FSekFycnpyUjBldWJzRjdJcks4WE91TDNKNTRSM1E1S1BRX01ucEl6amZibkllb2luY1hXX1R6djYwVDFKTnlxb28wclJjM016cXZOOTJQRmRCLVhLUmU1Z1REQWdwQXI3SzJ2bzZXT2JaMjVzcUJlVGRuMkxPR0x4cWhoSnczSQ?oc=5",
+      "domain": "news.google.com",
+      "source": "PR Newswire",
+      "language": "English",
+      "published_at": "2026-08-19T12:00:00+00:00",
+      "summary": "Georgia Power's Learning Power program marks 15 years and 1.5 million Georgia students reached PR Newswire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUEJIZXY4ZFdCZzA5M1pHRmdkeHpRWHZTX0dfSnEteTE2eEkyRHRpZVdwLTdPd200Z1d0VFZmLVVrNUNOLTV5UUVtRmdPd2hWQk1WT1I1VlI1R2xnaVhhR3o5V0FSekFycnpyUjBldWJzRjdJcks4WE91TDNKNTRSM1E1S1BRX01ucEl6amZibkllb2luY1hXX1R6djYwVDFKTnlxb28wclJjM016cXZOOTJQRmRCLVhLUmU1Z1REQWdwQXI3SzJ2bzZXT2JaMjVzcUJlVGRuMkxPR0x4cWhoSnczSQ?oc=5\" target=\"_blank\">Georgia Power's Learning Power program marks 15 years and 1.5 million Georgia students reached</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-19T18:24:34+00:00"
     },
     {
       "id": "f42af9c8f4b0c0f8",
