@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-20T06:34:46+00:00",
+  "last_updated": "2026-08-20T08:29:48+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 244,
+  "count": 245,
   "mentions": [
     {
       "id": "32418d4013a09235",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-20T02:51:00+00:00"
+    },
+    {
+      "id": "c1c578416f7352e1",
+      "title": "Alabama homeowner fights Alabama Power over line he calls 'an invasion' of privacy - The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0EtWGR2RVh5ZTI3RU9ZZHBxUTlVWHpjWnNOdlhJRkFhNGhNdlJTY3BGVjRFZ24xWC0xUl9TSV9WRVZZSXhUblRhNTFMaEFwOF9scERyQXVteHEzMHl5S1RRTVlXVDFhb2NCcF9tSDkwb0ZvaXdydlN3NHNwc2w1QUZR?oc=5",
+      "domain": "news.google.com",
+      "source": "The Cool Down",
+      "language": "English",
+      "published_at": "2026-08-20T01:09:00+00:00",
+      "summary": "Alabama homeowner fights Alabama Power over line he calls 'an invasion' of privacy The Cool Down",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0EtWGR2RVh5ZTI3RU9ZZHBxUTlVWHpjWnNOdlhJRkFhNGhNdlJTY3BGVjRFZ24xWC0xUl9TSV9WRVZZSXhUblRhNTFMaEFwOF9scERyQXVteHEzMHl5S1RRTVlXVDFhb2NCcF9tSDkwb0ZvaXdydlN3NHNwc2w1QUZR?oc=5\" target=\"_blank\">Alabama homeowner fights Alabama Power over line he calls 'an invasion' of privacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cool Down</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-20T08:29:48+00:00"
     },
     {
       "id": "493f37eaf80626b2",

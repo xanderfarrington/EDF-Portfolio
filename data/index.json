@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T06:35:13+00:00",
+  "last_updated": "2026-08-20T08:30:15+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 244,
+      "count": 245,
       "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "32418d4013a09235",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 450,
+      "count": 452,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "33e15c3507d83a6e",
-        "title": "Atlanta United, Georgia Power partner for Augusta youth soccer clinic - wrdw.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR1hwUEloc0lyRkh4S3NxOWhzVWIwM3pQTTJOY1VxaHlPSmNONl9hVGszZDE0c2JuZWhDZE1wYjctc1JCQlVvNVFCX01tOGg3SXJ0MERHSjBCZkR0ZFI2WWI5V21FWEh3XzFsNWIxMkdhUkxZcTJkTTV4el9DOFdrRFFhODhrM29oX1l4Q1dqcnN5NjlnN2I0dlR4ZkpQZ9IBsgFBVV95cUxNOFlxSzBRRXJCRm9acEdQZVlqNV9uRGptZkNJY2d1ZUNXcGU3ZWVUUy1EMEx1N0FrcTdodFR3Ymp3QnY5N0VRU1JSTTRFS0xCVTBXRHFFaGZ0cmZaM3U5TnRzTG82UkdESjV6QTJCSUxEUTZUV3d5UTlDUWN5ZlVOUlVtWDhlaEt2QXd6c251N0xzUHBQQXJjejlFeC1JR0R6d0tNRl9NVlBaaVJFRXNKVnNn?oc=5",
+        "id": "9a4c84159148e94c",
+        "title": "Atlanta United play host to soccer clinic at Augusta Arsenal club - The Augusta Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcENpeTZCb1NlSHpEcGdBS1hYSVZsdWZ5WmdGMjVnbnFLcXFsb1czT2ZVWmUySXFINXY1YkE0YjVQOEVuZ1VJS1ZYQmNHcGhkekhJWW1jNS1ZQTd3THNORFJlOC1GelFOSDlXS2lrN1FnWVlkZkl4S3paYUV3YmhnOFFDWVdUbTBocU96Ykt2SXd4b0M4NnQ0ZjdhZFl0QUZrX1YwQXpiYUtuX2NVek1ORUlnOHVBOHdyT052TkhEUFBJMjlLaUVRUEFiQ2ZNaXpnVGJJ?oc=5",
         "domain": "news.google.com",
-        "source": "wrdw.com",
+        "source": "The Augusta Chronicle",
         "language": "English",
-        "published_at": "2026-08-20T02:59:00+00:00",
-        "summary": "Atlanta United, Georgia Power partner for Augusta youth soccer clinic wrdw.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNR1hwUEloc0lyRkh4S3NxOWhzVWIwM3pQTTJOY1VxaHlPSmNONl9hVGszZDE0c2JuZWhDZE1wYjctc1JCQlVvNVFCX01tOGg3SXJ0MERHSjBCZkR0ZFI2WWI5V21FWEh3XzFsNWIxMkdhUkxZcTJkTTV4el9DOFdrRFFhODhrM29oX1l4Q1dqcnN5NjlnN2I0dlR4ZkpQZ9IBsgFBVV95cUxNOFlxSzBRRXJCRm9acEdQZVlqNV9uRGptZkNJY2d1ZUNXcGU3ZWVUUy1EMEx1N0FrcTdodFR3Ymp3QnY5N0VRU1JSTTRFS0xCVTBXRHFFaGZ0cmZaM3U5TnRzTG82UkdESjV6QTJCSUxEUTZUV3d5UTlDUWN5ZlVOUlVtWDhlaEt2QXd6c251N0xzUHBQQXJjejlFeC1JR0R6d0tNRl9NVlBaaVJFRXNKVnNn?oc=5\" target=\"_blank\">Atlanta United, Georgia Power partner for Augusta youth soccer clinic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wrdw.com</font>",
+        "published_at": "2026-08-20T08:00:00+00:00",
+        "summary": "Atlanta United play host to soccer clinic at Augusta Arsenal club The Augusta Chronicle",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcENpeTZCb1NlSHpEcGdBS1hYSVZsdWZ5WmdGMjVnbnFLcXFsb1czT2ZVWmUySXFINXY1YkE0YjVQOEVuZ1VJS1ZYQmNHcGhkekhJWW1jNS1ZQTd3THNORFJlOC1GelFOSDlXS2lrN1FnWVlkZkl4S3paYUV3YmhnOFFDWVdUbTBocU96Ykt2SXd4b0M4NnQ0ZjdhZFl0QUZrX1YwQXpiYUtuX2NVek1ORUlnOHVBOHdyT052TkhEUFBJMjlLaUVRUEFiQ2ZNaXpnVGJJ?oc=5\" target=\"_blank\">Atlanta United play host to soccer clinic at Augusta Arsenal club</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-20T06:35:03+00:00"
+        "collected_at": "2026-08-20T08:30:04+00:00"
       }
     },
     {
