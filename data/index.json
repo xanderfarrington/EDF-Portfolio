@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T10:22:49+00:00",
+  "last_updated": "2026-08-20T12:35:03+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 245,
-      "new_mentions_this_run": 23,
+      "count": 246,
+      "new_mentions_this_run": 19,
       "latest_mention": {
-        "id": "32418d4013a09235",
-        "title": "Alabama homeowner fights Alabama Power over line he calls 'an invasion' of privacy - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzJBUnVHNnI3UjBMejQ5NkphRXR3U3ByeHlyeUVkUWhzRFhNclJqVVRULVpZN1NmUk1tN3l0Y3Z6cW1iRWpyTGhRaHNtNGt1Y3dZTGtfckJGMWVaSFo3SnNXTjlKbkg4dTFkcjI3X21PZkpoYjYwWm81RjdmSW5aZjdCQjVUdWdSdmtYOTZKU2M3WTg2Q3dN?oc=5",
+        "id": "9252eca0a0177428",
+        "title": "SLEPC, Alabama Power seeking volunteers for Sept. 18 Smith Lake cleanup - The Cullman Tribune",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNS1CbmtEZWtjbFBka2F2LTg4MWltWVEtZTAyXzRuMWt2VlQtYWVJeHZyS19lOTlGeWQ4SzI4VEpsajBKWGFUN1J6cnJvQ3pXYjg1dnYtWVJkWlFxaUI3VnljUzE3OWlsNVB0U1VWZ0tCdG90VERTS0YwLXpnTmlHU3BpZnJpYVNPR0p0Y3BXaE4xdmQ1RFRDRzUwMzJidVdPcUJEQWJMeXQ4N2dUbjJNUTZ3?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo",
+        "source": "The Cullman Tribune",
         "language": "English",
-        "published_at": "2026-08-20T01:09:00+00:00",
-        "summary": "Alabama homeowner fights Alabama Power over line he calls 'an invasion' of privacy Yahoo",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzJBUnVHNnI3UjBMejQ5NkphRXR3U3ByeHlyeUVkUWhzRFhNclJqVVRULVpZN1NmUk1tN3l0Y3Z6cW1iRWpyTGhRaHNtNGt1Y3dZTGtfckJGMWVaSFo3SnNXTjlKbkg4dTFkcjI3X21PZkpoYjYwWm81RjdmSW5aZjdCQjVUdWdSdmtYOTZKU2M3WTg2Q3dN?oc=5\" target=\"_blank\">Alabama homeowner fights Alabama Power over line he calls 'an invasion' of privacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "published_at": "2026-08-20T11:53:52+00:00",
+        "summary": "SLEPC, Alabama Power seeking volunteers for Sept. 18 Smith Lake cleanup The Cullman Tribune",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNS1CbmtEZWtjbFBka2F2LTg4MWltWVEtZTAyXzRuMWt2VlQtYWVJeHZyS19lOTlGeWQ4SzI4VEpsajBKWGFUN1J6cnJvQ3pXYjg1dnYtWVJkWlFxaUI3VnljUzE3OWlsNVB0U1VWZ0tCdG90VERTS0YwLXpnTmlHU3BpZnJpYVNPR0p0Y3BXaE4xdmQ1RFRDRzUwMzJidVdPcUJEQWJMeXQ4N2dUbjJNUTZ3?oc=5\" target=\"_blank\">SLEPC, Alabama Power seeking volunteers for Sept. 18 Smith Lake cleanup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cullman Tribune</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-20T02:51:00+00:00"
+        "collected_at": "2026-08-20T12:34:36+00:00"
       }
     },
     {
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 92,
+      "count": 94,
       "new_mentions_this_run": 12,
       "latest_mention": {
         "id": "512468455fd03c04",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 44,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "4c321ea858b80262",
         "title": "AEP Transmission - Department of Energy (.gov)",
