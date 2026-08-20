@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T04:30:30+00:00",
+  "last_updated": "2026-08-20T06:35:13+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 449,
+      "count": 450,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "c8633a0de2683f80",
+        "id": "33e15c3507d83a6e",
         "title": "Atlanta United, Georgia Power partner for Augusta youth soccer clinic - wrdw.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFM3ZFkxa3p4d0N3bDJrX3J1aXVYUmU3akNCMDhoZDZDU0dXV1hxLU5wb3g3NjhiNVJXQnBkYVBlRkpmLWQyZjVKSjdBbi1yY0U0UlQ3aGZlOW1EelFyZTNjanU4RjRzRmU4LVNIS2c0cFMzSnpBYjBYbmRKeWNucVZSVkhVWGY2S0RUUFlVUDduVGtWNmFTMlMtZ2hkcVBiVk5wS013?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR1hwUEloc0lyRkh4S3NxOWhzVWIwM3pQTTJOY1VxaHlPSmNONl9hVGszZDE0c2JuZWhDZE1wYjctc1JCQlVvNVFCX01tOGg3SXJ0MERHSjBCZkR0ZFI2WWI5V21FWEh3XzFsNWIxMkdhUkxZcTJkTTV4el9DOFdrRFFhODhrM29oX1l4Q1dqcnN5NjlnN2I0dlR4ZkpQZ9IBsgFBVV95cUxNOFlxSzBRRXJCRm9acEdQZVlqNV9uRGptZkNJY2d1ZUNXcGU3ZWVUUy1EMEx1N0FrcTdodFR3Ymp3QnY5N0VRU1JSTTRFS0xCVTBXRHFFaGZ0cmZaM3U5TnRzTG82UkdESjV6QTJCSUxEUTZUV3d5UTlDUWN5ZlVOUlVtWDhlaEt2QXd6c251N0xzUHBQQXJjejlFeC1JR0R6d0tNRl9NVlBaaVJFRXNKVnNn?oc=5",
         "domain": "news.google.com",
         "source": "wrdw.com",
         "language": "English",
-        "published_at": "2026-08-20T02:58:00+00:00",
+        "published_at": "2026-08-20T02:59:00+00:00",
         "summary": "Atlanta United, Georgia Power partner for Augusta youth soccer clinic wrdw.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFM3ZFkxa3p4d0N3bDJrX3J1aXVYUmU3akNCMDhoZDZDU0dXV1hxLU5wb3g3NjhiNVJXQnBkYVBlRkpmLWQyZjVKSjdBbi1yY0U0UlQ3aGZlOW1EelFyZTNjanU4RjRzRmU4LVNIS2c0cFMzSnpBYjBYbmRKeWNucVZSVkhVWGY2S0RUUFlVUDduVGtWNmFTMlMtZ2hkcVBiVk5wS013?oc=5\" target=\"_blank\">Atlanta United, Georgia Power partner for Augusta youth soccer clinic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wrdw.com</font>",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNR1hwUEloc0lyRkh4S3NxOWhzVWIwM3pQTTJOY1VxaHlPSmNONl9hVGszZDE0c2JuZWhDZE1wYjctc1JCQlVvNVFCX01tOGg3SXJ0MERHSjBCZkR0ZFI2WWI5V21FWEh3XzFsNWIxMkdhUkxZcTJkTTV4el9DOFdrRFFhODhrM29oX1l4Q1dqcnN5NjlnN2I0dlR4ZkpQZ9IBsgFBVV95cUxNOFlxSzBRRXJCRm9acEdQZVlqNV9uRGptZkNJY2d1ZUNXcGU3ZWVUUy1EMEx1N0FrcTdodFR3Ymp3QnY5N0VRU1JSTTRFS0xCVTBXRHFFaGZ0cmZaM3U5TnRzTG82UkdESjV6QTJCSUxEUTZUV3d5UTlDUWN5ZlVOUlVtWDhlaEt2QXd6c251N0xzUHBQQXJjejlFeC1JR0R6d0tNRl9NVlBaaVJFRXNKVnNn?oc=5\" target=\"_blank\">Atlanta United, Georgia Power partner for Augusta youth soccer clinic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wrdw.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-20T04:30:19+00:00"
+        "collected_at": "2026-08-20T06:35:03+00:00"
       }
     },
     {
