@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-08-19T22:18:12+00:00",
+  "last_updated": "2026-08-20T00:52:53+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 43,
+  "count": 44,
   "mentions": [
     {
       "id": "4c321ea858b80262",
@@ -145,6 +145,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-10T01:14:31+00:00"
+    },
+    {
+      "id": "33eaea98ff6de31a",
+      "title": "World’s Largest Energy Lender Steers Federal Financing Toward Baseload, Transmission, and Nuclear - POWER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkUza1RVZHgyRXJsN0g4TkxlaU1pRll2Ym5MWU9FbXRCS19WT3JvMmh4N2JOMzc3NXhPUnFXWVpIdDY2MGdheTZPWmYybm1LWEswWHBmSXJQdmtYZHRNcHd4V2RLMFNiREdCdktocmpHbnF3ZERzWURvd1RhSUh1S3NOODNYOGJKWkppd3FmSW4yZ3lfc2E0ZGFzeWkwejRKLW5UWEVBa0RER0Z4WTR1WW83Y1Ffc2xKUDdyUg?oc=5",
+      "domain": "news.google.com",
+      "source": "POWER Magazine",
+      "language": "English",
+      "published_at": "2026-08-03T07:00:00+00:00",
+      "summary": "World’s Largest Energy Lender Steers Federal Financing Toward Baseload, Transmission, and Nuclear POWER Magazine",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkUza1RVZHgyRXJsN0g4TkxlaU1pRll2Ym5MWU9FbXRCS19WT3JvMmh4N2JOMzc3NXhPUnFXWVpIdDY2MGdheTZPWmYybm1LWEswWHBmSXJQdmtYZHRNcHd4V2RLMFNiREdCdktocmpHbnF3ZERzWURvd1RhSUh1S3NOODNYOGJKWkppd3FmSW4yZ3lfc2E0ZGFzeWkwejRKLW5UWEVBa0RER0Z4WTR1WW83Y1Ffc2xKUDdyUg?oc=5\" target=\"_blank\">World’s Largest Energy Lender Steers Federal Financing Toward Baseload, Transmission, and Nuclear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POWER Magazine</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-20T00:52:53+00:00"
     },
     {
       "id": "addfbf3308caf432",

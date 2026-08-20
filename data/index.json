@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T22:18:17+00:00",
+  "last_updated": "2026-08-20T00:52:58+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 243,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "493f37eaf80626b2",
         "title": "Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay? - Inside Climate News",
@@ -110,8 +110,8 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 43,
-      "new_mentions_this_run": 8,
+      "count": 44,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "4c321ea858b80262",
         "title": "AEP Transmission - Department of Energy (.gov)",
