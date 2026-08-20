@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-20T02:51:26+00:00",
+  "last_updated": "2026-08-20T04:30:30+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 80,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 446,
+      "count": 449,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "f7e898271d7e7a89",
-        "title": "Georgia Power partners with Atlanta United to put on positive energy soccer clinic - WFXG",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTnNMblFaRDN2Sm9HeEQzaEdYOFJrSHd4cFA3MDFVX2l1RDZYTm94ck12M2VKbl9GRWNzM19JNnc4THViRU1sZ0diNFNqQkE1bV8wcmx5OXUtSUtJZGt1NGhYNmVteGZQNGVPN1pEcWh2ZmJPZ0h6RjVvaTh3TUdYUGk2amF0NElhMnNMWTdqd09lbTB5aW04Y0lRSTB2OUVRb0I5NHJKTG9sZlUxZS0zWGpfZVRDMU9hMHJDbWxwSHhVZVd4NGFsWl9RdlBNRmVYQ0RkOHFVUGd0OVhrZUFxRzdfdV9KcUdxaUJ1RDBhWlJ0Mzh4bFE?oc=5",
+        "id": "c8633a0de2683f80",
+        "title": "Atlanta United, Georgia Power partner for Augusta youth soccer clinic - wrdw.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFM3ZFkxa3p4d0N3bDJrX3J1aXVYUmU3akNCMDhoZDZDU0dXV1hxLU5wb3g3NjhiNVJXQnBkYVBlRkpmLWQyZjVKSjdBbi1yY0U0UlQ3aGZlOW1EelFyZTNjanU4RjRzRmU4LVNIS2c0cFMzSnpBYjBYbmRKeWNucVZSVkhVWGY2S0RUUFlVUDduVGtWNmFTMlMtZ2hkcVBiVk5wS013?oc=5",
         "domain": "news.google.com",
-        "source": "WFXG",
+        "source": "wrdw.com",
         "language": "English",
-        "published_at": "2026-08-20T02:05:00+00:00",
-        "summary": "Georgia Power partners with Atlanta United to put on positive energy soccer clinic WFXG",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTnNMblFaRDN2Sm9HeEQzaEdYOFJrSHd4cFA3MDFVX2l1RDZYTm94ck12M2VKbl9GRWNzM19JNnc4THViRU1sZ0diNFNqQkE1bV8wcmx5OXUtSUtJZGt1NGhYNmVteGZQNGVPN1pEcWh2ZmJPZ0h6RjVvaTh3TUdYUGk2amF0NElhMnNMWTdqd09lbTB5aW04Y0lRSTB2OUVRb0I5NHJKTG9sZlUxZS0zWGpfZVRDMU9hMHJDbWxwSHhVZVd4NGFsWl9RdlBNRmVYQ0RkOHFVUGd0OVhrZUFxRzdfdV9KcUdxaUJ1RDBhWlJ0Mzh4bFE?oc=5\" target=\"_blank\">Georgia Power partners with Atlanta United to put on positive energy soccer clinic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFXG</font>",
+        "published_at": "2026-08-20T02:58:00+00:00",
+        "summary": "Atlanta United, Georgia Power partner for Augusta youth soccer clinic wrdw.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFM3ZFkxa3p4d0N3bDJrX3J1aXVYUmU3akNCMDhoZDZDU0dXV1hxLU5wb3g3NjhiNVJXQnBkYVBlRkpmLWQyZjVKSjdBbi1yY0U0UlQ3aGZlOW1EelFyZTNjanU4RjRzRmU4LVNIS2c0cFMzSnpBYjBYbmRKeWNucVZSVkhVWGY2S0RUUFlVUDduVGtWNmFTMlMtZ2hkcVBiVk5wS013?oc=5\" target=\"_blank\">Atlanta United, Georgia Power partner for Augusta youth soccer clinic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wrdw.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-20T02:51:16+00:00"
+        "collected_at": "2026-08-20T04:30:19+00:00"
       }
     },
     {
