@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-20T20:21:05+00:00",
+  "last_updated": "2026-08-20T22:19:49+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 454,
+  "count": 455,
   "mentions": [
+    {
+      "id": "1f6cf46c035cc054",
+      "title": "Southeast Georgia power grid projects helping fuel data center development - Statesboro Herald",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlotazRRUzc0MnhoUVFtT3k3X3JzdnBPTEZnVzZlb19xX1VmNUZBVk12N3lhTjRCZnJCMUptQ0U0R1B4MHFvX0s0aXFkM0F1c1NMYWdhTnJrR0ZGUC1hR09KNV9RQjlXOUtaVXJVX3hHT3YwY1NJc2NOa09EakpaTFFqQzllM3NvMDZKQl9HUUFlbHI4MGZfZERhOEtWNGRjaE85MGVSdndQUVpwaVJpMi1ISVk?oc=5",
+      "domain": "news.google.com",
+      "source": "Statesboro Herald",
+      "language": "English",
+      "published_at": "2026-08-20T21:13:14+00:00",
+      "summary": "Southeast Georgia power grid projects helping fuel data center development Statesboro Herald",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlotazRRUzc0MnhoUVFtT3k3X3JzdnBPTEZnVzZlb19xX1VmNUZBVk12N3lhTjRCZnJCMUptQ0U0R1B4MHFvX0s0aXFkM0F1c1NMYWdhTnJrR0ZGUC1hR09KNV9RQjlXOUtaVXJVX3hHT3YwY1NJc2NOa09EakpaTFFqQzllM3NvMDZKQl9HUUFlbHI4MGZfZERhOEtWNGRjaE85MGVSdndQUVpwaVJpMi1ISVk?oc=5\" target=\"_blank\">Southeast Georgia power grid projects helping fuel data center development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Statesboro Herald</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-20T22:19:49+00:00"
+    },
     {
       "id": "75e8db56a7cc6f5d",
       "title": "Atlanta United players attend soccer clinic in Augusta | WATCH - The Augusta Chronicle",
