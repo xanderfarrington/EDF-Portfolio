@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T14:29:25+00:00",
+  "last_updated": "2026-08-20T16:27:01+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 452,
-      "new_mentions_this_run": 23,
+      "count": 454,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "9a4c84159148e94c",
-        "title": "Atlanta United play host to soccer clinic at Augusta Arsenal club - The Augusta Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcENpeTZCb1NlSHpEcGdBS1hYSVZsdWZ5WmdGMjVnbnFLcXFsb1czT2ZVWmUySXFINXY1YkE0YjVQOEVuZ1VJS1ZYQmNHcGhkekhJWW1jNS1ZQTd3THNORFJlOC1GelFOSDlXS2lrN1FnWVlkZkl4S3paYUV3YmhnOFFDWVdUbTBocU96Ykt2SXd4b0M4NnQ0ZjdhZFl0QUZrX1YwQXpiYUtuX2NVek1ORUlnOHVBOHdyT052TkhEUFBJMjlLaUVRUEFiQ2ZNaXpnVGJJ?oc=5",
+        "id": "75e8db56a7cc6f5d",
+        "title": "Atlanta United players attend soccer clinic in Augusta | WATCH - The Augusta Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM3N6UUNUNzJtVzUtWWZTSk05UWNGWjUtRzdRbDZQbXNOaU95Z1l1YWRVWGVqY1ZvWFEyVGE5ZG5hbzMwdGZ4aW1xakxQd3hLM1plSHpWQUJTbVdFejAxOFJUQjFCUEhvek1STW5lTHVqdTFraVNoVVljbHdSLW13d3k0X01kQkswMW5hQnRJUzQ1b3RNS1FyeEZOMFNZU1A3a1I2eWg3Ql9yTVRZQUYwS3N6eDZfNnMtamdBT2ZMNC1KcTI2U2pRalNRdEpnS0hwbUd1QUdR?oc=5",
         "domain": "news.google.com",
         "source": "The Augusta Chronicle",
         "language": "English",
-        "published_at": "2026-08-20T08:00:00+00:00",
-        "summary": "Atlanta United play host to soccer clinic at Augusta Arsenal club The Augusta Chronicle",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcENpeTZCb1NlSHpEcGdBS1hYSVZsdWZ5WmdGMjVnbnFLcXFsb1czT2ZVWmUySXFINXY1YkE0YjVQOEVuZ1VJS1ZYQmNHcGhkekhJWW1jNS1ZQTd3THNORFJlOC1GelFOSDlXS2lrN1FnWVlkZkl4S3paYUV3YmhnOFFDWVdUbTBocU96Ykt2SXd4b0M4NnQ0ZjdhZFl0QUZrX1YwQXpiYUtuX2NVek1ORUlnOHVBOHdyT052TkhEUFBJMjlLaUVRUEFiQ2ZNaXpnVGJJ?oc=5\" target=\"_blank\">Atlanta United play host to soccer clinic at Augusta Arsenal club</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
+        "published_at": "2026-08-20T15:45:05+00:00",
+        "summary": "Atlanta United players attend soccer clinic in Augusta | WATCH The Augusta Chronicle",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM3N6UUNUNzJtVzUtWWZTSk05UWNGWjUtRzdRbDZQbXNOaU95Z1l1YWRVWGVqY1ZvWFEyVGE5ZG5hbzMwdGZ4aW1xakxQd3hLM1plSHpWQUJTbVdFejAxOFJUQjFCUEhvek1STW5lTHVqdTFraVNoVVljbHdSLW13d3k0X01kQkswMW5hQnRJUzQ1b3RNS1FyeEZOMFNZU1A3a1I2eWg3Ql9yTVRZQUYwS3N6eDZfNnMtamdBT2ZMNC1KcTI2U2pRalNRdEpnS0hwbUd1QUdR?oc=5\" target=\"_blank\">Atlanta United players attend soccer clinic in Augusta | WATCH</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-20T08:30:04+00:00"
+        "collected_at": "2026-08-20T16:26:51+00:00"
       }
     },
     {
