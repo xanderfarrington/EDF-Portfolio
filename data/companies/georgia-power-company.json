@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-20T00:52:48+00:00",
+  "last_updated": "2026-08-20T02:51:16+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 444,
+  "count": 446,
   "mentions": [
+    {
+      "id": "f7e898271d7e7a89",
+      "title": "Georgia Power partners with Atlanta United to put on positive energy soccer clinic - WFXG",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTnNMblFaRDN2Sm9HeEQzaEdYOFJrSHd4cFA3MDFVX2l1RDZYTm94ck12M2VKbl9GRWNzM19JNnc4THViRU1sZ0diNFNqQkE1bV8wcmx5OXUtSUtJZGt1NGhYNmVteGZQNGVPN1pEcWh2ZmJPZ0h6RjVvaTh3TUdYUGk2amF0NElhMnNMWTdqd09lbTB5aW04Y0lRSTB2OUVRb0I5NHJKTG9sZlUxZS0zWGpfZVRDMU9hMHJDbWxwSHhVZVd4NGFsWl9RdlBNRmVYQ0RkOHFVUGd0OVhrZUFxRzdfdV9KcUdxaUJ1RDBhWlJ0Mzh4bFE?oc=5",
+      "domain": "news.google.com",
+      "source": "WFXG",
+      "language": "English",
+      "published_at": "2026-08-20T02:05:00+00:00",
+      "summary": "Georgia Power partners with Atlanta United to put on positive energy soccer clinic WFXG",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTnNMblFaRDN2Sm9HeEQzaEdYOFJrSHd4cFA3MDFVX2l1RDZYTm94ck12M2VKbl9GRWNzM19JNnc4THViRU1sZ0diNFNqQkE1bV8wcmx5OXUtSUtJZGt1NGhYNmVteGZQNGVPN1pEcWh2ZmJPZ0h6RjVvaTh3TUdYUGk2amF0NElhMnNMWTdqd09lbTB5aW04Y0lRSTB2OUVRb0I5NHJKTG9sZlUxZS0zWGpfZVRDMU9hMHJDbWxwSHhVZVd4NGFsWl9RdlBNRmVYQ0RkOHFVUGd0OVhrZUFxRzdfdV9KcUdxaUJ1RDBhWlJ0Mzh4bFE?oc=5\" target=\"_blank\">Georgia Power partners with Atlanta United to put on positive energy soccer clinic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFXG</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-20T02:51:16+00:00"
+    },
     {
       "id": "892b967763d82260",
       "title": "Data centers spur on power grid expansion in Southeast Georgia - Bryan County News",
@@ -159,6 +173,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-17T22:18:00+00:00"
+    },
+    {
+      "id": "b4379557c3962221",
+      "title": "Will the New OpenAI Data Center Raise Georgia Power Bills? - cleanenergy.org",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSlloaW4yN0xwNDVCc1phZXhMUUotUVBWVGJzMHljSjA1dXRCdnhzdk8taERKWjlDR01fZGFZaVZjb1dxUV9WQi1nWDYtd2REeWhraVhocWJFbjRVMlIzYnhzVDdnZlZOamE0NFJ1dUx3WjdfVUVjRy1KMVJLcjVGU19GTUdDd25NU3ZKNXA2VGY?oc=5",
+      "domain": "news.google.com",
+      "source": "cleanenergy.org",
+      "language": "English",
+      "published_at": "2026-08-17T20:55:24+00:00",
+      "summary": "Will the New OpenAI Data Center Raise Georgia Power Bills? cleanenergy.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQSlloaW4yN0xwNDVCc1phZXhMUUotUVBWVGJzMHljSjA1dXRCdnhzdk8taERKWjlDR01fZGFZaVZjb1dxUV9WQi1nWDYtd2REeWhraVhocWJFbjRVMlIzYnhzVDdnZlZOamE0NFJ1dUx3WjdfVUVjRy1KMVJLcjVGU19GTUdDd25NU3ZKNXA2VGY?oc=5\" target=\"_blank\">Will the New OpenAI Data Center Raise Georgia Power Bills?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cleanenergy.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-20T02:51:16+00:00"
     },
     {
       "id": "2501d40fbadc44d1",

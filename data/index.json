@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T00:52:58+00:00",
+  "last_updated": "2026-08-20T02:51:26+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 243,
-      "new_mentions_this_run": 22,
+      "count": 244,
+      "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "493f37eaf80626b2",
-        "title": "Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay? - Inside Climate News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1FVc3V2SmZRMnFHTlNYSUFBTU1HR3FwTWlFYlkwa2h6dTNnS3RJd1Bwb0FLMHR1c1dzSktlcmdQd3hjY1JIcW94YlpOc1FrelJoRnRrejNrSFRvZ2taMk9CUXVVTUhqOVczT3JEWjdrTzR3OExHUjNrbUdVTkIzQTUzY25xR3lSZnQ5YTNvZzlBWG9FSWdWNjB3?oc=5",
+        "id": "32418d4013a09235",
+        "title": "Alabama homeowner fights Alabama Power over line he calls 'an invasion' of privacy - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzJBUnVHNnI3UjBMejQ5NkphRXR3U3ByeHlyeUVkUWhzRFhNclJqVVRULVpZN1NmUk1tN3l0Y3Z6cW1iRWpyTGhRaHNtNGt1Y3dZTGtfckJGMWVaSFo3SnNXTjlKbkg4dTFkcjI3X21PZkpoYjYwWm81RjdmSW5aZjdCQjVUdWdSdmtYOTZKU2M3WTg2Q3dN?oc=5",
         "domain": "news.google.com",
-        "source": "Inside Climate News",
+        "source": "Yahoo",
         "language": "English",
-        "published_at": "2026-08-19T09:00:00+00:00",
-        "summary": "Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay? Inside Climate News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1FVc3V2SmZRMnFHTlNYSUFBTU1HR3FwTWlFYlkwa2h6dTNnS3RJd1Bwb0FLMHR1c1dzSktlcmdQd3hjY1JIcW94YlpOc1FrelJoRnRrejNrSFRvZ2taMk9CUXVVTUhqOVczT3JEWjdrTzR3OExHUjNrbUdVTkIzQTUzY25xR3lSZnQ5YTNvZzlBWG9FSWdWNjB3?oc=5\" target=\"_blank\">Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
+        "published_at": "2026-08-20T01:09:00+00:00",
+        "summary": "Alabama homeowner fights Alabama Power over line he calls 'an invasion' of privacy Yahoo",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzJBUnVHNnI3UjBMejQ5NkphRXR3U3ByeHlyeUVkUWhzRFhNclJqVVRULVpZN1NmUk1tN3l0Y3Z6cW1iRWpyTGhRaHNtNGt1Y3dZTGtfckJGMWVaSFo3SnNXTjlKbkg4dTFkcjI3X21PZkpoYjYwWm81RjdmSW5aZjdCQjVUdWdSdmtYOTZKU2M3WTg2Q3dN?oc=5\" target=\"_blank\">Alabama homeowner fights Alabama Power over line he calls 'an invasion' of privacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-19T10:21:26+00:00"
+        "collected_at": "2026-08-20T02:51:00+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 444,
+      "count": 446,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "892b967763d82260",
-        "title": "Data centers spur on power grid expansion in Southeast Georgia - Bryan County News",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcF9wS012TEtNVUg1cnJROTlZZi1LUHRsMGlGaEFLNmdNb21QdGtfMnVVbEFCdXhScXhvbjRWbVNXVXJnQmo1Z3hxLUdfZ3JnQkxRNVhDQzdFcVU1VjAxNXJ5XzRUd0EzMk5ucVdyMERyY1NXc2ZEX0djUDdRYkpWQ1dURzh6VGhvRks3NU0zM1pGQ3NPWjV4QXI3WmZRdUg4T3c?oc=5",
+        "id": "f7e898271d7e7a89",
+        "title": "Georgia Power partners with Atlanta United to put on positive energy soccer clinic - WFXG",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTnNMblFaRDN2Sm9HeEQzaEdYOFJrSHd4cFA3MDFVX2l1RDZYTm94ck12M2VKbl9GRWNzM19JNnc4THViRU1sZ0diNFNqQkE1bV8wcmx5OXUtSUtJZGt1NGhYNmVteGZQNGVPN1pEcWh2ZmJPZ0h6RjVvaTh3TUdYUGk2amF0NElhMnNMWTdqd09lbTB5aW04Y0lRSTB2OUVRb0I5NHJKTG9sZlUxZS0zWGpfZVRDMU9hMHJDbWxwSHhVZVd4NGFsWl9RdlBNRmVYQ0RkOHFVUGd0OVhrZUFxRzdfdV9KcUdxaUJ1RDBhWlJ0Mzh4bFE?oc=5",
         "domain": "news.google.com",
-        "source": "Bryan County News",
+        "source": "WFXG",
         "language": "English",
-        "published_at": "2026-08-19T21:44:59+00:00",
-        "summary": "Data centers spur on power grid expansion in Southeast Georgia Bryan County News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOcF9wS012TEtNVUg1cnJROTlZZi1LUHRsMGlGaEFLNmdNb21QdGtfMnVVbEFCdXhScXhvbjRWbVNXVXJnQmo1Z3hxLUdfZ3JnQkxRNVhDQzdFcVU1VjAxNXJ5XzRUd0EzMk5ucVdyMERyY1NXc2ZEX0djUDdRYkpWQ1dURzh6VGhvRks3NU0zM1pGQ3NPWjV4QXI3WmZRdUg4T3c?oc=5\" target=\"_blank\">Data centers spur on power grid expansion in Southeast Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bryan County News</font>",
+        "published_at": "2026-08-20T02:05:00+00:00",
+        "summary": "Georgia Power partners with Atlanta United to put on positive energy soccer clinic WFXG",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTnNMblFaRDN2Sm9HeEQzaEdYOFJrSHd4cFA3MDFVX2l1RDZYTm94ck12M2VKbl9GRWNzM19JNnc4THViRU1sZ0diNFNqQkE1bV8wcmx5OXUtSUtJZGt1NGhYNmVteGZQNGVPN1pEcWh2ZmJPZ0h6RjVvaTh3TUdYUGk2amF0NElhMnNMWTdqd09lbTB5aW04Y0lRSTB2OUVRb0I5NHJKTG9sZlUxZS0zWGpfZVRDMU9hMHJDbWxwSHhVZVd4NGFsWl9RdlBNRmVYQ0RkOHFVUGd0OVhrZUFxRzdfdV9KcUdxaUJ1RDBhWlJ0Mzh4bFE?oc=5\" target=\"_blank\">Georgia Power partners with Atlanta United to put on positive energy soccer clinic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFXG</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-19T22:18:07+00:00"
+        "collected_at": "2026-08-20T02:51:16+00:00"
       }
     },
     {
