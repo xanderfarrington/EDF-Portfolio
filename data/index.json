@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T06:35:27+00:00",
+  "last_updated": "2026-08-21T08:32:22+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 246,
-      "new_mentions_this_run": 18,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "9252eca0a0177428",
         "title": "SLEPC, Alabama Power seeking volunteers for Sept. 18 Smith Lake cleanup - The Cullman Tribune",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 456,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "1f6cf46c035cc054",
         "title": "Southeast Georgia power grid projects helping fuel data center development - Statesboro Herald",
