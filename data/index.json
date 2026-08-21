@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T22:19:59+00:00",
+  "last_updated": "2026-08-21T00:56:12+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 246,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "9252eca0a0177428",
         "title": "SLEPC, Alabama Power seeking volunteers for Sept. 18 Smith Lake cleanup - The Cullman Tribune",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 455,
+      "count": 456,
       "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "1f6cf46c035cc054",
