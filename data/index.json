@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T18:27:40+00:00",
+  "last_updated": "2026-08-21T20:18:36+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 247,
+      "count": 248,
       "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "d08cfc7ab3241191",
-        "title": "Alabama Power putting weather data to work to combat outages - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmlQWXVNWWp6cTJOMTVNOTNRZS1YV2RGWnkwLXRuX1JUblZTYnpEcm9nclhqTkVoNVpKeENEdHdJZlROcWRkazNMQWxaT1dpUzcxUTYzUjYtc3pfeF9XdVF2b3UxbjVRRHVJREU0V2xPeEZ5QTRpQzVEVDlQR29xNjZpSFlYZmE3djE1NkFKcVF1Ql9id2JTQnJCUGpiNnlSMnc?oc=5",
+        "id": "11611a00b6c630a3",
+        "title": "Alabama Power Hosts First Responder Safety Training in Gadsden and Talladega - Calhoun Journal",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakNBd1ZGTmtZcmRoblRSb2VETlk3OHNXOVhNSzNiWjhzRHhQTE5IOHNjNkt3WWx0T0kwVjNnamhPS3FHUm9RSzFzYjV6Uld3S1YzYVA4RFlnUkRqNllSSHhIU0ZFVnNTT1Q2bkM5dEdSNUROY2ZzbkNpMjA2VjItVXFsQ1ZQVldTQkx4aFd5V1R5dktBdGJyMmNNR3BCTEd6RUsyU25XTQ?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "Calhoun Journal",
         "language": "English",
-        "published_at": "2026-08-21T12:12:00+00:00",
-        "summary": "Alabama Power putting weather data to work to combat outages AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmlQWXVNWWp6cTJOMTVNOTNRZS1YV2RGWnkwLXRuX1JUblZTYnpEcm9nclhqTkVoNVpKeENEdHdJZlROcWRkazNMQWxaT1dpUzcxUTYzUjYtc3pfeF9XdVF2b3UxbjVRRHVJREU0V2xPeEZ5QTRpQzVEVDlQR29xNjZpSFlYZmE3djE1NkFKcVF1Ql9id2JTQnJCUGpiNnlSMnc?oc=5\" target=\"_blank\">Alabama Power putting weather data to work to combat outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-08-21T19:36:16+00:00",
+        "summary": "Alabama Power Hosts First Responder Safety Training in Gadsden and Talladega Calhoun Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNakNBd1ZGTmtZcmRoblRSb2VETlk3OHNXOVhNSzNiWjhzRHhQTE5IOHNjNkt3WWx0T0kwVjNnamhPS3FHUm9RSzFzYjV6Uld3S1YzYVA4RFlnUkRqNllSSHhIU0ZFVnNTT1Q2bkM5dEdSNUROY2ZzbkNpMjA2VjItVXFsQ1ZQVldTQkx4aFd5V1R5dktBdGJyMmNNR3BCTEd6RUsyU25XTQ?oc=5\" target=\"_blank\">Alabama Power Hosts First Responder Safety Training in Gadsden and Talladega</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Calhoun Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-21T12:33:26+00:00"
+        "collected_at": "2026-08-21T20:18:09+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 457,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "a17d7c0d80e58d3f",
         "title": "Georgia Power exec speaks on data centers, misinformation - The Rome News-Tribune",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 44,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "4c321ea858b80262",
         "title": "AEP Transmission - Department of Energy (.gov)",
