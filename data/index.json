@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T12:33:53+00:00",
+  "last_updated": "2026-08-21T14:28:00+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 456,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "1f6cf46c035cc054",
         "title": "Southeast Georgia power grid projects helping fuel data center development - Statesboro Herald",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 44,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "4c321ea858b80262",
         "title": "AEP Transmission - Department of Energy (.gov)",
