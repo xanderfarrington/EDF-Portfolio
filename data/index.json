@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T10:23:12+00:00",
+  "last_updated": "2026-08-21T12:33:53+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 246,
+      "count": 247,
       "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "9252eca0a0177428",
-        "title": "SLEPC, Alabama Power seeking volunteers for Sept. 18 Smith Lake cleanup - The Cullman Tribune",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNS1CbmtEZWtjbFBka2F2LTg4MWltWVEtZTAyXzRuMWt2VlQtYWVJeHZyS19lOTlGeWQ4SzI4VEpsajBKWGFUN1J6cnJvQ3pXYjg1dnYtWVJkWlFxaUI3VnljUzE3OWlsNVB0U1VWZ0tCdG90VERTS0YwLXpnTmlHU3BpZnJpYVNPR0p0Y3BXaE4xdmQ1RFRDRzUwMzJidVdPcUJEQWJMeXQ4N2dUbjJNUTZ3?oc=5",
+        "id": "d08cfc7ab3241191",
+        "title": "Alabama Power putting weather data to work to combat outages - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmlQWXVNWWp6cTJOMTVNOTNRZS1YV2RGWnkwLXRuX1JUblZTYnpEcm9nclhqTkVoNVpKeENEdHdJZlROcWRkazNMQWxaT1dpUzcxUTYzUjYtc3pfeF9XdVF2b3UxbjVRRHVJREU0V2xPeEZ5QTRpQzVEVDlQR29xNjZpSFlYZmE3djE1NkFKcVF1Ql9id2JTQnJCUGpiNnlSMnc?oc=5",
         "domain": "news.google.com",
-        "source": "The Cullman Tribune",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-08-20T11:53:52+00:00",
-        "summary": "SLEPC, Alabama Power seeking volunteers for Sept. 18 Smith Lake cleanup The Cullman Tribune",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNS1CbmtEZWtjbFBka2F2LTg4MWltWVEtZTAyXzRuMWt2VlQtYWVJeHZyS19lOTlGeWQ4SzI4VEpsajBKWGFUN1J6cnJvQ3pXYjg1dnYtWVJkWlFxaUI3VnljUzE3OWlsNVB0U1VWZ0tCdG90VERTS0YwLXpnTmlHU3BpZnJpYVNPR0p0Y3BXaE4xdmQ1RFRDRzUwMzJidVdPcUJEQWJMeXQ4N2dUbjJNUTZ3?oc=5\" target=\"_blank\">SLEPC, Alabama Power seeking volunteers for Sept. 18 Smith Lake cleanup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cullman Tribune</font>",
+        "published_at": "2026-08-21T12:12:00+00:00",
+        "summary": "Alabama Power putting weather data to work to combat outages AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmlQWXVNWWp6cTJOMTVNOTNRZS1YV2RGWnkwLXRuX1JUblZTYnpEcm9nclhqTkVoNVpKeENEdHdJZlROcWRkazNMQWxaT1dpUzcxUTYzUjYtc3pfeF9XdVF2b3UxbjVRRHVJREU0V2xPeEZ5QTRpQzVEVDlQR29xNjZpSFlYZmE3djE1NkFKcVF1Ql9id2JTQnJCUGpiNnlSMnc?oc=5\" target=\"_blank\">Alabama Power putting weather data to work to combat outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-20T12:34:36+00:00"
+        "collected_at": "2026-08-21T12:33:26+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 44,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "4c321ea858b80262",
         "title": "AEP Transmission - Department of Energy (.gov)",
