@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-21T14:27:50+00:00",
+  "last_updated": "2026-08-21T16:24:41+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 456,
+  "count": 457,
   "mentions": [
+    {
+      "id": "a17d7c0d80e58d3f",
+      "title": "Georgia Power exec speaks on data centers, misinformation - The Rome News-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYmhkcVlSak95cXRXZ0VQUHRReTVFT3BOc2hKUDlGTklqdWhtZm85UzI3cDhaN3lOekhPMFhkcEJuT1NlbFk4OVZWZjdiSTlOa1E2WFlxU3N5RW1tM1gxR2JrOE4tZ0xtWHl1eHdyQkpYMnhNQVU0aGxKTm9QVnk5dkpJOVEyZHVyY3dnU192V2tMeUNSODhmU0VKNGFlWk9TZmNUQjltVEsyUWJMWW5mYmF2S1lkbDZNU1NfWDh1Nld3Y2xVTzFGeWN0b3RmQi1Hc0xfR043b2oxOEJ4WGxnU1BhenVkV1M0c3hKUl9ldGI?oc=5",
+      "domain": "news.google.com",
+      "source": "The Rome News-Tribune",
+      "language": "English",
+      "published_at": "2026-08-21T16:00:00+00:00",
+      "summary": "Georgia Power exec speaks on data centers, misinformation The Rome News-Tribune",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYmhkcVlSak95cXRXZ0VQUHRReTVFT3BOc2hKUDlGTklqdWhtZm85UzI3cDhaN3lOekhPMFhkcEJuT1NlbFk4OVZWZjdiSTlOa1E2WFlxU3N5RW1tM1gxR2JrOE4tZ0xtWHl1eHdyQkpYMnhNQVU0aGxKTm9QVnk5dkpJOVEyZHVyY3dnU192V2tMeUNSODhmU0VKNGFlWk9TZmNUQjltVEsyUWJMWW5mYmF2S1lkbDZNU1NfWDh1Nld3Y2xVTzFGeWN0b3RmQi1Hc0xfR043b2oxOEJ4WGxnU1BhenVkV1M0c3hKUl9ldGI?oc=5\" target=\"_blank\">Georgia Power exec speaks on data centers, misinformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-21T16:24:41+00:00"
+    },
     {
       "id": "1f6cf46c035cc054",
       "title": "Southeast Georgia power grid projects helping fuel data center development - Statesboro Herald",
