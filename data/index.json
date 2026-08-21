@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T16:24:52+00:00",
+  "last_updated": "2026-08-21T18:27:40+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 457,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "a17d7c0d80e58d3f",
         "title": "Georgia Power exec speaks on data centers, misinformation - The Rome News-Tribune",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 44,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "4c321ea858b80262",
         "title": "AEP Transmission - Department of Energy (.gov)",
