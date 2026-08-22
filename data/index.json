@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-22T00:52:43+00:00",
+  "last_updated": "2026-08-22T02:49:26+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 80,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
