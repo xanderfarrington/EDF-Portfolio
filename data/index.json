@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T04:26:24+00:00",
+  "last_updated": "2026-08-22T06:28:47+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 94,
-      "new_mentions_this_run": 12,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "512468455fd03c04",
         "title": "Transformer delivery brings Three Mile Island restart one step closer to reality - The Frederick News-Post",
