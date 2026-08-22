@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T06:28:47+00:00",
+  "last_updated": "2026-08-22T08:21:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 457,
+      "count": 458,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "a17d7c0d80e58d3f",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 44,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "4c321ea858b80262",
         "title": "AEP Transmission - Department of Energy (.gov)",

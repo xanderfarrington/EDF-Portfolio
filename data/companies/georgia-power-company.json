@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-22T06:28:37+00:00",
+  "last_updated": "2026-08-22T08:21:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 457,
+  "count": 458,
   "mentions": [
     {
       "id": "a17d7c0d80e58d3f",
@@ -103,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-20T08:30:04+00:00"
+    },
+    {
+      "id": "eb47229ee4642144",
+      "title": "Atlanta United, Georgia Power partner for Augusta youth soccer clinic - WRDW",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOFlxSzBRRXJCRm9acEdQZVlqNV9uRGptZkNJY2d1ZUNXcGU3ZWVUUy1EMEx1N0FrcTdodFR3Ymp3QnY5N0VRU1JSTTRFS0xCVTBXRHFFaGZ0cmZaM3U5TnRzTG82UkdESjV6QTJCSUxEUTZUV3d5UTlDUWN5ZlVOUlVtWDhlaEt2QXd6c251N0xzUHBQQXJjejlFeC1JR0R6d0tNRl9NVlBaaVJFRXNKVnNn0gGyAUFVX3lxTE04WXFLMFFFckJGb1pwR1BlWWo1X25Eam1mQ0ljZ3VlQ1dwZTdlZVRTLUQwTHU3QWtxN2h0VHdiandCdjk3RVFTUlJNNEVLTEJVMFdEcUVoZnRyZlozdTlOdHNMbzZSR0RKNXpBMkJJTERRNlRXd3lROUNRY3lmVU5SVW1YOGVoS3ZBd3pzbnU3THNQcFBBcmN6OUV4LUlHRHp3S01GX01WUFppUkVFc0pWc2c?oc=5",
+      "domain": "news.google.com",
+      "source": "WRDW",
+      "language": "English",
+      "published_at": "2026-08-20T02:59:00+00:00",
+      "summary": "Atlanta United, Georgia Power partner for Augusta youth soccer clinic WRDW",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNOFlxSzBRRXJCRm9acEdQZVlqNV9uRGptZkNJY2d1ZUNXcGU3ZWVUUy1EMEx1N0FrcTdodFR3Ymp3QnY5N0VRU1JSTTRFS0xCVTBXRHFFaGZ0cmZaM3U5TnRzTG82UkdESjV6QTJCSUxEUTZUV3d5UTlDUWN5ZlVOUlVtWDhlaEt2QXd6c251N0xzUHBQQXJjejlFeC1JR0R6d0tNRl9NVlBaaVJFRXNKVnNn0gGyAUFVX3lxTE04WXFLMFFFckJGb1pwR1BlWWo1X25Eam1mQ0ljZ3VlQ1dwZTdlZVRTLUQwTHU3QWtxN2h0VHdiandCdjk3RVFTUlJNNEVLTEJVMFdEcUVoZnRyZlozdTlOdHNMbzZSR0RKNXpBMkJJTERRNlRXd3lROUNRY3lmVU5SVW1YOGVoS3ZBd3pzbnU3THNQcFBBcmN6OUV4LUlHRHp3S01GX01WUFppUkVFc0pWc2c?oc=5\" target=\"_blank\">Atlanta United, Georgia Power partner for Augusta youth soccer clinic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-22T08:21:07+00:00"
     },
     {
       "id": "c8633a0de2683f80",
