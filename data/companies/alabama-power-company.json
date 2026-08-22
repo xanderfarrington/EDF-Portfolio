@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-22T16:16:15+00:00",
+  "last_updated": "2026-08-22T18:19:24+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 248,
+  "count": 249,
   "mentions": [
     {
       "id": "11611a00b6c630a3",
@@ -1615,6 +1615,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-08T01:07:21+00:00"
+    },
+    {
+      "id": "c1d2d42d649adb06",
+      "title": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3dWbm5ETHdPZHRXZHY3NG9KTllxZTlYMktVU0lRblRISUNIRGpOdVNMeXVHT1BkQVFXYkdieG5sc1VGckx2UW9qa1VuM0xtc2ZyUDRlcllNQi1GUTZfRDIxX1VId3dKUl9QcGRqYnJZY1VoTzlKcGZHS2djRHpwRHdUU2JEa2RsX3FsZWl5QjVuYm5Rb2RlQlZRelY?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "summary": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3dWbm5ETHdPZHRXZHY3NG9KTllxZTlYMktVU0lRblRISUNIRGpOdVNMeXVHT1BkQVFXYkdieG5sc1VGckx2UW9qa1VuM0xtc2ZyUDRlcllNQi1GUTZfRDIxX1VId3dKUl9QcGRqYnJZY1VoTzlKcGZHS2djRHpwRHdUU2JEa2RsX3FsZWl5QjVuYm5Rb2RlQlZRelY?oc=5\" target=\"_blank\">ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-22T18:19:24+00:00"
     },
     {
       "id": "db2c5b896ca6c08c",
