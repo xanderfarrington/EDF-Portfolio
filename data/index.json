@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T18:19:51+00:00",
+  "last_updated": "2026-08-22T20:15:31+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 249,
-      "new_mentions_this_run": 20,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "11611a00b6c630a3",
         "title": "Alabama Power Hosts First Responder Safety Training in Gadsden and Talladega - Calhoun Journal",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 459,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "9d8fda85790d249a",
         "title": "Georgia Power exec speaks on data centers, misinformation - The Rome News-Tribune",
