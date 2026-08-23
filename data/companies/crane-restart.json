@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-08-23T02:56:23+00:00",
+  "last_updated": "2026-08-23T04:30:08+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 94,
+  "count": 95,
   "mentions": [
     {
       "id": "512468455fd03c04",
@@ -425,6 +425,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-29T19:04:09+00:00"
+    },
+    {
+      "id": "a57e4b08230919f3",
+      "title": "Three Mile Island reactor restart progresses through environmental review, public comments - WITF",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcDhhOGR1X3dpanl3aVNFbXFkQ193c3VCQXNVaThIMjhXQ3NxcXFrbU96UDJOYXhndlNpcWRUQWtCdldpQlQ3TlhuZE1nNHVaYmFsd2VRdHFaV3ZhbTdSZ1Q5clpEeUxBanh4Yl9ta3NKZWpVSm5NdWpTOV9KRzJZbUtRakFKWm1FX3BBWmU0MmZGX3JVamRBTU96bjl2WmlDenNvS2p2TWVnOExKOUNldk50LWstcy0yRVV3X1JkYw?oc=5",
+      "domain": "news.google.com",
+      "source": "WITF",
+      "language": "English",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "summary": "Three Mile Island reactor restart progresses through environmental review, public comments WITF",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcDhhOGR1X3dpanl3aVNFbXFkQ193c3VCQXNVaThIMjhXQ3NxcXFrbU96UDJOYXhndlNpcWRUQWtCdldpQlQ3TlhuZE1nNHVaYmFsd2VRdHFaV3ZhbTdSZ1Q5clpEeUxBanh4Yl9ta3NKZWpVSm5NdWpTOV9KRzJZbUtRakFKWm1FX3BBWmU0MmZGX3JVamRBTU96bjl2WmlDenNvS2p2TWVnOExKOUNldk50LWstcy0yRVV3X1JkYw?oc=5\" target=\"_blank\">Three Mile Island reactor restart progresses through environmental review, public comments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WITF</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-23T04:30:08+00:00"
     },
     {
       "id": "3942a3a8ed2ba091",
