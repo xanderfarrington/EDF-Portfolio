@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T12:26:33+00:00",
+  "last_updated": "2026-08-23T14:17:15+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 459,
-      "new_mentions_this_run": 22,
+      "count": 460,
+      "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "9d8fda85790d249a",
-        "title": "Georgia Power exec speaks on data centers, misinformation - The Rome News-Tribune",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeGNaaXVKQ01nbTQxNllFdzdmbE93RGxmcHNLSzhiMnZRcVgwWlpxV05nQV96aEJfSWt4TjFjYmFPbGg4OEhZNU9NaHU1cjVVdnVhSVZONkx2X2tQclF2NUV4X2FWQ2tfdGNyQjBXTGhidXdMRG9selYyOVJIWmJNRHp6Vl9heWJDSVlKWXdWTHhMaDM4VlduXzVvdjRSdDJJMExldjJRVTdGVjR4SnRialdDS0ZvMzRXU2g3X1FpNnhjeFhqM0JJRU1JbDhCb29yZWJLUUlIZmh6ZmtKekFxR005MS1oUHNCX2FqNTVGTHo2c0FlNXRBYUFwaG0?oc=5",
+        "id": "ae2e6ed50ea83b36",
+        "title": "Georgia Power touts data centers, urges leaders to educate the public - The Rome News-Tribune",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNY1RKMWRYTVpMcjVXUFdLR1FHMzMtdUdSVnFjTnBGLWhUQ3hOckFlWmFUemFPbGpvLWs2ZXkxZzdLejlvMS1EakFGUDBCTGxPOUY4em1rMVBaejFLVnJubHFlNXNGc1FCanhKN3VZTUxhYzE1YS1wOUsyenVxdkptTENnWHExeERFVlZlZlZneFpRZVhwNUl4aFdjTjh1aHU1MFlLNHFlQmV4bHN2OEdZUHF3RDdneFpPVXUwbmRyYzkxUTVWU1c0YXNONTJ4ZHh0blNFOVlIWmdZS2dGV0k4UkxXZ0Q1QllqRnNzMksyakFkZXpLOGljczU4R0xWLVBiVmxrMDFKWk9iNm1R?oc=5",
         "domain": "news.google.com",
         "source": "The Rome News-Tribune",
         "language": "English",
-        "published_at": "2026-08-22T16:00:00+00:00",
-        "summary": "Georgia Power exec speaks on data centers, misinformation The Rome News-Tribune",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeGNaaXVKQ01nbTQxNllFdzdmbE93RGxmcHNLSzhiMnZRcVgwWlpxV05nQV96aEJfSWt4TjFjYmFPbGg4OEhZNU9NaHU1cjVVdnVhSVZONkx2X2tQclF2NUV4X2FWQ2tfdGNyQjBXTGhidXdMRG9selYyOVJIWmJNRHp6Vl9heWJDSVlKWXdWTHhMaDM4VlduXzVvdjRSdDJJMExldjJRVTdGVjR4SnRialdDS0ZvMzRXU2g3X1FpNnhjeFhqM0JJRU1JbDhCb29yZWJLUUlIZmh6ZmtKekFxR005MS1oUHNCX2FqNTVGTHo2c0FlNXRBYUFwaG0?oc=5\" target=\"_blank\">Georgia Power exec speaks on data centers, misinformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
+        "published_at": "2026-08-23T13:30:00+00:00",
+        "summary": "Georgia Power touts data centers, urges leaders to educate the public The Rome News-Tribune",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNY1RKMWRYTVpMcjVXUFdLR1FHMzMtdUdSVnFjTnBGLWhUQ3hOckFlWmFUemFPbGpvLWs2ZXkxZzdLejlvMS1EakFGUDBCTGxPOUY4em1rMVBaejFLVnJubHFlNXNGc1FCanhKN3VZTUxhYzE1YS1wOUsyenVxdkptTENnWHExeERFVlZlZlZneFpRZVhwNUl4aFdjTjh1aHU1MFlLNHFlQmV4bHN2OEdZUHF3RDdneFpPVXUwbmRyYzkxUTVWU1c0YXNONTJ4ZHh0blNFOVlIWmdZS2dGV0k4UkxXZ0Q1QllqRnNzMksyakFkZXpLOGljczU4R0xWLVBiVmxrMDFKWk9iNm1R?oc=5\" target=\"_blank\">Georgia Power touts data centers, urges leaders to educate the public</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-22T16:16:32+00:00"
+        "collected_at": "2026-08-23T14:17:04+00:00"
       }
     },
     {
