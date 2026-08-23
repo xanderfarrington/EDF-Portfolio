@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-23T18:20:32+00:00",
+  "last_updated": "2026-08-23T20:14:44+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 460,
+  "count": 461,
   "mentions": [
+    {
+      "id": "52d74adb95c16119",
+      "title": "GNTC Automation Technology students have bright future at Georgia Power | Local | northwestgeorgianews.com - The Rome News-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPSzYtR1FJV25kVTVodnNfRTVBcXBtYWFuLUh5eFBzRjhMd25jSG44X1VoVGtBY2xmXzI1Y21nOFR1WjVXUUlkVXdFUWFEN1Z2YXk0S3lZakUwMDlWVkl0Wk1KRTJFQnltNl9kQkJxREt3RmZWTjdYek1vNG9rVGRFUVQwakZnb1RfWmhZQWRRTFQxbXY0bHBjR1RzYklQOXRleWppczQwZ0I0NWJKRFdxVWp3ZGhHdWdwYW1ZZEU0b29WVWd6VjI3NjdDdlpCUENKc0hxY1Q1X0tVWnlWdm9uQTlIVmVDcHZaZ2xrWmFMcXJOYVpTT1JHUm4td28xS2tIVGN6aDU2U19fMkVNbGhLUkxaOVNzRzlGNnNj?oc=5",
+      "domain": "news.google.com",
+      "source": "The Rome News-Tribune",
+      "language": "English",
+      "published_at": "2026-08-23T15:30:00+00:00",
+      "summary": "GNTC Automation Technology students have bright future at Georgia Power | Local | northwestgeorgianews.com The Rome News-Tribune",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxPSzYtR1FJV25kVTVodnNfRTVBcXBtYWFuLUh5eFBzRjhMd25jSG44X1VoVGtBY2xmXzI1Y21nOFR1WjVXUUlkVXdFUWFEN1Z2YXk0S3lZakUwMDlWVkl0Wk1KRTJFQnltNl9kQkJxREt3RmZWTjdYek1vNG9rVGRFUVQwakZnb1RfWmhZQWRRTFQxbXY0bHBjR1RzYklQOXRleWppczQwZ0I0NWJKRFdxVWp3ZGhHdWdwYW1ZZEU0b29WVWd6VjI3NjdDdlpCUENKc0hxY1Q1X0tVWnlWdm9uQTlIVmVDcHZaZ2xrWmFMcXJOYVpTT1JHUm4td28xS2tIVGN6aDU2U19fMkVNbGhLUkxaOVNzRzlGNnNj?oc=5\" target=\"_blank\">GNTC Automation Technology students have bright future at Georgia Power | Local | northwestgeorgianews.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-23T20:14:44+00:00"
+    },
     {
       "id": "ae2e6ed50ea83b36",
       "title": "Georgia Power touts data centers, urges leaders to educate the public - The Rome News-Tribune",

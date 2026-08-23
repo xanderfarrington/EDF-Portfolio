@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-23T18:20:50+00:00",
+  "last_updated": "2026-08-23T20:14:55+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 80,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 249,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "11611a00b6c630a3",
         "title": "Alabama Power Hosts First Responder Safety Training in Gadsden and Talladega - Calhoun Journal",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 95,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "512468455fd03c04",
         "title": "Transformer delivery brings Three Mile Island restart one step closer to reality - The Frederick News-Post",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 460,
-      "new_mentions_this_run": 0,
+      "count": 461,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "ae2e6ed50ea83b36",
-        "title": "Georgia Power touts data centers, urges leaders to educate the public - The Rome News-Tribune",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNY1RKMWRYTVpMcjVXUFdLR1FHMzMtdUdSVnFjTnBGLWhUQ3hOckFlWmFUemFPbGpvLWs2ZXkxZzdLejlvMS1EakFGUDBCTGxPOUY4em1rMVBaejFLVnJubHFlNXNGc1FCanhKN3VZTUxhYzE1YS1wOUsyenVxdkptTENnWHExeERFVlZlZlZneFpRZVhwNUl4aFdjTjh1aHU1MFlLNHFlQmV4bHN2OEdZUHF3RDdneFpPVXUwbmRyYzkxUTVWU1c0YXNONTJ4ZHh0blNFOVlIWmdZS2dGV0k4UkxXZ0Q1QllqRnNzMksyakFkZXpLOGljczU4R0xWLVBiVmxrMDFKWk9iNm1R?oc=5",
+        "id": "52d74adb95c16119",
+        "title": "GNTC Automation Technology students have bright future at Georgia Power | Local | northwestgeorgianews.com - The Rome News-Tribune",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPSzYtR1FJV25kVTVodnNfRTVBcXBtYWFuLUh5eFBzRjhMd25jSG44X1VoVGtBY2xmXzI1Y21nOFR1WjVXUUlkVXdFUWFEN1Z2YXk0S3lZakUwMDlWVkl0Wk1KRTJFQnltNl9kQkJxREt3RmZWTjdYek1vNG9rVGRFUVQwakZnb1RfWmhZQWRRTFQxbXY0bHBjR1RzYklQOXRleWppczQwZ0I0NWJKRFdxVWp3ZGhHdWdwYW1ZZEU0b29WVWd6VjI3NjdDdlpCUENKc0hxY1Q1X0tVWnlWdm9uQTlIVmVDcHZaZ2xrWmFMcXJOYVpTT1JHUm4td28xS2tIVGN6aDU2U19fMkVNbGhLUkxaOVNzRzlGNnNj?oc=5",
         "domain": "news.google.com",
         "source": "The Rome News-Tribune",
         "language": "English",
-        "published_at": "2026-08-23T13:30:00+00:00",
-        "summary": "Georgia Power touts data centers, urges leaders to educate the public The Rome News-Tribune",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNY1RKMWRYTVpMcjVXUFdLR1FHMzMtdUdSVnFjTnBGLWhUQ3hOckFlWmFUemFPbGpvLWs2ZXkxZzdLejlvMS1EakFGUDBCTGxPOUY4em1rMVBaejFLVnJubHFlNXNGc1FCanhKN3VZTUxhYzE1YS1wOUsyenVxdkptTENnWHExeERFVlZlZlZneFpRZVhwNUl4aFdjTjh1aHU1MFlLNHFlQmV4bHN2OEdZUHF3RDdneFpPVXUwbmRyYzkxUTVWU1c0YXNONTJ4ZHh0blNFOVlIWmdZS2dGV0k4UkxXZ0Q1QllqRnNzMksyakFkZXpLOGljczU4R0xWLVBiVmxrMDFKWk9iNm1R?oc=5\" target=\"_blank\">Georgia Power touts data centers, urges leaders to educate the public</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
+        "published_at": "2026-08-23T15:30:00+00:00",
+        "summary": "GNTC Automation Technology students have bright future at Georgia Power | Local | northwestgeorgianews.com The Rome News-Tribune",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxPSzYtR1FJV25kVTVodnNfRTVBcXBtYWFuLUh5eFBzRjhMd25jSG44X1VoVGtBY2xmXzI1Y21nOFR1WjVXUUlkVXdFUWFEN1Z2YXk0S3lZakUwMDlWVkl0Wk1KRTJFQnltNl9kQkJxREt3RmZWTjdYek1vNG9rVGRFUVQwakZnb1RfWmhZQWRRTFQxbXY0bHBjR1RzYklQOXRleWppczQwZ0I0NWJKRFdxVWp3ZGhHdWdwYW1ZZEU0b29WVWd6VjI3NjdDdlpCUENKc0hxY1Q1X0tVWnlWdm9uQTlIVmVDcHZaZ2xrWmFMcXJOYVpTT1JHUm4td28xS2tIVGN6aDU2U19fMkVNbGhLUkxaOVNzRzlGNnNj?oc=5\" target=\"_blank\">GNTC Automation Technology students have bright future at Georgia Power | Local | northwestgeorgianews.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-23T14:17:04+00:00"
+        "collected_at": "2026-08-23T20:14:44+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 44,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "4c321ea858b80262",
         "title": "AEP Transmission - Department of Energy (.gov)",
