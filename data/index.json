@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T04:30:23+00:00",
+  "last_updated": "2026-08-23T06:30:09+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 249,
-      "new_mentions_this_run": 18,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "11611a00b6c630a3",
         "title": "Alabama Power Hosts First Responder Safety Training in Gadsden and Talladega - Calhoun Journal",
