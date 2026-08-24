@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T12:35:57+00:00",
+  "last_updated": "2026-08-24T14:35:28+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 250,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "986210fbe58ec5a9",
         "title": "Shelby County Judge sets preliminary injunction hearing in Alabama Power eminent domain case - 1819 News",
@@ -68,21 +68,21 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 95,
-      "new_mentions_this_run": 11,
+      "count": 96,
+      "new_mentions_this_run": 10,
       "latest_mention": {
-        "id": "512468455fd03c04",
-        "title": "Transformer delivery brings Three Mile Island restart one step closer to reality - The Frederick News-Post",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeF9FY1ZSd3hOVXNkbk5abVdEMXB3RDEzd180MTBwM1paRGtBM0ptRFlqRmFOdjBrbHRVMDVXdXY1SWpvRFFfamwtaGtrRHo1em9LREhwOXBtQ3oxRkJpajVKVjdTYjU1dkItS1ZIUDhFVEdEa1g1cW9HOV9LM0M0QS1NOEUtVUxUWklKZXV5cnphZ1l3RnpQOTBZeXBsZlRaRGJFZ1B6ZndMM2xSZnBGLVJjTE1lWDJHRU4yTThnQTIyQy1NbFV2VV9IdlVrUW1fczZMMDVYeFZiZWY5ekNkbjFEb2ljSjFSUjRnbVRHR1k3VzZsU2cxT2pDX0dQZHNHMkp6dDNhbDVCcjJFS3hXOVMwUjlmUE13ZUE?oc=5",
+        "id": "67a09dd6dea4e33a",
+        "title": "Transformer delivery brings Three Mile Island restart one step closer to reality - The Latrobe Bulletin",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOGMtaWNjSldDLVJGQ1FMMXkyTU9fZ2RSWnZKR2FwWURtZFlqWDdsTC1iMVg4ZG5SQnpTaUdZbG5ZWVVXcUdpNDl5OGFJaVpnU24wOFRvNEFDbno2cmVhY1BVZ0JLV3U2MTh3cFBiVFR5TE1jbGpBYzdPRk5DUEpFbG5ndUJqd1FZcW5hdHVOS1VDdFIwMXZZbXh6MVUxc3R3a1hpeWo4Q0xVQlF3Z1ZPZWJJd0llU3NHMmZUOE5WTjgtTm1jVzNCbFZxNl9vc3U2ZFpLV2hfUE9sbjc4eVlqdHNDNkctYk5jcDVDMnFIVkFSVXkyQVhVUzN0TXo3Wk1faFd6ZV9RUEY?oc=5",
         "domain": "news.google.com",
-        "source": "The Frederick News-Post",
+        "source": "The Latrobe Bulletin",
         "language": "English",
-        "published_at": "2026-08-18T14:45:00+00:00",
-        "summary": "Transformer delivery brings Three Mile Island restart one step closer to reality The Frederick News-Post",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxPeF9FY1ZSd3hOVXNkbk5abVdEMXB3RDEzd180MTBwM1paRGtBM0ptRFlqRmFOdjBrbHRVMDVXdXY1SWpvRFFfamwtaGtrRHo1em9LREhwOXBtQ3oxRkJpajVKVjdTYjU1dkItS1ZIUDhFVEdEa1g1cW9HOV9LM0M0QS1NOEUtVUxUWklKZXV5cnphZ1l3RnpQOTBZeXBsZlRaRGJFZ1B6ZndMM2xSZnBGLVJjTE1lWDJHRU4yTThnQTIyQy1NbFV2VV9IdlVrUW1fczZMMDVYeFZiZWY5ekNkbjFEb2ljSjFSUjRnbVRHR1k3VzZsU2cxT2pDX0dQZHNHMkp6dDNhbDVCcjJFS3hXOVMwUjlmUE13ZUE?oc=5\" target=\"_blank\">Transformer delivery brings Three Mile Island restart one step closer to reality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Frederick News-Post</font>",
+        "published_at": "2026-08-18T22:29:22+00:00",
+        "summary": "Transformer delivery brings Three Mile Island restart one step closer to reality The Latrobe Bulletin",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOGMtaWNjSldDLVJGQ1FMMXkyTU9fZ2RSWnZKR2FwWURtZFlqWDdsTC1iMVg4ZG5SQnpTaUdZbG5ZWVVXcUdpNDl5OGFJaVpnU24wOFRvNEFDbno2cmVhY1BVZ0JLV3U2MTh3cFBiVFR5TE1jbGpBYzdPRk5DUEpFbG5ndUJqd1FZcW5hdHVOS1VDdFIwMXZZbXh6MVUxc3R3a1hpeWo4Q0xVQlF3Z1ZPZWJJd0llU3NHMmZUOE5WTjgtTm1jVzNCbFZxNl9vc3U2ZFpLV2hfUE9sbjc4eVlqdHNDNkctYk5jcDVDMnFIVkFSVXkyQVhVUzN0TXo3Wk1faFd6ZV9RUEY?oc=5\" target=\"_blank\">Transformer delivery brings Three Mile Island restart one step closer to reality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Latrobe Bulletin</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-18T22:16:01+00:00"
+        "collected_at": "2026-08-24T14:35:12+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 467,
-      "new_mentions_this_run": 18,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "0e58543cdcf4eb87",
         "title": "Georgia Power exec speaks on data centers, misinformation - The Rome News-Tribune",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 44,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "4c321ea858b80262",
         "title": "AEP Transmission - Department of Energy (.gov)",

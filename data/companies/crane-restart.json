@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-08-24T12:35:41+00:00",
+  "last_updated": "2026-08-24T14:35:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 95,
+  "count": 96,
   "mentions": [
+    {
+      "id": "67a09dd6dea4e33a",
+      "title": "Transformer delivery brings Three Mile Island restart one step closer to reality - The Latrobe Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOGMtaWNjSldDLVJGQ1FMMXkyTU9fZ2RSWnZKR2FwWURtZFlqWDdsTC1iMVg4ZG5SQnpTaUdZbG5ZWVVXcUdpNDl5OGFJaVpnU24wOFRvNEFDbno2cmVhY1BVZ0JLV3U2MTh3cFBiVFR5TE1jbGpBYzdPRk5DUEpFbG5ndUJqd1FZcW5hdHVOS1VDdFIwMXZZbXh6MVUxc3R3a1hpeWo4Q0xVQlF3Z1ZPZWJJd0llU3NHMmZUOE5WTjgtTm1jVzNCbFZxNl9vc3U2ZFpLV2hfUE9sbjc4eVlqdHNDNkctYk5jcDVDMnFIVkFSVXkyQVhVUzN0TXo3Wk1faFd6ZV9RUEY?oc=5",
+      "domain": "news.google.com",
+      "source": "The Latrobe Bulletin",
+      "language": "English",
+      "published_at": "2026-08-18T22:29:22+00:00",
+      "summary": "Transformer delivery brings Three Mile Island restart one step closer to reality The Latrobe Bulletin",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOGMtaWNjSldDLVJGQ1FMMXkyTU9fZ2RSWnZKR2FwWURtZFlqWDdsTC1iMVg4ZG5SQnpTaUdZbG5ZWVVXcUdpNDl5OGFJaVpnU24wOFRvNEFDbno2cmVhY1BVZ0JLV3U2MTh3cFBiVFR5TE1jbGpBYzdPRk5DUEpFbG5ndUJqd1FZcW5hdHVOS1VDdFIwMXZZbXh6MVUxc3R3a1hpeWo4Q0xVQlF3Z1ZPZWJJd0llU3NHMmZUOE5WTjgtTm1jVzNCbFZxNl9vc3U2ZFpLV2hfUE9sbjc4eVlqdHNDNkctYk5jcDVDMnFIVkFSVXkyQVhVUzN0TXo3Wk1faFd6ZV9RUEY?oc=5\" target=\"_blank\">Transformer delivery brings Three Mile Island restart one step closer to reality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Latrobe Bulletin</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-24T14:35:12+00:00"
+    },
     {
       "id": "512468455fd03c04",
       "title": "Transformer delivery brings Three Mile Island restart one step closer to reality - The Frederick News-Post",
