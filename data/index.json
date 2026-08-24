@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-23T22:15:10+00:00",
+  "last_updated": "2026-08-24T00:55:09+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 80,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 461,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "52d74adb95c16119",
         "title": "GNTC Automation Technology students have bright future at Georgia Power | Local | northwestgeorgianews.com - The Rome News-Tribune",
