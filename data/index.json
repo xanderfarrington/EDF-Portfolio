@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T14:35:28+00:00",
+  "last_updated": "2026-08-24T16:28:34+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 250,
-      "new_mentions_this_run": 21,
+      "count": 253,
+      "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "986210fbe58ec5a9",
-        "title": "Shelby County Judge sets preliminary injunction hearing in Alabama Power eminent domain case - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU5Tb1ltblZzbGF2MURQZWkwSVRqbkM3QVE5OXVhWjlGQm52bDgwaWZkbFNJbGZpZHBwZ2U0MTNXM2JsR1RIdDZjT0FkZDZMQW9SYXNHX1p6Z2ZRWnJrLVpscEhLaDREejVfbjNHbl9EQ29SQVVFY3Z4X011a0U2eHpUWGtyaVZ5VFJzQ0d2ZXdmb2FnU29sUEhNZThzS3dRLTJHZ2JlTFlIMlQwMThwU05JcWNQeVZKMXdKRFA5ZFg?oc=5",
+        "id": "02448de6eb4c7163",
+        "title": "Alabama summer heat can mean higher power bills. Here’s how to track your usage - Yellowhammer News",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2JBWDBfY214NDVWMmJJSHZPbjZRbEFmMjlvcEN5Y2haN0xuWUJuUVNxMVgtR3BmcDRpRnZOMk9PUE9YTUY1bjROOXR0UXNRN0QxMVhLZFZTdGF0UEVBVlJ2NC1uSFJjNVFhQzZjbkE4Qk1KaTdxZEZKR2tlS0pXYmZ4NEhZU0E1RjdQNzc0T3RZWkg1YmFxbzJTQnZYS2llWmZ2NzZyV2xMNlk?oc=5",
         "domain": "news.google.com",
-        "source": "1819 News",
+        "source": "Yellowhammer News",
         "language": "English",
-        "published_at": "2026-08-24T11:26:15+00:00",
-        "summary": "Shelby County Judge sets preliminary injunction hearing in Alabama Power eminent domain case 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU5Tb1ltblZzbGF2MURQZWkwSVRqbkM3QVE5OXVhWjlGQm52bDgwaWZkbFNJbGZpZHBwZ2U0MTNXM2JsR1RIdDZjT0FkZDZMQW9SYXNHX1p6Z2ZRWnJrLVpscEhLaDREejVfbjNHbl9EQ29SQVVFY3Z4X011a0U2eHpUWGtyaVZ5VFJzQ0d2ZXdmb2FnU29sUEhNZThzS3dRLTJHZ2JlTFlIMlQwMThwU05JcWNQeVZKMXdKRFA5ZFg?oc=5\" target=\"_blank\">Shelby County Judge sets preliminary injunction hearing in Alabama Power eminent domain case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-08-24T14:30:16+00:00",
+        "summary": "Alabama summer heat can mean higher power bills. Here’s how to track your usage Yellowhammer News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2JBWDBfY214NDVWMmJJSHZPbjZRbEFmMjlvcEN5Y2haN0xuWUJuUVNxMVgtR3BmcDRpRnZOMk9PUE9YTUY1bjROOXR0UXNRN0QxMVhLZFZTdGF0UEVBVlJ2NC1uSFJjNVFhQzZjbkE4Qk1KaTdxZEZKR2tlS0pXYmZ4NEhZU0E1RjdQNzc0T3RZWkg1YmFxbzJTQnZYS2llWmZ2NzZyV2xMNlk?oc=5\" target=\"_blank\">Alabama summer heat can mean higher power bills. Here’s how to track your usage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellowhammer News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-24T12:35:30+00:00"
+        "collected_at": "2026-08-24T16:28:07+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 467,
+      "count": 471,
       "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "0e58543cdcf4eb87",
