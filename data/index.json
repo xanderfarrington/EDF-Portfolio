@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T18:30:28+00:00",
+  "last_updated": "2026-08-24T20:22:37+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 472,
-      "new_mentions_this_run": 24,
+      "count": 480,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "7a3df535313a668a",
-        "title": "Georgia Power’s use of eminent domain puts property rights at risk - The Newnan Times-Herald",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVDJfdHU4R3lJNTkzbGhpanVGWE5VSjdUTk5PN0lqMEhVRjMtSVkzbVFhM2VFY0pYLWpWcUxjN0VZeU5zSXdjV1FXS0dqRDNkczZoalhOY29jVEJ1SUYyVjVVNVJ0c2tPNDZKWDQyX2t5VXo5NEMtR1hKNlpyN0syS3RBcTQzRGJMSVphbm92Y3MwQ25SYVlWSmlYMmFSVWpLekV3cGxOVlJaWTVJcVRKS25PbDUxbzBfdEdyaHJJZmZWOTF3NzFacU1PQmdlZjZSaThKVWdJUEY3a3lCRWtTVkFRR2dJYk9T?oc=5",
+        "id": "d1b0aaeb13186a0e",
+        "title": "Georgia Power plant evacuated, Highway 16 shut down as authorities investigate bomb threat - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXFvTFdvZmp6ZDNVblZkZWVjWkpVYzlLRGFUb2dGSjFQejVscW5oX24xczM3aUR3anNFQmFVY1E5Nmxyb2Q5M0tid1RscmJIc0cxdXhKU1Jqc2V4SmdLVzlycEx0cW1kVE1fOTRhcVhRcGFiTVBvUWdKWGVGN1N2czJZT3Vhd1liQ2stYnctZVpjV0t2WHZtTWNqUFVuVm00a3RHbWtZVzVfR0VRaU1mRndXVzFpcU1UQ0hVeE9TTzlrNVJEWTZyWXJYX2tkTzU1X3c?oc=5",
         "domain": "news.google.com",
-        "source": "The Newnan Times-Herald",
+        "source": "CBS News",
         "language": "English",
-        "published_at": "2026-08-24T17:41:00+00:00",
-        "summary": "Georgia Power’s use of eminent domain puts property rights at risk The Newnan Times-Herald",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVDJfdHU4R3lJNTkzbGhpanVGWE5VSjdUTk5PN0lqMEhVRjMtSVkzbVFhM2VFY0pYLWpWcUxjN0VZeU5zSXdjV1FXS0dqRDNkczZoalhOY29jVEJ1SUYyVjVVNVJ0c2tPNDZKWDQyX2t5VXo5NEMtR1hKNlpyN0syS3RBcTQzRGJMSVphbm92Y3MwQ25SYVlWSmlYMmFSVWpLekV3cGxOVlJaWTVJcVRKS25PbDUxbzBfdEdyaHJJZmZWOTF3NzFacU1PQmdlZjZSaThKVWdJUEY3a3lCRWtTVkFRR2dJYk9T?oc=5\" target=\"_blank\">Georgia Power’s use of eminent domain puts property rights at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Newnan Times-Herald</font>",
+        "published_at": "2026-08-24T20:10:00+00:00",
+        "summary": "Georgia Power plant evacuated, Highway 16 shut down as authorities investigate bomb threat CBS News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXFvTFdvZmp6ZDNVblZkZWVjWkpVYzlLRGFUb2dGSjFQejVscW5oX24xczM3aUR3anNFQmFVY1E5Nmxyb2Q5M0tid1RscmJIc0cxdXhKU1Jqc2V4SmdLVzlycEx0cW1kVE1fOTRhcVhRcGFiTVBvUWdKWGVGN1N2czJZT3Vhd1liQ2stYnctZVpjV0t2WHZtTWNqUFVuVm00a3RHbWtZVzVfR0VRaU1mRndXVzFpcU1UQ0hVeE9TTzlrNVJEWTZyWXJYX2tkTzU1X3c?oc=5\" target=\"_blank\">Georgia Power plant evacuated, Highway 16 shut down as authorities investigate bomb threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-24T18:30:18+00:00"
+        "collected_at": "2026-08-24T20:22:26+00:00"
       }
     },
     {
