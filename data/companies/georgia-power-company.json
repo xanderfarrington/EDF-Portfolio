@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-24T10:31:20+00:00",
+  "last_updated": "2026-08-24T12:35:46+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 466,
+  "count": 467,
   "mentions": [
     {
       "id": "0e58543cdcf4eb87",
@@ -607,6 +607,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-16T08:20:50+00:00"
+    },
+    {
+      "id": "a4067f56dbe74239",
+      "title": "Georgia Power extends deadline for PSC to consider its contract with data center operator OpenAI - WABE",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVhZcnlPTW1Ycm5Zbmtsb3R3Nm1mZERnb1BqXzJ4NXVhOHdkN0lBbXFnY2I1MndSNFRnWjByeTQxVnZ4ZnVkb1h1dFlkZ2NULS1waExYcmhyZ3F0aUd5MXB6YkRRLUtvc0hIOGMxQUdZZ1Q2cnVjX2V6TS1VSU9EeEU0RnN1RzZ1RFd6cVZmQXdqRGpxQm9UQ3d4a1BnblBialRJSTJITXJjNEpLY2E3Yl9MYWwxLVRIV3c?oc=5",
+      "domain": "news.google.com",
+      "source": "WABE",
+      "language": "English",
+      "published_at": "2026-08-14T14:36:08+00:00",
+      "summary": "Georgia Power extends deadline for PSC to consider its contract with data center operator OpenAI WABE",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVhZcnlPTW1Ycm5Zbmtsb3R3Nm1mZERnb1BqXzJ4NXVhOHdkN0lBbXFnY2I1MndSNFRnWjByeTQxVnZ4ZnVkb1h1dFlkZ2NULS1waExYcmhyZ3F0aUd5MXB6YkRRLUtvc0hIOGMxQUdZZ1Q2cnVjX2V6TS1VSU9EeEU0RnN1RzZ1RFd6cVZmQXdqRGpxQm9UQ3d4a1BnblBialRJSTJITXJjNEpLY2E3Yl9MYWwxLVRIV3c?oc=5\" target=\"_blank\">Georgia Power extends deadline for PSC to consider its contract with data center operator OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-24T12:35:46+00:00"
     },
     {
       "id": "99c73b280e1b5d82",

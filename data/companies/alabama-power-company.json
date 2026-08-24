@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-24T10:31:04+00:00",
+  "last_updated": "2026-08-24T12:35:30+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 249,
+  "count": 250,
   "mentions": [
+    {
+      "id": "986210fbe58ec5a9",
+      "title": "Shelby County Judge sets preliminary injunction hearing in Alabama Power eminent domain case - 1819 News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU5Tb1ltblZzbGF2MURQZWkwSVRqbkM3QVE5OXVhWjlGQm52bDgwaWZkbFNJbGZpZHBwZ2U0MTNXM2JsR1RIdDZjT0FkZDZMQW9SYXNHX1p6Z2ZRWnJrLVpscEhLaDREejVfbjNHbl9EQ29SQVVFY3Z4X011a0U2eHpUWGtyaVZ5VFJzQ0d2ZXdmb2FnU29sUEhNZThzS3dRLTJHZ2JlTFlIMlQwMThwU05JcWNQeVZKMXdKRFA5ZFg?oc=5",
+      "domain": "news.google.com",
+      "source": "1819 News",
+      "language": "English",
+      "published_at": "2026-08-24T11:26:15+00:00",
+      "summary": "Shelby County Judge sets preliminary injunction hearing in Alabama Power eminent domain case 1819 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU5Tb1ltblZzbGF2MURQZWkwSVRqbkM3QVE5OXVhWjlGQm52bDgwaWZkbFNJbGZpZHBwZ2U0MTNXM2JsR1RIdDZjT0FkZDZMQW9SYXNHX1p6Z2ZRWnJrLVpscEhLaDREejVfbjNHbl9EQ29SQVVFY3Z4X011a0U2eHpUWGtyaVZ5VFJzQ0d2ZXdmb2FnU29sUEhNZThzS3dRLTJHZ2JlTFlIMlQwMThwU05JcWNQeVZKMXdKRFA5ZFg?oc=5\" target=\"_blank\">Shelby County Judge sets preliminary injunction hearing in Alabama Power eminent domain case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-24T12:35:30+00:00"
+    },
     {
       "id": "11611a00b6c630a3",
       "title": "Alabama Power Hosts First Responder Safety Training in Gadsden and Talladega - Calhoun Journal",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T10:31:31+00:00",
+  "last_updated": "2026-08-24T12:35:57+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 249,
-      "new_mentions_this_run": 15,
+      "count": 250,
+      "new_mentions_this_run": 16,
       "latest_mention": {
-        "id": "11611a00b6c630a3",
-        "title": "Alabama Power Hosts First Responder Safety Training in Gadsden and Talladega - Calhoun Journal",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakNBd1ZGTmtZcmRoblRSb2VETlk3OHNXOVhNSzNiWjhzRHhQTE5IOHNjNkt3WWx0T0kwVjNnamhPS3FHUm9RSzFzYjV6Uld3S1YzYVA4RFlnUkRqNllSSHhIU0ZFVnNTT1Q2bkM5dEdSNUROY2ZzbkNpMjA2VjItVXFsQ1ZQVldTQkx4aFd5V1R5dktBdGJyMmNNR3BCTEd6RUsyU25XTQ?oc=5",
+        "id": "986210fbe58ec5a9",
+        "title": "Shelby County Judge sets preliminary injunction hearing in Alabama Power eminent domain case - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU5Tb1ltblZzbGF2MURQZWkwSVRqbkM3QVE5OXVhWjlGQm52bDgwaWZkbFNJbGZpZHBwZ2U0MTNXM2JsR1RIdDZjT0FkZDZMQW9SYXNHX1p6Z2ZRWnJrLVpscEhLaDREejVfbjNHbl9EQ29SQVVFY3Z4X011a0U2eHpUWGtyaVZ5VFJzQ0d2ZXdmb2FnU29sUEhNZThzS3dRLTJHZ2JlTFlIMlQwMThwU05JcWNQeVZKMXdKRFA5ZFg?oc=5",
         "domain": "news.google.com",
-        "source": "Calhoun Journal",
+        "source": "1819 News",
         "language": "English",
-        "published_at": "2026-08-21T19:36:16+00:00",
-        "summary": "Alabama Power Hosts First Responder Safety Training in Gadsden and Talladega Calhoun Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNakNBd1ZGTmtZcmRoblRSb2VETlk3OHNXOVhNSzNiWjhzRHhQTE5IOHNjNkt3WWx0T0kwVjNnamhPS3FHUm9RSzFzYjV6Uld3S1YzYVA4RFlnUkRqNllSSHhIU0ZFVnNTT1Q2bkM5dEdSNUROY2ZzbkNpMjA2VjItVXFsQ1ZQVldTQkx4aFd5V1R5dktBdGJyMmNNR3BCTEd6RUsyU25XTQ?oc=5\" target=\"_blank\">Alabama Power Hosts First Responder Safety Training in Gadsden and Talladega</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Calhoun Journal</font>",
+        "published_at": "2026-08-24T11:26:15+00:00",
+        "summary": "Shelby County Judge sets preliminary injunction hearing in Alabama Power eminent domain case 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU5Tb1ltblZzbGF2MURQZWkwSVRqbkM3QVE5OXVhWjlGQm52bDgwaWZkbFNJbGZpZHBwZ2U0MTNXM2JsR1RIdDZjT0FkZDZMQW9SYXNHX1p6Z2ZRWnJrLVpscEhLaDREejVfbjNHbl9EQ29SQVVFY3Z4X011a0U2eHpUWGtyaVZ5VFJzQ0d2ZXdmb2FnU29sUEhNZThzS3dRLTJHZ2JlTFlIMlQwMThwU05JcWNQeVZKMXdKRFA5ZFg?oc=5\" target=\"_blank\">Shelby County Judge sets preliminary injunction hearing in Alabama Power eminent domain case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-21T20:18:09+00:00"
+        "collected_at": "2026-08-24T12:35:30+00:00"
       }
     },
     {
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 466,
-      "new_mentions_this_run": 24,
+      "count": 467,
+      "new_mentions_this_run": 18,
       "latest_mention": {
         "id": "0e58543cdcf4eb87",
         "title": "Georgia Power exec speaks on data centers, misinformation - The Rome News-Tribune",
