@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T02:57:39+00:00",
+  "last_updated": "2026-08-24T04:38:34+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 249,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "11611a00b6c630a3",
         "title": "Alabama Power Hosts First Responder Safety Training in Gadsden and Talladega - Calhoun Journal",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 462,
+      "count": 464,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "5a585894c43c2521",
-        "title": "Stockbridge electricity outage leaves hundreds dark after crash - FOX 5 Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXh3bmZ0TkJRVzhfLW1Hdkl6LXZlTks4bXZkRmY5QXhfZE1pZVNJLWV6azVDMWFZTFozckh4VGFwTWtzOEV5QUVCdHRDRW13UVE5Y1M1d01DRFdUYzNNcTRKTFQ4WnRISThNQXAzZWp1Vmd1TmhyR0N0MVpXUEJLM01obUlqdlhid1ZkcmI0TnVRSmJEbi1GMzdUU2E?oc=5",
+        "id": "a13bb33bea75def1",
+        "title": "900 Georgia Power customers without power in Henry County - 11Alive.com",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVkZySVJJNW5NUnkxWlFpOUtXYVNTM2dHOW40UWg1RjJPS1lMeWJiWUpKS29PWC1vZmJxY3Jfdl92cF80QWdkR3pSZ2lIQXFtUFdUc2hna2Y5S1RRdkozakVRRWF4V1FSUG9fUndLSVkzQThkaGZ3cFctbll4VVY2S0NXcVR3T2d2eTZMNTdfenpfcHhTVnczQ3ZmSXcyUFp5cEdMRllqNjNnX0dkOVlQUjZ2bDdrM01UVV9DbnhWZl9TNFIwcE80YUt1Yl9uZWFkeDQwVw?oc=5",
         "domain": "news.google.com",
-        "source": "FOX 5 Atlanta",
+        "source": "11Alive.com",
         "language": "English",
-        "published_at": "2026-08-24T02:24:34+00:00",
-        "summary": "Stockbridge electricity outage leaves hundreds dark after crash FOX 5 Atlanta",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXh3bmZ0TkJRVzhfLW1Hdkl6LXZlTks4bXZkRmY5QXhfZE1pZVNJLWV6azVDMWFZTFozckh4VGFwTWtzOEV5QUVCdHRDRW13UVE5Y1M1d01DRFdUYzNNcTRKTFQ4WnRISThNQXAzZWp1Vmd1TmhyR0N0MVpXUEJLM01obUlqdlhid1ZkcmI0TnVRSmJEbi1GMzdUU2E?oc=5\" target=\"_blank\">Stockbridge electricity outage leaves hundreds dark after crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+        "published_at": "2026-08-24T04:00:00+00:00",
+        "summary": "900 Georgia Power customers without power in Henry County 11Alive.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVkZySVJJNW5NUnkxWlFpOUtXYVNTM2dHOW40UWg1RjJPS1lMeWJiWUpKS29PWC1vZmJxY3Jfdl92cF80QWdkR3pSZ2lIQXFtUFdUc2hna2Y5S1RRdkozakVRRWF4V1FSUG9fUndLSVkzQThkaGZ3cFctbll4VVY2S0NXcVR3T2d2eTZMNTdfenpfcHhTVnczQ3ZmSXcyUFp5cEdMRllqNjNnX0dkOVlQUjZ2bDdrM01UVV9DbnhWZl9TNFIwcE80YUt1Yl9uZWFkeDQwVw?oc=5\" target=\"_blank\">900 Georgia Power customers without power in Henry County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-24T02:57:29+00:00"
+        "collected_at": "2026-08-24T04:38:24+00:00"
       }
     },
     {
