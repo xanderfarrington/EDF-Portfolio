@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T08:40:16+00:00",
+  "last_updated": "2026-08-24T10:31:31+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 464,
+      "count": 466,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "a13bb33bea75def1",
-        "title": "900 Georgia Power customers without power in Henry County - 11Alive.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVkZySVJJNW5NUnkxWlFpOUtXYVNTM2dHOW40UWg1RjJPS1lMeWJiWUpKS29PWC1vZmJxY3Jfdl92cF80QWdkR3pSZ2lIQXFtUFdUc2hna2Y5S1RRdkozakVRRWF4V1FSUG9fUndLSVkzQThkaGZ3cFctbll4VVY2S0NXcVR3T2d2eTZMNTdfenpfcHhTVnczQ3ZmSXcyUFp5cEdMRllqNjNnX0dkOVlQUjZ2bDdrM01UVV9DbnhWZl9TNFIwcE80YUt1Yl9uZWFkeDQwVw?oc=5",
+        "id": "0e58543cdcf4eb87",
+        "title": "Georgia Power exec speaks on data centers, misinformation - The Rome News-Tribune",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOXB2ZGt6ek1lWDJxUmhHVEpXNnV5allRMlNQWklKT3NsTE9Zbk9BRlV6UXhMMm5GRDNoR3NLeU9NdDkyVkpNcWNXLU52SktvQWxhRERDWU16MzdYVkVWal9kTGdZa2Q1aUtkMWpScU5uOXdhTWxlcGNITlA4MGliaEFlZWtLNktWTlFHR3RJMlByaTgwSUl5R2tvSUtvY1o3aWRPNUNRUUVWTUg5WTVXcGc4QVRRUFRQZExTTDQ5OHBMTlo0NEJmMVk4V1JndzNnRi1FUWRpSFgxclM2VG1zVDlXNXZOZ29MaWlNdzdKWGQ4MzFra1FoWk8xWEhwN0Y2V2Q4UGVrcw?oc=5",
         "domain": "news.google.com",
-        "source": "11Alive.com",
+        "source": "The Rome News-Tribune",
         "language": "English",
-        "published_at": "2026-08-24T04:00:00+00:00",
-        "summary": "900 Georgia Power customers without power in Henry County 11Alive.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVkZySVJJNW5NUnkxWlFpOUtXYVNTM2dHOW40UWg1RjJPS1lMeWJiWUpKS29PWC1vZmJxY3Jfdl92cF80QWdkR3pSZ2lIQXFtUFdUc2hna2Y5S1RRdkozakVRRWF4V1FSUG9fUndLSVkzQThkaGZ3cFctbll4VVY2S0NXcVR3T2d2eTZMNTdfenpfcHhTVnczQ3ZmSXcyUFp5cEdMRllqNjNnX0dkOVlQUjZ2bDdrM01UVV9DbnhWZl9TNFIwcE80YUt1Yl9uZWFkeDQwVw?oc=5\" target=\"_blank\">900 Georgia Power customers without power in Henry County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+        "published_at": "2026-08-24T10:00:00+00:00",
+        "summary": "Georgia Power exec speaks on data centers, misinformation The Rome News-Tribune",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOOXB2ZGt6ek1lWDJxUmhHVEpXNnV5allRMlNQWklKT3NsTE9Zbk9BRlV6UXhMMm5GRDNoR3NLeU9NdDkyVkpNcWNXLU52SktvQWxhRERDWU16MzdYVkVWal9kTGdZa2Q1aUtkMWpScU5uOXdhTWxlcGNITlA4MGliaEFlZWtLNktWTlFHR3RJMlByaTgwSUl5R2tvSUtvY1o3aWRPNUNRUUVWTUg5WTVXcGc4QVRRUFRQZExTTDQ5OHBMTlo0NEJmMVk4V1JndzNnRi1FUWRpSFgxclM2VG1zVDlXNXZOZ29MaWlNdzdKWGQ4MzFra1FoWk8xWEhwN0Y2V2Q4UGVrcw?oc=5\" target=\"_blank\">Georgia Power exec speaks on data centers, misinformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-24T04:38:24+00:00"
+        "collected_at": "2026-08-24T10:31:20+00:00"
       }
     },
     {

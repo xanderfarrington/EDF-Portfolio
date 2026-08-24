@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-24T08:40:06+00:00",
+  "last_updated": "2026-08-24T10:31:20+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 464,
+  "count": 466,
   "mentions": [
+    {
+      "id": "0e58543cdcf4eb87",
+      "title": "Georgia Power exec speaks on data centers, misinformation - The Rome News-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOXB2ZGt6ek1lWDJxUmhHVEpXNnV5allRMlNQWklKT3NsTE9Zbk9BRlV6UXhMMm5GRDNoR3NLeU9NdDkyVkpNcWNXLU52SktvQWxhRERDWU16MzdYVkVWal9kTGdZa2Q1aUtkMWpScU5uOXdhTWxlcGNITlA4MGliaEFlZWtLNktWTlFHR3RJMlByaTgwSUl5R2tvSUtvY1o3aWRPNUNRUUVWTUg5WTVXcGc4QVRRUFRQZExTTDQ5OHBMTlo0NEJmMVk4V1JndzNnRi1FUWRpSFgxclM2VG1zVDlXNXZOZ29MaWlNdzdKWGQ4MzFra1FoWk8xWEhwN0Y2V2Q4UGVrcw?oc=5",
+      "domain": "news.google.com",
+      "source": "The Rome News-Tribune",
+      "language": "English",
+      "published_at": "2026-08-24T10:00:00+00:00",
+      "summary": "Georgia Power exec speaks on data centers, misinformation The Rome News-Tribune",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOOXB2ZGt6ek1lWDJxUmhHVEpXNnV5allRMlNQWklKT3NsTE9Zbk9BRlV6UXhMMm5GRDNoR3NLeU9NdDkyVkpNcWNXLU52SktvQWxhRERDWU16MzdYVkVWal9kTGdZa2Q1aUtkMWpScU5uOXdhTWxlcGNITlA4MGliaEFlZWtLNktWTlFHR3RJMlByaTgwSUl5R2tvSUtvY1o3aWRPNUNRUUVWTUg5WTVXcGc4QVRRUFRQZExTTDQ5OHBMTlo0NEJmMVk4V1JndzNnRi1FUWRpSFgxclM2VG1zVDlXNXZOZ29MaWlNdzdKWGQ4MzFra1FoWk8xWEhwN0Y2V2Q4UGVrcw?oc=5\" target=\"_blank\">Georgia Power exec speaks on data centers, misinformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-24T10:31:20+00:00"
+    },
     {
       "id": "a13bb33bea75def1",
       "title": "900 Georgia Power customers without power in Henry County - 11Alive.com",
@@ -47,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-24T02:57:29+00:00"
+    },
+    {
+      "id": "eb5ce34afed5cb2d",
+      "title": "Stockbridge power outage leaves hundreds dark after crash - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXh3bmZ0TkJRVzhfLW1Hdkl6LXZlTks4bXZkRmY5QXhfZE1pZVNJLWV6azVDMWFZTFozckh4VGFwTWtzOEV5QUVCdHRDRW13UVE5Y1M1d01DRFdUYzNNcTRKTFQ4WnRISThNQXAzZWp1Vmd1TmhyR0N0MVpXUEJLM01obUlqdlhid1ZkcmI0TnVRSmJEbi1GMzdUU2E?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX 5 Atlanta",
+      "language": "English",
+      "published_at": "2026-08-24T02:24:34+00:00",
+      "summary": "Stockbridge power outage leaves hundreds dark after crash FOX 5 Atlanta",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXh3bmZ0TkJRVzhfLW1Hdkl6LXZlTks4bXZkRmY5QXhfZE1pZVNJLWV6azVDMWFZTFozckh4VGFwTWtzOEV5QUVCdHRDRW13UVE5Y1M1d01DRFdUYzNNcTRKTFQ4WnRISThNQXAzZWp1Vmd1TmhyR0N0MVpXUEJLM01obUlqdlhid1ZkcmI0TnVRSmJEbi1GMzdUU2E?oc=5\" target=\"_blank\">Stockbridge power outage leaves hundreds dark after crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-24T10:31:20+00:00"
     },
     {
       "id": "52d74adb95c16119",
