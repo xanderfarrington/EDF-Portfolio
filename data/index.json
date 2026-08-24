@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T20:22:37+00:00",
+  "last_updated": "2026-08-24T22:19:02+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -68,42 +68,42 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 96,
-      "new_mentions_this_run": 10,
+      "count": 97,
+      "new_mentions_this_run": 11,
       "latest_mention": {
-        "id": "67a09dd6dea4e33a",
-        "title": "Transformer delivery brings Three Mile Island restart one step closer to reality - The Latrobe Bulletin",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOGMtaWNjSldDLVJGQ1FMMXkyTU9fZ2RSWnZKR2FwWURtZFlqWDdsTC1iMVg4ZG5SQnpTaUdZbG5ZWVVXcUdpNDl5OGFJaVpnU24wOFRvNEFDbno2cmVhY1BVZ0JLV3U2MTh3cFBiVFR5TE1jbGpBYzdPRk5DUEpFbG5ndUJqd1FZcW5hdHVOS1VDdFIwMXZZbXh6MVUxc3R3a1hpeWo4Q0xVQlF3Z1ZPZWJJd0llU3NHMmZUOE5WTjgtTm1jVzNCbFZxNl9vc3U2ZFpLV2hfUE9sbjc4eVlqdHNDNkctYk5jcDVDMnFIVkFSVXkyQVhVUzN0TXo3Wk1faFd6ZV9RUEY?oc=5",
+        "id": "14f441b393e9f6cb",
+        "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWJfTmRQRkZjeGRtR1lQR1dGZE44MjVPbFN2WHFWS0lrSnBkUXhlSk1iTnVpRkM3YURPQ28zOXlHZnRqZGNBa1lyZ2s0VVBFZDlFOVRHN0x4S2l5QTh1NU1VSlNOTmVwZHB4NkNPOWtWcGxHYXhJRUpMMktBRVhSVmEtR0h5ZXlnRlpnMkxZbE5FZHBTOUpIRG1WYkJ5VjJYcFlNanpILWE4R2h3Z3JiVTNEOHg?oc=5",
         "domain": "news.google.com",
-        "source": "The Latrobe Bulletin",
+        "source": "Kalkine Media",
         "language": "English",
-        "published_at": "2026-08-18T22:29:22+00:00",
-        "summary": "Transformer delivery brings Three Mile Island restart one step closer to reality The Latrobe Bulletin",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOGMtaWNjSldDLVJGQ1FMMXkyTU9fZ2RSWnZKR2FwWURtZFlqWDdsTC1iMVg4ZG5SQnpTaUdZbG5ZWVVXcUdpNDl5OGFJaVpnU24wOFRvNEFDbno2cmVhY1BVZ0JLV3U2MTh3cFBiVFR5TE1jbGpBYzdPRk5DUEpFbG5ndUJqd1FZcW5hdHVOS1VDdFIwMXZZbXh6MVUxc3R3a1hpeWo4Q0xVQlF3Z1ZPZWJJd0llU3NHMmZUOE5WTjgtTm1jVzNCbFZxNl9vc3U2ZFpLV2hfUE9sbjc4eVlqdHNDNkctYk5jcDVDMnFIVkFSVXkyQVhVUzN0TXo3Wk1faFd6ZV9RUEY?oc=5\" target=\"_blank\">Transformer delivery brings Three Mile Island restart one step closer to reality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Latrobe Bulletin</font>",
+        "published_at": "2026-08-19T13:13:00+00:00",
+        "summary": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart Kalkine Media",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWJfTmRQRkZjeGRtR1lQR1dGZE44MjVPbFN2WHFWS0lrSnBkUXhlSk1iTnVpRkM3YURPQ28zOXlHZnRqZGNBa1lyZ2s0VVBFZDlFOVRHN0x4S2l5QTh1NU1VSlNOTmVwZHB4NkNPOWtWcGxHYXhJRUpMMktBRVhSVmEtR0h5ZXlnRlpnMkxZbE5FZHBTOUpIRG1WYkJ5VjJYcFlNanpILWE4R2h3Z3JiVTNEOHg?oc=5\" target=\"_blank\">Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-24T14:35:12+00:00"
+        "collected_at": "2026-08-24T22:18:46+00:00"
       }
     },
     {
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 480,
+      "count": 487,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "d1b0aaeb13186a0e",
-        "title": "Georgia Power plant evacuated, Highway 16 shut down as authorities investigate bomb threat - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXFvTFdvZmp6ZDNVblZkZWVjWkpVYzlLRGFUb2dGSjFQejVscW5oX24xczM3aUR3anNFQmFVY1E5Nmxyb2Q5M0tid1RscmJIc0cxdXhKU1Jqc2V4SmdLVzlycEx0cW1kVE1fOTRhcVhRcGFiTVBvUWdKWGVGN1N2czJZT3Vhd1liQ2stYnctZVpjV0t2WHZtTWNqUFVuVm00a3RHbWtZVzVfR0VRaU1mRndXVzFpcU1UQ0hVeE9TTzlrNVJEWTZyWXJYX2tkTzU1X3c?oc=5",
+        "id": "597522fb83f28b00",
+        "title": "800 evacuated after bomb threat at Georgia Power facility; no device found - BNO News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDZYaThhc0JpaG13cEYwNXBFcGtOUlpkcHpoVVdEbVVqNy1TaHA2TDJ1QWdpbnQ3VFFVakIwRXF5QkRDVy1TS2JEcmJlYmNzSU8tOFpZdWhQN3U1UjZUV3czSWZnSFY4SHd1eXdYNl81NVBNMDZSZVZtUkpuQ2lHVnhHcVFyTTA3Yml1bllSandYSnJPb05JMGtKamItX1BXaXR2UzZxQ2NpZVh6?oc=5",
         "domain": "news.google.com",
-        "source": "CBS News",
+        "source": "BNO News",
         "language": "English",
-        "published_at": "2026-08-24T20:10:00+00:00",
-        "summary": "Georgia Power plant evacuated, Highway 16 shut down as authorities investigate bomb threat CBS News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXFvTFdvZmp6ZDNVblZkZWVjWkpVYzlLRGFUb2dGSjFQejVscW5oX24xczM3aUR3anNFQmFVY1E5Nmxyb2Q5M0tid1RscmJIc0cxdXhKU1Jqc2V4SmdLVzlycEx0cW1kVE1fOTRhcVhRcGFiTVBvUWdKWGVGN1N2czJZT3Vhd1liQ2stYnctZVpjV0t2WHZtTWNqUFVuVm00a3RHbWtZVzVfR0VRaU1mRndXVzFpcU1UQ0hVeE9TTzlrNVJEWTZyWXJYX2tkTzU1X3c?oc=5\" target=\"_blank\">Georgia Power plant evacuated, Highway 16 shut down as authorities investigate bomb threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "published_at": "2026-08-24T21:38:35+00:00",
+        "summary": "800 evacuated after bomb threat at Georgia Power facility; no device found BNO News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDZYaThhc0JpaG13cEYwNXBFcGtOUlpkcHpoVVdEbVVqNy1TaHA2TDJ1QWdpbnQ3VFFVakIwRXF5QkRDVy1TS2JEcmJlYmNzSU8tOFpZdWhQN3U1UjZUV3czSWZnSFY4SHd1eXdYNl81NVBNMDZSZVZtUkpuQ2lHVnhHcVFyTTA3Yml1bllSandYSnJPb05JMGtKamItX1BXaXR2UzZxQ2NpZVh6?oc=5\" target=\"_blank\">800 evacuated after bomb threat at Georgia Power facility; no device found</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNO News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-24T20:22:26+00:00"
+        "collected_at": "2026-08-24T22:18:51+00:00"
       }
     },
     {

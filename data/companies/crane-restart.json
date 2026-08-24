@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-08-24T20:22:20+00:00",
+  "last_updated": "2026-08-24T22:18:46+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 96,
+  "count": 97,
   "mentions": [
+    {
+      "id": "14f441b393e9f6cb",
+      "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWJfTmRQRkZjeGRtR1lQR1dGZE44MjVPbFN2WHFWS0lrSnBkUXhlSk1iTnVpRkM3YURPQ28zOXlHZnRqZGNBa1lyZ2s0VVBFZDlFOVRHN0x4S2l5QTh1NU1VSlNOTmVwZHB4NkNPOWtWcGxHYXhJRUpMMktBRVhSVmEtR0h5ZXlnRlpnMkxZbE5FZHBTOUpIRG1WYkJ5VjJYcFlNanpILWE4R2h3Z3JiVTNEOHg?oc=5",
+      "domain": "news.google.com",
+      "source": "Kalkine Media",
+      "language": "English",
+      "published_at": "2026-08-19T13:13:00+00:00",
+      "summary": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart Kalkine Media",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWJfTmRQRkZjeGRtR1lQR1dGZE44MjVPbFN2WHFWS0lrSnBkUXhlSk1iTnVpRkM3YURPQ28zOXlHZnRqZGNBa1lyZ2s0VVBFZDlFOVRHN0x4S2l5QTh1NU1VSlNOTmVwZHB4NkNPOWtWcGxHYXhJRUpMMktBRVhSVmEtR0h5ZXlnRlpnMkxZbE5FZHBTOUpIRG1WYkJ5VjJYcFlNanpILWE4R2h3Z3JiVTNEOHg?oc=5\" target=\"_blank\">Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-24T22:18:46+00:00"
+    },
     {
       "id": "67a09dd6dea4e33a",
       "title": "Transformer delivery brings Three Mile Island restart one step closer to reality - The Latrobe Bulletin",

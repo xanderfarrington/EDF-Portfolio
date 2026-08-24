@@ -2,10 +2,66 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-24T20:22:26+00:00",
+  "last_updated": "2026-08-24T22:18:51+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 480,
+  "count": 487,
   "mentions": [
+    {
+      "id": "597522fb83f28b00",
+      "title": "800 evacuated after bomb threat at Georgia Power facility; no device found - BNO News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDZYaThhc0JpaG13cEYwNXBFcGtOUlpkcHpoVVdEbVVqNy1TaHA2TDJ1QWdpbnQ3VFFVakIwRXF5QkRDVy1TS2JEcmJlYmNzSU8tOFpZdWhQN3U1UjZUV3czSWZnSFY4SHd1eXdYNl81NVBNMDZSZVZtUkpuQ2lHVnhHcVFyTTA3Yml1bllSandYSnJPb05JMGtKamItX1BXaXR2UzZxQ2NpZVh6?oc=5",
+      "domain": "news.google.com",
+      "source": "BNO News",
+      "language": "English",
+      "published_at": "2026-08-24T21:38:35+00:00",
+      "summary": "800 evacuated after bomb threat at Georgia Power facility; no device found BNO News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDZYaThhc0JpaG13cEYwNXBFcGtOUlpkcHpoVVdEbVVqNy1TaHA2TDJ1QWdpbnQ3VFFVakIwRXF5QkRDVy1TS2JEcmJlYmNzSU8tOFpZdWhQN3U1UjZUV3czSWZnSFY4SHd1eXdYNl81NVBNMDZSZVZtUkpuQ2lHVnhHcVFyTTA3Yml1bllSandYSnJPb05JMGtKamItX1BXaXR2UzZxQ2NpZVh6?oc=5\" target=\"_blank\">800 evacuated after bomb threat at Georgia Power facility; no device found</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNO News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-24T22:18:51+00:00"
+    },
+    {
+      "id": "4d726b6584b344aa",
+      "title": "All clear given after bomb threat prompts evacuations at Georgia Power plant in Coweta County - 11Alive.com",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdWtOaVNCV1JQeUs0VGVJcVllMjlUaGlWMlEzTWRpUWlOZnpIT2EtSS1QdnpwbzdDRDN1VWtvdDl0Y04xamY4WlZBR0hjSDdwVGNudjFza19TN3F6UDhjY205d2dHbnNDc25LVkxsdk5BeXJZTks4M2VIT3ZUcV9MMmw4cUFsTTRiZ2xxeExQV0VURTZpSGtPX2ZmZnViaXEwOHBhdC1MSFFUbGdrZThuOF9FY1gzUkE1LUVjbDFWcXVTb3R1dVI4Y2NrR1VJVXhFNm9jb1htRXoyLVU3WkpwVGt1SXNTNG1oSjRkMEcxaFJNR3lsLU9Ga0VBei1ab3VsTHJrbQ?oc=5",
+      "domain": "news.google.com",
+      "source": "11Alive.com",
+      "language": "English",
+      "published_at": "2026-08-24T21:38:00+00:00",
+      "summary": "All clear given after bomb threat prompts evacuations at Georgia Power plant in Coweta County 11Alive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQdWtOaVNCV1JQeUs0VGVJcVllMjlUaGlWMlEzTWRpUWlOZnpIT2EtSS1QdnpwbzdDRDN1VWtvdDl0Y04xamY4WlZBR0hjSDdwVGNudjFza19TN3F6UDhjY205d2dHbnNDc25LVkxsdk5BeXJZTks4M2VIT3ZUcV9MMmw4cUFsTTRiZ2xxeExQV0VURTZpSGtPX2ZmZnViaXEwOHBhdC1MSFFUbGdrZThuOF9FY1gzUkE1LUVjbDFWcXVTb3R1dVI4Y2NrR1VJVXhFNm9jb1htRXoyLVU3WkpwVGt1SXNTNG1oSjRkMEcxaFJNR3lsLU9Ga0VBei1ab3VsTHJrbQ?oc=5\" target=\"_blank\">All clear given after bomb threat prompts evacuations at Georgia Power plant in Coweta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-24T22:18:51+00:00"
+    },
+    {
+      "id": "72e842f5e19f6550",
+      "title": "‘All clear’ after bomb threat at Georgia Power plant causes evacuation - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQmNEWThkSHh2NVhndEw0allyc0VRaG1mWlRTMFpQaXlZQ2c4SVVLd1h5OVg5NUV6ZnpLVHJUVWJYeWo2N1dzMEU1X1VMaERWZzVxY3hZVzBwR04tajhJWGRpalBDY0RGdkREX3Y4Y29DNlN5NnNNLUQzd0NpQWdnSW1sQk1mRVEteWlZYXpR?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-08-24T21:09:41+00:00",
+      "summary": "‘All clear’ after bomb threat at Georgia Power plant causes evacuation Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNQmNEWThkSHh2NVhndEw0allyc0VRaG1mWlRTMFpQaXlZQ2c4SVVLd1h5OVg5NUV6ZnpLVHJUVWJYeWo2N1dzMEU1X1VMaERWZzVxY3hZVzBwR04tajhJWGRpalBDY0RGdkREX3Y4Y29DNlN5NnNNLUQzd0NpQWdnSW1sQk1mRVEteWlZYXpR?oc=5\" target=\"_blank\">‘All clear’ after bomb threat at Georgia Power plant causes evacuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-24T22:18:51+00:00"
+    },
+    {
+      "id": "99848606835d9efc",
+      "title": "Bomb threat forces evacuation at Georgia Power site in Coweta County - 11Alive.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdGxDanFfQ3pZOHk2UnRlOHdCVnl0OFpHdVVpSFdKUk9CYzdvaWlNeDBadXRNcmExekNiRmpXUXZSd2pFbzFrdlJPVVRTOVFmT1dMQ2EwM1c1QlFZSjRSQXctWEJzOUIwUjlpYmY3d014RU1ELWhGZGxUd3p0ZlZmNHdCUy05LXgtUUx3eXhjaFduSkpsLTlUYVVfWTU5eHJfdzZLLWJxRmJfTC1fdDlRQ0ZQUkVITFFWT2lRdjZqWkc2Y2tCdW53eTNpLXFFNEQ1UGtJamJRMUJrQU84YlprUFRqVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "11Alive.com",
+      "language": "English",
+      "published_at": "2026-08-24T20:27:00+00:00",
+      "summary": "Bomb threat forces evacuation at Georgia Power site in Coweta County 11Alive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdGxDanFfQ3pZOHk2UnRlOHdCVnl0OFpHdVVpSFdKUk9CYzdvaWlNeDBadXRNcmExekNiRmpXUXZSd2pFbzFrdlJPVVRTOVFmT1dMQ2EwM1c1QlFZSjRSQXctWEJzOUIwUjlpYmY3d014RU1ELWhGZGxUd3p0ZlZmNHdCUy05LXgtUUx3eXhjaFduSkpsLTlUYVVfWTU5eHJfdzZLLWJxRmJfTC1fdDlRQ0ZQUkVITFFWT2lRdjZqWkc2Y2tCdW53eTNpLXFFNEQ1UGtJamJRMUJrQU84YlprUFRqVQ?oc=5\" target=\"_blank\">Bomb threat forces evacuation at Georgia Power site in Coweta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-24T22:18:51+00:00"
+    },
     {
       "id": "d1b0aaeb13186a0e",
       "title": "Georgia Power plant evacuated, Highway 16 shut down as authorities investigate bomb threat - CBS News",
@@ -47,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-24T20:22:26+00:00"
+    },
+    {
+      "id": "32e12221fe3721d8",
+      "title": "Bomb threat received at Plant Yates, Highway 16 closed - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnAxN3J6amZ0WEhFMkIzb1IyNGVlalFETlkzSlRvWlRIblRkVklzUk9Oc192aWJYYXh5OVdTVnM4WkZ4TjdwMHpBLVdISWZ4UE15QlFiRkp4SWxnV3luVFNBMHpNTlVObUExM001Q05YVHM2WlowblJEbW5MdVliMnVrWkhzLXdxb2U0?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX 5 Atlanta",
+      "language": "English",
+      "published_at": "2026-08-24T19:00:50+00:00",
+      "summary": "Bomb threat received at Plant Yates, Highway 16 closed FOX 5 Atlanta",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnAxN3J6amZ0WEhFMkIzb1IyNGVlalFETlkzSlRvWlRIblRkVklzUk9Oc192aWJYYXh5OVdTVnM4WkZ4TjdwMHpBLVdISWZ4UE15QlFiRkp4SWxnV3luVFNBMHpNTlVObUExM001Q05YVHM2WlowblJEbW5MdVliMnVrWkhzLXdxb2U0?oc=5\" target=\"_blank\">Bomb threat received at Plant Yates, Highway 16 closed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-24T22:18:51+00:00"
     },
     {
       "id": "06d03553e70e2296",
@@ -105,6 +175,20 @@
       "collected_at": "2026-08-24T20:22:26+00:00"
     },
     {
+      "id": "dc2547e2010b953d",
+      "title": "All clear given after bomb threat prompts evacuations at Georgia Power plant in Coweta County - 11Alive.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc3VqSDIza2hJZmtIOG1LOTA4M0VhRmJmUlN6cjlTNWdncVd6NFVPNGQyNE9jZUc5ZnM4bTdpOGN2TlczblZENXlyblJxajBxYk9XZktMelE0UGFhZFZ4c2o1dUgzdFRVMDZ4dXU1Sl9vd1o2dWwzLTNLZlFra2RFLTJFRU1UWWQ1aThESTlLcW5KQUhLeXI5a2N4UHpObW40QXdBV2x4U1hvMzlLMU1vZXpYNGVBbHE3Qkw1alhaNEQzSy0xT2IxOUtiNElXUENwZG9EWG13TlhTekZ3dGc?oc=5",
+      "domain": "news.google.com",
+      "source": "11Alive.com",
+      "language": "English",
+      "published_at": "2026-08-24T18:45:00+00:00",
+      "summary": "All clear given after bomb threat prompts evacuations at Georgia Power plant in Coweta County 11Alive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc3VqSDIza2hJZmtIOG1LOTA4M0VhRmJmUlN6cjlTNWdncVd6NFVPNGQyNE9jZUc5ZnM4bTdpOGN2TlczblZENXlyblJxajBxYk9XZktMelE0UGFhZFZ4c2o1dUgzdFRVMDZ4dXU1Sl9vd1o2dWwzLTNLZlFra2RFLTJFRU1UWWQ1aThESTlLcW5KQUhLeXI5a2N4UHpObW40QXdBV2x4U1hvMzlLMU1vZXpYNGVBbHE3Qkw1alhaNEQzSy0xT2IxOUtiNElXUENwZG9EWG13TlhTekZ3dGc?oc=5\" target=\"_blank\">All clear given after bomb threat prompts evacuations at Georgia Power plant in Coweta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-24T22:18:51+00:00"
+    },
+    {
       "id": "7a3df535313a668a",
       "title": "Georgia Power’s use of eminent domain puts property rights at risk - The Newnan Times-Herald",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVDJfdHU4R3lJNTkzbGhpanVGWE5VSjdUTk5PN0lqMEhVRjMtSVkzbVFhM2VFY0pYLWpWcUxjN0VZeU5zSXdjV1FXS0dqRDNkczZoalhOY29jVEJ1SUYyVjVVNVJ0c2tPNDZKWDQyX2t5VXo5NEMtR1hKNlpyN0syS3RBcTQzRGJMSVphbm92Y3MwQ25SYVlWSmlYMmFSVWpLekV3cGxOVlJaWTVJcVRKS25PbDUxbzBfdEdyaHJJZmZWOTF3NzFacU1PQmdlZjZSaThKVWdJUEY3a3lCRWtTVkFRR2dJYk9T?oc=5",
@@ -117,6 +201,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-24T18:30:18+00:00"
+    },
+    {
+      "id": "529325fbf209fa6d",
+      "title": "Georgia Power: 980 without power in Chatham County - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2lHNFpycEZPTnMtZTBaWHg5YXdGc0Z1NlZQelItX0c3eHJVTXIyZ2JIRVlzSjRyREhLNmJkVEwwNFQxWlJWczJqaXBHb0ZIN2dQWVYxZGRmQU1UOEUxYkQ0Z2IydUdUWjB5MUpBUEVoNDFhUXY0MXpnZ3JOb3VmUzBZWE1xTUNFcDNMYTN3?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-08-24T10:26:29+00:00",
+      "summary": "Georgia Power: 980 without power in Chatham County WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2lHNFpycEZPTnMtZTBaWHg5YXdGc0Z1NlZQelItX0c3eHJVTXIyZ2JIRVlzSjRyREhLNmJkVEwwNFQxWlJWczJqaXBHb0ZIN2dQWVYxZGRmQU1UOEUxYkQ0Z2IydUdUWjB5MUpBUEVoNDFhUXY0MXpnZ3JOb3VmUzBZWE1xTUNFcDNMYTN3?oc=5\" target=\"_blank\">Georgia Power: 980 without power in Chatham County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-24T22:18:51+00:00"
     },
     {
       "id": "0e58543cdcf4eb87",
