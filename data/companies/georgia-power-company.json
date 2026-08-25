@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-25T20:20:56+00:00",
+  "last_updated": "2026-08-25T22:19:29+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 505,
+  "count": 506,
   "mentions": [
     {
       "id": "dfeb7f2a19bc7585",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-25T18:30:31+00:00"
+    },
+    {
+      "id": "2c0c5c3e35a4af08",
+      "title": "Does cooler fall weather help your energy bill? What it could mean for GA - Savannah Morning News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWNuMVN3NExScFdfS3JpcG1zUHp1MXZyUVo3VWs3T2U2QzhmaHV4bThWdkxGbl96ZWJkU1hFeVlDSDFGYnpYQmFlRGMxSGlfc09BaExjVHlvZWR5OXVacUVvS2piamtsX1lkLU1tcW5RSlBpeFY0VFpySmdBWnpGeGwwRVhtbXhNVW4wek1PQlA5UDFtZlhFc1hlckswZ1RfcnB4R041TlpfSWtqY1B5WlVCaDJGNlY5YV83ejR5S0hLeFJEeW9od3I4NHRzczlk?oc=5",
+      "domain": "news.google.com",
+      "source": "Savannah Morning News",
+      "language": "English",
+      "published_at": "2026-08-25T17:26:00+00:00",
+      "summary": "Does cooler fall weather help your energy bill? What it could mean for GA Savannah Morning News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWNuMVN3NExScFdfS3JpcG1zUHp1MXZyUVo3VWs3T2U2QzhmaHV4bThWdkxGbl96ZWJkU1hFeVlDSDFGYnpYQmFlRGMxSGlfc09BaExjVHlvZWR5OXVacUVvS2piamtsX1lkLU1tcW5RSlBpeFY0VFpySmdBWnpGeGwwRVhtbXhNVW4wek1PQlA5UDFtZlhFc1hlckswZ1RfcnB4R041TlpfSWtqY1B5WlVCaDJGNlY5YV83ejR5S0hLeFJEeW9od3I4NHRzczlk?oc=5\" target=\"_blank\">Does cooler fall weather help your energy bill? What it could mean for GA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T22:19:29+00:00"
     },
     {
       "id": "9bb684a41f7e3bc2",
