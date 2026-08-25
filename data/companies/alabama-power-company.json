@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-25T00:54:24+00:00",
+  "last_updated": "2026-08-25T02:52:26+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 254,
+  "count": 255,
   "mentions": [
     {
       "id": "21ea58b2e4bdb241",
@@ -439,6 +439,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-12T16:51:40+00:00"
+    },
+    {
+      "id": "0a4098327749295a",
+      "title": "'That is egregious behavior': Country star John Rich supporting Alabama man in fight for land - cbs42.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0UwRlpvNGxHYXlqTFZ2bnRnY1d0aEtGMEt0YW1xT1Y5ajJCY0ViUFhudWlTd0VaQ0FJU19wOVlpOE9BZElXQlNUcjdnTVNpNUxSVVVzSXUyNXg2ZFdTYkFVaWFKSnJUeDE0NFFjanRQdXltS2ZlUlN1Z0p1dk9Mam5jeFJaT0xzTThTd0tUc3E0ck9za2JLal9jUkhxLXlJNGowSVZvajE5MTF5VXlkN0xEeXVnQWNiZHZtQ0FkQVJ2UQ?oc=5",
+      "domain": "news.google.com",
+      "source": "cbs42.com",
+      "language": "English",
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "summary": "'That is egregious behavior': Country star John Rich supporting Alabama man in fight for land cbs42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0UwRlpvNGxHYXlqTFZ2bnRnY1d0aEtGMEt0YW1xT1Y5ajJCY0ViUFhudWlTd0VaQ0FJU19wOVlpOE9BZElXQlNUcjdnTVNpNUxSVVVzSXUyNXg2ZFdTYkFVaWFKSnJUeDE0NFFjanRQdXltS2ZlUlN1Z0p1dk9Mam5jeFJaT0xzTThTd0tUc3E0ck9za2JLal9jUkhxLXlJNGowSVZvajE5MTF5VXlkN0xEeXVnQWNiZHZtQ0FkQVJ2UQ?oc=5\" target=\"_blank\">'That is egregious behavior': Country star John Rich supporting Alabama man in fight for land</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T02:52:26+00:00"
     },
     {
       "id": "273f553a4c73dddf",

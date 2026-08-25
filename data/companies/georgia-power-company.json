@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-25T00:54:40+00:00",
+  "last_updated": "2026-08-25T02:52:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 496,
+  "count": 497,
   "mentions": [
     {
       "id": "4c7bd84007858cc2",
@@ -89,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-24T22:18:51+00:00"
+    },
+    {
+      "id": "5504884e374798ca",
+      "title": "Storms knock out power to nearly 1,000 in Chatham County - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdDlnVzlsOXpYXzJ1dzRJdUtWaW5tckJlVzY0OTZ2OVpRUzhJejM2VGg1aWp2Ny1WZUpSaXF2RzR0VDRFMk4ycHhINktReHZkdllDaVF3aUNjMk5DRGRVTTNhOGJ3LU9VRVR4OEtzVEJrQzlpYVhILUd4T3pYdWVkdm5FTjJGT2NYaVHSAZ4BQVVfeXFMTlZXM0N3U0VWR2tiTnUxdWdPMXBvRFB3R214bGNwNXdjazRiQ25yeWxYNTFRVEJnVG92VndoNFhYQVkwekl3bDIyVE5lSkFBLU9aSWxnVkE5RGRkdGtTSFlLZVU0dmVGSkZWSWVZRzhLWHg1TmMxaDhzVDBsS3czZE9TWmpMQ0hGZ1I4eGZ6UHhCX0otTDg0OFZiR2VpQVE?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-08-24T21:25:00+00:00",
+      "summary": "Storms knock out power to nearly 1,000 in Chatham County WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNdDlnVzlsOXpYXzJ1dzRJdUtWaW5tckJlVzY0OTZ2OVpRUzhJejM2VGg1aWp2Ny1WZUpSaXF2RzR0VDRFMk4ycHhINktReHZkdllDaVF3aUNjMk5DRGRVTTNhOGJ3LU9VRVR4OEtzVEJrQzlpYVhILUd4T3pYdWVkdm5FTjJGT2NYaVHSAZ4BQVVfeXFMTlZXM0N3U0VWR2tiTnUxdWdPMXBvRFB3R214bGNwNXdjazRiQ25yeWxYNTFRVEJnVG92VndoNFhYQVkwekl3bDIyVE5lSkFBLU9aSWxnVkE5RGRkdGtTSFlLZVU0dmVGSkZWSWVZRzhLWHg1TmMxaDhzVDBsS3czZE9TWmpMQ0hGZ1I4eGZ6UHhCX0otTDg0OFZiR2VpQVE?oc=5\" target=\"_blank\">Storms knock out power to nearly 1,000 in Chatham County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T02:52:42+00:00"
     },
     {
       "id": "7fa976469005f88f",

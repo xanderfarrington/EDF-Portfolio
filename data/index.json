@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T00:54:50+00:00",
+  "last_updated": "2026-08-25T02:52:52+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 254,
-      "new_mentions_this_run": 22,
+      "count": 255,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "21ea58b2e4bdb241",
         "title": "Alabama Power Sketches Plan for Data Center Law Compliance - RTO Insider",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 496,
+      "count": 497,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "4c7bd84007858cc2",
