@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T02:52:52+00:00",
+  "last_updated": "2026-08-25T04:32:53+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 497,
+      "count": 501,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "4c7bd84007858cc2",
-        "title": "Power knocked out for more than 1,800 customers in Savannah after severe storms - WJCL",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkNnSkZWanUtTk1aY2dkRGRhMmlZVFpxWUp0alRESjB6aS1MWVc1OFVaelIwUUcwVlBBQmtXUzZwNXZFM2tQU0VEU0lwRzlRdGhMU0VQa0tfM1RNTmY2YzdrU28zN1ptVVJFRW8zUEZPU1FTdFMtbmV6UTAxUS1TM2N3UnZuRVBa?oc=5",
+        "id": "21cc591a4fceff3d",
+        "title": "Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity - WTOC",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZEhFd1B2SkZwMmM3blBvODJIZmgtblFkZk5ucmVTdVE1TktnNmNtWlBPa3c2N2tfU3lqVm9YRTRPTGt5dEVNX1l2c2JMMDg4UW9BaXEwSXNwQnd3Sl81M3BUQW56T2FmRVUzbzF5M1QwYjFoSFZQaHVvMFVWUG9sZ0VhVno0RmZTdHc4MDV1V0VkNDVDendsZml4bHpYMGNrV1ZfbW85SS0yYy14dEVST1hjSzBvT1V5a3Y5NHN0VXVtRVlj?oc=5",
         "domain": "news.google.com",
-        "source": "WJCL",
+        "source": "WTOC",
         "language": "English",
-        "published_at": "2026-08-24T23:49:00+00:00",
-        "summary": "Power knocked out for more than 1,800 customers in Savannah after severe storms WJCL",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkNnSkZWanUtTk1aY2dkRGRhMmlZVFpxWUp0alRESjB6aS1MWVc1OFVaelIwUUcwVlBBQmtXUzZwNXZFM2tQU0VEU0lwRzlRdGhMU0VQa0tfM1RNTmY2YzdrU28zN1ptVVJFRW8zUEZPU1FTdFMtbmV6UTAxUS1TM2N3UnZuRVBa?oc=5\" target=\"_blank\">Power knocked out for more than 1,800 customers in Savannah after severe storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJCL</font>",
+        "published_at": "2026-08-25T03:17:00+00:00",
+        "summary": "Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity WTOC",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZEhFd1B2SkZwMmM3blBvODJIZmgtblFkZk5ucmVTdVE1TktnNmNtWlBPa3c2N2tfU3lqVm9YRTRPTGt5dEVNX1l2c2JMMDg4UW9BaXEwSXNwQnd3Sl81M3BUQW56T2FmRVUzbzF5M1QwYjFoSFZQaHVvMFVWUG9sZ0VhVno0RmZTdHc4MDV1V0VkNDVDendsZml4bHpYMGNrV1ZfbW85SS0yYy14dEVST1hjSzBvT1V5a3Y5NHN0VXVtRVlj?oc=5\" target=\"_blank\">Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-25T00:54:40+00:00"
+        "collected_at": "2026-08-25T04:32:42+00:00"
       }
     },
     {

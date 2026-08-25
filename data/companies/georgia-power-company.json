@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-25T02:52:42+00:00",
+  "last_updated": "2026-08-25T04:32:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 497,
+  "count": 501,
   "mentions": [
+    {
+      "id": "21cc591a4fceff3d",
+      "title": "Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZEhFd1B2SkZwMmM3blBvODJIZmgtblFkZk5ucmVTdVE1TktnNmNtWlBPa3c2N2tfU3lqVm9YRTRPTGt5dEVNX1l2c2JMMDg4UW9BaXEwSXNwQnd3Sl81M3BUQW56T2FmRVUzbzF5M1QwYjFoSFZQaHVvMFVWUG9sZ0VhVno0RmZTdHc4MDV1V0VkNDVDendsZml4bHpYMGNrV1ZfbW85SS0yYy14dEVST1hjSzBvT1V5a3Y5NHN0VXVtRVlj?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-08-25T03:17:00+00:00",
+      "summary": "Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZEhFd1B2SkZwMmM3blBvODJIZmgtblFkZk5ucmVTdVE1TktnNmNtWlBPa3c2N2tfU3lqVm9YRTRPTGt5dEVNX1l2c2JMMDg4UW9BaXEwSXNwQnd3Sl81M3BUQW56T2FmRVUzbzF5M1QwYjFoSFZQaHVvMFVWUG9sZ0VhVno0RmZTdHc4MDV1V0VkNDVDendsZml4bHpYMGNrV1ZfbW85SS0yYy14dEVST1hjSzBvT1V5a3Y5NHN0VXVtRVlj?oc=5\" target=\"_blank\">Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T04:32:42+00:00"
+    },
     {
       "id": "4c7bd84007858cc2",
       "title": "Power knocked out for more than 1,800 customers in Savannah after severe storms - WJCL",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-25T00:54:40+00:00"
+    },
+    {
+      "id": "2880944cf3e21586",
+      "title": "Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1RGUGl2a0dTR2cxQ1Z5WENzZGZIT2thXzFmUzNoSWROWTBMMXFzbXJpd05EckdVdEtNR21qSWF6ZEMwNHgwRldSX1dKN3lrY2pmSFpldHV5MjN4Z1MzZWpuMmtQc2hqRVpQamJ2c2I0TXpEY1hmWFc0bms0Y2N0UDhYeWlEZmNlTjlrNWtHTEdXeXBNWktz0gGrAUFVX3lxTE5LX1c5bWVnQVpDbkVSVXNtMmNBV0FPaUtDQ0ZHY1VSR1pLNElzZjRwUXFvLTJmRWItQ1didEpURHFXSWJ2eFVUdjhMdnBMb2lrTHZnOHJBdDRwaFpRWlVVUk9wVjg3djU5bE1IcC04NzNSdV8tUWtSRjRCNGRkVlRyNXFtRFBmLWs2azA1TVl5YnR0OXVBbjBHeU9iOEdhb1UyenJ5SC01UjgwVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-08-24T23:39:00+00:00",
+      "summary": "Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1RGUGl2a0dTR2cxQ1Z5WENzZGZIT2thXzFmUzNoSWROWTBMMXFzbXJpd05EckdVdEtNR21qSWF6ZEMwNHgwRldSX1dKN3lrY2pmSFpldHV5MjN4Z1MzZWpuMmtQc2hqRVpQamJ2c2I0TXpEY1hmWFc0bms0Y2N0UDhYeWlEZmNlTjlrNWtHTEdXeXBNWktz0gGrAUFVX3lxTE5LX1c5bWVnQVpDbkVSVXNtMmNBV0FPaUtDQ0ZHY1VSR1pLNElzZjRwUXFvLTJmRWItQ1didEpURHFXSWJ2eFVUdjhMdnBMb2lrTHZnOHJBdDRwaFpRWlVVUk9wVjg3djU5bE1IcC04NzNSdV8tUWtSRjRCNGRkVlRyNXFtRFBmLWs2azA1TVl5YnR0OXVBbjBHeU9iOEdhb1UyenJ5SC01UjgwVQ?oc=5\" target=\"_blank\">Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T04:32:42+00:00"
     },
     {
       "id": "809bab0b9ce14c50",
@@ -161,6 +189,20 @@
       "collected_at": "2026-08-25T00:54:40+00:00"
     },
     {
+      "id": "2c94c6ac4b07a51e",
+      "title": "Bomb threat reported at Georgia Power plant in Coweta County - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnFyNUFfeWpTMHAtSU5LRnBBWmdYOS03cUh5OVJSQ3dYXzctMG1DVHQ4Qjk5Q01ISC15ZEtPRExnUXYwWGdlUDBEdmRVbTVpcFhmRHFONDFzUy1nakx4Wm5hZ1pHSnljanNMOE14MjNoSThUYmhidVl1bC1NUjZERG1Gc0hxZ3dQN2dWbVVSbjFyWjdGZVdranRScC1tNXBDdnNSYTAtVUU?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-08-24T20:30:00+00:00",
+      "summary": "Bomb threat reported at Georgia Power plant in Coweta County Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnFyNUFfeWpTMHAtSU5LRnBBWmdYOS03cUh5OVJSQ3dYXzctMG1DVHQ4Qjk5Q01ISC15ZEtPRExnUXYwWGdlUDBEdmRVbTVpcFhmRHFONDFzUy1nakx4Wm5hZ1pHSnljanNMOE14MjNoSThUYmhidVl1bC1NUjZERG1Gc0hxZ3dQN2dWbVVSbjFyWjdGZVdranRScC1tNXBDdnNSYTAtVUU?oc=5\" target=\"_blank\">Bomb threat reported at Georgia Power plant in Coweta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T04:32:42+00:00"
+    },
+    {
       "id": "99848606835d9efc",
       "title": "Bomb threat forces evacuation at Georgia Power site in Coweta County - 11Alive.com",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdGxDanFfQ3pZOHk2UnRlOHdCVnl0OFpHdVVpSFdKUk9CYzdvaWlNeDBadXRNcmExekNiRmpXUXZSd2pFbzFrdlJPVVRTOVFmT1dMQ2EwM1c1QlFZSjRSQXctWEJzOUIwUjlpYmY3d014RU1ELWhGZGxUd3p0ZlZmNHdCUy05LXgtUUx3eXhjaFduSkpsLTlUYVVfWTU5eHJfdzZLLWJxRmJfTC1fdDlRQ0ZQUkVITFFWT2lRdjZqWkc2Y2tCdW53eTNpLXFFNEQ1UGtJamJRMUJrQU84YlprUFRqVQ?oc=5",
@@ -299,6 +341,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-24T20:22:26+00:00"
+    },
+    {
+      "id": "207dbd258aa684b4",
+      "title": "All-clear given after bomb threat reported at Georgia Power plant - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmNzV04yNmloX0ZqalpxbUFNY2FJSTFiTnJpWm1vbm10ZWxhemFYc3Nsd0I0RTIzdXJzVVhNbUlYMzRnMkRtOFVVMkN6aFowZ3RHTGZhU1RjZFotSnhtLWptSW1aMTg2RzBrUkxvbWlTRUVrczBrUy1KZTBCamlWdHBnYnBmZGt2am5TMDFHQS01emlVUHZMdlFlQnMzYkctSW5QazM0ME42OHZ2QTFmOdIBxAFBVV95cUxPUTFhVzVaWXR0bVl5LUNrOHpZb2I0S01qekpteGZzcmVERkZjMDNTWGRWbWozT0JHVlozbTFjaHBJaG55OUpaNG4zLXV6eW91TzZRdFA3Qk9pQXFvdVhubzBMX0NvYndoaksxMnNERTVGcmZuMUlPV3hHYlY2OHpDWTRPeVZDeHFjeXU5YjVZVkxrX3ZUSk53RXNaRW9vcGJGSmZnMWJSekpGdDRDdkxVdmRLc0hYR1VSYnZScVBid3JPbWpy?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-08-24T18:52:00+00:00",
+      "summary": "All-clear given after bomb threat reported at Georgia Power plant Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmNzV04yNmloX0ZqalpxbUFNY2FJSTFiTnJpWm1vbm10ZWxhemFYc3Nsd0I0RTIzdXJzVVhNbUlYMzRnMkRtOFVVMkN6aFowZ3RHTGZhU1RjZFotSnhtLWptSW1aMTg2RzBrUkxvbWlTRUVrczBrUy1KZTBCamlWdHBnYnBmZGt2am5TMDFHQS01emlVUHZMdlFlQnMzYkctSW5QazM0ME42OHZ2QTFmOdIBxAFBVV95cUxPUTFhVzVaWXR0bVl5LUNrOHpZb2I0S01qekpteGZzcmVERkZjMDNTWGRWbWozT0JHVlozbTFjaHBJaG55OUpaNG4zLXV6eW91TzZRdFA3Qk9pQXFvdVhubzBMX0NvYndoaksxMnNERTVGcmZuMUlPV3hHYlY2OHpDWTRPeVZDeHFjeXU5YjVZVkxrX3ZUSk53RXNaRW9vcGJGSmZnMWJSekpGdDRDdkxVdmRLc0hYR1VSYnZScVBid3JPbWpy?oc=5\" target=\"_blank\">All-clear given after bomb threat reported at Georgia Power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T04:32:42+00:00"
     },
     {
       "id": "ee7c017a5170f9e1",
