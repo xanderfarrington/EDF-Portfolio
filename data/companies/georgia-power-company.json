@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-25T16:28:52+00:00",
+  "last_updated": "2026-08-25T18:30:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 502,
+  "count": 503,
   "mentions": [
+    {
+      "id": "dcc8013975d82d8b",
+      "title": "Does cooler fall weather help your energy bill? What it could mean for GA - The Augusta Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0Rqc25melVkdDIySHFldXd5REY2eWdvMTd4Q211UG8zVTFKbDdWbzhaR0JZMlpOQ2l0V2oxNjA1dl9iNkF6ZS1oYTFXNzBLX1hDVVNSeU9yTWs2MWFyS1ZiRFUzaVR3NmRGc05INzlHTWNYQzlOODRsZm5ReDRLUnNNYzdiaHNFNFpnZ1VFenR0NnQ2WjRNTlloeXBnaEJCNjcwSWZaRnh4Ny1uM2pNSElOUWhLU3pnUEMtMW0td0h2YWhKR0FhMzFTemZ3NkUzLWRQbzhiZw?oc=5",
+      "domain": "news.google.com",
+      "source": "The Augusta Chronicle",
+      "language": "English",
+      "published_at": "2026-08-25T17:26:00+00:00",
+      "summary": "Does cooler fall weather help your energy bill? What it could mean for GA The Augusta Chronicle",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0Rqc25melVkdDIySHFldXd5REY2eWdvMTd4Q211UG8zVTFKbDdWbzhaR0JZMlpOQ2l0V2oxNjA1dl9iNkF6ZS1oYTFXNzBLX1hDVVNSeU9yTWs2MWFyS1ZiRFUzaVR3NmRGc05INzlHTWNYQzlOODRsZm5ReDRLUnNNYzdiaHNFNFpnZ1VFenR0NnQ2WjRNTlloeXBnaEJCNjcwSWZaRnh4Ny1uM2pNSElOUWhLU3pnUEMtMW0td0h2YWhKR0FhMzFTemZ3NkUzLWRQbzhiZw?oc=5\" target=\"_blank\">Does cooler fall weather help your energy bill? What it could mean for GA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T18:30:31+00:00"
+    },
     {
       "id": "21cc591a4fceff3d",
       "title": "Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity - WTOC",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T16:29:02+00:00",
+  "last_updated": "2026-08-25T18:30:41+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 502,
+      "count": 503,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "21cc591a4fceff3d",
-        "title": "Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity - WTOC",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZEhFd1B2SkZwMmM3blBvODJIZmgtblFkZk5ucmVTdVE1TktnNmNtWlBPa3c2N2tfU3lqVm9YRTRPTGt5dEVNX1l2c2JMMDg4UW9BaXEwSXNwQnd3Sl81M3BUQW56T2FmRVUzbzF5M1QwYjFoSFZQaHVvMFVWUG9sZ0VhVno0RmZTdHc4MDV1V0VkNDVDendsZml4bHpYMGNrV1ZfbW85SS0yYy14dEVST1hjSzBvT1V5a3Y5NHN0VXVtRVlj?oc=5",
+        "id": "dcc8013975d82d8b",
+        "title": "Does cooler fall weather help your energy bill? What it could mean for GA - The Augusta Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0Rqc25melVkdDIySHFldXd5REY2eWdvMTd4Q211UG8zVTFKbDdWbzhaR0JZMlpOQ2l0V2oxNjA1dl9iNkF6ZS1oYTFXNzBLX1hDVVNSeU9yTWs2MWFyS1ZiRFUzaVR3NmRGc05INzlHTWNYQzlOODRsZm5ReDRLUnNNYzdiaHNFNFpnZ1VFenR0NnQ2WjRNTlloeXBnaEJCNjcwSWZaRnh4Ny1uM2pNSElOUWhLU3pnUEMtMW0td0h2YWhKR0FhMzFTemZ3NkUzLWRQbzhiZw?oc=5",
         "domain": "news.google.com",
-        "source": "WTOC",
+        "source": "The Augusta Chronicle",
         "language": "English",
-        "published_at": "2026-08-25T03:17:00+00:00",
-        "summary": "Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity WTOC",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZEhFd1B2SkZwMmM3blBvODJIZmgtblFkZk5ucmVTdVE1TktnNmNtWlBPa3c2N2tfU3lqVm9YRTRPTGt5dEVNX1l2c2JMMDg4UW9BaXEwSXNwQnd3Sl81M3BUQW56T2FmRVUzbzF5M1QwYjFoSFZQaHVvMFVWUG9sZ0VhVno0RmZTdHc4MDV1V0VkNDVDendsZml4bHpYMGNrV1ZfbW85SS0yYy14dEVST1hjSzBvT1V5a3Y5NHN0VXVtRVlj?oc=5\" target=\"_blank\">Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+        "published_at": "2026-08-25T17:26:00+00:00",
+        "summary": "Does cooler fall weather help your energy bill? What it could mean for GA The Augusta Chronicle",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0Rqc25melVkdDIySHFldXd5REY2eWdvMTd4Q211UG8zVTFKbDdWbzhaR0JZMlpOQ2l0V2oxNjA1dl9iNkF6ZS1oYTFXNzBLX1hDVVNSeU9yTWs2MWFyS1ZiRFUzaVR3NmRGc05INzlHTWNYQzlOODRsZm5ReDRLUnNNYzdiaHNFNFpnZ1VFenR0NnQ2WjRNTlloeXBnaEJCNjcwSWZaRnh4Ny1uM2pNSElOUWhLU3pnUEMtMW0td0h2YWhKR0FhMzFTemZ3NkUzLWRQbzhiZw?oc=5\" target=\"_blank\">Does cooler fall weather help your energy bill? What it could mean for GA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-25T04:32:42+00:00"
+        "collected_at": "2026-08-25T18:30:31+00:00"
       }
     },
     {
