@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-25T18:30:31+00:00",
+  "last_updated": "2026-08-25T20:20:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 503,
+  "count": 505,
   "mentions": [
+    {
+      "id": "dfeb7f2a19bc7585",
+      "title": "Harbert Management acquires Georgia power plant - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONnBvQjdsOFNXQm9HdVVvNHVDVE5HTEdlNWZXN21RdEFjR3lMalBVeHRvRGc3clJWYnI4YTlaZnNLT0pWQ0lHcGpyQUFWNUJnYm8wSEljNjAyeUpaSHZZREZUWmMxeFNUeGRZS3BYdnp5WE9aWVRtUzBXUFpWNGR5cVA2VWZPN2R0anFYUWxXdWFVUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-08-25T20:10:00+00:00",
+      "summary": "Harbert Management acquires Georgia power plant AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONnBvQjdsOFNXQm9HdVVvNHVDVE5HTEdlNWZXN21RdEFjR3lMalBVeHRvRGc3clJWYnI4YTlaZnNLT0pWQ0lHcGpyQUFWNUJnYm8wSEljNjAyeUpaSHZZREZUWmMxeFNUeGRZS3BYdnp5WE9aWVRtUzBXUFpWNGR5cVA2VWZPN2R0anFYUWxXdWFVUQ?oc=5\" target=\"_blank\">Harbert Management acquires Georgia power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T20:20:56+00:00"
+    },
     {
       "id": "dcc8013975d82d8b",
       "title": "Does cooler fall weather help your energy bill? What it could mean for GA - The Augusta Chronicle",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-25T18:30:31+00:00"
+    },
+    {
+      "id": "9bb684a41f7e3bc2",
+      "title": "New Drone Boosts Floyd County Emergency Response - Coosa Valley News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbTdFNy1pYWpPWGdIU0xMYzFsSFJ3Z2Z4NXpzSFNnM1FEZlRqMmxmSnV4MFdSSFhZTm93NHA1emtoVUE4Ui13VG1ScUJpZjd2TjRQUHNEY1hlRmotRnlTbHd0TWZ1aEs5WVRLOV8zTWgtbGtEN1pYTTl4U0xVcEViMEsxdzdXRll3VklSdnhn?oc=5",
+      "domain": "news.google.com",
+      "source": "Coosa Valley News",
+      "language": "English",
+      "published_at": "2026-08-25T13:59:44+00:00",
+      "summary": "New Drone Boosts Floyd County Emergency Response Coosa Valley News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNbTdFNy1pYWpPWGdIU0xMYzFsSFJ3Z2Z4NXpzSFNnM1FEZlRqMmxmSnV4MFdSSFhZTm93NHA1emtoVUE4Ui13VG1ScUJpZjd2TjRQUHNEY1hlRmotRnlTbHd0TWZ1aEs5WVRLOV8zTWgtbGtEN1pYTTl4U0xVcEViMEsxdzdXRll3VklSdnhn?oc=5\" target=\"_blank\">New Drone Boosts Floyd County Emergency Response</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coosa Valley News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T20:20:56+00:00"
     },
     {
       "id": "21cc591a4fceff3d",

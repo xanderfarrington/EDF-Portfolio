@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T18:30:41+00:00",
+  "last_updated": "2026-08-25T20:21:07+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 255,
+      "count": 256,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "21ea58b2e4bdb241",
-        "title": "Alabama Power Sketches Plan for Data Center Law Compliance - RTO Insider",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOVpiOU81Nkwxd1UyTkN4bVZKb2ZTT1lOSTJzblQ2VVRTNS0tODJ2Zm1aTmxHZk1ETTJWckxDNnQzbUdBUXljcmdNLThJZlhnbWRsX1lzd1RsWHpWcUxnSHUtSFpzWjF2aGpaOE03NmZxS2ZrT2w3NXp4UFBiSTU2UHp4MU9LQ05GTHpMTnY0QU5WQkk?oc=5",
+        "id": "0c25bacf854ad92c",
+        "title": "'This story is absolutely heartbreaking': John Rich doubles down on… - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcDJiX01rZ054SHNIVXctNVZMNVl2WVBjLTFlREtwdGd1LS16V3JEVVE2b1hRT0xUN2hUWUZweHBJNS1LdFB6bXdhUE9XWC1scHVlbGFnY0NMXzU4elVMU2JlUzNuckIzcEZQUXhTR0VUSmt5RklScEFLLU0xcHo3aEhOMHg5bXRFNVBsNWpMYTNCYmNKa3g2ZHIxNENOWXN5Nzd1eTN5cGV1SUxpN1d5STMzNVpva2VSV3lIWlM0eEpqT0oydTRkWWZKcUFnbGZoZWIzbTUxNGY2TV9PeFdzSkdaemo3U0xUQ1BIZTBTTklMdkNxLTRUSkV5Sy1fNlVFVUE?oc=5",
         "domain": "news.google.com",
-        "source": "RTO Insider",
+        "source": "1819 News",
         "language": "English",
-        "published_at": "2026-08-25T00:06:34+00:00",
-        "summary": "Alabama Power Sketches Plan for Data Center Law Compliance RTO Insider",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOOVpiOU81Nkwxd1UyTkN4bVZKb2ZTT1lOSTJzblQ2VVRTNS0tODJ2Zm1aTmxHZk1ETTJWckxDNnQzbUdBUXljcmdNLThJZlhnbWRsX1lzd1RsWHpWcUxnSHUtSFpzWjF2aGpaOE03NmZxS2ZrT2w3NXp4UFBiSTU2UHp4MU9LQ05GTHpMTnY0QU5WQkk?oc=5\" target=\"_blank\">Alabama Power Sketches Plan for Data Center Law Compliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
+        "published_at": "2026-08-25T19:03:58+00:00",
+        "summary": "'This story is absolutely heartbreaking': John Rich doubles down on… 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQcDJiX01rZ054SHNIVXctNVZMNVl2WVBjLTFlREtwdGd1LS16V3JEVVE2b1hRT0xUN2hUWUZweHBJNS1LdFB6bXdhUE9XWC1scHVlbGFnY0NMXzU4elVMU2JlUzNuckIzcEZQUXhTR0VUSmt5RklScEFLLU0xcHo3aEhOMHg5bXRFNVBsNWpMYTNCYmNKa3g2ZHIxNENOWXN5Nzd1eTN5cGV1SUxpN1d5STMzNVpva2VSV3lIWlM0eEpqT0oydTRkWWZKcUFnbGZoZWIzbTUxNGY2TV9PeFdzSkdaemo3U0xUQ1BIZTBTTklMdkNxLTRUSkV5Sy1fNlVFVUE?oc=5\" target=\"_blank\">'This story is absolutely heartbreaking': John Rich doubles down on…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-25T00:54:23+00:00"
+        "collected_at": "2026-08-25T20:20:39+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 503,
+      "count": 505,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "dcc8013975d82d8b",
-        "title": "Does cooler fall weather help your energy bill? What it could mean for GA - The Augusta Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0Rqc25melVkdDIySHFldXd5REY2eWdvMTd4Q211UG8zVTFKbDdWbzhaR0JZMlpOQ2l0V2oxNjA1dl9iNkF6ZS1oYTFXNzBLX1hDVVNSeU9yTWs2MWFyS1ZiRFUzaVR3NmRGc05INzlHTWNYQzlOODRsZm5ReDRLUnNNYzdiaHNFNFpnZ1VFenR0NnQ2WjRNTlloeXBnaEJCNjcwSWZaRnh4Ny1uM2pNSElOUWhLU3pnUEMtMW0td0h2YWhKR0FhMzFTemZ3NkUzLWRQbzhiZw?oc=5",
+        "id": "dfeb7f2a19bc7585",
+        "title": "Harbert Management acquires Georgia power plant - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONnBvQjdsOFNXQm9HdVVvNHVDVE5HTEdlNWZXN21RdEFjR3lMalBVeHRvRGc3clJWYnI4YTlaZnNLT0pWQ0lHcGpyQUFWNUJnYm8wSEljNjAyeUpaSHZZREZUWmMxeFNUeGRZS3BYdnp5WE9aWVRtUzBXUFpWNGR5cVA2VWZPN2R0anFYUWxXdWFVUQ?oc=5",
         "domain": "news.google.com",
-        "source": "The Augusta Chronicle",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-08-25T17:26:00+00:00",
-        "summary": "Does cooler fall weather help your energy bill? What it could mean for GA The Augusta Chronicle",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0Rqc25melVkdDIySHFldXd5REY2eWdvMTd4Q211UG8zVTFKbDdWbzhaR0JZMlpOQ2l0V2oxNjA1dl9iNkF6ZS1oYTFXNzBLX1hDVVNSeU9yTWs2MWFyS1ZiRFUzaVR3NmRGc05INzlHTWNYQzlOODRsZm5ReDRLUnNNYzdiaHNFNFpnZ1VFenR0NnQ2WjRNTlloeXBnaEJCNjcwSWZaRnh4Ny1uM2pNSElOUWhLU3pnUEMtMW0td0h2YWhKR0FhMzFTemZ3NkUzLWRQbzhiZw?oc=5\" target=\"_blank\">Does cooler fall weather help your energy bill? What it could mean for GA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
+        "published_at": "2026-08-25T20:10:00+00:00",
+        "summary": "Harbert Management acquires Georgia power plant AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONnBvQjdsOFNXQm9HdVVvNHVDVE5HTEdlNWZXN21RdEFjR3lMalBVeHRvRGc3clJWYnI4YTlaZnNLT0pWQ0lHcGpyQUFWNUJnYm8wSEljNjAyeUpaSHZZREZUWmMxeFNUeGRZS3BYdnp5WE9aWVRtUzBXUFpWNGR5cVA2VWZPN2R0anFYUWxXdWFVUQ?oc=5\" target=\"_blank\">Harbert Management acquires Georgia power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-25T18:30:31+00:00"
+        "collected_at": "2026-08-25T20:20:56+00:00"
       }
     },
     {

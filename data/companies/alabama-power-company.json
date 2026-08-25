@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-25T18:30:14+00:00",
+  "last_updated": "2026-08-25T20:20:39+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 255,
+  "count": 256,
   "mentions": [
+    {
+      "id": "0c25bacf854ad92c",
+      "title": "'This story is absolutely heartbreaking': John Rich doubles down on… - 1819 News",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcDJiX01rZ054SHNIVXctNVZMNVl2WVBjLTFlREtwdGd1LS16V3JEVVE2b1hRT0xUN2hUWUZweHBJNS1LdFB6bXdhUE9XWC1scHVlbGFnY0NMXzU4elVMU2JlUzNuckIzcEZQUXhTR0VUSmt5RklScEFLLU0xcHo3aEhOMHg5bXRFNVBsNWpMYTNCYmNKa3g2ZHIxNENOWXN5Nzd1eTN5cGV1SUxpN1d5STMzNVpva2VSV3lIWlM0eEpqT0oydTRkWWZKcUFnbGZoZWIzbTUxNGY2TV9PeFdzSkdaemo3U0xUQ1BIZTBTTklMdkNxLTRUSkV5Sy1fNlVFVUE?oc=5",
+      "domain": "news.google.com",
+      "source": "1819 News",
+      "language": "English",
+      "published_at": "2026-08-25T19:03:58+00:00",
+      "summary": "'This story is absolutely heartbreaking': John Rich doubles down on… 1819 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQcDJiX01rZ054SHNIVXctNVZMNVl2WVBjLTFlREtwdGd1LS16V3JEVVE2b1hRT0xUN2hUWUZweHBJNS1LdFB6bXdhUE9XWC1scHVlbGFnY0NMXzU4elVMU2JlUzNuckIzcEZQUXhTR0VUSmt5RklScEFLLU0xcHo3aEhOMHg5bXRFNVBsNWpMYTNCYmNKa3g2ZHIxNENOWXN5Nzd1eTN5cGV1SUxpN1d5STMzNVpva2VSV3lIWlM0eEpqT0oydTRkWWZKcUFnbGZoZWIzbTUxNGY2TV9PeFdzSkdaemo3U0xUQ1BIZTBTTklMdkNxLTRUSkV5Sy1fNlVFVUE?oc=5\" target=\"_blank\">'This story is absolutely heartbreaking': John Rich doubles down on…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T20:20:39+00:00"
+    },
     {
       "id": "21ea58b2e4bdb241",
       "title": "Alabama Power Sketches Plan for Data Center Law Compliance - RTO Insider",
