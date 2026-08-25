@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-25T14:38:00+00:00",
+  "last_updated": "2026-08-25T16:28:52+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 501,
+  "count": 502,
   "mentions": [
     {
       "id": "21cc591a4fceff3d",
@@ -355,6 +355,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-25T04:32:42+00:00"
+    },
+    {
+      "id": "d562551d8f3d9750",
+      "title": "All-clear given after bomb threat reported at Georgia Power plant - WALB",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbksxVWtPRndDOFRlaWpVRmI5WFQycFo5c2UwYkcwUUJ5cW52QVRkYzBfVGpNbU1XMTl3TUIxN2JKazllWHNuR0Uza2duY0RwSFVqZkVhM2lDTDBVTElTcWRJRlhrUzVEUUozME5tMnJFcThDaFNpRV85SjFhOHZuTXF1T291RVZNSEhNMHRiRmLSAaQBQVVfeXFMTTNtUFI0WkxSYXZQcG44V01ZNjlITl9FQ3AtNm5aQ19MU2pVeGwyTEEwNjdQb2RZVnhfU3hpU3Zoc3owLWtaekhndTVPX1NYTmpfOW1vVHEzQnR4MkdFeUdvWDNwcVlCR2hnTUdQenppeVlrZjd5aG5ITkhvSWN2cndURm02TmFqeFZGY2VxNmI1U09MQWo5U2hyZ3ltWUt3LXZTU3k?oc=5",
+      "domain": "news.google.com",
+      "source": "WALB",
+      "language": "English",
+      "published_at": "2026-08-24T18:52:00+00:00",
+      "summary": "All-clear given after bomb threat reported at Georgia Power plant WALB",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPbksxVWtPRndDOFRlaWpVRmI5WFQycFo5c2UwYkcwUUJ5cW52QVRkYzBfVGpNbU1XMTl3TUIxN2JKazllWHNuR0Uza2duY0RwSFVqZkVhM2lDTDBVTElTcWRJRlhrUzVEUUozME5tMnJFcThDaFNpRV85SjFhOHZuTXF1T291RVZNSEhNMHRiRmLSAaQBQVVfeXFMTTNtUFI0WkxSYXZQcG44V01ZNjlITl9FQ3AtNm5aQ19MU2pVeGwyTEEwNjdQb2RZVnhfU3hpU3Zoc3owLWtaekhndTVPX1NYTmpfOW1vVHEzQnR4MkdFeUdvWDNwcVlCR2hnTUdQenppeVlrZjd5aG5ITkhvSWN2cndURm02TmFqeFZGY2VxNmI1U09MQWo5U2hyZ3ltWUt3LXZTU3k?oc=5\" target=\"_blank\">All-clear given after bomb threat reported at Georgia Power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WALB</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T16:28:52+00:00"
     },
     {
       "id": "ee7c017a5170f9e1",
