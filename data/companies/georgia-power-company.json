@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-24T22:18:51+00:00",
+  "last_updated": "2026-08-25T00:54:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 487,
+  "count": 496,
   "mentions": [
+    {
+      "id": "4c7bd84007858cc2",
+      "title": "Power knocked out for more than 1,800 customers in Savannah after severe storms - WJCL",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkNnSkZWanUtTk1aY2dkRGRhMmlZVFpxWUp0alRESjB6aS1MWVc1OFVaelIwUUcwVlBBQmtXUzZwNXZFM2tQU0VEU0lwRzlRdGhMU0VQa0tfM1RNTmY2YzdrU28zN1ptVVJFRW8zUEZPU1FTdFMtbmV6UTAxUS1TM2N3UnZuRVBa?oc=5",
+      "domain": "news.google.com",
+      "source": "WJCL",
+      "language": "English",
+      "published_at": "2026-08-24T23:49:00+00:00",
+      "summary": "Power knocked out for more than 1,800 customers in Savannah after severe storms WJCL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkNnSkZWanUtTk1aY2dkRGRhMmlZVFpxWUp0alRESjB6aS1MWVc1OFVaelIwUUcwVlBBQmtXUzZwNXZFM2tQU0VEU0lwRzlRdGhMU0VQa0tfM1RNTmY2YzdrU28zN1ptVVJFRW8zUEZPU1FTdFMtbmV6UTAxUS1TM2N3UnZuRVBa?oc=5\" target=\"_blank\">Power knocked out for more than 1,800 customers in Savannah after severe storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJCL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T00:54:40+00:00"
+    },
+    {
+      "id": "809bab0b9ce14c50",
+      "title": "All clear given at Georgia Power plant in Coweta County - 11Alive.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM1ZqX05mOG0xRF92Y2hvb0xHbmFsQklPQWVlOTR3Mkt5akQ3NEtBT1ZnZzJVZVZFX3JTUlZCajR4ZVFnSkNpUzBVQXNtbE5Uc253TzZyUEUzaXpkQ3lFc25JSmEtSVJHNTUwOWFhdFJuOFpnc2FwT09IX0hSWGZhOFo3VVN1OUhJWlVpTnpJbXNGMldDSi1LSHRoREhOR0FYVzBsZUxaUWZ5ZE5ZZnhUWHNYTTlJcG54RnpVQmRLSHVRTF9oN2NkYkxXVTVnb0hUUXc?oc=5",
+      "domain": "news.google.com",
+      "source": "11Alive.com",
+      "language": "English",
+      "published_at": "2026-08-24T22:18:00+00:00",
+      "summary": "All clear given at Georgia Power plant in Coweta County 11Alive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM1ZqX05mOG0xRF92Y2hvb0xHbmFsQklPQWVlOTR3Mkt5akQ3NEtBT1ZnZzJVZVZFX3JTUlZCajR4ZVFnSkNpUzBVQXNtbE5Uc253TzZyUEUzaXpkQ3lFc25JSmEtSVJHNTUwOWFhdFJuOFpnc2FwT09IX0hSWGZhOFo3VVN1OUhJWlVpTnpJbXNGMldDSi1LSHRoREhOR0FYVzBsZUxaUWZ5ZE5ZZnhUWHNYTTlJcG54RnpVQmRLSHVRTF9oN2NkYkxXVTVnb0hUUXc?oc=5\" target=\"_blank\">All clear given at Georgia Power plant in Coweta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T00:54:40+00:00"
+    },
     {
       "id": "597522fb83f28b00",
       "title": "800 evacuated after bomb threat at Georgia Power facility; no device found - BNO News",
@@ -19,6 +47,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-24T22:18:51+00:00"
+    },
+    {
+      "id": "5b435b616ea76323",
+      "title": "A close look at data centers and power grids from Georgia Power - WJBF",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQkU3d0lhcldGVENhRjFIZVE2MWxRYWRaTldWai04Q0FaRHFKQV9Camcwb251LUlBMENkbmRNblJYWFBUTWVLZFR3TE9MZm5jQmNqaC1wa0h2blRHSVhsbWRjaU1LZkVTS1RNRTJhTXRqSTZrN0lmekFjZjZTamlsWHRIbm00ZHpPQ1gwRjJjcElLNnNj0gGaAUFVX3lxTE1NSXlYWlNYQ3lHS185NzI3c2tQeTRTcERxX0hvUWF2SnRBVjdSS184RG5hNG0wMVNUT3dYcFlCaXNDYXA2RjI1TGU3S2IwTWlOM1dGNDhCQjVOZUIwQ0R3aWRLaVcweUZncWtCWm5wcXVHdkZZX2dzQkkxMTRfWV9zSjVPd2dBNURReHFiVlFFaEFXVkw5V012V2c?oc=5",
+      "domain": "news.google.com",
+      "source": "WJBF",
+      "language": "English",
+      "published_at": "2026-08-24T21:38:16+00:00",
+      "summary": "A close look at data centers and power grids from Georgia Power WJBF",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPQkU3d0lhcldGVENhRjFIZVE2MWxRYWRaTldWai04Q0FaRHFKQV9Camcwb251LUlBMENkbmRNblJYWFBUTWVLZFR3TE9MZm5jQmNqaC1wa0h2blRHSVhsbWRjaU1LZkVTS1RNRTJhTXRqSTZrN0lmekFjZjZTamlsWHRIbm00ZHpPQ1gwRjJjcElLNnNj0gGaAUFVX3lxTE1NSXlYWlNYQ3lHS185NzI3c2tQeTRTcERxX0hvUWF2SnRBVjdSS184RG5hNG0wMVNUT3dYcFlCaXNDYXA2RjI1TGU3S2IwTWlOM1dGNDhCQjVOZUIwQ0R3aWRLaVcweUZncWtCWm5wcXVHdkZZX2dzQkkxMTRfWV9zSjVPd2dBNURReHFiVlFFaEFXVkw5V012V2c?oc=5\" target=\"_blank\">A close look at data centers and power grids from Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJBF</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T00:54:40+00:00"
+    },
+    {
+      "id": "4d9bea1ce56f8977",
+      "title": "A close look at data centers and power grids from Georgia Power - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEJVOWEwbTdnSE9oaGE3a08tdUJrb0JxeVJyMExOY3laTU9ITFRDOHNPZmgtZFFiSFZ6QzMtYzBmaWwxSmZ5RDQtOEN0UWctNnd1YmsxSHZxSEtmZ0YyZWFKRTNkbHJldDZpeXlUVU83b2U2aURHRkF4MmJFUHZmTThpRlpCdWpWdGdubTdYLVBybWU4MWg0bg?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-08-24T21:38:16+00:00",
+      "summary": "A close look at data centers and power grids from Georgia Power Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEJVOWEwbTdnSE9oaGE3a08tdUJrb0JxeVJyMExOY3laTU9ITFRDOHNPZmgtZFFiSFZ6QzMtYzBmaWwxSmZ5RDQtOEN0UWctNnd1YmsxSHZxSEtmZ0YyZWFKRTNkbHJldDZpeXlUVU83b2U2aURHRkF4MmJFUHZmTThpRlpCdWpWdGdubTdYLVBybWU4MWg0bg?oc=5\" target=\"_blank\">A close look at data centers and power grids from Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T00:54:40+00:00"
     },
     {
       "id": "4d726b6584b344aa",
@@ -35,6 +91,20 @@
       "collected_at": "2026-08-24T22:18:51+00:00"
     },
     {
+      "id": "7fa976469005f88f",
+      "title": "All-clear given after bomb threat reported at Georgia Power plant - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR0JWUi1wNHNRN01LU1FVR2tud0FGQjViSGdtdXpSbnBkR2c4d19ZRjRBc0ZjVEl4Ml8tU2MwRmJwdnlpdXQ0Y1ZvTHgzdUZmV2VmWThCSUpjYmFyRmRTazJubkw1cFpXMURyYVZyWW1RTG1TWVNhb29NMTZ6UTVvT29DVVQxQThFSFBhWWc2anB1ZlFWenFRT182VDMwaWNWSGNmWEdLemdLLUpfSTd0SkZGWQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-08-24T21:13:00+00:00",
+      "summary": "All-clear given after bomb threat reported at Georgia Power plant Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNR0JWUi1wNHNRN01LU1FVR2tud0FGQjViSGdtdXpSbnBkR2c4d19ZRjRBc0ZjVEl4Ml8tU2MwRmJwdnlpdXQ0Y1ZvTHgzdUZmV2VmWThCSUpjYmFyRmRTazJubkw1cFpXMURyYVZyWW1RTG1TWVNhb29NMTZ6UTVvT29DVVQxQThFSFBhWWc2anB1ZlFWenFRT182VDMwaWNWSGNmWEdLemdLLUpfSTd0SkZGWQ?oc=5\" target=\"_blank\">All-clear given after bomb threat reported at Georgia Power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T00:54:40+00:00"
+    },
+    {
       "id": "72e842f5e19f6550",
       "title": "‘All clear’ after bomb threat at Georgia Power plant causes evacuation - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQmNEWThkSHh2NVhndEw0allyc0VRaG1mWlRTMFpQaXlZQ2c4SVVLd1h5OVg5NUV6ZnpLVHJUVWJYeWo2N1dzMEU1X1VMaERWZzVxY3hZVzBwR04tajhJWGRpalBDY0RGdkREX3Y4Y29DNlN5NnNNLUQzd0NpQWdnSW1sQk1mRVEteWlZYXpR?oc=5",
@@ -47,6 +117,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-24T22:18:51+00:00"
+    },
+    {
+      "id": "3d5e822cde6e4cd1",
+      "title": "‘All clear’ after bomb threat at Georgia Power plant causes evacuation - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlBSQXZzRFpVZXlTRWVTWDBzbms4ekhzZjlRaTBGYmpRaEhURTBJS0JKbjdJSWc1Y2RYMUtkY2RIQjVDdExSTmZ0TlFXTThRakl1Q2lHRXgyNVNybEJrQl96VC1hb19TbXVEcHlmUGJQQ1FELXBsaUNNT19ObjBRcHJuNlZETGZJUTBNQmtnNjRTMEZUc1h4cjhpZmdmU2ZQVFRXRGN1UlNwOENzNDg00gHDAUFVX3lxTE5ucUN6cmtxRjB0VFJuX2I0Mi1VZFJqSnFZamVNcEhvOHFxeFZwNTBnbzhwM1RTVzVlRTBxSzVoakNZV3JRZTh0SDNGVXdhN0swMGtCWGQwOHN1VWlFNWFiOGU2bXBrTkliTEhZWXhmYjhwcy12Rk41UGR5enRBU3NEVElEaGlnbk5WV1hKdlFydjRRWERjal9FXzYtR1JpbHo3UHZ6ckJ0dkx6dmZwOENkWWtlanByRGJWVTl6dGNMaG1KMA?oc=5",
+      "domain": "news.google.com",
+      "source": "WSB-TV",
+      "language": "English",
+      "published_at": "2026-08-24T21:09:41+00:00",
+      "summary": "‘All clear’ after bomb threat at Georgia Power plant causes evacuation WSB-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlBSQXZzRFpVZXlTRWVTWDBzbms4ekhzZjlRaTBGYmpRaEhURTBJS0JKbjdJSWc1Y2RYMUtkY2RIQjVDdExSTmZ0TlFXTThRakl1Q2lHRXgyNVNybEJrQl96VC1hb19TbXVEcHlmUGJQQ1FELXBsaUNNT19ObjBRcHJuNlZETGZJUTBNQmtnNjRTMEZUc1h4cjhpZmdmU2ZQVFRXRGN1UlNwOENzNDg00gHDAUFVX3lxTE5ucUN6cmtxRjB0VFJuX2I0Mi1VZFJqSnFZamVNcEhvOHFxeFZwNTBnbzhwM1RTVzVlRTBxSzVoakNZV3JRZTh0SDNGVXdhN0swMGtCWGQwOHN1VWlFNWFiOGU2bXBrTkliTEhZWXhmYjhwcy12Rk41UGR5enRBU3NEVElEaGlnbk5WV1hKdlFydjRRWERjal9FXzYtR1JpbHo3UHZ6ckJ0dkx6dmZwOENkWWtlanByRGJWVTl6dGNMaG1KMA?oc=5\" target=\"_blank\">‘All clear’ after bomb threat at Georgia Power plant causes evacuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T00:54:40+00:00"
+    },
+    {
+      "id": "070271c09b1206b6",
+      "title": "A close look at data centers and power grids from Georgia Power - WJBF",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmdTUFRYSFJNRjRrQjQxTzB0bzg3STM4WFFHY0VoNk1RUzJOX3VrV2dRZklVUVZjYm42TEpIYlV3WXc3VUZJSWh0LXVRMHJjelZJNUszUTU0YXd1Zl8tRWdDby1vNFFtc19NTzJ4cFMzUTJqYmh1OGpkUEd0SjIwelZtTUZVVWtzeTBaemVrN2JDS3d0YlQxZVFuRWtFaXd1VVE?oc=5",
+      "domain": "news.google.com",
+      "source": "WJBF",
+      "language": "English",
+      "published_at": "2026-08-24T20:40:00+00:00",
+      "summary": "A close look at data centers and power grids from Georgia Power WJBF",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmdTUFRYSFJNRjRrQjQxTzB0bzg3STM4WFFHY0VoNk1RUzJOX3VrV2dRZklVUVZjYm42TEpIYlV3WXc3VUZJSWh0LXVRMHJjelZJNUszUTU0YXd1Zl8tRWdDby1vNFFtc19NTzJ4cFMzUTJqYmh1OGpkUEd0SjIwelZtTUZVVWtzeTBaemVrN2JDS3d0YlQxZVFuRWtFaXd1VVE?oc=5\" target=\"_blank\">A close look at data centers and power grids from Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJBF</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T00:54:40+00:00"
     },
     {
       "id": "99848606835d9efc",
@@ -75,6 +173,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-24T20:22:26+00:00"
+    },
+    {
+      "id": "1fd88c368e2f508c",
+      "title": "All clear given after bomb threat prompts evacuation of Georgia Power plant, Highway 16 shutdown - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXFvTFdvZmp6ZDNVblZkZWVjWkpVYzlLRGFUb2dGSjFQejVscW5oX24xczM3aUR3anNFQmFVY1E5Nmxyb2Q5M0tid1RscmJIc0cxdXhKU1Jqc2V4SmdLVzlycEx0cW1kVE1fOTRhcVhRcGFiTVBvUWdKWGVGN1N2czJZT3Vhd1liQ2stYnctZVpjV0t2WHZtTWNqUFVuVm00a3RHbWtZVzVfR0VRaU1mRndXVzFpcU1UQ0hVeE9TTzlrNVJEWTZyWXJYX2tkTzU1X3c?oc=5",
+      "domain": "news.google.com",
+      "source": "CBS News",
+      "language": "English",
+      "published_at": "2026-08-24T20:10:00+00:00",
+      "summary": "All clear given after bomb threat prompts evacuation of Georgia Power plant, Highway 16 shutdown CBS News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXFvTFdvZmp6ZDNVblZkZWVjWkpVYzlLRGFUb2dGSjFQejVscW5oX24xczM3aUR3anNFQmFVY1E5Nmxyb2Q5M0tid1RscmJIc0cxdXhKU1Jqc2V4SmdLVzlycEx0cW1kVE1fOTRhcVhRcGFiTVBvUWdKWGVGN1N2czJZT3Vhd1liQ2stYnctZVpjV0t2WHZtTWNqUFVuVm00a3RHbWtZVzVfR0VRaU1mRndXVzFpcU1UQ0hVeE9TTzlrNVJEWTZyWXJYX2tkTzU1X3c?oc=5\" target=\"_blank\">All clear given after bomb threat prompts evacuation of Georgia Power plant, Highway 16 shutdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T00:54:40+00:00"
     },
     {
       "id": "4244646e2a2dd540",
@@ -117,6 +229,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-24T22:18:51+00:00"
+    },
+    {
+      "id": "5dc0b7cb468aa5e2",
+      "title": "All clear given after bomb threat at Georgia Power Plant Yates - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnAxN3J6amZ0WEhFMkIzb1IyNGVlalFETlkzSlRvWlRIblRkVklzUk9Oc192aWJYYXh5OVdTVnM4WkZ4TjdwMHpBLVdISWZ4UE15QlFiRkp4SWxnV3luVFNBMHpNTlVObUExM001Q05YVHM2WlowblJEbW5MdVliMnVrWkhzLXdxb2U0?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX 5 Atlanta",
+      "language": "English",
+      "published_at": "2026-08-24T19:00:50+00:00",
+      "summary": "All clear given after bomb threat at Georgia Power Plant Yates FOX 5 Atlanta",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnAxN3J6amZ0WEhFMkIzb1IyNGVlalFETlkzSlRvWlRIblRkVklzUk9Oc192aWJYYXh5OVdTVnM4WkZ4TjdwMHpBLVdISWZ4UE15QlFiRkp4SWxnV3luVFNBMHpNTlVObUExM001Q05YVHM2WlowblJEbW5MdVliMnVrWkhzLXdxb2U0?oc=5\" target=\"_blank\">All clear given after bomb threat at Georgia Power Plant Yates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T00:54:40+00:00"
     },
     {
       "id": "06d03553e70e2296",

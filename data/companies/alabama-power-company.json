@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-24T22:18:35+00:00",
+  "last_updated": "2026-08-25T00:54:24+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 253,
+  "count": 254,
   "mentions": [
+    {
+      "id": "21ea58b2e4bdb241",
+      "title": "Alabama Power Sketches Plan for Data Center Law Compliance - RTO Insider",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOVpiOU81Nkwxd1UyTkN4bVZKb2ZTT1lOSTJzblQ2VVRTNS0tODJ2Zm1aTmxHZk1ETTJWckxDNnQzbUdBUXljcmdNLThJZlhnbWRsX1lzd1RsWHpWcUxnSHUtSFpzWjF2aGpaOE03NmZxS2ZrT2w3NXp4UFBiSTU2UHp4MU9LQ05GTHpMTnY0QU5WQkk?oc=5",
+      "domain": "news.google.com",
+      "source": "RTO Insider",
+      "language": "English",
+      "published_at": "2026-08-25T00:06:34+00:00",
+      "summary": "Alabama Power Sketches Plan for Data Center Law Compliance RTO Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOOVpiOU81Nkwxd1UyTkN4bVZKb2ZTT1lOSTJzblQ2VVRTNS0tODJ2Zm1aTmxHZk1ETTJWckxDNnQzbUdBUXljcmdNLThJZlhnbWRsX1lzd1RsWHpWcUxnSHUtSFpzWjF2aGpaOE03NmZxS2ZrT2w3NXp4UFBiSTU2UHp4MU9LQ05GTHpMTnY0QU5WQkk?oc=5\" target=\"_blank\">Alabama Power Sketches Plan for Data Center Law Compliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-25T00:54:23+00:00"
+    },
     {
       "id": "02448de6eb4c7163",
       "title": "Alabama summer heat can mean higher power bills. Here’s how to track your usage - Yellowhammer News",

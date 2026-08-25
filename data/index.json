@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T22:19:02+00:00",
+  "last_updated": "2026-08-25T00:54:50+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 253,
+      "count": 254,
       "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "02448de6eb4c7163",
-        "title": "Alabama summer heat can mean higher power bills. Here’s how to track your usage - Yellowhammer News",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2JBWDBfY214NDVWMmJJSHZPbjZRbEFmMjlvcEN5Y2haN0xuWUJuUVNxMVgtR3BmcDRpRnZOMk9PUE9YTUY1bjROOXR0UXNRN0QxMVhLZFZTdGF0UEVBVlJ2NC1uSFJjNVFhQzZjbkE4Qk1KaTdxZEZKR2tlS0pXYmZ4NEhZU0E1RjdQNzc0T3RZWkg1YmFxbzJTQnZYS2llWmZ2NzZyV2xMNlk?oc=5",
+        "id": "21ea58b2e4bdb241",
+        "title": "Alabama Power Sketches Plan for Data Center Law Compliance - RTO Insider",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOVpiOU81Nkwxd1UyTkN4bVZKb2ZTT1lOSTJzblQ2VVRTNS0tODJ2Zm1aTmxHZk1ETTJWckxDNnQzbUdBUXljcmdNLThJZlhnbWRsX1lzd1RsWHpWcUxnSHUtSFpzWjF2aGpaOE03NmZxS2ZrT2w3NXp4UFBiSTU2UHp4MU9LQ05GTHpMTnY0QU5WQkk?oc=5",
         "domain": "news.google.com",
-        "source": "Yellowhammer News",
+        "source": "RTO Insider",
         "language": "English",
-        "published_at": "2026-08-24T14:30:16+00:00",
-        "summary": "Alabama summer heat can mean higher power bills. Here’s how to track your usage Yellowhammer News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2JBWDBfY214NDVWMmJJSHZPbjZRbEFmMjlvcEN5Y2haN0xuWUJuUVNxMVgtR3BmcDRpRnZOMk9PUE9YTUY1bjROOXR0UXNRN0QxMVhLZFZTdGF0UEVBVlJ2NC1uSFJjNVFhQzZjbkE4Qk1KaTdxZEZKR2tlS0pXYmZ4NEhZU0E1RjdQNzc0T3RZWkg1YmFxbzJTQnZYS2llWmZ2NzZyV2xMNlk?oc=5\" target=\"_blank\">Alabama summer heat can mean higher power bills. Here’s how to track your usage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellowhammer News</font>",
+        "published_at": "2026-08-25T00:06:34+00:00",
+        "summary": "Alabama Power Sketches Plan for Data Center Law Compliance RTO Insider",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOOVpiOU81Nkwxd1UyTkN4bVZKb2ZTT1lOSTJzblQ2VVRTNS0tODJ2Zm1aTmxHZk1ETTJWckxDNnQzbUdBUXljcmdNLThJZlhnbWRsX1lzd1RsWHpWcUxnSHUtSFpzWjF2aGpaOE03NmZxS2ZrT2w3NXp4UFBiSTU2UHp4MU9LQ05GTHpMTnY0QU5WQkk?oc=5\" target=\"_blank\">Alabama Power Sketches Plan for Data Center Law Compliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-24T16:28:07+00:00"
+        "collected_at": "2026-08-25T00:54:23+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 487,
+      "count": 496,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "597522fb83f28b00",
-        "title": "800 evacuated after bomb threat at Georgia Power facility; no device found - BNO News",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDZYaThhc0JpaG13cEYwNXBFcGtOUlpkcHpoVVdEbVVqNy1TaHA2TDJ1QWdpbnQ3VFFVakIwRXF5QkRDVy1TS2JEcmJlYmNzSU8tOFpZdWhQN3U1UjZUV3czSWZnSFY4SHd1eXdYNl81NVBNMDZSZVZtUkpuQ2lHVnhHcVFyTTA3Yml1bllSandYSnJPb05JMGtKamItX1BXaXR2UzZxQ2NpZVh6?oc=5",
+        "id": "4c7bd84007858cc2",
+        "title": "Power knocked out for more than 1,800 customers in Savannah after severe storms - WJCL",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkNnSkZWanUtTk1aY2dkRGRhMmlZVFpxWUp0alRESjB6aS1MWVc1OFVaelIwUUcwVlBBQmtXUzZwNXZFM2tQU0VEU0lwRzlRdGhMU0VQa0tfM1RNTmY2YzdrU28zN1ptVVJFRW8zUEZPU1FTdFMtbmV6UTAxUS1TM2N3UnZuRVBa?oc=5",
         "domain": "news.google.com",
-        "source": "BNO News",
+        "source": "WJCL",
         "language": "English",
-        "published_at": "2026-08-24T21:38:35+00:00",
-        "summary": "800 evacuated after bomb threat at Georgia Power facility; no device found BNO News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDZYaThhc0JpaG13cEYwNXBFcGtOUlpkcHpoVVdEbVVqNy1TaHA2TDJ1QWdpbnQ3VFFVakIwRXF5QkRDVy1TS2JEcmJlYmNzSU8tOFpZdWhQN3U1UjZUV3czSWZnSFY4SHd1eXdYNl81NVBNMDZSZVZtUkpuQ2lHVnhHcVFyTTA3Yml1bllSandYSnJPb05JMGtKamItX1BXaXR2UzZxQ2NpZVh6?oc=5\" target=\"_blank\">800 evacuated after bomb threat at Georgia Power facility; no device found</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNO News</font>",
+        "published_at": "2026-08-24T23:49:00+00:00",
+        "summary": "Power knocked out for more than 1,800 customers in Savannah after severe storms WJCL",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkNnSkZWanUtTk1aY2dkRGRhMmlZVFpxWUp0alRESjB6aS1MWVc1OFVaelIwUUcwVlBBQmtXUzZwNXZFM2tQU0VEU0lwRzlRdGhMU0VQa0tfM1RNTmY2YzdrU28zN1ptVVJFRW8zUEZPU1FTdFMtbmV6UTAxUS1TM2N3UnZuRVBa?oc=5\" target=\"_blank\">Power knocked out for more than 1,800 customers in Savannah after severe storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJCL</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-24T22:18:51+00:00"
+        "collected_at": "2026-08-25T00:54:40+00:00"
       }
     },
     {
