@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T16:43:37+00:00",
+  "last_updated": "2026-08-26T19:41:53+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 257,
-      "new_mentions_this_run": 23,
+      "count": 260,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "c01bb926bdfca404",
-        "title": "Alabama Power Foundation names Imari Lemon as Escambia Count... - The Atmore Advance",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2h6SWpqNk9UZmpkU1JVeGhCcGx4VTlmNFFuSUI4MzN4ZzV0TTRlRmtxYVJfRDdvY1I2dVE3bUVQNHVNejMtYVJIWjJUSmxCZnVxcWlEWE96X3FwRFFINXFzZXZSVjhTUzV0c2NPd1ZxUUxTeGoyNlBUSno4aGRhSDlXTGtFVDhKOFNHaDVGTjZac2Z6Ty1Hb0tqRUVuM1ZFT3ZxS2lWUE4xT1Ezc2otMXB4ZWhkYnZ3blJiYTk0UVhNQllWZVR1eEpmTDBORkE?oc=5",
+        "id": "3a8648dd13b3e5b3",
+        "title": "Morgan Academy’s Brooke Waters receives Alabama Power Founda... - The Selma Times-Journal",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORGhmRWhjWHk0V3dwZUk2cFE3N0Z3eUZLaFZQa2ozMXZDRFRESVI2SnFfWm9fckJYM0lYRGJKcnl2U3FsRmpVTk1sQk9oX3dTQllUYkpEMDJRTDZhRVEta0tWZDI4Sm5DNTFlMGFIaG1oNnByRG9nQ2lFaDFCamhXaXdWMGZ2QXJ3a25PRl9mb1plTHFaQlRmZGFmaXhJWVVxUUZVRWJwWGxMNFRoM0ZEUXhGc1lDVzFfVU9sTXRTdzNTQQ?oc=5",
         "domain": "news.google.com",
-        "source": "The Atmore Advance",
+        "source": "The Selma Times-Journal",
         "language": "English",
-        "published_at": "2026-08-26T14:08:12+00:00",
-        "summary": "Alabama Power Foundation names Imari Lemon as Escambia Count... The Atmore Advance",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2h6SWpqNk9UZmpkU1JVeGhCcGx4VTlmNFFuSUI4MzN4ZzV0TTRlRmtxYVJfRDdvY1I2dVE3bUVQNHVNejMtYVJIWjJUSmxCZnVxcWlEWE96X3FwRFFINXFzZXZSVjhTUzV0c2NPd1ZxUUxTeGoyNlBUSno4aGRhSDlXTGtFVDhKOFNHaDVGTjZac2Z6Ty1Hb0tqRUVuM1ZFT3ZxS2lWUE4xT1Ezc2otMXB4ZWhkYnZ3blJiYTk0UVhNQllWZVR1eEpmTDBORkE?oc=5\" target=\"_blank\">Alabama Power Foundation names Imari Lemon as Escambia Count...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atmore Advance</font>",
+        "published_at": "2026-08-26T19:26:11+00:00",
+        "summary": "Morgan Academy’s Brooke Waters receives Alabama Power Founda... The Selma Times-Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxORGhmRWhjWHk0V3dwZUk2cFE3N0Z3eUZLaFZQa2ozMXZDRFRESVI2SnFfWm9fckJYM0lYRGJKcnl2U3FsRmpVTk1sQk9oX3dTQllUYkpEMDJRTDZhRVEta0tWZDI4Sm5DNTFlMGFIaG1oNnByRG9nQ2lFaDFCamhXaXdWMGZ2QXJ3a25PRl9mb1plTHFaQlRmZGFmaXhJWVVxUUZVRWJwWGxMNFRoM0ZEUXhGc1lDVzFfVU9sTXRTdzNTQQ?oc=5\" target=\"_blank\">Morgan Academy’s Brooke Waters receives Alabama Power Founda...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Selma Times-Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-26T16:43:10+00:00"
+        "collected_at": "2026-08-26T19:41:26+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 511,
+      "count": 512,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "4acc69cde2b4570e",
