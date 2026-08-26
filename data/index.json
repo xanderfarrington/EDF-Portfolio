@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T19:41:53+00:00",
+  "last_updated": "2026-08-26T22:39:00+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 260,
+      "count": 262,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "3a8648dd13b3e5b3",
-        "title": "Morgan Academy’s Brooke Waters receives Alabama Power Founda... - The Selma Times-Journal",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORGhmRWhjWHk0V3dwZUk2cFE3N0Z3eUZLaFZQa2ozMXZDRFRESVI2SnFfWm9fckJYM0lYRGJKcnl2U3FsRmpVTk1sQk9oX3dTQllUYkpEMDJRTDZhRVEta0tWZDI4Sm5DNTFlMGFIaG1oNnByRG9nQ2lFaDFCamhXaXdWMGZ2QXJ3a25PRl9mb1plTHFaQlRmZGFmaXhJWVVxUUZVRWJwWGxMNFRoM0ZEUXhGc1lDVzFfVU9sTXRTdzNTQQ?oc=5",
+        "id": "81a371977617373f",
+        "title": "Handley grad Busbin receives Alabama Power Community Scholars award - The Randolph Leader",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLUVJTDZBd1RGM0RyV0RjVXhfdUNEVDd1czRUNWJzR2w1Um5zcU42dzB3dFdzME5QU0FFQThxeUdHMlNFOC1IVF9ETlQtX1EwUlpJNHBuRlVTTGw5eTVFbW9CbzhDanZ1NTgtM01KRFZZUWx3RW5fMkVwUG5nN2w4N2VXcmp3VnRIWmZKdG81ZmlLVllRdlJTSVRnM2JjY3F4bklEZnA0MmxxQmdsV1R1OGNtbw?oc=5",
         "domain": "news.google.com",
-        "source": "The Selma Times-Journal",
+        "source": "The Randolph Leader",
         "language": "English",
-        "published_at": "2026-08-26T19:26:11+00:00",
-        "summary": "Morgan Academy’s Brooke Waters receives Alabama Power Founda... The Selma Times-Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxORGhmRWhjWHk0V3dwZUk2cFE3N0Z3eUZLaFZQa2ozMXZDRFRESVI2SnFfWm9fckJYM0lYRGJKcnl2U3FsRmpVTk1sQk9oX3dTQllUYkpEMDJRTDZhRVEta0tWZDI4Sm5DNTFlMGFIaG1oNnByRG9nQ2lFaDFCamhXaXdWMGZ2QXJ3a25PRl9mb1plTHFaQlRmZGFmaXhJWVVxUUZVRWJwWGxMNFRoM0ZEUXhGc1lDVzFfVU9sTXRTdzNTQQ?oc=5\" target=\"_blank\">Morgan Academy’s Brooke Waters receives Alabama Power Founda...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Selma Times-Journal</font>",
+        "published_at": "2026-08-26T22:03:51+00:00",
+        "summary": "Handley grad Busbin receives Alabama Power Community Scholars award The Randolph Leader",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQLUVJTDZBd1RGM0RyV0RjVXhfdUNEVDd1czRUNWJzR2w1Um5zcU42dzB3dFdzME5QU0FFQThxeUdHMlNFOC1IVF9ETlQtX1EwUlpJNHBuRlVTTGw5eTVFbW9CbzhDanZ1NTgtM01KRFZZUWx3RW5fMkVwUG5nN2w4N2VXcmp3VnRIWmZKdG81ZmlLVllRdlJTSVRnM2JjY3F4bklEZnA0MmxxQmdsV1R1OGNtbw?oc=5\" target=\"_blank\">Handley grad Busbin receives Alabama Power Community Scholars award</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Randolph Leader</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-26T19:41:26+00:00"
+        "collected_at": "2026-08-26T22:38:32+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 97,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
