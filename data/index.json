@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T22:19:39+00:00",
+  "last_updated": "2026-08-26T00:55:49+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 256,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "0c25bacf854ad92c",
         "title": "'This story is absolutely heartbreaking': John Rich doubles down on… - 1819 News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 506,
+      "count": 507,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "dfeb7f2a19bc7585",
-        "title": "Harbert Management acquires Georgia power plant - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONnBvQjdsOFNXQm9HdVVvNHVDVE5HTEdlNWZXN21RdEFjR3lMalBVeHRvRGc3clJWYnI4YTlaZnNLT0pWQ0lHcGpyQUFWNUJnYm8wSEljNjAyeUpaSHZZREZUWmMxeFNUeGRZS3BYdnp5WE9aWVRtUzBXUFpWNGR5cVA2VWZPN2R0anFYUWxXdWFVUQ?oc=5",
+        "id": "10f30a8211a4da63",
+        "title": "PSC deadline arrives for Georgia Power’s 3.2-gigawatt OpenAI data center contract - thecurrentga.org",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGZZQjVhY0cyN2t2bG1DczhUbGdTRmJFMU1TVmNaZ09rZnZlZlRhY2F2bzVnWDUxLXR4NFFtZ3NRU3kwZWZvRVY4V1FOS0J4a1BvbE5sRXJxVDluM0FnVzFvMDh2c0hEQnU4TFVzLUV5cDNwd3pwaUJHREd4RHlEOXpPQTlRUVhVUmx5MEt6MXZjN1hBSmU2UjRDQzRWYUxlY09zbjVjVExkWHREOFotY3ZwX0ItbThZ?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "thecurrentga.org",
         "language": "English",
-        "published_at": "2026-08-25T20:10:00+00:00",
-        "summary": "Harbert Management acquires Georgia power plant AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONnBvQjdsOFNXQm9HdVVvNHVDVE5HTEdlNWZXN21RdEFjR3lMalBVeHRvRGc3clJWYnI4YTlaZnNLT0pWQ0lHcGpyQUFWNUJnYm8wSEljNjAyeUpaSHZZREZUWmMxeFNUeGRZS3BYdnp5WE9aWVRtUzBXUFpWNGR5cVA2VWZPN2R0anFYUWxXdWFVUQ?oc=5\" target=\"_blank\">Harbert Management acquires Georgia power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-08-25T23:41:49+00:00",
+        "summary": "PSC deadline arrives for Georgia Power’s 3.2-gigawatt OpenAI data center contract thecurrentga.org",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGZZQjVhY0cyN2t2bG1DczhUbGdTRmJFMU1TVmNaZ09rZnZlZlRhY2F2bzVnWDUxLXR4NFFtZ3NRU3kwZWZvRVY4V1FOS0J4a1BvbE5sRXJxVDluM0FnVzFvMDh2c0hEQnU4TFVzLUV5cDNwd3pwaUJHREd4RHlEOXpPQTlRUVhVUmx5MEt6MXZjN1hBSmU2UjRDQzRWYUxlY09zbjVjVExkWHREOFotY3ZwX0ItbThZ?oc=5\" target=\"_blank\">PSC deadline arrives for Georgia Power’s 3.2-gigawatt OpenAI data center contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-25T20:20:56+00:00"
+        "collected_at": "2026-08-26T00:55:39+00:00"
       }
     },
     {
