@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T02:58:57+00:00",
+  "last_updated": "2026-08-26T04:33:34+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 256,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "0c25bacf854ad92c",
         "title": "'This story is absolutely heartbreaking': John Rich doubles down on… - 1819 News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 507,
+      "count": 510,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "10f30a8211a4da63",
-        "title": "PSC deadline arrives for Georgia Power’s 3.2-gigawatt OpenAI data center contract - thecurrentga.org",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGZZQjVhY0cyN2t2bG1DczhUbGdTRmJFMU1TVmNaZ09rZnZlZlRhY2F2bzVnWDUxLXR4NFFtZ3NRU3kwZWZvRVY4V1FOS0J4a1BvbE5sRXJxVDluM0FnVzFvMDh2c0hEQnU4TFVzLUV5cDNwd3pwaUJHREd4RHlEOXpPQTlRUVhVUmx5MEt6MXZjN1hBSmU2UjRDQzRWYUxlY09zbjVjVExkWHREOFotY3ZwX0ItbThZ?oc=5",
+        "id": "4acc69cde2b4570e",
+        "title": "Exchange Club Hears Georgia Power Update - The Brunswick News",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNE9QYVdZalpORFBHZGZBd05xZVlXeEp2QVZwcWthcnoxeHBOeDZDbHd1TnlFbkRBR3psSmxBX2ZQWFVTak1PaXRPYm92OF9LMVdCRGxmZjBFU2UyeUhBVHJLYzJ6Y2FDbkE1LUNweWl1LWtwZk1vd2c2d0lQLUFnZURudTR3TnFLYTJuYmhyd0JiM19hVGFxUC0zM0JnTjVqeGRCY3RaZm5YZUgtVkRkTGdGSGhUUTJ0Tjd4R0swUHFJQmVHSG8wTTMxV25EdlE?oc=5",
         "domain": "news.google.com",
-        "source": "thecurrentga.org",
+        "source": "The Brunswick News",
         "language": "English",
-        "published_at": "2026-08-25T23:41:49+00:00",
-        "summary": "PSC deadline arrives for Georgia Power’s 3.2-gigawatt OpenAI data center contract thecurrentga.org",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGZZQjVhY0cyN2t2bG1DczhUbGdTRmJFMU1TVmNaZ09rZnZlZlRhY2F2bzVnWDUxLXR4NFFtZ3NRU3kwZWZvRVY4V1FOS0J4a1BvbE5sRXJxVDluM0FnVzFvMDh2c0hEQnU4TFVzLUV5cDNwd3pwaUJHREd4RHlEOXpPQTlRUVhVUmx5MEt6MXZjN1hBSmU2UjRDQzRWYUxlY09zbjVjVExkWHREOFotY3ZwX0ItbThZ?oc=5\" target=\"_blank\">PSC deadline arrives for Georgia Power’s 3.2-gigawatt OpenAI data center contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
+        "published_at": "2026-08-26T04:00:00+00:00",
+        "summary": "Exchange Club Hears Georgia Power Update The Brunswick News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNNE9QYVdZalpORFBHZGZBd05xZVlXeEp2QVZwcWthcnoxeHBOeDZDbHd1TnlFbkRBR3psSmxBX2ZQWFVTak1PaXRPYm92OF9LMVdCRGxmZjBFU2UyeUhBVHJLYzJ6Y2FDbkE1LUNweWl1LWtwZk1vd2c2d0lQLUFnZURudTR3TnFLYTJuYmhyd0JiM19hVGFxUC0zM0JnTjVqeGRCY3RaZm5YZUgtVkRkTGdGSGhUUTJ0Tjd4R0swUHFJQmVHSG8wTTMxV25EdlE?oc=5\" target=\"_blank\">Exchange Club Hears Georgia Power Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brunswick News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-26T00:55:39+00:00"
+        "collected_at": "2026-08-26T04:33:24+00:00"
       }
     },
     {
