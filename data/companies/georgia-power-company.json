@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-26T14:37:40+00:00",
+  "last_updated": "2026-08-26T16:43:27+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 510,
+  "count": 511,
   "mentions": [
     {
       "id": "4acc69cde2b4570e",
@@ -117,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-25T20:20:56+00:00"
+    },
+    {
+      "id": "8618be6204cce526",
+      "title": "Georgia Power equips Floyd County Emergency Management with a drone - wrganews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0tCWGdPejFyVVJBd295TWpMQnVaZ3lZWnNLeEJoYlE0VlRZSzVrb3pRZXNROXRyeTlWbElscVdQTmxDLTVFQTUtWEUwNGdPRzlEZDRza1A4cTJOUkdvazNma3E5VW9Xem1XZ19TMldhMG9NVktwRUtPVmpnZ1A1YXREVGRRYVJtd0Z4UExsWnFQdEFvcFU3NlcxOENwZHVjN0RXeThSQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "wrganews.com",
+      "language": "English",
+      "published_at": "2026-08-25T12:52:31+00:00",
+      "summary": "Georgia Power equips Floyd County Emergency Management with a drone wrganews.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0tCWGdPejFyVVJBd295TWpMQnVaZ3lZWnNLeEJoYlE0VlRZSzVrb3pRZXNROXRyeTlWbElscVdQTmxDLTVFQTUtWEUwNGdPRzlEZDRza1A4cTJOUkdvazNma3E5VW9Xem1XZ19TMldhMG9NVktwRUtPVmpnZ1A1YXREVGRRYVJtd0Z4UExsWnFQdEFvcFU3NlcxOENwZHVjN0RXeThSQQ?oc=5\" target=\"_blank\">Georgia Power equips Floyd County Emergency Management with a drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wrganews.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-26T16:43:27+00:00"
     },
     {
       "id": "21cc591a4fceff3d",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T14:37:51+00:00",
+  "last_updated": "2026-08-26T16:43:37+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 256,
+      "count": 257,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "0c25bacf854ad92c",
-        "title": "'This story is absolutely heartbreaking': John Rich doubles down on… - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcDJiX01rZ054SHNIVXctNVZMNVl2WVBjLTFlREtwdGd1LS16V3JEVVE2b1hRT0xUN2hUWUZweHBJNS1LdFB6bXdhUE9XWC1scHVlbGFnY0NMXzU4elVMU2JlUzNuckIzcEZQUXhTR0VUSmt5RklScEFLLU0xcHo3aEhOMHg5bXRFNVBsNWpMYTNCYmNKa3g2ZHIxNENOWXN5Nzd1eTN5cGV1SUxpN1d5STMzNVpva2VSV3lIWlM0eEpqT0oydTRkWWZKcUFnbGZoZWIzbTUxNGY2TV9PeFdzSkdaemo3U0xUQ1BIZTBTTklMdkNxLTRUSkV5Sy1fNlVFVUE?oc=5",
+        "id": "c01bb926bdfca404",
+        "title": "Alabama Power Foundation names Imari Lemon as Escambia Count... - The Atmore Advance",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2h6SWpqNk9UZmpkU1JVeGhCcGx4VTlmNFFuSUI4MzN4ZzV0TTRlRmtxYVJfRDdvY1I2dVE3bUVQNHVNejMtYVJIWjJUSmxCZnVxcWlEWE96X3FwRFFINXFzZXZSVjhTUzV0c2NPd1ZxUUxTeGoyNlBUSno4aGRhSDlXTGtFVDhKOFNHaDVGTjZac2Z6Ty1Hb0tqRUVuM1ZFT3ZxS2lWUE4xT1Ezc2otMXB4ZWhkYnZ3blJiYTk0UVhNQllWZVR1eEpmTDBORkE?oc=5",
         "domain": "news.google.com",
-        "source": "1819 News",
+        "source": "The Atmore Advance",
         "language": "English",
-        "published_at": "2026-08-25T19:03:58+00:00",
-        "summary": "'This story is absolutely heartbreaking': John Rich doubles down on… 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQcDJiX01rZ054SHNIVXctNVZMNVl2WVBjLTFlREtwdGd1LS16V3JEVVE2b1hRT0xUN2hUWUZweHBJNS1LdFB6bXdhUE9XWC1scHVlbGFnY0NMXzU4elVMU2JlUzNuckIzcEZQUXhTR0VUSmt5RklScEFLLU0xcHo3aEhOMHg5bXRFNVBsNWpMYTNCYmNKa3g2ZHIxNENOWXN5Nzd1eTN5cGV1SUxpN1d5STMzNVpva2VSV3lIWlM0eEpqT0oydTRkWWZKcUFnbGZoZWIzbTUxNGY2TV9PeFdzSkdaemo3U0xUQ1BIZTBTTklMdkNxLTRUSkV5Sy1fNlVFVUE?oc=5\" target=\"_blank\">'This story is absolutely heartbreaking': John Rich doubles down on…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-08-26T14:08:12+00:00",
+        "summary": "Alabama Power Foundation names Imari Lemon as Escambia Count... The Atmore Advance",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2h6SWpqNk9UZmpkU1JVeGhCcGx4VTlmNFFuSUI4MzN4ZzV0TTRlRmtxYVJfRDdvY1I2dVE3bUVQNHVNejMtYVJIWjJUSmxCZnVxcWlEWE96X3FwRFFINXFzZXZSVjhTUzV0c2NPd1ZxUUxTeGoyNlBUSno4aGRhSDlXTGtFVDhKOFNHaDVGTjZac2Z6Ty1Hb0tqRUVuM1ZFT3ZxS2lWUE4xT1Ezc2otMXB4ZWhkYnZ3blJiYTk0UVhNQllWZVR1eEpmTDBORkE?oc=5\" target=\"_blank\">Alabama Power Foundation names Imari Lemon as Escambia Count...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atmore Advance</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-25T20:20:39+00:00"
+        "collected_at": "2026-08-26T16:43:10+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 510,
+      "count": 511,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "4acc69cde2b4570e",
