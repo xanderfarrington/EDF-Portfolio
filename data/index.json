@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-27T06:40:28+00:00",
+  "last_updated": "2026-08-27T18:43:32+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 80,
-      "new_mentions_this_run": 2,
+      "count": 81,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 97,
-      "new_mentions_this_run": 11,
+      "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 518,
+      "count": 530,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "fcc18a124674df24",
-        "title": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills - Atlanta News First",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUjVBS2E2QkN4SVZRMHl6cmoxYUlJTUp3bUwwcVZjSEJRaTRoQUh2bHQxSzhUbnBhUExKNjNkeXAyc3Y4ZldkUXR1OFItQ2FQMWhjNks1ZllxcDFVQkhBaFEyMlE2UDNmMVZ6d0VLVTBoWFBIZXFIYTVNRUlmd3N4Ny1CcTR5MWRrYjRDdjh6QUpnN0VmWmI0Qms0Zktqa2F6YlE2SEg2MzRuaFlGdmR2QWRMOW9wQ1hsSThXeXNwcy1nUmQtRUhVMlg0WV9Nbkk?oc=5",
+        "id": "f66e8d5813f02687",
+        "title": "Georgia Power’s latest deal with OpenAI expected to cut customers’ bills - WRDW",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFcxcXZFVlROWlp4SGNyMmd6S2ZQS0ZFeWxtQnlDZjkzTkhTWWs2ZUZ5cUl0Q1AtWU5jOVlBa3VYeXhLamlxWHBiWmhSMGdmMjZ0VmdscGliaHp3dDNMalFlUzJIQjQtU1BXLWdYOWhZQkw4R3o2akJOOFB0VGZ3YXZOWlZRYkp5cWRUTkYtTmJ1QnU1czd1TE5ueVBYZlNlRnpHNXpaQ1VqcXNLZVVGUDFRWmtYQdIBtgFBVV95cUxQZFcxcXZFVlROWlp4SGNyMmd6S2ZQS0ZFeWxtQnlDZjkzTkhTWWs2ZUZ5cUl0Q1AtWU5jOVlBa3VYeXhLamlxWHBiWmhSMGdmMjZ0VmdscGliaHp3dDNMalFlUzJIQjQtU1BXLWdYOWhZQkw4R3o2akJOOFB0VGZ3YXZOWlZRYkp5cWRUTkYtTmJ1QnU1czd1TE5ueVBYZlNlRnpHNXpaQ1VqcXNLZVVGUDFRWmtYQQ?oc=5",
         "domain": "news.google.com",
-        "source": "Atlanta News First",
+        "source": "WRDW",
         "language": "English",
-        "published_at": "2026-08-27T03:19:00+00:00",
-        "summary": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills Atlanta News First",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOUjVBS2E2QkN4SVZRMHl6cmoxYUlJTUp3bUwwcVZjSEJRaTRoQUh2bHQxSzhUbnBhUExKNjNkeXAyc3Y4ZldkUXR1OFItQ2FQMWhjNks1ZllxcDFVQkhBaFEyMlE2UDNmMVZ6d0VLVTBoWFBIZXFIYTVNRUlmd3N4Ny1CcTR5MWRrYjRDdjh6QUpnN0VmWmI0Qms0Zktqa2F6YlE2SEg2MzRuaFlGdmR2QWRMOW9wQ1hsSThXeXNwcy1nUmQtRUhVMlg0WV9Nbkk?oc=5\" target=\"_blank\">Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+        "published_at": "2026-08-27T15:44:00+00:00",
+        "summary": "Georgia Power’s latest deal with OpenAI expected to cut customers’ bills WRDW",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFcxcXZFVlROWlp4SGNyMmd6S2ZQS0ZFeWxtQnlDZjkzTkhTWWs2ZUZ5cUl0Q1AtWU5jOVlBa3VYeXhLamlxWHBiWmhSMGdmMjZ0VmdscGliaHp3dDNMalFlUzJIQjQtU1BXLWdYOWhZQkw4R3o2akJOOFB0VGZ3YXZOWlZRYkp5cWRUTkYtTmJ1QnU1czd1TE5ueVBYZlNlRnpHNXpaQ1VqcXNLZVVGUDFRWmtYQdIBtgFBVV95cUxQZFcxcXZFVlROWlp4SGNyMmd6S2ZQS0ZFeWxtQnlDZjkzTkhTWWs2ZUZ5cUl0Q1AtWU5jOVlBa3VYeXhLamlxWHBiWmhSMGdmMjZ0VmdscGliaHp3dDNMalFlUzJIQjQtU1BXLWdYOWhZQkw4R3o2akJOOFB0VGZ3YXZOWlZRYkp5cWRUTkYtTmJ1QnU1czd1TE5ueVBYZlNlRnpHNXpaQ1VqcXNLZVVGUDFRWmtYQQ?oc=5\" target=\"_blank\">Georgia Power’s latest deal with OpenAI expected to cut customers’ bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-27T06:40:17+00:00"
+        "collected_at": "2026-08-27T18:43:21+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 44,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "4c321ea858b80262",
         "title": "AEP Transmission - Department of Energy (.gov)",

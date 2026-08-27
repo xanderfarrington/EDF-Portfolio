@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-08-27T06:39:55+00:00",
+  "last_updated": "2026-08-27T18:42:59+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 80,
+  "count": 81,
   "mentions": [
     {
       "id": "21b0eacc322a228b",
@@ -159,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-07-30T15:46:53+00:00"
+    },
+    {
+      "id": "dab675e114aa2950",
+      "title": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWUxNemFMOEJfdGROUTFNaUc1MlZvbVN3aVVIeFQwanJrTkw2aVBqNkdMYktJTVVfdmlaMEFwMDFQTEFrLW5sbVRxX0I4Vkp3SERGVmlHcjRiSEpTeEtDTXB5amFBSFQ2VU5kTWRDV1psNnJreWVZOWk2YkJGSG1LbzEwX1Y0ck05dmcwbUhJSTVhUF8zOG5JX0szdjNwdHp6N25LNHZXdTdPRlNMQkdsT0Z0bUl1N2hmNzZ3NXFSdnAxQ1VvV0RQZlhlNXh4YWE5Y1lKZ1dsallqMHY0TFNGRTczbw?oc=5",
+      "domain": "news.google.com",
+      "source": "The Globe and Mail",
+      "language": "English",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "summary": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y The Globe and Mail",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWUxNemFMOEJfdGROUTFNaUc1MlZvbVN3aVVIeFQwanJrTkw2aVBqNkdMYktJTVVfdmlaMEFwMDFQTEFrLW5sbVRxX0I4Vkp3SERGVmlHcjRiSEpTeEtDTXB5amFBSFQ2VU5kTWRDV1psNnJreWVZOWk2YkJGSG1LbzEwX1Y0ck05dmcwbUhJSTVhUF8zOG5JX0szdjNwdHp6N25LNHZXdTdPRlNMQkdsT0Z0bUl1N2hmNzZ3NXFSdnAxQ1VvV0RQZlhlNXh4YWE5Y1lKZ1dsallqMHY0TFNGRTczbw?oc=5\" target=\"_blank\">American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-27T18:42:59+00:00"
     },
     {
       "id": "5cd22ac0fddbb968",
