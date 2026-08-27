@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T22:39:00+00:00",
+  "last_updated": "2026-08-27T06:40:28+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 262,
+      "count": 263,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "81a371977617373f",
-        "title": "Handley grad Busbin receives Alabama Power Community Scholars award - The Randolph Leader",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLUVJTDZBd1RGM0RyV0RjVXhfdUNEVDd1czRUNWJzR2w1Um5zcU42dzB3dFdzME5QU0FFQThxeUdHMlNFOC1IVF9ETlQtX1EwUlpJNHBuRlVTTGw5eTVFbW9CbzhDanZ1NTgtM01KRFZZUWx3RW5fMkVwUG5nN2w4N2VXcmp3VnRIWmZKdG81ZmlLVllRdlJTSVRnM2JjY3F4bklEZnA0MmxxQmdsV1R1OGNtbw?oc=5",
+        "id": "93ea99c7513d4dff",
+        "title": "Spring Garden Graduate Emma Graham Awarded $2,500 Alabama Power Foundation Scholarship - weisradio.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQWg0QkJzNG1aQzhSb3dJc1VHdlJUTDZBbVNmeU9mc2Y0d2E0MW1Fb1BWUEh1eFkwcXVCRkU1ejc0S1NDbjBMbEtBZ1lBMWdzbVM0eWQzeHpvZC1DeldYaXZJUzBpVFZ3aFdkOEZ2aHE4eHQ0R1ZPcTAxc1YwM21hNUFR?oc=5",
         "domain": "news.google.com",
-        "source": "The Randolph Leader",
+        "source": "weisradio.com",
         "language": "English",
-        "published_at": "2026-08-26T22:03:51+00:00",
-        "summary": "Handley grad Busbin receives Alabama Power Community Scholars award The Randolph Leader",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQLUVJTDZBd1RGM0RyV0RjVXhfdUNEVDd1czRUNWJzR2w1Um5zcU42dzB3dFdzME5QU0FFQThxeUdHMlNFOC1IVF9ETlQtX1EwUlpJNHBuRlVTTGw5eTVFbW9CbzhDanZ1NTgtM01KRFZZUWx3RW5fMkVwUG5nN2w4N2VXcmp3VnRIWmZKdG81ZmlLVllRdlJTSVRnM2JjY3F4bklEZnA0MmxxQmdsV1R1OGNtbw?oc=5\" target=\"_blank\">Handley grad Busbin receives Alabama Power Community Scholars award</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Randolph Leader</font>",
+        "published_at": "2026-08-26T23:15:53+00:00",
+        "summary": "Spring Garden Graduate Emma Graham Awarded $2,500 Alabama Power Foundation Scholarship weisradio.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQQWg0QkJzNG1aQzhSb3dJc1VHdlJUTDZBbVNmeU9mc2Y0d2E0MW1Fb1BWUEh1eFkwcXVCRkU1ejc0S1NDbjBMbEtBZ1lBMWdzbVM0eWQzeHpvZC1DeldYaXZJUzBpVFZ3aFdkOEZ2aHE4eHQ0R1ZPcTAxc1YwM21hNUFR?oc=5\" target=\"_blank\">Spring Garden Graduate Emma Graham Awarded $2,500 Alabama Power Foundation Scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">weisradio.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-26T22:38:32+00:00"
+        "collected_at": "2026-08-27T06:40:01+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 512,
+      "count": 518,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "4acc69cde2b4570e",
-        "title": "Exchange Club Hears Georgia Power Update - The Brunswick News",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNE9QYVdZalpORFBHZGZBd05xZVlXeEp2QVZwcWthcnoxeHBOeDZDbHd1TnlFbkRBR3psSmxBX2ZQWFVTak1PaXRPYm92OF9LMVdCRGxmZjBFU2UyeUhBVHJLYzJ6Y2FDbkE1LUNweWl1LWtwZk1vd2c2d0lQLUFnZURudTR3TnFLYTJuYmhyd0JiM19hVGFxUC0zM0JnTjVqeGRCY3RaZm5YZUgtVkRkTGdGSGhUUTJ0Tjd4R0swUHFJQmVHSG8wTTMxV25EdlE?oc=5",
+        "id": "fcc18a124674df24",
+        "title": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills - Atlanta News First",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUjVBS2E2QkN4SVZRMHl6cmoxYUlJTUp3bUwwcVZjSEJRaTRoQUh2bHQxSzhUbnBhUExKNjNkeXAyc3Y4ZldkUXR1OFItQ2FQMWhjNks1ZllxcDFVQkhBaFEyMlE2UDNmMVZ6d0VLVTBoWFBIZXFIYTVNRUlmd3N4Ny1CcTR5MWRrYjRDdjh6QUpnN0VmWmI0Qms0Zktqa2F6YlE2SEg2MzRuaFlGdmR2QWRMOW9wQ1hsSThXeXNwcy1nUmQtRUhVMlg0WV9Nbkk?oc=5",
         "domain": "news.google.com",
-        "source": "The Brunswick News",
+        "source": "Atlanta News First",
         "language": "English",
-        "published_at": "2026-08-26T04:00:00+00:00",
-        "summary": "Exchange Club Hears Georgia Power Update The Brunswick News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNNE9QYVdZalpORFBHZGZBd05xZVlXeEp2QVZwcWthcnoxeHBOeDZDbHd1TnlFbkRBR3psSmxBX2ZQWFVTak1PaXRPYm92OF9LMVdCRGxmZjBFU2UyeUhBVHJLYzJ6Y2FDbkE1LUNweWl1LWtwZk1vd2c2d0lQLUFnZURudTR3TnFLYTJuYmhyd0JiM19hVGFxUC0zM0JnTjVqeGRCY3RaZm5YZUgtVkRkTGdGSGhUUTJ0Tjd4R0swUHFJQmVHSG8wTTMxV25EdlE?oc=5\" target=\"_blank\">Exchange Club Hears Georgia Power Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brunswick News</font>",
+        "published_at": "2026-08-27T03:19:00+00:00",
+        "summary": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills Atlanta News First",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOUjVBS2E2QkN4SVZRMHl6cmoxYUlJTUp3bUwwcVZjSEJRaTRoQUh2bHQxSzhUbnBhUExKNjNkeXAyc3Y4ZldkUXR1OFItQ2FQMWhjNks1ZllxcDFVQkhBaFEyMlE2UDNmMVZ6d0VLVTBoWFBIZXFIYTVNRUlmd3N4Ny1CcTR5MWRrYjRDdjh6QUpnN0VmWmI0Qms0Zktqa2F6YlE2SEg2MzRuaFlGdmR2QWRMOW9wQ1hsSThXeXNwcy1nUmQtRUhVMlg0WV9Nbkk?oc=5\" target=\"_blank\">Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-26T04:33:24+00:00"
+        "collected_at": "2026-08-27T06:40:17+00:00"
       }
     },
     {

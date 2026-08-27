@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-26T22:38:32+00:00",
+  "last_updated": "2026-08-27T06:40:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 262,
+  "count": 263,
   "mentions": [
+    {
+      "id": "93ea99c7513d4dff",
+      "title": "Spring Garden Graduate Emma Graham Awarded $2,500 Alabama Power Foundation Scholarship - weisradio.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQWg0QkJzNG1aQzhSb3dJc1VHdlJUTDZBbVNmeU9mc2Y0d2E0MW1Fb1BWUEh1eFkwcXVCRkU1ejc0S1NDbjBMbEtBZ1lBMWdzbVM0eWQzeHpvZC1DeldYaXZJUzBpVFZ3aFdkOEZ2aHE4eHQ0R1ZPcTAxc1YwM21hNUFR?oc=5",
+      "domain": "news.google.com",
+      "source": "weisradio.com",
+      "language": "English",
+      "published_at": "2026-08-26T23:15:53+00:00",
+      "summary": "Spring Garden Graduate Emma Graham Awarded $2,500 Alabama Power Foundation Scholarship weisradio.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQQWg0QkJzNG1aQzhSb3dJc1VHdlJUTDZBbVNmeU9mc2Y0d2E0MW1Fb1BWUEh1eFkwcXVCRkU1ejc0S1NDbjBMbEtBZ1lBMWdzbVM0eWQzeHpvZC1DeldYaXZJUzBpVFZ3aFdkOEZ2aHE4eHQ0R1ZPcTAxc1YwM21hNUFR?oc=5\" target=\"_blank\">Spring Garden Graduate Emma Graham Awarded $2,500 Alabama Power Foundation Scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">weisradio.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-27T06:40:01+00:00"
+    },
     {
       "id": "81a371977617373f",
       "title": "Handley grad Busbin receives Alabama Power Community Scholars award - The Randolph Leader",
