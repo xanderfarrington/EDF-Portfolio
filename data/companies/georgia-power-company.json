@@ -2,10 +2,52 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-28T03:58:12+00:00",
+  "last_updated": "2026-08-28T15:57:02+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 543,
+  "count": 549,
   "mentions": [
+    {
+      "id": "485a209674eeb32f",
+      "title": "Georgia Power, OpenAI contract approved by state regulators - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbDNiQVM1NklPSUIzYlFzTXlQTTJKOW5ka0xIVzFmNFlyQlBVd2ZtUWc5R3k0QnhEbUEzaUtwRlYtcDhwelNyU0NXTzVVcDdiUzQ5Qm80VGljY2JJZWVnSEg5NnI1Q2xNOFV4SmhtMWtmUDdOSm9mNVZMOWlnWnlqOVpsQS1jOU82VDc4WGdteTF0angxdGRYQnRxX2NzdHFWMmVV?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-08-28T11:49:00+00:00",
+      "summary": "Georgia Power, OpenAI contract approved by state regulators Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbDNiQVM1NklPSUIzYlFzTXlQTTJKOW5ka0xIVzFmNFlyQlBVd2ZtUWc5R3k0QnhEbUEzaUtwRlYtcDhwelNyU0NXTzVVcDdiUzQ5Qm80VGljY2JJZWVnSEg5NnI1Q2xNOFV4SmhtMWtmUDdOSm9mNVZMOWlnWnlqOVpsQS1jOU82VDc4WGdteTF0angxdGRYQnRxX2NzdHFWMmVV?oc=5\" target=\"_blank\">Georgia Power, OpenAI contract approved by state regulators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-28T15:57:02+00:00"
+    },
+    {
+      "id": "13505f33cef161fd",
+      "title": "Georgia Power touts $20B OpenAI data center as a net benefit to small businesses - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUNCaHdITHpCV0FHbHJTRzh0NXUxUU1JNXBHQTFpNmsyWW9OTWFBejZ2V1I1cm9pei04bG91cnp6eFUxSWFWQVRuR0NNajVtQXFFRVpvYmJDcmRLRVJSMHBObEhUQ0hZMzEtTzZXbzQ2aHRXZkhaSFdULXBMRlRoNTVadWFyU09XU291VF9oM1I?oc=5",
+      "domain": "news.google.com",
+      "source": "The Business Journals",
+      "language": "English",
+      "published_at": "2026-08-28T11:01:00+00:00",
+      "summary": "Georgia Power touts $20B OpenAI data center as a net benefit to small businesses The Business Journals",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUNCaHdITHpCV0FHbHJTRzh0NXUxUU1JNXBHQTFpNmsyWW9OTWFBejZ2V1I1cm9pei04bG91cnp6eFUxSWFWQVRuR0NNajVtQXFFRVpvYmJDcmRLRVJSMHBObEhUQ0hZMzEtTzZXbzQ2aHRXZkhaSFdULXBMRlRoNTVadWFyU09XU291VF9oM1I?oc=5\" target=\"_blank\">Georgia Power touts $20B OpenAI data center as a net benefit to small businesses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-28T15:57:02+00:00"
+    },
+    {
+      "id": "d1ab6087603cb0b2",
+      "title": "Georgia Power, OpenAI contract approved, plus final DRI report released: What’s next? - Bryan County News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0w1aDJoczMwaG1XUDlHM3E1cUJ4aElTbmFWdWtZWmhGUmFXYkdhTkZNZ2Q0aFVEWmhHemgxNlJyU2RIZGdJaFg0dVpwNS1rTG15SDBEc3VKemNCX2tTTFZJNmdNQ21uMmQ1WW9MYnVfT2RJOGZ0N2taOVFRRERGYzBKTGNxUTZfQWxPVjI0WlhEYWczUDZoTlZpbTVyVmk1eXJhU2hEZ2NyTEF3U0ZPbGRRZzNZMDFlZ2c?oc=5",
+      "domain": "news.google.com",
+      "source": "Bryan County News",
+      "language": "English",
+      "published_at": "2026-08-28T05:31:43+00:00",
+      "summary": "Georgia Power, OpenAI contract approved, plus final DRI report released: What’s next? Bryan County News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0w1aDJoczMwaG1XUDlHM3E1cUJ4aElTbmFWdWtZWmhGUmFXYkdhTkZNZ2Q0aFVEWmhHemgxNlJyU2RIZGdJaFg0dVpwNS1rTG15SDBEc3VKemNCX2tTTFZJNmdNQ21uMmQ1WW9MYnVfT2RJOGZ0N2taOVFRRERGYzBKTGNxUTZfQWxPVjI0WlhEYWczUDZoTlZpbTVyVmk1eXJhU2hEZ2NyTEF3U0ZPbGRRZzNZMDFlZ2c?oc=5\" target=\"_blank\">Georgia Power, OpenAI contract approved, plus final DRI report released: What’s next?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bryan County News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-28T15:57:02+00:00"
+    },
     {
       "id": "55b0d5f831e4a144",
       "title": "Georgia PSC Approves Secret OpenAI Contract - CleanTechnica",
@@ -47,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-28T03:58:12+00:00"
+    },
+    {
+      "id": "a7c297c5771fa1e3",
+      "title": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills - WALB",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSnVPOWtoUzdwM2NRUEVkNU1fd0FJNWdiM1o2TGFrUlVGV041XzBlOUZWdTZISXU4WnE5NmN2UWlYcUJLTDE2MUNMNERBb0VzaEVWX2ItQVpzOG9DdW5kRWdQR0FpNlhkeGRaMHp2bHZ4em5SdmdjbkhXX1U1c0xLQkI4YTJBd25zVnkzclJFQlJ5aDM1TGJwaDJnVFZENHdZdXZlRUstR1BuYTNpamV5dlNYWnBqekdaWkVhb3JzQ1FQRGw5dFBF?oc=5",
+      "domain": "news.google.com",
+      "source": "WALB",
+      "language": "English",
+      "published_at": "2026-08-27T22:35:28+00:00",
+      "summary": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills WALB",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSnVPOWtoUzdwM2NRUEVkNU1fd0FJNWdiM1o2TGFrUlVGV041XzBlOUZWdTZISXU4WnE5NmN2UWlYcUJLTDE2MUNMNERBb0VzaEVWX2ItQVpzOG9DdW5kRWdQR0FpNlhkeGRaMHp2bHZ4em5SdmdjbkhXX1U1c0xLQkI4YTJBd25zVnkzclJFQlJ5aDM1TGJwaDJnVFZENHdZdXZlRUstR1BuYTNpamV5dlNYWnBqekdaWkVhb3JzQ1FQRGw5dFBF?oc=5\" target=\"_blank\">Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WALB</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-28T15:57:02+00:00"
     },
     {
       "id": "a4346531d436bf3d",
@@ -315,6 +371,20 @@
       "collected_at": "2026-08-27T06:40:17+00:00"
     },
     {
+      "id": "5c55e80db971e255",
+      "title": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills - WALB",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ21wU0tzMFlkcjY4Y2VMbjVCTlNOZ2tmYjI0eDl6THlxQzE3em5wOFZxYjdTSUY1R0xpM3ZXZXBoZTNMZklFdnlVYjB2Vm5UT3JpV0ZSYVVnWlJHMWFlUV92MkVBNGtWcjZtQ0tfdTJIeGlOdmZYdzdQSml6ZjNOcjdXTU1QLUZqXzRXU183cGNaZXkwRkhHSWVDX2p5SHdUcTBtZ2ZlN2p3bDRpVy1JSGE0MEotcm5rWll4NjNqTdIB0wFBVV95cUxPb1YxRzNyY1AtQ0gyanpWcGhteV8yNHduWGg4b0VhSGFsWFFxMkw1cVI3R2MxMUNTaGphTFd5NHdNd0RsRmdSVTVyZXgtaWprTmFaRzAtakpSUWtWWHFtdEc0S0p1RVdkenJPWXpzQ2hUNkFac1FneE9mVy1GOWJPalVDRFhoRExQRW9iVG5IN1JFZjhwUjV5RUsxbzl2d290a2RjQUNVZmZNdkd1Zm9BMmxTV1I0LS1kbnM3dnBlYXE2VG5CXzEwMkJZUWtOTE5MUFpr?oc=5",
+      "domain": "news.google.com",
+      "source": "WALB",
+      "language": "English",
+      "published_at": "2026-08-27T03:19:00+00:00",
+      "summary": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills WALB",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ21wU0tzMFlkcjY4Y2VMbjVCTlNOZ2tmYjI0eDl6THlxQzE3em5wOFZxYjdTSUY1R0xpM3ZXZXBoZTNMZklFdnlVYjB2Vm5UT3JpV0ZSYVVnWlJHMWFlUV92MkVBNGtWcjZtQ0tfdTJIeGlOdmZYdzdQSml6ZjNOcjdXTU1QLUZqXzRXU183cGNaZXkwRkhHSWVDX2p5SHdUcTBtZ2ZlN2p3bDRpVy1JSGE0MEotcm5rWll4NjNqTdIB0wFBVV95cUxPb1YxRzNyY1AtQ0gyanpWcGhteV8yNHduWGg4b0VhSGFsWFFxMkw1cVI3R2MxMUNTaGphTFd5NHdNd0RsRmdSVTVyZXgtaWprTmFaRzAtakpSUWtWWHFtdEc0S0p1RVdkenJPWXpzQ2hUNkFac1FneE9mVy1GOWJPalVDRFhoRExQRW9iVG5IN1JFZjhwUjV5RUsxbzl2d290a2RjQUNVZmZNdkd1Zm9BMmxTV1I0LS1kbnM3dnBlYXE2VG5CXzEwMkJZUWtOTE5MUFpr?oc=5\" target=\"_blank\">Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WALB</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-28T15:57:02+00:00"
+    },
+    {
       "id": "213cfe1d99085271",
       "title": "State officials approve Georgia Power’s contract for OpenAI center in Effingham County - WSAV-TV",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbUtiZC1XYUhhQ0RtekZXRUdFbGQxVjZKNjNLZm1nWUoxYjV0VndJTGNUQTItZVJGYnA5Qkdlb3lWNVpneE43S2VkajlHQmlHQ3ZnbU44ZW5VSDdNS0xDaE1GUnlRVHZRdkd2endVZHVpZlFNbklIZU1CLW9INEtveEs3MVJ5bUtuc3lodm9vQnRfbC10YVQ3NjRuNVB6RUZ5dC1UYnhieW0tUnhNWlpldjh4V01tUVpnYjJ0UGp4VFR5UFJnUndvc0VaTQ?oc=5",
@@ -341,6 +411,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-27T18:43:21+00:00"
+    },
+    {
+      "id": "c7e5c9c2db5ed7fc",
+      "title": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeEhhNXQ5cnQyTW5iVTM2aVBqenB0VXVZRGExdVVzcHNzLVEzYU1pQ182ejNQTGRrZWNLYTFwcEpkUS1GSWVTQ2tLNEprS2lYN2dqcF9OUWR2YWYwWm1NSXNLTHM1d0dXNFVUNkJkVWN1cjNyWVRkY3R0MEpudXEtRlRJd1F0NGU0SUcwOFdoTjFORnlZMFVBdlFIamJXOFM1dnhxU0YyQlVYbEViUnd4akdpQm5xYS1LVnFWUmFFa9IB0wFBVV95cUxONkdhbWt6V01wbVBnNUlqSmFHUzBucTgtZWdUakxMMnFva1JnaVNCNjB5NFdaUGdEcGZhbnR3Yl9kZGE5NDNLbGI5NnAtbXFHQ2VvYmdscHlqVUlIQnBqS21BWUlLalBfWWk5NnI5YmRUMGRhS0xjTmJuY29DZlFnQ1dhalVmXzNsNFFUVWNJcVJjRWc3TDlfN3E0OW5JSHVSQVh2aG5pOGlGdm9kUTJMUWRKLWZ5R1pnQnBQaVpoSWZiNkZmWnk1YnM3a1JnTTFOY2hr?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-08-27T02:06:00+00:00",
+      "summary": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQeEhhNXQ5cnQyTW5iVTM2aVBqenB0VXVZRGExdVVzcHNzLVEzYU1pQ182ejNQTGRrZWNLYTFwcEpkUS1GSWVTQ2tLNEprS2lYN2dqcF9OUWR2YWYwWm1NSXNLTHM1d0dXNFVUNkJkVWN1cjNyWVRkY3R0MEpudXEtRlRJd1F0NGU0SUcwOFdoTjFORnlZMFVBdlFIamJXOFM1dnhxU0YyQlVYbEViUnd4akdpQm5xYS1LVnFWUmFFa9IB0wFBVV95cUxONkdhbWt6V01wbVBnNUlqSmFHUzBucTgtZWdUakxMMnFva1JnaVNCNjB5NFdaUGdEcGZhbnR3Yl9kZGE5NDNLbGI5NnAtbXFHQ2VvYmdscHlqVUlIQnBqS21BWUlLalBfWWk5NnI5YmRUMGRhS0xjTmJuY29DZlFnQ1dhalVmXzNsNFFUVWNJcVJjRWc3TDlfN3E0OW5JSHVSQVh2aG5pOGlGdm9kUTJMUWRKLWZ5R1pnQnBQaVpoSWZiNkZmWnk1YnM3a1JnTTFOY2hr?oc=5\" target=\"_blank\">Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-28T15:57:02+00:00"
     },
     {
       "id": "4bf5c947dcd806eb",

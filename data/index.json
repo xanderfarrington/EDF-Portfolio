@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T03:58:23+00:00",
+  "last_updated": "2026-08-28T15:57:13+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 97,
-      "new_mentions_this_run": 11,
+      "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 543,
+      "count": 549,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "55b0d5f831e4a144",
-        "title": "Georgia PSC Approves Secret OpenAI Contract - CleanTechnica",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGVTY0kzUE12NXBGZjhReEs2QUc4RnhOSWdlRnc0WVNZQVVaeXhsc0ZCTGVLdVVZejRsRkI1SlRvc05BcWpBamExa0tSODh2eHd5a2VnbUdjVmtQanNVZUhRWTRWY0Uxb0pKV3lSZFhEYlZIbXRpTTBwQ1FYQVNjZUJKdjc0cnFw?oc=5",
+        "id": "485a209674eeb32f",
+        "title": "Georgia Power, OpenAI contract approved by state regulators - Daily Energy Insider",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbDNiQVM1NklPSUIzYlFzTXlQTTJKOW5ka0xIVzFmNFlyQlBVd2ZtUWc5R3k0QnhEbUEzaUtwRlYtcDhwelNyU0NXTzVVcDdiUzQ5Qm80VGljY2JJZWVnSEg5NnI1Q2xNOFV4SmhtMWtmUDdOSm9mNVZMOWlnWnlqOVpsQS1jOU82VDc4WGdteTF0angxdGRYQnRxX2NzdHFWMmVV?oc=5",
         "domain": "news.google.com",
-        "source": "CleanTechnica",
+        "source": "Daily Energy Insider",
         "language": "English",
-        "published_at": "2026-08-28T00:43:15+00:00",
-        "summary": "Georgia PSC Approves Secret OpenAI Contract CleanTechnica",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGVTY0kzUE12NXBGZjhReEs2QUc4RnhOSWdlRnc0WVNZQVVaeXhsc0ZCTGVLdVVZejRsRkI1SlRvc05BcWpBamExa0tSODh2eHd5a2VnbUdjVmtQanNVZUhRWTRWY0Uxb0pKV3lSZFhEYlZIbXRpTTBwQ1FYQVNjZUJKdjc0cnFw?oc=5\" target=\"_blank\">Georgia PSC Approves Secret OpenAI Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CleanTechnica</font>",
+        "published_at": "2026-08-28T11:49:00+00:00",
+        "summary": "Georgia Power, OpenAI contract approved by state regulators Daily Energy Insider",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbDNiQVM1NklPSUIzYlFzTXlQTTJKOW5ka0xIVzFmNFlyQlBVd2ZtUWc5R3k0QnhEbUEzaUtwRlYtcDhwelNyU0NXTzVVcDdiUzQ5Qm80VGljY2JJZWVnSEg5NnI1Q2xNOFV4SmhtMWtmUDdOSm9mNVZMOWlnWnlqOVpsQS1jOU82VDc4WGdteTF0angxdGRYQnRxX2NzdHFWMmVV?oc=5\" target=\"_blank\">Georgia Power, OpenAI contract approved by state regulators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-28T03:58:12+00:00"
+        "collected_at": "2026-08-28T15:57:02+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 46,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "c5209af21567dd5c",
         "title": "Policy Deep Dive: How to Reform the Office of Energy Dominance Financing - Third Way",
