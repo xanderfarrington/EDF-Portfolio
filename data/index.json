@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-27T18:43:32+00:00",
+  "last_updated": "2026-08-28T03:58:23+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 81,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 263,
-      "new_mentions_this_run": 24,
+      "count": 264,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "93ea99c7513d4dff",
         "title": "Spring Garden Graduate Emma Graham Awarded $2,500 Alabama Power Foundation Scholarship - weisradio.com",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 97,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,42 +89,42 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 530,
-      "new_mentions_this_run": 25,
+      "count": 543,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "f66e8d5813f02687",
-        "title": "Georgia Power’s latest deal with OpenAI expected to cut customers’ bills - WRDW",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFcxcXZFVlROWlp4SGNyMmd6S2ZQS0ZFeWxtQnlDZjkzTkhTWWs2ZUZ5cUl0Q1AtWU5jOVlBa3VYeXhLamlxWHBiWmhSMGdmMjZ0VmdscGliaHp3dDNMalFlUzJIQjQtU1BXLWdYOWhZQkw4R3o2akJOOFB0VGZ3YXZOWlZRYkp5cWRUTkYtTmJ1QnU1czd1TE5ueVBYZlNlRnpHNXpaQ1VqcXNLZVVGUDFRWmtYQdIBtgFBVV95cUxQZFcxcXZFVlROWlp4SGNyMmd6S2ZQS0ZFeWxtQnlDZjkzTkhTWWs2ZUZ5cUl0Q1AtWU5jOVlBa3VYeXhLamlxWHBiWmhSMGdmMjZ0VmdscGliaHp3dDNMalFlUzJIQjQtU1BXLWdYOWhZQkw4R3o2akJOOFB0VGZ3YXZOWlZRYkp5cWRUTkYtTmJ1QnU1czd1TE5ueVBYZlNlRnpHNXpaQ1VqcXNLZVVGUDFRWmtYQQ?oc=5",
+        "id": "55b0d5f831e4a144",
+        "title": "Georgia PSC Approves Secret OpenAI Contract - CleanTechnica",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGVTY0kzUE12NXBGZjhReEs2QUc4RnhOSWdlRnc0WVNZQVVaeXhsc0ZCTGVLdVVZejRsRkI1SlRvc05BcWpBamExa0tSODh2eHd5a2VnbUdjVmtQanNVZUhRWTRWY0Uxb0pKV3lSZFhEYlZIbXRpTTBwQ1FYQVNjZUJKdjc0cnFw?oc=5",
         "domain": "news.google.com",
-        "source": "WRDW",
+        "source": "CleanTechnica",
         "language": "English",
-        "published_at": "2026-08-27T15:44:00+00:00",
-        "summary": "Georgia Power’s latest deal with OpenAI expected to cut customers’ bills WRDW",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFcxcXZFVlROWlp4SGNyMmd6S2ZQS0ZFeWxtQnlDZjkzTkhTWWs2ZUZ5cUl0Q1AtWU5jOVlBa3VYeXhLamlxWHBiWmhSMGdmMjZ0VmdscGliaHp3dDNMalFlUzJIQjQtU1BXLWdYOWhZQkw4R3o2akJOOFB0VGZ3YXZOWlZRYkp5cWRUTkYtTmJ1QnU1czd1TE5ueVBYZlNlRnpHNXpaQ1VqcXNLZVVGUDFRWmtYQdIBtgFBVV95cUxQZFcxcXZFVlROWlp4SGNyMmd6S2ZQS0ZFeWxtQnlDZjkzTkhTWWs2ZUZ5cUl0Q1AtWU5jOVlBa3VYeXhLamlxWHBiWmhSMGdmMjZ0VmdscGliaHp3dDNMalFlUzJIQjQtU1BXLWdYOWhZQkw4R3o2akJOOFB0VGZ3YXZOWlZRYkp5cWRUTkYtTmJ1QnU1czd1TE5ueVBYZlNlRnpHNXpaQ1VqcXNLZVVGUDFRWmtYQQ?oc=5\" target=\"_blank\">Georgia Power’s latest deal with OpenAI expected to cut customers’ bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+        "published_at": "2026-08-28T00:43:15+00:00",
+        "summary": "Georgia PSC Approves Secret OpenAI Contract CleanTechnica",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGVTY0kzUE12NXBGZjhReEs2QUc4RnhOSWdlRnc0WVNZQVVaeXhsc0ZCTGVLdVVZejRsRkI1SlRvc05BcWpBamExa0tSODh2eHd5a2VnbUdjVmtQanNVZUhRWTRWY0Uxb0pKV3lSZFhEYlZIbXRpTTBwQ1FYQVNjZUJKdjc0cnFw?oc=5\" target=\"_blank\">Georgia PSC Approves Secret OpenAI Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CleanTechnica</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-27T18:43:21+00:00"
+        "collected_at": "2026-08-28T03:58:12+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 44,
-      "new_mentions_this_run": 3,
+      "count": 46,
+      "new_mentions_this_run": 6,
       "latest_mention": {
-        "id": "4c321ea858b80262",
-        "title": "AEP Transmission - Department of Energy (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uLUJLWVFkUVNjSmpXOTFjeks5dkItUXR4U01zb3hUd0NOekR5WjRLOG5tTXpyWllmQkhSejNWLUVSMnc5OWM4XzdoNzdkTTJuTlV6bVlR?oc=5",
+        "id": "c5209af21567dd5c",
+        "title": "Policy Deep Dive: How to Reform the Office of Energy Dominance Financing - Third Way",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFpic01NbjRPU2toQlZVWnV5MHl5aC1kdnN4WXpPTnRHb2U2a0ZnQ1V0OFp4eDVxNk9fM2l1aVB5MTI4dEdWNWR0aUdqbG1DdU5VQkZaQXVSTnNtbEdPejY3MWFCVkxuTVlyQU8xX2kwX0ZYbk9VMXJELWJPSjByRlQ5aHhVUTNzOGJBRnlfaDlHZmZVa2VGYnZiV2Z2YkVvTnQwZ1NPeGQ?oc=5",
         "domain": "news.google.com",
-        "source": "Department of Energy (.gov)",
+        "source": "Third Way",
         "language": "English",
-        "published_at": "2026-08-14T10:00:00+00:00",
-        "summary": "AEP Transmission Department of Energy (.gov)",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uLUJLWVFkUVNjSmpXOTFjeks5dkItUXR4U01zb3hUd0NOekR5WjRLOG5tTXpyWllmQkhSejNWLUVSMnc5OWM4XzdoNzdkTTJuTlV6bVlR?oc=5\" target=\"_blank\">AEP Transmission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+        "published_at": "2026-08-27T13:44:34+00:00",
+        "summary": "Policy Deep Dive: How to Reform the Office of Energy Dominance Financing Third Way",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFpic01NbjRPU2toQlZVWnV5MHl5aC1kdnN4WXpPTnRHb2U2a0ZnQ1V0OFp4eDVxNk9fM2l1aVB5MTI4dEdWNWR0aUdqbG1DdU5VQkZaQXVSTnNtbEdPejY3MWFCVkxuTVlyQU8xX2kwX0ZYbk9VMXJELWJPSjByRlQ5aHhVUTNzOGJBRnlfaDlHZmZVa2VGYnZiV2Z2YkVvTnQwZ1NPeGQ?oc=5\" target=\"_blank\">Policy Deep Dive: How to Reform the Office of Energy Dominance Financing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Third Way</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-18T00:52:17+00:00"
+        "collected_at": "2026-08-28T03:58:18+00:00"
       }
     }
   ]

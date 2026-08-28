@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-27T18:43:05+00:00",
+  "last_updated": "2026-08-28T03:57:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 263,
+  "count": 264,
   "mentions": [
     {
       "id": "93ea99c7513d4dff",
@@ -565,6 +565,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-25T02:52:26+00:00"
+    },
+    {
+      "id": "9aff7e3b41eb8c67",
+      "title": "Utility plans Alabama facility to extract rare earths from coal ash - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWld0bHo5el9BMW1pdE5KeWw0bzB1Sl9DVGZOZlB6Ni13T2JtRHo2bmtsZ3FhcHZ4S0FSWUxESk9lMjc4TVEyOUVDay1vZGs2NzhnNkxGTU1HTm1XTURoNi0tZjNvWkNGY2g5QkNSR2hjRTRBaElRUWFzaVM4RTNEcnI2UDQ5S3c5TUJxTVNRQ3dsdWNPTENWZGkwRFFSY2Q2ajBqRlQwRdIBuwFBVV95cUxPbDUyUkFncHU5T3poNGdTdjdJNTd3TG5LTDhNOFE1d1dWMVhDUWQ3N3Y1TWF3ZkV0VDNyYnJsb3lMdEw0VDR6d3BNMGpDTmJwOWZJdmpaQjMxalRna2wxdzlsekNkNHJkbXJMMGtLdHowT0QxckkzQ2ZRTEIwRHV1dUFlOFdiM3VzdlNwRWxkblB1X1prLVJldlVlQi1EanNBdFNPblNnWWkwajNJXzQ2WHp0MkViYVljdm1J?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "summary": "Utility plans Alabama facility to extract rare earths from coal ash AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWld0bHo5el9BMW1pdE5KeWw0bzB1Sl9DVGZOZlB6Ni13T2JtRHo2bmtsZ3FhcHZ4S0FSWUxESk9lMjc4TVEyOUVDay1vZGs2NzhnNkxGTU1HTm1XTURoNi0tZjNvWkNGY2g5QkNSR2hjRTRBaElRUWFzaVM4RTNEcnI2UDQ5S3c5TUJxTVNRQ3dsdWNPTENWZGkwRFFSY2Q2ajBqRlQwRdIBuwFBVV95cUxPbDUyUkFncHU5T3poNGdTdjdJNTd3TG5LTDhNOFE1d1dWMVhDUWQ3N3Y1TWF3ZkV0VDNyYnJsb3lMdEw0VDR6d3BNMGpDTmJwOWZJdmpaQjMxalRna2wxdzlsekNkNHJkbXJMMGtLdHowT0QxckkzQ2ZRTEIwRHV1dUFlOFdiM3VzdlNwRWxkblB1X1prLVJldlVlQi1EanNBdFNPblNnWWkwajNJXzQ2WHp0MkViYVljdm1J?oc=5\" target=\"_blank\">Utility plans Alabama facility to extract rare earths from coal ash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-28T03:57:56+00:00"
     },
     {
       "id": "273f553a4c73dddf",
