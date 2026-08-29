@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-29T08:31:00+00:00",
+  "last_updated": "2026-08-29T14:53:17+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 265,
+  "count": 267,
   "mentions": [
+    {
+      "id": "35b2395a31d11ec5",
+      "title": "The Grid Has Eyes - Inside Climate News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOF83QUlsYmU0WkJqMXVNaUxBZnp6R25OcWN0MC1CdjVGeURwVV9KR0tjSVNLQlNqY0N2ZWFMS1hXeG5saDJkQ2JQT2lleUh3STZzM0ZSN1o1ZUhrZWlwaThac0I3X3llNVBKVm5pblo3RlpOeEFQbENGdnQ5TFhfcmdyTzBIRkJEQ083dDR3?oc=5",
+      "domain": "news.google.com",
+      "source": "Inside Climate News",
+      "language": "English",
+      "published_at": "2026-08-29T09:00:00+00:00",
+      "summary": "The Grid Has Eyes Inside Climate News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNOF83QUlsYmU0WkJqMXVNaUxBZnp6R25OcWN0MC1CdjVGeURwVV9KR0tjSVNLQlNqY0N2ZWFMS1hXeG5saDJkQ2JQT2lleUh3STZzM0ZSN1o1ZUhrZWlwaThac0I3X3llNVBKVm5pblo3RlpOeEFQbENGdnQ5TFhfcmdyTzBIRkJEQ083dDR3?oc=5\" target=\"_blank\">The Grid Has Eyes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-29T14:53:17+00:00"
+    },
     {
       "id": "1d04ca9bc5c4b749",
       "title": "Alabama Power promises data center protections, but its proposed rate structure redacts them - Energy and Policy Institute",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-29T00:23:39+00:00"
+    },
+    {
+      "id": "3183b92b27371ef3",
+      "title": "Burgess receives Alabama Power scholarship - The Andalusia Star-News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVlYbFhGdUp5Tkd4aDE1T0pjbVd2cVlWZ2RiRnpua2lfRVhPNFRGR1JpNVQzWmVJRmY3MkdGMTJURl92Rm1wZEY1UmJrbnVnWk5XS3V6YWlFOExhRjhtZW5meXc0VV8ybzB5YkpCajRHV2VhTGZvOFRBQ2JVTnBoWUJOU21jVU56cVBFVzJyRW9wRXlf?oc=5",
+      "domain": "news.google.com",
+      "source": "The Andalusia Star-News",
+      "language": "English",
+      "published_at": "2026-08-28T20:33:39+00:00",
+      "summary": "Burgess receives Alabama Power scholarship The Andalusia Star-News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVlYbFhGdUp5Tkd4aDE1T0pjbVd2cVlWZ2RiRnpua2lfRVhPNFRGR1JpNVQzWmVJRmY3MkdGMTJURl92Rm1wZEY1UmJrbnVnWk5XS3V6YWlFOExhRjhtZW5meXc0VV8ybzB5YkpCajRHV2VhTGZvOFRBQ2JVTnBoWUJOU21jVU56cVBFVzJyRW9wRXlf?oc=5\" target=\"_blank\">Burgess receives Alabama Power scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Andalusia Star-News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-29T14:53:17+00:00"
     },
     {
       "id": "93ea99c7513d4dff",

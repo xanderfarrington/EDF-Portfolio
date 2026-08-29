@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-29T08:31:58+00:00",
+  "last_updated": "2026-08-29T14:53:44+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 81,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 265,
-      "new_mentions_this_run": 0,
+      "count": 267,
+      "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "1d04ca9bc5c4b749",
-        "title": "Alabama Power promises data center protections, but its proposed rate structure redacts them - Energy and Policy Institute",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PcFdUeDg3TmlLVmhiWjItMGVyUjlaTG9lQ0R2NHpacjUwczh0YnQ3eC1OTDRMaGNuMXkzZF9DdVZEVndYRWZTMEpEa1oteU9hdzNfRm5Kc2xhaEJTTHJhWTEyTDljQ0F2UEo0QTVoQ2xJNGNpbmhmZUM3Tkp4QQ?oc=5",
+        "id": "35b2395a31d11ec5",
+        "title": "The Grid Has Eyes - Inside Climate News",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOF83QUlsYmU0WkJqMXVNaUxBZnp6R25OcWN0MC1CdjVGeURwVV9KR0tjSVNLQlNqY0N2ZWFMS1hXeG5saDJkQ2JQT2lleUh3STZzM0ZSN1o1ZUhrZWlwaThac0I3X3llNVBKVm5pblo3RlpOeEFQbENGdnQ5TFhfcmdyTzBIRkJEQ083dDR3?oc=5",
         "domain": "news.google.com",
-        "source": "Energy and Policy Institute",
+        "source": "Inside Climate News",
         "language": "English",
-        "published_at": "2026-08-28T21:31:53+00:00",
-        "summary": "Alabama Power promises data center protections, but its proposed rate structure redacts them Energy and Policy Institute",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1PcFdUeDg3TmlLVmhiWjItMGVyUjlaTG9lQ0R2NHpacjUwczh0YnQ3eC1OTDRMaGNuMXkzZF9DdVZEVndYRWZTMEpEa1oteU9hdzNfRm5Kc2xhaEJTTHJhWTEyTDljQ0F2UEo0QTVoQ2xJNGNpbmhmZUM3Tkp4QQ?oc=5\" target=\"_blank\">Alabama Power promises data center protections, but its proposed rate structure redacts them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy and Policy Institute</font>",
+        "published_at": "2026-08-29T09:00:00+00:00",
+        "summary": "The Grid Has Eyes Inside Climate News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNOF83QUlsYmU0WkJqMXVNaUxBZnp6R25OcWN0MC1CdjVGeURwVV9KR0tjSVNLQlNqY0N2ZWFMS1hXeG5saDJkQ2JQT2lleUh3STZzM0ZSN1o1ZUhrZWlwaThac0I3X3llNVBKVm5pblo3RlpOeEFQbENGdnQ5TFhfcmdyTzBIRkJEQ083dDR3?oc=5\" target=\"_blank\">The Grid Has Eyes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-29T00:23:39+00:00"
+        "collected_at": "2026-08-29T14:53:17+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 97,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 554,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "f751b512ff745f93",
         "title": "Georgia Power, OpenAI contract approved for Effingham center - Statesboro Herald",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 46,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "c5209af21567dd5c",
         "title": "Policy Deep Dive: How to Reform the Office of Energy Dominance Financing - Third Way",
