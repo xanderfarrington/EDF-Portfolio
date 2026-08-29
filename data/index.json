@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-29T00:24:06+00:00",
+  "last_updated": "2026-08-29T08:31:58+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 81,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 265,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "1d04ca9bc5c4b749",
         "title": "Alabama Power promises data center protections, but its proposed rate structure redacts them - Energy and Policy Institute",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 97,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 554,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "f751b512ff745f93",
         "title": "Georgia Power, OpenAI contract approved for Effingham center - Statesboro Herald",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 46,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "c5209af21567dd5c",
         "title": "Policy Deep Dive: How to Reform the Office of Energy Dominance Financing - Third Way",
