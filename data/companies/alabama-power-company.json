@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-28T15:56:46+00:00",
+  "last_updated": "2026-08-29T00:23:39+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 264,
+  "count": 265,
   "mentions": [
+    {
+      "id": "1d04ca9bc5c4b749",
+      "title": "Alabama Power promises data center protections, but its proposed rate structure redacts them - Energy and Policy Institute",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PcFdUeDg3TmlLVmhiWjItMGVyUjlaTG9lQ0R2NHpacjUwczh0YnQ3eC1OTDRMaGNuMXkzZF9DdVZEVndYRWZTMEpEa1oteU9hdzNfRm5Kc2xhaEJTTHJhWTEyTDljQ0F2UEo0QTVoQ2xJNGNpbmhmZUM3Tkp4QQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Energy and Policy Institute",
+      "language": "English",
+      "published_at": "2026-08-28T21:31:53+00:00",
+      "summary": "Alabama Power promises data center protections, but its proposed rate structure redacts them Energy and Policy Institute",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1PcFdUeDg3TmlLVmhiWjItMGVyUjlaTG9lQ0R2NHpacjUwczh0YnQ3eC1OTDRMaGNuMXkzZF9DdVZEVndYRWZTMEpEa1oteU9hdzNfRm5Kc2xhaEJTTHJhWTEyTDljQ0F2UEo0QTVoQ2xJNGNpbmhmZUM3Tkp4QQ?oc=5\" target=\"_blank\">Alabama Power promises data center protections, but its proposed rate structure redacts them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy and Policy Institute</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-29T00:23:39+00:00"
+    },
     {
       "id": "93ea99c7513d4dff",
       "title": "Spring Garden Graduate Emma Graham Awarded $2,500 Alabama Power Foundation Scholarship - weisradio.com",

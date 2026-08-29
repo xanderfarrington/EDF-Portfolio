@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T15:57:13+00:00",
+  "last_updated": "2026-08-29T00:24:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 264,
+      "count": 265,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "93ea99c7513d4dff",
-        "title": "Spring Garden Graduate Emma Graham Awarded $2,500 Alabama Power Foundation Scholarship - weisradio.com",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQWg0QkJzNG1aQzhSb3dJc1VHdlJUTDZBbVNmeU9mc2Y0d2E0MW1Fb1BWUEh1eFkwcXVCRkU1ejc0S1NDbjBMbEtBZ1lBMWdzbVM0eWQzeHpvZC1DeldYaXZJUzBpVFZ3aFdkOEZ2aHE4eHQ0R1ZPcTAxc1YwM21hNUFR?oc=5",
+        "id": "1d04ca9bc5c4b749",
+        "title": "Alabama Power promises data center protections, but its proposed rate structure redacts them - Energy and Policy Institute",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PcFdUeDg3TmlLVmhiWjItMGVyUjlaTG9lQ0R2NHpacjUwczh0YnQ3eC1OTDRMaGNuMXkzZF9DdVZEVndYRWZTMEpEa1oteU9hdzNfRm5Kc2xhaEJTTHJhWTEyTDljQ0F2UEo0QTVoQ2xJNGNpbmhmZUM3Tkp4QQ?oc=5",
         "domain": "news.google.com",
-        "source": "weisradio.com",
+        "source": "Energy and Policy Institute",
         "language": "English",
-        "published_at": "2026-08-26T23:15:53+00:00",
-        "summary": "Spring Garden Graduate Emma Graham Awarded $2,500 Alabama Power Foundation Scholarship weisradio.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQQWg0QkJzNG1aQzhSb3dJc1VHdlJUTDZBbVNmeU9mc2Y0d2E0MW1Fb1BWUEh1eFkwcXVCRkU1ejc0S1NDbjBMbEtBZ1lBMWdzbVM0eWQzeHpvZC1DeldYaXZJUzBpVFZ3aFdkOEZ2aHE4eHQ0R1ZPcTAxc1YwM21hNUFR?oc=5\" target=\"_blank\">Spring Garden Graduate Emma Graham Awarded $2,500 Alabama Power Foundation Scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">weisradio.com</font>",
+        "published_at": "2026-08-28T21:31:53+00:00",
+        "summary": "Alabama Power promises data center protections, but its proposed rate structure redacts them Energy and Policy Institute",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1PcFdUeDg3TmlLVmhiWjItMGVyUjlaTG9lQ0R2NHpacjUwczh0YnQ3eC1OTDRMaGNuMXkzZF9DdVZEVndYRWZTMEpEa1oteU9hdzNfRm5Kc2xhaEJTTHJhWTEyTDljQ0F2UEo0QTVoQ2xJNGNpbmhmZUM3Tkp4QQ?oc=5\" target=\"_blank\">Alabama Power promises data center protections, but its proposed rate structure redacts them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy and Policy Institute</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-27T06:40:01+00:00"
+        "collected_at": "2026-08-29T00:23:39+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 97,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 549,
+      "count": 554,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "485a209674eeb32f",
-        "title": "Georgia Power, OpenAI contract approved by state regulators - Daily Energy Insider",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbDNiQVM1NklPSUIzYlFzTXlQTTJKOW5ka0xIVzFmNFlyQlBVd2ZtUWc5R3k0QnhEbUEzaUtwRlYtcDhwelNyU0NXTzVVcDdiUzQ5Qm80VGljY2JJZWVnSEg5NnI1Q2xNOFV4SmhtMWtmUDdOSm9mNVZMOWlnWnlqOVpsQS1jOU82VDc4WGdteTF0angxdGRYQnRxX2NzdHFWMmVV?oc=5",
+        "id": "f751b512ff745f93",
+        "title": "Georgia Power, OpenAI contract approved for Effingham center - Statesboro Herald",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUZPMDRMTHVJUC0tc0JncHhXR3U5akRRN1pfakhKNU5iTGNuTk0xNFpoWmdwZnZXMFhZMkxMNFZvUDhzTDN4SWJoNDNYYzRPdzVmZlBjMkx1blNjVTdMOTRLVVA5blZMdWZzSlJnRzA1TDRwRDVTNUwxQ0xVZUxTeFFDTTRXRENtNGxtdlhBYUNkbjVBMkZ5aEh3V2o3bTFf?oc=5",
         "domain": "news.google.com",
-        "source": "Daily Energy Insider",
+        "source": "Statesboro Herald",
         "language": "English",
-        "published_at": "2026-08-28T11:49:00+00:00",
-        "summary": "Georgia Power, OpenAI contract approved by state regulators Daily Energy Insider",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbDNiQVM1NklPSUIzYlFzTXlQTTJKOW5ka0xIVzFmNFlyQlBVd2ZtUWc5R3k0QnhEbUEzaUtwRlYtcDhwelNyU0NXTzVVcDdiUzQ5Qm80VGljY2JJZWVnSEg5NnI1Q2xNOFV4SmhtMWtmUDdOSm9mNVZMOWlnWnlqOVpsQS1jOU82VDc4WGdteTF0angxdGRYQnRxX2NzdHFWMmVV?oc=5\" target=\"_blank\">Georgia Power, OpenAI contract approved by state regulators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+        "published_at": "2026-08-28T20:16:57+00:00",
+        "summary": "Georgia Power, OpenAI contract approved for Effingham center Statesboro Herald",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUZPMDRMTHVJUC0tc0JncHhXR3U5akRRN1pfakhKNU5iTGNuTk0xNFpoWmdwZnZXMFhZMkxMNFZvUDhzTDN4SWJoNDNYYzRPdzVmZlBjMkx1blNjVTdMOTRLVVA5blZMdWZzSlJnRzA1TDRwRDVTNUwxQ0xVZUxTeFFDTTRXRENtNGxtdlhBYUNkbjVBMkZ5aEh3V2o3bTFf?oc=5\" target=\"_blank\">Georgia Power, OpenAI contract approved for Effingham center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Statesboro Herald</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-28T15:57:02+00:00"
+        "collected_at": "2026-08-29T00:23:55+00:00"
       }
     },
     {
