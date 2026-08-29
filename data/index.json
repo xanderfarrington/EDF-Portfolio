@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T14:53:44+00:00",
+  "last_updated": "2026-08-29T19:04:29+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 267,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "35b2395a31d11ec5",
         "title": "The Grid Has Eyes - Inside Climate News",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 97,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
