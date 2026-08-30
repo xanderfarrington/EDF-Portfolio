@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T14:37:36+00:00",
+  "last_updated": "2026-08-30T18:59:15+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 268,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "35b2395a31d11ec5",
         "title": "The Grid Has Eyes - Inside Climate News",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 46,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "c5209af21567dd5c",
         "title": "Policy Deep Dive: How to Reform the Office of Energy Dominance Financing - Third Way",
