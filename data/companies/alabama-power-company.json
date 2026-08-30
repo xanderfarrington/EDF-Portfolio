@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-30T09:38:53+00:00",
+  "last_updated": "2026-08-30T14:37:09+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 267,
+  "count": 268,
   "mentions": [
     {
       "id": "35b2395a31d11ec5",
@@ -75,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-26T22:38:32+00:00"
+    },
+    {
+      "id": "2141302a00418f77",
+      "title": "Morgan Academy’s Brooke Waters receives Alabama Power Foundation scholarship - The Selma Times-Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2lISk5qb3RhSzlOT3k1Q25OcGdsSlFkSkpQWlFfZWwzaEhaRFBYNnRobzIxS3hpVjZ5OG1SVXdZMGEtRjZjMGNaSldLQXRQdHdzMURZekJXcF9naTlkVi1hTzc4U0RZQTY2dUhiclNyWWk0eFFNSTI5MjVQWC1ZbXdjM3p5ZUphUkFZdEhuVW45dXdWZjVMUXc5d2tDSFlMdnlKdFMzNUVOY2NvNEpoWTdubzc0LWpKNXdEcVRlWUM?oc=5",
+      "domain": "news.google.com",
+      "source": "The Selma Times-Journal",
+      "language": "English",
+      "published_at": "2026-08-26T20:49:29+00:00",
+      "summary": "Morgan Academy’s Brooke Waters receives Alabama Power Foundation scholarship The Selma Times-Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2lISk5qb3RhSzlOT3k1Q25OcGdsSlFkSkpQWlFfZWwzaEhaRFBYNnRobzIxS3hpVjZ5OG1SVXdZMGEtRjZjMGNaSldLQXRQdHdzMURZekJXcF9naTlkVi1hTzc4U0RZQTY2dUhiclNyWWk0eFFNSTI5MjVQWC1ZbXdjM3p5ZUphUkFZdEhuVW45dXdWZjVMUXc5d2tDSFlMdnlKdFMzNUVOY2NvNEpoWTdubzc0LWpKNXdEcVRlWUM?oc=5\" target=\"_blank\">Morgan Academy’s Brooke Waters receives Alabama Power Foundation scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Selma Times-Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-30T14:37:09+00:00"
     },
     {
       "id": "8ce69c4f4d0e6dca",

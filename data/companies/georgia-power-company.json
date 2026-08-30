@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-30T09:39:10+00:00",
+  "last_updated": "2026-08-30T14:37:25+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 554,
+  "count": 556,
   "mentions": [
     {
       "id": "f751b512ff745f93",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-29T00:23:55+00:00"
+    },
+    {
+      "id": "37f3bccb8a61e924",
+      "title": "Georgia Power prepares for hurricanes - cbs42.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGtteXl2UzY2WGRkZmxoYmF0dmtLZ3BRZlVuTkZvR19UQWdhanRaVFRaTnczbFBtM1MzZ2pmeE00bklWMWhWTnBhbzhNTW02bENSdTdHTG5oV3c3YTQyYW9qdHpjREI0b2QzS185RFZ6OEZkQ24zNWdPTWNhUHBvOQ?oc=5",
+      "domain": "news.google.com",
+      "source": "cbs42.com",
+      "language": "English",
+      "published_at": "2026-08-28T11:52:31+00:00",
+      "summary": "Georgia Power prepares for hurricanes cbs42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGtteXl2UzY2WGRkZmxoYmF0dmtLZ3BRZlVuTkZvR19UQWdhanRaVFRaTnczbFBtM1MzZ2pmeE00bklWMWhWTnBhbzhNTW02bENSdTdHTG5oV3c3YTQyYW9qdHpjREI0b2QzS185RFZ6OEZkQ24zNWdPTWNhUHBvOQ?oc=5\" target=\"_blank\">Georgia Power prepares for hurricanes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-30T14:37:25+00:00"
     },
     {
       "id": "485a209674eeb32f",
@@ -621,6 +635,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-26T04:33:24+00:00"
+    },
+    {
+      "id": "1afaba6c92c8be79",
+      "title": "'Everybody feels like they're family' | How Georgia Power families keep Plant Scherer running year-round - WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV3dXTGowT29paklRcDFOZEY1NTNOXzNuem9RX3dWWko0TE1sM0JTNTBCMVpiSV8yeHhldU80TXhQSkhKY1dWbVAyY1YzcXFVTy1hSy11azhKLXk3YkcxSjJ1OVpYdVVjQjRaR0xTdzJTS0VxNmtkZi1leVVZTlJLV2RmTTJkN1hkbVdtc3ZGX19UY19XRUpCRGNyVEVzY0JNOTdMOUx2bjdWaDhucDA3MHh3UFZ0RlU2LW5HSlh2TDRmaUhaMHJadHI0ZkZiVWdYcW1QSi1uU093M3R3NXNWQWZhNUtub1VQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WMAZ",
+      "language": "English",
+      "published_at": "2026-08-26T03:55:00+00:00",
+      "summary": "'Everybody feels like they're family' | How Georgia Power families keep Plant Scherer running year-round WMAZ",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV3dXTGowT29paklRcDFOZEY1NTNOXzNuem9RX3dWWko0TE1sM0JTNTBCMVpiSV8yeHhldU80TXhQSkhKY1dWbVAyY1YzcXFVTy1hSy11azhKLXk3YkcxSjJ1OVpYdVVjQjRaR0xTdzJTS0VxNmtkZi1leVVZTlJLV2RmTTJkN1hkbVdtc3ZGX19UY19XRUpCRGNyVEVzY0JNOTdMOUx2bjdWaDhucDA3MHh3UFZ0RlU2LW5HSlh2TDRmaUhaMHJadHI0ZkZiVWdYcW1QSi1uU093M3R3NXNWQWZhNUtub1VQ?oc=5\" target=\"_blank\">'Everybody feels like they're family' | How Georgia Power families keep Plant Scherer running year-round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WMAZ</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-30T14:37:25+00:00"
     },
     {
       "id": "7f54ff8b3ef1657b",
