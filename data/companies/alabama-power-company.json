@@ -2,10 +2,38 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-31T18:35:54+00:00",
+  "last_updated": "2026-08-31T23:33:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 269,
+  "count": 273,
   "mentions": [
+    {
+      "id": "941d7cffa4ccb1be",
+      "title": "\"This is my home\": Shelby County man fights Alabama Power over transmission line route - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNmMwNUJjM3Q4Rk5ZR3hNQk9lM2hZazJyV05iNl9yMTRJMmI1bkRjaWJTSElFV0JGc0J0LWs1VGFfSERIenhZYXpwVnZCU1I0ZlRMVVlLOW1FZjg3N1kxSzhjcS1iZjZNWTlFeTNGbFptR0NqRWc2bmdrS1FycFJ5eFVmWDRjN0JocTdlandHYnVkV0JBamI4UV96a2pHeUM0ZjN4UHZLcnBCdFZ3MTJKOFVHRl92elp1YUdxOFMtT0RtelRWQnRqZXozMDNkM2VUWEJGMmhBS1g4bDBSNFh2Wg?oc=5",
+      "domain": "news.google.com",
+      "source": "WBMA",
+      "language": "English",
+      "published_at": "2026-08-31T22:52:06+00:00",
+      "summary": "\"This is my home\": Shelby County man fights Alabama Power over transmission line route WBMA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNmMwNUJjM3Q4Rk5ZR3hNQk9lM2hZazJyV05iNl9yMTRJMmI1bkRjaWJTSElFV0JGc0J0LWs1VGFfSERIenhZYXpwVnZCU1I0ZlRMVVlLOW1FZjg3N1kxSzhjcS1iZjZNWTlFeTNGbFptR0NqRWc2bmdrS1FycFJ5eFVmWDRjN0JocTdlandHYnVkV0JBamI4UV96a2pHeUM0ZjN4UHZLcnBCdFZ3MTJKOFVHRl92elp1YUdxOFMtT0RtelRWQnRqZXozMDNkM2VUWEJGMmhBS1g4bDBSNFh2Wg?oc=5\" target=\"_blank\">\"This is my home\": Shelby County man fights Alabama Power over transmission line route</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-31T23:33:07+00:00"
+    },
+    {
+      "id": "cafa3d7ee71ce9ef",
+      "title": "Main Street Atmore receives grant from Alabama Power Foundation - The Atmore Advance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUJOVFludDdIa01TM0I2UHBjaThuVXlGQW4xaVFFdzlpZ3lXQjFDRjdySHNUdnlHYzN1NmJxTjkwN2hsaHBrRTFsWjNQdDhYd1lfZVlqR205RVQ5ZHRXdllBMHNwZzk5aXltRDk0RjdyV3IwRk5XSDNxRWRSZHdkN29DY1ZVdDNScUZiamFRZHFhd3M5akgtaEh0eGZmc3E1TVNudGdVT2ZfUzg?oc=5",
+      "domain": "news.google.com",
+      "source": "The Atmore Advance",
+      "language": "English",
+      "published_at": "2026-08-31T15:53:40+00:00",
+      "summary": "Main Street Atmore receives grant from Alabama Power Foundation The Atmore Advance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUJOVFludDdIa01TM0I2UHBjaThuVXlGQW4xaVFFdzlpZ3lXQjFDRjdySHNUdnlHYzN1NmJxTjkwN2hsaHBrRTFsWjNQdDhYd1lfZVlqR205RVQ5ZHRXdllBMHNwZzk5aXltRDk0RjdyV3IwRk5XSDNxRWRSZHdkN29DY1ZVdDNScUZiamFRZHFhd3M5akgtaEh0eGZmc3E1TVNudGdVT2ZfUzg?oc=5\" target=\"_blank\">Main Street Atmore receives grant from Alabama Power Foundation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atmore Advance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-31T23:33:07+00:00"
+    },
     {
       "id": "35b2395a31d11ec5",
       "title": "The Grid Has Eyes - Inside Climate News",
@@ -175,6 +203,20 @@
       "collected_at": "2026-08-25T20:20:39+00:00"
     },
     {
+      "id": "e4c98fb509862ec5",
+      "title": "'This story is absolutely heartbreaking': John Rich doubles down on… - 1819news.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcDJiX01rZ054SHNIVXctNVZMNVl2WVBjLTFlREtwdGd1LS16V3JEVVE2b1hRT0xUN2hUWUZweHBJNS1LdFB6bXdhUE9XWC1scHVlbGFnY0NMXzU4elVMU2JlUzNuckIzcEZQUXhTR0VUSmt5RklScEFLLU0xcHo3aEhOMHg5bXRFNVBsNWpMYTNCYmNKa3g2ZHIxNENOWXN5Nzd1eTN5cGV1SUxpN1d5STMzNVpva2VSV3lIWlM0eEpqT0oydTRkWWZKcUFnbGZoZWIzbTUxNGY2TV9PeFdzSkdaemo3U0xUQ1BIZTBTTklMdkNxLTRUSkV5Sy1fNlVFVUE?oc=5",
+      "domain": "news.google.com",
+      "source": "1819news.com",
+      "language": "English",
+      "published_at": "2026-08-25T19:03:58+00:00",
+      "summary": "'This story is absolutely heartbreaking': John Rich doubles down on… 1819news.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQcDJiX01rZ054SHNIVXctNVZMNVl2WVBjLTFlREtwdGd1LS16V3JEVVE2b1hRT0xUN2hUWUZweHBJNS1LdFB6bXdhUE9XWC1scHVlbGFnY0NMXzU4elVMU2JlUzNuckIzcEZQUXhTR0VUSmt5RklScEFLLU0xcHo3aEhOMHg5bXRFNVBsNWpMYTNCYmNKa3g2ZHIxNENOWXN5Nzd1eTN5cGV1SUxpN1d5STMzNVpva2VSV3lIWlM0eEpqT0oydTRkWWZKcUFnbGZoZWIzbTUxNGY2TV9PeFdzSkdaemo3U0xUQ1BIZTBTTklMdkNxLTRUSkV5Sy1fNlVFVUE?oc=5\" target=\"_blank\">'This story is absolutely heartbreaking': John Rich doubles down on…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819news.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-31T23:33:07+00:00"
+    },
+    {
       "id": "21ea58b2e4bdb241",
       "title": "Alabama Power Sketches Plan for Data Center Law Compliance - RTO Insider",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOVpiOU81Nkwxd1UyTkN4bVZKb2ZTT1lOSTJzblQ2VVRTNS0tODJ2Zm1aTmxHZk1ETTJWckxDNnQzbUdBUXljcmdNLThJZlhnbWRsX1lzd1RsWHpWcUxnSHUtSFpzWjF2aGpaOE03NmZxS2ZrT2w3NXp4UFBiSTU2UHp4MU9LQ05GTHpMTnY0QU5WQkk?oc=5",
@@ -215,6 +257,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-24T16:28:07+00:00"
+    },
+    {
+      "id": "9c844996322db85d",
+      "title": "Shelby County judge sets preliminary injunction hearing in Alabama Power eminent domain case - 1819news.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU5Tb1ltblZzbGF2MURQZWkwSVRqbkM3QVE5OXVhWjlGQm52bDgwaWZkbFNJbGZpZHBwZ2U0MTNXM2JsR1RIdDZjT0FkZDZMQW9SYXNHX1p6Z2ZRWnJrLVpscEhLaDREejVfbjNHbl9EQ29SQVVFY3Z4X011a0U2eHpUWGtyaVZ5VFJzQ0d2ZXdmb2FnU29sUEhNZThzS3dRLTJHZ2JlTFlIMlQwMThwU05JcWNQeVZKMXdKRFA5ZFg?oc=5",
+      "domain": "news.google.com",
+      "source": "1819news.com",
+      "language": "English",
+      "published_at": "2026-08-24T11:33:42+00:00",
+      "summary": "Shelby County judge sets preliminary injunction hearing in Alabama Power eminent domain case 1819news.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU5Tb1ltblZzbGF2MURQZWkwSVRqbkM3QVE5OXVhWjlGQm52bDgwaWZkbFNJbGZpZHBwZ2U0MTNXM2JsR1RIdDZjT0FkZDZMQW9SYXNHX1p6Z2ZRWnJrLVpscEhLaDREejVfbjNHbl9EQ29SQVVFY3Z4X011a0U2eHpUWGtyaVZ5VFJzQ0d2ZXdmb2FnU29sUEhNZThzS3dRLTJHZ2JlTFlIMlQwMThwU05JcWNQeVZKMXdKRFA5ZFg?oc=5\" target=\"_blank\">Shelby County judge sets preliminary injunction hearing in Alabama Power eminent domain case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819news.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-31T23:33:07+00:00"
     },
     {
       "id": "986210fbe58ec5a9",

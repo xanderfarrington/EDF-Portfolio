@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T18:36:21+00:00",
+  "last_updated": "2026-08-31T23:33:34+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 269,
-      "new_mentions_this_run": 23,
+      "count": 273,
+      "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "35b2395a31d11ec5",
-        "title": "The Grid Has Eyes - Inside Climate News",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOF83QUlsYmU0WkJqMXVNaUxBZnp6R25OcWN0MC1CdjVGeURwVV9KR0tjSVNLQlNqY0N2ZWFMS1hXeG5saDJkQ2JQT2lleUh3STZzM0ZSN1o1ZUhrZWlwaThac0I3X3llNVBKVm5pblo3RlpOeEFQbENGdnQ5TFhfcmdyTzBIRkJEQ083dDR3?oc=5",
+        "id": "941d7cffa4ccb1be",
+        "title": "\"This is my home\": Shelby County man fights Alabama Power over transmission line route - WBMA",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNmMwNUJjM3Q4Rk5ZR3hNQk9lM2hZazJyV05iNl9yMTRJMmI1bkRjaWJTSElFV0JGc0J0LWs1VGFfSERIenhZYXpwVnZCU1I0ZlRMVVlLOW1FZjg3N1kxSzhjcS1iZjZNWTlFeTNGbFptR0NqRWc2bmdrS1FycFJ5eFVmWDRjN0JocTdlandHYnVkV0JBamI4UV96a2pHeUM0ZjN4UHZLcnBCdFZ3MTJKOFVHRl92elp1YUdxOFMtT0RtelRWQnRqZXozMDNkM2VUWEJGMmhBS1g4bDBSNFh2Wg?oc=5",
         "domain": "news.google.com",
-        "source": "Inside Climate News",
+        "source": "WBMA",
         "language": "English",
-        "published_at": "2026-08-29T09:00:00+00:00",
-        "summary": "The Grid Has Eyes Inside Climate News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNOF83QUlsYmU0WkJqMXVNaUxBZnp6R25OcWN0MC1CdjVGeURwVV9KR0tjSVNLQlNqY0N2ZWFMS1hXeG5saDJkQ2JQT2lleUh3STZzM0ZSN1o1ZUhrZWlwaThac0I3X3llNVBKVm5pblo3RlpOeEFQbENGdnQ5TFhfcmdyTzBIRkJEQ083dDR3?oc=5\" target=\"_blank\">The Grid Has Eyes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
+        "published_at": "2026-08-31T22:52:06+00:00",
+        "summary": "\"This is my home\": Shelby County man fights Alabama Power over transmission line route WBMA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNmMwNUJjM3Q4Rk5ZR3hNQk9lM2hZazJyV05iNl9yMTRJMmI1bkRjaWJTSElFV0JGc0J0LWs1VGFfSERIenhZYXpwVnZCU1I0ZlRMVVlLOW1FZjg3N1kxSzhjcS1iZjZNWTlFeTNGbFptR0NqRWc2bmdrS1FycFJ5eFVmWDRjN0JocTdlandHYnVkV0JBamI4UV96a2pHeUM0ZjN4UHZLcnBCdFZ3MTJKOFVHRl92elp1YUdxOFMtT0RtelRWQnRqZXozMDNkM2VUWEJGMmhBS1g4bDBSNFh2Wg?oc=5\" target=\"_blank\">\"This is my home\": Shelby County man fights Alabama Power over transmission line route</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-29T14:53:17+00:00"
+        "collected_at": "2026-08-31T23:33:07+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 563,
+      "count": 564,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "3701a118402aff3a",
