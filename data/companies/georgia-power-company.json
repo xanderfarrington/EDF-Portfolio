@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-30T22:17:54+00:00",
+  "last_updated": "2026-08-31T02:55:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 556,
+  "count": 557,
   "mentions": [
+    {
+      "id": "141e6c7c96c5393e",
+      "title": "‘Strictest contract in data center history’ reached between Georgia Power and OpenAI - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2t1MEVTOHREeHptY0hldzV3QjRRWnJqNHRfZXhSV0tBeFQ1RWpzV24tdGdXclpBSk1Fa0xzSzBvem5ObmM0TWp0ajdJbnFBSWRuQVZ4RHFiTklfNU1BYlQ3RW1FZDFOazNaNy1YckdOT1RqMWd3OHp1WGlVNlFNTnN5SC1zSFM2MWFFNkdNMExxOTB2WmtIWnhOYnR0UkpwcTk4b1ZtQlVWYTRi0gHAAUFVX3lxTE8zaV9ON1NIM25EckJHNDlIV254OTcyemoxaXhPR1Y2S0lxcFpLZVMzWHlHWDFnNmN1c21lSzQ4OWRlQUgwR1JEcjRwanhuNUtuVGdxOHA4ZGgtcVNQT0IyRG5DZC1OOWVaSVA5NjBkbTJvUDNhYkF1NTc0N25zYU0xVF9DYl9hLXIxWmh3UFJJVGV3NTd0U25PRDQ2aE1IQko1TDBxU01TLVQ2QW94VExHZlF6eWlVQXM4cE1ubkRncA?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-08-30T23:25:00+00:00",
+      "summary": "‘Strictest contract in data center history’ reached between Georgia Power and OpenAI WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2t1MEVTOHREeHptY0hldzV3QjRRWnJqNHRfZXhSV0tBeFQ1RWpzV24tdGdXclpBSk1Fa0xzSzBvem5ObmM0TWp0ajdJbnFBSWRuQVZ4RHFiTklfNU1BYlQ3RW1FZDFOazNaNy1YckdOT1RqMWd3OHp1WGlVNlFNTnN5SC1zSFM2MWFFNkdNMExxOTB2WmtIWnhOYnR0UkpwcTk4b1ZtQlVWYTRi0gHAAUFVX3lxTE8zaV9ON1NIM25EckJHNDlIV254OTcyemoxaXhPR1Y2S0lxcFpLZVMzWHlHWDFnNmN1c21lSzQ4OWRlQUgwR1JEcjRwanhuNUtuVGdxOHA4ZGgtcVNQT0IyRG5DZC1OOWVaSVA5NjBkbTJvUDNhYkF1NTc0N25zYU0xVF9DYl9hLXIxWmh3UFJJVGV3NTd0U25PRDQ2aE1IQko1TDBxU01TLVQ2QW94VExHZlF6eWlVQXM4cE1ubkRncA?oc=5\" target=\"_blank\">‘Strictest contract in data center history’ reached between Georgia Power and OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-31T02:55:42+00:00"
+    },
     {
       "id": "f751b512ff745f93",
       "title": "Georgia Power, OpenAI contract approved for Effingham center - Statesboro Herald",
