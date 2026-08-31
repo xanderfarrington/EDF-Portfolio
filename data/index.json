@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-31T10:21:33+00:00",
+  "last_updated": "2026-08-31T18:36:21+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 81,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 268,
+      "count": 269,
       "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "35b2395a31d11ec5",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 97,
+      "count": 98,
       "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 558,
+      "count": 563,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "b1adbbcaec221b74",
-        "title": "Aug. 31 - Georgia Power agrees to new protections against data center costs - Savannah Business Journal",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbHJkTWtXajVWWG9uakdzeGRJSDNNLWFXTkRqOVBmZ2RhUTBZR05QN1FHVFdMWjZPaXdsZ05DOEYzNXQ2UjdNaXQxUERrckR0RUlQWW9UbU16dTZrbUl3NnBhQl9xRm56MEVjb082dUFoS2ExT2R5WGFYTC1zWjJFVjlJN1Vfb3I2R2wydzMtMFdZdU1VM1lFUTVMa3lKMzhYaXlEYldoSFNwcW9zdzVJd0dEX2Zrc3poa0NkX29LM1FnUUc1UFdIdVRydnBGQzNlQ3kwUk9vQ3FnUnhlM3prellnb1hxM1M3ZUxkTDhYeXFwLXNmUEFJamMxZ2VGV3Q2OU9QOE5fa2NHT1R0?oc=5",
+        "id": "3701a118402aff3a",
+        "title": "Georgia Power drops more details about OpenAI contract. PSC meeting heats up - Columbus Ledger-Enquirer",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFNFVEwxU0JHMXgwRTZQTmRtSlAteDVoNnRWTkduaDBLRzZmZ1prc2k0ZDVkZXd2SWNGMmQtb0VKQlQzTkpKVXM1aXRueEpjSVlzeTdBUVpVbk1CRkdINDlJQkVnWWh2dEhyQkZBWU55cFVEM1VRZV9zYVdFRmdjZ3VTYjLSAYQBQVVfeXFMTk9NdkRZX3E0VFN3bk42aTdDTlFpd1pHQXBEUU1QQ3ZscWlrMlFlNTJpZk9xRTNPem1GYi1wU3BYX0RCOWVoWnF0ZnMzYlBfYjQ4Mjd3cHNKQkVYcWFiVUpaU2lld3pRYWIxQnVkdXFWTkV0Z1k5UVJJanZxNm0wMUtraVQw?oc=5",
         "domain": "news.google.com",
-        "source": "Savannah Business Journal",
+        "source": "Columbus Ledger-Enquirer",
         "language": "English",
-        "published_at": "2026-08-31T08:30:00+00:00",
-        "summary": "Aug. 31 - Georgia Power agrees to new protections against data center costs Savannah Business Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQbHJkTWtXajVWWG9uakdzeGRJSDNNLWFXTkRqOVBmZ2RhUTBZR05QN1FHVFdMWjZPaXdsZ05DOEYzNXQ2UjdNaXQxUERrckR0RUlQWW9UbU16dTZrbUl3NnBhQl9xRm56MEVjb082dUFoS2ExT2R5WGFYTC1zWjJFVjlJN1Vfb3I2R2wydzMtMFdZdU1VM1lFUTVMa3lKMzhYaXlEYldoSFNwcW9zdzVJd0dEX2Zrc3poa0NkX29LM1FnUUc1UFdIdVRydnBGQzNlQ3kwUk9vQ3FnUnhlM3prellnb1hxM1M3ZUxkTDhYeXFwLXNmUEFJamMxZ2VGV3Q2OU9QOE5fa2NHT1R0?oc=5\" target=\"_blank\">Aug. 31 - Georgia Power agrees to new protections against data center costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Business Journal</font>",
+        "published_at": "2026-08-31T09:00:00+00:00",
+        "summary": "Georgia Power drops more details about OpenAI contract. PSC meeting heats up Columbus Ledger-Enquirer",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFNFVEwxU0JHMXgwRTZQTmRtSlAteDVoNnRWTkduaDBLRzZmZ1prc2k0ZDVkZXd2SWNGMmQtb0VKQlQzTkpKVXM1aXRueEpjSVlzeTdBUVpVbk1CRkdINDlJQkVnWWh2dEhyQkZBWU55cFVEM1VRZV9zYVdFRmdjZ3VTYjLSAYQBQVVfeXFMTk9NdkRZX3E0VFN3bk42aTdDTlFpd1pHQXBEUU1QQ3ZscWlrMlFlNTJpZk9xRTNPem1GYi1wU3BYX0RCOWVoWnF0ZnMzYlBfYjQ4Mjd3cHNKQkVYcWFiVUpaU2lld3pRYWIxQnVkdXFWTkV0Z1k5UVJJanZxNm0wMUtraVQw?oc=5\" target=\"_blank\">Georgia Power drops more details about OpenAI contract. PSC meeting heats up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbus Ledger-Enquirer</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-31T10:21:22+00:00"
+        "collected_at": "2026-08-31T18:36:10+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 46,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "c5209af21567dd5c",
         "title": "Policy Deep Dive: How to Reform the Office of Energy Dominance Financing - Third Way",

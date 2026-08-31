@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-31T10:21:22+00:00",
+  "last_updated": "2026-08-31T18:36:10+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 558,
+  "count": 563,
   "mentions": [
+    {
+      "id": "3701a118402aff3a",
+      "title": "Georgia Power drops more details about OpenAI contract. PSC meeting heats up - Columbus Ledger-Enquirer",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFNFVEwxU0JHMXgwRTZQTmRtSlAteDVoNnRWTkduaDBLRzZmZ1prc2k0ZDVkZXd2SWNGMmQtb0VKQlQzTkpKVXM1aXRueEpjSVlzeTdBUVpVbk1CRkdINDlJQkVnWWh2dEhyQkZBWU55cFVEM1VRZV9zYVdFRmdjZ3VTYjLSAYQBQVVfeXFMTk9NdkRZX3E0VFN3bk42aTdDTlFpd1pHQXBEUU1QQ3ZscWlrMlFlNTJpZk9xRTNPem1GYi1wU3BYX0RCOWVoWnF0ZnMzYlBfYjQ4Mjd3cHNKQkVYcWFiVUpaU2lld3pRYWIxQnVkdXFWTkV0Z1k5UVJJanZxNm0wMUtraVQw?oc=5",
+      "domain": "news.google.com",
+      "source": "Columbus Ledger-Enquirer",
+      "language": "English",
+      "published_at": "2026-08-31T09:00:00+00:00",
+      "summary": "Georgia Power drops more details about OpenAI contract. PSC meeting heats up Columbus Ledger-Enquirer",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFNFVEwxU0JHMXgwRTZQTmRtSlAteDVoNnRWTkduaDBLRzZmZ1prc2k0ZDVkZXd2SWNGMmQtb0VKQlQzTkpKVXM1aXRueEpjSVlzeTdBUVpVbk1CRkdINDlJQkVnWWh2dEhyQkZBWU55cFVEM1VRZV9zYVdFRmdjZ3VTYjLSAYQBQVVfeXFMTk9NdkRZX3E0VFN3bk42aTdDTlFpd1pHQXBEUU1QQ3ZscWlrMlFlNTJpZk9xRTNPem1GYi1wU3BYX0RCOWVoWnF0ZnMzYlBfYjQ4Mjd3cHNKQkVYcWFiVUpaU2lld3pRYWIxQnVkdXFWTkV0Z1k5UVJJanZxNm0wMUtraVQw?oc=5\" target=\"_blank\">Georgia Power drops more details about OpenAI contract. PSC meeting heats up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbus Ledger-Enquirer</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-31T18:36:10+00:00"
+    },
     {
       "id": "b1adbbcaec221b74",
       "title": "Aug. 31 - Georgia Power agrees to new protections against data center costs - Savannah Business Journal",
@@ -231,6 +245,20 @@
       "collected_at": "2026-08-28T03:58:12+00:00"
     },
     {
+      "id": "db4ef12bd5b224be",
+      "title": "Georgia Power official discusses local OpenAI partnership - wsav.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlV4dzF4Tm8tMDJ3ZnlSY2VLVjZrOWJyWldoV0NveExBN3NPcTV0MElfWmNTUGlCVDllR2FoWjhWLWZrajJRVjVYek5xU2dtTTJuVjROSnNUOVdHYXB6bXpJWllDX0tLTVRjZEhkZlAxRDVLcEZvR1hYTHJQVHAyYjR2ZVZJRDY4SjFCTy1Lbm5nN3BKTlF5ZGVB?oc=5",
+      "domain": "news.google.com",
+      "source": "wsav.com",
+      "language": "English",
+      "published_at": "2026-08-27T22:22:47+00:00",
+      "summary": "Georgia Power official discusses local OpenAI partnership wsav.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlV4dzF4Tm8tMDJ3ZnlSY2VLVjZrOWJyWldoV0NveExBN3NPcTV0MElfWmNTUGlCVDllR2FoWjhWLWZrajJRVjVYek5xU2dtTTJuVjROSnNUOVdHYXB6bXpJWllDX0tLTVRjZEhkZlAxRDVLcEZvR1hYTHJQVHAyYjR2ZVZJRDY4SjFCTy1Lbm5nN3BKTlF5ZGVB?oc=5\" target=\"_blank\">Georgia Power official discusses local OpenAI partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsav.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-31T18:36:10+00:00"
+    },
+    {
       "id": "c95eba64f5e443ee",
       "title": "Georgia Power deal to power OpenAI data center is approved, with some fine print - AJC.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTGxOUUhmcW14cTN6MGw4X3AyYzRjOGxyQk1ad2c1ZjVWczhZbWFpZU92eXBlc1FneWVyWkNMd2tuaURCanpMSjNvVmJjM3VDbmhGNkNxS3hPc3dRb3B4TVJ0VTFIUmRtaFV1X1ZmMEVjWXhBNGZPUVdncnRKdVNyUEtULUZlR2V2cFl5Sm9sZnlMU1ljZllYSTN2R0ZEOUxIWWJVRVh2VF9DMnNIRGt3?oc=5",
@@ -271,6 +299,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-28T03:58:12+00:00"
+    },
+    {
+      "id": "4812e5b5f46a3b81",
+      "title": "Georgia Power official discusses local OpenAI partnership - wsav.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUIwQmU3UmZpaF9lWnVCbTNqek9yd2Z4Z1lUcFBrMVg3R1ppZVBBZ2J5OHFpWEZKYzB0N05ETjRaQ1BNUVVKbjJuMTJEZ2VjcF95S0hzTnNpeWRqX0JsQUw3ZHdRQ2xFU1hmcDJyakNobjhtaHh3dHRaNkItbnlxZFpvczE5UFhnWjhHdm5uMEdXcmp1SFRxWXcyc2vSAaIBQVVfeXFMTTM2dkZ1TkxrbzFDZGZ5anlwMHhQRzBJU3JIdXdFbWV6MVRvOG11c3dTS2FLVlpTbERaR2dBYkZsSGZ1UlhsOEk5aEY3UVU0SUVVNzhobGRWSzNZZGVmSkFPeFhVeHlLS2dqblNHLXlYVlVrYjM2WUhGVk1BU3MxUmRYZGlSb0tKN3dsN1lRTFg1WnpBYXhsY2FuVEgtSUR3STNn?oc=5",
+      "domain": "news.google.com",
+      "source": "wsav.com",
+      "language": "English",
+      "published_at": "2026-08-27T20:00:39+00:00",
+      "summary": "Georgia Power official discusses local OpenAI partnership wsav.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUIwQmU3UmZpaF9lWnVCbTNqek9yd2Z4Z1lUcFBrMVg3R1ppZVBBZ2J5OHFpWEZKYzB0N05ETjRaQ1BNUVVKbjJuMTJEZ2VjcF95S0hzTnNpeWRqX0JsQUw3ZHdRQ2xFU1hmcDJyakNobjhtaHh3dHRaNkItbnlxZFpvczE5UFhnWjhHdm5uMEdXcmp1SFRxWXcyc2vSAaIBQVVfeXFMTTM2dkZ1TkxrbzFDZGZ5anlwMHhQRzBJU3JIdXdFbWV6MVRvOG11c3dTS2FLVlpTbERaR2dBYkZsSGZ1UlhsOEk5aEY3UVU0SUVVNzhobGRWSzNZZGVmSkFPeFhVeHlLS2dqblNHLXlYVlVrYjM2WUhGVk1BU3MxUmRYZGlSb0tKN3dsN1lRTFg1WnpBYXhsY2FuVEgtSUR3STNn?oc=5\" target=\"_blank\">Georgia Power official discusses local OpenAI partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsav.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-31T18:36:10+00:00"
     },
     {
       "id": "b66eb4de15f2b798",
@@ -355,6 +397,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-28T03:58:12+00:00"
+    },
+    {
+      "id": "3c685f100f41cf9f",
+      "title": "WSAV sits down with Georgia Power spokesperson on OPENAI Contract – Full Interview - wsav.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU3RvbmtLT3VMYlhjLW5EU0NYWXFuNll6WmFDVWtCQXRpenY4QXJtYzdHOFgtVV95UkVsUGFnSGp3SElNZHJpMTdiekdYazhwSHEyYzNkUW9yUWFOMEx6VWdzZzk1ZTNIelpmcXFsellIaDg4NEtqa0hsYWs5Znd0YzlRTFJ2dzhtSFpGQTc1dGlJQUl5ZExrREdvdExsaXdQU0YyWnIwZGZzZGdqVHg5TTdsVUVlQzZi?oc=5",
+      "domain": "news.google.com",
+      "source": "wsav.com",
+      "language": "English",
+      "published_at": "2026-08-27T15:43:00+00:00",
+      "summary": "WSAV sits down with Georgia Power spokesperson on OPENAI Contract – Full Interview wsav.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU3RvbmtLT3VMYlhjLW5EU0NYWXFuNll6WmFDVWtCQXRpenY4QXJtYzdHOFgtVV95UkVsUGFnSGp3SElNZHJpMTdiekdYazhwSHEyYzNkUW9yUWFOMEx6VWdzZzk1ZTNIelpmcXFsellIaDg4NEtqa0hsYWs5Znd0YzlRTFJ2dzhtSFpGQTc1dGlJQUl5ZExrREdvdExsaXdQU0YyWnIwZGZzZGdqVHg5TTdsVUVlQzZi?oc=5\" target=\"_blank\">WSAV sits down with Georgia Power spokesperson on OPENAI Contract – Full Interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsav.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-31T18:36:10+00:00"
     },
     {
       "id": "3751c12cdd39430c",
@@ -607,6 +663,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-27T06:40:17+00:00"
+    },
+    {
+      "id": "c5b0ba5ab17d502b",
+      "title": "State officials approve Georgia Power’s contract for OpenAI center in Effingham County - wsav.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdXZyRlVkZy16YUVneHEwcFpfb2pRRzlvd3dFY1ZhRk1hcDRuMUZsRENzSktKZXZjdm9KSC1fYktpbW44cXp4OUdOOUVpOGhCYi1uNnFyLTFkZm55TjFvRDJ3OW1fbmZJQktPNmFsbjByVVpGUDFhd2dTaUVCZXhRdnVzakJ5OUs2enFibXJiLVc5VnpGRlZ3MlRzX0Y4Vzh4bHQyZk5CNnpIdnkyaVA0Q1NZbnREMXU5OWdfSmZoLXB1X1B4cTNJR1Zrb2FQUjcxQ1HSAdcBQVVfeXFMTTFoMUI5R1VqRkt2amxVTklMV2FmZWFGc1MxSllMazNJY2lxazVIdUtEUUUxSWtCX29hTXdNQTVTUnh4V1h5X3FOMDZCOEc1VW03V04zb3RlR0dSUTJNQkJEVUVxQmlTQTlOR0hlVFlsa0c1eTlxdDBvcTEyWTZjQWdybEs3YVYwVDNXQlJscW9rT1dYR21uRUVNYllYS2NsYmRJUGdaVkUzLTdWNjJvYkxESWFhdGNTVXVvN3g5eVBlZ3MwV0VMN0l5NldENjFuLV9QSEhWLTg?oc=5",
+      "domain": "news.google.com",
+      "source": "wsav.com",
+      "language": "English",
+      "published_at": "2026-08-27T01:20:08+00:00",
+      "summary": "State officials approve Georgia Power’s contract for OpenAI center in Effingham County wsav.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdXZyRlVkZy16YUVneHEwcFpfb2pRRzlvd3dFY1ZhRk1hcDRuMUZsRENzSktKZXZjdm9KSC1fYktpbW44cXp4OUdOOUVpOGhCYi1uNnFyLTFkZm55TjFvRDJ3OW1fbmZJQktPNmFsbjByVVpGUDFhd2dTaUVCZXhRdnVzakJ5OUs2enFibXJiLVc5VnpGRlZ3MlRzX0Y4Vzh4bHQyZk5CNnpIdnkyaVA0Q1NZbnREMXU5OWdfSmZoLXB1X1B4cTNJR1Zrb2FQUjcxQ1HSAdcBQVVfeXFMTTFoMUI5R1VqRkt2amxVTklMV2FmZWFGc1MxSllMazNJY2lxazVIdUtEUUUxSWtCX29hTXdNQTVTUnh4V1h5X3FOMDZCOEc1VW03V04zb3RlR0dSUTJNQkJEVUVxQmlTQTlOR0hlVFlsa0c1eTlxdDBvcTEyWTZjQWdybEs3YVYwVDNXQlJscW9rT1dYR21uRUVNYllYS2NsYmRJUGdaVkUzLTdWNjJvYkxESWFhdGNTVXVvN3g5eVBlZ3MwV0VMN0l5NldENjFuLV9QSEhWLTg?oc=5\" target=\"_blank\">State officials approve Georgia Power’s contract for OpenAI center in Effingham County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsav.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-31T18:36:10+00:00"
     },
     {
       "id": "29bf2a08a6d2a315",
