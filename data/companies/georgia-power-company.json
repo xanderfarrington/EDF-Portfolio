@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-31T02:55:42+00:00",
+  "last_updated": "2026-08-31T10:21:22+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 557,
+  "count": 558,
   "mentions": [
+    {
+      "id": "b1adbbcaec221b74",
+      "title": "Aug. 31 - Georgia Power agrees to new protections against data center costs - Savannah Business Journal",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbHJkTWtXajVWWG9uakdzeGRJSDNNLWFXTkRqOVBmZ2RhUTBZR05QN1FHVFdMWjZPaXdsZ05DOEYzNXQ2UjdNaXQxUERrckR0RUlQWW9UbU16dTZrbUl3NnBhQl9xRm56MEVjb082dUFoS2ExT2R5WGFYTC1zWjJFVjlJN1Vfb3I2R2wydzMtMFdZdU1VM1lFUTVMa3lKMzhYaXlEYldoSFNwcW9zdzVJd0dEX2Zrc3poa0NkX29LM1FnUUc1UFdIdVRydnBGQzNlQ3kwUk9vQ3FnUnhlM3prellnb1hxM1M3ZUxkTDhYeXFwLXNmUEFJamMxZ2VGV3Q2OU9QOE5fa2NHT1R0?oc=5",
+      "domain": "news.google.com",
+      "source": "Savannah Business Journal",
+      "language": "English",
+      "published_at": "2026-08-31T08:30:00+00:00",
+      "summary": "Aug. 31 - Georgia Power agrees to new protections against data center costs Savannah Business Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQbHJkTWtXajVWWG9uakdzeGRJSDNNLWFXTkRqOVBmZ2RhUTBZR05QN1FHVFdMWjZPaXdsZ05DOEYzNXQ2UjdNaXQxUERrckR0RUlQWW9UbU16dTZrbUl3NnBhQl9xRm56MEVjb082dUFoS2ExT2R5WGFYTC1zWjJFVjlJN1Vfb3I2R2wydzMtMFdZdU1VM1lFUTVMa3lKMzhYaXlEYldoSFNwcW9zdzVJd0dEX2Zrc3poa0NkX29LM1FnUUc1UFdIdVRydnBGQzNlQ3kwUk9vQ3FnUnhlM3prellnb1hxM1M3ZUxkTDhYeXFwLXNmUEFJamMxZ2VGV3Q2OU9QOE5fa2NHT1R0?oc=5\" target=\"_blank\">Aug. 31 - Georgia Power agrees to new protections against data center costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Business Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-08-31T10:21:22+00:00"
+    },
     {
       "id": "141e6c7c96c5393e",
       "title": "‘Strictest contract in data center history’ reached between Georgia Power and OpenAI - WTOC",
