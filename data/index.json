@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T19:08:33+00:00",
+  "last_updated": "2026-09-01T22:18:05+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 278,
-      "new_mentions_this_run": 23,
+      "count": 279,
+      "new_mentions_this_run": 19,
       "latest_mention": {
-        "id": "381a79fc5d25b3a3",
-        "title": "Alabama Power Foundation Announces Albertville High School student Fabiana Sebastian as Scholarship Recipient in Inaugural Community Scholars Program - sandmountainreporter.com",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGw4aUYwOVpSUEQ3aW16SWxMVHNNU2VhdzdqM1loZVdyczlvU2oxbUtBNm5lbXR4ZDNIN1FWQTByOGhyWTRvTEVJb0llalFPam1tbmR6YTREcXZhbkNOX1VPeEdGNjZyWS16YTl2M09MMHFuOVpCV250Y0w0ZGVvQUlnbklqX3M5UGNURTQtczFGbFRWWEE?oc=5",
+        "id": "74db10b0b34768ed",
+        "title": "Gilliland, Taylor awarded inaugural Alabama Power scholarshi... - The Clanton Advertiser",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON21RSzdBQXV0a1plT0NvbENOa1VUb1RYRldZSDJBQXV3b0FOMEZYaGdmUjBfMXNUZ1AzUEM1UndTdXhNWnh0Q3JuQU9WTGJRTTNPSlNBSGhiQWJtelRLSVhDT2NSQTdEZ1JsVmJoMTZ6cDlwNjQ5NWFPa2V0M3pFZzNCeWkzTUNTNk1Ed3FIOXl5SDBFWERac18xc2w0cHh5YmJOYUFxM0hQeTRNb1g0UjJB?oc=5",
         "domain": "news.google.com",
-        "source": "sandmountainreporter.com",
+        "source": "The Clanton Advertiser",
         "language": "English",
-        "published_at": "2026-09-01T16:00:00+00:00",
-        "summary": "Alabama Power Foundation Announces Albertville High School student Fabiana Sebastian as Scholarship Recipient in Inaugural Community Scholars Program sandmountainreporter.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGw4aUYwOVpSUEQ3aW16SWxMVHNNU2VhdzdqM1loZVdyczlvU2oxbUtBNm5lbXR4ZDNIN1FWQTByOGhyWTRvTEVJb0llalFPam1tbmR6YTREcXZhbkNOX1VPeEdGNjZyWS16YTl2M09MMHFuOVpCV250Y0w0ZGVvQUlnbklqX3M5UGNURTQtczFGbFRWWEE?oc=5\" target=\"_blank\">Alabama Power Foundation Announces Albertville High School student Fabiana Sebastian as Scholarship Recipient in Inaugural Community Scholars Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sandmountainreporter.com</font>",
+        "published_at": "2026-09-01T19:58:33+00:00",
+        "summary": "Gilliland, Taylor awarded inaugural Alabama Power scholarshi... The Clanton Advertiser",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxON21RSzdBQXV0a1plT0NvbENOa1VUb1RYRldZSDJBQXV3b0FOMEZYaGdmUjBfMXNUZ1AzUEM1UndTdXhNWnh0Q3JuQU9WTGJRTTNPSlNBSGhiQWJtelRLSVhDT2NSQTdEZ1JsVmJoMTZ6cDlwNjQ5NWFPa2V0M3pFZzNCeWkzTUNTNk1Ed3FIOXl5SDBFWERac18xc2w0cHh5YmJOYUFxM0hQeTRNb1g0UjJB?oc=5\" target=\"_blank\">Gilliland, Taylor awarded inaugural Alabama Power scholarshi...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Clanton Advertiser</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-01T19:08:06+00:00"
+        "collected_at": "2026-09-01T22:17:38+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 30,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "addfbf3308caf432",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 572,
+      "count": 574,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "63df62fd1867b2ad",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 48,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "c5209af21567dd5c",
         "title": "Policy Deep Dive: How to Reform the Office of Energy Dominance Financing - Third Way",

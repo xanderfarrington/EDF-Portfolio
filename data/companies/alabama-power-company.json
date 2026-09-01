@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-01T19:08:06+00:00",
+  "last_updated": "2026-09-01T22:17:38+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 278,
+  "count": 279,
   "mentions": [
+    {
+      "id": "74db10b0b34768ed",
+      "title": "Gilliland, Taylor awarded inaugural Alabama Power scholarshi... - The Clanton Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON21RSzdBQXV0a1plT0NvbENOa1VUb1RYRldZSDJBQXV3b0FOMEZYaGdmUjBfMXNUZ1AzUEM1UndTdXhNWnh0Q3JuQU9WTGJRTTNPSlNBSGhiQWJtelRLSVhDT2NSQTdEZ1JsVmJoMTZ6cDlwNjQ5NWFPa2V0M3pFZzNCeWkzTUNTNk1Ed3FIOXl5SDBFWERac18xc2w0cHh5YmJOYUFxM0hQeTRNb1g0UjJB?oc=5",
+      "domain": "news.google.com",
+      "source": "The Clanton Advertiser",
+      "language": "English",
+      "published_at": "2026-09-01T19:58:33+00:00",
+      "summary": "Gilliland, Taylor awarded inaugural Alabama Power scholarshi... The Clanton Advertiser",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxON21RSzdBQXV0a1plT0NvbENOa1VUb1RYRldZSDJBQXV3b0FOMEZYaGdmUjBfMXNUZ1AzUEM1UndTdXhNWnh0Q3JuQU9WTGJRTTNPSlNBSGhiQWJtelRLSVhDT2NSQTdEZ1JsVmJoMTZ6cDlwNjQ5NWFPa2V0M3pFZzNCeWkzTUNTNk1Ed3FIOXl5SDBFWERac18xc2w0cHh5YmJOYUFxM0hQeTRNb1g0UjJB?oc=5\" target=\"_blank\">Gilliland, Taylor awarded inaugural Alabama Power scholarshi...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Clanton Advertiser</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-01T22:17:38+00:00"
+    },
     {
       "id": "381a79fc5d25b3a3",
       "title": "Alabama Power Foundation Announces Albertville High School student Fabiana Sebastian as Scholarship Recipient in Inaugural Community Scholars Program - sandmountainreporter.com",

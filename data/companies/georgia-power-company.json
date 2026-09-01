@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-01T19:08:22+00:00",
+  "last_updated": "2026-09-01T22:17:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 572,
+  "count": 574,
   "mentions": [
     {
       "id": "63df62fd1867b2ad",
@@ -103,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-31T18:36:10+00:00"
+    },
+    {
+      "id": "b9f33196cd85556d",
+      "title": "Georgia Power drops more details about OpenAI contract. PSC meeting heats up - ledger-enquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFNFVEwxU0JHMXgwRTZQTmRtSlAteDVoNnRWTkduaDBLRzZmZ1prc2k0ZDVkZXd2SWNGMmQtb0VKQlQzTkpKVXM1aXRueEpjSVlzeTdBUVpVbk1CRkdINDlJQkVnWWh2dEhyQkZBWU55cFVEM1VRZV9zYVdFRmdjZ3VTYjLSAYQBQVVfeXFMTk9NdkRZX3E0VFN3bk42aTdDTlFpd1pHQXBEUU1QQ3ZscWlrMlFlNTJpZk9xRTNPem1GYi1wU3BYX0RCOWVoWnF0ZnMzYlBfYjQ4Mjd3cHNKQkVYcWFiVUpaU2lld3pRYWIxQnVkdXFWTkV0Z1k5UVJJanZxNm0wMUtraVQw?oc=5",
+      "domain": "news.google.com",
+      "source": "ledger-enquirer.com",
+      "language": "English",
+      "published_at": "2026-08-31T09:00:00+00:00",
+      "summary": "Georgia Power drops more details about OpenAI contract. PSC meeting heats up ledger-enquirer.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFNFVEwxU0JHMXgwRTZQTmRtSlAteDVoNnRWTkduaDBLRzZmZ1prc2k0ZDVkZXd2SWNGMmQtb0VKQlQzTkpKVXM1aXRueEpjSVlzeTdBUVpVbk1CRkdINDlJQkVnWWh2dEhyQkZBWU55cFVEM1VRZV9zYVdFRmdjZ3VTYjLSAYQBQVVfeXFMTk9NdkRZX3E0VFN3bk42aTdDTlFpd1pHQXBEUU1QQ3ZscWlrMlFlNTJpZk9xRTNPem1GYi1wU3BYX0RCOWVoWnF0ZnMzYlBfYjQ4Mjd3cHNKQkVYcWFiVUpaU2lld3pRYWIxQnVkdXFWTkV0Z1k5UVJJanZxNm0wMUtraVQw?oc=5\" target=\"_blank\">Georgia Power drops more details about OpenAI contract. PSC meeting heats up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ledger-enquirer.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-01T22:17:54+00:00"
     },
     {
       "id": "b1adbbcaec221b74",
@@ -747,6 +761,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-27T06:40:17+00:00"
+    },
+    {
+      "id": "8652768aeae3b8f8",
+      "title": "Georgia Power Wins Approval for 3.2-GW OpenAI Power Deal - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQjNqWDVRSm0xQ0Y0OWl2aERMaW40TXRUWGk3bzFHTmQ3cFdDTnVxTHdhVEtHZjZMWnE2T1A4d2VmbU1RZ1QwbS1sTVgtOHMxUjhrdFI2MWpRMnJSV3EzdnFicVhOSnZFODZZNWJ2WGJqSGVHNzNDUVUtTGZ6aFVmRHdIUkh1dkpaSmlwbDdwNA?oc=5",
+      "domain": "news.google.com",
+      "source": "finance.yahoo.com",
+      "language": "English",
+      "published_at": "2026-08-27T01:40:00+00:00",
+      "summary": "Georgia Power Wins Approval for 3.2-GW OpenAI Power Deal finance.yahoo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQjNqWDVRSm0xQ0Y0OWl2aERMaW40TXRUWGk3bzFHTmQ3cFdDTnVxTHdhVEtHZjZMWnE2T1A4d2VmbU1RZ1QwbS1sTVgtOHMxUjhrdFI2MWpRMnJSV3EzdnFicVhOSnZFODZZNWJ2WGJqSGVHNzNDUVUtTGZ6aFVmRHdIUkh1dkpaSmlwbDdwNA?oc=5\" target=\"_blank\">Georgia Power Wins Approval for 3.2-GW OpenAI Power Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-01T22:17:54+00:00"
     },
     {
       "id": "1c7bfbd15a21ae39",
