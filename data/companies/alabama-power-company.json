@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-01T03:03:10+00:00",
+  "last_updated": "2026-09-01T09:04:26+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 276,
+  "count": 277,
   "mentions": [
     {
       "id": "941d7cffa4ccb1be",
@@ -103,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-29T14:53:17+00:00"
+    },
+    {
+      "id": "79a36b9639dd257b",
+      "title": "Burgess receives Alabama Power scholarship - andalusiastarnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVlYbFhGdUp5Tkd4aDE1T0pjbVd2cVlWZ2RiRnpua2lfRVhPNFRGR1JpNVQzWmVJRmY3MkdGMTJURl92Rm1wZEY1UmJrbnVnWk5XS3V6YWlFOExhRjhtZW5meXc0VV8ybzB5YkpCajRHV2VhTGZvOFRBQ2JVTnBoWUJOU21jVU56cVBFVzJyRW9wRXlf?oc=5",
+      "domain": "news.google.com",
+      "source": "andalusiastarnews.com",
+      "language": "English",
+      "published_at": "2026-08-28T20:33:39+00:00",
+      "summary": "Burgess receives Alabama Power scholarship andalusiastarnews.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVlYbFhGdUp5Tkd4aDE1T0pjbVd2cVlWZ2RiRnpua2lfRVhPNFRGR1JpNVQzWmVJRmY3MkdGMTJURl92Rm1wZEY1UmJrbnVnWk5XS3V6YWlFOExhRjhtZW5meXc0VV8ybzB5YkpCajRHV2VhTGZvOFRBQ2JVTnBoWUJOU21jVU56cVBFVzJyRW9wRXlf?oc=5\" target=\"_blank\">Burgess receives Alabama Power scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">andalusiastarnews.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-01T09:04:26+00:00"
     },
     {
       "id": "93ea99c7513d4dff",
