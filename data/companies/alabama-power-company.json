@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-01T14:27:10+00:00",
+  "last_updated": "2026-09-01T19:08:06+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 277,
+  "count": 278,
   "mentions": [
+    {
+      "id": "381a79fc5d25b3a3",
+      "title": "Alabama Power Foundation Announces Albertville High School student Fabiana Sebastian as Scholarship Recipient in Inaugural Community Scholars Program - sandmountainreporter.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGw4aUYwOVpSUEQ3aW16SWxMVHNNU2VhdzdqM1loZVdyczlvU2oxbUtBNm5lbXR4ZDNIN1FWQTByOGhyWTRvTEVJb0llalFPam1tbmR6YTREcXZhbkNOX1VPeEdGNjZyWS16YTl2M09MMHFuOVpCV250Y0w0ZGVvQUlnbklqX3M5UGNURTQtczFGbFRWWEE?oc=5",
+      "domain": "news.google.com",
+      "source": "sandmountainreporter.com",
+      "language": "English",
+      "published_at": "2026-09-01T16:00:00+00:00",
+      "summary": "Alabama Power Foundation Announces Albertville High School student Fabiana Sebastian as Scholarship Recipient in Inaugural Community Scholars Program sandmountainreporter.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGw4aUYwOVpSUEQ3aW16SWxMVHNNU2VhdzdqM1loZVdyczlvU2oxbUtBNm5lbXR4ZDNIN1FWQTByOGhyWTRvTEVJb0llalFPam1tbmR6YTREcXZhbkNOX1VPeEdGNjZyWS16YTl2M09MMHFuOVpCV250Y0w0ZGVvQUlnbklqX3M5UGNURTQtczFGbFRWWEE?oc=5\" target=\"_blank\">Alabama Power Foundation Announces Albertville High School student Fabiana Sebastian as Scholarship Recipient in Inaugural Community Scholars Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sandmountainreporter.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-01T19:08:06+00:00"
+    },
     {
       "id": "941d7cffa4ccb1be",
       "title": "\"This is my home\": Shelby County man fights Alabama Power over transmission line route - WBMA",

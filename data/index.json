@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T14:27:37+00:00",
+  "last_updated": "2026-09-01T19:08:33+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 277,
-      "new_mentions_this_run": 19,
+      "count": 278,
+      "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "941d7cffa4ccb1be",
-        "title": "\"This is my home\": Shelby County man fights Alabama Power over transmission line route - WBMA",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNmMwNUJjM3Q4Rk5ZR3hNQk9lM2hZazJyV05iNl9yMTRJMmI1bkRjaWJTSElFV0JGc0J0LWs1VGFfSERIenhZYXpwVnZCU1I0ZlRMVVlLOW1FZjg3N1kxSzhjcS1iZjZNWTlFeTNGbFptR0NqRWc2bmdrS1FycFJ5eFVmWDRjN0JocTdlandHYnVkV0JBamI4UV96a2pHeUM0ZjN4UHZLcnBCdFZ3MTJKOFVHRl92elp1YUdxOFMtT0RtelRWQnRqZXozMDNkM2VUWEJGMmhBS1g4bDBSNFh2Wg?oc=5",
+        "id": "381a79fc5d25b3a3",
+        "title": "Alabama Power Foundation Announces Albertville High School student Fabiana Sebastian as Scholarship Recipient in Inaugural Community Scholars Program - sandmountainreporter.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGw4aUYwOVpSUEQ3aW16SWxMVHNNU2VhdzdqM1loZVdyczlvU2oxbUtBNm5lbXR4ZDNIN1FWQTByOGhyWTRvTEVJb0llalFPam1tbmR6YTREcXZhbkNOX1VPeEdGNjZyWS16YTl2M09MMHFuOVpCV250Y0w0ZGVvQUlnbklqX3M5UGNURTQtczFGbFRWWEE?oc=5",
         "domain": "news.google.com",
-        "source": "WBMA",
+        "source": "sandmountainreporter.com",
         "language": "English",
-        "published_at": "2026-08-31T22:52:06+00:00",
-        "summary": "\"This is my home\": Shelby County man fights Alabama Power over transmission line route WBMA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNmMwNUJjM3Q4Rk5ZR3hNQk9lM2hZazJyV05iNl9yMTRJMmI1bkRjaWJTSElFV0JGc0J0LWs1VGFfSERIenhZYXpwVnZCU1I0ZlRMVVlLOW1FZjg3N1kxSzhjcS1iZjZNWTlFeTNGbFptR0NqRWc2bmdrS1FycFJ5eFVmWDRjN0JocTdlandHYnVkV0JBamI4UV96a2pHeUM0ZjN4UHZLcnBCdFZ3MTJKOFVHRl92elp1YUdxOFMtT0RtelRWQnRqZXozMDNkM2VUWEJGMmhBS1g4bDBSNFh2Wg?oc=5\" target=\"_blank\">\"This is my home\": Shelby County man fights Alabama Power over transmission line route</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+        "published_at": "2026-09-01T16:00:00+00:00",
+        "summary": "Alabama Power Foundation Announces Albertville High School student Fabiana Sebastian as Scholarship Recipient in Inaugural Community Scholars Program sandmountainreporter.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGw4aUYwOVpSUEQ3aW16SWxMVHNNU2VhdzdqM1loZVdyczlvU2oxbUtBNm5lbXR4ZDNIN1FWQTByOGhyWTRvTEVJb0llalFPam1tbmR6YTREcXZhbkNOX1VPeEdGNjZyWS16YTl2M09MMHFuOVpCV250Y0w0ZGVvQUlnbklqX3M5UGNURTQtczFGbFRWWEE?oc=5\" target=\"_blank\">Alabama Power Foundation Announces Albertville High School student Fabiana Sebastian as Scholarship Recipient in Inaugural Community Scholars Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sandmountainreporter.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-31T23:33:07+00:00"
+        "collected_at": "2026-09-01T19:08:06+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 98,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 48,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "c5209af21567dd5c",
         "title": "Policy Deep Dive: How to Reform the Office of Energy Dominance Financing - Third Way",
