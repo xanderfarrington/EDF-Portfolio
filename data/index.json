@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T09:04:53+00:00",
+  "last_updated": "2026-09-01T14:27:37+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 277,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 19,
       "latest_mention": {
         "id": "941d7cffa4ccb1be",
         "title": "\"This is my home\": Shelby County man fights Alabama Power over transmission line route - WBMA",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 569,
+      "count": 572,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "2caed73ff4bcfc6d",
-        "title": "Georgia Power talks about your bill, responding to outages, and playing it safe - WJBF",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORGNkeTQ3b21Db2JLNTRpX3M3VS1WM01OcFoyd05sUEc5WWtRMVFjaWJObVJCcXdJTGJhc2pkS1QyUzF3cWJMZV9JVjFibWZxX3ZMS0MtQ1BNTkhrcXZKSG90NlFHaHoxRGQ1NFM1SXdocFc1YS1GZ3JXY3BONGtybU9BOWhSV3o4Q3ByVTB4M2k3V3RqU3ljSi1JU2R3Wkp6eUVZYmxvMNIBrAFBVV95cUxPd3JDUFdDSGJLODZobW1TM1BKVXhHNmhmMkl1aW56M2lFRGdUd01kX1dyZ2FIUG9PT1ZjVHJFWXNlRGlzZ1k2V2VKbzVFbEdsVEFLa3NEVUZQNGlpZzVpbFF4bnlManhsTUoxVWtEVnFzR0tQcG1obEVRdURWRmFyaTJJNmV5TGh2MDZlbjg3eG5PYy1Zb0Q2azJjVjFuNTdkZXVWdjZGV0JvRHJI?oc=5",
+        "id": "63df62fd1867b2ad",
+        "title": "Georgia Power gives $100,000 to Camp Tanglewood campaign - The Augusta Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeHByNEdPNWJFSTNhbklyX1lmckFhdDVQbFBXb05DVEhvNjNrMkwzcnFuZFhFamxwUXJDVXZPVk9USmFDRExlcGhwZkNFNXl3cEpJeEc3U3lyOE9YMkpMX0tEdDBZbFRtRkJsYUhESzZtWmxQRDRkTGNGWHJhM0o3Y1hZOEwyRkZGbWJKRDBFdGZKOXpyRG85aXE5b0JETXIzbHJwZGNoX0lxeUtJWldfMWZiMFZDUWpTQVlMTC1aNVV2TDM4TlY1REdIVQ?oc=5",
         "domain": "news.google.com",
-        "source": "WJBF",
+        "source": "The Augusta Chronicle",
         "language": "English",
-        "published_at": "2026-09-01T02:24:38+00:00",
-        "summary": "Georgia Power talks about your bill, responding to outages, and playing it safe WJBF",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORGNkeTQ3b21Db2JLNTRpX3M3VS1WM01OcFoyd05sUEc5WWtRMVFjaWJObVJCcXdJTGJhc2pkS1QyUzF3cWJMZV9JVjFibWZxX3ZMS0MtQ1BNTkhrcXZKSG90NlFHaHoxRGQ1NFM1SXdocFc1YS1GZ3JXY3BONGtybU9BOWhSV3o4Q3ByVTB4M2k3V3RqU3ljSi1JU2R3Wkp6eUVZYmxvMNIBrAFBVV95cUxPd3JDUFdDSGJLODZobW1TM1BKVXhHNmhmMkl1aW56M2lFRGdUd01kX1dyZ2FIUG9PT1ZjVHJFWXNlRGlzZ1k2V2VKbzVFbEdsVEFLa3NEVUZQNGlpZzVpbFF4bnlManhsTUoxVWtEVnFzR0tQcG1obEVRdURWRmFyaTJJNmV5TGh2MDZlbjg3eG5PYy1Zb0Q2azJjVjFuNTdkZXVWdjZGV0JvRHJI?oc=5\" target=\"_blank\">Georgia Power talks about your bill, responding to outages, and playing it safe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJBF</font>",
+        "published_at": "2026-09-01T08:02:00+00:00",
+        "summary": "Georgia Power gives $100,000 to Camp Tanglewood campaign The Augusta Chronicle",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPeHByNEdPNWJFSTNhbklyX1lmckFhdDVQbFBXb05DVEhvNjNrMkwzcnFuZFhFamxwUXJDVXZPVk9USmFDRExlcGhwZkNFNXl3cEpJeEc3U3lyOE9YMkpMX0tEdDBZbFRtRkJsYUhESzZtWmxQRDRkTGNGWHJhM0o3Y1hZOEwyRkZGbWJKRDBFdGZKOXpyRG85aXE5b0JETXIzbHJwZGNoX0lxeUtJWldfMWZiMFZDUWpTQVlMTC1aNVV2TDM4TlY1REdIVQ?oc=5\" target=\"_blank\">Georgia Power gives $100,000 to Camp Tanglewood campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-01T03:03:26+00:00"
+        "collected_at": "2026-09-01T14:27:26+00:00"
       }
     },
     {
