@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-31T23:33:34+00:00",
+  "last_updated": "2026-09-01T03:03:37+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 81,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 273,
+      "count": 276,
       "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "941d7cffa4ccb1be",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 564,
+      "count": 568,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "3701a118402aff3a",
-        "title": "Georgia Power drops more details about OpenAI contract. PSC meeting heats up - Columbus Ledger-Enquirer",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFNFVEwxU0JHMXgwRTZQTmRtSlAteDVoNnRWTkduaDBLRzZmZ1prc2k0ZDVkZXd2SWNGMmQtb0VKQlQzTkpKVXM1aXRueEpjSVlzeTdBUVpVbk1CRkdINDlJQkVnWWh2dEhyQkZBWU55cFVEM1VRZV9zYVdFRmdjZ3VTYjLSAYQBQVVfeXFMTk9NdkRZX3E0VFN3bk42aTdDTlFpd1pHQXBEUU1QQ3ZscWlrMlFlNTJpZk9xRTNPem1GYi1wU3BYX0RCOWVoWnF0ZnMzYlBfYjQ4Mjd3cHNKQkVYcWFiVUpaU2lld3pRYWIxQnVkdXFWTkV0Z1k5UVJJanZxNm0wMUtraVQw?oc=5",
+        "id": "2caed73ff4bcfc6d",
+        "title": "Georgia Power talks about your bill, responding to outages, and playing it safe - WJBF",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORGNkeTQ3b21Db2JLNTRpX3M3VS1WM01OcFoyd05sUEc5WWtRMVFjaWJObVJCcXdJTGJhc2pkS1QyUzF3cWJMZV9JVjFibWZxX3ZMS0MtQ1BNTkhrcXZKSG90NlFHaHoxRGQ1NFM1SXdocFc1YS1GZ3JXY3BONGtybU9BOWhSV3o4Q3ByVTB4M2k3V3RqU3ljSi1JU2R3Wkp6eUVZYmxvMNIBrAFBVV95cUxPd3JDUFdDSGJLODZobW1TM1BKVXhHNmhmMkl1aW56M2lFRGdUd01kX1dyZ2FIUG9PT1ZjVHJFWXNlRGlzZ1k2V2VKbzVFbEdsVEFLa3NEVUZQNGlpZzVpbFF4bnlManhsTUoxVWtEVnFzR0tQcG1obEVRdURWRmFyaTJJNmV5TGh2MDZlbjg3eG5PYy1Zb0Q2azJjVjFuNTdkZXVWdjZGV0JvRHJI?oc=5",
         "domain": "news.google.com",
-        "source": "Columbus Ledger-Enquirer",
+        "source": "WJBF",
         "language": "English",
-        "published_at": "2026-08-31T09:00:00+00:00",
-        "summary": "Georgia Power drops more details about OpenAI contract. PSC meeting heats up Columbus Ledger-Enquirer",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFNFVEwxU0JHMXgwRTZQTmRtSlAteDVoNnRWTkduaDBLRzZmZ1prc2k0ZDVkZXd2SWNGMmQtb0VKQlQzTkpKVXM1aXRueEpjSVlzeTdBUVpVbk1CRkdINDlJQkVnWWh2dEhyQkZBWU55cFVEM1VRZV9zYVdFRmdjZ3VTYjLSAYQBQVVfeXFMTk9NdkRZX3E0VFN3bk42aTdDTlFpd1pHQXBEUU1QQ3ZscWlrMlFlNTJpZk9xRTNPem1GYi1wU3BYX0RCOWVoWnF0ZnMzYlBfYjQ4Mjd3cHNKQkVYcWFiVUpaU2lld3pRYWIxQnVkdXFWTkV0Z1k5UVJJanZxNm0wMUtraVQw?oc=5\" target=\"_blank\">Georgia Power drops more details about OpenAI contract. PSC meeting heats up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbus Ledger-Enquirer</font>",
+        "published_at": "2026-09-01T02:24:38+00:00",
+        "summary": "Georgia Power talks about your bill, responding to outages, and playing it safe WJBF",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORGNkeTQ3b21Db2JLNTRpX3M3VS1WM01OcFoyd05sUEc5WWtRMVFjaWJObVJCcXdJTGJhc2pkS1QyUzF3cWJMZV9JVjFibWZxX3ZMS0MtQ1BNTkhrcXZKSG90NlFHaHoxRGQ1NFM1SXdocFc1YS1GZ3JXY3BONGtybU9BOWhSV3o4Q3ByVTB4M2k3V3RqU3ljSi1JU2R3Wkp6eUVZYmxvMNIBrAFBVV95cUxPd3JDUFdDSGJLODZobW1TM1BKVXhHNmhmMkl1aW56M2lFRGdUd01kX1dyZ2FIUG9PT1ZjVHJFWXNlRGlzZ1k2V2VKbzVFbEdsVEFLa3NEVUZQNGlpZzVpbFF4bnlManhsTUoxVWtEVnFzR0tQcG1obEVRdURWRmFyaTJJNmV5TGh2MDZlbjg3eG5PYy1Zb0Q2azJjVjFuNTdkZXVWdjZGV0JvRHJI?oc=5\" target=\"_blank\">Georgia Power talks about your bill, responding to outages, and playing it safe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJBF</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-31T18:36:10+00:00"
+        "collected_at": "2026-09-01T03:03:26+00:00"
       }
     },
     {

@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-08-31T23:33:07+00:00",
+  "last_updated": "2026-09-01T03:03:10+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 273,
+  "count": 276,
   "mentions": [
     {
       "id": "941d7cffa4ccb1be",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-31T23:33:07+00:00"
+    },
+    {
+      "id": "48fd2918a43072c9",
+      "title": "'This is my home': Shelby County man fights Alabama Power over transmission line route - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNmMwNUJjM3Q4Rk5ZR3hNQk9lM2hZazJyV05iNl9yMTRJMmI1bkRjaWJTSElFV0JGc0J0LWs1VGFfSERIenhZYXpwVnZCU1I0ZlRMVVlLOW1FZjg3N1kxSzhjcS1iZjZNWTlFeTNGbFptR0NqRWc2bmdrS1FycFJ5eFVmWDRjN0JocTdlandHYnVkV0JBamI4UV96a2pHeUM0ZjN4UHZLcnBCdFZ3MTJKOFVHRl92elp1YUdxOFMtT0RtelRWQnRqZXozMDNkM2VUWEJGMmhBS1g4bDBSNFh2Wg?oc=5",
+      "domain": "news.google.com",
+      "source": "WBMA",
+      "language": "English",
+      "published_at": "2026-08-31T22:52:06+00:00",
+      "summary": "'This is my home': Shelby County man fights Alabama Power over transmission line route WBMA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNmMwNUJjM3Q4Rk5ZR3hNQk9lM2hZazJyV05iNl9yMTRJMmI1bkRjaWJTSElFV0JGc0J0LWs1VGFfSERIenhZYXpwVnZCU1I0ZlRMVVlLOW1FZjg3N1kxSzhjcS1iZjZNWTlFeTNGbFptR0NqRWc2bmdrS1FycFJ5eFVmWDRjN0JocTdlandHYnVkV0JBamI4UV96a2pHeUM0ZjN4UHZLcnBCdFZ3MTJKOFVHRl92elp1YUdxOFMtT0RtelRWQnRqZXozMDNkM2VUWEJGMmhBS1g4bDBSNFh2Wg?oc=5\" target=\"_blank\">'This is my home': Shelby County man fights Alabama Power over transmission line route</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-01T03:03:10+00:00"
     },
     {
       "id": "cafa3d7ee71ce9ef",
@@ -61,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-29T00:23:39+00:00"
+    },
+    {
+      "id": "c2d690d66c062d86",
+      "title": "Alabama Power promises data center protections, but its proposed rate structure redacts them - energyandpolicy.org",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PcFdUeDg3TmlLVmhiWjItMGVyUjlaTG9lQ0R2NHpacjUwczh0YnQ3eC1OTDRMaGNuMXkzZF9DdVZEVndYRWZTMEpEa1oteU9hdzNfRm5Kc2xhaEJTTHJhWTEyTDljQ0F2UEo0QTVoQ2xJNGNpbmhmZUM3Tkp4QQ?oc=5",
+      "domain": "news.google.com",
+      "source": "energyandpolicy.org",
+      "language": "English",
+      "published_at": "2026-08-28T21:31:34+00:00",
+      "summary": "Alabama Power promises data center protections, but its proposed rate structure redacts them energyandpolicy.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1PcFdUeDg3TmlLVmhiWjItMGVyUjlaTG9lQ0R2NHpacjUwczh0YnQ3eC1OTDRMaGNuMXkzZF9DdVZEVndYRWZTMEpEa1oteU9hdzNfRm5Kc2xhaEJTTHJhWTEyTDljQ0F2UEo0QTVoQ2xJNGNpbmhmZUM3Tkp4QQ?oc=5\" target=\"_blank\">Alabama Power promises data center protections, but its proposed rate structure redacts them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energyandpolicy.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-01T03:03:10+00:00"
     },
     {
       "id": "3183b92b27371ef3",
@@ -159,6 +187,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-26T19:41:26+00:00"
+    },
+    {
+      "id": "9b56432a58dac5f5",
+      "title": "Alabama Power Foundation awards scholarships for 2 Black Belt students - blackbeltnewsnetwork.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObnZwMWdRaVlKUEhyOTFreEllTWRrVnplclBwQmhNSDg1VmFjNVBNSWxOVnhfZVRBSXR6UjhDMmVSVXpkckZPZWwzdlNLWEZrQXpFN19OckYySUdOMF96SVFnYWJaeC1HbmptcUlHelpaYjFvWm5ZbWFubDBpSVZQMTBCaEdQb01uWkFDa3FHd2U3cGR1Y0V2U3U2VTFDeVBsVHZnY0FINHdNRlJtZ21sZnRPeHlxejhhMjhUM0JiOXhtVTUyczJHV2xyUElzekU4cHdZZjVOaXc1ZVBwZmtSVm51MW1UNFQ5dkRUdEd3dG92WmM5?oc=5",
+      "domain": "news.google.com",
+      "source": "blackbeltnewsnetwork.com",
+      "language": "English",
+      "published_at": "2026-08-26T19:01:00+00:00",
+      "summary": "Alabama Power Foundation awards scholarships for 2 Black Belt students blackbeltnewsnetwork.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxObnZwMWdRaVlKUEhyOTFreEllTWRrVnplclBwQmhNSDg1VmFjNVBNSWxOVnhfZVRBSXR6UjhDMmVSVXpkckZPZWwzdlNLWEZrQXpFN19OckYySUdOMF96SVFnYWJaeC1HbmptcUlHelpaYjFvWm5ZbWFubDBpSVZQMTBCaEdQb01uWkFDa3FHd2U3cGR1Y0V2U3U2VTFDeVBsVHZnY0FINHdNRlJtZ21sZnRPeHlxejhhMjhUM0JiOXhtVTUyczJHV2xyUElzekU4cHdZZjVOaXc1ZVBwZmtSVm51MW1UNFQ5dkRUdEd3dG92WmM5?oc=5\" target=\"_blank\">Alabama Power Foundation awards scholarships for 2 Black Belt students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blackbeltnewsnetwork.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-01T03:03:10+00:00"
     },
     {
       "id": "833518ec56c7b9f9",

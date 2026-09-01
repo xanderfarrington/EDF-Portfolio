@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-08-31T23:33:24+00:00",
+  "last_updated": "2026-09-01T03:03:26+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 564,
+  "count": 568,
   "mentions": [
+    {
+      "id": "2caed73ff4bcfc6d",
+      "title": "Georgia Power talks about your bill, responding to outages, and playing it safe - WJBF",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORGNkeTQ3b21Db2JLNTRpX3M3VS1WM01OcFoyd05sUEc5WWtRMVFjaWJObVJCcXdJTGJhc2pkS1QyUzF3cWJMZV9JVjFibWZxX3ZMS0MtQ1BNTkhrcXZKSG90NlFHaHoxRGQ1NFM1SXdocFc1YS1GZ3JXY3BONGtybU9BOWhSV3o4Q3ByVTB4M2k3V3RqU3ljSi1JU2R3Wkp6eUVZYmxvMNIBrAFBVV95cUxPd3JDUFdDSGJLODZobW1TM1BKVXhHNmhmMkl1aW56M2lFRGdUd01kX1dyZ2FIUG9PT1ZjVHJFWXNlRGlzZ1k2V2VKbzVFbEdsVEFLa3NEVUZQNGlpZzVpbFF4bnlManhsTUoxVWtEVnFzR0tQcG1obEVRdURWRmFyaTJJNmV5TGh2MDZlbjg3eG5PYy1Zb0Q2azJjVjFuNTdkZXVWdjZGV0JvRHJI?oc=5",
+      "domain": "news.google.com",
+      "source": "WJBF",
+      "language": "English",
+      "published_at": "2026-09-01T02:24:38+00:00",
+      "summary": "Georgia Power talks about your bill, responding to outages, and playing it safe WJBF",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORGNkeTQ3b21Db2JLNTRpX3M3VS1WM01OcFoyd05sUEc5WWtRMVFjaWJObVJCcXdJTGJhc2pkS1QyUzF3cWJMZV9JVjFibWZxX3ZMS0MtQ1BNTkhrcXZKSG90NlFHaHoxRGQ1NFM1SXdocFc1YS1GZ3JXY3BONGtybU9BOWhSV3o4Q3ByVTB4M2k3V3RqU3ljSi1JU2R3Wkp6eUVZYmxvMNIBrAFBVV95cUxPd3JDUFdDSGJLODZobW1TM1BKVXhHNmhmMkl1aW56M2lFRGdUd01kX1dyZ2FIUG9PT1ZjVHJFWXNlRGlzZ1k2V2VKbzVFbEdsVEFLa3NEVUZQNGlpZzVpbFF4bnlManhsTUoxVWtEVnFzR0tQcG1obEVRdURWRmFyaTJJNmV5TGh2MDZlbjg3eG5PYy1Zb0Q2azJjVjFuNTdkZXVWdjZGV0JvRHJI?oc=5\" target=\"_blank\">Georgia Power talks about your bill, responding to outages, and playing it safe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJBF</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-01T03:03:26+00:00"
+    },
+    {
+      "id": "04c53257bc013491",
+      "title": "Georgia Power talks about your bill, responding to outages, and playing it safe - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS3Q4ZFozeUt6WEJvNzE3ck55Nm9oTEpoYkVEcjJ6Y1IyMk5lVDNFZERGcFc2U2RMcXVrdmtzYy0zQ2NNMUhfV3p0bWJza2czam5WZlBTU1ZaNXp2MzA3OWZDcWllQjBzZGxKdEhXWmlUZ0FHbThPSWhYaFh3ZkxDcUhvUFRDQ183aFl1MktITQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-09-01T02:24:00+00:00",
+      "summary": "Georgia Power talks about your bill, responding to outages, and playing it safe Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOS3Q4ZFozeUt6WEJvNzE3ck55Nm9oTEpoYkVEcjJ6Y1IyMk5lVDNFZERGcFc2U2RMcXVrdmtzYy0zQ2NNMUhfV3p0bWJza2czam5WZlBTU1ZaNXp2MzA3OWZDcWllQjBzZGxKdEhXWmlUZ0FHbThPSWhYaFh3ZkxDcUhvUFRDQ183aFl1MktITQ?oc=5\" target=\"_blank\">Georgia Power talks about your bill, responding to outages, and playing it safe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-01T03:03:26+00:00"
+    },
     {
       "id": "3701a118402aff3a",
       "title": "Georgia Power drops more details about OpenAI contract. PSC meeting heats up - Columbus Ledger-Enquirer",
@@ -203,6 +231,20 @@
       "collected_at": "2026-08-28T03:58:12+00:00"
     },
     {
+      "id": "7fb10a1342a7e303",
+      "title": "Georgia Power deal to power OpenAI data center is approved, with some fine print - ajc.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTGxOUUhmcW14cTN6MGw4X3AyYzRjOGxyQk1ad2c1ZjVWczhZbWFpZU92eXBlc1FneWVyWkNMd2tuaURCanpMSjNvVmJjM3VDbmhGNkNxS3hPc3dRb3B4TVJ0VTFIUmRtaFV1X1ZmMEVjWXhBNGZPUVdncnRKdVNyUEtULUZlR2V2cFl5Sm9sZnlMU1ljZllYSTN2R0ZEOUxIWWJVRVh2VF9DMnNIRGt3?oc=5",
+      "domain": "news.google.com",
+      "source": "ajc.com",
+      "language": "English",
+      "published_at": "2026-08-27T23:26:45+00:00",
+      "summary": "Georgia Power deal to power OpenAI data center is approved, with some fine print ajc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNTGxOUUhmcW14cTN6MGw4X3AyYzRjOGxyQk1ad2c1ZjVWczhZbWFpZU92eXBlc1FneWVyWkNMd2tuaURCanpMSjNvVmJjM3VDbmhGNkNxS3hPc3dRb3B4TVJ0VTFIUmRtaFV1X1ZmMEVjWXhBNGZPUVdncnRKdVNyUEtULUZlR2V2cFl5Sm9sZnlMU1ljZllYSTN2R0ZEOUxIWWJVRVh2VF9DMnNIRGt3?oc=5\" target=\"_blank\">Georgia Power deal to power OpenAI data center is approved, with some fine print</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ajc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-01T03:03:26+00:00"
+    },
+    {
       "id": "36f255f7a476aa3e",
       "title": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills - Atlanta News First",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZEdKYUlhVzhocG1mVUxsSUlsT3EzUHpySmZPREVZY3R0ZTQ5bG9tMFoxNDhyeFNqS2FLTWhZaGxxU0wzM0x5Y2c5c3A3Q0VPYU5rQkQtc2FMb3FTMy02NVM3aFlCeERVLTk2M0puNF9rN3MtMk5CV3hjZUxqbDJnSXg2WHJkSXVlX1NhMWVadjB1aDlaeXU3dlpvUEtCdk1ZbFlDcVBianlLX0dpREJ3dGhzbWhxTzNESHRvQzFEWUJJNEY5czlUcEktV1lMU1pucnFhS3Y0bw?oc=5",
@@ -355,6 +397,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-28T03:58:12+00:00"
+    },
+    {
+      "id": "259b444b4213901d",
+      "title": "Georgia Power gets clearance to serve OpenAI's massive AI data center in Effingham County​ - cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDFlSWdGM0pFWTdhbkhOa0k3ZFBuNXZINVY3RHVTNTY4b0kxZV9ZWlpUQ040QjQ5LXNWcFZfUkd0QmpialJfek9nNWlTQlE5VGFWMUh4ZjFLZWNwY01GZ3EwcTdFNkw3eW1zcUQ1REtpcUxUMVlHWGhfRjlBbTdnS2huR0FaSG9STndBVDRDOE53dFdLODg2cXJJUVFhYzM5M2NqdkpySnhMMWF6SkN2eXNQbzJ0bENXdWJBMXpOdVZhbHNW?oc=5",
+      "domain": "news.google.com",
+      "source": "cbsnews.com",
+      "language": "English",
+      "published_at": "2026-08-27T18:48:39+00:00",
+      "summary": "Georgia Power gets clearance to serve OpenAI's massive AI data center in Effingham County​ cbsnews.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDFlSWdGM0pFWTdhbkhOa0k3ZFBuNXZINVY3RHVTNTY4b0kxZV9ZWlpUQ040QjQ5LXNWcFZfUkd0QmpialJfek9nNWlTQlE5VGFWMUh4ZjFLZWNwY01GZ3EwcTdFNkw3eW1zcUQ1REtpcUxUMVlHWGhfRjlBbTdnS2huR0FaSG9STndBVDRDOE53dFdLODg2cXJJUVFhYzM5M2NqdkpySnhMMWF6SkN2eXNQbzJ0bENXdWJBMXpOdVZhbHNW?oc=5\" target=\"_blank\">Georgia Power gets clearance to serve OpenAI's massive AI data center in Effingham County​</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbsnews.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-01T03:03:26+00:00"
     },
     {
       "id": "9257d6fe5f62c0c6",
