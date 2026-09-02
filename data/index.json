@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T22:18:05+00:00",
+  "last_updated": "2026-09-02T02:23:51+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 279,
-      "new_mentions_this_run": 19,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "74db10b0b34768ed",
         "title": "Gilliland, Taylor awarded inaugural Alabama Power scholarshi... - The Clanton Advertiser",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 98,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 574,
+      "count": 576,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "63df62fd1867b2ad",
-        "title": "Georgia Power gives $100,000 to Camp Tanglewood campaign - The Augusta Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeHByNEdPNWJFSTNhbklyX1lmckFhdDVQbFBXb05DVEhvNjNrMkwzcnFuZFhFamxwUXJDVXZPVk9USmFDRExlcGhwZkNFNXl3cEpJeEc3U3lyOE9YMkpMX0tEdDBZbFRtRkJsYUhESzZtWmxQRDRkTGNGWHJhM0o3Y1hZOEwyRkZGbWJKRDBFdGZKOXpyRG85aXE5b0JETXIzbHJwZGNoX0lxeUtJWldfMWZiMFZDUWpTQVlMTC1aNVV2TDM4TlY1REdIVQ?oc=5",
+        "id": "4c7b8dd2ba6a11ee",
+        "title": "Second threatening message in over a week at Georgia Power plant in Coweta County - 11Alive.com",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVlRORUNqdkxlZ0lGRExET214aHl3clU1WFNMV1F5ZURwZzRJYzV2QkMzRG4xcmJxaVhYTFZVRmE1UmpVeEVkMnhBRG1KSmVaUG90V2hNRjFDVmtXT2JUOHExQ2oxVjlkOHJlWmlLblRMQmpVYVlud1hjV3dySVd2VnJ6dWEyRWE3WDFsckwtZUZOSEVRZDZ1TnplOFljV1NUMklxWnFPMFRRWHhmX3pUUUlJWmFpd1JCWk5wMi1KTVEwa2FDRlFKWDZsaWpUcHpvQmFOUUlwWTh0ejNmSm9vTkhvekhIanhkUkdoUGk4eUJzV0xoYUN6VWU4Yw?oc=5",
         "domain": "news.google.com",
-        "source": "The Augusta Chronicle",
+        "source": "11Alive.com",
         "language": "English",
-        "published_at": "2026-09-01T08:02:00+00:00",
-        "summary": "Georgia Power gives $100,000 to Camp Tanglewood campaign The Augusta Chronicle",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPeHByNEdPNWJFSTNhbklyX1lmckFhdDVQbFBXb05DVEhvNjNrMkwzcnFuZFhFamxwUXJDVXZPVk9USmFDRExlcGhwZkNFNXl3cEpJeEc3U3lyOE9YMkpMX0tEdDBZbFRtRkJsYUhESzZtWmxQRDRkTGNGWHJhM0o3Y1hZOEwyRkZGbWJKRDBFdGZKOXpyRG85aXE5b0JETXIzbHJwZGNoX0lxeUtJWldfMWZiMFZDUWpTQVlMTC1aNVV2TDM4TlY1REdIVQ?oc=5\" target=\"_blank\">Georgia Power gives $100,000 to Camp Tanglewood campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
+        "published_at": "2026-09-02T00:45:00+00:00",
+        "summary": "Second threatening message in over a week at Georgia Power plant in Coweta County 11Alive.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVlRORUNqdkxlZ0lGRExET214aHl3clU1WFNMV1F5ZURwZzRJYzV2QkMzRG4xcmJxaVhYTFZVRmE1UmpVeEVkMnhBRG1KSmVaUG90V2hNRjFDVmtXT2JUOHExQ2oxVjlkOHJlWmlLblRMQmpVYVlud1hjV3dySVd2VnJ6dWEyRWE3WDFsckwtZUZOSEVRZDZ1TnplOFljV1NUMklxWnFPMFRRWHhmX3pUUUlJWmFpd1JCWk5wMi1KTVEwa2FDRlFKWDZsaWpUcHpvQmFOUUlwWTh0ejNmSm9vTkhvekhIanhkUkdoUGk4eUJzV0xoYUN6VWU4Yw?oc=5\" target=\"_blank\">Second threatening message in over a week at Georgia Power plant in Coweta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-01T14:27:26+00:00"
+        "collected_at": "2026-09-02T02:23:41+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 48,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "c5209af21567dd5c",
         "title": "Policy Deep Dive: How to Reform the Office of Energy Dominance Financing - Third Way",

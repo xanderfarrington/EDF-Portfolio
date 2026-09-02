@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-01T22:17:54+00:00",
+  "last_updated": "2026-09-02T02:23:41+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 574,
+  "count": 576,
   "mentions": [
+    {
+      "id": "4c7b8dd2ba6a11ee",
+      "title": "Second threatening message in over a week at Georgia Power plant in Coweta County - 11Alive.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVlRORUNqdkxlZ0lGRExET214aHl3clU1WFNMV1F5ZURwZzRJYzV2QkMzRG4xcmJxaVhYTFZVRmE1UmpVeEVkMnhBRG1KSmVaUG90V2hNRjFDVmtXT2JUOHExQ2oxVjlkOHJlWmlLblRMQmpVYVlud1hjV3dySVd2VnJ6dWEyRWE3WDFsckwtZUZOSEVRZDZ1TnplOFljV1NUMklxWnFPMFRRWHhmX3pUUUlJWmFpd1JCWk5wMi1KTVEwa2FDRlFKWDZsaWpUcHpvQmFOUUlwWTh0ejNmSm9vTkhvekhIanhkUkdoUGk4eUJzV0xoYUN6VWU4Yw?oc=5",
+      "domain": "news.google.com",
+      "source": "11Alive.com",
+      "language": "English",
+      "published_at": "2026-09-02T00:45:00+00:00",
+      "summary": "Second threatening message in over a week at Georgia Power plant in Coweta County 11Alive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVlRORUNqdkxlZ0lGRExET214aHl3clU1WFNMV1F5ZURwZzRJYzV2QkMzRG4xcmJxaVhYTFZVRmE1UmpVeEVkMnhBRG1KSmVaUG90V2hNRjFDVmtXT2JUOHExQ2oxVjlkOHJlWmlLblRMQmpVYVlud1hjV3dySVd2VnJ6dWEyRWE3WDFsckwtZUZOSEVRZDZ1TnplOFljV1NUMklxWnFPMFRRWHhmX3pUUUlJWmFpd1JCWk5wMi1KTVEwa2FDRlFKWDZsaWpUcHpvQmFOUUlwWTh0ejNmSm9vTkhvekhIanhkUkdoUGk4eUJzV0xoYUN6VWU4Yw?oc=5\" target=\"_blank\">Second threatening message in over a week at Georgia Power plant in Coweta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T02:23:41+00:00"
+    },
     {
       "id": "63df62fd1867b2ad",
       "title": "Georgia Power gives $100,000 to Camp Tanglewood campaign - The Augusta Chronicle",
@@ -201,6 +215,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-29T00:23:55+00:00"
+    },
+    {
+      "id": "882530a0ba6ee663",
+      "title": "Georgia Power’s 3.2-GW OpenAI Power Deal Approved - tedmag.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwRWE5WXJQbHNoSEM5akRKazFEeEJ4aWs1Vk1VNk12SnlHUTZfMnI3WE1FeG8yYktMQzM3UWU5YnVodDNEVzhtay1xNHpDNlFOV1pkWVQzckJFdG1UdjByT1BMRlhPZTBRalc1UnpWSkJCMDRSZWI4?oc=5",
+      "domain": "news.google.com",
+      "source": "tedmag.com",
+      "language": "English",
+      "published_at": "2026-08-28T16:03:57+00:00",
+      "summary": "Georgia Power’s 3.2-GW OpenAI Power Deal Approved tedmag.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBwRWE5WXJQbHNoSEM5akRKazFEeEJ4aWs1Vk1VNk12SnlHUTZfMnI3WE1FeG8yYktMQzM3UWU5YnVodDNEVzhtay1xNHpDNlFOV1pkWVQzckJFdG1UdjByT1BMRlhPZTBRalc1UnpWSkJCMDRSZWI4?oc=5\" target=\"_blank\">Georgia Power’s 3.2-GW OpenAI Power Deal Approved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tedmag.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T02:23:41+00:00"
     },
     {
       "id": "c1c742492af4fb51",
