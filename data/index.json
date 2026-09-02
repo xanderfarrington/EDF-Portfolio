@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-02T02:23:51+00:00",
+  "last_updated": "2026-09-02T08:18:33+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 81,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 279,
-      "new_mentions_this_run": 17,
+      "count": 283,
+      "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "74db10b0b34768ed",
-        "title": "Gilliland, Taylor awarded inaugural Alabama Power scholarshi... - The Clanton Advertiser",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON21RSzdBQXV0a1plT0NvbENOa1VUb1RYRldZSDJBQXV3b0FOMEZYaGdmUjBfMXNUZ1AzUEM1UndTdXhNWnh0Q3JuQU9WTGJRTTNPSlNBSGhiQWJtelRLSVhDT2NSQTdEZ1JsVmJoMTZ6cDlwNjQ5NWFPa2V0M3pFZzNCeWkzTUNTNk1Ed3FIOXl5SDBFWERac18xc2w0cHh5YmJOYUFxM0hQeTRNb1g0UjJB?oc=5",
+        "id": "149142358b49979c",
+        "title": "Alabama Power updating its system - WBRC",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xMWhCWGdCVWVMVGdOOFR5bk5wRHg3SVdhVlphSmVyNWhwR21PWnZIUUl6Z2s5NE9CNFp0ekpzbWl4aEZsdjg5R2VMWUZqaTRBNGJZWDB5RFRQNjBpYUxYWHJ2cGVGWUdXanl4Ukl3TFRoLVNWdy1tYXZyLW4?oc=5",
         "domain": "news.google.com",
-        "source": "The Clanton Advertiser",
+        "source": "WBRC",
         "language": "English",
-        "published_at": "2026-09-01T19:58:33+00:00",
-        "summary": "Gilliland, Taylor awarded inaugural Alabama Power scholarshi... The Clanton Advertiser",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxON21RSzdBQXV0a1plT0NvbENOa1VUb1RYRldZSDJBQXV3b0FOMEZYaGdmUjBfMXNUZ1AzUEM1UndTdXhNWnh0Q3JuQU9WTGJRTTNPSlNBSGhiQWJtelRLSVhDT2NSQTdEZ1JsVmJoMTZ6cDlwNjQ5NWFPa2V0M3pFZzNCeWkzTUNTNk1Ed3FIOXl5SDBFWERac18xc2w0cHh5YmJOYUFxM0hQeTRNb1g0UjJB?oc=5\" target=\"_blank\">Gilliland, Taylor awarded inaugural Alabama Power scholarshi...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Clanton Advertiser</font>",
+        "published_at": "2026-09-01T22:51:52+00:00",
+        "summary": "Alabama Power updating its system WBRC",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1xMWhCWGdCVWVMVGdOOFR5bk5wRHg3SVdhVlphSmVyNWhwR21PWnZIUUl6Z2s5NE9CNFp0ekpzbWl4aEZsdjg5R2VMWUZqaTRBNGJZWDB5RFRQNjBpYUxYWHJ2cGVGWUdXanl4Ukl3TFRoLVNWdy1tYXZyLW4?oc=5\" target=\"_blank\">Alabama Power updating its system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-01T22:17:38+00:00"
+        "collected_at": "2026-09-02T08:18:07+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 98,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 576,
+      "count": 577,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "4c7b8dd2ba6a11ee",
+        "id": "b2720f9423ce2891",
         "title": "Second threatening message in over a week at Georgia Power plant in Coweta County - 11Alive.com",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVlRORUNqdkxlZ0lGRExET214aHl3clU1WFNMV1F5ZURwZzRJYzV2QkMzRG4xcmJxaVhYTFZVRmE1UmpVeEVkMnhBRG1KSmVaUG90V2hNRjFDVmtXT2JUOHExQ2oxVjlkOHJlWmlLblRMQmpVYVlud1hjV3dySVd2VnJ6dWEyRWE3WDFsckwtZUZOSEVRZDZ1TnplOFljV1NUMklxWnFPMFRRWHhmX3pUUUlJWmFpd1JCWk5wMi1KTVEwa2FDRlFKWDZsaWpUcHpvQmFOUUlwWTh0ejNmSm9vTkhvekhIanhkUkdoUGk4eUJzV0xoYUN6VWU4Yw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVm5pZHVGck43ODdubWJ3S2FSWi1LU3pLeGZreUV1TXBRbm9qSVl6cVRoSVNYUFM5eEV4bFhRbXp3N05PWkF3LVViVHoxTXZuanotY1otcG12WVhrUlNxX1hWUkRSMm9BemY5dy1Pd1pKdnpwV2Q5MXFmVC1IbHhKSlBYWXNvT2tiWmN2YjB4SUkzSE8ySDVJZDVjWGJucExyRm1yQ2RqS3ZsN3ZfdV91LVhSWjlEYlZZSnljeUZmd1JHckJXelozUnU0bGh2ZUZXU1FIOUsyMGlMNzhGSVh3RFNON3l3LW5IOFlKOUw3a1pQRGdx?oc=5",
         "domain": "news.google.com",
         "source": "11Alive.com",
         "language": "English",
-        "published_at": "2026-09-02T00:45:00+00:00",
+        "published_at": "2026-09-02T03:08:00+00:00",
         "summary": "Second threatening message in over a week at Georgia Power plant in Coweta County 11Alive.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVlRORUNqdkxlZ0lGRExET214aHl3clU1WFNMV1F5ZURwZzRJYzV2QkMzRG4xcmJxaVhYTFZVRmE1UmpVeEVkMnhBRG1KSmVaUG90V2hNRjFDVmtXT2JUOHExQ2oxVjlkOHJlWmlLblRMQmpVYVlud1hjV3dySVd2VnJ6dWEyRWE3WDFsckwtZUZOSEVRZDZ1TnplOFljV1NUMklxWnFPMFRRWHhmX3pUUUlJWmFpd1JCWk5wMi1KTVEwa2FDRlFKWDZsaWpUcHpvQmFOUUlwWTh0ejNmSm9vTkhvekhIanhkUkdoUGk4eUJzV0xoYUN6VWU4Yw?oc=5\" target=\"_blank\">Second threatening message in over a week at Georgia Power plant in Coweta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVm5pZHVGck43ODdubWJ3S2FSWi1LU3pLeGZreUV1TXBRbm9qSVl6cVRoSVNYUFM5eEV4bFhRbXp3N05PWkF3LVViVHoxTXZuanotY1otcG12WVhrUlNxX1hWUkRSMm9BemY5dy1Pd1pKdnpwV2Q5MXFmVC1IbHhKSlBYWXNvT2tiWmN2YjB4SUkzSE8ySDVJZDVjWGJucExyRm1yQ2RqS3ZsN3ZfdV91LVhSWjlEYlZZSnljeUZmd1JHckJXelozUnU0bGh2ZUZXU1FIOUsyMGlMNzhGSVh3RFNON3l3LW5IOFlKOUw3a1pQRGdx?oc=5\" target=\"_blank\">Second threatening message in over a week at Georgia Power plant in Coweta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-02T02:23:41+00:00"
+        "collected_at": "2026-09-02T08:18:23+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 48,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "c5209af21567dd5c",
         "title": "Policy Deep Dive: How to Reform the Office of Energy Dominance Financing - Third Way",

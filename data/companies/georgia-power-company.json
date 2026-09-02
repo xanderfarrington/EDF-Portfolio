@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-02T02:23:41+00:00",
+  "last_updated": "2026-09-02T08:18:23+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 576,
+  "count": 577,
   "mentions": [
+    {
+      "id": "b2720f9423ce2891",
+      "title": "Second threatening message in over a week at Georgia Power plant in Coweta County - 11Alive.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVm5pZHVGck43ODdubWJ3S2FSWi1LU3pLeGZreUV1TXBRbm9qSVl6cVRoSVNYUFM5eEV4bFhRbXp3N05PWkF3LVViVHoxTXZuanotY1otcG12WVhrUlNxX1hWUkRSMm9BemY5dy1Pd1pKdnpwV2Q5MXFmVC1IbHhKSlBYWXNvT2tiWmN2YjB4SUkzSE8ySDVJZDVjWGJucExyRm1yQ2RqS3ZsN3ZfdV91LVhSWjlEYlZZSnljeUZmd1JHckJXelozUnU0bGh2ZUZXU1FIOUsyMGlMNzhGSVh3RFNON3l3LW5IOFlKOUw3a1pQRGdx?oc=5",
+      "domain": "news.google.com",
+      "source": "11Alive.com",
+      "language": "English",
+      "published_at": "2026-09-02T03:08:00+00:00",
+      "summary": "Second threatening message in over a week at Georgia Power plant in Coweta County 11Alive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVm5pZHVGck43ODdubWJ3S2FSWi1LU3pLeGZreUV1TXBRbm9qSVl6cVRoSVNYUFM5eEV4bFhRbXp3N05PWkF3LVViVHoxTXZuanotY1otcG12WVhrUlNxX1hWUkRSMm9BemY5dy1Pd1pKdnpwV2Q5MXFmVC1IbHhKSlBYWXNvT2tiWmN2YjB4SUkzSE8ySDVJZDVjWGJucExyRm1yQ2RqS3ZsN3ZfdV91LVhSWjlEYlZZSnljeUZmd1JHckJXelozUnU0bGh2ZUZXU1FIOUsyMGlMNzhGSVh3RFNON3l3LW5IOFlKOUw3a1pQRGdx?oc=5\" target=\"_blank\">Second threatening message in over a week at Georgia Power plant in Coweta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T08:18:23+00:00"
+    },
     {
       "id": "4c7b8dd2ba6a11ee",
       "title": "Second threatening message in over a week at Georgia Power plant in Coweta County - 11Alive.com",
