@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-02T14:00:20+00:00",
+  "last_updated": "2026-09-02T17:49:17+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 580,
+  "count": 581,
   "mentions": [
     {
       "id": "b2720f9423ce2891",
@@ -677,6 +677,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-27T18:43:21+00:00"
+    },
+    {
+      "id": "09aa3a1b82f89464",
+      "title": "Georgia Power approves OpenAI contract in Effingham County - fox5atlanta.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1hzbGNMMFctVHFyUXhNZS1PbVpuMFFlZnFHZlNxMnFxR01oa2pWMU5NSWczeTN1LTVvQ2ZOdk0zMUF0Qm1EVFZsOHlUZEw1cXJCcWRaaTk3YjZwTWRvRnh3U0RYLU1LUDhVVDJtTHVvbTE4YU9QVTZfM2Z0dW50ejdXZmc3b081OWJWSmtmSi12Zw?oc=5",
+      "domain": "news.google.com",
+      "source": "fox5atlanta.com",
+      "language": "English",
+      "published_at": "2026-08-27T14:18:58+00:00",
+      "summary": "Georgia Power approves OpenAI contract in Effingham County fox5atlanta.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1hzbGNMMFctVHFyUXhNZS1PbVpuMFFlZnFHZlNxMnFxR01oa2pWMU5NSWczeTN1LTVvQ2ZOdk0zMUF0Qm1EVFZsOHlUZEw1cXJCcWRaaTk3YjZwTWRvRnh3U0RYLU1LUDhVVDJtTHVvbTE4YU9QVTZfM2Z0dW50ejdXZmc3b081OWJWSmtmSi12Zw?oc=5\" target=\"_blank\">Georgia Power approves OpenAI contract in Effingham County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox5atlanta.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T17:49:17+00:00"
     },
     {
       "id": "6d77f5ea93dd8076",

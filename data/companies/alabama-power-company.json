@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-02T14:00:03+00:00",
+  "last_updated": "2026-09-02T17:49:00+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 287,
+  "count": 291,
   "mentions": [
     {
       "id": "149142358b49979c",
@@ -63,6 +63,20 @@
       "collected_at": "2026-09-02T14:00:03+00:00"
     },
     {
+      "id": "dd8917b4feddf67b",
+      "title": "Alabama Power accounts inaccessible as utility upgrades digital systems - WSFA",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEhMNW5oeWN1c0pab0lFT0RHU3pSaDhDdkJwNHktd1UyRldHYUQ5OTBQRmxBc3poZ1hER3NyOWllaHpLWlNmemh0ZXNISkJoaGhfOFdoM1V0NUJJMnU2T3ZlOVEyLW1SNk8wVmxyalF4VVhSVlRmckVTYkhsRXdKTzhBaTBoZmFFWGNsVDZRZlhQbVEzR0hocVdkeGpxSy1qc244?oc=5",
+      "domain": "news.google.com",
+      "source": "WSFA",
+      "language": "English",
+      "published_at": "2026-09-01T22:37:00+00:00",
+      "summary": "Alabama Power accounts inaccessible as utility upgrades digital systems WSFA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEhMNW5oeWN1c0pab0lFT0RHU3pSaDhDdkJwNHktd1UyRldHYUQ5OTBQRmxBc3poZ1hER3NyOWllaHpLWlNmemh0ZXNISkJoaGhfOFdoM1V0NUJJMnU2T3ZlOVEyLW1SNk8wVmxyalF4VVhSVlRmckVTYkhsRXdKTzhBaTBoZmFFWGNsVDZRZlhQbVEzR0hocVdkeGpxSy1qc244?oc=5\" target=\"_blank\">Alabama Power accounts inaccessible as utility upgrades digital systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T17:49:00+00:00"
+    },
+    {
       "id": "eddcdbeb9d720307",
       "title": "Alabama Power: Extreme heat impact on your home - WBRC",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnVzVGRMZENnc2JtVjBfYUdISVF4ZlhIZG4tY3hOUUJkNWlmdFdzSWtOTGZrcUhNZmM0aWNpc3ViMlBqR3ZCSENHR09FVU1ET3BCcGh1blFWR2dwUHhZMkM4RjRUZlZpa0E1VVRjTG9udGhPWDI0blk5c09ISU5ldWRrbmZnMWxXbUE?oc=5",
@@ -117,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-02T14:00:03+00:00"
+    },
+    {
+      "id": "0747660c17bd3905",
+      "title": "Gilliland, Taylor awarded inaugural Alabama Power scholarships - clantonadvertiser.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON21RSzdBQXV0a1plT0NvbENOa1VUb1RYRldZSDJBQXV3b0FOMEZYaGdmUjBfMXNUZ1AzUEM1UndTdXhNWnh0Q3JuQU9WTGJRTTNPSlNBSGhiQWJtelRLSVhDT2NSQTdEZ1JsVmJoMTZ6cDlwNjQ5NWFPa2V0M3pFZzNCeWkzTUNTNk1Ed3FIOXl5SDBFWERac18xc2w0cHh5YmJOYUFxM0hQeTRNb1g0UjJB?oc=5",
+      "domain": "news.google.com",
+      "source": "clantonadvertiser.com",
+      "language": "English",
+      "published_at": "2026-09-01T19:58:33+00:00",
+      "summary": "Gilliland, Taylor awarded inaugural Alabama Power scholarships clantonadvertiser.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxON21RSzdBQXV0a1plT0NvbENOa1VUb1RYRldZSDJBQXV3b0FOMEZYaGdmUjBfMXNUZ1AzUEM1UndTdXhNWnh0Q3JuQU9WTGJRTTNPSlNBSGhiQWJtelRLSVhDT2NSQTdEZ1JsVmJoMTZ6cDlwNjQ5NWFPa2V0M3pFZzNCeWkzTUNTNk1Ed3FIOXl5SDBFWERac18xc2w0cHh5YmJOYUFxM0hQeTRNb1g0UjJB?oc=5\" target=\"_blank\">Gilliland, Taylor awarded inaugural Alabama Power scholarships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">clantonadvertiser.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T17:49:00+00:00"
     },
     {
       "id": "381a79fc5d25b3a3",
@@ -285,6 +313,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-30T14:37:09+00:00"
+    },
+    {
+      "id": "09bc15b8a653c057",
+      "title": "Morgan Academy’s Brooke Waters receives Alabama Power Foundation scholarship - selmatimesjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2lISk5qb3RhSzlOT3k1Q25OcGdsSlFkSkpQWlFfZWwzaEhaRFBYNnRobzIxS3hpVjZ5OG1SVXdZMGEtRjZjMGNaSldLQXRQdHdzMURZekJXcF9naTlkVi1hTzc4U0RZQTY2dUhiclNyWWk0eFFNSTI5MjVQWC1ZbXdjM3p5ZUphUkFZdEhuVW45dXdWZjVMUXc5d2tDSFlMdnlKdFMzNUVOY2NvNEpoWTdubzc0LWpKNXdEcVRlWUM?oc=5",
+      "domain": "news.google.com",
+      "source": "selmatimesjournal.com",
+      "language": "English",
+      "published_at": "2026-08-26T20:49:29+00:00",
+      "summary": "Morgan Academy’s Brooke Waters receives Alabama Power Foundation scholarship selmatimesjournal.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2lISk5qb3RhSzlOT3k1Q25OcGdsSlFkSkpQWlFfZWwzaEhaRFBYNnRobzIxS3hpVjZ5OG1SVXdZMGEtRjZjMGNaSldLQXRQdHdzMURZekJXcF9naTlkVi1hTzc4U0RZQTY2dUhiclNyWWk0eFFNSTI5MjVQWC1ZbXdjM3p5ZUphUkFZdEhuVW45dXdWZjVMUXc5d2tDSFlMdnlKdFMzNUVOY2NvNEpoWTdubzc0LWpKNXdEcVRlWUM?oc=5\" target=\"_blank\">Morgan Academy’s Brooke Waters receives Alabama Power Foundation scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">selmatimesjournal.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T17:49:00+00:00"
     },
     {
       "id": "8ce69c4f4d0e6dca",
@@ -901,6 +943,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-28T03:57:56+00:00"
+    },
+    {
+      "id": "3f3ac78260370fbd",
+      "title": "Power Outage Reported - Citizen app",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jX1hOTVJsX2NHUWh2aTV6RHlaWW1xeGFMSzZsdklobWV6WU1ra1ZjQ2N0X0dOM2Z2ZS1namRKN0xaYVJPYmY2QTJlRDREbzNPRHc?oc=5",
+      "domain": "news.google.com",
+      "source": "Citizen app",
+      "language": "English",
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "summary": "Power Outage Reported Citizen app",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jX1hOTVJsX2NHUWh2aTV6RHlaWW1xeGFMSzZsdklobWV6WU1ra1ZjQ2N0X0dOM2Z2ZS1namRKN0xaYVJPYmY2QTJlRDREbzNPRHc?oc=5\" target=\"_blank\">Power Outage Reported</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Citizen app</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T17:49:00+00:00"
     },
     {
       "id": "273f553a4c73dddf",
