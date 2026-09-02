@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-02T17:49:17+00:00",
+  "last_updated": "2026-09-02T20:23:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 581,
+  "count": 582,
   "mentions": [
     {
       "id": "b2720f9423ce2891",
@@ -607,6 +607,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-28T03:58:12+00:00"
+    },
+    {
+      "id": "95bb0243782a52b1",
+      "title": "Georgia Power’s latest deal with OpenAI expected to cut customers’ bills - wrdw.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS1JKVE9DZ01HeGwtTmNXYkp1YmMtbDRCMU85ZXU1UEZJZ2hudXhwdXhQUEJqeWR0QjlWdE5mSHhTY3VVY0JnMkN5NmYzZW83QWNIajV5Z00wLUJESmQ1SHpwX2p5WHFRVkZrLUVxUXdwSERxVFpUWThZeFFaYlhpc0VFbk0xR1ZidDNNQTNfcHhyb1FVMnROZEpVQXo5NlN6SnfSAbYBQVVfeXFMUGRXMXF2RVZUTlpaeEhjcjJnektmUEtGRXlsbUJ5Q2Y5M05IU1lrNmVGeXFJdENQLVlOYzlZQWt1WHl4S2ppcVhwYlpoUjBnZjI2dFZnbHBpYmh6d3QzTGpRZVMySEI0LVNQVy1nWDloWUJMOEd6NmpCTjhQdFRmd2F2TlpWUWJKeXFkVE5GLU5idUJ1NXM3dUxObnlQWGZTZUZ6RzV6WkNVanFzS2VVRlAxUVprWEE?oc=5",
+      "domain": "news.google.com",
+      "source": "wrdw.com",
+      "language": "English",
+      "published_at": "2026-08-27T15:44:00+00:00",
+      "summary": "Georgia Power’s latest deal with OpenAI expected to cut customers’ bills wrdw.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOS1JKVE9DZ01HeGwtTmNXYkp1YmMtbDRCMU85ZXU1UEZJZ2hudXhwdXhQUEJqeWR0QjlWdE5mSHhTY3VVY0JnMkN5NmYzZW83QWNIajV5Z00wLUJESmQ1SHpwX2p5WHFRVkZrLUVxUXdwSERxVFpUWThZeFFaYlhpc0VFbk0xR1ZidDNNQTNfcHhyb1FVMnROZEpVQXo5NlN6SnfSAbYBQVVfeXFMUGRXMXF2RVZUTlpaeEhjcjJnektmUEtGRXlsbUJ5Q2Y5M05IU1lrNmVGeXFJdENQLVlOYzlZQWt1WHl4S2ppcVhwYlpoUjBnZjI2dFZnbHBpYmh6d3QzTGpRZVMySEI0LVNQVy1nWDloWUJMOEd6NmpCTjhQdFRmd2F2TlpWUWJKeXFkVE5GLU5idUJ1NXM3dUxObnlQWGZTZUZ6RzV6WkNVanFzS2VVRlAxUVprWEE?oc=5\" target=\"_blank\">Georgia Power’s latest deal with OpenAI expected to cut customers’ bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wrdw.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T20:23:45+00:00"
     },
     {
       "id": "eaf69b3de1f1ea37",

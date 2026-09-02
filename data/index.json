@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-02T17:49:28+00:00",
+  "last_updated": "2026-09-02T20:23:55+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 81,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "21b0eacc322a228b",
         "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 291,
-      "new_mentions_this_run": 24,
+      "count": 292,
+      "new_mentions_this_run": 19,
       "latest_mention": {
-        "id": "149142358b49979c",
-        "title": "Alabama Power updating its system - WBRC",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xMWhCWGdCVWVMVGdOOFR5bk5wRHg3SVdhVlphSmVyNWhwR21PWnZIUUl6Z2s5NE9CNFp0ekpzbWl4aEZsdjg5R2VMWUZqaTRBNGJZWDB5RFRQNjBpYUxYWHJ2cGVGWUdXanl4Ukl3TFRoLVNWdy1tYXZyLW4?oc=5",
+        "id": "ec0034d931652cb6",
+        "title": "Alabama Power 10 volleyball: AL.com ranks the best high school teams in Alabama - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMU9STm5GbTlpSlVicDdGaEUxb2hvc2pjcEFGcC12VDR0OUZwQllxMHJNb0ZfcmJ5S2NtMENySjFINUlzWkFpOHF0cVQzTk96RHRuTERoTk05Tmt6SnI3Z2ZQYUxRRURKYkZZcDNRdWVfQ0tpNUVMcndwZ2F1cVZVZl9YT2taWUNSQmd3VDBtN0tId2k2SDdjOXlFbU9WdmRkcDhwLXM0Wko1OTdjQWN5UjhzOEdHV1FQRjJVVlBabmRJOVI2?oc=5",
         "domain": "news.google.com",
-        "source": "WBRC",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-09-01T22:51:52+00:00",
-        "summary": "Alabama Power updating its system WBRC",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1xMWhCWGdCVWVMVGdOOFR5bk5wRHg3SVdhVlphSmVyNWhwR21PWnZIUUl6Z2s5NE9CNFp0ekpzbWl4aEZsdjg5R2VMWUZqaTRBNGJZWDB5RFRQNjBpYUxYWHJ2cGVGWUdXanl4Ukl3TFRoLVNWdy1tYXZyLW4?oc=5\" target=\"_blank\">Alabama Power updating its system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC</font>",
+        "published_at": "2026-09-02T13:05:00+00:00",
+        "summary": "Alabama Power 10 volleyball: AL.com ranks the best high school teams in Alabama AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOMU9STm5GbTlpSlVicDdGaEUxb2hvc2pjcEFGcC12VDR0OUZwQllxMHJNb0ZfcmJ5S2NtMENySjFINUlzWkFpOHF0cVQzTk96RHRuTERoTk05Tmt6SnI3Z2ZQYUxRRURKYkZZcDNRdWVfQ0tpNUVMcndwZ2F1cVZVZl9YT2taWUNSQmd3VDBtN0tId2k2SDdjOXlFbU9WdmRkcDhwLXM0Wko1OTdjQWN5UjhzOEdHV1FQRjJVVlBabmRJOVI2?oc=5\" target=\"_blank\">Alabama Power 10 volleyball: AL.com ranks the best high school teams in Alabama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-02T08:18:07+00:00"
+        "collected_at": "2026-09-02T20:23:28+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 581,
+      "count": 582,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "b2720f9423ce2891",
