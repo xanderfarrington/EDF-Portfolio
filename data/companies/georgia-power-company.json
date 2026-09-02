@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-02T08:18:23+00:00",
+  "last_updated": "2026-09-02T14:00:20+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 577,
+  "count": 580,
   "mentions": [
     {
       "id": "b2720f9423ce2891",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-02T08:18:23+00:00"
+    },
+    {
+      "id": "ed3cab3e49cc3fed",
+      "title": "Georgia Power upgrade projects are underway - The True Citizen",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU1FxbzRyX2kxOUFwcEpqc011Y3hyckNQVUU3eGVRVElpcWE2aUNPZlNpcXUyRDQ4bDVxWW4zT1QxMTNGb1lYWnc5Z3NEaElRaVRkUldZZXJoVkI5c2xabDE1eHJHRkZreXViaG9rSTVocHBDNDd6Nkh4OEZlX2VLZWFVc2F5LU1hM3ZUcA?oc=5",
+      "domain": "news.google.com",
+      "source": "The True Citizen",
+      "language": "English",
+      "published_at": "2026-09-02T01:12:56+00:00",
+      "summary": "Georgia Power upgrade projects are underway The True Citizen",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNU1FxbzRyX2kxOUFwcEpqc011Y3hyckNQVUU3eGVRVElpcWE2aUNPZlNpcXUyRDQ4bDVxWW4zT1QxMTNGb1lYWnc5Z3NEaElRaVRkUldZZXJoVkI5c2xabDE1eHJHRkZreXViaG9rSTVocHBDNDd6Nkh4OEZlX2VLZWFVc2F5LU1hM3ZUcA?oc=5\" target=\"_blank\">Georgia Power upgrade projects are underway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The True Citizen</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T14:00:20+00:00"
     },
     {
       "id": "4c7b8dd2ba6a11ee",
@@ -89,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-01T03:03:26+00:00"
+    },
+    {
+      "id": "d04ca4d37e2e1960",
+      "title": "Georgia Power talks about your bill, responding to outages, and playing it safe - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS3Q4ZFozeUt6WEJvNzE3ck55Nm9oTEpoYkVEcjJ6Y1IyMk5lVDNFZERGcFc2U2RMcXVrdmtzYy0zQ2NNMUhfV3p0bWJza2czam5WZlBTU1ZaNXp2MzA3OWZDcWllQjBzZGxKdEhXWmlUZ0FHbThPSWhYaFh3ZkxDcUhvUFRDQ183aFl1MktITQ?oc=5",
+      "domain": "news.google.com",
+      "source": "yahoo.com",
+      "language": "English",
+      "published_at": "2026-09-01T02:24:00+00:00",
+      "summary": "Georgia Power talks about your bill, responding to outages, and playing it safe yahoo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOS3Q4ZFozeUt6WEJvNzE3ck55Nm9oTEpoYkVEcjJ6Y1IyMk5lVDNFZERGcFc2U2RMcXVrdmtzYy0zQ2NNMUhfV3p0bWJza2czam5WZlBTU1ZaNXp2MzA3OWZDcWllQjBzZGxKdEhXWmlUZ0FHbThPSWhYaFh3ZkxDcUhvUFRDQ183aFl1MktITQ?oc=5\" target=\"_blank\">Georgia Power talks about your bill, responding to outages, and playing it safe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T14:00:20+00:00"
     },
     {
       "id": "19817ec1ef5c231c",
@@ -327,6 +355,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-28T03:58:12+00:00"
+    },
+    {
+      "id": "7787e5d731956fd9",
+      "title": "Georgia Power Gets PSC Approval for Massive Data Center Contract - rtoinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYThOYjltY3lKZ2dyUi1JWE5HRkpzREk2SnA2N19vWFBfam1reVZ4cWwzUE5JWVF3YkdTMFJjSDVMMVRybVZobjdqMGJmTVNSXzhhQ1U3OFZOLUFDaVRHaUJjM3pXamhtX1BxcFRCT2U5eDBBQ080R0t5WFNnbVNMMUNldUdHY3FNMDUwNURLQ3FQUmdqY2c?oc=5",
+      "domain": "news.google.com",
+      "source": "rtoinsider.com",
+      "language": "English",
+      "published_at": "2026-08-27T23:52:23+00:00",
+      "summary": "Georgia Power Gets PSC Approval for Massive Data Center Contract rtoinsider.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYThOYjltY3lKZ2dyUi1JWE5HRkpzREk2SnA2N19vWFBfam1reVZ4cWwzUE5JWVF3YkdTMFJjSDVMMVRybVZobjdqMGJmTVNSXzhhQ1U3OFZOLUFDaVRHaUJjM3pXamhtX1BxcFRCT2U5eDBBQ080R0t5WFNnbVNMMUNldUdHY3FNMDUwNURLQ3FQUmdqY2c?oc=5\" target=\"_blank\">Georgia Power Gets PSC Approval for Massive Data Center Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rtoinsider.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T14:00:20+00:00"
     },
     {
       "id": "4ab3e6c882a9a260",

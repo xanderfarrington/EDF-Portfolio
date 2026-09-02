@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-02T08:18:07+00:00",
+  "last_updated": "2026-09-02T14:00:03+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 283,
+  "count": 287,
   "mentions": [
     {
       "id": "149142358b49979c",
@@ -21,6 +21,20 @@
       "collected_at": "2026-09-02T08:18:07+00:00"
     },
     {
+      "id": "bd985a06f88ea7ce",
+      "title": "Alabama Power updating its system - WBRC 6 News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xMWhCWGdCVWVMVGdOOFR5bk5wRHg3SVdhVlphSmVyNWhwR21PWnZIUUl6Z2s5NE9CNFp0ekpzbWl4aEZsdjg5R2VMWUZqaTRBNGJZWDB5RFRQNjBpYUxYWHJ2cGVGWUdXanl4Ukl3TFRoLVNWdy1tYXZyLW4?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC 6 News",
+      "language": "English",
+      "published_at": "2026-09-01T22:51:52+00:00",
+      "summary": "Alabama Power updating its system WBRC 6 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1xMWhCWGdCVWVMVGdOOFR5bk5wRHg3SVdhVlphSmVyNWhwR21PWnZIUUl6Z2s5NE9CNFp0ekpzbWl4aEZsdjg5R2VMWUZqaTRBNGJZWDB5RFRQNjBpYUxYWHJ2cGVGWUdXanl4Ukl3TFRoLVNWdy1tYXZyLW4?oc=5\" target=\"_blank\">Alabama Power updating its system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC 6 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T14:00:03+00:00"
+    },
+    {
       "id": "2e8b4d1d97178af3",
       "title": "Alabama Power accounts inaccessible as utility upgrades digital systems - WBRC",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWtGS1JmRGViTVhZcEFEQ1BRUjFwWjBMVHI1U1B4eEEwODRwNnZHQUJxM0JGdHcxeE1jbEFTeFFERjhjWW5FVWxjaWF1eWhuNElZQ3k3ZU9wU2hjRzlGS3VkdUZpaVcyQ01FMUxudkd2TnhBekFzNXhBMlhZUEh0bWpyM3pDbGM0Q2U1TEpaYndMRjU2eFEyMVVCYTJObnJQN1Zn?oc=5",
@@ -33,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-02T08:18:07+00:00"
+    },
+    {
+      "id": "eb70762baecac216",
+      "title": "Alabama Power accounts inaccessible as utility upgrades digital systems - WBRC 6 News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWtGS1JmRGViTVhZcEFEQ1BRUjFwWjBMVHI1U1B4eEEwODRwNnZHQUJxM0JGdHcxeE1jbEFTeFFERjhjWW5FVWxjaWF1eWhuNElZQ3k3ZU9wU2hjRzlGS3VkdUZpaVcyQ01FMUxudkd2TnhBekFzNXhBMlhZUEh0bWpyM3pDbGM0Q2U1TEpaYndMRjU2eFEyMVVCYTJObnJQN1Zn?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC 6 News",
+      "language": "English",
+      "published_at": "2026-09-01T22:37:00+00:00",
+      "summary": "Alabama Power accounts inaccessible as utility upgrades digital systems WBRC 6 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWtGS1JmRGViTVhZcEFEQ1BRUjFwWjBMVHI1U1B4eEEwODRwNnZHQUJxM0JGdHcxeE1jbEFTeFFERjhjWW5FVWxjaWF1eWhuNElZQ3k3ZU9wU2hjRzlGS3VkdUZpaVcyQ01FMUxudkd2TnhBekFzNXhBMlhZUEh0bWpyM3pDbGM0Q2U1TEpaYndMRjU2eFEyMVVCYTJObnJQN1Zn?oc=5\" target=\"_blank\">Alabama Power accounts inaccessible as utility upgrades digital systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC 6 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T14:00:03+00:00"
     },
     {
       "id": "eddcdbeb9d720307",
@@ -49,6 +77,20 @@
       "collected_at": "2026-09-02T08:18:07+00:00"
     },
     {
+      "id": "2a1001cbacbd5e19",
+      "title": "Alabama Power: Extreme heat impact on your home - WBRC 6 News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnVzVGRMZENnc2JtVjBfYUdISVF4ZlhIZG4tY3hOUUJkNWlmdFdzSWtOTGZrcUhNZmM0aWNpc3ViMlBqR3ZCSENHR09FVU1ET3BCcGh1blFWR2dwUHhZMkM4RjRUZlZpa0E1VVRjTG9udGhPWDI0blk5c09ISU5ldWRrbmZnMWxXbUE?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC 6 News",
+      "language": "English",
+      "published_at": "2026-09-01T22:03:04+00:00",
+      "summary": "Alabama Power: Extreme heat impact on your home WBRC 6 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnVzVGRMZENnc2JtVjBfYUdISVF4ZlhIZG4tY3hOUUJkNWlmdFdzSWtOTGZrcUhNZmM0aWNpc3ViMlBqR3ZCSENHR09FVU1ET3BCcGh1blFWR2dwUHhZMkM4RjRUZlZpa0E1VVRjTG9udGhPWDI0blk5c09ISU5ldWRrbmZnMWxXbUE?oc=5\" target=\"_blank\">Alabama Power: Extreme heat impact on your home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC 6 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T14:00:03+00:00"
+    },
+    {
       "id": "74db10b0b34768ed",
       "title": "Gilliland, Taylor awarded inaugural Alabama Power scholarshi... - The Clanton Advertiser",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON21RSzdBQXV0a1plT0NvbENOa1VUb1RYRldZSDJBQXV3b0FOMEZYaGdmUjBfMXNUZ1AzUEM1UndTdXhNWnh0Q3JuQU9WTGJRTTNPSlNBSGhiQWJtelRLSVhDT2NSQTdEZ1JsVmJoMTZ6cDlwNjQ5NWFPa2V0M3pFZzNCeWkzTUNTNk1Ed3FIOXl5SDBFWERac18xc2w0cHh5YmJOYUFxM0hQeTRNb1g0UjJB?oc=5",
@@ -61,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-01T22:17:38+00:00"
+    },
+    {
+      "id": "da88db267c9a1ecc",
+      "title": "Gilliland, Taylor awarded inaugural Alabama Power scholarships - The Clanton Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON21RSzdBQXV0a1plT0NvbENOa1VUb1RYRldZSDJBQXV3b0FOMEZYaGdmUjBfMXNUZ1AzUEM1UndTdXhNWnh0Q3JuQU9WTGJRTTNPSlNBSGhiQWJtelRLSVhDT2NSQTdEZ1JsVmJoMTZ6cDlwNjQ5NWFPa2V0M3pFZzNCeWkzTUNTNk1Ed3FIOXl5SDBFWERac18xc2w0cHh5YmJOYUFxM0hQeTRNb1g0UjJB?oc=5",
+      "domain": "news.google.com",
+      "source": "The Clanton Advertiser",
+      "language": "English",
+      "published_at": "2026-09-01T19:58:33+00:00",
+      "summary": "Gilliland, Taylor awarded inaugural Alabama Power scholarships The Clanton Advertiser",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxON21RSzdBQXV0a1plT0NvbENOa1VUb1RYRldZSDJBQXV3b0FOMEZYaGdmUjBfMXNUZ1AzUEM1UndTdXhNWnh0Q3JuQU9WTGJRTTNPSlNBSGhiQWJtelRLSVhDT2NSQTdEZ1JsVmJoMTZ6cDlwNjQ5NWFPa2V0M3pFZzNCeWkzTUNTNk1Ed3FIOXl5SDBFWERac18xc2w0cHh5YmJOYUFxM0hQeTRNb1g0UjJB?oc=5\" target=\"_blank\">Gilliland, Taylor awarded inaugural Alabama Power scholarships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Clanton Advertiser</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T14:00:03+00:00"
     },
     {
       "id": "381a79fc5d25b3a3",
