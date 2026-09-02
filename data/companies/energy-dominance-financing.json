@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-09-02T20:23:50+00:00",
+  "last_updated": "2026-09-02T23:46:03+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 48,
+  "count": 49,
   "mentions": [
+    {
+      "id": "5df26ac181011689",
+      "title": "GEOTHERMAL POWER - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXcXBvRHRFYi1MSUNlVzlTRTN1WmZkUUwzR3lpQ3NmZE8wWVBZb0tnRUE4dVVMSkJ4ZW1lUmVQd2Nad0E1aVNLaHo1Mk5WVlcxMTZqTVlQRkFDODhRQjRMQzhn?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-08-27T18:03:23+00:00",
+      "summary": "GEOTHERMAL POWER Department of Energy (.gov)",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXcXBvRHRFYi1MSUNlVzlTRTN1WmZkUUwzR3lpQ3NmZE8wWVBZb0tnRUE4dVVMSkJ4ZW1lUmVQd2Nad0E1aVNLaHo1Mk5WVlcxMTZqTVlQRkFDODhRQjRMQzhn?oc=5\" target=\"_blank\">GEOTHERMAL POWER</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T23:46:03+00:00"
+    },
     {
       "id": "c5209af21567dd5c",
       "title": "Policy Deep Dive: How to Reform the Office of Energy Dominance Financing - Third Way",

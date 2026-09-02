@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-02T20:23:45+00:00",
+  "last_updated": "2026-09-02T23:45:58+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 582,
+  "count": 583,
   "mentions": [
     {
       "id": "b2720f9423ce2891",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-01T14:27:26+00:00"
+    },
+    {
+      "id": "cfff0f5e85dd02a6",
+      "title": "Georgia Power gives $100,000 to Camp Tanglewood campaign - augustachronicle.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeHByNEdPNWJFSTNhbklyX1lmckFhdDVQbFBXb05DVEhvNjNrMkwzcnFuZFhFamxwUXJDVXZPVk9USmFDRExlcGhwZkNFNXl3cEpJeEc3U3lyOE9YMkpMX0tEdDBZbFRtRkJsYUhESzZtWmxQRDRkTGNGWHJhM0o3Y1hZOEwyRkZGbWJKRDBFdGZKOXpyRG85aXE5b0JETXIzbHJwZGNoX0lxeUtJWldfMWZiMFZDUWpTQVlMTC1aNVV2TDM4TlY1REdIVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "augustachronicle.com",
+      "language": "English",
+      "published_at": "2026-09-01T08:02:00+00:00",
+      "summary": "Georgia Power gives $100,000 to Camp Tanglewood campaign augustachronicle.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPeHByNEdPNWJFSTNhbklyX1lmckFhdDVQbFBXb05DVEhvNjNrMkwzcnFuZFhFamxwUXJDVXZPVk9USmFDRExlcGhwZkNFNXl3cEpJeEc3U3lyOE9YMkpMX0tEdDBZbFRtRkJsYUhESzZtWmxQRDRkTGNGWHJhM0o3Y1hZOEwyRkZGbWJKRDBFdGZKOXpyRG85aXE5b0JETXIzbHJwZGNoX0lxeUtJWldfMWZiMFZDUWpTQVlMTC1aNVV2TDM4TlY1REdIVQ?oc=5\" target=\"_blank\">Georgia Power gives $100,000 to Camp Tanglewood campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">augustachronicle.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T23:45:58+00:00"
     },
     {
       "id": "2caed73ff4bcfc6d",

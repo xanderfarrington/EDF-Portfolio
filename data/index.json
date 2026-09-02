@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T20:23:55+00:00",
+  "last_updated": "2026-09-02T23:46:08+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 292,
-      "new_mentions_this_run": 19,
+      "count": 296,
+      "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "ec0034d931652cb6",
-        "title": "Alabama Power 10 volleyball: AL.com ranks the best high school teams in Alabama - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMU9STm5GbTlpSlVicDdGaEUxb2hvc2pjcEFGcC12VDR0OUZwQllxMHJNb0ZfcmJ5S2NtMENySjFINUlzWkFpOHF0cVQzTk96RHRuTERoTk05Tmt6SnI3Z2ZQYUxRRURKYkZZcDNRdWVfQ0tpNUVMcndwZ2F1cVZVZl9YT2taWUNSQmd3VDBtN0tId2k2SDdjOXlFbU9WdmRkcDhwLXM0Wko1OTdjQWN5UjhzOEdHV1FQRjJVVlBabmRJOVI2?oc=5",
+        "id": "b1b819818153c928",
+        "title": "Fort Dale student awarded Alabama Power scholarship - The Greenville Advocate",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXpYbjlTamJWbzl0SE9NMkpMTDJyREJZSUlNQ1lVUEE5NXFRRmpWcTBheXBjWU0yNjl6S1RBS2FUb0tSVnhCZTRNZXZ1aVJlTlJseU1Ra3NEYUpmUDJDejJ5UnZ0Q085bFMtcGh1UnRmUkVWSm5nOHBfTUIzbWhVQ09XQW9qTFY5dk55Z3YtYkhEdGlVdExGZ09SbnRDZE9LVUE?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "The Greenville Advocate",
         "language": "English",
-        "published_at": "2026-09-02T13:05:00+00:00",
-        "summary": "Alabama Power 10 volleyball: AL.com ranks the best high school teams in Alabama AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOMU9STm5GbTlpSlVicDdGaEUxb2hvc2pjcEFGcC12VDR0OUZwQllxMHJNb0ZfcmJ5S2NtMENySjFINUlzWkFpOHF0cVQzTk96RHRuTERoTk05Tmt6SnI3Z2ZQYUxRRURKYkZZcDNRdWVfQ0tpNUVMcndwZ2F1cVZVZl9YT2taWUNSQmd3VDBtN0tId2k2SDdjOXlFbU9WdmRkcDhwLXM0Wko1OTdjQWN5UjhzOEdHV1FQRjJVVlBabmRJOVI2?oc=5\" target=\"_blank\">Alabama Power 10 volleyball: AL.com ranks the best high school teams in Alabama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-09-02T23:02:51+00:00",
+        "summary": "Fort Dale student awarded Alabama Power scholarship The Greenville Advocate",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXpYbjlTamJWbzl0SE9NMkpMTDJyREJZSUlNQ1lVUEE5NXFRRmpWcTBheXBjWU0yNjl6S1RBS2FUb0tSVnhCZTRNZXZ1aVJlTlJseU1Ra3NEYUpmUDJDejJ5UnZ0Q085bFMtcGh1UnRmUkVWSm5nOHBfTUIzbWhVQ09XQW9qTFY5dk55Z3YtYkhEdGlVdExGZ09SbnRDZE9LVUE?oc=5\" target=\"_blank\">Fort Dale student awarded Alabama Power scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Greenville Advocate</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-02T20:23:28+00:00"
+        "collected_at": "2026-09-02T23:45:41+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 98,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 582,
+      "count": 583,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "b2720f9423ce2891",
@@ -110,21 +110,21 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 48,
-      "new_mentions_this_run": 1,
+      "count": 49,
+      "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "c5209af21567dd5c",
-        "title": "Policy Deep Dive: How to Reform the Office of Energy Dominance Financing - Third Way",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFpic01NbjRPU2toQlZVWnV5MHl5aC1kdnN4WXpPTnRHb2U2a0ZnQ1V0OFp4eDVxNk9fM2l1aVB5MTI4dEdWNWR0aUdqbG1DdU5VQkZaQXVSTnNtbEdPejY3MWFCVkxuTVlyQU8xX2kwX0ZYbk9VMXJELWJPSjByRlQ5aHhVUTNzOGJBRnlfaDlHZmZVa2VGYnZiV2Z2YkVvTnQwZ1NPeGQ?oc=5",
+        "id": "5df26ac181011689",
+        "title": "GEOTHERMAL POWER - Department of Energy (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXcXBvRHRFYi1MSUNlVzlTRTN1WmZkUUwzR3lpQ3NmZE8wWVBZb0tnRUE4dVVMSkJ4ZW1lUmVQd2Nad0E1aVNLaHo1Mk5WVlcxMTZqTVlQRkFDODhRQjRMQzhn?oc=5",
         "domain": "news.google.com",
-        "source": "Third Way",
+        "source": "Department of Energy (.gov)",
         "language": "English",
-        "published_at": "2026-08-27T13:44:34+00:00",
-        "summary": "Policy Deep Dive: How to Reform the Office of Energy Dominance Financing Third Way",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFpic01NbjRPU2toQlZVWnV5MHl5aC1kdnN4WXpPTnRHb2U2a0ZnQ1V0OFp4eDVxNk9fM2l1aVB5MTI4dEdWNWR0aUdqbG1DdU5VQkZaQXVSTnNtbEdPejY3MWFCVkxuTVlyQU8xX2kwX0ZYbk9VMXJELWJPSjByRlQ5aHhVUTNzOGJBRnlfaDlHZmZVa2VGYnZiV2Z2YkVvTnQwZ1NPeGQ?oc=5\" target=\"_blank\">Policy Deep Dive: How to Reform the Office of Energy Dominance Financing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Third Way</font>",
+        "published_at": "2026-08-27T18:03:23+00:00",
+        "summary": "GEOTHERMAL POWER Department of Energy (.gov)",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXcXBvRHRFYi1MSUNlVzlTRTN1WmZkUUwzR3lpQ3NmZE8wWVBZb0tnRUE4dVVMSkJ4ZW1lUmVQd2Nad0E1aVNLaHo1Mk5WVlcxMTZqTVlQRkFDODhRQjRMQzhn?oc=5\" target=\"_blank\">GEOTHERMAL POWER</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-28T03:58:18+00:00"
+        "collected_at": "2026-09-02T23:46:03+00:00"
       }
     }
   ]

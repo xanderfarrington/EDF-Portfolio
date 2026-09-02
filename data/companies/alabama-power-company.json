@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-02T20:23:28+00:00",
+  "last_updated": "2026-09-02T23:45:41+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 292,
+  "count": 296,
   "mentions": [
+    {
+      "id": "b1b819818153c928",
+      "title": "Fort Dale student awarded Alabama Power scholarship - The Greenville Advocate",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXpYbjlTamJWbzl0SE9NMkpMTDJyREJZSUlNQ1lVUEE5NXFRRmpWcTBheXBjWU0yNjl6S1RBS2FUb0tSVnhCZTRNZXZ1aVJlTlJseU1Ra3NEYUpmUDJDejJ5UnZ0Q085bFMtcGh1UnRmUkVWSm5nOHBfTUIzbWhVQ09XQW9qTFY5dk55Z3YtYkhEdGlVdExGZ09SbnRDZE9LVUE?oc=5",
+      "domain": "news.google.com",
+      "source": "The Greenville Advocate",
+      "language": "English",
+      "published_at": "2026-09-02T23:02:51+00:00",
+      "summary": "Fort Dale student awarded Alabama Power scholarship The Greenville Advocate",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXpYbjlTamJWbzl0SE9NMkpMTDJyREJZSUlNQ1lVUEE5NXFRRmpWcTBheXBjWU0yNjl6S1RBS2FUb0tSVnhCZTRNZXZ1aVJlTlJseU1Ra3NEYUpmUDJDejJ5UnZ0Q085bFMtcGh1UnRmUkVWSm5nOHBfTUIzbWhVQ09XQW9qTFY5dk55Z3YtYkhEdGlVdExGZ09SbnRDZE9LVUE?oc=5\" target=\"_blank\">Fort Dale student awarded Alabama Power scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Greenville Advocate</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T23:45:41+00:00"
+    },
     {
       "id": "ec0034d931652cb6",
       "title": "Alabama Power 10 volleyball: AL.com ranks the best high school teams in Alabama - AL.com",
@@ -173,6 +187,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-01T19:08:06+00:00"
+    },
+    {
+      "id": "365101ea8f59f1ad",
+      "title": "'This is my home': Shelby County man fights Alabama Power over transmission line route - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYy0wcTZTTkQ1SWZXbGkwSFVQODhZWHhhQlU5M29MWVFLVHk5VXlwUFlCbmRtaUxZQ244a3JjXzVZejZzcHJ3YmFvckRmazV4THlHZWVQQlNUTHNkRy1lT2ZpQTdaSGE0STYwejVWRkhhWDFYTUx6Z1Rvb0ZWamZQMGdoNWtlcnUzRldTWDl6NnV0ODBnOWRONnBIa3J5NXZwcW1ERUxPemtucVVrRVd0bVI5MGQ5MUs5ZF9DSWFkTDFPWmJYUDJ1dHZpaGM5cW9fUGdiLUV3?oc=5",
+      "domain": "news.google.com",
+      "source": "WBMA",
+      "language": "English",
+      "published_at": "2026-09-01T00:49:58+00:00",
+      "summary": "'This is my home': Shelby County man fights Alabama Power over transmission line route WBMA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYy0wcTZTTkQ1SWZXbGkwSFVQODhZWHhhQlU5M29MWVFLVHk5VXlwUFlCbmRtaUxZQ244a3JjXzVZejZzcHJ3YmFvckRmazV4THlHZWVQQlNUTHNkRy1lT2ZpQTdaSGE0STYwejVWRkhhWDFYTUx6Z1Rvb0ZWamZQMGdoNWtlcnUzRldTWDl6NnV0ODBnOWRONnBIa3J5NXZwcW1ERUxPemtucVVrRVd0bVI5MGQ5MUs5ZF9DSWFkTDFPWmJYUDJ1dHZpaGM5cW9fUGdiLUV3?oc=5\" target=\"_blank\">'This is my home': Shelby County man fights Alabama Power over transmission line route</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T23:45:41+00:00"
     },
     {
       "id": "941d7cffa4ccb1be",
@@ -523,6 +551,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-24T12:35:30+00:00"
+    },
+    {
+      "id": "bdafdd132379531d",
+      "title": "Alabama Power Hosts First Responder Safety Training in Gadsden and Talladega - calhounjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakNBd1ZGTmtZcmRoblRSb2VETlk3OHNXOVhNSzNiWjhzRHhQTE5IOHNjNkt3WWx0T0kwVjNnamhPS3FHUm9RSzFzYjV6Uld3S1YzYVA4RFlnUkRqNllSSHhIU0ZFVnNTT1Q2bkM5dEdSNUROY2ZzbkNpMjA2VjItVXFsQ1ZQVldTQkx4aFd5V1R5dktBdGJyMmNNR3BCTEd6RUsyU25XTQ?oc=5",
+      "domain": "news.google.com",
+      "source": "calhounjournal.com",
+      "language": "English",
+      "published_at": "2026-08-21T20:06:20+00:00",
+      "summary": "Alabama Power Hosts First Responder Safety Training in Gadsden and Talladega calhounjournal.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNakNBd1ZGTmtZcmRoblRSb2VETlk3OHNXOVhNSzNiWjhzRHhQTE5IOHNjNkt3WWx0T0kwVjNnamhPS3FHUm9RSzFzYjV6Uld3S1YzYVA4RFlnUkRqNllSSHhIU0ZFVnNTT1Q2bkM5dEdSNUROY2ZzbkNpMjA2VjItVXFsQ1ZQVldTQkx4aFd5V1R5dktBdGJyMmNNR3BCTEd6RUsyU25XTQ?oc=5\" target=\"_blank\">Alabama Power Hosts First Responder Safety Training in Gadsden and Talladega</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calhounjournal.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T23:45:41+00:00"
     },
     {
       "id": "11611a00b6c630a3",
@@ -971,6 +1013,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-02T17:49:00+00:00"
+    },
+    {
+      "id": "f602fcd80306d2ec",
+      "title": "Power Outage Reported - citizen.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jX1hOTVJsX2NHUWh2aTV6RHlaWW1xeGFMSzZsdklobWV6WU1ra1ZjQ2N0X0dOM2Z2ZS1namRKN0xaYVJPYmY2QTJlRDREbzNPRHc?oc=5",
+      "domain": "news.google.com",
+      "source": "citizen.com",
+      "language": "English",
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "summary": "Power Outage Reported citizen.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jX1hOTVJsX2NHUWh2aTV6RHlaWW1xeGFMSzZsdklobWV6WU1ra1ZjQ2N0X0dOM2Z2ZS1namRKN0xaYVJPYmY2QTJlRDREbzNPRHc?oc=5\" target=\"_blank\">Power Outage Reported</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citizen.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-02T23:45:41+00:00"
     },
     {
       "id": "273f553a4c73dddf",
