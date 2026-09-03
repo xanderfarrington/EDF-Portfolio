@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-09-03T19:01:18+00:00",
+  "last_updated": "2026-09-03T22:07:49+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 51,
+  "count": 53,
   "mentions": [
+    {
+      "id": "2f47030773f727e7",
+      "title": "Julie Kozeracki - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54UDJ3LVZRVC1ESlB1eUlqTjc1TG92QVJXTktuS3lESGczeEwtaWNtRkZjQ2NILVpic2ZjU3lITDdmbWk4aDFadEpIekNHWFFfRElIamplT25XRDJBN3c?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-09-01T16:30:20+00:00",
+      "summary": "Julie Kozeracki Department of Energy (.gov)",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE54UDJ3LVZRVC1ESlB1eUlqTjc1TG92QVJXTktuS3lESGczeEwtaWNtRkZjQ2NILVpic2ZjU3lITDdmbWk4aDFadEpIekNHWFFfRElIamplT25XRDJBN3c?oc=5\" target=\"_blank\">Julie Kozeracki</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-03T22:07:49+00:00"
+    },
     {
       "id": "5df26ac181011689",
       "title": "GEOTHERMAL POWER - Department of Energy (.gov)",
@@ -33,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-03T08:28:01+00:00"
+    },
+    {
+      "id": "d935d2fd041a4c75",
+      "title": "FY 2023 Annual Portfolio Status Report: Accelerating Portfolio Growth - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZktZZUZUS1pZazAxVVRFU2F2NzA2cmVPc2lKZWptaXFvc0ZtVjRxSS1TS1lORU1GVVFMVFVJTFFVM3A1WXZET0JFWnA2b3EwNnpuUko1a193bWdvVUh1SVFYTmQtdVdidVJ2TnlKYzhfSHg5ZzlQMHhRLVo0Z1cyYmNIMDJzTW84a2JxRDQzVFlPaDBFNklLRnhoRF9GZTZqcG1oel94cw?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-08-27T18:03:23+00:00",
+      "summary": "FY 2023 Annual Portfolio Status Report: Accelerating Portfolio Growth Department of Energy (.gov)",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZktZZUZUS1pZazAxVVRFU2F2NzA2cmVPc2lKZWptaXFvc0ZtVjRxSS1TS1lORU1GVVFMVFVJTFFVM3A1WXZET0JFWnA2b3EwNnpuUko1a193bWdvVUh1SVFYTmQtdVdidVJ2TnlKYzhfSHg5ZzlQMHhRLVo0Z1cyYmNIMDJzTW84a2JxRDQzVFlPaDBFNklLRnhoRF9GZTZqcG1oel94cw?oc=5\" target=\"_blank\">FY 2023 Annual Portfolio Status Report: Accelerating Portfolio Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-03T22:07:49+00:00"
     },
     {
       "id": "c5209af21567dd5c",

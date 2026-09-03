@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T19:01:23+00:00",
+  "last_updated": "2026-09-03T22:07:54+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 297,
-      "new_mentions_this_run": 12,
+      "new_mentions_this_run": 13,
       "latest_mention": {
         "id": "b1b819818153c928",
         "title": "Fort Dale student awarded Alabama Power scholarship - The Greenville Advocate",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 98,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 588,
+      "count": 589,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "66623ceb7401b9ff",
@@ -110,21 +110,21 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 51,
+      "count": 53,
       "new_mentions_this_run": 2,
       "latest_mention": {
-        "id": "5df26ac181011689",
-        "title": "GEOTHERMAL POWER - Department of Energy (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXcXBvRHRFYi1MSUNlVzlTRTN1WmZkUUwzR3lpQ3NmZE8wWVBZb0tnRUE4dVVMSkJ4ZW1lUmVQd2Nad0E1aVNLaHo1Mk5WVlcxMTZqTVlQRkFDODhRQjRMQzhn?oc=5",
+        "id": "2f47030773f727e7",
+        "title": "Julie Kozeracki - Department of Energy (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54UDJ3LVZRVC1ESlB1eUlqTjc1TG92QVJXTktuS3lESGczeEwtaWNtRkZjQ2NILVpic2ZjU3lITDdmbWk4aDFadEpIekNHWFFfRElIamplT25XRDJBN3c?oc=5",
         "domain": "news.google.com",
         "source": "Department of Energy (.gov)",
         "language": "English",
-        "published_at": "2026-08-27T18:03:23+00:00",
-        "summary": "GEOTHERMAL POWER Department of Energy (.gov)",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXcXBvRHRFYi1MSUNlVzlTRTN1WmZkUUwzR3lpQ3NmZE8wWVBZb0tnRUE4dVVMSkJ4ZW1lUmVQd2Nad0E1aVNLaHo1Mk5WVlcxMTZqTVlQRkFDODhRQjRMQzhn?oc=5\" target=\"_blank\">GEOTHERMAL POWER</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+        "published_at": "2026-09-01T16:30:20+00:00",
+        "summary": "Julie Kozeracki Department of Energy (.gov)",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE54UDJ3LVZRVC1ESlB1eUlqTjc1TG92QVJXTktuS3lESGczeEwtaWNtRkZjQ2NILVpic2ZjU3lITDdmbWk4aDFadEpIekNHWFFfRElIamplT25XRDJBN3c?oc=5\" target=\"_blank\">Julie Kozeracki</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-02T23:46:03+00:00"
+        "collected_at": "2026-09-03T22:07:49+00:00"
       }
     }
   ]
