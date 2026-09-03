@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T23:46:08+00:00",
+  "last_updated": "2026-09-03T02:30:50+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 296,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "b1b819818153c928",
         "title": "Fort Dale student awarded Alabama Power scholarship - The Greenville Advocate",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 98,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 583,
+      "count": 585,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "b2720f9423ce2891",
-        "title": "Second threatening message in over a week at Georgia Power plant in Coweta County - 11Alive.com",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVm5pZHVGck43ODdubWJ3S2FSWi1LU3pLeGZreUV1TXBRbm9qSVl6cVRoSVNYUFM5eEV4bFhRbXp3N05PWkF3LVViVHoxTXZuanotY1otcG12WVhrUlNxX1hWUkRSMm9BemY5dy1Pd1pKdnpwV2Q5MXFmVC1IbHhKSlBYWXNvT2tiWmN2YjB4SUkzSE8ySDVJZDVjWGJucExyRm1yQ2RqS3ZsN3ZfdV91LVhSWjlEYlZZSnljeUZmd1JHckJXelozUnU0bGh2ZUZXU1FIOUsyMGlMNzhGSVh3RFNON3l3LW5IOFlKOUw3a1pQRGdx?oc=5",
+        "id": "66623ceb7401b9ff",
+        "title": "How a Georgia Power Workforce Program Bet on Atlanta’s Westside - Southern Alliance for Clean Energy",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSW1rOXRBbFdVS3lsNGprUE9PaTNIWUwtcEZmdTRUQUJST0FRVFp6dFJrcmxJRnZjeUJBQ05VeTVKWU5pLWxBeG82dDdaT1FLcTBSX2U1Z21QQXhYaExpUG9jSVF2a2NDczNKd2RjNFJCa1VOc2xEdWFSbzhUbklSdkxBYTlqN096eThYd2NEVHFKNFhXOW1Z?oc=5",
         "domain": "news.google.com",
-        "source": "11Alive.com",
+        "source": "Southern Alliance for Clean Energy",
         "language": "English",
-        "published_at": "2026-09-02T03:08:00+00:00",
-        "summary": "Second threatening message in over a week at Georgia Power plant in Coweta County 11Alive.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVm5pZHVGck43ODdubWJ3S2FSWi1LU3pLeGZreUV1TXBRbm9qSVl6cVRoSVNYUFM5eEV4bFhRbXp3N05PWkF3LVViVHoxTXZuanotY1otcG12WVhrUlNxX1hWUkRSMm9BemY5dy1Pd1pKdnpwV2Q5MXFmVC1IbHhKSlBYWXNvT2tiWmN2YjB4SUkzSE8ySDVJZDVjWGJucExyRm1yQ2RqS3ZsN3ZfdV91LVhSWjlEYlZZSnljeUZmd1JHckJXelozUnU0bGh2ZUZXU1FIOUsyMGlMNzhGSVh3RFNON3l3LW5IOFlKOUw3a1pQRGdx?oc=5\" target=\"_blank\">Second threatening message in over a week at Georgia Power plant in Coweta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+        "published_at": "2026-09-02T18:08:31+00:00",
+        "summary": "How a Georgia Power Workforce Program Bet on Atlanta’s Westside Southern Alliance for Clean Energy",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSW1rOXRBbFdVS3lsNGprUE9PaTNIWUwtcEZmdTRUQUJST0FRVFp6dFJrcmxJRnZjeUJBQ05VeTVKWU5pLWxBeG82dDdaT1FLcTBSX2U1Z21QQXhYaExpUG9jSVF2a2NDczNKd2RjNFJCa1VOc2xEdWFSbzhUbklSdkxBYTlqN096eThYd2NEVHFKNFhXOW1Z?oc=5\" target=\"_blank\">How a Georgia Power Workforce Program Bet on Atlanta’s Westside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southern Alliance for Clean Energy</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-02T08:18:23+00:00"
+        "collected_at": "2026-09-03T02:30:39+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 49,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "5df26ac181011689",
         "title": "GEOTHERMAL POWER - Department of Energy (.gov)",
