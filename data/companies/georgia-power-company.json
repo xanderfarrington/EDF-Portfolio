@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-03T02:30:39+00:00",
+  "last_updated": "2026-09-03T08:27:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 585,
+  "count": 586,
   "mentions": [
     {
       "id": "66623ceb7401b9ff",
@@ -229,6 +229,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-31T02:55:42+00:00"
+    },
+    {
+      "id": "11a0bfc6385ce90c",
+      "title": "‘Strictest contract in data center history’ reached between Georgia Power and OpenAI - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkNSd1JCcy1WZ2Z5TDV4NnQ3czNCOTUtUnEzOFhLcGVTSFZzd080N3hxRVlvS1BRUEYtVmNpWEIxN0hwQkRYXzVKWE9TWUFWZy02cno3Z1NLU1E0UjdwOFJFWE1NWFlMR3ptMUtpVXE1QU5RQkZ0SGpnLWluelRDYURscUJVRDRPejVYcm43bUN6Y0l2LUxGZjhWZG42d0dYajFCSmNvcnMtMUxlV0tiN3ZuTGE?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-08-30T01:17:07+00:00",
+      "summary": "‘Strictest contract in data center history’ reached between Georgia Power and OpenAI WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkNSd1JCcy1WZ2Z5TDV4NnQ3czNCOTUtUnEzOFhLcGVTSFZzd080N3hxRVlvS1BRUEYtVmNpWEIxN0hwQkRYXzVKWE9TWUFWZy02cno3Z1NLU1E0UjdwOFJFWE1NWFlMR3ptMUtpVXE1QU5RQkZ0SGpnLWluelRDYURscUJVRDRPejVYcm43bUN6Y0l2LUxGZjhWZG42d0dYajFCSmNvcnMtMUxlV0tiN3ZuTGE?oc=5\" target=\"_blank\">‘Strictest contract in data center history’ reached between Georgia Power and OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-03T08:27:56+00:00"
     },
     {
       "id": "f751b512ff745f93",

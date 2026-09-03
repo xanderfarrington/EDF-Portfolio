@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T02:30:50+00:00",
+  "last_updated": "2026-09-03T08:28:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 296,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 13,
       "latest_mention": {
         "id": "b1b819818153c928",
         "title": "Fort Dale student awarded Alabama Power scholarship - The Greenville Advocate",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 585,
+      "count": 586,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "66623ceb7401b9ff",
@@ -110,8 +110,8 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 49,
-      "new_mentions_this_run": 2,
+      "count": 51,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "5df26ac181011689",
         "title": "GEOTHERMAL POWER - Department of Energy (.gov)",

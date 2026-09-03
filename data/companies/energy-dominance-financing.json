@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-09-03T02:30:45+00:00",
+  "last_updated": "2026-09-03T08:28:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 49,
+  "count": 51,
   "mentions": [
     {
       "id": "5df26ac181011689",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-02T23:46:03+00:00"
+    },
+    {
+      "id": "4504bdaa70f25b11",
+      "title": "ANNUAL PORTFOLIO STATUS REPORT - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aXzJBZWF6T2RZN1o2Ykwtbkt2MDVnV0xWc3dDMHZsRlU2Vk9WV1N4cmRKZTRFWnA5by1ZQ1VNbnlPaXZ2ZzR1cUxoVFF1VklTRWtxUU5ha3RmcjBJX3NfeEdPaUZVU1Ry?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-08-27T18:03:23+00:00",
+      "summary": "ANNUAL PORTFOLIO STATUS REPORT Department of Energy (.gov)",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aXzJBZWF6T2RZN1o2Ykwtbkt2MDVnV0xWc3dDMHZsRlU2Vk9WV1N4cmRKZTRFWnA5by1ZQ1VNbnlPaXZ2ZzR1cUxoVFF1VklTRWtxUU5ha3RmcjBJX3NfeEdPaUZVU1Ry?oc=5\" target=\"_blank\">ANNUAL PORTFOLIO STATUS REPORT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-03T08:28:01+00:00"
     },
     {
       "id": "c5209af21567dd5c",
@@ -173,6 +187,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-09T03:28:02+00:00"
+    },
+    {
+      "id": "508bec069759bba2",
+      "title": "US Energy Dept. awards loan for battery storage project - San Juan Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONVpNQlJxaGJxRWIwczZKbXNWZFpseXFrTkM2ZjhZN2xhbDY1aUEycWtBbkVUSTlGa0pBX0pCYVJFOWRTTTdrZTJoZVlQSEdLaG5BNGpnaEgwREk5R2hxeUlBZmMwdFFlMDcyNHNMS0p1SkJqT2R5eVJYY2NEMEF4S2V4Uzdod1c5RlY4NzMxZ2JKYlFBem8w?oc=5",
+      "domain": "news.google.com",
+      "source": "San Juan Daily Star",
+      "language": "English",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "summary": "US Energy Dept. awards loan for battery storage project San Juan Daily Star",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONVpNQlJxaGJxRWIwczZKbXNWZFpseXFrTkM2ZjhZN2xhbDY1aUEycWtBbkVUSTlGa0pBX0pCYVJFOWRTTTdrZTJoZVlQSEdLaG5BNGpnaEgwREk5R2hxeUlBZmMwdFFlMDcyNHNMS0p1SkJqT2R5eVJYY2NEMEF4S2V4Uzdod1c5RlY4NzMxZ2JKYlFBem8w?oc=5\" target=\"_blank\">US Energy Dept. awards loan for battery storage project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Juan Daily Star</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-03T08:28:01+00:00"
     },
     {
       "id": "e5327bb6296941af",
