@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-03T14:02:31+00:00",
+  "last_updated": "2026-09-03T19:00:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 296,
+  "count": 297,
   "mentions": [
     {
       "id": "b1b819818153c928",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-02T23:45:41+00:00"
+    },
+    {
+      "id": "22a89f0d0e0526e1",
+      "title": "Fort Dale student awarded Alabama Power scholarship - The Greenville Advocate",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGpuVzBobXpOR0QzcENKTUdXaS1KTHhrZzBNNnR4ajhWUW13NV9JbUh1Zjl3bUVIcTV6ejNMWGhJZWI3MC03MURmVFpnS19UeF8yTWZOYTNmeWhlTHAyeDh2QTFhc0ZzRnRwSkoxeUc4RzdfUEhNaHBVTktaSUtzMGhoVmpKZnBib2hWTVFEb3dDUm5KLU5kM0tab1lFMzBmeHMw?oc=5",
+      "domain": "news.google.com",
+      "source": "The Greenville Advocate",
+      "language": "English",
+      "published_at": "2026-09-02T23:02:51+00:00",
+      "summary": "Fort Dale student awarded Alabama Power scholarship The Greenville Advocate",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGpuVzBobXpOR0QzcENKTUdXaS1KTHhrZzBNNnR4ajhWUW13NV9JbUh1Zjl3bUVIcTV6ejNMWGhJZWI3MC03MURmVFpnS19UeF8yTWZOYTNmeWhlTHAyeDh2QTFhc0ZzRnRwSkoxeUc4RzdfUEhNaHBVTktaSUtzMGhoVmpKZnBib2hWTVFEb3dDUm5KLU5kM0tab1lFMzBmeHMw?oc=5\" target=\"_blank\">Fort Dale student awarded Alabama Power scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Greenville Advocate</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-03T19:00:56+00:00"
     },
     {
       "id": "ec0034d931652cb6",
