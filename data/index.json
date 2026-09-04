@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T02:26:51+00:00",
+  "last_updated": "2026-09-04T08:23:44+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 297,
-      "new_mentions_this_run": 0,
+      "count": 302,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "b1b819818153c928",
-        "title": "Fort Dale student awarded Alabama Power scholarship - The Greenville Advocate",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXpYbjlTamJWbzl0SE9NMkpMTDJyREJZSUlNQ1lVUEE5NXFRRmpWcTBheXBjWU0yNjl6S1RBS2FUb0tSVnhCZTRNZXZ1aVJlTlJseU1Ra3NEYUpmUDJDejJ5UnZ0Q085bFMtcGh1UnRmUkVWSm5nOHBfTUIzbWhVQ09XQW9qTFY5dk55Z3YtYkhEdGlVdExGZ09SbnRDZE9LVUE?oc=5",
+        "id": "9786992cf6f551e8",
+        "title": "Alabama Power online account access unavailable through Sept. 7 - fox10tv.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckFYNmhyV0gwbHNkNWUxRXpfb0txbUlaS3duTzFhMUtxc0dvNHdHdWo3V2FpN0RJa3YxM3phRzU1MERLWkc1dkJWQmN5Mk04OTFSMDA2X2VTOUlKRlhTRGZMMnNfNzRyMjlCeXZRYjFZRGE5a01BTUFiZWI2TTBfcmc1RTVQYVF6UEpTSC11RTV4Snd2djEtU1p4anFOUzjSAbMBQVVfeXFMUGZIdUZRejJWMGY4SUZ4QnNhdU1UaUhzcG1paExvMEhIS1RzTVEyRnd4UEozejhSVlc5aklwdDQ2Q0VYZm5OamZ6Y0JTT0Q5aVNkbGdWUFlkZ1VyZWNKWGZ1ZWNxNC0tWnVWRnNMYnpKUFpiX3Q4REFmZ2h6bVlOSHR2N3Nvc20waFpySlc4RkJTUlI5UkxUdl9xY3lVVW9ybm1KLU1mcTNGMF9DWm16aTZIcVE?oc=5",
         "domain": "news.google.com",
-        "source": "The Greenville Advocate",
+        "source": "fox10tv.com",
         "language": "English",
-        "published_at": "2026-09-02T23:02:51+00:00",
-        "summary": "Fort Dale student awarded Alabama Power scholarship The Greenville Advocate",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXpYbjlTamJWbzl0SE9NMkpMTDJyREJZSUlNQ1lVUEE5NXFRRmpWcTBheXBjWU0yNjl6S1RBS2FUb0tSVnhCZTRNZXZ1aVJlTlJseU1Ra3NEYUpmUDJDejJ5UnZ0Q085bFMtcGh1UnRmUkVWSm5nOHBfTUIzbWhVQ09XQW9qTFY5dk55Z3YtYkhEdGlVdExGZ09SbnRDZE9LVUE?oc=5\" target=\"_blank\">Fort Dale student awarded Alabama Power scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Greenville Advocate</font>",
+        "published_at": "2026-09-03T23:08:00+00:00",
+        "summary": "Alabama Power online account access unavailable through Sept. 7 fox10tv.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPckFYNmhyV0gwbHNkNWUxRXpfb0txbUlaS3duTzFhMUtxc0dvNHdHdWo3V2FpN0RJa3YxM3phRzU1MERLWkc1dkJWQmN5Mk04OTFSMDA2X2VTOUlKRlhTRGZMMnNfNzRyMjlCeXZRYjFZRGE5a01BTUFiZWI2TTBfcmc1RTVQYVF6UEpTSC11RTV4Snd2djEtU1p4anFOUzjSAbMBQVVfeXFMUGZIdUZRejJWMGY4SUZ4QnNhdU1UaUhzcG1paExvMEhIS1RzTVEyRnd4UEozejhSVlc5aklwdDQ2Q0VYZm5OamZ6Y0JTT0Q5aVNkbGdWUFlkZ1VyZWNKWGZ1ZWNxNC0tWnVWRnNMYnpKUFpiX3Q4REFmZ2h6bVlOSHR2N3Nvc20waFpySlc4RkJTUlI5UkxUdl9xY3lVVW9ybm1KLU1mcTNGMF9DWm16aTZIcVE?oc=5\" target=\"_blank\">Alabama Power online account access unavailable through Sept. 7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-02T23:45:41+00:00"
+        "collected_at": "2026-09-04T08:23:18+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 593,
+      "count": 594,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "944d1bccfc0e63a7",

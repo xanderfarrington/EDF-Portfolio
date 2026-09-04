@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-04T02:26:40+00:00",
+  "last_updated": "2026-09-04T08:23:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 593,
+  "count": 594,
   "mentions": [
     {
       "id": "944d1bccfc0e63a7",
@@ -103,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-04T02:26:40+00:00"
+    },
+    {
+      "id": "94be947e40f74ed3",
+      "title": "Second threatening message in over a week at Georgia Power plant in Coweta County - WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxNcHV0d2ZXYUJIQ2k3VXRoMlo2X3ZkNG5YU3RVbmY0cE9ZelFqdGZOWGhLOTI0eVlvQUZKN1FnZ25mY2NWTDN3ZG9Wa0dJV3VqTUJTb1pwNnNsQjJKMEVGa3NDajJOaEp3cHNENXE0SHdRcTYySmQ0cnVMSzlCa2J3MFV6eDVEMV9NaGwwNjg0N196Z1ZlZzdGMTFUZGZHZlVBRFFaWnVDci1QMVpJRmJaZ01qNTRFOHNleTViODVXa01kMkN1Vi1rcjZCeHN0bGNDYUlqd1lIdkUxOVFocHVMQ3pUTndNUHFkVXFteVRoajBEci0xRTM1Zno2QUpiTHgtZWJkR0VJS3NxRnBLUEUtSWpfX2FZd2VlRkdiNXpQOWUxUi1FSUZFYkZBQXBLbEtiNFhBdEtUak9lTjNrS2psWXhrN2VzX1c3cWNWS1dTWWN1SVdqdnpqTTJWSnBGY1FZTnNBTXJlSU0xQV9lYmFXRTFTMXpZMFllal9aeDk1d2R3RnZzWTkxRG8wdnBtV2h3bklIdlMxd1pKRjJIVW0tX3pZT0lvdVVHNk9qczZ1cEZ4SURpcUE0S0xaN0RRVUIxYVVURzhYLXREXy1VblpudVl2S0Izb2ppSzJQYmR1THhUdkZrNmtiQ0FjMnVQQkFBc0tWaDJldENUNDdqXzlsenFuTTFmWFNmN2VCcC1ucmdQUzlTak0zN3dhVzlYU0RScU9KZDZ3R3d0V3AxR3NpSlktVnJ1WXdQaWNPRUljSTJpQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WMAZ",
+      "language": "English",
+      "published_at": "2026-09-02T00:45:00+00:00",
+      "summary": "Second threatening message in over a week at Georgia Power plant in Coweta County WMAZ",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgRBVV95cUxNcHV0d2ZXYUJIQ2k3VXRoMlo2X3ZkNG5YU3RVbmY0cE9ZelFqdGZOWGhLOTI0eVlvQUZKN1FnZ25mY2NWTDN3ZG9Wa0dJV3VqTUJTb1pwNnNsQjJKMEVGa3NDajJOaEp3cHNENXE0SHdRcTYySmQ0cnVMSzlCa2J3MFV6eDVEMV9NaGwwNjg0N196Z1ZlZzdGMTFUZGZHZlVBRFFaWnVDci1QMVpJRmJaZ01qNTRFOHNleTViODVXa01kMkN1Vi1rcjZCeHN0bGNDYUlqd1lIdkUxOVFocHVMQ3pUTndNUHFkVXFteVRoajBEci0xRTM1Zno2QUpiTHgtZWJkR0VJS3NxRnBLUEUtSWpfX2FZd2VlRkdiNXpQOWUxUi1FSUZFYkZBQXBLbEtiNFhBdEtUak9lTjNrS2psWXhrN2VzX1c3cWNWS1dTWWN1SVdqdnpqTTJWSnBGY1FZTnNBTXJlSU0xQV9lYmFXRTFTMXpZMFllal9aeDk1d2R3RnZzWTkxRG8wdnBtV2h3bklIdlMxd1pKRjJIVW0tX3pZT0lvdVVHNk9qczZ1cEZ4SURpcUE0S0xaN0RRVUIxYVVURzhYLXREXy1VblpudVl2S0Izb2ppSzJQYmR1THhUdkZrNmtiQ0FjMnVQQkFBc0tWaDJldENUNDdqXzlsenFuTTFmWFNmN2VCcC1ucmdQUzlTak0zN3dhVzlYU0RScU9KZDZ3R3d0V3AxR3NpSlktVnJ1WXdQaWNPRUljSTJpQQ?oc=5\" target=\"_blank\">Second threatening message in over a week at Georgia Power plant in Coweta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WMAZ</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T08:23:34+00:00"
     },
     {
       "id": "63df62fd1867b2ad",
