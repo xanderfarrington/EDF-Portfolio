@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T22:07:54+00:00",
+  "last_updated": "2026-09-04T02:26:51+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 297,
-      "new_mentions_this_run": 13,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "b1b819818153c928",
         "title": "Fort Dale student awarded Alabama Power scholarship - The Greenville Advocate",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 98,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 589,
+      "count": 593,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "66623ceb7401b9ff",
-        "title": "How a Georgia Power Workforce Program Bet on Atlanta’s Westside - Southern Alliance for Clean Energy",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSW1rOXRBbFdVS3lsNGprUE9PaTNIWUwtcEZmdTRUQUJST0FRVFp6dFJrcmxJRnZjeUJBQ05VeTVKWU5pLWxBeG82dDdaT1FLcTBSX2U1Z21QQXhYaExpUG9jSVF2a2NDczNKd2RjNFJCa1VOc2xEdWFSbzhUbklSdkxBYTlqN096eThYd2NEVHFKNFhXOW1Z?oc=5",
+        "id": "944d1bccfc0e63a7",
+        "title": "Georgia Power Foundation boosting Food Bank of Northeast Georgia's Donations in September - WNEG Radio",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaV1dsWUYzSTQ1VU56am1pT0R6RWloa2FMeVRlVkg1Nm8zU2c5RGhzdkxhLUVmcmZ6RkJKVWFxRThwZUxJT0E?oc=5",
         "domain": "news.google.com",
-        "source": "Southern Alliance for Clean Energy",
+        "source": "WNEG Radio",
         "language": "English",
-        "published_at": "2026-09-02T18:08:31+00:00",
-        "summary": "How a Georgia Power Workforce Program Bet on Atlanta’s Westside Southern Alliance for Clean Energy",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSW1rOXRBbFdVS3lsNGprUE9PaTNIWUwtcEZmdTRUQUJST0FRVFp6dFJrcmxJRnZjeUJBQ05VeTVKWU5pLWxBeG82dDdaT1FLcTBSX2U1Z21QQXhYaExpUG9jSVF2a2NDczNKd2RjNFJCa1VOc2xEdWFSbzhUbklSdkxBYTlqN096eThYd2NEVHFKNFhXOW1Z?oc=5\" target=\"_blank\">How a Georgia Power Workforce Program Bet on Atlanta’s Westside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southern Alliance for Clean Energy</font>",
+        "published_at": "2026-09-03T22:19:07+00:00",
+        "summary": "Georgia Power Foundation boosting Food Bank of Northeast Georgia's Donations in September WNEG Radio",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaV1dsWUYzSTQ1VU56am1pT0R6RWloa2FMeVRlVkg1Nm8zU2c5RGhzdkxhLUVmcmZ6RkJKVWFxRThwZUxJT0E?oc=5\" target=\"_blank\">Georgia Power Foundation boosting Food Bank of Northeast Georgia's Donations in September</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WNEG Radio</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-03T02:30:39+00:00"
+        "collected_at": "2026-09-04T02:26:40+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 53,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "2f47030773f727e7",
         "title": "Julie Kozeracki - Department of Energy (.gov)",

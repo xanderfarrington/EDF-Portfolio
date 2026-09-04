@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-03T22:07:44+00:00",
+  "last_updated": "2026-09-04T02:26:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 589,
+  "count": 593,
   "mentions": [
+    {
+      "id": "944d1bccfc0e63a7",
+      "title": "Georgia Power Foundation boosting Food Bank of Northeast Georgia's Donations in September - WNEG Radio",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaV1dsWUYzSTQ1VU56am1pT0R6RWloa2FMeVRlVkg1Nm8zU2c5RGhzdkxhLUVmcmZ6RkJKVWFxRThwZUxJT0E?oc=5",
+      "domain": "news.google.com",
+      "source": "WNEG Radio",
+      "language": "English",
+      "published_at": "2026-09-03T22:19:07+00:00",
+      "summary": "Georgia Power Foundation boosting Food Bank of Northeast Georgia's Donations in September WNEG Radio",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaV1dsWUYzSTQ1VU56am1pT0R6RWloa2FMeVRlVkg1Nm8zU2c5RGhzdkxhLUVmcmZ6RkJKVWFxRThwZUxJT0E?oc=5\" target=\"_blank\">Georgia Power Foundation boosting Food Bank of Northeast Georgia's Donations in September</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WNEG Radio</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T02:26:40+00:00"
+    },
     {
       "id": "66623ceb7401b9ff",
       "title": "How a Georgia Power Workforce Program Bet on Atlanta’s Westside - Southern Alliance for Clean Energy",
@@ -75,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-03T19:01:12+00:00"
+    },
+    {
+      "id": "544c716216921943",
+      "title": "Second threatening message in over a week at Georgia Power plant in Coweta County - 13WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxNcHV0d2ZXYUJIQ2k3VXRoMlo2X3ZkNG5YU3RVbmY0cE9ZelFqdGZOWGhLOTI0eVlvQUZKN1FnZ25mY2NWTDN3ZG9Wa0dJV3VqTUJTb1pwNnNsQjJKMEVGa3NDajJOaEp3cHNENXE0SHdRcTYySmQ0cnVMSzlCa2J3MFV6eDVEMV9NaGwwNjg0N196Z1ZlZzdGMTFUZGZHZlVBRFFaWnVDci1QMVpJRmJaZ01qNTRFOHNleTViODVXa01kMkN1Vi1rcjZCeHN0bGNDYUlqd1lIdkUxOVFocHVMQ3pUTndNUHFkVXFteVRoajBEci0xRTM1Zno2QUpiTHgtZWJkR0VJS3NxRnBLUEUtSWpfX2FZd2VlRkdiNXpQOWUxUi1FSUZFYkZBQXBLbEtiNFhBdEtUak9lTjNrS2psWXhrN2VzX1c3cWNWS1dTWWN1SVdqdnpqTTJWSnBGY1FZTnNBTXJlSU0xQV9lYmFXRTFTMXpZMFllal9aeDk1d2R3RnZzWTkxRG8wdnBtV2h3bklIdlMxd1pKRjJIVW0tX3pZT0lvdVVHNk9qczZ1cEZ4SURpcUE0S0xaN0RRVUIxYVVURzhYLXREXy1VblpudVl2S0Izb2ppSzJQYmR1THhUdkZrNmtiQ0FjMnVQQkFBc0tWaDJldENUNDdqXzlsenFuTTFmWFNmN2VCcC1ucmdQUzlTak0zN3dhVzlYU0RScU9KZDZ3R3d0V3AxR3NpSlktVnJ1WXdQaWNPRUljSTJpQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "13WMAZ",
+      "language": "English",
+      "published_at": "2026-09-02T00:45:00+00:00",
+      "summary": "Second threatening message in over a week at Georgia Power plant in Coweta County 13WMAZ",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgRBVV95cUxNcHV0d2ZXYUJIQ2k3VXRoMlo2X3ZkNG5YU3RVbmY0cE9ZelFqdGZOWGhLOTI0eVlvQUZKN1FnZ25mY2NWTDN3ZG9Wa0dJV3VqTUJTb1pwNnNsQjJKMEVGa3NDajJOaEp3cHNENXE0SHdRcTYySmQ0cnVMSzlCa2J3MFV6eDVEMV9NaGwwNjg0N196Z1ZlZzdGMTFUZGZHZlVBRFFaWnVDci1QMVpJRmJaZ01qNTRFOHNleTViODVXa01kMkN1Vi1rcjZCeHN0bGNDYUlqd1lIdkUxOVFocHVMQ3pUTndNUHFkVXFteVRoajBEci0xRTM1Zno2QUpiTHgtZWJkR0VJS3NxRnBLUEUtSWpfX2FZd2VlRkdiNXpQOWUxUi1FSUZFYkZBQXBLbEtiNFhBdEtUak9lTjNrS2psWXhrN2VzX1c3cWNWS1dTWWN1SVdqdnpqTTJWSnBGY1FZTnNBTXJlSU0xQV9lYmFXRTFTMXpZMFllal9aeDk1d2R3RnZzWTkxRG8wdnBtV2h3bklIdlMxd1pKRjJIVW0tX3pZT0lvdVVHNk9qczZ1cEZ4SURpcUE0S0xaN0RRVUIxYVVURzhYLXREXy1VblpudVl2S0Izb2ppSzJQYmR1THhUdkZrNmtiQ0FjMnVQQkFBc0tWaDJldENUNDdqXzlsenFuTTFmWFNmN2VCcC1ucmdQUzlTak0zN3dhVzlYU0RScU9KZDZ3R3d0V3AxR3NpSlktVnJ1WXdQaWNPRUljSTJpQQ?oc=5\" target=\"_blank\">Second threatening message in over a week at Georgia Power plant in Coweta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13WMAZ</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T02:26:40+00:00"
     },
     {
       "id": "63df62fd1867b2ad",
@@ -285,6 +313,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-29T00:23:55+00:00"
+    },
+    {
+      "id": "98ea2629693c46ee",
+      "title": "Georgia Power, OpenAI contract approved for Effingham center - statesboroherald.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUZPMDRMTHVJUC0tc0JncHhXR3U5akRRN1pfakhKNU5iTGNuTk0xNFpoWmdwZnZXMFhZMkxMNFZvUDhzTDN4SWJoNDNYYzRPdzVmZlBjMkx1blNjVTdMOTRLVVA5blZMdWZzSlJnRzA1TDRwRDVTNUwxQ0xVZUxTeFFDTTRXRENtNGxtdlhBYUNkbjVBMkZ5aEh3V2o3bTFf?oc=5",
+      "domain": "news.google.com",
+      "source": "statesboroherald.com",
+      "language": "English",
+      "published_at": "2026-08-28T20:16:57+00:00",
+      "summary": "Georgia Power, OpenAI contract approved for Effingham center statesboroherald.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUZPMDRMTHVJUC0tc0JncHhXR3U5akRRN1pfakhKNU5iTGNuTk0xNFpoWmdwZnZXMFhZMkxMNFZvUDhzTDN4SWJoNDNYYzRPdzVmZlBjMkx1blNjVTdMOTRLVVA5blZMdWZzSlJnRzA1TDRwRDVTNUwxQ0xVZUxTeFFDTTRXRENtNGxtdlhBYUNkbjVBMkZ5aEh3V2o3bTFf?oc=5\" target=\"_blank\">Georgia Power, OpenAI contract approved for Effingham center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">statesboroherald.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T02:26:40+00:00"
     },
     {
       "id": "fc2f5ca7061e80c4",
@@ -747,6 +789,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-27T18:43:21+00:00"
+    },
+    {
+      "id": "eee351bf109a1463",
+      "title": "Utility officials approve Georgia Power, OpenAI data center agreement - wsbtv.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeU01bGZXVy02cXhQMVU0RnhYaDQ4RlFlQ0l0eTJocEZqUjhsTGdCaTlTQ0RHS3Fmc3MwOHl1RHdyczVreC1LazNGcmdVQWs3Z21xVEdBNG5jeWYzU0ZKOFpzRE81a2lSUlV3VDdydFQ0VE1WUXc3TThkVnQtRVhTTWRDT2w4OGxZVzlnYmU2U21nWjA0Qk13dGo4QXdfRDNzbk9BNno3eF9JbEhFSDk1aWpMRGtZMXVsb3hUMlZsbk1lTWFTRHBMVdIB3AFBVV95cUxQYXVMSmh4ak9ET1o0MlcyUWsyaEp4N0g0ZWZVSF8zVExtc01wSnhmZHBSLXhtNVFsRl82cFVtQnNqNUZPbTNaN3lRV0IyOGVHTTlEOHNnYzQta1Zyc3o1MmRUQkhBelowYmhremlfcnBBdVM5eGY5cGZ5Z0pqVFFzSjB2NkUyU2tZZUNwSVhldnlTX1VDLVpZRzRzX1VjQ1JsRmJqYTlnY0J4ZnBjQVB2TGE1SHFNTllMMmM1eWpNZmg3WkZad1licml0QnlsTnJ5N0c4UnBHSjB6OG9m?oc=5",
+      "domain": "news.google.com",
+      "source": "wsbtv.com",
+      "language": "English",
+      "published_at": "2026-08-27T15:04:25+00:00",
+      "summary": "Utility officials approve Georgia Power, OpenAI data center agreement wsbtv.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeU01bGZXVy02cXhQMVU0RnhYaDQ4RlFlQ0l0eTJocEZqUjhsTGdCaTlTQ0RHS3Fmc3MwOHl1RHdyczVreC1LazNGcmdVQWs3Z21xVEdBNG5jeWYzU0ZKOFpzRE81a2lSUlV3VDdydFQ0VE1WUXc3TThkVnQtRVhTTWRDT2w4OGxZVzlnYmU2U21nWjA0Qk13dGo4QXdfRDNzbk9BNno3eF9JbEhFSDk1aWpMRGtZMXVsb3hUMlZsbk1lTWFTRHBMVdIB3AFBVV95cUxQYXVMSmh4ak9ET1o0MlcyUWsyaEp4N0g0ZWZVSF8zVExtc01wSnhmZHBSLXhtNVFsRl82cFVtQnNqNUZPbTNaN3lRV0IyOGVHTTlEOHNnYzQta1Zyc3o1MmRUQkhBelowYmhremlfcnBBdVM5eGY5cGZ5Z0pqVFFzSjB2NkUyU2tZZUNwSVhldnlTX1VDLVpZRzRzX1VjQ1JsRmJqYTlnY0J4ZnBjQVB2TGE1SHFNTllMMmM1eWpNZmg3WkZad1licml0QnlsTnJ5N0c4UnBHSjB6OG9m?oc=5\" target=\"_blank\">Utility officials approve Georgia Power, OpenAI data center agreement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsbtv.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T02:26:40+00:00"
     },
     {
       "id": "cea1d1438ce1e5f5",
