@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T08:23:44+00:00",
+  "last_updated": "2026-09-04T13:55:47+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 302,
+      "count": 305,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "9786992cf6f551e8",
-        "title": "Alabama Power online account access unavailable through Sept. 7 - fox10tv.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckFYNmhyV0gwbHNkNWUxRXpfb0txbUlaS3duTzFhMUtxc0dvNHdHdWo3V2FpN0RJa3YxM3phRzU1MERLWkc1dkJWQmN5Mk04OTFSMDA2X2VTOUlKRlhTRGZMMnNfNzRyMjlCeXZRYjFZRGE5a01BTUFiZWI2TTBfcmc1RTVQYVF6UEpTSC11RTV4Snd2djEtU1p4anFOUzjSAbMBQVVfeXFMUGZIdUZRejJWMGY4SUZ4QnNhdU1UaUhzcG1paExvMEhIS1RzTVEyRnd4UEozejhSVlc5aklwdDQ2Q0VYZm5OamZ6Y0JTT0Q5aVNkbGdWUFlkZ1VyZWNKWGZ1ZWNxNC0tWnVWRnNMYnpKUFpiX3Q4REFmZ2h6bVlOSHR2N3Nvc20waFpySlc4RkJTUlI5UkxUdl9xY3lVVW9ybm1KLU1mcTNGMF9DWm16aTZIcVE?oc=5",
+        "id": "90e215fda94729eb",
+        "title": "Alabama Power offers tips to help customers stay cool and manage energy costs during extreme heat - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUTJBMXk0MXVnWTZkY09UMkZ6Q2U4VUJlM3dQRWdfd1hrU3NraWZ4cExBYWVFRHhGUzVPVzYtaWZNTHhyQ3BKSXdiVW9KVkluNEgxNi1MMEt0SDlRUi1aQXJQN1J4OVhXcXVpaFhyaW55ZWJnUWk4UEVYal9CZ2VaZmJLSHFpQ2h5YzhsT1ZPZEdLY1pWckIzWWs4VVctQ3V1MUlXM3VRbUE4aWpLa0YyaVY0TWJKbEVvZDJvNXdvTHh4OE5mblAwaEpDc2pheFp5Zjdn?oc=5",
         "domain": "news.google.com",
-        "source": "fox10tv.com",
+        "source": "wvtm",
         "language": "English",
-        "published_at": "2026-09-03T23:08:00+00:00",
-        "summary": "Alabama Power online account access unavailable through Sept. 7 fox10tv.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPckFYNmhyV0gwbHNkNWUxRXpfb0txbUlaS3duTzFhMUtxc0dvNHdHdWo3V2FpN0RJa3YxM3phRzU1MERLWkc1dkJWQmN5Mk04OTFSMDA2X2VTOUlKRlhTRGZMMnNfNzRyMjlCeXZRYjFZRGE5a01BTUFiZWI2TTBfcmc1RTVQYVF6UEpTSC11RTV4Snd2djEtU1p4anFOUzjSAbMBQVVfeXFMUGZIdUZRejJWMGY4SUZ4QnNhdU1UaUhzcG1paExvMEhIS1RzTVEyRnd4UEozejhSVlc5aklwdDQ2Q0VYZm5OamZ6Y0JTT0Q5aVNkbGdWUFlkZ1VyZWNKWGZ1ZWNxNC0tWnVWRnNMYnpKUFpiX3Q4REFmZ2h6bVlOSHR2N3Nvc20waFpySlc4RkJTUlI5UkxUdl9xY3lVVW9ybm1KLU1mcTNGMF9DWm16aTZIcVE?oc=5\" target=\"_blank\">Alabama Power online account access unavailable through Sept. 7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+        "published_at": "2026-09-04T12:03:47+00:00",
+        "summary": "Alabama Power offers tips to help customers stay cool and manage energy costs during extreme heat wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUTJBMXk0MXVnWTZkY09UMkZ6Q2U4VUJlM3dQRWdfd1hrU3NraWZ4cExBYWVFRHhGUzVPVzYtaWZNTHhyQ3BKSXdiVW9KVkluNEgxNi1MMEt0SDlRUi1aQXJQN1J4OVhXcXVpaFhyaW55ZWJnUWk4UEVYal9CZ2VaZmJLSHFpQ2h5YzhsT1ZPZEdLY1pWckIzWWs4VVctQ3V1MUlXM3VRbUE4aWpLa0YyaVY0TWJKbEVvZDJvNXdvTHh4OE5mblAwaEpDc2pheFp5Zjdn?oc=5\" target=\"_blank\">Alabama Power offers tips to help customers stay cool and manage energy costs during extreme heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-04T08:23:18+00:00"
+        "collected_at": "2026-09-04T13:55:19+00:00"
       }
     },
     {
@@ -89,42 +89,42 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 594,
+      "count": 597,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "944d1bccfc0e63a7",
-        "title": "Georgia Power Foundation boosting Food Bank of Northeast Georgia's Donations in September - WNEG Radio",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaV1dsWUYzSTQ1VU56am1pT0R6RWloa2FMeVRlVkg1Nm8zU2c5RGhzdkxhLUVmcmZ6RkJKVWFxRThwZUxJT0E?oc=5",
+        "id": "c43826572ab1ed88",
+        "title": "Why Is Southern Company (NYSE:SO) Signing Long-Term Georgia Power Agreement as Data Center Load Surges? - kalkinemedia.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT18ybWNXYVhGbWdiMmxkM0lhMHhQdWZZQnkzNXY4U0hjY0oybm93N29CRVEzeFF1bzdBN2NHeS1WMVFqNXdCYXVjTjZVQzBsTVJOdVpjd0tES19ySjZLdG1jMEVhTXYxb2dDNTcyTFB0Z1BkNHlfUnpjdjU0Mm5iNU9WQlpOTGhvcXZvcUpJeU80Y09YZndOZzR1RWVxRUpqelhHckkwcVBFVTFScVBxSmFoSThwMUNKMTd5SzdsRGhCTDY3WGotT0M1QkJXem1idDM5TkpwTm5uZw?oc=5",
         "domain": "news.google.com",
-        "source": "WNEG Radio",
+        "source": "kalkinemedia.com",
         "language": "English",
-        "published_at": "2026-09-03T22:19:07+00:00",
-        "summary": "Georgia Power Foundation boosting Food Bank of Northeast Georgia's Donations in September WNEG Radio",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaV1dsWUYzSTQ1VU56am1pT0R6RWloa2FMeVRlVkg1Nm8zU2c5RGhzdkxhLUVmcmZ6RkJKVWFxRThwZUxJT0E?oc=5\" target=\"_blank\">Georgia Power Foundation boosting Food Bank of Northeast Georgia's Donations in September</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WNEG Radio</font>",
+        "published_at": "2026-09-04T06:57:00+00:00",
+        "summary": "Why Is Southern Company (NYSE:SO) Signing Long-Term Georgia Power Agreement as Data Center Load Surges? kalkinemedia.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT18ybWNXYVhGbWdiMmxkM0lhMHhQdWZZQnkzNXY4U0hjY0oybm93N29CRVEzeFF1bzdBN2NHeS1WMVFqNXdCYXVjTjZVQzBsTVJOdVpjd0tES19ySjZLdG1jMEVhTXYxb2dDNTcyTFB0Z1BkNHlfUnpjdjU0Mm5iNU9WQlpOTGhvcXZvcUpJeU80Y09YZndOZzR1RWVxRUpqelhHckkwcVBFVTFScVBxSmFoSThwMUNKMTd5SzdsRGhCTDY3WGotT0M1QkJXem1idDM5TkpwTm5uZw?oc=5\" target=\"_blank\">Why Is Southern Company (NYSE:SO) Signing Long-Term Georgia Power Agreement as Data Center Load Surges?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kalkinemedia.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-04T02:26:40+00:00"
+        "collected_at": "2026-09-04T13:55:36+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 53,
-      "new_mentions_this_run": 3,
+      "count": 54,
+      "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "2f47030773f727e7",
-        "title": "Julie Kozeracki - Department of Energy (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54UDJ3LVZRVC1ESlB1eUlqTjc1TG92QVJXTktuS3lESGczeEwtaWNtRkZjQ2NILVpic2ZjU3lITDdmbWk4aDFadEpIekNHWFFfRElIamplT25XRDJBN3c?oc=5",
+        "id": "34d176e381db27a9",
+        "title": "Office of Energy Dominance Financing Archives - POWER Magazine",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jRDZVYXVsVzM2UHpWNHk0YjNXbWdzQmR5VW5TbnN2Y0lxcmkycVI4cktUR1ZOV25hejJPeW1WSnN0WnJRLXJuNGU4c0x3X1B1QUNnbS1LYnFjVWFBOTRuS0lxclBHMnZZXzNma1pXaWQyUTNO?oc=5",
         "domain": "news.google.com",
-        "source": "Department of Energy (.gov)",
+        "source": "POWER Magazine",
         "language": "English",
-        "published_at": "2026-09-01T16:30:20+00:00",
-        "summary": "Julie Kozeracki Department of Energy (.gov)",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE54UDJ3LVZRVC1ESlB1eUlqTjc1TG92QVJXTktuS3lESGczeEwtaWNtRkZjQ2NILVpic2ZjU3lITDdmbWk4aDFadEpIekNHWFFfRElIamplT25XRDJBN3c?oc=5\" target=\"_blank\">Julie Kozeracki</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+        "published_at": "2026-09-04T09:37:01+00:00",
+        "summary": "Office of Energy Dominance Financing Archives POWER Magazine",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9jRDZVYXVsVzM2UHpWNHk0YjNXbWdzQmR5VW5TbnN2Y0lxcmkycVI4cktUR1ZOV25hejJPeW1WSnN0WnJRLXJuNGU4c0x3X1B1QUNnbS1LYnFjVWFBOTRuS0lxclBHMnZZXzNma1pXaWQyUTNO?oc=5\" target=\"_blank\">Office of Energy Dominance Financing Archives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POWER Magazine</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-03T22:07:49+00:00"
+        "collected_at": "2026-09-04T13:55:42+00:00"
       }
     }
   ]

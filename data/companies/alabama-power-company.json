@@ -2,10 +2,38 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-04T08:23:18+00:00",
+  "last_updated": "2026-09-04T13:55:19+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 302,
+  "count": 305,
   "mentions": [
+    {
+      "id": "90e215fda94729eb",
+      "title": "Alabama Power offers tips to help customers stay cool and manage energy costs during extreme heat - wvtm",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUTJBMXk0MXVnWTZkY09UMkZ6Q2U4VUJlM3dQRWdfd1hrU3NraWZ4cExBYWVFRHhGUzVPVzYtaWZNTHhyQ3BKSXdiVW9KVkluNEgxNi1MMEt0SDlRUi1aQXJQN1J4OVhXcXVpaFhyaW55ZWJnUWk4UEVYal9CZ2VaZmJLSHFpQ2h5YzhsT1ZPZEdLY1pWckIzWWs4VVctQ3V1MUlXM3VRbUE4aWpLa0YyaVY0TWJKbEVvZDJvNXdvTHh4OE5mblAwaEpDc2pheFp5Zjdn?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm",
+      "language": "English",
+      "published_at": "2026-09-04T12:03:47+00:00",
+      "summary": "Alabama Power offers tips to help customers stay cool and manage energy costs during extreme heat wvtm",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUTJBMXk0MXVnWTZkY09UMkZ6Q2U4VUJlM3dQRWdfd1hrU3NraWZ4cExBYWVFRHhGUzVPVzYtaWZNTHhyQ3BKSXdiVW9KVkluNEgxNi1MMEt0SDlRUi1aQXJQN1J4OVhXcXVpaFhyaW55ZWJnUWk4UEVYal9CZ2VaZmJLSHFpQ2h5YzhsT1ZPZEdLY1pWckIzWWs4VVctQ3V1MUlXM3VRbUE4aWpLa0YyaVY0TWJKbEVvZDJvNXdvTHh4OE5mblAwaEpDc2pheFp5Zjdn?oc=5\" target=\"_blank\">Alabama Power offers tips to help customers stay cool and manage energy costs during extreme heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T13:55:19+00:00"
+    },
+    {
+      "id": "8956f558eb20215b",
+      "title": "Ensler joins Shelby County man’s fight against Alabama Power: ‘This guy had the guts to get involved’ - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaWNQazVZWDFLbExwdlA3aG8yaG9oMmZnR2kxMFZvNG9jYldaclFoUS1YOUV1ZGNRTWhabk5YZ19yelB1NnNMTjcxT2JkWU9jcElES2Y1TktKVHMxbTlGRE5va2NnTUVoN2RGN3NYcUhHOEVuVHVIVlZ6VXlkZVdrYkJDMF9Jc0JnLVNnSmo1QnhRTG5TN29JTmxjTXU1c1VvRHNIOF9WWldKaGVJRm5JSGRVNmpDNjBEM3o3LW55eDgzb2o2MGVSU2wwUldFQzjSAeMBQVVfeXFMTnhIYXI3cjFTQWdkekxDNHcwSlNwejRMZzlrYjFNRzNRdVlEMUdxcUZ1Q19DYU9pWXU1VlBWN1RLVlpPQWJ5cGJrX2w2VXo3RmZ5Wll1SEx0UlB5d3F3Nkc0Y2d3YXRwNjAybWwxWTd2VmdBNVl1YThSUFlmdTl0MFlkaDJGN3BJSzNpTjlvdmwwUTZGWkZVLWk4QUhfYWp2X2IyYkZjZ00zUEVMMlJqVlV2cHM1Mk55N1FQRXM4TF9Iek5XOG0tcXpGZGVfLXhzcmo2OVkyZ3NYODkzWHdIenhtcFE?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-09-04T11:24:00+00:00",
+      "summary": "Ensler joins Shelby County man’s fight against Alabama Power: ‘This guy had the guts to get involved’ AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQaWNQazVZWDFLbExwdlA3aG8yaG9oMmZnR2kxMFZvNG9jYldaclFoUS1YOUV1ZGNRTWhabk5YZ19yelB1NnNMTjcxT2JkWU9jcElES2Y1TktKVHMxbTlGRE5va2NnTUVoN2RGN3NYcUhHOEVuVHVIVlZ6VXlkZVdrYkJDMF9Jc0JnLVNnSmo1QnhRTG5TN29JTmxjTXU1c1VvRHNIOF9WWldKaGVJRm5JSGRVNmpDNjBEM3o3LW55eDgzb2o2MGVSU2wwUldFQzjSAeMBQVVfeXFMTnhIYXI3cjFTQWdkekxDNHcwSlNwejRMZzlrYjFNRzNRdVlEMUdxcUZ1Q19DYU9pWXU1VlBWN1RLVlpPQWJ5cGJrX2w2VXo3RmZ5Wll1SEx0UlB5d3F3Nkc0Y2d3YXRwNjAybWwxWTd2VmdBNVl1YThSUFlmdTl0MFlkaDJGN3BJSzNpTjlvdmwwUTZGWkZVLWk4QUhfYWp2X2IyYkZjZ00zUEVMMlJqVlV2cHM1Mk55N1FQRXM4TF9Iek5XOG0tcXpGZGVfLXhzcmo2OVkyZ3NYODkzWHdIenhtcFE?oc=5\" target=\"_blank\">Ensler joins Shelby County man’s fight against Alabama Power: ‘This guy had the guts to get involved’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T13:55:19+00:00"
+    },
     {
       "id": "9786992cf6f551e8",
       "title": "Alabama Power online account access unavailable through Sept. 7 - fox10tv.com",
@@ -327,6 +355,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-31T23:33:07+00:00"
+    },
+    {
+      "id": "b513f23568686cee",
+      "title": "Main Street Atmore receives grant from Alabama Power Foundation - atmoreadvance.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUJOVFludDdIa01TM0I2UHBjaThuVXlGQW4xaVFFdzlpZ3lXQjFDRjdySHNUdnlHYzN1NmJxTjkwN2hsaHBrRTFsWjNQdDhYd1lfZVlqR205RVQ5ZHRXdllBMHNwZzk5aXltRDk0RjdyV3IwRk5XSDNxRWRSZHdkN29DY1ZVdDNScUZiamFRZHFhd3M5akgtaEh0eGZmc3E1TVNudGdVT2ZfUzg?oc=5",
+      "domain": "news.google.com",
+      "source": "atmoreadvance.com",
+      "language": "English",
+      "published_at": "2026-08-31T15:53:40+00:00",
+      "summary": "Main Street Atmore receives grant from Alabama Power Foundation atmoreadvance.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUJOVFludDdIa01TM0I2UHBjaThuVXlGQW4xaVFFdzlpZ3lXQjFDRjdySHNUdnlHYzN1NmJxTjkwN2hsaHBrRTFsWjNQdDhYd1lfZVlqR205RVQ5ZHRXdllBMHNwZzk5aXltRDk0RjdyV3IwRk5XSDNxRWRSZHdkN29DY1ZVdDNScUZiamFRZHFhd3M5akgtaEh0eGZmc3E1TVNudGdVT2ZfUzg?oc=5\" target=\"_blank\">Main Street Atmore receives grant from Alabama Power Foundation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">atmoreadvance.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T13:55:19+00:00"
     },
     {
       "id": "35b2395a31d11ec5",

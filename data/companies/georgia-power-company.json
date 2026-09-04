@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-04T08:23:34+00:00",
+  "last_updated": "2026-09-04T13:55:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 594,
+  "count": 597,
   "mentions": [
+    {
+      "id": "c43826572ab1ed88",
+      "title": "Why Is Southern Company (NYSE:SO) Signing Long-Term Georgia Power Agreement as Data Center Load Surges? - kalkinemedia.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT18ybWNXYVhGbWdiMmxkM0lhMHhQdWZZQnkzNXY4U0hjY0oybm93N29CRVEzeFF1bzdBN2NHeS1WMVFqNXdCYXVjTjZVQzBsTVJOdVpjd0tES19ySjZLdG1jMEVhTXYxb2dDNTcyTFB0Z1BkNHlfUnpjdjU0Mm5iNU9WQlpOTGhvcXZvcUpJeU80Y09YZndOZzR1RWVxRUpqelhHckkwcVBFVTFScVBxSmFoSThwMUNKMTd5SzdsRGhCTDY3WGotT0M1QkJXem1idDM5TkpwTm5uZw?oc=5",
+      "domain": "news.google.com",
+      "source": "kalkinemedia.com",
+      "language": "English",
+      "published_at": "2026-09-04T06:57:00+00:00",
+      "summary": "Why Is Southern Company (NYSE:SO) Signing Long-Term Georgia Power Agreement as Data Center Load Surges? kalkinemedia.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT18ybWNXYVhGbWdiMmxkM0lhMHhQdWZZQnkzNXY4U0hjY0oybm93N29CRVEzeFF1bzdBN2NHeS1WMVFqNXdCYXVjTjZVQzBsTVJOdVpjd0tES19ySjZLdG1jMEVhTXYxb2dDNTcyTFB0Z1BkNHlfUnpjdjU0Mm5iNU9WQlpOTGhvcXZvcUpJeU80Y09YZndOZzR1RWVxRUpqelhHckkwcVBFVTFScVBxSmFoSThwMUNKMTd5SzdsRGhCTDY3WGotT0M1QkJXem1idDM5TkpwTm5uZw?oc=5\" target=\"_blank\">Why Is Southern Company (NYSE:SO) Signing Long-Term Georgia Power Agreement as Data Center Load Surges?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kalkinemedia.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T13:55:36+00:00"
+    },
     {
       "id": "944d1bccfc0e63a7",
       "title": "Georgia Power Foundation boosting Food Bank of Northeast Georgia's Donations in September - WNEG Radio",
@@ -413,6 +427,20 @@
       "collected_at": "2026-08-29T00:23:55+00:00"
     },
     {
+      "id": "958c1a13217c7065",
+      "title": "Week In Review: Georgia Power cuts data center deal and courts review ‘shaken baby’ case - wabe.org",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWDRMdnQ1cWF1SzZoN1FTaG5yWWhQVTBxZnlSSHRSemFadFpHRHhMUlpfbFdidklMaXh4UmJGdDVfcTF5cm1wRllLOUQ1elgzUjg2NDduSmZsTW5YYXF2ZHdiQ242cGdlZlA1MUdMSm8yZEtSRGhSOWNkeGhrTVYwZlhYQ3FhcmVIYnBaOHRlLW1OOXd6NktqT1BvZEZiMTZGU29PQ1RrS1hBV0FaQkpycGpMOEJzT243VS04UDdn?oc=5",
+      "domain": "news.google.com",
+      "source": "wabe.org",
+      "language": "English",
+      "published_at": "2026-08-28T15:59:23+00:00",
+      "summary": "Week In Review: Georgia Power cuts data center deal and courts review ‘shaken baby’ case wabe.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPWDRMdnQ1cWF1SzZoN1FTaG5yWWhQVTBxZnlSSHRSemFadFpHRHhMUlpfbFdidklMaXh4UmJGdDVfcTF5cm1wRllLOUQ1elgzUjg2NDduSmZsTW5YYXF2ZHdiQ242cGdlZlA1MUdMSm8yZEtSRGhSOWNkeGhrTVYwZlhYQ3FhcmVIYnBaOHRlLW1OOXd6NktqT1BvZEZiMTZGU29PQ1RrS1hBV0FaQkpycGpMOEJzT243VS04UDdn?oc=5\" target=\"_blank\">Week In Review: Georgia Power cuts data center deal and courts review ‘shaken baby’ case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wabe.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T13:55:36+00:00"
+    },
+    {
       "id": "c2eeb980b2b671d1",
       "title": "Georgia Power, OpenAI contract approved by state regulators - dailyenergyinsider.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbDNiQVM1NklPSUIzYlFzTXlQTTJKOW5ka0xIVzFmNFlyQlBVd2ZtUWc5R3k0QnhEbUEzaUtwRlYtcDhwelNyU0NXTzVVcDdiUzQ5Qm80VGljY2JJZWVnSEg5NnI1Q2xNOFV4SmhtMWtmUDdOSm9mNVZMOWlnWnlqOVpsQS1jOU82VDc4WGdteTF0angxdGRYQnRxX2NzdHFWMmVV?oc=5",
@@ -579,6 +607,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-28T03:58:12+00:00"
+    },
+    {
+      "id": "862fcc3a62a6b96a",
+      "title": "Georgia Power agrees to new protections against data center costs - wabe.org",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc080WW5PSTljdXprem9zT2FBUTlVbmttbmNsQWU4OFJmTHgtMXNPWHFVbHVwZkRQczVILU8tNnhmMXJranh6MXV6RlFIbnJmRmd3ZkhTbnFRc3lLak5Hak9hbjgyR0RIZm1wVnBDQ2JiZzZsWVNaZElNd1paV3ctVjctUGpQZTV4UF9lUjdJekQ?oc=5",
+      "domain": "news.google.com",
+      "source": "wabe.org",
+      "language": "English",
+      "published_at": "2026-08-27T22:24:37+00:00",
+      "summary": "Georgia Power agrees to new protections against data center costs wabe.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOc080WW5PSTljdXprem9zT2FBUTlVbmttbmNsQWU4OFJmTHgtMXNPWHFVbHVwZkRQczVILU8tNnhmMXJranh6MXV6RlFIbnJmRmd3ZkhTbnFRc3lLak5Hak9hbjgyR0RIZm1wVnBDQ2JiZzZsWVNaZElNd1paV3ctVjctUGpQZTV4UF9lUjdJekQ?oc=5\" target=\"_blank\">Georgia Power agrees to new protections against data center costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wabe.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T13:55:36+00:00"
     },
     {
       "id": "ab5f88ca696a1e7f",

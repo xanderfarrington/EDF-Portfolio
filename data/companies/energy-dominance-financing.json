@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-09-04T08:23:39+00:00",
+  "last_updated": "2026-09-04T13:55:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 53,
+  "count": 54,
   "mentions": [
+    {
+      "id": "34d176e381db27a9",
+      "title": "Office of Energy Dominance Financing Archives - POWER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jRDZVYXVsVzM2UHpWNHk0YjNXbWdzQmR5VW5TbnN2Y0lxcmkycVI4cktUR1ZOV25hejJPeW1WSnN0WnJRLXJuNGU4c0x3X1B1QUNnbS1LYnFjVWFBOTRuS0lxclBHMnZZXzNma1pXaWQyUTNO?oc=5",
+      "domain": "news.google.com",
+      "source": "POWER Magazine",
+      "language": "English",
+      "published_at": "2026-09-04T09:37:01+00:00",
+      "summary": "Office of Energy Dominance Financing Archives POWER Magazine",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9jRDZVYXVsVzM2UHpWNHk0YjNXbWdzQmR5VW5TbnN2Y0lxcmkycVI4cktUR1ZOV25hejJPeW1WSnN0WnJRLXJuNGU4c0x3X1B1QUNnbS1LYnFjVWFBOTRuS0lxclBHMnZZXzNma1pXaWQyUTNO?oc=5\" target=\"_blank\">Office of Energy Dominance Financing Archives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POWER Magazine</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T13:55:42+00:00"
+    },
     {
       "id": "2f47030773f727e7",
       "title": "Julie Kozeracki - Department of Energy (.gov)",
