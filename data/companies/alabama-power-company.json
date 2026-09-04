@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-04T20:08:36+00:00",
+  "last_updated": "2026-09-04T23:37:39+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 312,
+  "count": 315,
   "mentions": [
     {
       "id": "09489a31b9f9644e",
@@ -77,6 +77,20 @@
       "collected_at": "2026-09-04T17:19:34+00:00"
     },
     {
+      "id": "e06fb9b7f8f140b0",
+      "title": "Ensler joins Shelby County man’s fight against Alabama Power: ‘This guy had the guts to get involved’ - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEY0Y0R0cExNeUpldjI3TEVLME43cGI3endvZHVGVzhveFlEYThEODMzRU9kNDgyQVg5cEdLNm9PT3Z5cm4xOTZsSFpUUjVfdmtoOXpaTnhRWUMzenFBZ2tLaWNOeVZ6UzlHWmtMM0ZWNlBINk5RVno3Vy1ETXpLV1B5SjV1T0kyR1VkMQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-09-04T12:27:42+00:00",
+      "summary": "Ensler joins Shelby County man’s fight against Alabama Power: ‘This guy had the guts to get involved’ Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEY0Y0R0cExNeUpldjI3TEVLME43cGI3endvZHVGVzhveFlEYThEODMzRU9kNDgyQVg5cEdLNm9PT3Z5cm4xOTZsSFpUUjVfdmtoOXpaTnhRWUMzenFBZ2tLaWNOeVZ6UzlHWmtMM0ZWNlBINk5RVno3Vy1ETXpLV1B5SjV1T0kyR1VkMQ?oc=5\" target=\"_blank\">Ensler joins Shelby County man’s fight against Alabama Power: ‘This guy had the guts to get involved’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T23:37:39+00:00"
+    },
+    {
       "id": "90e215fda94729eb",
       "title": "Alabama Power offers tips to help customers stay cool and manage energy costs during extreme heat - wvtm",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUTJBMXk0MXVnWTZkY09UMkZ6Q2U4VUJlM3dQRWdfd1hrU3NraWZ4cExBYWVFRHhGUzVPVzYtaWZNTHhyQ3BKSXdiVW9KVkluNEgxNi1MMEt0SDlRUi1aQXJQN1J4OVhXcXVpaFhyaW55ZWJnUWk4UEVYal9CZ2VaZmJLSHFpQ2h5YzhsT1ZPZEdLY1pWckIzWWs4VVctQ3V1MUlXM3VRbUE4aWpLa0YyaVY0TWJKbEVvZDJvNXdvTHh4OE5mblAwaEpDc2pheFp5Zjdn?oc=5",
@@ -103,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-04T17:19:34+00:00"
+    },
+    {
+      "id": "76dc8455600691d3",
+      "title": "Alabama Power offers tips to help customers stay cool and manage energy costs during extreme heat - WVTM",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUTJBMXk0MXVnWTZkY09UMkZ6Q2U4VUJlM3dQRWdfd1hrU3NraWZ4cExBYWVFRHhGUzVPVzYtaWZNTHhyQ3BKSXdiVW9KVkluNEgxNi1MMEt0SDlRUi1aQXJQN1J4OVhXcXVpaFhyaW55ZWJnUWk4UEVYal9CZ2VaZmJLSHFpQ2h5YzhsT1ZPZEdLY1pWckIzWWs4VVctQ3V1MUlXM3VRbUE4aWpLa0YyaVY0TWJKbEVvZDJvNXdvTHh4OE5mblAwaEpDc2pheFp5Zjdn?oc=5",
+      "domain": "news.google.com",
+      "source": "WVTM",
+      "language": "English",
+      "published_at": "2026-09-04T11:58:00+00:00",
+      "summary": "Alabama Power offers tips to help customers stay cool and manage energy costs during extreme heat WVTM",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUTJBMXk0MXVnWTZkY09UMkZ6Q2U4VUJlM3dQRWdfd1hrU3NraWZ4cExBYWVFRHhGUzVPVzYtaWZNTHhyQ3BKSXdiVW9KVkluNEgxNi1MMEt0SDlRUi1aQXJQN1J4OVhXcXVpaFhyaW55ZWJnUWk4UEVYal9CZ2VaZmJLSHFpQ2h5YzhsT1ZPZEdLY1pWckIzWWs4VVctQ3V1MUlXM3VRbUE4aWpLa0YyaVY0TWJKbEVvZDJvNXdvTHh4OE5mblAwaEpDc2pheFp5Zjdn?oc=5\" target=\"_blank\">Alabama Power offers tips to help customers stay cool and manage energy costs during extreme heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T23:37:39+00:00"
     },
     {
       "id": "8956f558eb20215b",
@@ -229,6 +257,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-04T08:23:18+00:00"
+    },
+    {
+      "id": "75ed6f9e7952b663",
+      "title": "Jackson’s Taylor gets boost from Alabama Power - southalabamian.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWmxQdUJyWW9SSi1qb2dsZng4V1pzV3dIcDFaSFRwSGRXekV0Z2o3UG1QeHM3WGtmYUN2NU1qUm5WMkxFZjQyZXZHLV9FUDJhRGtORm10eVNJWjQzS2tmcFBTbEppNHNWLVZpWmVLUVZuVTctbTAzMU9XbU9ITm1wMDVzeG9nekNCN2xvMHRlZw?oc=5",
+      "domain": "news.google.com",
+      "source": "southalabamian.com",
+      "language": "English",
+      "published_at": "2026-09-02T17:14:45+00:00",
+      "summary": "Jackson’s Taylor gets boost from Alabama Power southalabamian.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWmxQdUJyWW9SSi1qb2dsZng4V1pzV3dIcDFaSFRwSGRXekV0Z2o3UG1QeHM3WGtmYUN2NU1qUm5WMkxFZjQyZXZHLV9FUDJhRGtORm10eVNJWjQzS2tmcFBTbEppNHNWLVZpWmVLUVZuVTctbTAzMU9XbU9ITm1wMDVzeG9nekNCN2xvMHRlZw?oc=5\" target=\"_blank\">Jackson’s Taylor gets boost from Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">southalabamian.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T23:37:39+00:00"
     },
     {
       "id": "ec0034d931652cb6",

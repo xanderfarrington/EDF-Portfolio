@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T20:09:03+00:00",
+  "last_updated": "2026-09-04T23:38:07+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 312,
-      "new_mentions_this_run": 17,
+      "count": 315,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "09489a31b9f9644e",
         "title": "Alabama Power offers 7 ways to stay cool, manage energy costs during extreme heat - yellowhammernews.com",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 54,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "34d176e381db27a9",
         "title": "Office of Energy Dominance Financing Archives - POWER Magazine",
