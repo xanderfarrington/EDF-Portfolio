@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-04T13:55:36+00:00",
+  "last_updated": "2026-09-04T17:19:51+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 597,
+  "count": 599,
   "mentions": [
     {
       "id": "c43826572ab1ed88",
@@ -21,6 +21,20 @@
       "collected_at": "2026-09-04T13:55:36+00:00"
     },
     {
+      "id": "33a86e9a3180ff6f",
+      "title": "Why Is Southern Company (NYSE:SO) Signing Long-Term Georgia Power Agreement as Data Center Load Surges? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT18ybWNXYVhGbWdiMmxkM0lhMHhQdWZZQnkzNXY4U0hjY0oybm93N29CRVEzeFF1bzdBN2NHeS1WMVFqNXdCYXVjTjZVQzBsTVJOdVpjd0tES19ySjZLdG1jMEVhTXYxb2dDNTcyTFB0Z1BkNHlfUnpjdjU0Mm5iNU9WQlpOTGhvcXZvcUpJeU80Y09YZndOZzR1RWVxRUpqelhHckkwcVBFVTFScVBxSmFoSThwMUNKMTd5SzdsRGhCTDY3WGotT0M1QkJXem1idDM5TkpwTm5uZw?oc=5",
+      "domain": "news.google.com",
+      "source": "Kalkine Media",
+      "language": "English",
+      "published_at": "2026-09-04T06:57:00+00:00",
+      "summary": "Why Is Southern Company (NYSE:SO) Signing Long-Term Georgia Power Agreement as Data Center Load Surges? Kalkine Media",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT18ybWNXYVhGbWdiMmxkM0lhMHhQdWZZQnkzNXY4U0hjY0oybm93N29CRVEzeFF1bzdBN2NHeS1WMVFqNXdCYXVjTjZVQzBsTVJOdVpjd0tES19ySjZLdG1jMEVhTXYxb2dDNTcyTFB0Z1BkNHlfUnpjdjU0Mm5iNU9WQlpOTGhvcXZvcUpJeU80Y09YZndOZzR1RWVxRUpqelhHckkwcVBFVTFScVBxSmFoSThwMUNKMTd5SzdsRGhCTDY3WGotT0M1QkJXem1idDM5TkpwTm5uZw?oc=5\" target=\"_blank\">Why Is Southern Company (NYSE:SO) Signing Long-Term Georgia Power Agreement as Data Center Load Surges?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T17:19:51+00:00"
+    },
+    {
       "id": "944d1bccfc0e63a7",
       "title": "Georgia Power Foundation boosting Food Bank of Northeast Georgia's Donations in September - WNEG Radio",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaV1dsWUYzSTQ1VU56am1pT0R6RWloa2FMeVRlVkg1Nm8zU2c5RGhzdkxhLUVmcmZ6RkJKVWFxRThwZUxJT0E?oc=5",
@@ -33,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-04T02:26:40+00:00"
+    },
+    {
+      "id": "11c06e80e3f8df4e",
+      "title": "Georgia Power Foundation boosting Food Bank of Northeast Georgia's Donations in September - wnegradio.com",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaV1dsWUYzSTQ1VU56am1pT0R6RWloa2FMeVRlVkg1Nm8zU2c5RGhzdkxhLUVmcmZ6RkJKVWFxRThwZUxJT0E?oc=5",
+      "domain": "news.google.com",
+      "source": "wnegradio.com",
+      "language": "English",
+      "published_at": "2026-09-03T22:19:07+00:00",
+      "summary": "Georgia Power Foundation boosting Food Bank of Northeast Georgia's Donations in September wnegradio.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaV1dsWUYzSTQ1VU56am1pT0R6RWloa2FMeVRlVkg1Nm8zU2c5RGhzdkxhLUVmcmZ6RkJKVWFxRThwZUxJT0E?oc=5\" target=\"_blank\">Georgia Power Foundation boosting Food Bank of Northeast Georgia's Donations in September</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wnegradio.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-04T17:19:51+00:00"
     },
     {
       "id": "66623ceb7401b9ff",
