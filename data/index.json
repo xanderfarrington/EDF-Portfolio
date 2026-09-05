@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-09-04T23:38:07+00:00",
+  "last_updated": "2026-09-05T02:27:46+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 81,
-      "new_mentions_this_run": 1,
+      "count": 83,
+      "new_mentions_this_run": 3,
       "latest_mention": {
-        "id": "21b0eacc322a228b",
-        "title": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFBPYWhkYTROc0lXckM3T0NvZ3NoLWtRd2ZJZ2RJMVFmUFZyZkZWbU94VktVTEdSa1dvQ3czcjhNalBhZWNpUEdIOGZ5Q1JxcVFxbnA1TkMtVHlYeDRvVDdyUHZVZDQ0QkpydEt1M1FIejB5OHlpeXpiXzFmc1FXY25Yb3dWZEhDOXZCVGRWZnhORjRUNXREWjYtVHFYb3pPdVh5N3kzUl8xczNLY2FkSUdWZzhvWW42ZlZmOVhWRVowQ04yWGpLVk5IZElGanp5NExmejg0OTJXQdIB3wFBVV95cUxOYlNJNnJydjdSRjBlVFAtMFZXRXRkV3V2UlNrVHdpU2toZ2c0emo4V3FXa3lpUmZGNmNHYWlCSkJaQl94Z2NxZlRYeGotZEFteFBGSFRTZFdlSjRPZkgxQzlVbjhWd0xmc2dtZ1Z0ajJGbzBQMTRhMVFRcldndzVxQ1FGOWZsd2VvVWlrdHZEWUphNzRaRWllUXdhamFadUFKZi1RaVFQX0YwYjh3amt1R1NOdHJDUFV4djJ0ZkFIV1Z5QVZJLTRjY1dRdkhHa2lTa1dFMFROYWIxTEdvY3dV?oc=5",
+        "id": "414f2ffe1484a640",
+        "title": "Proposed AEP transmission line encountering opposition - fox23.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLW5CY0Fka1Q0WnVNMVk3U2VBcVJVUDhGUmdzX0MzRS1GN2o1clhpTjh5UEt2LWtoRFdxUVVMQkR4ZUJSNEdhVkd1bm9PUXZ3eUgxeHdIS0dmdjZTc2haT0VObFRuUm5aYWZqbHJWTVp6bXB6UkxaLU0yNDVYZXVUR2RKRzZIREQtZFlNRWVtbTdLVlVWNmNiaFZ3?oc=5",
         "domain": "news.google.com",
-        "source": "simplywall.st",
+        "source": "fox23.com",
         "language": "English",
-        "published_at": "2026-08-19T00:35:13+00:00",
-        "summary": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan simplywall.st",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFBPYWhkYTROc0lXckM3T0NvZ3NoLWtRd2ZJZ2RJMVFmUFZyZkZWbU94VktVTEdSa1dvQ3czcjhNalBhZWNpUEdIOGZ5Q1JxcVFxbnA1TkMtVHlYeDRvVDdyUHZVZDQ0QkpydEt1M1FIejB5OHlpeXpiXzFmc1FXY25Yb3dWZEhDOXZCVGRWZnhORjRUNXREWjYtVHFYb3pPdVh5N3kzUl8xczNLY2FkSUdWZzhvWW42ZlZmOVhWRVowQ04yWGpLVk5IZElGanp5NExmejg0OTJXQdIB3wFBVV95cUxOYlNJNnJydjdSRjBlVFAtMFZXRXRkV3V2UlNrVHdpU2toZ2c0emo4V3FXa3lpUmZGNmNHYWlCSkJaQl94Z2NxZlRYeGotZEFteFBGSFRTZFdlSjRPZkgxQzlVbjhWd0xmc2dtZ1Z0ajJGbzBQMTRhMVFRcldndzVxQ1FGOWZsd2VvVWlrdHZEWUphNzRaRWllUXdhamFadUFKZi1RaVFQX0YwYjh3amt1R1NOdHJDUFV4djJ0ZkFIV1Z5QVZJLTRjY1dRdkhHa2lTa1dFMFROYWIxTEdvY3dV?oc=5\" target=\"_blank\">How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+        "published_at": "2026-09-05T01:34:35+00:00",
+        "summary": "Proposed AEP transmission line encountering opposition fox23.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPLW5CY0Fka1Q0WnVNMVk3U2VBcVJVUDhGUmdzX0MzRS1GN2o1clhpTjh5UEt2LWtoRFdxUVVMQkR4ZUJSNEdhVkd1bm9PUXZ3eUgxeHdIS0dmdjZTc2haT0VObFRuUm5aYWZqbHJWTVp6bXB6UkxaLU0yNDVYZXVUR2RKRzZIREQtZFlNRWVtbTdLVlVWNmNiaFZ3?oc=5\" target=\"_blank\">Proposed AEP transmission line encountering opposition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox23.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-19T00:52:31+00:00"
+        "collected_at": "2026-09-05T02:27:14+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 98,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 54,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "34d176e381db27a9",
         "title": "Office of Energy Dominance Financing Archives - POWER Magazine",
