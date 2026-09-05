@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-05T17:51:29+00:00",
+  "last_updated": "2026-09-05T19:48:12+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 87,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "e7e9b3e32a2c9f9a",
         "title": "Proposed AEP transmission line encountering opposition - KRMG",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 319,
+      "count": 323,
       "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "09489a31b9f9644e",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 610,
-      "new_mentions_this_run": 17,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "ea484d00d0dfbcce",
         "title": "East St. Louis edges Georgia power Gainesville 24-21 - St. Louis American",

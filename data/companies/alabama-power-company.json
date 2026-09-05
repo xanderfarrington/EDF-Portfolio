@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-05T17:51:02+00:00",
+  "last_updated": "2026-09-05T19:47:44+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 319,
+  "count": 323,
   "mentions": [
     {
       "id": "09489a31b9f9644e",
@@ -245,6 +245,20 @@
       "collected_at": "2026-09-04T17:19:34+00:00"
     },
     {
+      "id": "e6962f9ce7803450",
+      "title": "Alabama Power offers tips to cut cooling costs during hot weather - wbrc.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUmMzeVNEN3Z4aVZEblFiUnZDUXQwTVZ6TldVTFhlWlVDTHh1OWRQbGEydjNpdS1nTUFYREprR0p4VTNMRl9zNWR6ZExtUURBbGMxeldYSkJUQTViWDZKVG94YUUzRlBfRDFPemdUdzRtYzdJUFozb1A3RXNyVThWNDhrS3JNeXZNejRBUnF3RThpRl9NRk1lUGg0SdIBrwFBVV95cUxOQTZyU29qWHV5b0lJbk82cHUxX2h2dHZhc0VCdjBsZ29fbzJXY3BlZTJCZnFNUzVJZkFSSG9aSkdfWWpoMUJKdElYRFVTZ1hNZ05yeUdvZERxVE5xRXNZa1NfRjRmbEFPcnlPMmR0dEw1OW11OEZSbGdZSkk2eWc5eHlRUmRRUFNhdXlQZGE0Y1RVaEJoWHNYR2RpRy1xb2p1WVhJNU80WXlyNks1a1NZ?oc=5",
+      "domain": "news.google.com",
+      "source": "wbrc.com",
+      "language": "English",
+      "published_at": "2026-09-03T22:54:00+00:00",
+      "summary": "Alabama Power offers tips to cut cooling costs during hot weather wbrc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPUmMzeVNEN3Z4aVZEblFiUnZDUXQwTVZ6TldVTFhlWlVDTHh1OWRQbGEydjNpdS1nTUFYREprR0p4VTNMRl9zNWR6ZExtUURBbGMxeldYSkJUQTViWDZKVG94YUUzRlBfRDFPemdUdzRtYzdJUFozb1A3RXNyVThWNDhrS3JNeXZNejRBUnF3RThpRl9NRk1lUGg0SdIBrwFBVV95cUxOQTZyU29qWHV5b0lJbk82cHUxX2h2dHZhc0VCdjBsZ29fbzJXY3BlZTJCZnFNUzVJZkFSSG9aSkdfWWpoMUJKdElYRFVTZ1hNZ05yeUdvZERxVE5xRXNZa1NfRjRmbEFPcnlPMmR0dEw1OW11OEZSbGdZSkk2eWc5eHlRUmRRUFNhdXlQZGE0Y1RVaEJoWHNYR2RpRy1xb2p1WVhJNU80WXlyNks1a1NZ?oc=5\" target=\"_blank\">Alabama Power offers tips to cut cooling costs during hot weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wbrc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T19:47:44+00:00"
+    },
+    {
       "id": "b1b819818153c928",
       "title": "Fort Dale student awarded Alabama Power scholarship - The Greenville Advocate",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXpYbjlTamJWbzl0SE9NMkpMTDJyREJZSUlNQ1lVUEE5NXFRRmpWcTBheXBjWU0yNjl6S1RBS2FUb0tSVnhCZTRNZXZ1aVJlTlJseU1Ra3NEYUpmUDJDejJ5UnZ0Q085bFMtcGh1UnRmUkVWSm5nOHBfTUIzbWhVQ09XQW9qTFY5dk55Z3YtYkhEdGlVdExGZ09SbnRDZE9LVUE?oc=5",
@@ -329,6 +343,34 @@
       "collected_at": "2026-09-02T20:23:28+00:00"
     },
     {
+      "id": "888702cb7f255fd8",
+      "title": "Alabama Power: Extreme heat impact on your home - wbrc.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnVzVGRMZENnc2JtVjBfYUdISVF4ZlhIZG4tY3hOUUJkNWlmdFdzSWtOTGZrcUhNZmM0aWNpc3ViMlBqR3ZCSENHR09FVU1ET3BCcGh1blFWR2dwUHhZMkM4RjRUZlZpa0E1VVRjTG9udGhPWDI0blk5c09ISU5ldWRrbmZnMWxXbUE?oc=5",
+      "domain": "news.google.com",
+      "source": "wbrc.com",
+      "language": "English",
+      "published_at": "2026-09-02T01:12:29+00:00",
+      "summary": "Alabama Power: Extreme heat impact on your home wbrc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnVzVGRMZENnc2JtVjBfYUdISVF4ZlhIZG4tY3hOUUJkNWlmdFdzSWtOTGZrcUhNZmM0aWNpc3ViMlBqR3ZCSENHR09FVU1ET3BCcGh1blFWR2dwUHhZMkM4RjRUZlZpa0E1VVRjTG9udGhPWDI0blk5c09ISU5ldWRrbmZnMWxXbUE?oc=5\" target=\"_blank\">Alabama Power: Extreme heat impact on your home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wbrc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T19:47:44+00:00"
+    },
+    {
+      "id": "bc5456855b73ac4d",
+      "title": "Alabama Power updating its system - wbrc.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xMWhCWGdCVWVMVGdOOFR5bk5wRHg3SVdhVlphSmVyNWhwR21PWnZIUUl6Z2s5NE9CNFp0ekpzbWl4aEZsdjg5R2VMWUZqaTRBNGJZWDB5RFRQNjBpYUxYWHJ2cGVGWUdXanl4Ukl3TFRoLVNWdy1tYXZyLW4?oc=5",
+      "domain": "news.google.com",
+      "source": "wbrc.com",
+      "language": "English",
+      "published_at": "2026-09-01T23:00:00+00:00",
+      "summary": "Alabama Power updating its system wbrc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1xMWhCWGdCVWVMVGdOOFR5bk5wRHg3SVdhVlphSmVyNWhwR21PWnZIUUl6Z2s5NE9CNFp0ekpzbWl4aEZsdjg5R2VMWUZqaTRBNGJZWDB5RFRQNjBpYUxYWHJ2cGVGWUdXanl4Ukl3TFRoLVNWdy1tYXZyLW4?oc=5\" target=\"_blank\">Alabama Power updating its system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wbrc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T19:47:44+00:00"
+    },
+    {
       "id": "149142358b49979c",
       "title": "Alabama Power updating its system - WBRC",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xMWhCWGdCVWVMVGdOOFR5bk5wRHg3SVdhVlphSmVyNWhwR21PWnZIUUl6Z2s5NE9CNFp0ekpzbWl4aEZsdjg5R2VMWUZqaTRBNGJZWDB5RFRQNjBpYUxYWHJ2cGVGWUdXanl4Ukl3TFRoLVNWdy1tYXZyLW4?oc=5",
@@ -397,6 +439,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-02T17:49:00+00:00"
+    },
+    {
+      "id": "167a23a1ac412e42",
+      "title": "Alabama Power accounts inaccessible as utility upgrades digital systems - wbrc.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWtGS1JmRGViTVhZcEFEQ1BRUjFwWjBMVHI1U1B4eEEwODRwNnZHQUJxM0JGdHcxeE1jbEFTeFFERjhjWW5FVWxjaWF1eWhuNElZQ3k3ZU9wU2hjRzlGS3VkdUZpaVcyQ01FMUxudkd2TnhBekFzNXhBMlhZUEh0bWpyM3pDbGM0Q2U1TEpaYndMRjU2eFEyMVVCYTJObnJQN1Zn?oc=5",
+      "domain": "news.google.com",
+      "source": "wbrc.com",
+      "language": "English",
+      "published_at": "2026-09-01T22:37:00+00:00",
+      "summary": "Alabama Power accounts inaccessible as utility upgrades digital systems wbrc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWtGS1JmRGViTVhZcEFEQ1BRUjFwWjBMVHI1U1B4eEEwODRwNnZHQUJxM0JGdHcxeE1jbEFTeFFERjhjWW5FVWxjaWF1eWhuNElZQ3k3ZU9wU2hjRzlGS3VkdUZpaVcyQ01FMUxudkd2TnhBekFzNXhBMlhZUEh0bWpyM3pDbGM0Q2U1TEpaYndMRjU2eFEyMVVCYTJObnJQN1Zn?oc=5\" target=\"_blank\">Alabama Power accounts inaccessible as utility upgrades digital systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wbrc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T19:47:44+00:00"
     },
     {
       "id": "eddcdbeb9d720307",
