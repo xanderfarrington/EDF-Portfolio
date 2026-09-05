@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-09-05T11:43:08+00:00",
+  "last_updated": "2026-09-05T14:23:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 85,
+  "count": 87,
   "mentions": [
+    {
+      "id": "e7e9b3e32a2c9f9a",
+      "title": "Proposed AEP transmission line encountering opposition - KRMG",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcHpnOTBCaU5BYlpCa19JVjdpSmNiR1hKekFocDFsemlqV2Qtb0VxcHhueUMyNGo3NUQtZ1BsZUFxRHc0S2ROQ1B5VVBMa1o1dXdSVXZPaW5BLTl0aWxaWW16LXY5bktHYzFUX1NRQU1hS3h3YXBLN05qOEZORGxWczNmM25xTHFNd0Q4?oc=5",
+      "domain": "news.google.com",
+      "source": "KRMG",
+      "language": "English",
+      "published_at": "2026-09-05T12:08:28+00:00",
+      "summary": "Proposed AEP transmission line encountering opposition KRMG",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcHpnOTBCaU5BYlpCa19JVjdpSmNiR1hKekFocDFsemlqV2Qtb0VxcHhueUMyNGo3NUQtZ1BsZUFxRHc0S2ROQ1B5VVBMa1o1dXdSVXZPaW5BLTl0aWxaWW16LXY5bktHYzFUX1NRQU1hS3h3YXBLN05qOEZORGxWczNmM25xTHFNd0Q4?oc=5\" target=\"_blank\">Proposed AEP transmission line encountering opposition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRMG</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T14:23:07+00:00"
+    },
     {
       "id": "366d6d41d4cd42c2",
       "title": "Community members hold meeting to learn about 100-mile transmission line - KTUL",
@@ -33,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-05T02:27:14+00:00"
+    },
+    {
+      "id": "e1a2f570c3696ef4",
+      "title": "Proposed AEP transmission line encountering opposition - fox23.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXRsUE9ISjNISTBqRUlEa0V3emN3aENsMHAyQWF1RXluekJSbEY5STRYQTJKVGNtVXpUMXptTnhVZEF4Y2RyUWx5VUFfM0w2YWVxY203Ry1JNUNDUDJ0X2J2Um8yREMxR0tWNy0zRkJyNWVaVXR5ZWZ2eWppRXFuOXdpa3NOdXBLTk9DVmoyVzh2eldLOWdJX21PU3BUSEU?oc=5",
+      "domain": "news.google.com",
+      "source": "fox23.com",
+      "language": "English",
+      "published_at": "2026-09-05T01:34:35+00:00",
+      "summary": "Proposed AEP transmission line encountering opposition fox23.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXRsUE9ISjNISTBqRUlEa0V3emN3aENsMHAyQWF1RXluekJSbEY5STRYQTJKVGNtVXpUMXptTnhVZEF4Y2RyUWx5VUFfM0w2YWVxY203Ry1JNUNDUDJ0X2J2Um8yREMxR0tWNy0zRkJyNWVaVXR5ZWZ2eWppRXFuOXdpa3NOdXBLTk9DVmoyVzh2eldLOWdJX21PU3BUSEU?oc=5\" target=\"_blank\">Proposed AEP transmission line encountering opposition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox23.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T14:23:07+00:00"
     },
     {
       "id": "8626ff3d9c1cdfd0",

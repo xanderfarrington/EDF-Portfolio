@@ -1,32 +1,32 @@
 {
-  "last_updated": "2026-09-05T11:43:40+00:00",
+  "last_updated": "2026-09-05T14:23:40+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 85,
-      "new_mentions_this_run": 4,
+      "count": 87,
+      "new_mentions_this_run": 5,
       "latest_mention": {
-        "id": "366d6d41d4cd42c2",
-        "title": "Community members hold meeting to learn about 100-mile transmission line - KTUL",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2k5dUZrNzctTkhrTVJQTVlVLVJhUi1IdzFRNG4zdE5zdU5VemZPNjk1TnBSaE05VnBrNGNxRUtuaW1xdFZYWThoYVFRRUZfVXpXeF9DbFhTU0tld3R5T201amJHNkNIVi16cDVGbnlWQnNCR1d4WUxmU1BEdG9QVjVxdnJsaV8tT3lpSkYwamVSWDBxVkhDWFZCQ1k4amc1dTVreXp1MVNHZjY3S011VA?oc=5",
+        "id": "e7e9b3e32a2c9f9a",
+        "title": "Proposed AEP transmission line encountering opposition - KRMG",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcHpnOTBCaU5BYlpCa19JVjdpSmNiR1hKekFocDFsemlqV2Qtb0VxcHhueUMyNGo3NUQtZ1BsZUFxRHc0S2ROQ1B5VVBMa1o1dXdSVXZPaW5BLTl0aWxaWW16LXY5bktHYzFUX1NRQU1hS3h3YXBLN05qOEZORGxWczNmM25xTHFNd0Q4?oc=5",
         "domain": "news.google.com",
-        "source": "KTUL",
+        "source": "KRMG",
         "language": "English",
-        "published_at": "2026-09-05T04:32:17+00:00",
-        "summary": "Community members hold meeting to learn about 100-mile transmission line KTUL",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2k5dUZrNzctTkhrTVJQTVlVLVJhUi1IdzFRNG4zdE5zdU5VemZPNjk1TnBSaE05VnBrNGNxRUtuaW1xdFZYWThoYVFRRUZfVXpXeF9DbFhTU0tld3R5T201amJHNkNIVi16cDVGbnlWQnNCR1d4WUxmU1BEdG9QVjVxdnJsaV8tT3lpSkYwamVSWDBxVkhDWFZCQ1k4amc1dTVreXp1MVNHZjY3S011VA?oc=5\" target=\"_blank\">Community members hold meeting to learn about 100-mile transmission line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTUL</font>",
+        "published_at": "2026-09-05T12:08:28+00:00",
+        "summary": "Proposed AEP transmission line encountering opposition KRMG",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcHpnOTBCaU5BYlpCa19JVjdpSmNiR1hKekFocDFsemlqV2Qtb0VxcHhueUMyNGo3NUQtZ1BsZUFxRHc0S2ROQ1B5VVBMa1o1dXdSVXZPaW5BLTl0aWxaWW16LXY5bktHYzFUX1NRQU1hS3h3YXBLN05qOEZORGxWczNmM25xTHFNd0Q4?oc=5\" target=\"_blank\">Proposed AEP transmission line encountering opposition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRMG</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-05T11:43:08+00:00"
+        "collected_at": "2026-09-05T14:23:07+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 317,
+      "count": 318,
       "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "09489a31b9f9644e",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 30,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "addfbf3308caf432",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 98,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 606,
+      "count": 607,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "ea484d00d0dfbcce",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 54,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "34d176e381db27a9",
         "title": "Office of Energy Dominance Financing Archives - POWER Magazine",

@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-05T11:43:14+00:00",
+  "last_updated": "2026-09-05T14:23:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 317,
+  "count": 318,
   "mentions": [
     {
       "id": "09489a31b9f9644e",
@@ -509,6 +509,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-01T03:03:10+00:00"
+    },
+    {
+      "id": "ef63239c2d83374f",
+      "title": "'This is my home': Shelby County man fights Alabama Power over transmission line route - abc3340.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNmMwNUJjM3Q4Rk5ZR3hNQk9lM2hZazJyV05iNl9yMTRJMmI1bkRjaWJTSElFV0JGc0J0LWs1VGFfSERIenhZYXpwVnZCU1I0ZlRMVVlLOW1FZjg3N1kxSzhjcS1iZjZNWTlFeTNGbFptR0NqRWc2bmdrS1FycFJ5eFVmWDRjN0JocTdlandHYnVkV0JBamI4UV96a2pHeUM0ZjN4UHZLcnBCdFZ3MTJKOFVHRl92elp1YUdxOFMtT0RtelRWQnRqZXozMDNkM2VUWEJGMmhBS1g4bDBSNFh2Wg?oc=5",
+      "domain": "news.google.com",
+      "source": "abc3340.com",
+      "language": "English",
+      "published_at": "2026-08-31T22:52:06+00:00",
+      "summary": "'This is my home': Shelby County man fights Alabama Power over transmission line route abc3340.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNmMwNUJjM3Q4Rk5ZR3hNQk9lM2hZazJyV05iNl9yMTRJMmI1bkRjaWJTSElFV0JGc0J0LWs1VGFfSERIenhZYXpwVnZCU1I0ZlRMVVlLOW1FZjg3N1kxSzhjcS1iZjZNWTlFeTNGbFptR0NqRWc2bmdrS1FycFJ5eFVmWDRjN0JocTdlandHYnVkV0JBamI4UV96a2pHeUM0ZjN4UHZLcnBCdFZ3MTJKOFVHRl92elp1YUdxOFMtT0RtelRWQnRqZXozMDNkM2VUWEJGMmhBS1g4bDBSNFh2Wg?oc=5\" target=\"_blank\">'This is my home': Shelby County man fights Alabama Power over transmission line route</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abc3340.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T14:23:12+00:00"
     },
     {
       "id": "cafa3d7ee71ce9ef",

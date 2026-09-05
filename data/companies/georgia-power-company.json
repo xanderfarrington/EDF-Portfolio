@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-05T11:43:30+00:00",
+  "last_updated": "2026-09-05T14:23:29+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 606,
+  "count": 607,
   "mentions": [
     {
       "id": "ea484d00d0dfbcce",
@@ -145,6 +145,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-02T14:00:20+00:00"
+    },
+    {
+      "id": "af7d7283631a0477",
+      "title": "Georgia Power upgrade projects are underway - thetruecitizen.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU1FxbzRyX2kxOUFwcEpqc011Y3hyckNQVUU3eGVRVElpcWE2aUNPZlNpcXUyRDQ4bDVxWW4zT1QxMTNGb1lYWnc5Z3NEaElRaVRkUldZZXJoVkI5c2xabDE1eHJHRkZreXViaG9rSTVocHBDNDd6Nkh4OEZlX2VLZWFVc2F5LU1hM3ZUcA?oc=5",
+      "domain": "news.google.com",
+      "source": "thetruecitizen.com",
+      "language": "English",
+      "published_at": "2026-09-02T01:12:56+00:00",
+      "summary": "Georgia Power upgrade projects are underway thetruecitizen.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNU1FxbzRyX2kxOUFwcEpqc011Y3hyckNQVUU3eGVRVElpcWE2aUNPZlNpcXUyRDQ4bDVxWW4zT1QxMTNGb1lYWnc5Z3NEaElRaVRkUldZZXJoVkI5c2xabDE1eHJHRkZreXViaG9rSTVocHBDNDd6Nkh4OEZlX2VLZWFVc2F5LU1hM3ZUcA?oc=5\" target=\"_blank\">Georgia Power upgrade projects are underway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thetruecitizen.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T14:23:29+00:00"
     },
     {
       "id": "4c7b8dd2ba6a11ee",
