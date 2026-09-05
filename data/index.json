@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-05T21:50:37+00:00",
+  "last_updated": "2026-09-05T23:29:28+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 88,
+      "count": 89,
       "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e7e9b3e32a2c9f9a",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 611,
+      "count": 612,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "ea484d00d0dfbcce",
-        "title": "East St. Louis edges Georgia power Gainesville 24-21 - St. Louis American",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0J3VWRKZnUwV0Y4bXN6b3N6amExcGt1SU5iODB5WkRDcnNTdm5aRUJwUmJvY0lUV2V3ZnBTWUpPUDdPS2V1Qk5ZRDhiTTk3UjJGTUQ1b0VhdTJUYXRZRTJKN3BGWTNLVkdvdzk4THotaDI0c01Rd1daYnFKTUZnOVBSVXJLcXhFSlJyQjhSRDY?oc=5",
+        "id": "c8c8a6d272deb9bb",
+        "title": "Reigning N.J. state champs start 0-2 for 1st time in 42 years after loss to Georgia power - NJ.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUEV3V0E4TUdfWldOSFFObl9hZ1Jrem5Sa2VSa09PVmZNZDVxYkZUTUpUTWt6bmp1THY2MF8yN1c0NndrUzNNX3VjXzlOOXYzVGZlQll0OHh6NWdzZWZwWnNHOGU4Ql9vb0htbHFxSXBXTEhhTzMtWkNfOWRtNFdXbWsydC1acVFYbVg4S292VVNpZDlkODBaeDlnRGVsZlBWVmx2alMtVXFsa2JfQzREczFaaDZPemlqenlIVWN3U1F4ek9kcjBZRkRBcFhiYnlYN1E?oc=5",
         "domain": "news.google.com",
-        "source": "St. Louis American",
+        "source": "NJ.com",
         "language": "English",
-        "published_at": "2026-09-05T05:50:18+00:00",
-        "summary": "East St. Louis edges Georgia power Gainesville 24-21 St. Louis American",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0J3VWRKZnUwV0Y4bXN6b3N6amExcGt1SU5iODB5WkRDcnNTdm5aRUJwUmJvY0lUV2V3ZnBTWUpPUDdPS2V1Qk5ZRDhiTTk3UjJGTUQ1b0VhdTJUYXRZRTJKN3BGWTNLVkdvdzk4THotaDI0c01Rd1daYnFKTUZnOVBSVXJLcXhFSlJyQjhSRDY?oc=5\" target=\"_blank\">East St. Louis edges Georgia power Gainesville 24-21</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Louis American</font>",
+        "published_at": "2026-09-05T21:27:29+00:00",
+        "summary": "Reigning N.J. state champs start 0-2 for 1st time in 42 years after loss to Georgia power NJ.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUEV3V0E4TUdfWldOSFFObl9hZ1Jrem5Sa2VSa09PVmZNZDVxYkZUTUpUTWt6bmp1THY2MF8yN1c0NndrUzNNX3VjXzlOOXYzVGZlQll0OHh6NWdzZWZwWnNHOGU4Ql9vb0htbHFxSXBXTEhhTzMtWkNfOWRtNFdXbWsydC1acVFYbVg4S292VVNpZDlkODBaeDlnRGVsZlBWVmx2alMtVXFsa2JfQzREczFaaDZPemlqenlIVWN3U1F4ek9kcjBZRkRBcFhiYnlYN1E?oc=5\" target=\"_blank\">Reigning N.J. state champs start 0-2 for 1st time in 42 years after loss to Georgia power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJ.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-05T07:58:55+00:00"
+        "collected_at": "2026-09-05T23:29:18+00:00"
       }
     },
     {

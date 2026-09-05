@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-09-05T21:50:04+00:00",
+  "last_updated": "2026-09-05T23:28:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 88,
+  "count": 89,
   "mentions": [
     {
       "id": "e7e9b3e32a2c9f9a",
@@ -89,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-05T02:27:14+00:00"
+    },
+    {
+      "id": "5dac15692f250824",
+      "title": "Proposed AEP transmission line encountering opposition - ktul.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0pLR1pKMU1qd01EZXRxc2g3d1FGWmhGSmp5SVRNRVNPdFFjOXozVG1ObldFTjBXSXRFS1dKV29xaUk5VkRDZTZ1VWtobXFVYjZFR0dkckNybFIyQldzdmNUem5sYlhmMEdWNFItUDZjNzVuZjcxV2RFZlVPRVhmMks3aUxCQ095WVE?oc=5",
+      "domain": "news.google.com",
+      "source": "ktul.com",
+      "language": "English",
+      "published_at": "2026-09-05T00:20:17+00:00",
+      "summary": "Proposed AEP transmission line encountering opposition ktul.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxON0pLR1pKMU1qd01EZXRxc2g3d1FGWmhGSmp5SVRNRVNPdFFjOXozVG1ObldFTjBXSXRFS1dKV29xaUk5VkRDZTZ1VWtobXFVYjZFR0dkckNybFIyQldzdmNUem5sYlhmMEdWNFItUDZjNzVuZjcxV2RFZlVPRVhmMks3aUxCQ095WVE?oc=5\" target=\"_blank\">Proposed AEP transmission line encountering opposition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ktul.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T23:28:56+00:00"
     },
     {
       "id": "595e0d4f35e13f77",

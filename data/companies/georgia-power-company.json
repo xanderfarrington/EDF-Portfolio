@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-05T21:50:27+00:00",
+  "last_updated": "2026-09-05T23:29:18+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 611,
+  "count": 612,
   "mentions": [
+    {
+      "id": "c8c8a6d272deb9bb",
+      "title": "Reigning N.J. state champs start 0-2 for 1st time in 42 years after loss to Georgia power - NJ.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUEV3V0E4TUdfWldOSFFObl9hZ1Jrem5Sa2VSa09PVmZNZDVxYkZUTUpUTWt6bmp1THY2MF8yN1c0NndrUzNNX3VjXzlOOXYzVGZlQll0OHh6NWdzZWZwWnNHOGU4Ql9vb0htbHFxSXBXTEhhTzMtWkNfOWRtNFdXbWsydC1acVFYbVg4S292VVNpZDlkODBaeDlnRGVsZlBWVmx2alMtVXFsa2JfQzREczFaaDZPemlqenlIVWN3U1F4ek9kcjBZRkRBcFhiYnlYN1E?oc=5",
+      "domain": "news.google.com",
+      "source": "NJ.com",
+      "language": "English",
+      "published_at": "2026-09-05T21:27:29+00:00",
+      "summary": "Reigning N.J. state champs start 0-2 for 1st time in 42 years after loss to Georgia power NJ.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUEV3V0E4TUdfWldOSFFObl9hZ1Jrem5Sa2VSa09PVmZNZDVxYkZUTUpUTWt6bmp1THY2MF8yN1c0NndrUzNNX3VjXzlOOXYzVGZlQll0OHh6NWdzZWZwWnNHOGU4Ql9vb0htbHFxSXBXTEhhTzMtWkNfOWRtNFdXbWsydC1acVFYbVg4S292VVNpZDlkODBaeDlnRGVsZlBWVmx2alMtVXFsa2JfQzREczFaaDZPemlqenlIVWN3U1F4ek9kcjBZRkRBcFhiYnlYN1E?oc=5\" target=\"_blank\">Reigning N.J. state champs start 0-2 for 1st time in 42 years after loss to Georgia power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJ.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T23:29:18+00:00"
+    },
     {
       "id": "ea484d00d0dfbcce",
       "title": "East St. Louis edges Georgia power Gainesville 24-21 - St. Louis American",
