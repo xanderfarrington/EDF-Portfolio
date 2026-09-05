@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-09-05T07:59:06+00:00",
+  "last_updated": "2026-09-05T11:43:40+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 84,
+      "count": 85,
       "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "414f2ffe1484a640",
-        "title": "Proposed AEP transmission line encountering opposition - fox23.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLW5CY0Fka1Q0WnVNMVk3U2VBcVJVUDhGUmdzX0MzRS1GN2o1clhpTjh5UEt2LWtoRFdxUVVMQkR4ZUJSNEdhVkd1bm9PUXZ3eUgxeHdIS0dmdjZTc2haT0VObFRuUm5aYWZqbHJWTVp6bXB6UkxaLU0yNDVYZXVUR2RKRzZIREQtZFlNRWVtbTdLVlVWNmNiaFZ3?oc=5",
+        "id": "366d6d41d4cd42c2",
+        "title": "Community members hold meeting to learn about 100-mile transmission line - KTUL",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2k5dUZrNzctTkhrTVJQTVlVLVJhUi1IdzFRNG4zdE5zdU5VemZPNjk1TnBSaE05VnBrNGNxRUtuaW1xdFZYWThoYVFRRUZfVXpXeF9DbFhTU0tld3R5T201amJHNkNIVi16cDVGbnlWQnNCR1d4WUxmU1BEdG9QVjVxdnJsaV8tT3lpSkYwamVSWDBxVkhDWFZCQ1k4amc1dTVreXp1MVNHZjY3S011VA?oc=5",
         "domain": "news.google.com",
-        "source": "fox23.com",
+        "source": "KTUL",
         "language": "English",
-        "published_at": "2026-09-05T01:34:35+00:00",
-        "summary": "Proposed AEP transmission line encountering opposition fox23.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPLW5CY0Fka1Q0WnVNMVk3U2VBcVJVUDhGUmdzX0MzRS1GN2o1clhpTjh5UEt2LWtoRFdxUVVMQkR4ZUJSNEdhVkd1bm9PUXZ3eUgxeHdIS0dmdjZTc2haT0VObFRuUm5aYWZqbHJWTVp6bXB6UkxaLU0yNDVYZXVUR2RKRzZIREQtZFlNRWVtbTdLVlVWNmNiaFZ3?oc=5\" target=\"_blank\">Proposed AEP transmission line encountering opposition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox23.com</font>",
+        "published_at": "2026-09-05T04:32:17+00:00",
+        "summary": "Community members hold meeting to learn about 100-mile transmission line KTUL",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2k5dUZrNzctTkhrTVJQTVlVLVJhUi1IdzFRNG4zdE5zdU5VemZPNjk1TnBSaE05VnBrNGNxRUtuaW1xdFZYWThoYVFRRUZfVXpXeF9DbFhTU0tld3R5T201amJHNkNIVi16cDVGbnlWQnNCR1d4WUxmU1BEdG9QVjVxdnJsaV8tT3lpSkYwamVSWDBxVkhDWFZCQ1k4amc1dTVreXp1MVNHZjY3S011VA?oc=5\" target=\"_blank\">Community members hold meeting to learn about 100-mile transmission line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTUL</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-05T02:27:14+00:00"
+        "collected_at": "2026-09-05T11:43:08+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 315,
-      "new_mentions_this_run": 25,
+      "count": 317,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "09489a31b9f9644e",
         "title": "Alabama Power offers 7 ways to stay cool, manage energy costs during extreme heat - yellowhammernews.com",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 603,
+      "count": 606,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "ea484d00d0dfbcce",

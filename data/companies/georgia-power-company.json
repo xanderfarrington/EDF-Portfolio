@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-05T07:58:55+00:00",
+  "last_updated": "2026-09-05T11:43:30+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 603,
+  "count": 606,
   "mentions": [
     {
       "id": "ea484d00d0dfbcce",
@@ -397,6 +397,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-31T02:55:42+00:00"
+    },
+    {
+      "id": "9f6b8af0ff605680",
+      "title": "‘Strictest contract in data center history’ reached between Georgia Power and OpenAI - wtoc.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2t1MEVTOHREeHptY0hldzV3QjRRWnJqNHRfZXhSV0tBeFQ1RWpzV24tdGdXclpBSk1Fa0xzSzBvem5ObmM0TWp0ajdJbnFBSWRuQVZ4RHFiTklfNU1BYlQ3RW1FZDFOazNaNy1YckdOT1RqMWd3OHp1WGlVNlFNTnN5SC1zSFM2MWFFNkdNMExxOTB2WmtIWnhOYnR0UkpwcTk4b1ZtQlVWYTRi0gHAAUFVX3lxTE8zaV9ON1NIM25EckJHNDlIV254OTcyemoxaXhPR1Y2S0lxcFpLZVMzWHlHWDFnNmN1c21lSzQ4OWRlQUgwR1JEcjRwanhuNUtuVGdxOHA4ZGgtcVNQT0IyRG5DZC1OOWVaSVA5NjBkbTJvUDNhYkF1NTc0N25zYU0xVF9DYl9hLXIxWmh3UFJJVGV3NTd0U25PRDQ2aE1IQko1TDBxU01TLVQ2QW94VExHZlF6eWlVQXM4cE1ubkRncA?oc=5",
+      "domain": "news.google.com",
+      "source": "wtoc.com",
+      "language": "English",
+      "published_at": "2026-08-30T23:25:00+00:00",
+      "summary": "‘Strictest contract in data center history’ reached between Georgia Power and OpenAI wtoc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2t1MEVTOHREeHptY0hldzV3QjRRWnJqNHRfZXhSV0tBeFQ1RWpzV24tdGdXclpBSk1Fa0xzSzBvem5ObmM0TWp0ajdJbnFBSWRuQVZ4RHFiTklfNU1BYlQ3RW1FZDFOazNaNy1YckdOT1RqMWd3OHp1WGlVNlFNTnN5SC1zSFM2MWFFNkdNMExxOTB2WmtIWnhOYnR0UkpwcTk4b1ZtQlVWYTRi0gHAAUFVX3lxTE8zaV9ON1NIM25EckJHNDlIV254OTcyemoxaXhPR1Y2S0lxcFpLZVMzWHlHWDFnNmN1c21lSzQ4OWRlQUgwR1JEcjRwanhuNUtuVGdxOHA4ZGgtcVNQT0IyRG5DZC1OOWVaSVA5NjBkbTJvUDNhYkF1NTc0N25zYU0xVF9DYl9hLXIxWmh3UFJJVGV3NTd0U25PRDQ2aE1IQko1TDBxU01TLVQ2QW94VExHZlF6eWlVQXM4cE1ubkRncA?oc=5\" target=\"_blank\">‘Strictest contract in data center history’ reached between Georgia Power and OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wtoc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T11:43:30+00:00"
     },
     {
       "id": "11a0bfc6385ce90c",
@@ -1267,6 +1281,20 @@
       "collected_at": "2026-08-27T18:43:21+00:00"
     },
     {
+      "id": "8e9ab61ea52cc3f8",
+      "title": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills - wtoc.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeEhhNXQ5cnQyTW5iVTM2aVBqenB0VXVZRGExdVVzcHNzLVEzYU1pQ182ejNQTGRrZWNLYTFwcEpkUS1GSWVTQ2tLNEprS2lYN2dqcF9OUWR2YWYwWm1NSXNLTHM1d0dXNFVUNkJkVWN1cjNyWVRkY3R0MEpudXEtRlRJd1F0NGU0SUcwOFdoTjFORnlZMFVBdlFIamJXOFM1dnhxU0YyQlVYbEViUnd4akdpQm5xYS1LVnFWUmFFa9IB0wFBVV95cUxONkdhbWt6V01wbVBnNUlqSmFHUzBucTgtZWdUakxMMnFva1JnaVNCNjB5NFdaUGdEcGZhbnR3Yl9kZGE5NDNLbGI5NnAtbXFHQ2VvYmdscHlqVUlIQnBqS21BWUlLalBfWWk5NnI5YmRUMGRhS0xjTmJuY29DZlFnQ1dhalVmXzNsNFFUVWNJcVJjRWc3TDlfN3E0OW5JSHVSQVh2aG5pOGlGdm9kUTJMUWRKLWZ5R1pnQnBQaVpoSWZiNkZmWnk1YnM3a1JnTTFOY2hr?oc=5",
+      "domain": "news.google.com",
+      "source": "wtoc.com",
+      "language": "English",
+      "published_at": "2026-08-26T07:00:00+00:00",
+      "summary": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills wtoc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQeEhhNXQ5cnQyTW5iVTM2aVBqenB0VXVZRGExdVVzcHNzLVEzYU1pQ182ejNQTGRrZWNLYTFwcEpkUS1GSWVTQ2tLNEprS2lYN2dqcF9OUWR2YWYwWm1NSXNLTHM1d0dXNFVUNkJkVWN1cjNyWVRkY3R0MEpudXEtRlRJd1F0NGU0SUcwOFdoTjFORnlZMFVBdlFIamJXOFM1dnhxU0YyQlVYbEViUnd4akdpQm5xYS1LVnFWUmFFa9IB0wFBVV95cUxONkdhbWt6V01wbVBnNUlqSmFHUzBucTgtZWdUakxMMnFva1JnaVNCNjB5NFdaUGdEcGZhbnR3Yl9kZGE5NDNLbGI5NnAtbXFHQ2VvYmdscHlqVUlIQnBqS21BWUlLalBfWWk5NnI5YmRUMGRhS0xjTmJuY29DZlFnQ1dhalVmXzNsNFFUVWNJcVJjRWc3TDlfN3E0OW5JSHVSQVh2aG5pOGlGdm9kUTJMUWRKLWZ5R1pnQnBQaVpoSWZiNkZmWnk1YnM3a1JnTTFOY2hr?oc=5\" target=\"_blank\">Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wtoc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T11:43:30+00:00"
+    },
+    {
       "id": "4acc69cde2b4570e",
       "title": "Exchange Club Hears Georgia Power Update - The Brunswick News",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNE9QYVdZalpORFBHZGZBd05xZVlXeEp2QVZwcWthcnoxeHBOeDZDbHd1TnlFbkRBR3psSmxBX2ZQWFVTak1PaXRPYm92OF9LMVdCRGxmZjBFU2UyeUhBVHJLYzJ6Y2FDbkE1LUNweWl1LWtwZk1vd2c2d0lQLUFnZURudTR3TnFLYTJuYmhyd0JiM19hVGFxUC0zM0JnTjVqeGRCY3RaZm5YZUgtVkRkTGdGSGhUUTJ0Tjd4R0swUHFJQmVHSG8wTTMxV25EdlE?oc=5",
@@ -1867,6 +1895,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-24T16:28:24+00:00"
+    },
+    {
+      "id": "710165d19ea16159",
+      "title": "Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity - wtoc.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1RGUGl2a0dTR2cxQ1Z5WENzZGZIT2thXzFmUzNoSWROWTBMMXFzbXJpd05EckdVdEtNR21qSWF6ZEMwNHgwRldSX1dKN3lrY2pmSFpldHV5MjN4Z1MzZWpuMmtQc2hqRVpQamJ2c2I0TXpEY1hmWFc0bms0Y2N0UDhYeWlEZmNlTjlrNWtHTEdXeXBNWktz0gGrAUFVX3lxTE5LX1c5bWVnQVpDbkVSVXNtMmNBV0FPaUtDQ0ZHY1VSR1pLNElzZjRwUXFvLTJmRWItQ1didEpURHFXSWJ2eFVUdjhMdnBMb2lrTHZnOHJBdDRwaFpRWlVVUk9wVjg3djU5bE1IcC04NzNSdV8tUWtSRjRCNGRkVlRyNXFtRFBmLWs2azA1TVl5YnR0OXVBbjBHeU9iOEdhb1UyenJ5SC01UjgwVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "wtoc.com",
+      "language": "English",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "summary": "Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity wtoc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1RGUGl2a0dTR2cxQ1Z5WENzZGZIT2thXzFmUzNoSWROWTBMMXFzbXJpd05EckdVdEtNR21qSWF6ZEMwNHgwRldSX1dKN3lrY2pmSFpldHV5MjN4Z1MzZWpuMmtQc2hqRVpQamJ2c2I0TXpEY1hmWFc0bms0Y2N0UDhYeWlEZmNlTjlrNWtHTEdXeXBNWktz0gGrAUFVX3lxTE5LX1c5bWVnQVpDbkVSVXNtMmNBV0FPaUtDQ0ZHY1VSR1pLNElzZjRwUXFvLTJmRWItQ1didEpURHFXSWJ2eFVUdjhMdnBMb2lrTHZnOHJBdDRwaFpRWlVVUk9wVjg3djU5bE1IcC04NzNSdV8tUWtSRjRCNGRkVlRyNXFtRFBmLWs2azA1TVl5YnR0OXVBbjBHeU9iOEdhb1UyenJ5SC01UjgwVQ?oc=5\" target=\"_blank\">Storm knocks out power to Savannah neighborhoods; Georgia Power working to restore electricity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wtoc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T11:43:30+00:00"
     },
     {
       "id": "a13bb33bea75def1",

@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-05T07:58:39+00:00",
+  "last_updated": "2026-09-05T11:43:14+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 315,
+  "count": 317,
   "mentions": [
     {
       "id": "09489a31b9f9644e",
@@ -189,6 +189,20 @@
       "collected_at": "2026-09-04T08:23:18+00:00"
     },
     {
+      "id": "ecab9f0cf5316252",
+      "title": "Calhoun student awarded Alabama Power scholarship - lowndessignal.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmxPZ3RyRTMycUhuX3BJeHBBZUFhcFlKcTBHeHZlVXRLRTJXVHpWWlNnY1ljZURHTW5iUkdndFVsWVJrcmJMN2RXLTg0WmY3QTkxUTBhZTctbjBvcmZfRFZXQVV5MXljTTRtM1BrV3h0dVhNbE9lNU80YUp4cmMzaU5qYWNUUTJKTS1KcFRWa1dKanQ0SWFlcg?oc=5",
+      "domain": "news.google.com",
+      "source": "lowndessignal.com",
+      "language": "English",
+      "published_at": "2026-09-03T23:01:52+00:00",
+      "summary": "Calhoun student awarded Alabama Power scholarship lowndessignal.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmxPZ3RyRTMycUhuX3BJeHBBZUFhcFlKcTBHeHZlVXRLRTJXVHpWWlNnY1ljZURHTW5iUkdndFVsWVJrcmJMN2RXLTg0WmY3QTkxUTBhZTctbjBvcmZfRFZXQVV5MXljTTRtM1BrV3h0dVhNbE9lNU80YUp4cmMzaU5qYWNUUTJKTS1KcFRWa1dKanQ0SWFlcg?oc=5\" target=\"_blank\">Calhoun student awarded Alabama Power scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lowndessignal.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T11:43:14+00:00"
+    },
+    {
       "id": "93f12c1664bc1504",
       "title": "Alabama Power offers tips to cut cooling costs during hot weather - WBRC",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUmMzeVNEN3Z4aVZEblFiUnZDUXQwTVZ6TldVTFhlWlVDTHh1OWRQbGEydjNpdS1nTUFYREprR0p4VTNMRl9zNWR6ZExtUURBbGMxeldYSkJUQTViWDZKVG94YUUzRlBfRDFPemdUdzRtYzdJUFozb1A3RXNyVThWNDhrS3JNeXZNejRBUnF3RThpRl9NRk1lUGg0SdIBrwFBVV95cUxOQTZyU29qWHV5b0lJbk82cHUxX2h2dHZhc0VCdjBsZ29fbzJXY3BlZTJCZnFNUzVJZkFSSG9aSkdfWWpoMUJKdElYRFVTZ1hNZ05yeUdvZERxVE5xRXNZa1NfRjRmbEFPcnlPMmR0dEw1OW11OEZSbGdZSkk2eWc5eHlRUmRRUFNhdXlQZGE0Y1RVaEJoWHNYR2RpRy1xb2p1WVhJNU80WXlyNks1a1NZ?oc=5",
@@ -243,6 +257,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-03T19:00:56+00:00"
+    },
+    {
+      "id": "1445c6276eb3f676",
+      "title": "Fort Dale student awarded Alabama Power scholarship - greenvilleadvocate.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXpYbjlTamJWbzl0SE9NMkpMTDJyREJZSUlNQ1lVUEE5NXFRRmpWcTBheXBjWU0yNjl6S1RBS2FUb0tSVnhCZTRNZXZ1aVJlTlJseU1Ra3NEYUpmUDJDejJ5UnZ0Q085bFMtcGh1UnRmUkVWSm5nOHBfTUIzbWhVQ09XQW9qTFY5dk55Z3YtYkhEdGlVdExGZ09SbnRDZE9LVUE?oc=5",
+      "domain": "news.google.com",
+      "source": "greenvilleadvocate.com",
+      "language": "English",
+      "published_at": "2026-09-02T23:02:51+00:00",
+      "summary": "Fort Dale student awarded Alabama Power scholarship greenvilleadvocate.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXpYbjlTamJWbzl0SE9NMkpMTDJyREJZSUlNQ1lVUEE5NXFRRmpWcTBheXBjWU0yNjl6S1RBS2FUb0tSVnhCZTRNZXZ1aVJlTlJseU1Ra3NEYUpmUDJDejJ5UnZ0Q085bFMtcGh1UnRmUkVWSm5nOHBfTUIzbWhVQ09XQW9qTFY5dk55Z3YtYkhEdGlVdExGZ09SbnRDZE9LVUE?oc=5\" target=\"_blank\">Fort Dale student awarded Alabama Power scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">greenvilleadvocate.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T11:43:14+00:00"
     },
     {
       "id": "daf9c40386a4dd79",

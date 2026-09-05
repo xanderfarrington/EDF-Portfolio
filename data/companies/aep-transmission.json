@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-09-05T07:58:33+00:00",
+  "last_updated": "2026-09-05T11:43:08+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 84,
+  "count": 85,
   "mentions": [
+    {
+      "id": "366d6d41d4cd42c2",
+      "title": "Community members hold meeting to learn about 100-mile transmission line - KTUL",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2k5dUZrNzctTkhrTVJQTVlVLVJhUi1IdzFRNG4zdE5zdU5VemZPNjk1TnBSaE05VnBrNGNxRUtuaW1xdFZYWThoYVFRRUZfVXpXeF9DbFhTU0tld3R5T201amJHNkNIVi16cDVGbnlWQnNCR1d4WUxmU1BEdG9QVjVxdnJsaV8tT3lpSkYwamVSWDBxVkhDWFZCQ1k4amc1dTVreXp1MVNHZjY3S011VA?oc=5",
+      "domain": "news.google.com",
+      "source": "KTUL",
+      "language": "English",
+      "published_at": "2026-09-05T04:32:17+00:00",
+      "summary": "Community members hold meeting to learn about 100-mile transmission line KTUL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2k5dUZrNzctTkhrTVJQTVlVLVJhUi1IdzFRNG4zdE5zdU5VemZPNjk1TnBSaE05VnBrNGNxRUtuaW1xdFZYWThoYVFRRUZfVXpXeF9DbFhTU0tld3R5T201amJHNkNIVi16cDVGbnlWQnNCR1d4WUxmU1BEdG9QVjVxdnJsaV8tT3lpSkYwamVSWDBxVkhDWFZCQ1k4amc1dTVreXp1MVNHZjY3S011VA?oc=5\" target=\"_blank\">Community members hold meeting to learn about 100-mile transmission line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTUL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T11:43:08+00:00"
+    },
     {
       "id": "414f2ffe1484a640",
       "title": "Proposed AEP transmission line encountering opposition - fox23.com",
