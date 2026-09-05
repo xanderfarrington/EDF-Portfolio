@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-05T14:23:12+00:00",
+  "last_updated": "2026-09-05T17:51:02+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 318,
+  "count": 319,
   "mentions": [
     {
       "id": "09489a31b9f9644e",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-04T17:19:34+00:00"
+    },
+    {
+      "id": "90572bbd68ef16fd",
+      "title": "Alabama Power Establishes Endowed Scholarship for Gadsden State Valley Street Students - calhounjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFZQLWVKREl4RjBTRGdIQ0VqMnlpcDFnZGFsZ29RT2s5eS0xS1NCMTdmS25MXzBWUjV5enc3TXdnU2ZFWUwzNml4UnZXWFl4RTJhS3lSRE9ic0h3ZkEtNHhia214MjAzVzlVTkxEeFVQVEJhRWp3ZHFxQk1ESVI2NURSRmVlZHNXaUlOTHhDZmNBOHRXZ09FQksycHZRREh1Uzl3SHV6UVN3c2h3eXQxTWItUS0?oc=5",
+      "domain": "news.google.com",
+      "source": "calhounjournal.com",
+      "language": "English",
+      "published_at": "2026-09-04T15:31:58+00:00",
+      "summary": "Alabama Power Establishes Endowed Scholarship for Gadsden State Valley Street Students calhounjournal.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFZQLWVKREl4RjBTRGdIQ0VqMnlpcDFnZGFsZ29RT2s5eS0xS1NCMTdmS25MXzBWUjV5enc3TXdnU2ZFWUwzNml4UnZXWFl4RTJhS3lSRE9ic0h3ZkEtNHhia214MjAzVzlVTkxEeFVQVEJhRWp3ZHFxQk1ESVI2NURSRmVlZHNXaUlOTHhDZmNBOHRXZ09FQksycHZRREh1Uzl3SHV6UVN3c2h3eXQxTWItUS0?oc=5\" target=\"_blank\">Alabama Power Establishes Endowed Scholarship for Gadsden State Valley Street Students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calhounjournal.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T17:51:02+00:00"
     },
     {
       "id": "350cfa78cbb9338d",

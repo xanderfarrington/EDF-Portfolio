@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-05T14:23:40+00:00",
+  "last_updated": "2026-09-05T17:51:29+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 87,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "e7e9b3e32a2c9f9a",
         "title": "Proposed AEP transmission line encountering opposition - KRMG",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 318,
+      "count": 319,
       "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "09489a31b9f9644e",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 98,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 607,
-      "new_mentions_this_run": 25,
+      "count": 610,
+      "new_mentions_this_run": 17,
       "latest_mention": {
         "id": "ea484d00d0dfbcce",
         "title": "East St. Louis edges Georgia power Gainesville 24-21 - St. Louis American",
@@ -110,7 +110,7 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 54,
+      "count": 55,
       "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "34d176e381db27a9",

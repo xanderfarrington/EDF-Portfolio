@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-05T14:23:29+00:00",
+  "last_updated": "2026-09-05T17:51:18+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 607,
+  "count": 610,
   "mentions": [
     {
       "id": "ea484d00d0dfbcce",
@@ -819,6 +819,20 @@
       "collected_at": "2026-08-31T18:36:10+00:00"
     },
     {
+      "id": "db4e67789eb770aa",
+      "title": "Georgia Power official discusses local OpenAI partnership - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFFYLW5UQlVtd0k4T1FoNHZUdzkxRXB2SDkxUzZoaGhzeGtpYjB1TXhVaXNsSXBnV2ZDTW1QX0FjdGQ3OTN3anExVmJkRnF2bzFDck1NUEVBanFQdTRpQ1pkengyR3c2M0F6TUhwaU9RZ2VqOUdBR0oxNjJSYVJRSkRLR0FBQ3FWY05vZ2I5bDlyMFlEVEVJ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-08-27T20:00:39+00:00",
+      "summary": "Georgia Power official discusses local OpenAI partnership Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFFYLW5UQlVtd0k4T1FoNHZUdzkxRXB2SDkxUzZoaGhzeGtpYjB1TXhVaXNsSXBnV2ZDTW1QX0FjdGQ3OTN3anExVmJkRnF2bzFDck1NUEVBanFQdTRpQ1pkengyR3c2M0F6TUhwaU9RZ2VqOUdBR0oxNjJSYVJRSkRLR0FBQ3FWY05vZ2I5bDlyMFlEVEVJ?oc=5\" target=\"_blank\">Georgia Power official discusses local OpenAI partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T17:51:18+00:00"
+    },
+    {
       "id": "b66eb4de15f2b798",
       "title": "Georgia Power contract with OpenAI approved on major data center project, with state regulators stressing ratepayer protection commitments - 11Alive.com",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObzdZcHBjcFRSMHRLTVk0T2VoM25fMnhmUW5RQ2p5bTRqZllPNFZ5MXhiTy1FZzZnbE1nZ3pjTlpLRDV6WG9aR0JxSVVGZUNMcThnUHVNd012RlNtcVdSN2pVM3M3ck1yamowOVlneTJvNndVN3JJTDBfM3NiYjF5RXI1bVVmdXE1NUQwZlJjOE5KWkQ2VW9oeGFESm5SNlNRcml0Y0NmNjVmRFhjQkpCYkFmNkhSM0Zfbi1YMFdzNks5Y0daNE9rdzZ5X1haaGVtS0hjR0E3QzJ5NjJZNlJZeVVlb2tua2JKbWtEQzU0RC1VTEh5UFFGMUFLT2NXdw?oc=5",
@@ -859,6 +873,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-01T03:03:26+00:00"
+    },
+    {
+      "id": "30aa34ea0daa3c3c",
+      "title": "Georgia Regulators Approve 3.2-GW Power Deal Between Georgia Power and OpenAI - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BVU02ZjhUalFmVmhZZVlxU0VrRGZCUnl1WTNxYWE5S184M0VUcWJYblBlLUI1ZU42TFk0dVA3S0pEX3g2ZGVzNEJad1hDX1lLczU0WGFfMk1sWURnR2F5QkhkNEpQQ1k2clZxazBsbmdrYWoxUGc?oc=5",
+      "domain": "news.google.com",
+      "source": "finance.biggo.com",
+      "language": "English",
+      "published_at": "2026-08-27T18:35:00+00:00",
+      "summary": "Georgia Regulators Approve 3.2-GW Power Deal Between Georgia Power and OpenAI finance.biggo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1BVU02ZjhUalFmVmhZZVlxU0VrRGZCUnl1WTNxYWE5S184M0VUcWJYblBlLUI1ZU42TFk0dVA3S0pEX3g2ZGVzNEJad1hDX1lLczU0WGFfMk1sWURnR2F5QkhkNEpQQ1k2clZxazBsbmdrYWoxUGc?oc=5\" target=\"_blank\">Georgia Regulators Approve 3.2-GW Power Deal Between Georgia Power and OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T17:51:18+00:00"
     },
     {
       "id": "9257d6fe5f62c0c6",
@@ -1279,6 +1307,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-27T18:43:21+00:00"
+    },
+    {
+      "id": "cd8ae1dcf47659c4",
+      "title": "Georgia Power's contract with OpenAI approved; Latest approval part of portfolio of large-load contracts delivering approximately $950 million in annual savings beginning in 2029 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUEtcDN4RDhoQkdWc1RpZ2lqVFgxMUNCdWJBYXIweXRfQ252TkNFX1hCQnBKVXhzTUY5bmJxS0hkaE03NHIyOUJHeU9HVWRPaDNoV3lqeURQT09JZHRLRm1QUGJMYlhITERqajlaMVlidUhvbVp2Ti1hN3MxZ2xtakIwc29VeTFNZDctWGNGSzJsOWV5OHNpMWJSQ2U?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-08-27T01:00:00+00:00",
+      "summary": "Georgia Power's contract with OpenAI approved; Latest approval part of portfolio of large-load contracts delivering approximately $950 million in annual savings beginning in 2029 Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUEtcDN4RDhoQkdWc1RpZ2lqVFgxMUNCdWJBYXIweXRfQ252TkNFX1hCQnBKVXhzTUY5bmJxS0hkaE03NHIyOUJHeU9HVWRPaDNoV3lqeURQT09JZHRLRm1QUGJMYlhITERqajlaMVlidUhvbVp2Ti1hN3MxZ2xtakIwc29VeTFNZDctWGNGSzJsOWV5OHNpMWJSQ2U?oc=5\" target=\"_blank\">Georgia Power's contract with OpenAI approved; Latest approval part of portfolio of large-load contracts delivering approximately $950 million in annual savings beginning in 2029</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T17:51:18+00:00"
     },
     {
       "id": "2725d69faacd2a1a",
