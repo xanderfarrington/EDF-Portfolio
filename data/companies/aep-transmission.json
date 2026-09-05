@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-09-05T02:27:14+00:00",
+  "last_updated": "2026-09-05T07:58:33+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 83,
+  "count": 84,
   "mentions": [
     {
       "id": "414f2ffe1484a640",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-05T02:27:14+00:00"
+    },
+    {
+      "id": "595e0d4f35e13f77",
+      "title": "Washington Co. Commissioners Sign Letter Opposing AEP Transmission Line Project - Bartlesville Radio",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMkktaDlOVnpTOXMzeTl3X1hOd29xTmpfd0ttSktjNGRLZnhkaG1sT0hHaUJGd3ZLRHhDT2tqWjFIdzNtUTExZEpBWGhoVlFQWUdySGRxZkNfUV8waWFUZjdOSHNqM0lDT0lrOXJLblRhQjBlanpWc3dZeEZCeUlDeG1RdTF1R3lLV3VNcHFIcC14aXpWT2w3eUtjenpUQTR1V2RJQWFqS3lqR0xUeVB0ZFVUd29wUUp4SmhFWnN0WGE0RnhNcDdudGhSZjVhUUpyZHNmTmR1bUw0OVdfWG54LWZZZVVNOVY1TzMzYXV1OVlfLTdZc3FhelB6VQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Bartlesville Radio",
+      "language": "English",
+      "published_at": "2026-08-21T07:00:00+00:00",
+      "summary": "Washington Co. Commissioners Sign Letter Opposing AEP Transmission Line Project Bartlesville Radio",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMkktaDlOVnpTOXMzeTl3X1hOd29xTmpfd0ttSktjNGRLZnhkaG1sT0hHaUJGd3ZLRHhDT2tqWjFIdzNtUTExZEpBWGhoVlFQWUdySGRxZkNfUV8waWFUZjdOSHNqM0lDT0lrOXJLblRhQjBlanpWc3dZeEZCeUlDeG1RdTF1R3lLV3VNcHFIcC14aXpWT2w3eUtjenpUQTR1V2RJQWFqS3lqR0xUeVB0ZFVUd29wUUp4SmhFWnN0WGE0RnhNcDdudGhSZjVhUUpyZHNmTmR1bUw0OVdfWG54LWZZZVVNOVY1TzMzYXV1OVlfLTdZc3FhelB6VQ?oc=5\" target=\"_blank\">Washington Co. Commissioners Sign Letter Opposing AEP Transmission Line Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bartlesville Radio</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-05T07:58:33+00:00"
     },
     {
       "id": "21b0eacc322a228b",

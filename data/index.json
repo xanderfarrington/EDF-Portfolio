@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-05T02:27:46+00:00",
+  "last_updated": "2026-09-05T07:59:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 83,
-      "new_mentions_this_run": 3,
+      "count": 84,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "414f2ffe1484a640",
         "title": "Proposed AEP transmission line encountering opposition - fox23.com",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 98,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 601,
+      "count": 603,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "c43826572ab1ed88",
-        "title": "Why Is Southern Company (NYSE:SO) Signing Long-Term Georgia Power Agreement as Data Center Load Surges? - kalkinemedia.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT18ybWNXYVhGbWdiMmxkM0lhMHhQdWZZQnkzNXY4U0hjY0oybm93N29CRVEzeFF1bzdBN2NHeS1WMVFqNXdCYXVjTjZVQzBsTVJOdVpjd0tES19ySjZLdG1jMEVhTXYxb2dDNTcyTFB0Z1BkNHlfUnpjdjU0Mm5iNU9WQlpOTGhvcXZvcUpJeU80Y09YZndOZzR1RWVxRUpqelhHckkwcVBFVTFScVBxSmFoSThwMUNKMTd5SzdsRGhCTDY3WGotT0M1QkJXem1idDM5TkpwTm5uZw?oc=5",
+        "id": "ea484d00d0dfbcce",
+        "title": "East St. Louis edges Georgia power Gainesville 24-21 - St. Louis American",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0J3VWRKZnUwV0Y4bXN6b3N6amExcGt1SU5iODB5WkRDcnNTdm5aRUJwUmJvY0lUV2V3ZnBTWUpPUDdPS2V1Qk5ZRDhiTTk3UjJGTUQ1b0VhdTJUYXRZRTJKN3BGWTNLVkdvdzk4THotaDI0c01Rd1daYnFKTUZnOVBSVXJLcXhFSlJyQjhSRDY?oc=5",
         "domain": "news.google.com",
-        "source": "kalkinemedia.com",
+        "source": "St. Louis American",
         "language": "English",
-        "published_at": "2026-09-04T06:57:00+00:00",
-        "summary": "Why Is Southern Company (NYSE:SO) Signing Long-Term Georgia Power Agreement as Data Center Load Surges? kalkinemedia.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT18ybWNXYVhGbWdiMmxkM0lhMHhQdWZZQnkzNXY4U0hjY0oybm93N29CRVEzeFF1bzdBN2NHeS1WMVFqNXdCYXVjTjZVQzBsTVJOdVpjd0tES19ySjZLdG1jMEVhTXYxb2dDNTcyTFB0Z1BkNHlfUnpjdjU0Mm5iNU9WQlpOTGhvcXZvcUpJeU80Y09YZndOZzR1RWVxRUpqelhHckkwcVBFVTFScVBxSmFoSThwMUNKMTd5SzdsRGhCTDY3WGotT0M1QkJXem1idDM5TkpwTm5uZw?oc=5\" target=\"_blank\">Why Is Southern Company (NYSE:SO) Signing Long-Term Georgia Power Agreement as Data Center Load Surges?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kalkinemedia.com</font>",
+        "published_at": "2026-09-05T05:50:18+00:00",
+        "summary": "East St. Louis edges Georgia power Gainesville 24-21 St. Louis American",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0J3VWRKZnUwV0Y4bXN6b3N6amExcGt1SU5iODB5WkRDcnNTdm5aRUJwUmJvY0lUV2V3ZnBTWUpPUDdPS2V1Qk5ZRDhiTTk3UjJGTUQ1b0VhdTJUYXRZRTJKN3BGWTNLVkdvdzk4THotaDI0c01Rd1daYnFKTUZnOVBSVXJLcXhFSlJyQjhSRDY?oc=5\" target=\"_blank\">East St. Louis edges Georgia power Gainesville 24-21</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Louis American</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-04T13:55:36+00:00"
+        "collected_at": "2026-09-05T07:58:55+00:00"
       }
     },
     {
