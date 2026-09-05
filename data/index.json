@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-05T19:48:12+00:00",
+  "last_updated": "2026-09-05T21:50:37+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 87,
-      "new_mentions_this_run": 5,
+      "count": 88,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e7e9b3e32a2c9f9a",
         "title": "Proposed AEP transmission line encountering opposition - KRMG",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 610,
+      "count": 611,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "ea484d00d0dfbcce",
