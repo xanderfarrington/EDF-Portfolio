@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-06T21:54:06+00:00",
+  "last_updated": "2026-09-06T23:24:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 89,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "e7e9b3e32a2c9f9a",
         "title": "Proposed AEP transmission line encountering opposition - KRMG",
