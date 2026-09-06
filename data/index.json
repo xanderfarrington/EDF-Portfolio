@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T02:23:51+00:00",
+  "last_updated": "2026-09-06T08:16:54+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 323,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "09489a31b9f9644e",
         "title": "Alabama Power offers 7 ways to stay cool, manage energy costs during extreme heat - yellowhammernews.com",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 612,
+      "count": 614,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "c8c8a6d272deb9bb",
