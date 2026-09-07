@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-07T15:26:20+00:00",
+  "last_updated": "2026-09-07T19:31:49+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 324,
+  "count": 325,
   "mentions": [
     {
       "id": "09489a31b9f9644e",
@@ -943,6 +943,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-24T12:35:30+00:00"
+    },
+    {
+      "id": "e7860ed525d69018",
+      "title": "Proposed data centers could use more electricity than all Alabama homes combined. Who will pay? - WBHM",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1pjYzhIMm9nVXo2dUhuSnUyUWRySUs3YnJBaUxkN3UwdWo0OXJpX3c1UDk2QTdNT2lWLWdjSkVkUjExSUExTmFBVm5ucnFncWozUXJ5YktEWURkTVlBb1FJZGhndjEwMC1zM2p0TjJNNFhGRjFVdUF1Q1FuQy01QjZTX1BQQ0tRSUtLQ1JCeFhTVmYySVl3WjdBTldOTzVYVjZFZDUwRTNoc1hfWlY0dGtnSmFRY2VhUUZkRFNwV2NoaTY1OHhlTHZSbmZfTndMOGc?oc=5",
+      "domain": "news.google.com",
+      "source": "WBHM",
+      "language": "English",
+      "published_at": "2026-08-22T12:00:00+00:00",
+      "summary": "Proposed data centers could use more electricity than all Alabama homes combined. Who will pay? WBHM",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1pjYzhIMm9nVXo2dUhuSnUyUWRySUs3YnJBaUxkN3UwdWo0OXJpX3c1UDk2QTdNT2lWLWdjSkVkUjExSUExTmFBVm5ucnFncWozUXJ5YktEWURkTVlBb1FJZGhndjEwMC1zM2p0TjJNNFhGRjFVdUF1Q1FuQy01QjZTX1BQQ0tRSUtLQ1JCeFhTVmYySVl3WjdBTldOTzVYVjZFZDUwRTNoc1hfWlY0dGtnSmFRY2VhUUZkRFNwV2NoaTY1OHhlTHZSbmZfTndMOGc?oc=5\" target=\"_blank\">Proposed data centers could use more electricity than all Alabama homes combined. Who will pay?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBHM</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-07T19:31:49+00:00"
     },
     {
       "id": "bdafdd132379531d",
