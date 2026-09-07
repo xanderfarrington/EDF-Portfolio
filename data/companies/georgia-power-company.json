@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-07T02:20:58+00:00",
+  "last_updated": "2026-09-07T08:49:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 614,
+  "count": 615,
   "mentions": [
     {
       "id": "c8c8a6d272deb9bb",
@@ -2021,6 +2021,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-05T11:43:30+00:00"
+    },
+    {
+      "id": "4d7d44f2cc7432ff",
+      "title": "Georgia Power restoring electricity in Savannah following afternoon storm damage - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdDlnVzlsOXpYXzJ1dzRJdUtWaW5tckJlVzY0OTZ2OVpRUzhJejM2VGg1aWp2Ny1WZUpSaXF2RzR0VDRFMk4ycHhINktReHZkdllDaVF3aUNjMk5DRGRVTTNhOGJ3LU9VRVR4OEtzVEJrQzlpYVhILUd4T3pYdWVkdm5FTjJGT2NYaVHSAZ4BQVVfeXFMTlZXM0N3U0VWR2tiTnUxdWdPMXBvRFB3R214bGNwNXdjazRiQ25yeWxYNTFRVEJnVG92VndoNFhYQVkwekl3bDIyVE5lSkFBLU9aSWxnVkE5RGRkdGtTSFlLZVU0dmVGSkZWSWVZRzhLWHg1TmMxaDhzVDBsS3czZE9TWmpMQ0hGZ1I4eGZ6UHhCX0otTDg0OFZiR2VpQVE?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "summary": "Georgia Power restoring electricity in Savannah following afternoon storm damage WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNdDlnVzlsOXpYXzJ1dzRJdUtWaW5tckJlVzY0OTZ2OVpRUzhJejM2VGg1aWp2Ny1WZUpSaXF2RzR0VDRFMk4ycHhINktReHZkdllDaVF3aUNjMk5DRGRVTTNhOGJ3LU9VRVR4OEtzVEJrQzlpYVhILUd4T3pYdWVkdm5FTjJGT2NYaVHSAZ4BQVVfeXFMTlZXM0N3U0VWR2tiTnUxdWdPMXBvRFB3R214bGNwNXdjazRiQ25yeWxYNTFRVEJnVG92VndoNFhYQVkwekl3bDIyVE5lSkFBLU9aSWxnVkE5RGRkdGtTSFlLZVU0dmVGSkZWSWVZRzhLWHg1TmMxaDhzVDBsS3czZE9TWmpMQ0hGZ1I4eGZ6UHhCX0otTDg0OFZiR2VpQVE?oc=5\" target=\"_blank\">Georgia Power restoring electricity in Savannah following afternoon storm damage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-07T08:49:31+00:00"
     },
     {
       "id": "a13bb33bea75def1",
