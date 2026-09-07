@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-07T19:31:49+00:00",
+  "last_updated": "2026-09-07T22:26:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 325,
+  "count": 327,
   "mentions": [
+    {
+      "id": "3ac7995cb200281f",
+      "title": "Shelby County landowner asks court to temporarily stop Alabama Power transmission line work - cbs42.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1pqcU5kMmRJangxY1FTLXpUQS1Qb3RsQzhJOEtHbXRtaTI4cXNmSWNUNktkTXNUUXBpQWNMcWx2ZTYyOWVqV1k0MGpkRF90Y3Zyelc0NmVJa0ZiQVVPTzR5bm5xbFh5ODl3Sld3WWxrMlpfeV83S0dORWtvWnFWSHNfeTdxODZMV0QzWXFPUHJOV3hab3BGVnZRZTYtRXludkFHNDJEY0V0WHppV3E5dzF3U3NTYXNTWVlVSDM3S05ab2_SAcgBQVVfeXFMTnRsTG94VTFfWUw3WlYzbl9keFNqWXI3REdEdF9KcXRYSmM2U2p1VGdqOThadzh1WFdBZUVzNXp4akZXYXBwYm5EM3hucS05U3Q4djNMQXJDV1Z2eG0tcTJETkx4TzhtbC13aTdhSHVtOEwwUUNLX2VZcnZNeWp6aERKaEtwS2VycTVSSXVaMml5TW5YSV9NR2dDRW1IMk1odG5NZi1DQXI1VnE4TVZOQl9NUmZOb2ZuSHdJMHo3Q1JJMDdIRHYyczA?oc=5",
+      "domain": "news.google.com",
+      "source": "cbs42.com",
+      "language": "English",
+      "published_at": "2026-09-07T20:47:38+00:00",
+      "summary": "Shelby County landowner asks court to temporarily stop Alabama Power transmission line work cbs42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1pqcU5kMmRJangxY1FTLXpUQS1Qb3RsQzhJOEtHbXRtaTI4cXNmSWNUNktkTXNUUXBpQWNMcWx2ZTYyOWVqV1k0MGpkRF90Y3Zyelc0NmVJa0ZiQVVPTzR5bm5xbFh5ODl3Sld3WWxrMlpfeV83S0dORWtvWnFWSHNfeTdxODZMV0QzWXFPUHJOV3hab3BGVnZRZTYtRXludkFHNDJEY0V0WHppV3E5dzF3U3NTYXNTWVlVSDM3S05ab2_SAcgBQVVfeXFMTnRsTG94VTFfWUw3WlYzbl9keFNqWXI3REdEdF9KcXRYSmM2U2p1VGdqOThadzh1WFdBZUVzNXp4akZXYXBwYm5EM3hucS05U3Q4djNMQXJDV1Z2eG0tcTJETkx4TzhtbC13aTdhSHVtOEwwUUNLX2VZcnZNeWp6aERKaEtwS2VycTVSSXVaMml5TW5YSV9NR2dDRW1IMk1odG5NZi1DQXI1VnE4TVZOQl9NUmZOb2ZuSHdJMHo3Q1JJMDdIRHYyczA?oc=5\" target=\"_blank\">Shelby County landowner asks court to temporarily stop Alabama Power transmission line work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-07T22:26:40+00:00"
+    },
     {
       "id": "09489a31b9f9644e",
       "title": "Alabama Power offers 7 ways to stay cool, manage energy costs during extreme heat - yellowhammernews.com",
@@ -173,6 +187,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-04T13:55:19+00:00"
+    },
+    {
+      "id": "ce116ef214b7fa9f",
+      "title": "Alabama Power issues RFP for 100MW of on-demand capacity resources - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzh6MmVyZVNlSDB3SFNXRkVxMV9IT2Rvb1p0X3RMcEZPaURmZUhzaTVZWTlyU0l2QURGNVBXdHdYLXBFOVNUWmRFc1Fka1lFaHZHQkhBc3pPUndiSVNaa0VxMEY5bVBUQV81TDZubzZVYkpkU1llcnFnVVh1OXpRVC1kX0hFODRiZ2N5ZG01b3duUnBsREVRYzdHX1dzLU1nZGJMX1NNMDBpeV9HSWl6VA?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-09-04T05:42:36+00:00",
+      "summary": "Alabama Power issues RFP for 100MW of on-demand capacity resources Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzh6MmVyZVNlSDB3SFNXRkVxMV9IT2Rvb1p0X3RMcEZPaURmZUhzaTVZWTlyU0l2QURGNVBXdHdYLXBFOVNUWmRFc1Fka1lFaHZHQkhBc3pPUndiSVNaa0VxMEY5bVBUQV81TDZubzZVYkpkU1llcnFnVVh1OXpRVC1kX0hFODRiZ2N5ZG01b3duUnBsREVRYzdHX1dzLU1nZGJMX1NNMDBpeV9HSWl6VA?oc=5\" target=\"_blank\">Alabama Power issues RFP for 100MW of on-demand capacity resources</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-07T22:26:40+00:00"
     },
     {
       "id": "9786992cf6f551e8",

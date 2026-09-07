@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T19:32:16+00:00",
+  "last_updated": "2026-09-07T22:27:07+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 325,
-      "new_mentions_this_run": 22,
+      "count": 327,
+      "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "09489a31b9f9644e",
-        "title": "Alabama Power offers 7 ways to stay cool, manage energy costs during extreme heat - yellowhammernews.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFZPQXZ2anllN0xtM05fWnJpS21UN0MtMXR3VXVOendoQXVJel9yUlBnempLa25kZ0RaV1V2bXREUDdGTGhjajZYZzNnaFJuUDBqQUNJcnFsV2YwT21LWkROM21rN2ZFYzViQWxMQ0JyMmIwdGtTM085Z1dJTjAxRHp5dVRCUFVpZ3V3TmFhQ2tRc0ZPdGxSUTlFSU41MzlLckJjZzVaYzlHSE4zTXAw?oc=5",
+        "id": "3ac7995cb200281f",
+        "title": "Shelby County landowner asks court to temporarily stop Alabama Power transmission line work - cbs42.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1pqcU5kMmRJangxY1FTLXpUQS1Qb3RsQzhJOEtHbXRtaTI4cXNmSWNUNktkTXNUUXBpQWNMcWx2ZTYyOWVqV1k0MGpkRF90Y3Zyelc0NmVJa0ZiQVVPTzR5bm5xbFh5ODl3Sld3WWxrMlpfeV83S0dORWtvWnFWSHNfeTdxODZMV0QzWXFPUHJOV3hab3BGVnZRZTYtRXludkFHNDJEY0V0WHppV3E5dzF3U3NTYXNTWVlVSDM3S05ab2_SAcgBQVVfeXFMTnRsTG94VTFfWUw3WlYzbl9keFNqWXI3REdEdF9KcXRYSmM2U2p1VGdqOThadzh1WFdBZUVzNXp4akZXYXBwYm5EM3hucS05U3Q4djNMQXJDV1Z2eG0tcTJETkx4TzhtbC13aTdhSHVtOEwwUUNLX2VZcnZNeWp6aERKaEtwS2VycTVSSXVaMml5TW5YSV9NR2dDRW1IMk1odG5NZi1DQXI1VnE4TVZOQl9NUmZOb2ZuSHdJMHo3Q1JJMDdIRHYyczA?oc=5",
         "domain": "news.google.com",
-        "source": "yellowhammernews.com",
+        "source": "cbs42.com",
         "language": "English",
-        "published_at": "2026-09-04T16:00:33+00:00",
-        "summary": "Alabama Power offers 7 ways to stay cool, manage energy costs during extreme heat yellowhammernews.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFZPQXZ2anllN0xtM05fWnJpS21UN0MtMXR3VXVOendoQXVJel9yUlBnempLa25kZ0RaV1V2bXREUDdGTGhjajZYZzNnaFJuUDBqQUNJcnFsV2YwT21LWkROM21rN2ZFYzViQWxMQ0JyMmIwdGtTM085Z1dJTjAxRHp5dVRCUFVpZ3V3TmFhQ2tRc0ZPdGxSUTlFSU41MzlLckJjZzVaYzlHSE4zTXAw?oc=5\" target=\"_blank\">Alabama Power offers 7 ways to stay cool, manage energy costs during extreme heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yellowhammernews.com</font>",
+        "published_at": "2026-09-07T20:47:38+00:00",
+        "summary": "Shelby County landowner asks court to temporarily stop Alabama Power transmission line work cbs42.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1pqcU5kMmRJangxY1FTLXpUQS1Qb3RsQzhJOEtHbXRtaTI4cXNmSWNUNktkTXNUUXBpQWNMcWx2ZTYyOWVqV1k0MGpkRF90Y3Zyelc0NmVJa0ZiQVVPTzR5bm5xbFh5ODl3Sld3WWxrMlpfeV83S0dORWtvWnFWSHNfeTdxODZMV0QzWXFPUHJOV3hab3BGVnZRZTYtRXludkFHNDJEY0V0WHppV3E5dzF3U3NTYXNTWVlVSDM3S05ab2_SAcgBQVVfeXFMTnRsTG94VTFfWUw3WlYzbl9keFNqWXI3REdEdF9KcXRYSmM2U2p1VGdqOThadzh1WFdBZUVzNXp4akZXYXBwYm5EM3hucS05U3Q4djNMQXJDV1Z2eG0tcTJETkx4TzhtbC13aTdhSHVtOEwwUUNLX2VZcnZNeWp6aERKaEtwS2VycTVSSXVaMml5TW5YSV9NR2dDRW1IMk1odG5NZi1DQXI1VnE4TVZOQl9NUmZOb2ZuSHdJMHo3Q1JJMDdIRHYyczA?oc=5\" target=\"_blank\">Shelby County landowner asks court to temporarily stop Alabama Power transmission line work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs42.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-04T17:19:34+00:00"
+        "collected_at": "2026-09-07T22:26:40+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 55,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "34d176e381db27a9",
         "title": "Office of Energy Dominance Financing Archives - POWER Magazine",
