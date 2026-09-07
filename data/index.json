@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-06T23:24:27+00:00",
+  "last_updated": "2026-09-07T02:21:08+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 89,
-      "new_mentions_this_run": 3,
+      "count": 90,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e7e9b3e32a2c9f9a",
         "title": "Proposed AEP transmission line encountering opposition - KRMG",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 324,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "09489a31b9f9644e",
         "title": "Alabama Power offers 7 ways to stay cool, manage energy costs during extreme heat - yellowhammernews.com",

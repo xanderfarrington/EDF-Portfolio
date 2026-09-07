@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-09-06T23:23:43+00:00",
+  "last_updated": "2026-09-07T02:20:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 89,
+  "count": 90,
   "mentions": [
     {
       "id": "e7e9b3e32a2c9f9a",
@@ -117,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-05T07:58:33+00:00"
+    },
+    {
+      "id": "558755e1eee0a8b6",
+      "title": "PORTS-Pike Takes Shape as an 8-GW AI Infrastructure Model - Data Center Frontier",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeUtaNnBGVTEyMDVKQmFoaHlmTjhUeVB4aDRNeEU0TzJ1U0JvSUNUTmVpckxSYU1xOUZIRHBkRzRQMVM4bWVlQW5aNWRocGQta3V1eXNrd3dfR0VsTjgxVFdzVFhaNVU3NDExN2xiRHM1S21icU1JREI4allKVG5TT0J1emVuNlZiRjhWS0ZOcXowMnRxcjU2WEVjTk5kVGVNUWxnZjFWYmFtbDd0MFVFVUF0Y3EtR0tXQ2VuYg?oc=5",
+      "domain": "news.google.com",
+      "source": "Data Center Frontier",
+      "language": "English",
+      "published_at": "2026-08-20T07:00:00+00:00",
+      "summary": "PORTS-Pike Takes Shape as an 8-GW AI Infrastructure Model Data Center Frontier",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOeUtaNnBGVTEyMDVKQmFoaHlmTjhUeVB4aDRNeEU0TzJ1U0JvSUNUTmVpckxSYU1xOUZIRHBkRzRQMVM4bWVlQW5aNWRocGQta3V1eXNrd3dfR0VsTjgxVFdzVFhaNVU3NDExN2xiRHM1S21icU1JREI4allKVG5TT0J1emVuNlZiRjhWS0ZOcXowMnRxcjU2WEVjTk5kVGVNUWxnZjFWYmFtbDd0MFVFVUF0Y3EtR0tXQ2VuYg?oc=5\" target=\"_blank\">PORTS-Pike Takes Shape as an 8-GW AI Infrastructure Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Frontier</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-07T02:20:36+00:00"
     },
     {
       "id": "21b0eacc322a228b",
