@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T08:49:41+00:00",
+  "last_updated": "2026-09-07T15:26:47+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 55,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "34d176e381db27a9",
         "title": "Office of Energy Dominance Financing Archives - POWER Magazine",
