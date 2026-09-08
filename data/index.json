@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T14:03:21+00:00",
+  "last_updated": "2026-09-08T19:11:40+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 332,
+      "count": 333,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "720a0cf2284a80f0",
-        "title": "Brunson awarded Alabama Power scholarship - Luverne Journal",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXRkT0dXdkJlVGNHaVV2VDg3eXd4cFBqYi04ZDBwOElpVlB2N013dGdsV0VHSWJwcWNRemJ5c2NZZDhneHJOWmplcjV1ZFp3OTVlUnlTWVRHM3RkRDVxbkVBU0ZteWZwTlNlZ3FZUmJZUUY3RXd1Sm1tMVNqUng5OHRuOUV4THlwazl4NjRHcw?oc=5",
+        "id": "370e3adc719a6379",
+        "title": "Shelby County landowner asks court to temporarily stop Alabama Power transmission line work - WHNT.com",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORXJ3VGw4ajRaTkFBb0FSVFZKX2t1OUQ1bzltWnpXUWwyQ0hrd2wyNHhzLXpja3lnbXJCNHpvemhEZDA4U0M2OWpfUFdmZWw2WElsdmlZaklkQXZuelB5OWVRZWxzMm5rWk1JQkNVN1hQUS1KNTctQXZ4eHRqZlhtaG1BOEhDVzItTElHSHY3ZU5DVkZ3U2ZqMGRfRWpTMmRVbnlGWnpibnpGUmdSR2plLUxLWGtoWGEydFJLLWE0emJfbjB6OWZZcVF4Z9IBywFBVV95cUxORXJ3VGw4ajRaTkFBb0FSVFZKX2t1OUQ1bzltWnpXUWwyQ0hrd2wyNHhzLXpja3lnbXJCNHpvemhEZDA4U0M2OWpfUFdmZWw2WElsdmlZaklkQXZuelB5OWVRZWxzMm5rWk1JQkNVN1hQUS1KNTctQXZ4eHRqZlhtaG1BOEhDVzItTElHSHY3ZU5DVkZ3U2ZqMGRfRWpTMmRVbnlGWnpibnpGUmdSR2plLUxLWGtoWGEydFJLLWE0emJfbjB6OWZZcVF4Zw?oc=5",
         "domain": "news.google.com",
-        "source": "Luverne Journal",
+        "source": "WHNT.com",
         "language": "English",
-        "published_at": "2026-09-07T23:04:05+00:00",
-        "summary": "Brunson awarded Alabama Power scholarship Luverne Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXRkT0dXdkJlVGNHaVV2VDg3eXd4cFBqYi04ZDBwOElpVlB2N013dGdsV0VHSWJwcWNRemJ5c2NZZDhneHJOWmplcjV1ZFp3OTVlUnlTWVRHM3RkRDVxbkVBU0ZteWZwTlNlZ3FZUmJZUUY3RXd1Sm1tMVNqUng5OHRuOUV4THlwazl4NjRHcw?oc=5\" target=\"_blank\">Brunson awarded Alabama Power scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Luverne Journal</font>",
+        "published_at": "2026-09-08T12:01:54+00:00",
+        "summary": "Shelby County landowner asks court to temporarily stop Alabama Power transmission line work WHNT.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxORXJ3VGw4ajRaTkFBb0FSVFZKX2t1OUQ1bzltWnpXUWwyQ0hrd2wyNHhzLXpja3lnbXJCNHpvemhEZDA4U0M2OWpfUFdmZWw2WElsdmlZaklkQXZuelB5OWVRZWxzMm5rWk1JQkNVN1hQUS1KNTctQXZ4eHRqZlhtaG1BOEhDVzItTElHSHY3ZU5DVkZ3U2ZqMGRfRWpTMmRVbnlGWnpibnpGUmdSR2plLUxLWGtoWGEydFJLLWE0emJfbjB6OWZZcVF4Z9IBywFBVV95cUxORXJ3VGw4ajRaTkFBb0FSVFZKX2t1OUQ1bzltWnpXUWwyQ0hrd2wyNHhzLXpja3lnbXJCNHpvemhEZDA4U0M2OWpfUFdmZWw2WElsdmlZaklkQXZuelB5OWVRZWxzMm5rWk1JQkNVN1hQUS1KNTctQXZ4eHRqZlhtaG1BOEhDVzItTElHSHY3ZU5DVkZ3U2ZqMGRfRWpTMmRVbnlGWnpibnpGUmdSR2plLUxLWGtoWGEydFJLLWE0emJfbjB6OWZZcVF4Zw?oc=5\" target=\"_blank\">Shelby County landowner asks court to temporarily stop Alabama Power transmission line work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHNT.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-08T02:32:59+00:00"
+        "collected_at": "2026-09-08T19:11:13+00:00"
       }
     },
     {
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 99,
+      "count": 100,
       "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 620,
-      "new_mentions_this_run": 25,
+      "count": 625,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "8aa2981125967926",
-        "title": "The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills - Inside Climate News",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlkxWXNQYlIxV19hOHdldFlYajF2UFJQTHFTNWpBMWU0a3R3Mm5CaGlYVTh0Mzhaai05SzFpbDVzazlRc2tWX0E1c3YxMnRxSWd3TW1RcU5YbFVUWmYzbFFhZXZEb0s3UGQ2UzlZd2Q3aFpxakk1aWZNbXZFazZKd3RGeW9VRW5oNExLcGt3?oc=5",
+        "id": "6000a8d0cd3eda50",
+        "title": "Georgia Power works to meet growing power demand - FOX 5 Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9USk1MRmJKSHI5TUNWVHJCZjdtMUxJX05sdjZzMVVJaEhkRzl6bWtOaDRhSEZpRWN0Q2M3eW1aeXRiTzcxc1UwNVNfalFHXy10LV9OTFlPeGVyRkVUS0szOFBEeGjSAWpBVV95cUxPdXUyNVRCN1ZnVnBTek4xVWl0OHd6bWE0YXYxY0kyRUhnbVBPV2lrcXNBajdId0JWZ0ZlOHRZemhnVUZ0cDlSWElhcHNJczhFQUU4c2tVOUs1UHc1dFh6VlQ2alRYakZTdEF3?oc=5",
         "domain": "news.google.com",
-        "source": "Inside Climate News",
+        "source": "FOX 5 Atlanta",
         "language": "English",
-        "published_at": "2026-09-08T09:00:00+00:00",
-        "summary": "The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills Inside Climate News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlkxWXNQYlIxV19hOHdldFlYajF2UFJQTHFTNWpBMWU0a3R3Mm5CaGlYVTh0Mzhaai05SzFpbDVzazlRc2tWX0E1c3YxMnRxSWd3TW1RcU5YbFVUWmYzbFFhZXZEb0s3UGQ2UzlZd2Q3aFpxakk1aWZNbXZFazZKd3RGeW9VRW5oNExLcGt3?oc=5\" target=\"_blank\">The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
+        "published_at": "2026-09-08T16:16:00+00:00",
+        "summary": "Georgia Power works to meet growing power demand FOX 5 Atlanta",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9USk1MRmJKSHI5TUNWVHJCZjdtMUxJX05sdjZzMVVJaEhkRzl6bWtOaDRhSEZpRWN0Q2M3eW1aeXRiTzcxc1UwNVNfalFHXy10LV9OTFlPeGVyRkVUS0szOFBEeGjSAWpBVV95cUxPdXUyNVRCN1ZnVnBTek4xVWl0OHd6bWE0YXYxY0kyRUhnbVBPV2lrcXNBajdId0JWZ0ZlOHRZemhnVUZ0cDlSWElhcHNJczhFQUU4c2tVOUs1UHc1dFh6VlQ2alRYakZTdEF3?oc=5\" target=\"_blank\">Georgia Power works to meet growing power demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-08T14:03:11+00:00"
+        "collected_at": "2026-09-08T19:11:29+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 55,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "34d176e381db27a9",
         "title": "Office of Energy Dominance Financing Archives - POWER Magazine",
