@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-08T19:11:29+00:00",
+  "last_updated": "2026-09-08T22:16:29+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 625,
+  "count": 628,
   "mentions": [
+    {
+      "id": "4e3d58ae247ba96d",
+      "title": "Georgia Power urges customers to prepare for hu... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTRydlAyckVhZm81c210MU5uYkFHQmRSbEZDamRRZ2g3eHcycjNNMFo3bUFIMWNLdDlQRDc4dmVEWFEtaTRlTUdBMWhxOThwTVd4QXREY193SVZpckd4cVVDdFdrdjZsWUItYjVqUWtuYjdZQjNjeG1UNHFlU0owQzY2ODR1RmZYSldBZnZtRnk4bWU1d2JIUkRxWS1MUVhzZjh4Ykd2VQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Pluang",
+      "language": "English",
+      "published_at": "2026-09-08T20:48:18+00:00",
+      "summary": "Georgia Power urges customers to prepare for hu... Pluang",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTRydlAyckVhZm81c210MU5uYkFHQmRSbEZDamRRZ2g3eHcycjNNMFo3bUFIMWNLdDlQRDc4dmVEWFEtaTRlTUdBMWhxOThwTVd4QXREY193SVZpckd4cVVDdFdrdjZsWUItYjVqUWtuYjdZQjNjeG1UNHFlU0owQzY2ODR1RmZYSldBZnZtRnk4bWU1d2JIUkRxWS1MUVhzZjh4Ykd2VQ?oc=5\" target=\"_blank\">Georgia Power urges customers to prepare for hu...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-08T22:16:29+00:00"
+    },
+    {
+      "id": "04e57700a3ee1793",
+      "title": "Georgia Power encourages customers to take action during National Preparedness Month - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN01RakVrVFNFZng5cFB3MV9DNVpGV25Zd3JVOEJ6Tjh1MmFvV3BsUzdPQUhmM1JCTkU3VVBobFNZT2RmZXRlWlptb0ZYY3NJdERUM2JxTjlCMU05M24tTElTZWJ0RHZwcVpIemtFWTlSLWxrY29peEctZmpmX1FEYkFCOHAwUjJ1V3FQUDI1RTdKVWJyRjlsWGJhcVZUQ0xSaURoekE5cFFCWDFwZ3JnT1c3b196My1SUXdtSVNaVjhreE91VGlBbmlBb3ZteGNtbmtXTXUyYw?oc=5",
+      "domain": "news.google.com",
+      "source": "PR Newswire",
+      "language": "English",
+      "published_at": "2026-09-08T20:28:00+00:00",
+      "summary": "Georgia Power encourages customers to take action during National Preparedness Month PR Newswire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN01RakVrVFNFZng5cFB3MV9DNVpGV25Zd3JVOEJ6Tjh1MmFvV3BsUzdPQUhmM1JCTkU3VVBobFNZT2RmZXRlWlptb0ZYY3NJdERUM2JxTjlCMU05M24tTElTZWJ0RHZwcVpIemtFWTlSLWxrY29peEctZmpmX1FEYkFCOHAwUjJ1V3FQUDI1RTdKVWJyRjlsWGJhcVZUQ0xSaURoekE5cFFCWDFwZ3JnT1c3b196My1SUXdtSVNaVjhreE91VGlBbmlBb3ZteGNtbmtXTXUyYw?oc=5\" target=\"_blank\">Georgia Power encourages customers to take action during National Preparedness Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-08T22:16:29+00:00"
+    },
     {
       "id": "6000a8d0cd3eda50",
       "title": "Georgia Power works to meet growing power demand - FOX 5 Atlanta",
@@ -19,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-08T19:11:29+00:00"
+    },
+    {
+      "id": "97f82268ee18c911",
+      "title": "Georgia Power works to meet growing power demand - fox5atlanta.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9USk1MRmJKSHI5TUNWVHJCZjdtMUxJX05sdjZzMVVJaEhkRzl6bWtOaDRhSEZpRWN0Q2M3eW1aeXRiTzcxc1UwNVNfalFHXy10LV9OTFlPeGVyRkVUS0szOFBEeGjSAWpBVV95cUxPdXUyNVRCN1ZnVnBTek4xVWl0OHd6bWE0YXYxY0kyRUhnbVBPV2lrcXNBajdId0JWZ0ZlOHRZemhnVUZ0cDlSWElhcHNJczhFQUU4c2tVOUs1UHc1dFh6VlQ2alRYakZTdEF3?oc=5",
+      "domain": "news.google.com",
+      "source": "fox5atlanta.com",
+      "language": "English",
+      "published_at": "2026-09-08T16:16:00+00:00",
+      "summary": "Georgia Power works to meet growing power demand fox5atlanta.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9USk1MRmJKSHI5TUNWVHJCZjdtMUxJX05sdjZzMVVJaEhkRzl6bWtOaDRhSEZpRWN0Q2M3eW1aeXRiTzcxc1UwNVNfalFHXy10LV9OTFlPeGVyRkVUS0szOFBEeGjSAWpBVV95cUxPdXUyNVRCN1ZnVnBTek4xVWl0OHd6bWE0YXYxY0kyRUhnbVBPV2lrcXNBajdId0JWZ0ZlOHRZemhnVUZ0cDlSWElhcHNJczhFQUU4c2tVOUs1UHc1dFh6VlQ2alRYakZTdEF3?oc=5\" target=\"_blank\">Georgia Power works to meet growing power demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox5atlanta.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-08T22:16:29+00:00"
     },
     {
       "id": "9a48d8d84366db62",

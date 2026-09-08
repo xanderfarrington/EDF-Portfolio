@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-08T19:11:13+00:00",
+  "last_updated": "2026-09-08T22:16:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 333,
+  "count": 336,
   "mentions": [
+    {
+      "id": "d3f926539546f666",
+      "title": "Landowner asks court to temporarily stop Alabama Power transmission line work - WOODTV.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTk9EX3ZRWVAySkFWZVhaWmVNaHZqQndvSW9INzZuendsblA3MF9LZGdDLUJDaDZnVGRaNURVWkhTOVdFVE84ZERXSzc2aVRyeG1SZnVMTmFnMTBJQWphY0JlbDMxSl8wV2tsbmg5aDJCQnVSeGsyTlI5b1U2aFJINnNlVDNaVVloYmpjb1hqOHVmY3dYaXk2dEtZRi10c2pPRV96V3JrQ2c3cHpWX3NQUmZ6ZEdsM00?oc=5",
+      "domain": "news.google.com",
+      "source": "WOODTV.com",
+      "language": "English",
+      "published_at": "2026-09-08T21:32:20+00:00",
+      "summary": "Landowner asks court to temporarily stop Alabama Power transmission line work WOODTV.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTk9EX3ZRWVAySkFWZVhaWmVNaHZqQndvSW9INzZuendsblA3MF9LZGdDLUJDaDZnVGRaNURVWkhTOVdFVE84ZERXSzc2aVRyeG1SZnVMTmFnMTBJQWphY0JlbDMxSl8wV2tsbmg5aDJCQnVSeGsyTlI5b1U2aFJINnNlVDNaVVloYmpjb1hqOHVmY3dYaXk2dEtZRi10c2pPRV96V3JrQ2c3cHpWX3NQUmZ6ZEdsM00?oc=5\" target=\"_blank\">Landowner asks court to temporarily stop Alabama Power transmission line work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOODTV.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-08T22:16:12+00:00"
+    },
     {
       "id": "370e3adc719a6379",
       "title": "Shelby County landowner asks court to temporarily stop Alabama Power transmission line work - WHNT.com",
@@ -35,6 +49,20 @@
       "collected_at": "2026-09-08T02:32:59+00:00"
     },
     {
+      "id": "e4fbb9b971e4f9d1",
+      "title": "Brunson awarded Alabama Power scholarship - luvernejournal.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXRkT0dXdkJlVGNHaVV2VDg3eXd4cFBqYi04ZDBwOElpVlB2N013dGdsV0VHSWJwcWNRemJ5c2NZZDhneHJOWmplcjV1ZFp3OTVlUnlTWVRHM3RkRDVxbkVBU0ZteWZwTlNlZ3FZUmJZUUY3RXd1Sm1tMVNqUng5OHRuOUV4THlwazl4NjRHcw?oc=5",
+      "domain": "news.google.com",
+      "source": "luvernejournal.com",
+      "language": "English",
+      "published_at": "2026-09-07T23:04:05+00:00",
+      "summary": "Brunson awarded Alabama Power scholarship luvernejournal.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXRkT0dXdkJlVGNHaVV2VDg3eXd4cFBqYi04ZDBwOElpVlB2N013dGdsV0VHSWJwcWNRemJ5c2NZZDhneHJOWmplcjV1ZFp3OTVlUnlTWVRHM3RkRDVxbkVBU0ZteWZwTlNlZ3FZUmJZUUY3RXd1Sm1tMVNqUng5OHRuOUV4THlwazl4NjRHcw?oc=5\" target=\"_blank\">Brunson awarded Alabama Power scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">luvernejournal.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-08T22:16:12+00:00"
+    },
+    {
       "id": "3ac7995cb200281f",
       "title": "Shelby County landowner asks court to temporarily stop Alabama Power transmission line work - cbs42.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1pqcU5kMmRJangxY1FTLXpUQS1Qb3RsQzhJOEtHbXRtaTI4cXNmSWNUNktkTXNUUXBpQWNMcWx2ZTYyOWVqV1k0MGpkRF90Y3Zyelc0NmVJa0ZiQVVPTzR5bm5xbFh5ODl3Sld3WWxrMlpfeV83S0dORWtvWnFWSHNfeTdxODZMV0QzWXFPUHJOV3hab3BGVnZRZTYtRXludkFHNDJEY0V0WHppV3E5dzF3U3NTYXNTWVlVSDM3S05ab2_SAcgBQVVfeXFMTnRsTG94VTFfWUw3WlYzbl9keFNqWXI3REdEdF9KcXRYSmM2U2p1VGdqOThadzh1WFdBZUVzNXp4akZXYXBwYm5EM3hucS05U3Q4djNMQXJDV1Z2eG0tcTJETkx4TzhtbC13aTdhSHVtOEwwUUNLX2VZcnZNeWp6aERKaEtwS2VycTVSSXVaMml5TW5YSV9NR2dDRW1IMk1odG5NZi1DQXI1VnE4TVZOQl9NUmZOb2ZuSHdJMHo3Q1JJMDdIRHYyczA?oc=5",
@@ -61,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-08T02:32:59+00:00"
+    },
+    {
+      "id": "3877f44199794646",
+      "title": "Landowner asks court to temporarily stop Alabama Power transmission line work - CIProud.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYU1pT203OEkyWmwxSXhObkFiUUdLeXVkWEJISl9yTDdYQkI3UFJiaGw1Vk9GWEF5ZEdVeV85Nk5VVl8xTHpjbkxvQnpsRTk0MXNsN2ZMOElLbVQxWXJVZTZUMDdxVHhad1Vuc1lmMTdGWHhPdXBONXFrTWJfMUpWcWgxRzhrQ0Z3cEJaUkVhd1BIdVhmLU9lU1pGMGJ3OVU2LWpteEtrbVA3d0RFeVQ5MGJINjNBZ0RTTVhpeF9IMWVVSktvcFB4V1d3?oc=5",
+      "domain": "news.google.com",
+      "source": "CIProud.com",
+      "language": "English",
+      "published_at": "2026-09-07T04:16:39+00:00",
+      "summary": "Landowner asks court to temporarily stop Alabama Power transmission line work CIProud.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQYU1pT203OEkyWmwxSXhObkFiUUdLeXVkWEJISl9yTDdYQkI3UFJiaGw1Vk9GWEF5ZEdVeV85Nk5VVl8xTHpjbkxvQnpsRTk0MXNsN2ZMOElLbVQxWXJVZTZUMDdxVHhad1Vuc1lmMTdGWHhPdXBONXFrTWJfMUpWcWgxRzhrQ0Z3cEJaUkVhd1BIdVhmLU9lU1pGMGJ3OVU2LWpteEtrbVA3d0RFeVQ5MGJINjNBZ0RTTVhpeF9IMWVVSktvcFB4V1d3?oc=5\" target=\"_blank\">Landowner asks court to temporarily stop Alabama Power transmission line work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CIProud.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-08T22:16:12+00:00"
     },
     {
       "id": "f72bde180ec06f85",
