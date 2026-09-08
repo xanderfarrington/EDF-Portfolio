@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-08T02:33:26+00:00",
+  "last_updated": "2026-09-08T08:29:45+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 91,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "e7e9b3e32a2c9f9a",
         "title": "Proposed AEP transmission line encountering opposition - KRMG",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 617,
-      "new_mentions_this_run": 25,
+      "count": 619,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "8f92de967494d990",
-        "title": "Chatham County homeowner is taking Georgia Power to Superior Court - WTOC",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbTM1OXIzYThnY0x5dXRqM2xPaFhCWkZ4NVhYMk5IRW45VHBBU0ZnalJUQWVQYnVvRjh2bDNoOXdPeGFFcWRIeC0tdFBpNVlUM1NkejNFMUQzd3dPRl9zRWlRM3JsbjBTbG1WOEd4aHpfelcwRk1yVHZTYzAxWURzZE9Jc2FVcnFJNDVPVU9BQ2xxSkJBX1JiUHRyOGvSAbABQVVfeXFMUFRzN0pfRGc3UHoweWFVV1Q2eWROUmNTSmxDUlYwenpqUWlkUXR2UU9TWEhTNzdRYVpJRVdReXdUZmpjTVh0WWhoNlJPZmNGNGdDMUtTa3hHcmxraWpOVHdIWmpHWk8zMUxIeTJkV291MGFwVWk5ZG9aLTdldlllTnVIVXZZaGJ5NEY3S2hBbjF4N1RXeU9mVUJTbUItcDhfcFlkUjlwa1N6NWRibkZCbXQ?oc=5",
+        "id": "11d66df5e8195745",
+        "title": "Georgia Power Ambassadors donate to FACES - The Brunswick News",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRG5jb0lTZE5pQnNZcFgzdFVCcHZFUXBiN2Z2S1JpNmh2VGtFTkhpWldKSW54c19oMUhQdDJ0ZUY3Tld3cUhUSDNGNkNZenRhcFBJb1hkSWJkRmY5djFrYUNQb3BvQm9ta19ZY0NTMzVRX19zUWFjYlNZclBtZFJNWUI4VjF6OHJpTm5lTzVUU3VsZWdSUXNKOGpRc2NvMmZqSHlnNFEzSXFLM3BDbERYRUdSU1k2Y3VUVmdRNDZubnJhX2lmcG9rQkNtc0VWWDRw?oc=5",
         "domain": "news.google.com",
-        "source": "WTOC",
+        "source": "The Brunswick News",
         "language": "English",
-        "published_at": "2026-09-08T00:38:00+00:00",
-        "summary": "Chatham County homeowner is taking Georgia Power to Superior Court WTOC",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQbTM1OXIzYThnY0x5dXRqM2xPaFhCWkZ4NVhYMk5IRW45VHBBU0ZnalJUQWVQYnVvRjh2bDNoOXdPeGFFcWRIeC0tdFBpNVlUM1NkejNFMUQzd3dPRl9zRWlRM3JsbjBTbG1WOEd4aHpfelcwRk1yVHZTYzAxWURzZE9Jc2FVcnFJNDVPVU9BQ2xxSkJBX1JiUHRyOGvSAbABQVVfeXFMUFRzN0pfRGc3UHoweWFVV1Q2eWROUmNTSmxDUlYwenpqUWlkUXR2UU9TWEhTNzdRYVpJRVdReXdUZmpjTVh0WWhoNlJPZmNGNGdDMUtTa3hHcmxraWpOVHdIWmpHWk8zMUxIeTJkV291MGFwVWk5ZG9aLTdldlllTnVIVXZZaGJ5NEY3S2hBbjF4N1RXeU9mVUJTbUItcDhfcFlkUjlwa1N6NWRibkZCbXQ?oc=5\" target=\"_blank\">Chatham County homeowner is taking Georgia Power to Superior Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+        "published_at": "2026-09-08T04:00:00+00:00",
+        "summary": "Georgia Power Ambassadors donate to FACES The Brunswick News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRG5jb0lTZE5pQnNZcFgzdFVCcHZFUXBiN2Z2S1JpNmh2VGtFTkhpWldKSW54c19oMUhQdDJ0ZUY3Tld3cUhUSDNGNkNZenRhcFBJb1hkSWJkRmY5djFrYUNQb3BvQm9ta19ZY0NTMzVRX19zUWFjYlNZclBtZFJNWUI4VjF6OHJpTm5lTzVUU3VsZWdSUXNKOGpRc2NvMmZqSHlnNFEzSXFLM3BDbERYRUdSU1k2Y3VUVmdRNDZubnJhX2lmcG9rQkNtc0VWWDRw?oc=5\" target=\"_blank\">Georgia Power Ambassadors donate to FACES</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brunswick News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-08T02:33:16+00:00"
+        "collected_at": "2026-09-08T08:29:35+00:00"
       }
     },
     {

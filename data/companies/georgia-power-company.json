@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-08T02:33:16+00:00",
+  "last_updated": "2026-09-08T08:29:35+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 617,
+  "count": 619,
   "mentions": [
+    {
+      "id": "11d66df5e8195745",
+      "title": "Georgia Power Ambassadors donate to FACES - The Brunswick News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRG5jb0lTZE5pQnNZcFgzdFVCcHZFUXBiN2Z2S1JpNmh2VGtFTkhpWldKSW54c19oMUhQdDJ0ZUY3Tld3cUhUSDNGNkNZenRhcFBJb1hkSWJkRmY5djFrYUNQb3BvQm9ta19ZY0NTMzVRX19zUWFjYlNZclBtZFJNWUI4VjF6OHJpTm5lTzVUU3VsZWdSUXNKOGpRc2NvMmZqSHlnNFEzSXFLM3BDbERYRUdSU1k2Y3VUVmdRNDZubnJhX2lmcG9rQkNtc0VWWDRw?oc=5",
+      "domain": "news.google.com",
+      "source": "The Brunswick News",
+      "language": "English",
+      "published_at": "2026-09-08T04:00:00+00:00",
+      "summary": "Georgia Power Ambassadors donate to FACES The Brunswick News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRG5jb0lTZE5pQnNZcFgzdFVCcHZFUXBiN2Z2S1JpNmh2VGtFTkhpWldKSW54c19oMUhQdDJ0ZUY3Tld3cUhUSDNGNkNZenRhcFBJb1hkSWJkRmY5djFrYUNQb3BvQm9ta19ZY0NTMzVRX19zUWFjYlNZclBtZFJNWUI4VjF6OHJpTm5lTzVUU3VsZWdSUXNKOGpRc2NvMmZqSHlnNFEzSXFLM3BDbERYRUdSU1k2Y3VUVmdRNDZubnJhX2lmcG9rQkNtc0VWWDRw?oc=5\" target=\"_blank\">Georgia Power Ambassadors donate to FACES</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brunswick News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-08T08:29:35+00:00"
+    },
     {
       "id": "8f92de967494d990",
       "title": "Chatham County homeowner is taking Georgia Power to Superior Court - WTOC",
@@ -1419,6 +1433,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-05T11:43:30+00:00"
+    },
+    {
+      "id": "5634dfe2f8e0c5bc",
+      "title": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills - atlantanewsfirst.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUjVBS2E2QkN4SVZRMHl6cmoxYUlJTUp3bUwwcVZjSEJRaTRoQUh2bHQxSzhUbnBhUExKNjNkeXAyc3Y4ZldkUXR1OFItQ2FQMWhjNks1ZllxcDFVQkhBaFEyMlE2UDNmMVZ6d0VLVTBoWFBIZXFIYTVNRUlmd3N4Ny1CcTR5MWRrYjRDdjh6QUpnN0VmWmI0Qms0Zktqa2F6YlE2SEg2MzRuaFlGdmR2QWRMOW9wQ1hsSThXeXNwcy1nUmQtRUhVMlg0WV9NbknSAeMBQVVfeXFMTjJ1eE94S3ViZ0JuN0NONUFOZEJqRUpSVXFRVXpqVkxoaDFKTVl3cDcwVGN6Y0l0aXlublN4MXZsNkV5MHhIMVN6OV91Y19wRWhaWFp0XzVNcVdScGExaVd2dVZ4a2Yta1VxWlY3UjRXX1N3ZEpYRlUwNHBaQThjTFpROTU2YjJubEhhMDMyNDMtLXdSVFBIdEVUZlBRS3lMcHBKeDFfNm5URndIazVGc1VFUGZBYlhkalFtSFNpTTJpOWwxOFQ0OUVZeWlkcnBZQ1JYeURaZEV1Q3NGSzNIOUloMW8?oc=5",
+      "domain": "news.google.com",
+      "source": "atlantanewsfirst.com",
+      "language": "English",
+      "published_at": "2026-08-26T07:00:00+00:00",
+      "summary": "Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills atlantanewsfirst.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOUjVBS2E2QkN4SVZRMHl6cmoxYUlJTUp3bUwwcVZjSEJRaTRoQUh2bHQxSzhUbnBhUExKNjNkeXAyc3Y4ZldkUXR1OFItQ2FQMWhjNks1ZllxcDFVQkhBaFEyMlE2UDNmMVZ6d0VLVTBoWFBIZXFIYTVNRUlmd3N4Ny1CcTR5MWRrYjRDdjh6QUpnN0VmWmI0Qms0Zktqa2F6YlE2SEg2MzRuaFlGdmR2QWRMOW9wQ1hsSThXeXNwcy1nUmQtRUhVMlg0WV9NbknSAeMBQVVfeXFMTjJ1eE94S3ViZ0JuN0NONUFOZEJqRUpSVXFRVXpqVkxoaDFKTVl3cDcwVGN6Y0l0aXlublN4MXZsNkV5MHhIMVN6OV91Y19wRWhaWFp0XzVNcVdScGExaVd2dVZ4a2Yta1VxWlY3UjRXX1N3ZEpYRlUwNHBaQThjTFpROTU2YjJubEhhMDMyNDMtLXdSVFBIdEVUZlBRS3lMcHBKeDFfNm5URndIazVGc1VFUGZBYlhkalFtSFNpTTJpOWwxOFQ0OUVZeWlkcnBZQ1JYeURaZEV1Q3NGSzNIOUloMW8?oc=5\" target=\"_blank\">Georgia Power’s OpenAI contract in Effingham County approved, expected to lower residential bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">atlantanewsfirst.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-08T08:29:35+00:00"
     },
     {
       "id": "4acc69cde2b4570e",
