@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-07T22:27:07+00:00",
+  "last_updated": "2026-09-08T02:33:26+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 90,
+      "count": 91,
       "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e7e9b3e32a2c9f9a",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 327,
+      "count": 329,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "3ac7995cb200281f",
-        "title": "Shelby County landowner asks court to temporarily stop Alabama Power transmission line work - cbs42.com",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1pqcU5kMmRJangxY1FTLXpUQS1Qb3RsQzhJOEtHbXRtaTI4cXNmSWNUNktkTXNUUXBpQWNMcWx2ZTYyOWVqV1k0MGpkRF90Y3Zyelc0NmVJa0ZiQVVPTzR5bm5xbFh5ODl3Sld3WWxrMlpfeV83S0dORWtvWnFWSHNfeTdxODZMV0QzWXFPUHJOV3hab3BGVnZRZTYtRXludkFHNDJEY0V0WHppV3E5dzF3U3NTYXNTWVlVSDM3S05ab2_SAcgBQVVfeXFMTnRsTG94VTFfWUw3WlYzbl9keFNqWXI3REdEdF9KcXRYSmM2U2p1VGdqOThadzh1WFdBZUVzNXp4akZXYXBwYm5EM3hucS05U3Q4djNMQXJDV1Z2eG0tcTJETkx4TzhtbC13aTdhSHVtOEwwUUNLX2VZcnZNeWp6aERKaEtwS2VycTVSSXVaMml5TW5YSV9NR2dDRW1IMk1odG5NZi1DQXI1VnE4TVZOQl9NUmZOb2ZuSHdJMHo3Q1JJMDdIRHYyczA?oc=5",
+        "id": "720a0cf2284a80f0",
+        "title": "Brunson awarded Alabama Power scholarship - Luverne Journal",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXRkT0dXdkJlVGNHaVV2VDg3eXd4cFBqYi04ZDBwOElpVlB2N013dGdsV0VHSWJwcWNRemJ5c2NZZDhneHJOWmplcjV1ZFp3OTVlUnlTWVRHM3RkRDVxbkVBU0ZteWZwTlNlZ3FZUmJZUUY3RXd1Sm1tMVNqUng5OHRuOUV4THlwazl4NjRHcw?oc=5",
         "domain": "news.google.com",
-        "source": "cbs42.com",
+        "source": "Luverne Journal",
         "language": "English",
-        "published_at": "2026-09-07T20:47:38+00:00",
-        "summary": "Shelby County landowner asks court to temporarily stop Alabama Power transmission line work cbs42.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1pqcU5kMmRJangxY1FTLXpUQS1Qb3RsQzhJOEtHbXRtaTI4cXNmSWNUNktkTXNUUXBpQWNMcWx2ZTYyOWVqV1k0MGpkRF90Y3Zyelc0NmVJa0ZiQVVPTzR5bm5xbFh5ODl3Sld3WWxrMlpfeV83S0dORWtvWnFWSHNfeTdxODZMV0QzWXFPUHJOV3hab3BGVnZRZTYtRXludkFHNDJEY0V0WHppV3E5dzF3U3NTYXNTWVlVSDM3S05ab2_SAcgBQVVfeXFMTnRsTG94VTFfWUw3WlYzbl9keFNqWXI3REdEdF9KcXRYSmM2U2p1VGdqOThadzh1WFdBZUVzNXp4akZXYXBwYm5EM3hucS05U3Q4djNMQXJDV1Z2eG0tcTJETkx4TzhtbC13aTdhSHVtOEwwUUNLX2VZcnZNeWp6aERKaEtwS2VycTVSSXVaMml5TW5YSV9NR2dDRW1IMk1odG5NZi1DQXI1VnE4TVZOQl9NUmZOb2ZuSHdJMHo3Q1JJMDdIRHYyczA?oc=5\" target=\"_blank\">Shelby County landowner asks court to temporarily stop Alabama Power transmission line work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs42.com</font>",
+        "published_at": "2026-09-07T23:04:05+00:00",
+        "summary": "Brunson awarded Alabama Power scholarship Luverne Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXRkT0dXdkJlVGNHaVV2VDg3eXd4cFBqYi04ZDBwOElpVlB2N013dGdsV0VHSWJwcWNRemJ5c2NZZDhneHJOWmplcjV1ZFp3OTVlUnlTWVRHM3RkRDVxbkVBU0ZteWZwTlNlZ3FZUmJZUUY3RXd1Sm1tMVNqUng5OHRuOUV4THlwazl4NjRHcw?oc=5\" target=\"_blank\">Brunson awarded Alabama Power scholarship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Luverne Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-07T22:26:40+00:00"
+        "collected_at": "2026-09-08T02:32:59+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 616,
-      "new_mentions_this_run": 24,
+      "count": 617,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "c8c8a6d272deb9bb",
-        "title": "Reigning N.J. state champs start 0-2 for 1st time in 42 years after loss to Georgia power - NJ.com",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUEV3V0E4TUdfWldOSFFObl9hZ1Jrem5Sa2VSa09PVmZNZDVxYkZUTUpUTWt6bmp1THY2MF8yN1c0NndrUzNNX3VjXzlOOXYzVGZlQll0OHh6NWdzZWZwWnNHOGU4Ql9vb0htbHFxSXBXTEhhTzMtWkNfOWRtNFdXbWsydC1acVFYbVg4S292VVNpZDlkODBaeDlnRGVsZlBWVmx2alMtVXFsa2JfQzREczFaaDZPemlqenlIVWN3U1F4ek9kcjBZRkRBcFhiYnlYN1E?oc=5",
+        "id": "8f92de967494d990",
+        "title": "Chatham County homeowner is taking Georgia Power to Superior Court - WTOC",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbTM1OXIzYThnY0x5dXRqM2xPaFhCWkZ4NVhYMk5IRW45VHBBU0ZnalJUQWVQYnVvRjh2bDNoOXdPeGFFcWRIeC0tdFBpNVlUM1NkejNFMUQzd3dPRl9zRWlRM3JsbjBTbG1WOEd4aHpfelcwRk1yVHZTYzAxWURzZE9Jc2FVcnFJNDVPVU9BQ2xxSkJBX1JiUHRyOGvSAbABQVVfeXFMUFRzN0pfRGc3UHoweWFVV1Q2eWROUmNTSmxDUlYwenpqUWlkUXR2UU9TWEhTNzdRYVpJRVdReXdUZmpjTVh0WWhoNlJPZmNGNGdDMUtTa3hHcmxraWpOVHdIWmpHWk8zMUxIeTJkV291MGFwVWk5ZG9aLTdldlllTnVIVXZZaGJ5NEY3S2hBbjF4N1RXeU9mVUJTbUItcDhfcFlkUjlwa1N6NWRibkZCbXQ?oc=5",
         "domain": "news.google.com",
-        "source": "NJ.com",
+        "source": "WTOC",
         "language": "English",
-        "published_at": "2026-09-05T21:27:29+00:00",
-        "summary": "Reigning N.J. state champs start 0-2 for 1st time in 42 years after loss to Georgia power NJ.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUEV3V0E4TUdfWldOSFFObl9hZ1Jrem5Sa2VSa09PVmZNZDVxYkZUTUpUTWt6bmp1THY2MF8yN1c0NndrUzNNX3VjXzlOOXYzVGZlQll0OHh6NWdzZWZwWnNHOGU4Ql9vb0htbHFxSXBXTEhhTzMtWkNfOWRtNFdXbWsydC1acVFYbVg4S292VVNpZDlkODBaeDlnRGVsZlBWVmx2alMtVXFsa2JfQzREczFaaDZPemlqenlIVWN3U1F4ek9kcjBZRkRBcFhiYnlYN1E?oc=5\" target=\"_blank\">Reigning N.J. state champs start 0-2 for 1st time in 42 years after loss to Georgia power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJ.com</font>",
+        "published_at": "2026-09-08T00:38:00+00:00",
+        "summary": "Chatham County homeowner is taking Georgia Power to Superior Court WTOC",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQbTM1OXIzYThnY0x5dXRqM2xPaFhCWkZ4NVhYMk5IRW45VHBBU0ZnalJUQWVQYnVvRjh2bDNoOXdPeGFFcWRIeC0tdFBpNVlUM1NkejNFMUQzd3dPRl9zRWlRM3JsbjBTbG1WOEd4aHpfelcwRk1yVHZTYzAxWURzZE9Jc2FVcnFJNDVPVU9BQ2xxSkJBX1JiUHRyOGvSAbABQVVfeXFMUFRzN0pfRGc3UHoweWFVV1Q2eWROUmNTSmxDUlYwenpqUWlkUXR2UU9TWEhTNzdRYVpJRVdReXdUZmpjTVh0WWhoNlJPZmNGNGdDMUtTa3hHcmxraWpOVHdIWmpHWk8zMUxIeTJkV291MGFwVWk5ZG9aLTdldlllTnVIVXZZaGJ5NEY3S2hBbjF4N1RXeU9mVUJTbUItcDhfcFlkUjlwa1N6NWRibkZCbXQ?oc=5\" target=\"_blank\">Chatham County homeowner is taking Georgia Power to Superior Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-05T23:29:18+00:00"
+        "collected_at": "2026-09-08T02:33:16+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 55,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "34d176e381db27a9",
         "title": "Office of Energy Dominance Financing Archives - POWER Magazine",

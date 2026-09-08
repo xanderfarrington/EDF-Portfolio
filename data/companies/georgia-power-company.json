@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-07T22:26:56+00:00",
+  "last_updated": "2026-09-08T02:33:16+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 616,
+  "count": 617,
   "mentions": [
+    {
+      "id": "8f92de967494d990",
+      "title": "Chatham County homeowner is taking Georgia Power to Superior Court - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbTM1OXIzYThnY0x5dXRqM2xPaFhCWkZ4NVhYMk5IRW45VHBBU0ZnalJUQWVQYnVvRjh2bDNoOXdPeGFFcWRIeC0tdFBpNVlUM1NkejNFMUQzd3dPRl9zRWlRM3JsbjBTbG1WOEd4aHpfelcwRk1yVHZTYzAxWURzZE9Jc2FVcnFJNDVPVU9BQ2xxSkJBX1JiUHRyOGvSAbABQVVfeXFMUFRzN0pfRGc3UHoweWFVV1Q2eWROUmNTSmxDUlYwenpqUWlkUXR2UU9TWEhTNzdRYVpJRVdReXdUZmpjTVh0WWhoNlJPZmNGNGdDMUtTa3hHcmxraWpOVHdIWmpHWk8zMUxIeTJkV291MGFwVWk5ZG9aLTdldlllTnVIVXZZaGJ5NEY3S2hBbjF4N1RXeU9mVUJTbUItcDhfcFlkUjlwa1N6NWRibkZCbXQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-09-08T00:38:00+00:00",
+      "summary": "Chatham County homeowner is taking Georgia Power to Superior Court WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQbTM1OXIzYThnY0x5dXRqM2xPaFhCWkZ4NVhYMk5IRW45VHBBU0ZnalJUQWVQYnVvRjh2bDNoOXdPeGFFcWRIeC0tdFBpNVlUM1NkejNFMUQzd3dPRl9zRWlRM3JsbjBTbG1WOEd4aHpfelcwRk1yVHZTYzAxWURzZE9Jc2FVcnFJNDVPVU9BQ2xxSkJBX1JiUHRyOGvSAbABQVVfeXFMUFRzN0pfRGc3UHoweWFVV1Q2eWROUmNTSmxDUlYwenpqUWlkUXR2UU9TWEhTNzdRYVpJRVdReXdUZmpjTVh0WWhoNlJPZmNGNGdDMUtTa3hHcmxraWpOVHdIWmpHWk8zMUxIeTJkV291MGFwVWk5ZG9aLTdldlllTnVIVXZZaGJ5NEY3S2hBbjF4N1RXeU9mVUJTbUItcDhfcFlkUjlwa1N6NWRibkZCbXQ?oc=5\" target=\"_blank\">Chatham County homeowner is taking Georgia Power to Superior Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-08T02:33:16+00:00"
+    },
     {
       "id": "c8c8a6d272deb9bb",
       "title": "Reigning N.J. state champs start 0-2 for 1st time in 42 years after loss to Georgia power - NJ.com",
