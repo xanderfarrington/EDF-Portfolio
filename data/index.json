@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-08T08:29:45+00:00",
+  "last_updated": "2026-09-08T14:03:21+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 91,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e7e9b3e32a2c9f9a",
         "title": "Proposed AEP transmission line encountering opposition - KRMG",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 329,
+      "count": 332,
       "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "720a0cf2284a80f0",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 619,
-      "new_mentions_this_run": 24,
+      "count": 620,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "11d66df5e8195745",
-        "title": "Georgia Power Ambassadors donate to FACES - The Brunswick News",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRG5jb0lTZE5pQnNZcFgzdFVCcHZFUXBiN2Z2S1JpNmh2VGtFTkhpWldKSW54c19oMUhQdDJ0ZUY3Tld3cUhUSDNGNkNZenRhcFBJb1hkSWJkRmY5djFrYUNQb3BvQm9ta19ZY0NTMzVRX19zUWFjYlNZclBtZFJNWUI4VjF6OHJpTm5lTzVUU3VsZWdSUXNKOGpRc2NvMmZqSHlnNFEzSXFLM3BDbERYRUdSU1k2Y3VUVmdRNDZubnJhX2lmcG9rQkNtc0VWWDRw?oc=5",
+        "id": "8aa2981125967926",
+        "title": "The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills - Inside Climate News",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlkxWXNQYlIxV19hOHdldFlYajF2UFJQTHFTNWpBMWU0a3R3Mm5CaGlYVTh0Mzhaai05SzFpbDVzazlRc2tWX0E1c3YxMnRxSWd3TW1RcU5YbFVUWmYzbFFhZXZEb0s3UGQ2UzlZd2Q3aFpxakk1aWZNbXZFazZKd3RGeW9VRW5oNExLcGt3?oc=5",
         "domain": "news.google.com",
-        "source": "The Brunswick News",
+        "source": "Inside Climate News",
         "language": "English",
-        "published_at": "2026-09-08T04:00:00+00:00",
-        "summary": "Georgia Power Ambassadors donate to FACES The Brunswick News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRG5jb0lTZE5pQnNZcFgzdFVCcHZFUXBiN2Z2S1JpNmh2VGtFTkhpWldKSW54c19oMUhQdDJ0ZUY3Tld3cUhUSDNGNkNZenRhcFBJb1hkSWJkRmY5djFrYUNQb3BvQm9ta19ZY0NTMzVRX19zUWFjYlNZclBtZFJNWUI4VjF6OHJpTm5lTzVUU3VsZWdSUXNKOGpRc2NvMmZqSHlnNFEzSXFLM3BDbERYRUdSU1k2Y3VUVmdRNDZubnJhX2lmcG9rQkNtc0VWWDRw?oc=5\" target=\"_blank\">Georgia Power Ambassadors donate to FACES</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brunswick News</font>",
+        "published_at": "2026-09-08T09:00:00+00:00",
+        "summary": "The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills Inside Climate News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlkxWXNQYlIxV19hOHdldFlYajF2UFJQTHFTNWpBMWU0a3R3Mm5CaGlYVTh0Mzhaai05SzFpbDVzazlRc2tWX0E1c3YxMnRxSWd3TW1RcU5YbFVUWmYzbFFhZXZEb0s3UGQ2UzlZd2Q3aFpxakk1aWZNbXZFazZKd3RGeW9VRW5oNExLcGt3?oc=5\" target=\"_blank\">The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-08T08:29:35+00:00"
+        "collected_at": "2026-09-08T14:03:11+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 55,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "34d176e381db27a9",
         "title": "Office of Energy Dominance Financing Archives - POWER Magazine",
