@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T19:00:03+00:00",
+  "last_updated": "2026-09-09T22:09:36+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 340,
-      "new_mentions_this_run": 24,
+      "count": 341,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "c15639dbb1993b69",
-        "title": "How Alabama Power became Flock’s longest-standing middleman - alabamareflector.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGFYMkZuczg3MXlTSmpQWkVGRWRVUmwySEJEalF5T1ZxTmtHd1ZnM0FkeDhMM1htTFd3ZnZ4ZlVVOWkwd0NyOGtjVmw4QTBOaE5hQWw1a1F6d1VGSVl3eUNNY1l3S3NkTDJELTJSbTN4NDJlb2pVNHFzY0RXbUpHNGtUV2VFRTdFQkp6Z25wNWVrU0V3cFZoX0p0NU9RS1RO?oc=5",
+        "id": "493f9ee9cddfe06b",
+        "title": "Shelby County man gets more time in high-profile legal fight against Alabama Power - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQXzkxMm9vbjM5VjYzZmh4Y0haM19DVElyYWNNQlFDWHdJenNrd09kU2h3VThDZ2NfUFVTcEZpRjAxeWF4d1NJekhIZEwwcXM5VEstQmJBWDkwTWxUWGJrRkpjTTUxbWdnQXZ5R05zUnZtMzdyalZuSlU3eXRhazhjMFhPMk1zVm4zZnhWbEg0Y0FSMDVHbXdiNnN4ZWJfYVZTUHlTN1RfV3lZRDVkbUlISVlJN2VOQWNVS2Jr0gHPAUFVX3lxTFBuaTRLeTlLYWoxMW5zNEQ1QkZaRlNtVVlKRTBFck9hVnpOcnhGTVJ6WFQ2LUVkQ3pkdmJOa3NQek95TC1fbExybGtpbUs0SnRZRGlyNTdLMFYwZFZhNEw5a01sMVI1bHlpcTJvbkFpUGhTU2tVUFVKSFBPeFRUc2VmQjVyTTk3VzJBMTNQa2ctNE1UWWFzcVZ1WjJPa2lMMlRCaGxGTTYtWTBoLW4xTUVuSV9KLVJvT2o1LW00RHJlS2ZWSUxJVzI0ZlNDRWpHYw?oc=5",
         "domain": "news.google.com",
-        "source": "alabamareflector.com",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-09-09T10:35:38+00:00",
-        "summary": "How Alabama Power became Flock’s longest-standing middleman alabamareflector.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGFYMkZuczg3MXlTSmpQWkVGRWRVUmwySEJEalF5T1ZxTmtHd1ZnM0FkeDhMM1htTFd3ZnZ4ZlVVOWkwd0NyOGtjVmw4QTBOaE5hQWw1a1F6d1VGSVl3eUNNY1l3S3NkTDJELTJSbTN4NDJlb2pVNHFzY0RXbUpHNGtUV2VFRTdFQkp6Z25wNWVrU0V3cFZoX0p0NU9RS1RO?oc=5\" target=\"_blank\">How Alabama Power became Flock’s longest-standing middleman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamareflector.com</font>",
+        "published_at": "2026-09-09T20:52:00+00:00",
+        "summary": "Shelby County man gets more time in high-profile legal fight against Alabama Power AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQXzkxMm9vbjM5VjYzZmh4Y0haM19DVElyYWNNQlFDWHdJenNrd09kU2h3VThDZ2NfUFVTcEZpRjAxeWF4d1NJekhIZEwwcXM5VEstQmJBWDkwTWxUWGJrRkpjTTUxbWdnQXZ5R05zUnZtMzdyalZuSlU3eXRhazhjMFhPMk1zVm4zZnhWbEg0Y0FSMDVHbXdiNnN4ZWJfYVZTUHlTN1RfV3lZRDVkbUlISVlJN2VOQWNVS2Jr0gHPAUFVX3lxTFBuaTRLeTlLYWoxMW5zNEQ1QkZaRlNtVVlKRTBFck9hVnpOcnhGTVJ6WFQ2LUVkQ3pkdmJOa3NQek95TC1fbExybGtpbUs0SnRZRGlyNTdLMFYwZFZhNEw5a01sMVI1bHlpcTJvbkFpUGhTU2tVUFVKSFBPeFRUc2VmQjVyTTk3VzJBMTNQa2ctNE1UWWFzcVZ1WjJPa2lMMlRCaGxGTTYtWTBoLW4xTUVuSV9KLVJvT2o1LW00RHJlS2ZWSUxJVzI0ZlNDRWpHYw?oc=5\" target=\"_blank\">Shelby County man gets more time in high-profile legal fight against Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-09T18:59:36+00:00"
+        "collected_at": "2026-09-09T22:09:09+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 55,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "34d176e381db27a9",
         "title": "Office of Energy Dominance Financing Archives - POWER Magazine",
