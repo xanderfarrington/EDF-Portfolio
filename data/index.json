@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T08:32:24+00:00",
+  "last_updated": "2026-09-09T14:05:42+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 336,
-      "new_mentions_this_run": 24,
+      "count": 338,
+      "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "d3f926539546f666",
-        "title": "Landowner asks court to temporarily stop Alabama Power transmission line work - WOODTV.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTk9EX3ZRWVAySkFWZVhaWmVNaHZqQndvSW9INzZuendsblA3MF9LZGdDLUJDaDZnVGRaNURVWkhTOVdFVE84ZERXSzc2aVRyeG1SZnVMTmFnMTBJQWphY0JlbDMxSl8wV2tsbmg5aDJCQnVSeGsyTlI5b1U2aFJINnNlVDNaVVloYmpjb1hqOHVmY3dYaXk2dEtZRi10c2pPRV96V3JrQ2c3cHpWX3NQUmZ6ZEdsM00?oc=5",
+        "id": "c9a133664f295dd1",
+        "title": "How Alabama Power became Flock’s longest-standing middleman - Alabama Reflector",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGFYMkZuczg3MXlTSmpQWkVGRWRVUmwySEJEalF5T1ZxTmtHd1ZnM0FkeDhMM1htTFd3ZnZ4ZlVVOWkwd0NyOGtjVmw4QTBOaE5hQWw1a1F6d1VGSVl3eUNNY1l3S3NkTDJELTJSbTN4NDJlb2pVNHFzY0RXbUpHNGtUV2VFRTdFQkp6Z25wNWVrU0V3cFZoX0p0NU9RS1RO?oc=5",
         "domain": "news.google.com",
-        "source": "WOODTV.com",
+        "source": "Alabama Reflector",
         "language": "English",
-        "published_at": "2026-09-08T21:32:20+00:00",
-        "summary": "Landowner asks court to temporarily stop Alabama Power transmission line work WOODTV.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTk9EX3ZRWVAySkFWZVhaWmVNaHZqQndvSW9INzZuendsblA3MF9LZGdDLUJDaDZnVGRaNURVWkhTOVdFVE84ZERXSzc2aVRyeG1SZnVMTmFnMTBJQWphY0JlbDMxSl8wV2tsbmg5aDJCQnVSeGsyTlI5b1U2aFJINnNlVDNaVVloYmpjb1hqOHVmY3dYaXk2dEtZRi10c2pPRV96V3JrQ2c3cHpWX3NQUmZ6ZEdsM00?oc=5\" target=\"_blank\">Landowner asks court to temporarily stop Alabama Power transmission line work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOODTV.com</font>",
+        "published_at": "2026-09-09T10:34:26+00:00",
+        "summary": "How Alabama Power became Flock’s longest-standing middleman Alabama Reflector",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGFYMkZuczg3MXlTSmpQWkVGRWRVUmwySEJEalF5T1ZxTmtHd1ZnM0FkeDhMM1htTFd3ZnZ4ZlVVOWkwd0NyOGtjVmw4QTBOaE5hQWw1a1F6d1VGSVl3eUNNY1l3S3NkTDJELTJSbTN4NDJlb2pVNHFzY0RXbUpHNGtUV2VFRTdFQkp6Z25wNWVrU0V3cFZoX0p0NU9RS1RO?oc=5\" target=\"_blank\">How Alabama Power became Flock’s longest-standing middleman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Reflector</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-08T22:16:12+00:00"
+        "collected_at": "2026-09-09T14:05:15+00:00"
       }
     },
     {
