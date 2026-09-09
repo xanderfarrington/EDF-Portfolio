@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-09T02:34:24+00:00",
+  "last_updated": "2026-09-09T08:32:13+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 628,
+  "count": 630,
   "mentions": [
     {
       "id": "4e3d58ae247ba96d",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-08T22:16:29+00:00"
+    },
+    {
+      "id": "3b95e2769490a2f6",
+      "title": "Georgia Power urges customers to prepare for hu... - pluang.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTRydlAyckVhZm81c210MU5uYkFHQmRSbEZDamRRZ2g3eHcycjNNMFo3bUFIMWNLdDlQRDc4dmVEWFEtaTRlTUdBMWhxOThwTVd4QXREY193SVZpckd4cVVDdFdrdjZsWUItYjVqUWtuYjdZQjNjeG1UNHFlU0owQzY2ODR1RmZYSldBZnZtRnk4bWU1d2JIUkRxWS1MUVhzZjh4Ykd2VQ?oc=5",
+      "domain": "news.google.com",
+      "source": "pluang.com",
+      "language": "English",
+      "published_at": "2026-09-08T20:48:18+00:00",
+      "summary": "Georgia Power urges customers to prepare for hu... pluang.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTRydlAyckVhZm81c210MU5uYkFHQmRSbEZDamRRZ2g3eHcycjNNMFo3bUFIMWNLdDlQRDc4dmVEWFEtaTRlTUdBMWhxOThwTVd4QXREY193SVZpckd4cVVDdFdrdjZsWUItYjVqUWtuYjdZQjNjeG1UNHFlU0owQzY2ODR1RmZYSldBZnZtRnk4bWU1d2JIUkRxWS1MUVhzZjh4Ykd2VQ?oc=5\" target=\"_blank\">Georgia Power urges customers to prepare for hu...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pluang.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-09T08:32:13+00:00"
     },
     {
       "id": "04e57700a3ee1793",
@@ -75,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-08T19:11:29+00:00"
+    },
+    {
+      "id": "13c3a922e9b98b72",
+      "title": "The cost of keeping cool: Georgia Power customers struggle with summer bills - thecurrentga.org",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZDZDNFdYek56STd4LWh5aTR0TjNLTExUaklwSm1takxKNzE5TU9sRWlXeVYyQ0wwZk1zbjZzYjVFa3JIaGxFUnFBWGZKaFo2TzUyY1dYYW5PdnNhQTU5SklzZW1oUHY5b3ZOcVMtY1Exd2Ewa01LVU5RaWN6TTJicUxKcWU5dkh0TUxjUDJhSEYtUHUyQU9yM0lkUTNGQUViMVhZdF94RzBqbEMyQzNKQzNB?oc=5",
+      "domain": "news.google.com",
+      "source": "thecurrentga.org",
+      "language": "English",
+      "published_at": "2026-09-08T15:56:19+00:00",
+      "summary": "The cost of keeping cool: Georgia Power customers struggle with summer bills thecurrentga.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZDZDNFdYek56STd4LWh5aTR0TjNLTExUaklwSm1takxKNzE5TU9sRWlXeVYyQ0wwZk1zbjZzYjVFa3JIaGxFUnFBWGZKaFo2TzUyY1dYYW5PdnNhQTU5SklzZW1oUHY5b3ZOcVMtY1Exd2Ewa01LVU5RaWN6TTJicUxKcWU5dkh0TUxjUDJhSEYtUHUyQU9yM0lkUTNGQUViMVhZdF94RzBqbEMyQzNKQzNB?oc=5\" target=\"_blank\">The cost of keeping cool: Georgia Power customers struggle with summer bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-09T08:32:13+00:00"
     },
     {
       "id": "8aa2981125967926",

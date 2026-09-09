@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-09T02:34:34+00:00",
+  "last_updated": "2026-09-09T08:32:24+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 91,
+      "count": 92,
       "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e7e9b3e32a2c9f9a",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 336,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "d3f926539546f666",
         "title": "Landowner asks court to temporarily stop Alabama Power transmission line work - WOODTV.com",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 100,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 628,
+      "count": 630,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "4e3d58ae247ba96d",
