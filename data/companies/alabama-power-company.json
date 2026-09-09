@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-09T14:05:15+00:00",
+  "last_updated": "2026-09-09T18:59:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 338,
+  "count": 340,
   "mentions": [
+    {
+      "id": "c15639dbb1993b69",
+      "title": "How Alabama Power became Flock’s longest-standing middleman - alabamareflector.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGFYMkZuczg3MXlTSmpQWkVGRWRVUmwySEJEalF5T1ZxTmtHd1ZnM0FkeDhMM1htTFd3ZnZ4ZlVVOWkwd0NyOGtjVmw4QTBOaE5hQWw1a1F6d1VGSVl3eUNNY1l3S3NkTDJELTJSbTN4NDJlb2pVNHFzY0RXbUpHNGtUV2VFRTdFQkp6Z25wNWVrU0V3cFZoX0p0NU9RS1RO?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamareflector.com",
+      "language": "English",
+      "published_at": "2026-09-09T10:35:38+00:00",
+      "summary": "How Alabama Power became Flock’s longest-standing middleman alabamareflector.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGFYMkZuczg3MXlTSmpQWkVGRWRVUmwySEJEalF5T1ZxTmtHd1ZnM0FkeDhMM1htTFd3ZnZ4ZlVVOWkwd0NyOGtjVmw4QTBOaE5hQWw1a1F6d1VGSVl3eUNNY1l3S3NkTDJELTJSbTN4NDJlb2pVNHFzY0RXbUpHNGtUV2VFRTdFQkp6Z25wNWVrU0V3cFZoX0p0NU9RS1RO?oc=5\" target=\"_blank\">How Alabama Power became Flock’s longest-standing middleman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamareflector.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-09T18:59:36+00:00"
+    },
     {
       "id": "c9a133664f295dd1",
       "title": "How Alabama Power became Flock’s longest-standing middleman - Alabama Reflector",
@@ -1055,6 +1069,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-08-31T23:33:07+00:00"
+    },
+    {
+      "id": "e58cf81350b65822",
+      "title": "Alabama Electricity Rates & Costs (September 2026) - ElectricChoice.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01VFdRWWNScjBKUXpMdHREOTJ0dC1PQ3ZRN0l6dXMxLWc4NHZDdEdqY3pHRnJ3dXNFbWM5YktFejJCbXpVQ2h5T3pwM0xpMENPTE5PU0c0RWZicXRqOWVrdFBmN3RRSkxhWDFHMmVVM25MNHEtd0E?oc=5",
+      "domain": "news.google.com",
+      "source": "ElectricChoice.com",
+      "language": "English",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "summary": "Alabama Electricity Rates & Costs (September 2026) ElectricChoice.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE01VFdRWWNScjBKUXpMdHREOTJ0dC1PQ3ZRN0l6dXMxLWc4NHZDdEdqY3pHRnJ3dXNFbWM5YktFejJCbXpVQ2h5T3pwM0xpMENPTE5PU0c0RWZicXRqOWVrdFBmN3RRSkxhWDFHMmVVM25MNHEtd0E?oc=5\" target=\"_blank\">Alabama Electricity Rates & Costs (September 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ElectricChoice.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-09T18:59:36+00:00"
     },
     {
       "id": "21ea58b2e4bdb241",

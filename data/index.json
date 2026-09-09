@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T14:05:42+00:00",
+  "last_updated": "2026-09-09T19:00:03+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 338,
-      "new_mentions_this_run": 23,
+      "count": 340,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "c9a133664f295dd1",
-        "title": "How Alabama Power became Flock’s longest-standing middleman - Alabama Reflector",
+        "id": "c15639dbb1993b69",
+        "title": "How Alabama Power became Flock’s longest-standing middleman - alabamareflector.com",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGFYMkZuczg3MXlTSmpQWkVGRWRVUmwySEJEalF5T1ZxTmtHd1ZnM0FkeDhMM1htTFd3ZnZ4ZlVVOWkwd0NyOGtjVmw4QTBOaE5hQWw1a1F6d1VGSVl3eUNNY1l3S3NkTDJELTJSbTN4NDJlb2pVNHFzY0RXbUpHNGtUV2VFRTdFQkp6Z25wNWVrU0V3cFZoX0p0NU9RS1RO?oc=5",
         "domain": "news.google.com",
-        "source": "Alabama Reflector",
+        "source": "alabamareflector.com",
         "language": "English",
-        "published_at": "2026-09-09T10:34:26+00:00",
-        "summary": "How Alabama Power became Flock’s longest-standing middleman Alabama Reflector",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGFYMkZuczg3MXlTSmpQWkVGRWRVUmwySEJEalF5T1ZxTmtHd1ZnM0FkeDhMM1htTFd3ZnZ4ZlVVOWkwd0NyOGtjVmw4QTBOaE5hQWw1a1F6d1VGSVl3eUNNY1l3S3NkTDJELTJSbTN4NDJlb2pVNHFzY0RXbUpHNGtUV2VFRTdFQkp6Z25wNWVrU0V3cFZoX0p0NU9RS1RO?oc=5\" target=\"_blank\">How Alabama Power became Flock’s longest-standing middleman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Reflector</font>",
+        "published_at": "2026-09-09T10:35:38+00:00",
+        "summary": "How Alabama Power became Flock’s longest-standing middleman alabamareflector.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGFYMkZuczg3MXlTSmpQWkVGRWRVUmwySEJEalF5T1ZxTmtHd1ZnM0FkeDhMM1htTFd3ZnZ4ZlVVOWkwd0NyOGtjVmw4QTBOaE5hQWw1a1F6d1VGSVl3eUNNY1l3S3NkTDJELTJSbTN4NDJlb2pVNHFzY0RXbUpHNGtUV2VFRTdFQkp6Z25wNWVrU0V3cFZoX0p0NU9RS1RO?oc=5\" target=\"_blank\">How Alabama Power became Flock’s longest-standing middleman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamareflector.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-09T14:05:15+00:00"
+        "collected_at": "2026-09-09T18:59:36+00:00"
       }
     },
     {
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 100,
+      "count": 101,
       "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
