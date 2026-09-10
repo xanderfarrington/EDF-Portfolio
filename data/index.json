@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-10T17:37:03+00:00",
+  "last_updated": "2026-09-10T20:19:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 93,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "5aa606b38bf30b81",
         "title": "Washington County residents attend public meeting about proposed AEP transmission line - fox23.com",
