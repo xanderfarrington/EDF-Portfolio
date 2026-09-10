@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-10T08:34:20+00:00",
+  "last_updated": "2026-09-10T14:00:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 630,
+  "count": 632,
   "mentions": [
+    {
+      "id": "b2d7e0ed3f73e73f",
+      "title": "Sept. 10 - Georgia Power encourages customers to take action during National Preparedness Month - savannahbusinessjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPZGhrOGdubHVtbC1xU0VoeGVrNzlaLWh1ei15NG9mTWZFOTFUQm5ra0hPNXBfTUNCdkZHeUlGakp5d1EyY3NGRUFZQTJSRGd5dVd0NHA5ckw1cXMzZ2d5TXo3bzdOcndQdHhEVzBVNjNlZWtLTTV3U3MyZ19FaUhyVDhwc0lETzJlM25kYktrUm5jeXpLR05GQ2dvaDZkMG5xcnh0MTJpMTh6OWhjeW00UW82bTdzTGZsRE5XOWdURWlXTE9QeURKbl9WejVubmY5NmdYT0lFV3RBczd3NzB2YnJhY0JNcDBpczlEeTRNa1A3X18ycTU0NTFKNVQ1UVZOSFp5M3NaU25GRWVLOXZ2SWJNVWtSdDdfYjE2YTlxUVlkOWYtclVsdnBWM3ZDdmdmR1FXVm14dlJ5QmZq?oc=5",
+      "domain": "news.google.com",
+      "source": "savannahbusinessjournal.com",
+      "language": "English",
+      "published_at": "2026-09-10T08:30:00+00:00",
+      "summary": "Sept. 10 - Georgia Power encourages customers to take action during National Preparedness Month savannahbusinessjournal.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxPZGhrOGdubHVtbC1xU0VoeGVrNzlaLWh1ei15NG9mTWZFOTFUQm5ra0hPNXBfTUNCdkZHeUlGakp5d1EyY3NGRUFZQTJSRGd5dVd0NHA5ckw1cXMzZ2d5TXo3bzdOcndQdHhEVzBVNjNlZWtLTTV3U3MyZ19FaUhyVDhwc0lETzJlM25kYktrUm5jeXpLR05GQ2dvaDZkMG5xcnh0MTJpMTh6OWhjeW00UW82bTdzTGZsRE5XOWdURWlXTE9QeURKbl9WejVubmY5NmdYT0lFV3RBczd3NzB2YnJhY0JNcDBpczlEeTRNa1A3X18ycTU0NTFKNVQ1UVZOSFp5M3NaU25GRWVLOXZ2SWJNVWtSdDdfYjE2YTlxUVlkOWYtclVsdnBWM3ZDdmdmR1FXVm14dlJ5QmZq?oc=5\" target=\"_blank\">Sept. 10 - Georgia Power encourages customers to take action during National Preparedness Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">savannahbusinessjournal.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-10T14:00:07+00:00"
+    },
     {
       "id": "4e3d58ae247ba96d",
       "title": "Georgia Power urges customers to prepare for hu... - Pluang",
@@ -495,6 +509,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-02T23:45:58+00:00"
+    },
+    {
+      "id": "c2b2230d838e2ac7",
+      "title": "Second threatening message in over a week at Georgia Power plant in Coweta County - WMAZ",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNVkzSFFhejM5UmtLUVB5Y2RfWTQtNVVFV1ktR1pVb29Bazg5TEJEZmlqUjlnNXk1eGFocmpLRW5IZmFpZDJLUmFIZVBDdEhubWhmUnpzU2lKMlRiUHdWRkhwRF9TeVhkTmJnNUtTUGpjV0N4S3g4WjkyMkR0REhjMUM3TERPWjZpandHSXZ6OXRrX1hVN2tXYnRfd3hHNHBLemNzWUpBaGxmTHc1X1NPbEtlVnVPRTVZSTQ1LXk5ZFcyazNfcl9salVUWWtLbktoVGh1MmdONFZ3TVp5NUltRDRmeTJVUGVVRmpYa00zSEdsbkJ0dWVOX2VB?oc=5",
+      "domain": "news.google.com",
+      "source": "WMAZ",
+      "language": "English",
+      "published_at": "2026-09-01T07:00:00+00:00",
+      "summary": "Second threatening message in over a week at Georgia Power plant in Coweta County WMAZ",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNVkzSFFhejM5UmtLUVB5Y2RfWTQtNVVFV1ktR1pVb29Bazg5TEJEZmlqUjlnNXk1eGFocmpLRW5IZmFpZDJLUmFIZVBDdEhubWhmUnpzU2lKMlRiUHdWRkhwRF9TeVhkTmJnNUtTUGpjV0N4S3g4WjkyMkR0REhjMUM3TERPWjZpandHSXZ6OXRrX1hVN2tXYnRfd3hHNHBLemNzWUpBaGxmTHc1X1NPbEtlVnVPRTVZSTQ1LXk5ZFcyazNfcl9salVUWWtLbktoVGh1MmdONFZ3TVp5NUltRDRmeTJVUGVVRmpYa00zSEdsbkJ0dWVOX2VB?oc=5\" target=\"_blank\">Second threatening message in over a week at Georgia Power plant in Coweta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WMAZ</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-10T14:00:07+00:00"
     },
     {
       "id": "2caed73ff4bcfc6d",

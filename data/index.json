@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T08:34:30+00:00",
+  "last_updated": "2026-09-10T14:00:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 348,
+      "count": 350,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "3321eb330eec44fe",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 630,
+      "count": 632,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "4e3d58ae247ba96d",
-        "title": "Georgia Power urges customers to prepare for hu... - Pluang",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTRydlAyckVhZm81c210MU5uYkFHQmRSbEZDamRRZ2g3eHcycjNNMFo3bUFIMWNLdDlQRDc4dmVEWFEtaTRlTUdBMWhxOThwTVd4QXREY193SVZpckd4cVVDdFdrdjZsWUItYjVqUWtuYjdZQjNjeG1UNHFlU0owQzY2ODR1RmZYSldBZnZtRnk4bWU1d2JIUkRxWS1MUVhzZjh4Ykd2VQ?oc=5",
+        "id": "b2d7e0ed3f73e73f",
+        "title": "Sept. 10 - Georgia Power encourages customers to take action during National Preparedness Month - savannahbusinessjournal.com",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPZGhrOGdubHVtbC1xU0VoeGVrNzlaLWh1ei15NG9mTWZFOTFUQm5ra0hPNXBfTUNCdkZHeUlGakp5d1EyY3NGRUFZQTJSRGd5dVd0NHA5ckw1cXMzZ2d5TXo3bzdOcndQdHhEVzBVNjNlZWtLTTV3U3MyZ19FaUhyVDhwc0lETzJlM25kYktrUm5jeXpLR05GQ2dvaDZkMG5xcnh0MTJpMTh6OWhjeW00UW82bTdzTGZsRE5XOWdURWlXTE9QeURKbl9WejVubmY5NmdYT0lFV3RBczd3NzB2YnJhY0JNcDBpczlEeTRNa1A3X18ycTU0NTFKNVQ1UVZOSFp5M3NaU25GRWVLOXZ2SWJNVWtSdDdfYjE2YTlxUVlkOWYtclVsdnBWM3ZDdmdmR1FXVm14dlJ5QmZq?oc=5",
         "domain": "news.google.com",
-        "source": "Pluang",
+        "source": "savannahbusinessjournal.com",
         "language": "English",
-        "published_at": "2026-09-08T20:48:18+00:00",
-        "summary": "Georgia Power urges customers to prepare for hu... Pluang",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTRydlAyckVhZm81c210MU5uYkFHQmRSbEZDamRRZ2g3eHcycjNNMFo3bUFIMWNLdDlQRDc4dmVEWFEtaTRlTUdBMWhxOThwTVd4QXREY193SVZpckd4cVVDdFdrdjZsWUItYjVqUWtuYjdZQjNjeG1UNHFlU0owQzY2ODR1RmZYSldBZnZtRnk4bWU1d2JIUkRxWS1MUVhzZjh4Ykd2VQ?oc=5\" target=\"_blank\">Georgia Power urges customers to prepare for hu...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
+        "published_at": "2026-09-10T08:30:00+00:00",
+        "summary": "Sept. 10 - Georgia Power encourages customers to take action during National Preparedness Month savannahbusinessjournal.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxPZGhrOGdubHVtbC1xU0VoeGVrNzlaLWh1ei15NG9mTWZFOTFUQm5ra0hPNXBfTUNCdkZHeUlGakp5d1EyY3NGRUFZQTJSRGd5dVd0NHA5ckw1cXMzZ2d5TXo3bzdOcndQdHhEVzBVNjNlZWtLTTV3U3MyZ19FaUhyVDhwc0lETzJlM25kYktrUm5jeXpLR05GQ2dvaDZkMG5xcnh0MTJpMTh6OWhjeW00UW82bTdzTGZsRE5XOWdURWlXTE9QeURKbl9WejVubmY5NmdYT0lFV3RBczd3NzB2YnJhY0JNcDBpczlEeTRNa1A3X18ycTU0NTFKNVQ1UVZOSFp5M3NaU25GRWVLOXZ2SWJNVWtSdDdfYjE2YTlxUVlkOWYtclVsdnBWM3ZDdmdmR1FXVm14dlJ5QmZq?oc=5\" target=\"_blank\">Sept. 10 - Georgia Power encourages customers to take action during National Preparedness Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">savannahbusinessjournal.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-08T22:16:29+00:00"
+        "collected_at": "2026-09-10T14:00:07+00:00"
       }
     },
     {
