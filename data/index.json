@@ -1,32 +1,32 @@
 {
-  "last_updated": "2026-09-10T02:36:17+00:00",
+  "last_updated": "2026-09-10T08:34:30+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 92,
-      "new_mentions_this_run": 4,
+      "count": 93,
+      "new_mentions_this_run": 5,
       "latest_mention": {
-        "id": "e7e9b3e32a2c9f9a",
-        "title": "Proposed AEP transmission line encountering opposition - KRMG",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcHpnOTBCaU5BYlpCa19JVjdpSmNiR1hKekFocDFsemlqV2Qtb0VxcHhueUMyNGo3NUQtZ1BsZUFxRHc0S2ROQ1B5VVBMa1o1dXdSVXZPaW5BLTl0aWxaWW16LXY5bktHYzFUX1NRQU1hS3h3YXBLN05qOEZORGxWczNmM25xTHFNd0Q4?oc=5",
+        "id": "5aa606b38bf30b81",
+        "title": "Washington County residents attend public meeting about proposed AEP transmission line - fox23.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzR0Ukk0bHFuSUxXSGF3bjF5TFJxSE82MXctaTQtTjdpZmVPeVh0aXhoYlNCVVNlSkN4TVI1dDJ5OE1kX0hMZ0dtbkpjVkVITG5qVFN1Ti1GWV8zR1BCUjY1blE5RzB5bTRWQjNxUW5QSjZJalZja0hNMXZXZ1d3OVM5aTh3UmNhQzRJV3dzdkdXUTFabjVub3ZRTk1oazNPYkhRTlBaeE50YXo2ZlF2T1RGYWUxUQ?oc=5",
         "domain": "news.google.com",
-        "source": "KRMG",
+        "source": "fox23.com",
         "language": "English",
-        "published_at": "2026-09-05T12:08:28+00:00",
-        "summary": "Proposed AEP transmission line encountering opposition KRMG",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcHpnOTBCaU5BYlpCa19JVjdpSmNiR1hKekFocDFsemlqV2Qtb0VxcHhueUMyNGo3NUQtZ1BsZUFxRHc0S2ROQ1B5VVBMa1o1dXdSVXZPaW5BLTl0aWxaWW16LXY5bktHYzFUX1NRQU1hS3h3YXBLN05qOEZORGxWczNmM25xTHFNd0Q4?oc=5\" target=\"_blank\">Proposed AEP transmission line encountering opposition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRMG</font>",
+        "published_at": "2026-09-10T03:51:45+00:00",
+        "summary": "Washington County residents attend public meeting about proposed AEP transmission line fox23.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzR0Ukk0bHFuSUxXSGF3bjF5TFJxSE82MXctaTQtTjdpZmVPeVh0aXhoYlNCVVNlSkN4TVI1dDJ5OE1kX0hMZ0dtbkpjVkVITG5qVFN1Ti1GWV8zR1BCUjY1blE5RzB5bTRWQjNxUW5QSjZJalZja0hNMXZXZ1d3OVM5aTh3UmNhQzRJV3dzdkdXUTFabjVub3ZRTk1oazNPYkhRTlBaeE50YXo2ZlF2T1RGYWUxUQ?oc=5\" target=\"_blank\">Washington County residents attend public meeting about proposed AEP transmission line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox23.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-05T14:23:07+00:00"
+        "collected_at": "2026-09-10T08:33:58+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 345,
+      "count": 348,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "3321eb330eec44fe",

@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-10T02:35:50+00:00",
+  "last_updated": "2026-09-10T08:34:03+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 345,
+  "count": 348,
   "mentions": [
     {
       "id": "3321eb330eec44fe",
@@ -119,6 +119,20 @@
       "collected_at": "2026-09-09T14:05:15+00:00"
     },
     {
+      "id": "54990b88ac56983d",
+      "title": "'Asking Alabamians to show up Wednesday': John Rich makes plea in… - 1819news.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdGJ5VHZHNWJrYWxIdUpBTDhGX0hrVTg3XzI0SEVfMzktWE5xaFNYbTlVWHUzbXNKYmEySnM3SkItRjZ2dDJ3LTA3NmZidmdCN1FXS0E0UkRfcVgwbjlCOE1yYjc2RnpQUldRYlVXdGE1QXZNWkI0V0dQeWJnaDVwalZ5cXFPclBPZ3pETFdIenI4b2VQZDBONGF2YkFmYi0tSE0wcVVHLW01Mmw0ODZaVFFKLU0zeVU0U29KSGNZS1RiaV8yQk4tYUJYTWtGTEpYcTBwY0lvZllmdw?oc=5",
+      "domain": "news.google.com",
+      "source": "1819news.com",
+      "language": "English",
+      "published_at": "2026-09-09T10:08:35+00:00",
+      "summary": "'Asking Alabamians to show up Wednesday': John Rich makes plea in… 1819news.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdGJ5VHZHNWJrYWxIdUpBTDhGX0hrVTg3XzI0SEVfMzktWE5xaFNYbTlVWHUzbXNKYmEySnM3SkItRjZ2dDJ3LTA3NmZidmdCN1FXS0E0UkRfcVgwbjlCOE1yYjc2RnpQUldRYlVXdGE1QXZNWkI0V0dQeWJnaDVwalZ5cXFPclBPZ3pETFdIenI4b2VQZDBONGF2YkFmYi0tSE0wcVVHLW01Mmw0ODZaVFFKLU0zeVU0U29KSGNZS1RiaV8yQk4tYUJYTWtGTEpYcTBwY0lvZllmdw?oc=5\" target=\"_blank\">'Asking Alabamians to show up Wednesday': John Rich makes plea in…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819news.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-10T08:34:03+00:00"
+    },
+    {
       "id": "d3f926539546f666",
       "title": "Landowner asks court to temporarily stop Alabama Power transmission line work - WOODTV.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTk9EX3ZRWVAySkFWZVhaWmVNaHZqQndvSW9INzZuendsblA3MF9LZGdDLUJDaDZnVGRaNURVWkhTOVdFVE84ZERXSzc2aVRyeG1SZnVMTmFnMTBJQWphY0JlbDMxSl8wV2tsbmg5aDJCQnVSeGsyTlI5b1U2aFJINnNlVDNaVVloYmpjb1hqOHVmY3dYaXk2dEtZRi10c2pPRV96V3JrQ2c3cHpWX3NQUmZ6ZEdsM00?oc=5",
@@ -133,6 +147,20 @@
       "collected_at": "2026-09-08T22:16:12+00:00"
     },
     {
+      "id": "a233238b5661187e",
+      "title": "Landowner asks court to temporarily stop Alabama Power transmission line work - woodtv.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTk9EX3ZRWVAySkFWZVhaWmVNaHZqQndvSW9INzZuendsblA3MF9LZGdDLUJDaDZnVGRaNURVWkhTOVdFVE84ZERXSzc2aVRyeG1SZnVMTmFnMTBJQWphY0JlbDMxSl8wV2tsbmg5aDJCQnVSeGsyTlI5b1U2aFJINnNlVDNaVVloYmpjb1hqOHVmY3dYaXk2dEtZRi10c2pPRV96V3JrQ2c3cHpWX3NQUmZ6ZEdsM00?oc=5",
+      "domain": "news.google.com",
+      "source": "woodtv.com",
+      "language": "English",
+      "published_at": "2026-09-08T21:32:20+00:00",
+      "summary": "Landowner asks court to temporarily stop Alabama Power transmission line work woodtv.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTk9EX3ZRWVAySkFWZVhaWmVNaHZqQndvSW9INzZuendsblA3MF9LZGdDLUJDaDZnVGRaNURVWkhTOVdFVE84ZERXSzc2aVRyeG1SZnVMTmFnMTBJQWphY0JlbDMxSl8wV2tsbmg5aDJCQnVSeGsyTlI5b1U2aFJINnNlVDNaVVloYmpjb1hqOHVmY3dYaXk2dEtZRi10c2pPRV96V3JrQ2c3cHpWX3NQUmZ6ZEdsM00?oc=5\" target=\"_blank\">Landowner asks court to temporarily stop Alabama Power transmission line work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">woodtv.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-10T08:34:03+00:00"
+    },
+    {
       "id": "370e3adc719a6379",
       "title": "Shelby County landowner asks court to temporarily stop Alabama Power transmission line work - WHNT.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORXJ3VGw4ajRaTkFBb0FSVFZKX2t1OUQ1bzltWnpXUWwyQ0hrd2wyNHhzLXpja3lnbXJCNHpvemhEZDA4U0M2OWpfUFdmZWw2WElsdmlZaklkQXZuelB5OWVRZWxzMm5rWk1JQkNVN1hQUS1KNTctQXZ4eHRqZlhtaG1BOEhDVzItTElHSHY3ZU5DVkZ3U2ZqMGRfRWpTMmRVbnlGWnpibnpGUmdSR2plLUxLWGtoWGEydFJLLWE0emJfbjB6OWZZcVF4Z9IBywFBVV95cUxORXJ3VGw4ajRaTkFBb0FSVFZKX2t1OUQ1bzltWnpXUWwyQ0hrd2wyNHhzLXpja3lnbXJCNHpvemhEZDA4U0M2OWpfUFdmZWw2WElsdmlZaklkQXZuelB5OWVRZWxzMm5rWk1JQkNVN1hQUS1KNTctQXZ4eHRqZlhtaG1BOEhDVzItTElHSHY3ZU5DVkZ3U2ZqMGRfRWpTMmRVbnlGWnpibnpGUmdSR2plLUxLWGtoWGEydFJLLWE0emJfbjB6OWZZcVF4Zw?oc=5",
@@ -145,6 +173,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-08T19:11:13+00:00"
+    },
+    {
+      "id": "906f0e55c3b92309",
+      "title": "Case against Alabama Power goes to court - cbs42.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU05lMVNWWlU5cTNhQ25pNmMyazIyTXEzMEMzT1c3d1hFS1lwYWk0Rkdnb19VajB3aVd1TmxQWnVZb0VLYzh4V21Idmk1T0tqLUQxWmRmaUpqeDllaTRNbWhmTEkxVEtuTm5MWVI2MmtSdEtVa3F0WThCYV9wR1pfR1dIQTA?oc=5",
+      "domain": "news.google.com",
+      "source": "cbs42.com",
+      "language": "English",
+      "published_at": "2026-09-08T11:24:25+00:00",
+      "summary": "Case against Alabama Power goes to court cbs42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQU05lMVNWWlU5cTNhQ25pNmMyazIyTXEzMEMzT1c3d1hFS1lwYWk0Rkdnb19VajB3aVd1TmxQWnVZb0VLYzh4V21Idmk1T0tqLUQxWmRmaUpqeDllaTRNbWhmTEkxVEtuTm5MWVI2MmtSdEtVa3F0WThCYV9wR1pfR1dIQTA?oc=5\" target=\"_blank\">Case against Alabama Power goes to court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-10T08:34:03+00:00"
     },
     {
       "id": "720a0cf2284a80f0",
