@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-10T20:19:06+00:00",
+  "last_updated": "2026-09-10T23:37:16+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 640,
+  "count": 641,
   "mentions": [
+    {
+      "id": "b82023c480480cf6",
+      "title": "Georgia Power battery storage facility to boost Middle Georgia power reliability - 41NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUhKdnpPZ1A1WjNRWmFDdTl4ckRUZkdPcTlrbVF6YV9GZWIzUUVaTDgxRFdCMlhMbEN0bU5KckFuNURybDhVcHl4RkZvOWo1WmpkdU1aa3RoUHp1N3hUS2V3Qkc3ai02WVJJbmtqSzdSVkVaTVVtZWdnOW40aXJ4cF95bi01dUc0RVdiZnBtTE1kZGxkQ1NZYTlqOFVpQXZ1UkdJclFR?oc=5",
+      "domain": "news.google.com",
+      "source": "41NBC News",
+      "language": "English",
+      "published_at": "2026-09-10T21:18:12+00:00",
+      "summary": "Georgia Power battery storage facility to boost Middle Georgia power reliability 41NBC News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUhKdnpPZ1A1WjNRWmFDdTl4ckRUZkdPcTlrbVF6YV9GZWIzUUVaTDgxRFdCMlhMbEN0bU5KckFuNURybDhVcHl4RkZvOWo1WmpkdU1aa3RoUHp1N3hUS2V3Qkc3ai02WVJJbmtqSzdSVkVaTVVtZWdnOW40aXJ4cF95bi01dUc0RVdiZnBtTE1kZGxkQ1NZYTlqOFVpQXZ1UkdJclFR?oc=5\" target=\"_blank\">Georgia Power battery storage facility to boost Middle Georgia power reliability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">41NBC News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-10T23:37:16+00:00"
+    },
     {
       "id": "aa696d76e7f9b520",
       "title": "Silicon Ranch Announces Investments in Jefferson and Warren Counties to Support Georgia Power’s Clean and Renewable Energy Subscription Program - The Manila Times",

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-10T20:19:17+00:00",
+  "last_updated": "2026-09-10T23:37:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 93,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "5aa606b38bf30b81",
         "title": "Washington County residents attend public meeting about proposed AEP transmission line - fox23.com",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 352,
+      "count": 355,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "c538d588f16e0ae8",
-        "title": "Court hearing continues in dispute between Shelby County property owner, Alabama Power - WBMA",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTTlLN2FtSG1MRHFLRFBoSEJHckxTUmpaUHpJTHlYa1lnZzFoTjRUcExoREVackJVdHlyX1EtNTVLV1ZmeHV6QTg3eG1BWTNObkZiNlFYSFJET2U3ZFpZYmVFZ2tuSU5NVU1qYlAtdWhHaEt2cnJyNHlLLXBkdHA2dG9FbDZIZ043cmJQN0ZDdFFHcWluQ3Zrel82VzBiZkNseXkybUxKVFhwY3ZORjk2QzdESi1JU3MwSGM4NHhfOWdSQkp4ZlVHMDhRbHdFTGhBQlpBVThMUWlXalNDRTZsQVBBanNRQQ?oc=5",
+        "id": "054e1ac574b5d680",
+        "title": "Judge to decide whether Alabama Power can begin work on Shelby County man's property - WVTM",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmtKMlo3WHVDN2ZrY2pub1hHZ1k5TFFxcTdQR2RxQXV6TkpvTXQ1MGZzQmFVM0pwbTBHdldWaG1ISlYwNjdQTUdwTE8yU21lb1AzX0Y5YzV1RzhTUWU5MnhzaXFVR0M5MEVRSGdMU0MwSG5HRXI5bDZEN2tLTTh3OGJ1MEdWMlpJbGFLbjgta2YybW03SlR2UTVYeVl3bnRPTWc?oc=5",
         "domain": "news.google.com",
-        "source": "WBMA",
+        "source": "WVTM",
         "language": "English",
-        "published_at": "2026-09-10T01:27:35+00:00",
-        "summary": "Court hearing continues in dispute between Shelby County property owner, Alabama Power WBMA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTTlLN2FtSG1MRHFLRFBoSEJHckxTUmpaUHpJTHlYa1lnZzFoTjRUcExoREVackJVdHlyX1EtNTVLV1ZmeHV6QTg3eG1BWTNObkZiNlFYSFJET2U3ZFpZYmVFZ2tuSU5NVU1qYlAtdWhHaEt2cnJyNHlLLXBkdHA2dG9FbDZIZ043cmJQN0ZDdFFHcWluQ3Zrel82VzBiZkNseXkybUxKVFhwY3ZORjk2QzdESi1JU3MwSGM4NHhfOWdSQkp4ZlVHMDhRbHdFTGhBQlpBVThMUWlXalNDRTZsQVBBanNRQQ?oc=5\" target=\"_blank\">Court hearing continues in dispute between Shelby County property owner, Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+        "published_at": "2026-09-10T23:17:00+00:00",
+        "summary": "Judge to decide whether Alabama Power can begin work on Shelby County man's property WVTM",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmtKMlo3WHVDN2ZrY2pub1hHZ1k5TFFxcTdQR2RxQXV6TkpvTXQ1MGZzQmFVM0pwbTBHdldWaG1ISlYwNjdQTUdwTE8yU21lb1AzX0Y5YzV1RzhTUWU5MnhzaXFVR0M5MEVRSGdMU0MwSG5HRXI5bDZEN2tLTTh3OGJ1MEdWMlpJbGFLbjgta2YybW03SlR2UTVYeVl3bnRPTWc?oc=5\" target=\"_blank\">Judge to decide whether Alabama Power can begin work on Shelby County man's property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-10T17:36:36+00:00"
+        "collected_at": "2026-09-10T23:37:00+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 640,
+      "count": 641,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "aa696d76e7f9b520",
-        "title": "Silicon Ranch Announces Investments in Jefferson and Warren Counties to Support Georgia Power’s Clean and Renewable Energy Subscription Program - The Manila Times",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPMmRCUFhvUXVQc2ZqUjVpOE8xNTlfWUlzOVd2Q04xUThLWlpOa0JhV0pYaC1rUm9kaVFjM0pBcnpKUktrVEExRk5LM3U2ZjdjcHJNWW9VMDZnd3pFaEpDN1d6cDBQRXBHMUlDLWxubGh5M0Zrb0R6T3NQU3hhaWxsekdJX3BNeXVpNjRxUnA5M19QcVNlWlhfdTNWaXp1TUZGbzAwcjh3Zl9WREtVaDdVLWktQjhGemRLN1N2WnhERFUyMVdBWkJIYWppbl9NYlpIcHJnSkVfVDlrN3hlNEFvWWpmeDU1VVM2SGJ1NjU0d3dlLU1Jdy1IQ3RDT3dVOTV2R1Z1S2ZCYUtBa1NxdWl5eXJsck5jV01qMUs2a3ZsaFZmc25yb0o5UDBnNGg0U2xKd2RDYVQwNTUzZU1u0gHCAkFVX3lxTE0wcmZzMWNSZWczOWV2elh3a3p1c011aXFpSVNtNXlmQ2ZPSHBhR2hzOFRxaGh2QXM4aWMxdDRuMEJIbk5FQmJ6bzNfaDl1TWFtNWs1MHp0MmlEVVJHd1owcUlBeWhKVnFvTl9Va1dGNmYyUkk2RkRROGMzXzN2V1h1OTdXc0Z0V1BXXzRhaUVjbDd1bEt3OGpDek9mN05oUjkwZkJmWU5GRmJrSDBYbFdUM3EzeTZ5VzNERjNNSlVrUGNxc0lvNmIxX25Bd3hvWF94U3Y4NHRhdHZDQlR2NS1UMlE0WjFSamFabGg5RGxWTGZYOTAzOER3M25DTjhQc1prbW5RNzFxV0g2N1dEWEN6b3JmeEhZZ1M0Y1VTazZFTlNEdFdRSmpsMWUtTUstTVVrRHNNTHlmOVVQRGxvVEN2akE?oc=5",
+        "id": "b82023c480480cf6",
+        "title": "Georgia Power battery storage facility to boost Middle Georgia power reliability - 41NBC News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUhKdnpPZ1A1WjNRWmFDdTl4ckRUZkdPcTlrbVF6YV9GZWIzUUVaTDgxRFdCMlhMbEN0bU5KckFuNURybDhVcHl4RkZvOWo1WmpkdU1aa3RoUHp1N3hUS2V3Qkc3ai02WVJJbmtqSzdSVkVaTVVtZWdnOW40aXJ4cF95bi01dUc0RVdiZnBtTE1kZGxkQ1NZYTlqOFVpQXZ1UkdJclFR?oc=5",
         "domain": "news.google.com",
-        "source": "The Manila Times",
+        "source": "41NBC News",
         "language": "English",
-        "published_at": "2026-09-10T15:02:48+00:00",
-        "summary": "Silicon Ranch Announces Investments in Jefferson and Warren Counties to Support Georgia Power’s Clean and Renewable Energy Subscription Program The Manila Times",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxPMmRCUFhvUXVQc2ZqUjVpOE8xNTlfWUlzOVd2Q04xUThLWlpOa0JhV0pYaC1rUm9kaVFjM0pBcnpKUktrVEExRk5LM3U2ZjdjcHJNWW9VMDZnd3pFaEpDN1d6cDBQRXBHMUlDLWxubGh5M0Zrb0R6T3NQU3hhaWxsekdJX3BNeXVpNjRxUnA5M19QcVNlWlhfdTNWaXp1TUZGbzAwcjh3Zl9WREtVaDdVLWktQjhGemRLN1N2WnhERFUyMVdBWkJIYWppbl9NYlpIcHJnSkVfVDlrN3hlNEFvWWpmeDU1VVM2SGJ1NjU0d3dlLU1Jdy1IQ3RDT3dVOTV2R1Z1S2ZCYUtBa1NxdWl5eXJsck5jV01qMUs2a3ZsaFZmc25yb0o5UDBnNGg0U2xKd2RDYVQwNTUzZU1u0gHCAkFVX3lxTE0wcmZzMWNSZWczOWV2elh3a3p1c011aXFpSVNtNXlmQ2ZPSHBhR2hzOFRxaGh2QXM4aWMxdDRuMEJIbk5FQmJ6bzNfaDl1TWFtNWs1MHp0MmlEVVJHd1owcUlBeWhKVnFvTl9Va1dGNmYyUkk2RkRROGMzXzN2V1h1OTdXc0Z0V1BXXzRhaUVjbDd1bEt3OGpDek9mN05oUjkwZkJmWU5GRmJrSDBYbFdUM3EzeTZ5VzNERjNNSlVrUGNxc0lvNmIxX25Bd3hvWF94U3Y4NHRhdHZDQlR2NS1UMlE0WjFSamFabGg5RGxWTGZYOTAzOER3M25DTjhQc1prbW5RNzFxV0g2N1dEWEN6b3JmeEhZZ1M0Y1VTazZFTlNEdFdRSmpsMWUtTUstTVVrRHNNTHlmOVVQRGxvVEN2akE?oc=5\" target=\"_blank\">Silicon Ranch Announces Investments in Jefferson and Warren Counties to Support Georgia Power’s Clean and Renewable Energy Subscription Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
+        "published_at": "2026-09-10T21:18:12+00:00",
+        "summary": "Georgia Power battery storage facility to boost Middle Georgia power reliability 41NBC News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUhKdnpPZ1A1WjNRWmFDdTl4ckRUZkdPcTlrbVF6YV9GZWIzUUVaTDgxRFdCMlhMbEN0bU5KckFuNURybDhVcHl4RkZvOWo1WmpkdU1aa3RoUHp1N3hUS2V3Qkc3ai02WVJJbmtqSzdSVkVaTVVtZWdnOW40aXJ4cF95bi01dUc0RVdiZnBtTE1kZGxkQ1NZYTlqOFVpQXZ1UkdJclFR?oc=5\" target=\"_blank\">Georgia Power battery storage facility to boost Middle Georgia power reliability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">41NBC News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-10T17:36:53+00:00"
+        "collected_at": "2026-09-10T23:37:16+00:00"
       }
     },
     {
