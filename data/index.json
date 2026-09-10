@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T22:09:36+00:00",
+  "last_updated": "2026-09-10T02:36:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 341,
+      "count": 345,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "493f9ee9cddfe06b",
-        "title": "Shelby County man gets more time in high-profile legal fight against Alabama Power - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQXzkxMm9vbjM5VjYzZmh4Y0haM19DVElyYWNNQlFDWHdJenNrd09kU2h3VThDZ2NfUFVTcEZpRjAxeWF4d1NJekhIZEwwcXM5VEstQmJBWDkwTWxUWGJrRkpjTTUxbWdnQXZ5R05zUnZtMzdyalZuSlU3eXRhazhjMFhPMk1zVm4zZnhWbEg0Y0FSMDVHbXdiNnN4ZWJfYVZTUHlTN1RfV3lZRDVkbUlISVlJN2VOQWNVS2Jr0gHPAUFVX3lxTFBuaTRLeTlLYWoxMW5zNEQ1QkZaRlNtVVlKRTBFck9hVnpOcnhGTVJ6WFQ2LUVkQ3pkdmJOa3NQek95TC1fbExybGtpbUs0SnRZRGlyNTdLMFYwZFZhNEw5a01sMVI1bHlpcTJvbkFpUGhTU2tVUFVKSFBPeFRUc2VmQjVyTTk3VzJBMTNQa2ctNE1UWWFzcVZ1WjJPa2lMMlRCaGxGTTYtWTBoLW4xTUVuSV9KLVJvT2o1LW00RHJlS2ZWSUxJVzI0ZlNDRWpHYw?oc=5",
+        "id": "3321eb330eec44fe",
+        "title": "Shelby County landowner asks judge to stop Alabama Power transmission line project - WVTM",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUUNfTUZHQTZETV9abHlLYzV4T3NndnhoNFRPQ3FPSmRpYl93TWNKWXAtMnBJN1RtZmFvbjRXZ01fWTVxSnp2YzNkZ01RNm9nMGZBZ09WaVotYi1zZmQyTFU3d0ZHRUpmYktjdU5fWmhaWURVM3pMOUI0TlhOdHhJZXlKc1RFa2ZzNThXVFhLRWt0dw?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "WVTM",
         "language": "English",
-        "published_at": "2026-09-09T20:52:00+00:00",
-        "summary": "Shelby County man gets more time in high-profile legal fight against Alabama Power AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQXzkxMm9vbjM5VjYzZmh4Y0haM19DVElyYWNNQlFDWHdJenNrd09kU2h3VThDZ2NfUFVTcEZpRjAxeWF4d1NJekhIZEwwcXM5VEstQmJBWDkwTWxUWGJrRkpjTTUxbWdnQXZ5R05zUnZtMzdyalZuSlU3eXRhazhjMFhPMk1zVm4zZnhWbEg0Y0FSMDVHbXdiNnN4ZWJfYVZTUHlTN1RfV3lZRDVkbUlISVlJN2VOQWNVS2Jr0gHPAUFVX3lxTFBuaTRLeTlLYWoxMW5zNEQ1QkZaRlNtVVlKRTBFck9hVnpOcnhGTVJ6WFQ2LUVkQ3pkdmJOa3NQek95TC1fbExybGtpbUs0SnRZRGlyNTdLMFYwZFZhNEw5a01sMVI1bHlpcTJvbkFpUGhTU2tVUFVKSFBPeFRUc2VmQjVyTTk3VzJBMTNQa2ctNE1UWWFzcVZ1WjJPa2lMMlRCaGxGTTYtWTBoLW4xTUVuSV9KLVJvT2o1LW00RHJlS2ZWSUxJVzI0ZlNDRWpHYw?oc=5\" target=\"_blank\">Shelby County man gets more time in high-profile legal fight against Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-09-10T00:38:00+00:00",
+        "summary": "Shelby County landowner asks judge to stop Alabama Power transmission line project WVTM",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUUNfTUZHQTZETV9abHlLYzV4T3NndnhoNFRPQ3FPSmRpYl93TWNKWXAtMnBJN1RtZmFvbjRXZ01fWTVxSnp2YzNkZ01RNm9nMGZBZ09WaVotYi1zZmQyTFU3d0ZHRUpmYktjdU5fWmhaWURVM3pMOUI0TlhOdHhJZXlKc1RFa2ZzNThXVFhLRWt0dw?oc=5\" target=\"_blank\">Shelby County landowner asks judge to stop Alabama Power transmission line project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-09T22:09:09+00:00"
+        "collected_at": "2026-09-10T02:35:50+00:00"
       }
     },
     {
