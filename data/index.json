@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-10T14:00:17+00:00",
+  "last_updated": "2026-09-10T17:37:03+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 93,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "5aa606b38bf30b81",
         "title": "Washington County residents attend public meeting about proposed AEP transmission line - fox23.com",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 350,
+      "count": 352,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "3321eb330eec44fe",
-        "title": "Shelby County landowner asks judge to stop Alabama Power transmission line project - WVTM",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUUNfTUZHQTZETV9abHlLYzV4T3NndnhoNFRPQ3FPSmRpYl93TWNKWXAtMnBJN1RtZmFvbjRXZ01fWTVxSnp2YzNkZ01RNm9nMGZBZ09WaVotYi1zZmQyTFU3d0ZHRUpmYktjdU5fWmhaWURVM3pMOUI0TlhOdHhJZXlKc1RFa2ZzNThXVFhLRWt0dw?oc=5",
+        "id": "c538d588f16e0ae8",
+        "title": "Court hearing continues in dispute between Shelby County property owner, Alabama Power - WBMA",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTTlLN2FtSG1MRHFLRFBoSEJHckxTUmpaUHpJTHlYa1lnZzFoTjRUcExoREVackJVdHlyX1EtNTVLV1ZmeHV6QTg3eG1BWTNObkZiNlFYSFJET2U3ZFpZYmVFZ2tuSU5NVU1qYlAtdWhHaEt2cnJyNHlLLXBkdHA2dG9FbDZIZ043cmJQN0ZDdFFHcWluQ3Zrel82VzBiZkNseXkybUxKVFhwY3ZORjk2QzdESi1JU3MwSGM4NHhfOWdSQkp4ZlVHMDhRbHdFTGhBQlpBVThMUWlXalNDRTZsQVBBanNRQQ?oc=5",
         "domain": "news.google.com",
-        "source": "WVTM",
+        "source": "WBMA",
         "language": "English",
-        "published_at": "2026-09-10T00:38:00+00:00",
-        "summary": "Shelby County landowner asks judge to stop Alabama Power transmission line project WVTM",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUUNfTUZHQTZETV9abHlLYzV4T3NndnhoNFRPQ3FPSmRpYl93TWNKWXAtMnBJN1RtZmFvbjRXZ01fWTVxSnp2YzNkZ01RNm9nMGZBZ09WaVotYi1zZmQyTFU3d0ZHRUpmYktjdU5fWmhaWURVM3pMOUI0TlhOdHhJZXlKc1RFa2ZzNThXVFhLRWt0dw?oc=5\" target=\"_blank\">Shelby County landowner asks judge to stop Alabama Power transmission line project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+        "published_at": "2026-09-10T01:27:35+00:00",
+        "summary": "Court hearing continues in dispute between Shelby County property owner, Alabama Power WBMA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTTlLN2FtSG1MRHFLRFBoSEJHckxTUmpaUHpJTHlYa1lnZzFoTjRUcExoREVackJVdHlyX1EtNTVLV1ZmeHV6QTg3eG1BWTNObkZiNlFYSFJET2U3ZFpZYmVFZ2tuSU5NVU1qYlAtdWhHaEt2cnJyNHlLLXBkdHA2dG9FbDZIZ043cmJQN0ZDdFFHcWluQ3Zrel82VzBiZkNseXkybUxKVFhwY3ZORjk2QzdESi1JU3MwSGM4NHhfOWdSQkp4ZlVHMDhRbHdFTGhBQlpBVThMUWlXalNDRTZsQVBBanNRQQ?oc=5\" target=\"_blank\">Court hearing continues in dispute between Shelby County property owner, Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-10T02:35:50+00:00"
+        "collected_at": "2026-09-10T17:36:36+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 632,
+      "count": 640,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "b2d7e0ed3f73e73f",
-        "title": "Sept. 10 - Georgia Power encourages customers to take action during National Preparedness Month - savannahbusinessjournal.com",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPZGhrOGdubHVtbC1xU0VoeGVrNzlaLWh1ei15NG9mTWZFOTFUQm5ra0hPNXBfTUNCdkZHeUlGakp5d1EyY3NGRUFZQTJSRGd5dVd0NHA5ckw1cXMzZ2d5TXo3bzdOcndQdHhEVzBVNjNlZWtLTTV3U3MyZ19FaUhyVDhwc0lETzJlM25kYktrUm5jeXpLR05GQ2dvaDZkMG5xcnh0MTJpMTh6OWhjeW00UW82bTdzTGZsRE5XOWdURWlXTE9QeURKbl9WejVubmY5NmdYT0lFV3RBczd3NzB2YnJhY0JNcDBpczlEeTRNa1A3X18ycTU0NTFKNVQ1UVZOSFp5M3NaU25GRWVLOXZ2SWJNVWtSdDdfYjE2YTlxUVlkOWYtclVsdnBWM3ZDdmdmR1FXVm14dlJ5QmZq?oc=5",
+        "id": "aa696d76e7f9b520",
+        "title": "Silicon Ranch Announces Investments in Jefferson and Warren Counties to Support Georgia Power’s Clean and Renewable Energy Subscription Program - The Manila Times",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPMmRCUFhvUXVQc2ZqUjVpOE8xNTlfWUlzOVd2Q04xUThLWlpOa0JhV0pYaC1rUm9kaVFjM0pBcnpKUktrVEExRk5LM3U2ZjdjcHJNWW9VMDZnd3pFaEpDN1d6cDBQRXBHMUlDLWxubGh5M0Zrb0R6T3NQU3hhaWxsekdJX3BNeXVpNjRxUnA5M19QcVNlWlhfdTNWaXp1TUZGbzAwcjh3Zl9WREtVaDdVLWktQjhGemRLN1N2WnhERFUyMVdBWkJIYWppbl9NYlpIcHJnSkVfVDlrN3hlNEFvWWpmeDU1VVM2SGJ1NjU0d3dlLU1Jdy1IQ3RDT3dVOTV2R1Z1S2ZCYUtBa1NxdWl5eXJsck5jV01qMUs2a3ZsaFZmc25yb0o5UDBnNGg0U2xKd2RDYVQwNTUzZU1u0gHCAkFVX3lxTE0wcmZzMWNSZWczOWV2elh3a3p1c011aXFpSVNtNXlmQ2ZPSHBhR2hzOFRxaGh2QXM4aWMxdDRuMEJIbk5FQmJ6bzNfaDl1TWFtNWs1MHp0MmlEVVJHd1owcUlBeWhKVnFvTl9Va1dGNmYyUkk2RkRROGMzXzN2V1h1OTdXc0Z0V1BXXzRhaUVjbDd1bEt3OGpDek9mN05oUjkwZkJmWU5GRmJrSDBYbFdUM3EzeTZ5VzNERjNNSlVrUGNxc0lvNmIxX25Bd3hvWF94U3Y4NHRhdHZDQlR2NS1UMlE0WjFSamFabGg5RGxWTGZYOTAzOER3M25DTjhQc1prbW5RNzFxV0g2N1dEWEN6b3JmeEhZZ1M0Y1VTazZFTlNEdFdRSmpsMWUtTUstTVVrRHNNTHlmOVVQRGxvVEN2akE?oc=5",
         "domain": "news.google.com",
-        "source": "savannahbusinessjournal.com",
+        "source": "The Manila Times",
         "language": "English",
-        "published_at": "2026-09-10T08:30:00+00:00",
-        "summary": "Sept. 10 - Georgia Power encourages customers to take action during National Preparedness Month savannahbusinessjournal.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxPZGhrOGdubHVtbC1xU0VoeGVrNzlaLWh1ei15NG9mTWZFOTFUQm5ra0hPNXBfTUNCdkZHeUlGakp5d1EyY3NGRUFZQTJSRGd5dVd0NHA5ckw1cXMzZ2d5TXo3bzdOcndQdHhEVzBVNjNlZWtLTTV3U3MyZ19FaUhyVDhwc0lETzJlM25kYktrUm5jeXpLR05GQ2dvaDZkMG5xcnh0MTJpMTh6OWhjeW00UW82bTdzTGZsRE5XOWdURWlXTE9QeURKbl9WejVubmY5NmdYT0lFV3RBczd3NzB2YnJhY0JNcDBpczlEeTRNa1A3X18ycTU0NTFKNVQ1UVZOSFp5M3NaU25GRWVLOXZ2SWJNVWtSdDdfYjE2YTlxUVlkOWYtclVsdnBWM3ZDdmdmR1FXVm14dlJ5QmZq?oc=5\" target=\"_blank\">Sept. 10 - Georgia Power encourages customers to take action during National Preparedness Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">savannahbusinessjournal.com</font>",
+        "published_at": "2026-09-10T15:02:48+00:00",
+        "summary": "Silicon Ranch Announces Investments in Jefferson and Warren Counties to Support Georgia Power’s Clean and Renewable Energy Subscription Program The Manila Times",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxPMmRCUFhvUXVQc2ZqUjVpOE8xNTlfWUlzOVd2Q04xUThLWlpOa0JhV0pYaC1rUm9kaVFjM0pBcnpKUktrVEExRk5LM3U2ZjdjcHJNWW9VMDZnd3pFaEpDN1d6cDBQRXBHMUlDLWxubGh5M0Zrb0R6T3NQU3hhaWxsekdJX3BNeXVpNjRxUnA5M19QcVNlWlhfdTNWaXp1TUZGbzAwcjh3Zl9WREtVaDdVLWktQjhGemRLN1N2WnhERFUyMVdBWkJIYWppbl9NYlpIcHJnSkVfVDlrN3hlNEFvWWpmeDU1VVM2SGJ1NjU0d3dlLU1Jdy1IQ3RDT3dVOTV2R1Z1S2ZCYUtBa1NxdWl5eXJsck5jV01qMUs2a3ZsaFZmc25yb0o5UDBnNGg0U2xKd2RDYVQwNTUzZU1u0gHCAkFVX3lxTE0wcmZzMWNSZWczOWV2elh3a3p1c011aXFpSVNtNXlmQ2ZPSHBhR2hzOFRxaGh2QXM4aWMxdDRuMEJIbk5FQmJ6bzNfaDl1TWFtNWs1MHp0MmlEVVJHd1owcUlBeWhKVnFvTl9Va1dGNmYyUkk2RkRROGMzXzN2V1h1OTdXc0Z0V1BXXzRhaUVjbDd1bEt3OGpDek9mN05oUjkwZkJmWU5GRmJrSDBYbFdUM3EzeTZ5VzNERjNNSlVrUGNxc0lvNmIxX25Bd3hvWF94U3Y4NHRhdHZDQlR2NS1UMlE0WjFSamFabGg5RGxWTGZYOTAzOER3M25DTjhQc1prbW5RNzFxV0g2N1dEWEN6b3JmeEhZZ1M0Y1VTazZFTlNEdFdRSmpsMWUtTUstTVVrRHNNTHlmOVVQRGxvVEN2akE?oc=5\" target=\"_blank\">Silicon Ranch Announces Investments in Jefferson and Warren Counties to Support Georgia Power’s Clean and Renewable Energy Subscription Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-10T14:00:07+00:00"
+        "collected_at": "2026-09-10T17:36:53+00:00"
       }
     },
     {

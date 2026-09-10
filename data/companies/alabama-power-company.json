@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-10T13:59:50+00:00",
+  "last_updated": "2026-09-10T17:36:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 350,
+  "count": 352,
   "mentions": [
+    {
+      "id": "c538d588f16e0ae8",
+      "title": "Court hearing continues in dispute between Shelby County property owner, Alabama Power - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTTlLN2FtSG1MRHFLRFBoSEJHckxTUmpaUHpJTHlYa1lnZzFoTjRUcExoREVackJVdHlyX1EtNTVLV1ZmeHV6QTg3eG1BWTNObkZiNlFYSFJET2U3ZFpZYmVFZ2tuSU5NVU1qYlAtdWhHaEt2cnJyNHlLLXBkdHA2dG9FbDZIZ043cmJQN0ZDdFFHcWluQ3Zrel82VzBiZkNseXkybUxKVFhwY3ZORjk2QzdESi1JU3MwSGM4NHhfOWdSQkp4ZlVHMDhRbHdFTGhBQlpBVThMUWlXalNDRTZsQVBBanNRQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WBMA",
+      "language": "English",
+      "published_at": "2026-09-10T01:27:35+00:00",
+      "summary": "Court hearing continues in dispute between Shelby County property owner, Alabama Power WBMA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTTlLN2FtSG1MRHFLRFBoSEJHckxTUmpaUHpJTHlYa1lnZzFoTjRUcExoREVackJVdHlyX1EtNTVLV1ZmeHV6QTg3eG1BWTNObkZiNlFYSFJET2U3ZFpZYmVFZ2tuSU5NVU1qYlAtdWhHaEt2cnJyNHlLLXBkdHA2dG9FbDZIZ043cmJQN0ZDdFFHcWluQ3Zrel82VzBiZkNseXkybUxKVFhwY3ZORjk2QzdESi1JU3MwSGM4NHhfOWdSQkp4ZlVHMDhRbHdFTGhBQlpBVThMUWlXalNDRTZsQVBBanNRQQ?oc=5\" target=\"_blank\">Court hearing continues in dispute between Shelby County property owner, Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-10T17:36:36+00:00"
+    },
     {
       "id": "3321eb330eec44fe",
       "title": "Shelby County landowner asks judge to stop Alabama Power transmission line project - WVTM",
@@ -1223,6 +1237,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-09T18:59:36+00:00"
+    },
+    {
+      "id": "47c7a53af5a1cae6",
+      "title": "Alabama Electricity Rates & Costs (September 2026) - electricchoice.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01VFdRWWNScjBKUXpMdHREOTJ0dC1PQ3ZRN0l6dXMxLWc4NHZDdEdqY3pHRnJ3dXNFbWM5YktFejJCbXpVQ2h5T3pwM0xpMENPTE5PU0c0RWZicXRqOWVrdFBmN3RRSkxhWDFHMmVVM25MNHEtd0E?oc=5",
+      "domain": "news.google.com",
+      "source": "electricchoice.com",
+      "language": "English",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "summary": "Alabama Electricity Rates & Costs (September 2026) electricchoice.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE01VFdRWWNScjBKUXpMdHREOTJ0dC1PQ3ZRN0l6dXMxLWc4NHZDdEdqY3pHRnJ3dXNFbWM5YktFejJCbXpVQ2h5T3pwM0xpMENPTE5PU0c0RWZicXRqOWVrdFBmN3RRSkxhWDFHMmVVM25MNHEtd0E?oc=5\" target=\"_blank\">Alabama Electricity Rates & Costs (September 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">electricchoice.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-10T17:36:36+00:00"
     },
     {
       "id": "21ea58b2e4bdb241",
