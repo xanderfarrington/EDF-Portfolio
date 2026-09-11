@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-11T17:39:12+00:00",
+  "last_updated": "2026-09-11T20:19:28+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 652,
+  "count": 653,
   "mentions": [
     {
       "id": "5932ff5d61ac1bee",
@@ -257,6 +257,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-10T17:36:53+00:00"
+    },
+    {
+      "id": "bcb894b50d6f7669",
+      "title": "Georgia Power seeks approval from Georgia PSC for resources to meet demand - dailyenergyinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnJuOGZrM2RERVZ0blhueXZGTUdMbkNhLVRRcG9lUms2X28tM2cyd0NRazZGWWtYMDM3U3NqQlZRR1RGMXFLNS13NmdtVGRqZzNJVTVIVjUtZVBWM0RicERqQTkyUkhiX0p2b18xQWUxLU5qNlFoeXRXSHRMNFJPMDVtRTBiQzFzcjJMN0NvdnJtbGxkb0d1MHZVc3lWUjNVeTVfY0dsendndkllVXhabGFLMFJYZDVW?oc=5",
+      "domain": "news.google.com",
+      "source": "dailyenergyinsider.com",
+      "language": "English",
+      "published_at": "2026-09-09T11:56:01+00:00",
+      "summary": "Georgia Power seeks approval from Georgia PSC for resources to meet demand dailyenergyinsider.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnJuOGZrM2RERVZ0blhueXZGTUdMbkNhLVRRcG9lUms2X28tM2cyd0NRazZGWWtYMDM3U3NqQlZRR1RGMXFLNS13NmdtVGRqZzNJVTVIVjUtZVBWM0RicERqQTkyUkhiX0p2b18xQWUxLU5qNlFoeXRXSHRMNFJPMDVtRTBiQzFzcjJMN0NvdnJtbGxkb0d1MHZVc3lWUjNVeTVfY0dsendndkllVXhabGFLMFJYZDVW?oc=5\" target=\"_blank\">Georgia Power seeks approval from Georgia PSC for resources to meet demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailyenergyinsider.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T20:19:28+00:00"
     },
     {
       "id": "4e3d58ae247ba96d",

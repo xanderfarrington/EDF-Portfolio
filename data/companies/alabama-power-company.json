@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-11T17:38:55+00:00",
+  "last_updated": "2026-09-11T20:19:11+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 363,
+  "count": 364,
   "mentions": [
     {
       "id": "a355ce9ba785e957",
@@ -89,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-11T13:59:11+00:00"
+    },
+    {
+      "id": "9ae8beca552ec651",
+      "title": "Judge to decide if Alabama Power can build transmission lines through Shelby County backyard - cbs42.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0xlLUZKTlFHWkJmQkVQV3ZBd0IwUTdRZ1ZYbXZpdTBMOEpmc2R5OUFUby15Q0VsUXR1dVNXSDY5aDJIV0dmUE8xZkhXaW1FdWo1OVVvdFFPMVpJS195UnFxemY5SEI3RlMxTURsRmtrVHYyamdxaVJUM2VzLXo3elJlNThtU0VWTGNOaGo0RHNYSXRnWTVYeWIxWTYxSnZSV3UyalNSb25fRnRRRmNvTkgwYmtGQUs4ODI0ejJlNXQ1S1dD0gHKAUFVX3lxTE9XZkp4VE8xS0VCdGg0Rjh1aU5NUzdhVW1NWnlYQU52MjVaZ1ZhU056bFNXUWZycTRsRnZlMEU1QUJpNDBrQ3pFWlZ0LVpPRnczVXpWanZmTW5RdXl0ZTVMc2JqVEtfNy1DN3drbWl4VGJpaXZ3V1B2bmhaYVpadFd3VW1sVDVRV2plVFduSU5weFRXSXlEcmxkWVpLdWJMem1CVnZGN0tFRnVxeGVkbTlEREdId1VlNWFSNGJfY2MwV3FoWjFLcVpjVXc?oc=5",
+      "domain": "news.google.com",
+      "source": "cbs42.com",
+      "language": "English",
+      "published_at": "2026-09-10T20:53:12+00:00",
+      "summary": "Judge to decide if Alabama Power can build transmission lines through Shelby County backyard cbs42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0xlLUZKTlFHWkJmQkVQV3ZBd0IwUTdRZ1ZYbXZpdTBMOEpmc2R5OUFUby15Q0VsUXR1dVNXSDY5aDJIV0dmUE8xZkhXaW1FdWo1OVVvdFFPMVpJS195UnFxemY5SEI3RlMxTURsRmtrVHYyamdxaVJUM2VzLXo3elJlNThtU0VWTGNOaGo0RHNYSXRnWTVYeWIxWTYxSnZSV3UyalNSb25fRnRRRmNvTkgwYmtGQUs4ODI0ejJlNXQ1S1dD0gHKAUFVX3lxTE9XZkp4VE8xS0VCdGg0Rjh1aU5NUzdhVW1NWnlYQU52MjVaZ1ZhU056bFNXUWZycTRsRnZlMEU1QUJpNDBrQ3pFWlZ0LVpPRnczVXpWanZmTW5RdXl0ZTVMc2JqVEtfNy1DN3drbWl4VGJpaXZ3V1B2bmhaYVpadFd3VW1sVDVRV2plVFduSU5weFRXSXlEcmxkWVpLdWJMem1CVnZGN0tFRnVxeGVkbTlEREdId1VlNWFSNGJfY2MwV3FoWjFLcVpjVXc?oc=5\" target=\"_blank\">Judge to decide if Alabama Power can build transmission lines through Shelby County backyard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T20:19:11+00:00"
     },
     {
       "id": "f81451e555fca3c4",

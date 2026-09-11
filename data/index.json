@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T17:39:22+00:00",
+  "last_updated": "2026-09-11T20:19:39+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 363,
+      "count": 364,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "a355ce9ba785e957",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 652,
+      "count": 653,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "5932ff5d61ac1bee",
@@ -110,21 +110,21 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 55,
+      "count": 56,
       "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "34d176e381db27a9",
-        "title": "Office of Energy Dominance Financing Archives - POWER Magazine",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jRDZVYXVsVzM2UHpWNHk0YjNXbWdzQmR5VW5TbnN2Y0lxcmkycVI4cktUR1ZOV25hejJPeW1WSnN0WnJRLXJuNGU4c0x3X1B1QUNnbS1LYnFjVWFBOTRuS0lxclBHMnZZXzNma1pXaWQyUTNO?oc=5",
+        "id": "26c14d0218c5b451",
+        "title": "White & Case advises the Office of Energy Dominance Financing on US$1.917 billion in loans for Iowa nuclear power plant - White & Case LLP",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYTNFU2hubkNoT1k2MEVtaVZld1hsTkdBaERaN3FTMjBtVW5fRFZsaGotNzBzYlZIY1NxbWxlazNYQW53Yk9aWEVxSEV2MkRfczF6R2dyWXUtWVJFcTFuYTVPYm5LM1hxTVY2Y3R1ODdjNzJRcFdIWXpudG9Zd0Fwbll3UVozR0hpSFBHaWVQeTZja21BSzRaSDc0cUtTLVhQSEprTW1lb1Z1OVUwLTlXaF9ZWk5kdkVrc0NOcnJaTGs?oc=5",
         "domain": "news.google.com",
-        "source": "POWER Magazine",
+        "source": "White & Case LLP",
         "language": "English",
-        "published_at": "2026-09-04T09:37:01+00:00",
-        "summary": "Office of Energy Dominance Financing Archives POWER Magazine",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9jRDZVYXVsVzM2UHpWNHk0YjNXbWdzQmR5VW5TbnN2Y0lxcmkycVI4cktUR1ZOV25hejJPeW1WSnN0WnJRLXJuNGU4c0x3X1B1QUNnbS1LYnFjVWFBOTRuS0lxclBHMnZZXzNma1pXaWQyUTNO?oc=5\" target=\"_blank\">Office of Energy Dominance Financing Archives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POWER Magazine</font>",
+        "published_at": "2026-09-11T12:00:00+00:00",
+        "summary": "White & Case advises the Office of Energy Dominance Financing on US$1.917 billion in loans for Iowa nuclear power plant White & Case LLP",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYTNFU2hubkNoT1k2MEVtaVZld1hsTkdBaERaN3FTMjBtVW5fRFZsaGotNzBzYlZIY1NxbWxlazNYQW53Yk9aWEVxSEV2MkRfczF6R2dyWXUtWVJFcTFuYTVPYm5LM1hxTVY2Y3R1ODdjNzJRcFdIWXpudG9Zd0Fwbll3UVozR0hpSFBHaWVQeTZja21BSzRaSDc0cUtTLVhQSEprTW1lb1Z1OVUwLTlXaF9ZWk5kdkVrc0NOcnJaTGs?oc=5\" target=\"_blank\">White & Case advises the Office of Energy Dominance Financing on US$1.917 billion in loans for Iowa nuclear power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">White & Case LLP</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-04T13:55:42+00:00"
+        "collected_at": "2026-09-11T20:19:34+00:00"
       }
     }
   ]
