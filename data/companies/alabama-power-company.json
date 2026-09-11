@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-11T08:28:37+00:00",
+  "last_updated": "2026-09-11T13:59:11+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 358,
+  "count": 360,
   "mentions": [
     {
       "id": "bd8cee358883d713",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-10T23:37:00+00:00"
+    },
+    {
+      "id": "89cda2e861e1227f",
+      "title": "Judge to decide if Alabama Power can build transmission lines through Shelby County backyard - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOThEaFJWYmRGd2tCZ3R3YXZna0xVNl8xWHhZZlNRbVRLWjdHMHB5MFMxQllzZFVvNUE5SWpWaHBQOXFBUF9LMGNJSGgyOFgzSlZQQi1tQmFKYTNxOUNhWHpnRFFpTWRHLUlwemZORXY3WDJQVnFvTHJkeXUxNjJraWJqUHhLanNidGJsX0dMWQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-09-10T20:53:12+00:00",
+      "summary": "Judge to decide if Alabama Power can build transmission lines through Shelby County backyard Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQOThEaFJWYmRGd2tCZ3R3YXZna0xVNl8xWHhZZlNRbVRLWjdHMHB5MFMxQllzZFVvNUE5SWpWaHBQOXFBUF9LMGNJSGgyOFgzSlZQQi1tQmFKYTNxOUNhWHpnRFFpTWRHLUlwemZORXY3WDJQVnFvTHJkeXUxNjJraWJqUHhLanNidGJsX0dMWQ?oc=5\" target=\"_blank\">Judge to decide if Alabama Power can build transmission lines through Shelby County backyard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T13:59:11+00:00"
     },
     {
       "id": "f81451e555fca3c4",
@@ -341,6 +355,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-10T13:59:50+00:00"
+    },
+    {
+      "id": "98d311d9d44a0566",
+      "title": "Landowner asks court to temporarily stop Alabama Power transmission line work - centralillinoisproud.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYU1pT203OEkyWmwxSXhObkFiUUdLeXVkWEJISl9yTDdYQkI3UFJiaGw1Vk9GWEF5ZEdVeV85Nk5VVl8xTHpjbkxvQnpsRTk0MXNsN2ZMOElLbVQxWXJVZTZUMDdxVHhad1Vuc1lmMTdGWHhPdXBONXFrTWJfMUpWcWgxRzhrQ0Z3cEJaUkVhd1BIdVhmLU9lU1pGMGJ3OVU2LWpteEtrbVA3d0RFeVQ5MGJINjNBZ0RTTVhpeF9IMWVVSktvcFB4V1d3?oc=5",
+      "domain": "news.google.com",
+      "source": "centralillinoisproud.com",
+      "language": "English",
+      "published_at": "2026-09-07T22:05:35+00:00",
+      "summary": "Landowner asks court to temporarily stop Alabama Power transmission line work centralillinoisproud.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQYU1pT203OEkyWmwxSXhObkFiUUdLeXVkWEJISl9yTDdYQkI3UFJiaGw1Vk9GWEF5ZEdVeV85Nk5VVl8xTHpjbkxvQnpsRTk0MXNsN2ZMOElLbVQxWXJVZTZUMDdxVHhad1Vuc1lmMTdGWHhPdXBONXFrTWJfMUpWcWgxRzhrQ0Z3cEJaUkVhd1BIdVhmLU9lU1pGMGJ3OVU2LWpteEtrbVA3d0RFeVQ5MGJINjNBZ0RTTVhpeF9IMWVVSktvcFB4V1d3?oc=5\" target=\"_blank\">Landowner asks court to temporarily stop Alabama Power transmission line work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">centralillinoisproud.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T13:59:11+00:00"
     },
     {
       "id": "3ac7995cb200281f",
