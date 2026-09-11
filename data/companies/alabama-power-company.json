@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-10T23:37:00+00:00",
+  "last_updated": "2026-09-11T02:29:39+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 355,
+  "count": 357,
   "mentions": [
+    {
+      "id": "bd8cee358883d713",
+      "title": "Alabama Power Prattville hosts Safe-T-Zone program - WSFA",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeFMtYUtGV1pLNDFJQkh4VURZUzhNMDQzMmdaUEtSRlRzb0xIVkZWcDVpT0RJdUdnb3oyWFZaWjJDS2R0YVc5cERtUGJsVFFYSWV3UzZIa1F6UHhVd1M4dktmSk1EYUJodnlXUjhXeEYteUU2ZnhyREFQZHlhT3hRZkhrUUZzNTJZdkJQdjBxLURSN1k?oc=5",
+      "domain": "news.google.com",
+      "source": "WSFA",
+      "language": "English",
+      "published_at": "2026-09-11T00:23:12+00:00",
+      "summary": "Alabama Power Prattville hosts Safe-T-Zone program WSFA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNeFMtYUtGV1pLNDFJQkh4VURZUzhNMDQzMmdaUEtSRlRzb0xIVkZWcDVpT0RJdUdnb3oyWFZaWjJDS2R0YVc5cERtUGJsVFFYSWV3UzZIa1F6UHhVd1M4dktmSk1EYUJodnlXUjhXeEYteUU2ZnhyREFQZHlhT3hRZkhrUUZzNTJZdkJQdjBxLURSN1k?oc=5\" target=\"_blank\">Alabama Power Prattville hosts Safe-T-Zone program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T02:29:39+00:00"
+    },
     {
       "id": "054e1ac574b5d680",
       "title": "Judge to decide whether Alabama Power can begin work on Shelby County man's property - WVTM",
@@ -131,6 +145,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-10T13:59:50+00:00"
+    },
+    {
+      "id": "5aa3d81b082ad14f",
+      "title": "Case against Alabama Power goes to court - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2dZeTM1MDdoZ19JblJyN2ZTLTRhZnYxM3JUaUNrMTc0c1Qzc2cyb3pVWkluNFZTckw3Yk82a2p1WGlGUzhnaVFSRUtCNWJrc3VWTGd4Q19Ta3BWMDkwdUlmX3A2RkdjWFdmN3dsVnVUdkNkSDQyaWo2V090QVAtMG9hMGQyVjA?oc=5",
+      "domain": "news.google.com",
+      "source": "yahoo.com",
+      "language": "English",
+      "published_at": "2026-09-09T22:08:51+00:00",
+      "summary": "Case against Alabama Power goes to court yahoo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2dZeTM1MDdoZ19JblJyN2ZTLTRhZnYxM3JUaUNrMTc0c1Qzc2cyb3pVWkluNFZTckw3Yk82a2p1WGlGUzhnaVFSRUtCNWJrc3VWTGd4Q19Ta3BWMDkwdUlmX3A2RkdjWFdmN3dsVnVUdkNkSDQyaWo2V090QVAtMG9hMGQyVjA?oc=5\" target=\"_blank\">Case against Alabama Power goes to court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T02:29:39+00:00"
     },
     {
       "id": "493f9ee9cddfe06b",

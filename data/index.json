@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T23:37:27+00:00",
+  "last_updated": "2026-09-11T02:30:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 355,
+      "count": 357,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "054e1ac574b5d680",
-        "title": "Judge to decide whether Alabama Power can begin work on Shelby County man's property - WVTM",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmtKMlo3WHVDN2ZrY2pub1hHZ1k5TFFxcTdQR2RxQXV6TkpvTXQ1MGZzQmFVM0pwbTBHdldWaG1ISlYwNjdQTUdwTE8yU21lb1AzX0Y5YzV1RzhTUWU5MnhzaXFVR0M5MEVRSGdMU0MwSG5HRXI5bDZEN2tLTTh3OGJ1MEdWMlpJbGFLbjgta2YybW03SlR2UTVYeVl3bnRPTWc?oc=5",
+        "id": "bd8cee358883d713",
+        "title": "Alabama Power Prattville hosts Safe-T-Zone program - WSFA",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeFMtYUtGV1pLNDFJQkh4VURZUzhNMDQzMmdaUEtSRlRzb0xIVkZWcDVpT0RJdUdnb3oyWFZaWjJDS2R0YVc5cERtUGJsVFFYSWV3UzZIa1F6UHhVd1M4dktmSk1EYUJodnlXUjhXeEYteUU2ZnhyREFQZHlhT3hRZkhrUUZzNTJZdkJQdjBxLURSN1k?oc=5",
         "domain": "news.google.com",
-        "source": "WVTM",
+        "source": "WSFA",
         "language": "English",
-        "published_at": "2026-09-10T23:17:00+00:00",
-        "summary": "Judge to decide whether Alabama Power can begin work on Shelby County man's property WVTM",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmtKMlo3WHVDN2ZrY2pub1hHZ1k5TFFxcTdQR2RxQXV6TkpvTXQ1MGZzQmFVM0pwbTBHdldWaG1ISlYwNjdQTUdwTE8yU21lb1AzX0Y5YzV1RzhTUWU5MnhzaXFVR0M5MEVRSGdMU0MwSG5HRXI5bDZEN2tLTTh3OGJ1MEdWMlpJbGFLbjgta2YybW03SlR2UTVYeVl3bnRPTWc?oc=5\" target=\"_blank\">Judge to decide whether Alabama Power can begin work on Shelby County man's property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+        "published_at": "2026-09-11T00:23:12+00:00",
+        "summary": "Alabama Power Prattville hosts Safe-T-Zone program WSFA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNeFMtYUtGV1pLNDFJQkh4VURZUzhNMDQzMmdaUEtSRlRzb0xIVkZWcDVpT0RJdUdnb3oyWFZaWjJDS2R0YVc5cERtUGJsVFFYSWV3UzZIa1F6UHhVd1M4dktmSk1EYUJodnlXUjhXeEYteUU2ZnhyREFQZHlhT3hRZkhrUUZzNTJZdkJQdjBxLURSN1k?oc=5\" target=\"_blank\">Alabama Power Prattville hosts Safe-T-Zone program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-10T23:37:00+00:00"
+        "collected_at": "2026-09-11T02:29:39+00:00"
       }
     },
     {
