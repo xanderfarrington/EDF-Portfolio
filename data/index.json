@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-11T13:59:38+00:00",
+  "last_updated": "2026-09-11T17:39:22+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 93,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "5aa606b38bf30b81",
         "title": "Washington County residents attend public meeting about proposed AEP transmission line - fox23.com",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 360,
+      "count": 363,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "bd8cee358883d713",
-        "title": "Alabama Power Prattville hosts Safe-T-Zone program - WSFA",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeFMtYUtGV1pLNDFJQkh4VURZUzhNMDQzMmdaUEtSRlRzb0xIVkZWcDVpT0RJdUdnb3oyWFZaWjJDS2R0YVc5cERtUGJsVFFYSWV3UzZIa1F6UHhVd1M4dktmSk1EYUJodnlXUjhXeEYteUU2ZnhyREFQZHlhT3hRZkhrUUZzNTJZdkJQdjBxLURSN1k?oc=5",
+        "id": "a355ce9ba785e957",
+        "title": "Alabama Power Brings Electrical Safety Training To Prattville First Responders - Elmore-Autauga News",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbTZMaGo3WG1ScGN2VWhfeHFJTk1aYW1OZGRpRjVyWDBmV2xhdnVmVDVnZHh5aTBYbW5taThEVGZSVzBfSnlSWWpLU0VpZ3B2RXk4T0xRYmVKVzFDNHJKMFUydjJJSnF6bU5xMVpESHB3djNYbG95VC1rLVJyTmZyZEJWTXZsR251WDBrZHFybXdzd2UySWE2Wjd1Mlo2bENvYURVUFY5aTU0ZVNxWUE1NTFWVjJrNDFqeW9xUQ?oc=5",
         "domain": "news.google.com",
-        "source": "WSFA",
+        "source": "Elmore-Autauga News",
         "language": "English",
-        "published_at": "2026-09-11T00:23:12+00:00",
-        "summary": "Alabama Power Prattville hosts Safe-T-Zone program WSFA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNeFMtYUtGV1pLNDFJQkh4VURZUzhNMDQzMmdaUEtSRlRzb0xIVkZWcDVpT0RJdUdnb3oyWFZaWjJDS2R0YVc5cERtUGJsVFFYSWV3UzZIa1F6UHhVd1M4dktmSk1EYUJodnlXUjhXeEYteUU2ZnhyREFQZHlhT3hRZkhrUUZzNTJZdkJQdjBxLURSN1k?oc=5\" target=\"_blank\">Alabama Power Prattville hosts Safe-T-Zone program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
+        "published_at": "2026-09-11T13:37:15+00:00",
+        "summary": "Alabama Power Brings Electrical Safety Training To Prattville First Responders Elmore-Autauga News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbTZMaGo3WG1ScGN2VWhfeHFJTk1aYW1OZGRpRjVyWDBmV2xhdnVmVDVnZHh5aTBYbW5taThEVGZSVzBfSnlSWWpLU0VpZ3B2RXk4T0xRYmVKVzFDNHJKMFUydjJJSnF6bU5xMVpESHB3djNYbG95VC1rLVJyTmZyZEJWTXZsR251WDBrZHFybXdzd2UySWE2Wjd1Mlo2bENvYURVUFY5aTU0ZVNxWUE1NTFWVjJrNDFqeW9xUQ?oc=5\" target=\"_blank\">Alabama Power Brings Electrical Safety Training To Prattville First Responders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elmore-Autauga News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-11T02:29:39+00:00"
+        "collected_at": "2026-09-11T17:38:55+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 647,
+      "count": 652,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "c012b0d1e3a3e8d3",
-        "title": "Georgia Power receives approval for 1.14GW of solar PPAs - PV Tech",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcm1KdmFaU3BzaTk0bEZHbVExSFYxSnJLQk0wbklNZE1Oc0NzREN0SWIwQ1ZaQ2NhdDdOVEpFOFE2R0NKbmN0eWtjRE42SE9SaC1pbDRweFQzT2pUZ3hZVWs0YWRoQzltRnBpRk5OVkpFQ2VteHlSVVJTWmt1X1o4Q1RQTzBqcDR1?oc=5",
+        "id": "5932ff5d61ac1bee",
+        "title": "Georgia Power secures approval for 1.1 GW solar PPAs - Solarbytes",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUZKSXlYX3pFb2I4WnU4Z3V6SjhkRm1XakdVdGFMeEFaS0JySFQzNFFOaVJkYzVmNVdwcjktQ0tMaWVLSzdoTl8wMzE1QVktbURDZjBkSDZoN3Q3LS1TdFJqeEhoRWJ3aW1qdDJWTlpLX1BvWEFkb0VKVll3M21IYVdRak1RTWc3cEdZWnZ0d296Q2hObGJSNUg4VDI0S1U5TGxpOEFnM2J5d0dtbExfQ1Vn?oc=5",
         "domain": "news.google.com",
-        "source": "PV Tech",
+        "source": "Solarbytes",
         "language": "English",
-        "published_at": "2026-09-11T11:28:00+00:00",
-        "summary": "Georgia Power receives approval for 1.14GW of solar PPAs PV Tech",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcm1KdmFaU3BzaTk0bEZHbVExSFYxSnJLQk0wbklNZE1Oc0NzREN0SWIwQ1ZaQ2NhdDdOVEpFOFE2R0NKbmN0eWtjRE42SE9SaC1pbDRweFQzT2pUZ3hZVWs0YWRoQzltRnBpRk5OVkpFQ2VteHlSVVJTWmt1X1o4Q1RQTzBqcDR1?oc=5\" target=\"_blank\">Georgia Power receives approval for 1.14GW of solar PPAs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PV Tech</font>",
+        "published_at": "2026-09-11T14:25:06+00:00",
+        "summary": "Georgia Power secures approval for 1.1 GW solar PPAs Solarbytes",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUZKSXlYX3pFb2I4WnU4Z3V6SjhkRm1XakdVdGFMeEFaS0JySFQzNFFOaVJkYzVmNVdwcjktQ0tMaWVLSzdoTl8wMzE1QVktbURDZjBkSDZoN3Q3LS1TdFJqeEhoRWJ3aW1qdDJWTlpLX1BvWEFkb0VKVll3M21IYVdRak1RTWc3cEdZWnZ0d296Q2hObGJSNUg4VDI0S1U5TGxpOEFnM2J5d0dtbExfQ1Vn?oc=5\" target=\"_blank\">Georgia Power secures approval for 1.1 GW solar PPAs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solarbytes</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-11T13:59:28+00:00"
+        "collected_at": "2026-09-11T17:39:12+00:00"
       }
     },
     {

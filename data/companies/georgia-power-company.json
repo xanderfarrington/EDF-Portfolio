@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-11T13:59:28+00:00",
+  "last_updated": "2026-09-11T17:39:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 647,
+  "count": 652,
   "mentions": [
+    {
+      "id": "5932ff5d61ac1bee",
+      "title": "Georgia Power secures approval for 1.1 GW solar PPAs - Solarbytes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUZKSXlYX3pFb2I4WnU4Z3V6SjhkRm1XakdVdGFMeEFaS0JySFQzNFFOaVJkYzVmNVdwcjktQ0tMaWVLSzdoTl8wMzE1QVktbURDZjBkSDZoN3Q3LS1TdFJqeEhoRWJ3aW1qdDJWTlpLX1BvWEFkb0VKVll3M21IYVdRak1RTWc3cEdZWnZ0d296Q2hObGJSNUg4VDI0S1U5TGxpOEFnM2J5d0dtbExfQ1Vn?oc=5",
+      "domain": "news.google.com",
+      "source": "Solarbytes",
+      "language": "English",
+      "published_at": "2026-09-11T14:25:06+00:00",
+      "summary": "Georgia Power secures approval for 1.1 GW solar PPAs Solarbytes",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUZKSXlYX3pFb2I4WnU4Z3V6SjhkRm1XakdVdGFMeEFaS0JySFQzNFFOaVJkYzVmNVdwcjktQ0tMaWVLSzdoTl8wMzE1QVktbURDZjBkSDZoN3Q3LS1TdFJqeEhoRWJ3aW1qdDJWTlpLX1BvWEFkb0VKVll3M21IYVdRak1RTWc3cEdZWnZ0d296Q2hObGJSNUg4VDI0S1U5TGxpOEFnM2J5d0dtbExfQ1Vn?oc=5\" target=\"_blank\">Georgia Power secures approval for 1.1 GW solar PPAs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solarbytes</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T17:39:12+00:00"
+    },
     {
       "id": "c012b0d1e3a3e8d3",
       "title": "Georgia Power receives approval for 1.14GW of solar PPAs - PV Tech",
@@ -33,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-11T13:59:28+00:00"
+    },
+    {
+      "id": "3ea9613f838ec53f",
+      "title": "Georgia Power gains approval for 1.14GW of new solar agreements - Power Technology",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR2VtV1BqdWZrVzhSRncwZkRUS255cW96TlRCWmFOeVNXUkNwYmJ6WUprazZJUlJEOHpHd2NpanZEQzg5VnhDb0VxUGI0ZDRlZV9PZ3dKZjh4NnJSX0xWT3JJVUxuZ29WWDF3NXh2MHBCZUpCR2ZUaEF0S0phVEFfZ3FncDl4Zw?oc=5",
+      "domain": "news.google.com",
+      "source": "Power Technology",
+      "language": "English",
+      "published_at": "2026-09-11T10:14:36+00:00",
+      "summary": "Georgia Power gains approval for 1.14GW of new solar agreements Power Technology",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNR2VtV1BqdWZrVzhSRncwZkRUS255cW96TlRCWmFOeVNXUkNwYmJ6WUprazZJUlJEOHpHd2NpanZEQzg5VnhDb0VxUGI0ZDRlZV9PZ3dKZjh4NnJSX0xWT3JJVUxuZ29WWDF3NXh2MHBCZUpCR2ZUaEF0S0phVEFfZ3FncDl4Zw?oc=5\" target=\"_blank\">Georgia Power gains approval for 1.14GW of new solar agreements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Power Technology</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T17:39:12+00:00"
     },
     {
       "id": "9787fca12be934a1",
@@ -133,6 +161,20 @@
       "collected_at": "2026-09-10T17:36:53+00:00"
     },
     {
+      "id": "dd43b0cb737ec15c",
+      "title": "Georgia Power approves largest solar deal ever, adding 1,137 MW to its renewable portfolio. - pluang.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmhFOE5pVHRlWjVVcWFFWWs0MHM5eTNTUWtfS1k3S3BPYU92ODc2UGNlUWhBSTF2Z3d6UDNKUnp5N09sLWYzbXRXbWhfOGV1LTRRN1dlZ05mUkg5LWw0Y09TZGJGWTlrZV90SFl2b0lNaXdsdFBiYUgzREVLU09OaDl4SUNUNGl5dExhZVc2WGlZaWdaeGJ3V3RrUVBmb0tjZWQ0TTFIRGV6QQ?oc=5",
+      "domain": "news.google.com",
+      "source": "pluang.com",
+      "language": "English",
+      "published_at": "2026-09-10T14:17:59+00:00",
+      "summary": "Georgia Power approves largest solar deal ever, adding 1,137 MW to its renewable portfolio. pluang.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmhFOE5pVHRlWjVVcWFFWWs0MHM5eTNTUWtfS1k3S3BPYU92ODc2UGNlUWhBSTF2Z3d6UDNKUnp5N09sLWYzbXRXbWhfOGV1LTRRN1dlZ05mUkg5LWw0Y09TZGJGWTlrZV90SFl2b0lNaXdsdFBiYUgzREVLU09OaDl4SUNUNGl5dExhZVc2WGlZaWdaeGJ3V3RrUVBmb0tjZWQ0TTFIRGV6QQ?oc=5\" target=\"_blank\">Georgia Power approves largest solar deal ever, adding 1,137 MW to its renewable portfolio.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pluang.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T17:39:12+00:00"
+    },
+    {
       "id": "7dd81b0cbef83da1",
       "title": "Georgia Power receives approval for 1,137 MW of new solar power purchase agreements through CARES program - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSGZ3YWo5b3Ztd2xYTHlUcUlISHN2UF82ZzVicEdxNjFjVUhDbmJJX2lBVXhVcm9KbG81dWphZk1OZlBwaG5lNTAxei1DU1dHYTZNbVFUeHFmOXp6UklBelpJTU5PZ05DT3Z5cW5OM284ZEx3d2dIWUYxUUtUc1N5aDBabGpnNG9vd1hPNV9Cb0ZZY2lSQVJCaWNwSVRUSU9xTXBRZ1ZodXR4MUhiV1dmclQ3RU83WmJWb1k4ZVJvODdEdkZXNVg1bjlsUVFDMVBrSkxrZi1FbFkwX3FWU1d2TnREWG1CSUlqeTdlMXdhUXZ2WE0?oc=5",
@@ -159,6 +201,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-10T17:36:53+00:00"
+    },
+    {
+      "id": "c6608ac2c7e9cee3",
+      "title": "Georgia Power's largest single solar procurement is approved. Seven projects could start as early as 2029. - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMkVBVXR0WDc3WlNBSUgwbVk0ZFMxeVlTS3JPT214U2Y2eGZFNHlhaGltdlJZb2tlVlpEMnNVVmpCY3Q3UTRoeVVkaWpQVG9qLWtNcWttdlFuT0dTRzVPeTFTbTV0U3FSWWlyS0RtZnR1Y0ZHX2lINTM0N1F2enliQzNiaXZSRzNkbjlzeFl3dmRfYjhWMm5nWHRqdXp1TjJSbWlieHFua1VTeGF0TGhjbzdEYXlOVFE?oc=5",
+      "domain": "news.google.com",
+      "source": "stocktitan.net",
+      "language": "English",
+      "published_at": "2026-09-10T14:00:00+00:00",
+      "summary": "Georgia Power's largest single solar procurement is approved. Seven projects could start as early as 2029. stocktitan.net",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMkVBVXR0WDc3WlNBSUgwbVk0ZFMxeVlTS3JPT214U2Y2eGZFNHlhaGltdlJZb2tlVlpEMnNVVmpCY3Q3UTRoeVVkaWpQVG9qLWtNcWttdlFuT0dTRzVPeTFTbTV0U3FSWWlyS0RtZnR1Y0ZHX2lINTM0N1F2enliQzNiaXZSRzNkbjlzeFl3dmRfYjhWMm5nWHRqdXp1TjJSbWlieHFua1VTeGF0TGhjbzdEYXlOVFE?oc=5\" target=\"_blank\">Georgia Power's largest single solar procurement is approved. Seven projects could start as early as 2029.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stocktitan.net</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T17:39:12+00:00"
     },
     {
       "id": "b2d7e0ed3f73e73f",
@@ -257,6 +313,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-11T13:59:28+00:00"
+    },
+    {
+      "id": "c02da37da45897bd",
+      "title": "108 million outage minutes were prevented in 2025, Georgia Power says - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTEFaSlhRQmhoaVIzeno5ck9pZXczUDQ3NnRIWE9FTXJtSFh6RW80VVo1WW1uamZDNG1GT0ZYMk00TmxmejNBQXktQVprTUdxUWk3RlNqb01jbUNRYWd0bTJYSHFiWW9mN1l6ei1KRkRSSGRvU3hVcEJHcVVzWVVtTW5UNnhFdWdFSTkxR3BSUUNwMTRTSXdwVEpmb2pGYjF0Ry16eEZLRHRxbjBFQkl3R2NoMVdyRVVhZVE?oc=5",
+      "domain": "news.google.com",
+      "source": "stocktitan.net",
+      "language": "English",
+      "published_at": "2026-09-08T20:28:00+00:00",
+      "summary": "108 million outage minutes were prevented in 2025, Georgia Power says stocktitan.net",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNTEFaSlhRQmhoaVIzeno5ck9pZXczUDQ3NnRIWE9FTXJtSFh6RW80VVo1WW1uamZDNG1GT0ZYMk00TmxmejNBQXktQVprTUdxUWk3RlNqb01jbUNRYWd0bTJYSHFiWW9mN1l6ei1KRkRSSGRvU3hVcEJHcVVzWVVtTW5UNnhFdWdFSTkxR3BSUUNwMTRTSXdwVEpmb2pGYjF0Ry16eEZLRHRxbjBFQkl3R2NoMVdyRVVhZVE?oc=5\" target=\"_blank\">108 million outage minutes were prevented in 2025, Georgia Power says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stocktitan.net</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T17:39:12+00:00"
     },
     {
       "id": "6000a8d0cd3eda50",
