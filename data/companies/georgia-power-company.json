@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-11T20:19:28+00:00",
+  "last_updated": "2026-09-11T23:47:49+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 653,
+  "count": 654,
   "mentions": [
     {
       "id": "5932ff5d61ac1bee",
@@ -89,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-10T23:37:16+00:00"
+    },
+    {
+      "id": "6fd848afa204f588",
+      "title": "Georgia Power battery storage facility to boost Middle Georgia power reliability - 41nbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUhKdnpPZ1A1WjNRWmFDdTl4ckRUZkdPcTlrbVF6YV9GZWIzUUVaTDgxRFdCMlhMbEN0bU5KckFuNURybDhVcHl4RkZvOWo1WmpkdU1aa3RoUHp1N3hUS2V3Qkc3ai02WVJJbmtqSzdSVkVaTVVtZWdnOW40aXJ4cF95bi01dUc0RVdiZnBtTE1kZGxkQ1NZYTlqOFVpQXZ1UkdJclFR?oc=5",
+      "domain": "news.google.com",
+      "source": "41nbc.com",
+      "language": "English",
+      "published_at": "2026-09-10T21:13:14+00:00",
+      "summary": "Georgia Power battery storage facility to boost Middle Georgia power reliability 41nbc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUhKdnpPZ1A1WjNRWmFDdTl4ckRUZkdPcTlrbVF6YV9GZWIzUUVaTDgxRFdCMlhMbEN0bU5KckFuNURybDhVcHl4RkZvOWo1WmpkdU1aa3RoUHp1N3hUS2V3Qkc3ai02WVJJbmtqSzdSVkVaTVVtZWdnOW40aXJ4cF95bi01dUc0RVdiZnBtTE1kZGxkQ1NZYTlqOFVpQXZ1UkdJclFR?oc=5\" target=\"_blank\">Georgia Power battery storage facility to boost Middle Georgia power reliability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">41nbc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T23:47:49+00:00"
     },
     {
       "id": "aa696d76e7f9b520",

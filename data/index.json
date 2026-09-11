@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-11T20:19:39+00:00",
+  "last_updated": "2026-09-11T23:47:59+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 93,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "5aa606b38bf30b81",
         "title": "Washington County residents attend public meeting about proposed AEP transmission line - fox23.com",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 364,
+      "count": 365,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "a355ce9ba785e957",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 653,
+      "count": 654,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "5932ff5d61ac1bee",
@@ -110,8 +110,8 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 56,
-      "new_mentions_this_run": 4,
+      "count": 57,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "26c14d0218c5b451",
         "title": "White & Case advises the Office of Energy Dominance Financing on US$1.917 billion in loans for Iowa nuclear power plant - White & Case LLP",
