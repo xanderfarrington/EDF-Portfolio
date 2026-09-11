@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-11T02:29:39+00:00",
+  "last_updated": "2026-09-11T08:28:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 357,
+  "count": 358,
   "mentions": [
     {
       "id": "bd8cee358883d713",
@@ -159,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-11T02:29:39+00:00"
+    },
+    {
+      "id": "a12e3cc38d583b13",
+      "title": "Case against Alabama Power goes to court - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2dZeTM1MDdoZ19JblJyN2ZTLTRhZnYxM3JUaUNrMTc0c1Qzc2cyb3pVWkluNFZTckw3Yk82a2p1WGlGUzhnaVFSRUtCNWJrc3VWTGd4Q19Ta3BWMDkwdUlmX3A2RkdjWFdmN3dsVnVUdkNkSDQyaWo2V090QVAtMG9hMGQyVjA?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-09-09T22:08:51+00:00",
+      "summary": "Case against Alabama Power goes to court Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2dZeTM1MDdoZ19JblJyN2ZTLTRhZnYxM3JUaUNrMTc0c1Qzc2cyb3pVWkluNFZTckw3Yk82a2p1WGlGUzhnaVFSRUtCNWJrc3VWTGd4Q19Ta3BWMDkwdUlmX3A2RkdjWFdmN3dsVnVUdkNkSDQyaWo2V090QVAtMG9hMGQyVjA?oc=5\" target=\"_blank\">Case against Alabama Power goes to court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T08:28:37+00:00"
     },
     {
       "id": "493f9ee9cddfe06b",

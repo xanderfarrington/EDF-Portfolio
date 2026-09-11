@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-11T02:29:55+00:00",
+  "last_updated": "2026-09-11T08:28:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 641,
+  "count": 644,
   "mentions": [
+    {
+      "id": "9787fca12be934a1",
+      "title": "Georgia Power gets approval for 1,137 MW of solar PPAs - Renewables Now",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkI2Zzh2bEZNWUUtMUVDQkpWVWxudlJPME1kcDlKWVBOUXdldEtCWVROcTFHQ29HS0tCNjhzemZsdXZVSHFRanBhcnFiT1VraEZKYXI4U0UwR2hua3U5TzlpRGZ1YzZpaTRlbUgzT3pUS3RhNnRxVmF1eGo0bWVGdmhjbDI1dTZJZTFTb1FYMEFqNWhaSWpiY25R?oc=5",
+      "domain": "news.google.com",
+      "source": "Renewables Now",
+      "language": "English",
+      "published_at": "2026-09-11T08:23:38+00:00",
+      "summary": "Georgia Power gets approval for 1,137 MW of solar PPAs Renewables Now",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkI2Zzh2bEZNWUUtMUVDQkpWVWxudlJPME1kcDlKWVBOUXdldEtCWVROcTFHQ29HS0tCNjhzemZsdXZVSHFRanBhcnFiT1VraEZKYXI4U0UwR2hua3U5TzlpRGZ1YzZpaTRlbUgzT3pUS3RhNnRxVmF1eGo0bWVGdmhjbDI1dTZJZTFTb1FYMEFqNWhaSWpiY25R?oc=5\" target=\"_blank\">Georgia Power gets approval for 1,137 MW of solar PPAs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Renewables Now</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T08:28:54+00:00"
+    },
     {
       "id": "b82023c480480cf6",
       "title": "Georgia Power battery storage facility to boost Middle Georgia power reliability - 41NBC News",
@@ -35,6 +49,20 @@
       "collected_at": "2026-09-10T17:36:53+00:00"
     },
     {
+      "id": "735032acd2c58444",
+      "title": "Silicon Ranch Announces Investments in Jefferson and Warren Counties to Support Georgia Power’s Clean and Renewable Energy Subscription Program - manilatimes.net",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPMmRCUFhvUXVQc2ZqUjVpOE8xNTlfWUlzOVd2Q04xUThLWlpOa0JhV0pYaC1rUm9kaVFjM0pBcnpKUktrVEExRk5LM3U2ZjdjcHJNWW9VMDZnd3pFaEpDN1d6cDBQRXBHMUlDLWxubGh5M0Zrb0R6T3NQU3hhaWxsekdJX3BNeXVpNjRxUnA5M19QcVNlWlhfdTNWaXp1TUZGbzAwcjh3Zl9WREtVaDdVLWktQjhGemRLN1N2WnhERFUyMVdBWkJIYWppbl9NYlpIcHJnSkVfVDlrN3hlNEFvWWpmeDU1VVM2SGJ1NjU0d3dlLU1Jdy1IQ3RDT3dVOTV2R1Z1S2ZCYUtBa1NxdWl5eXJsck5jV01qMUs2a3ZsaFZmc25yb0o5UDBnNGg0U2xKd2RDYVQwNTUzZU1u0gHCAkFVX3lxTE0wcmZzMWNSZWczOWV2elh3a3p1c011aXFpSVNtNXlmQ2ZPSHBhR2hzOFRxaGh2QXM4aWMxdDRuMEJIbk5FQmJ6bzNfaDl1TWFtNWs1MHp0MmlEVVJHd1owcUlBeWhKVnFvTl9Va1dGNmYyUkk2RkRROGMzXzN2V1h1OTdXc0Z0V1BXXzRhaUVjbDd1bEt3OGpDek9mN05oUjkwZkJmWU5GRmJrSDBYbFdUM3EzeTZ5VzNERjNNSlVrUGNxc0lvNmIxX25Bd3hvWF94U3Y4NHRhdHZDQlR2NS1UMlE0WjFSamFabGg5RGxWTGZYOTAzOER3M25DTjhQc1prbW5RNzFxV0g2N1dEWEN6b3JmeEhZZ1M0Y1VTazZFTlNEdFdRSmpsMWUtTUstTVVrRHNNTHlmOVVQRGxvVEN2akE?oc=5",
+      "domain": "news.google.com",
+      "source": "manilatimes.net",
+      "language": "English",
+      "published_at": "2026-09-10T15:02:48+00:00",
+      "summary": "Silicon Ranch Announces Investments in Jefferson and Warren Counties to Support Georgia Power’s Clean and Renewable Energy Subscription Program manilatimes.net",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxPMmRCUFhvUXVQc2ZqUjVpOE8xNTlfWUlzOVd2Q04xUThLWlpOa0JhV0pYaC1rUm9kaVFjM0pBcnpKUktrVEExRk5LM3U2ZjdjcHJNWW9VMDZnd3pFaEpDN1d6cDBQRXBHMUlDLWxubGh5M0Zrb0R6T3NQU3hhaWxsekdJX3BNeXVpNjRxUnA5M19QcVNlWlhfdTNWaXp1TUZGbzAwcjh3Zl9WREtVaDdVLWktQjhGemRLN1N2WnhERFUyMVdBWkJIYWppbl9NYlpIcHJnSkVfVDlrN3hlNEFvWWpmeDU1VVM2SGJ1NjU0d3dlLU1Jdy1IQ3RDT3dVOTV2R1Z1S2ZCYUtBa1NxdWl5eXJsck5jV01qMUs2a3ZsaFZmc25yb0o5UDBnNGg0U2xKd2RDYVQwNTUzZU1u0gHCAkFVX3lxTE0wcmZzMWNSZWczOWV2elh3a3p1c011aXFpSVNtNXlmQ2ZPSHBhR2hzOFRxaGh2QXM4aWMxdDRuMEJIbk5FQmJ6bzNfaDl1TWFtNWs1MHp0MmlEVVJHd1owcUlBeWhKVnFvTl9Va1dGNmYyUkk2RkRROGMzXzN2V1h1OTdXc0Z0V1BXXzRhaUVjbDd1bEt3OGpDek9mN05oUjkwZkJmWU5GRmJrSDBYbFdUM3EzeTZ5VzNERjNNSlVrUGNxc0lvNmIxX25Bd3hvWF94U3Y4NHRhdHZDQlR2NS1UMlE0WjFSamFabGg5RGxWTGZYOTAzOER3M25DTjhQc1prbW5RNzFxV0g2N1dEWEN6b3JmeEhZZ1M0Y1VTazZFTlNEdFdRSmpsMWUtTUstTVVrRHNNTHlmOVVQRGxvVEN2akE?oc=5\" target=\"_blank\">Silicon Ranch Announces Investments in Jefferson and Warren Counties to Support Georgia Power’s Clean and Renewable Energy Subscription Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">manilatimes.net</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T08:28:54+00:00"
+    },
+    {
       "id": "86c3aae7b1575703",
       "title": "Georgia Power Gets Approval For 1,137 MW Solar Power Purchase Agreements - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRllQV0JPZ2k2YjJ2OFNRU2tHbTVQOXZTSUJSSDczMGozMlRfaFd5Q3VGalBkOTBibGlFQ0QzTmctNGlYNDJPY3hnWFNqZVU0SXNCVUlFRmd2b0ptSWVuQzl6Z3R4eGNfYWJwZGVfaURmWTNwVUU0NUF4WnBMT0oyU3dxTGx2NUs5R3dWdE1WZ0xMUDA1YmI3UnMwU19JcmFpVHNsT0xBUndOV3dNdnVTc1FjTUhsTmthcVY3V0xFMUc3X2p6U2phaHpZMkJYYy15YjNqMjZLOHVidw?oc=5",
@@ -47,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-10T17:36:53+00:00"
+    },
+    {
+      "id": "16ba81434325e390",
+      "title": "Georgia Power Gets Approval For 1,137 MW Solar Power Purchase Agreements - tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRllQV0JPZ2k2YjJ2OFNRU2tHbTVQOXZTSUJSSDczMGozMlRfaFd5Q3VGalBkOTBibGlFQ0QzTmctNGlYNDJPY3hnWFNqZVU0SXNCVUlFRmd2b0ptSWVuQzl6Z3R4eGNfYWJwZGVfaURmWTNwVUU0NUF4WnBMT0oyU3dxTGx2NUs5R3dWdE1WZ0xMUDA1YmI3UnMwU19JcmFpVHNsT0xBUndOV3dNdnVTc1FjTUhsTmthcVY3V0xFMUc3X2p6U2phaHpZMkJYYy15YjNqMjZLOHVidw?oc=5",
+      "domain": "news.google.com",
+      "source": "tradingview.com",
+      "language": "English",
+      "published_at": "2026-09-10T14:45:44+00:00",
+      "summary": "Georgia Power Gets Approval For 1,137 MW Solar Power Purchase Agreements tradingview.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRllQV0JPZ2k2YjJ2OFNRU2tHbTVQOXZTSUJSSDczMGozMlRfaFd5Q3VGalBkOTBibGlFQ0QzTmctNGlYNDJPY3hnWFNqZVU0SXNCVUlFRmd2b0ptSWVuQzl6Z3R4eGNfYWJwZGVfaURmWTNwVUU0NUF4WnBMT0oyU3dxTGx2NUs5R3dWdE1WZ0xMUDA1YmI3UnMwU19JcmFpVHNsT0xBUndOV3dNdnVTc1FjTUhsTmthcVY3V0xFMUc3X2p6U2phaHpZMkJYYy15YjNqMjZLOHVidw?oc=5\" target=\"_blank\">Georgia Power Gets Approval For 1,137 MW Solar Power Purchase Agreements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tradingview.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-11T08:28:54+00:00"
     },
     {
       "id": "26f15f087765f92f",

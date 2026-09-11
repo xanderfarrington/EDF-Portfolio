@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T02:30:06+00:00",
+  "last_updated": "2026-09-11T08:29:05+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 357,
+      "count": 358,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "bd8cee358883d713",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 641,
+      "count": 644,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "b82023c480480cf6",
-        "title": "Georgia Power battery storage facility to boost Middle Georgia power reliability - 41NBC News",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUhKdnpPZ1A1WjNRWmFDdTl4ckRUZkdPcTlrbVF6YV9GZWIzUUVaTDgxRFdCMlhMbEN0bU5KckFuNURybDhVcHl4RkZvOWo1WmpkdU1aa3RoUHp1N3hUS2V3Qkc3ai02WVJJbmtqSzdSVkVaTVVtZWdnOW40aXJ4cF95bi01dUc0RVdiZnBtTE1kZGxkQ1NZYTlqOFVpQXZ1UkdJclFR?oc=5",
+        "id": "9787fca12be934a1",
+        "title": "Georgia Power gets approval for 1,137 MW of solar PPAs - Renewables Now",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkI2Zzh2bEZNWUUtMUVDQkpWVWxudlJPME1kcDlKWVBOUXdldEtCWVROcTFHQ29HS0tCNjhzemZsdXZVSHFRanBhcnFiT1VraEZKYXI4U0UwR2hua3U5TzlpRGZ1YzZpaTRlbUgzT3pUS3RhNnRxVmF1eGo0bWVGdmhjbDI1dTZJZTFTb1FYMEFqNWhaSWpiY25R?oc=5",
         "domain": "news.google.com",
-        "source": "41NBC News",
+        "source": "Renewables Now",
         "language": "English",
-        "published_at": "2026-09-10T21:18:12+00:00",
-        "summary": "Georgia Power battery storage facility to boost Middle Georgia power reliability 41NBC News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUhKdnpPZ1A1WjNRWmFDdTl4ckRUZkdPcTlrbVF6YV9GZWIzUUVaTDgxRFdCMlhMbEN0bU5KckFuNURybDhVcHl4RkZvOWo1WmpkdU1aa3RoUHp1N3hUS2V3Qkc3ai02WVJJbmtqSzdSVkVaTVVtZWdnOW40aXJ4cF95bi01dUc0RVdiZnBtTE1kZGxkQ1NZYTlqOFVpQXZ1UkdJclFR?oc=5\" target=\"_blank\">Georgia Power battery storage facility to boost Middle Georgia power reliability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">41NBC News</font>",
+        "published_at": "2026-09-11T08:23:38+00:00",
+        "summary": "Georgia Power gets approval for 1,137 MW of solar PPAs Renewables Now",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkI2Zzh2bEZNWUUtMUVDQkpWVWxudlJPME1kcDlKWVBOUXdldEtCWVROcTFHQ29HS0tCNjhzemZsdXZVSHFRanBhcnFiT1VraEZKYXI4U0UwR2hua3U5TzlpRGZ1YzZpaTRlbUgzT3pUS3RhNnRxVmF1eGo0bWVGdmhjbDI1dTZJZTFTb1FYMEFqNWhaSWpiY25R?oc=5\" target=\"_blank\">Georgia Power gets approval for 1,137 MW of solar PPAs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Renewables Now</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-10T23:37:16+00:00"
+        "collected_at": "2026-09-11T08:28:54+00:00"
       }
     },
     {
