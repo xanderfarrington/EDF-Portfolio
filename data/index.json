@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T13:18:15+00:00",
+  "last_updated": "2026-09-12T16:41:43+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 101,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 655,
+      "count": 656,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "71321e5b74f7c60d",
