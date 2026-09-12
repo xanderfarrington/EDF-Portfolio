@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-12T20:01:41+00:00",
+  "last_updated": "2026-09-12T23:39:15+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 656,
+  "count": 658,
   "mentions": [
+    {
+      "id": "c1f0ca4ce2244292",
+      "title": "Georgia power shutoffs cost more than AC, with spoiled food, lost work, and dangerous heat escalating - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFp4anZzMVNJdjh0cWlzSW1rS2w5SUdiSUk5NER6VHBjRG5DaDUwXzEzdDQyY1p5a1daRTRSUUpENkQyczJsTjVhN0RUaDhJX3d2Rk5ubGF1S05nSHdaekhpU2JRem5fX2dRdTNKY09iQjN0djB5VUxRU0hvalJFejN6UWswSWZabUk4cFY3TQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-09-12T20:47:00+00:00",
+      "summary": "Georgia power shutoffs cost more than AC, with spoiled food, lost work, and dangerous heat escalating Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFp4anZzMVNJdjh0cWlzSW1rS2w5SUdiSUk5NER6VHBjRG5DaDUwXzEzdDQyY1p5a1daRTRSUUpENkQyczJsTjVhN0RUaDhJX3d2Rk5ubGF1S05nSHdaekhpU2JRem5fX2dRdTNKY09iQjN0djB5VUxRU0hvalJFejN6UWswSWZabUk4cFY3TQ?oc=5\" target=\"_blank\">Georgia power shutoffs cost more than AC, with spoiled food, lost work, and dangerous heat escalating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-12T23:39:15+00:00"
+    },
     {
       "id": "71321e5b74f7c60d",
       "title": "Data centers must pay their way and government show its work | Opinion - Savannah Morning News",
@@ -47,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-11T13:59:28+00:00"
+    },
+    {
+      "id": "3162308ec8533f61",
+      "title": "Georgia Power receives approval for 1.14GW of solar PPAs - pv-tech.org",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcm1KdmFaU3BzaTk0bEZHbVExSFYxSnJLQk0wbklNZE1Oc0NzREN0SWIwQ1ZaQ2NhdDdOVEpFOFE2R0NKbmN0eWtjRE42SE9SaC1pbDRweFQzT2pUZ3hZVWs0YWRoQzltRnBpRk5OVkpFQ2VteHlSVVJTWmt1X1o4Q1RQTzBqcDR1?oc=5",
+      "domain": "news.google.com",
+      "source": "pv-tech.org",
+      "language": "English",
+      "published_at": "2026-09-11T11:28:00+00:00",
+      "summary": "Georgia Power receives approval for 1.14GW of solar PPAs pv-tech.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcm1KdmFaU3BzaTk0bEZHbVExSFYxSnJLQk0wbklNZE1Oc0NzREN0SWIwQ1ZaQ2NhdDdOVEpFOFE2R0NKbmN0eWtjRE42SE9SaC1pbDRweFQzT2pUZ3hZVWs0YWRoQzltRnBpRk5OVkpFQ2VteHlSVVJTWmt1X1o4Q1RQTzBqcDR1?oc=5\" target=\"_blank\">Georgia Power receives approval for 1.14GW of solar PPAs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv-tech.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-12T23:39:15+00:00"
     },
     {
       "id": "9b3d9727d6c1a3ff",

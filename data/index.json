@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T20:01:51+00:00",
+  "last_updated": "2026-09-12T23:39:25+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 656,
+      "count": 658,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "71321e5b74f7c60d",
-        "title": "Data centers must pay their way and government show its work | Opinion - Savannah Morning News",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmxjdDVmOGp5TmktbDBZMzgxemQ2QWhKS0xKS0JLcHRMdWQxXzhDQktUd0NpZU9iN3RyV1hscGluU1pVYm03NXdYUUxCMzRzOUIxYlJZUjRkUlA2TlRzTlFHMmFiWnkwQTZFUThKRnFaRENrTDZKWE1TNmdPQ1ZpNEpGWWJmODNkZ3RQcUtiY2hFay1lNDBoVGVaRzVMOG5fbDZQWm5qeUd0TWF5dzlvRUhxVTdDTDVGTzJRZ1VoRHBadw?oc=5",
+        "id": "c1f0ca4ce2244292",
+        "title": "Georgia power shutoffs cost more than AC, with spoiled food, lost work, and dangerous heat escalating - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFp4anZzMVNJdjh0cWlzSW1rS2w5SUdiSUk5NER6VHBjRG5DaDUwXzEzdDQyY1p5a1daRTRSUUpENkQyczJsTjVhN0RUaDhJX3d2Rk5ubGF1S05nSHdaekhpU2JRem5fX2dRdTNKY09iQjN0djB5VUxRU0hvalJFejN6UWswSWZabUk4cFY3TQ?oc=5",
         "domain": "news.google.com",
-        "source": "Savannah Morning News",
+        "source": "Yahoo",
         "language": "English",
-        "published_at": "2026-09-12T09:02:00+00:00",
-        "summary": "Data centers must pay their way and government show its work | Opinion Savannah Morning News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmxjdDVmOGp5TmktbDBZMzgxemQ2QWhKS0xKS0JLcHRMdWQxXzhDQktUd0NpZU9iN3RyV1hscGluU1pVYm03NXdYUUxCMzRzOUIxYlJZUjRkUlA2TlRzTlFHMmFiWnkwQTZFUThKRnFaRENrTDZKWE1TNmdPQ1ZpNEpGWWJmODNkZ3RQcUtiY2hFay1lNDBoVGVaRzVMOG5fbDZQWm5qeUd0TWF5dzlvRUhxVTdDTDVGTzJRZ1VoRHBadw?oc=5\" target=\"_blank\">Data centers must pay their way and government show its work | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+        "published_at": "2026-09-12T20:47:00+00:00",
+        "summary": "Georgia power shutoffs cost more than AC, with spoiled food, lost work, and dangerous heat escalating Yahoo",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFp4anZzMVNJdjh0cWlzSW1rS2w5SUdiSUk5NER6VHBjRG5DaDUwXzEzdDQyY1p5a1daRTRSUUpENkQyczJsTjVhN0RUaDhJX3d2Rk5ubGF1S05nSHdaekhpU2JRem5fX2dRdTNKY09iQjN0djB5VUxRU0hvalJFejN6UWswSWZabUk4cFY3TQ?oc=5\" target=\"_blank\">Georgia power shutoffs cost more than AC, with spoiled food, lost work, and dangerous heat escalating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-12T13:18:05+00:00"
+        "collected_at": "2026-09-12T23:39:15+00:00"
       }
     },
     {
