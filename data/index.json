@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T08:17:16+00:00",
+  "last_updated": "2026-09-12T13:18:15+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 30,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "addfbf3308caf432",
         "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 654,
+      "count": 655,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "5932ff5d61ac1bee",
-        "title": "Georgia Power secures approval for 1.1 GW solar PPAs - Solarbytes",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUZKSXlYX3pFb2I4WnU4Z3V6SjhkRm1XakdVdGFMeEFaS0JySFQzNFFOaVJkYzVmNVdwcjktQ0tMaWVLSzdoTl8wMzE1QVktbURDZjBkSDZoN3Q3LS1TdFJqeEhoRWJ3aW1qdDJWTlpLX1BvWEFkb0VKVll3M21IYVdRak1RTWc3cEdZWnZ0d296Q2hObGJSNUg4VDI0S1U5TGxpOEFnM2J5d0dtbExfQ1Vn?oc=5",
+        "id": "71321e5b74f7c60d",
+        "title": "Data centers must pay their way and government show its work | Opinion - Savannah Morning News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmxjdDVmOGp5TmktbDBZMzgxemQ2QWhKS0xKS0JLcHRMdWQxXzhDQktUd0NpZU9iN3RyV1hscGluU1pVYm03NXdYUUxCMzRzOUIxYlJZUjRkUlA2TlRzTlFHMmFiWnkwQTZFUThKRnFaRENrTDZKWE1TNmdPQ1ZpNEpGWWJmODNkZ3RQcUtiY2hFay1lNDBoVGVaRzVMOG5fbDZQWm5qeUd0TWF5dzlvRUhxVTdDTDVGTzJRZ1VoRHBadw?oc=5",
         "domain": "news.google.com",
-        "source": "Solarbytes",
+        "source": "Savannah Morning News",
         "language": "English",
-        "published_at": "2026-09-11T14:25:06+00:00",
-        "summary": "Georgia Power secures approval for 1.1 GW solar PPAs Solarbytes",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUZKSXlYX3pFb2I4WnU4Z3V6SjhkRm1XakdVdGFMeEFaS0JySFQzNFFOaVJkYzVmNVdwcjktQ0tMaWVLSzdoTl8wMzE1QVktbURDZjBkSDZoN3Q3LS1TdFJqeEhoRWJ3aW1qdDJWTlpLX1BvWEFkb0VKVll3M21IYVdRak1RTWc3cEdZWnZ0d296Q2hObGJSNUg4VDI0S1U5TGxpOEFnM2J5d0dtbExfQ1Vn?oc=5\" target=\"_blank\">Georgia Power secures approval for 1.1 GW solar PPAs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solarbytes</font>",
+        "published_at": "2026-09-12T09:02:00+00:00",
+        "summary": "Data centers must pay their way and government show its work | Opinion Savannah Morning News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmxjdDVmOGp5TmktbDBZMzgxemQ2QWhKS0xKS0JLcHRMdWQxXzhDQktUd0NpZU9iN3RyV1hscGluU1pVYm03NXdYUUxCMzRzOUIxYlJZUjRkUlA2TlRzTlFHMmFiWnkwQTZFUThKRnFaRENrTDZKWE1TNmdPQ1ZpNEpGWWJmODNkZ3RQcUtiY2hFay1lNDBoVGVaRzVMOG5fbDZQWm5qeUd0TWF5dzlvRUhxVTdDTDVGTzJRZ1VoRHBadw?oc=5\" target=\"_blank\">Data centers must pay their way and government show its work | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-11T17:39:12+00:00"
+        "collected_at": "2026-09-12T13:18:05+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 57,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "26c14d0218c5b451",
         "title": "White & Case advises the Office of Energy Dominance Financing on US$1.917 billion in loans for Iowa nuclear power plant - White & Case LLP",

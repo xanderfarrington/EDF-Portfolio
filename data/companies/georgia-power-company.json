@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-12T08:17:05+00:00",
+  "last_updated": "2026-09-12T13:18:05+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 654,
+  "count": 655,
   "mentions": [
+    {
+      "id": "71321e5b74f7c60d",
+      "title": "Data centers must pay their way and government show its work | Opinion - Savannah Morning News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmxjdDVmOGp5TmktbDBZMzgxemQ2QWhKS0xKS0JLcHRMdWQxXzhDQktUd0NpZU9iN3RyV1hscGluU1pVYm03NXdYUUxCMzRzOUIxYlJZUjRkUlA2TlRzTlFHMmFiWnkwQTZFUThKRnFaRENrTDZKWE1TNmdPQ1ZpNEpGWWJmODNkZ3RQcUtiY2hFay1lNDBoVGVaRzVMOG5fbDZQWm5qeUd0TWF5dzlvRUhxVTdDTDVGTzJRZ1VoRHBadw?oc=5",
+      "domain": "news.google.com",
+      "source": "Savannah Morning News",
+      "language": "English",
+      "published_at": "2026-09-12T09:02:00+00:00",
+      "summary": "Data centers must pay their way and government show its work | Opinion Savannah Morning News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmxjdDVmOGp5TmktbDBZMzgxemQ2QWhKS0xKS0JLcHRMdWQxXzhDQktUd0NpZU9iN3RyV1hscGluU1pVYm03NXdYUUxCMzRzOUIxYlJZUjRkUlA2TlRzTlFHMmFiWnkwQTZFUThKRnFaRENrTDZKWE1TNmdPQ1ZpNEpGWWJmODNkZ3RQcUtiY2hFay1lNDBoVGVaRzVMOG5fbDZQWm5qeUd0TWF5dzlvRUhxVTdDTDVGTzJRZ1VoRHBadw?oc=5\" target=\"_blank\">Data centers must pay their way and government show its work | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-12T13:18:05+00:00"
+    },
     {
       "id": "5932ff5d61ac1bee",
       "title": "Georgia Power secures approval for 1.1 GW solar PPAs - Solarbytes",
