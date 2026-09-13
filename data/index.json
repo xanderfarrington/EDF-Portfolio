@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-13T18:28:19+00:00",
+  "last_updated": "2026-09-13T22:00:28+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 94,
-      "new_mentions_this_run": 5,
+      "count": 96,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "3eb5f5e43d128539",
         "title": "American Electric Power Company Inc Share Price - AEP, RNS News, Articles, Quotes, & Charts (NASDAQ:AEP) - Proactive financial news",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 370,
+      "count": 371,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "65b46d48ab9b023b",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 659,
+      "count": 660,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "c1f0ca4ce2244292",
-        "title": "Georgia power shutoffs cost more than AC, with spoiled food, lost work, and dangerous heat escalating - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFp4anZzMVNJdjh0cWlzSW1rS2w5SUdiSUk5NER6VHBjRG5DaDUwXzEzdDQyY1p5a1daRTRSUUpENkQyczJsTjVhN0RUaDhJX3d2Rk5ubGF1S05nSHdaekhpU2JRem5fX2dRdTNKY09iQjN0djB5VUxRU0hvalJFejN6UWswSWZabUk4cFY3TQ?oc=5",
+        "id": "a5d10ce0308f8d3c",
+        "title": "New Georgia solar projects are scheduled to start operation by 2029 - WSB-TV",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnVwd1ZXSnAtako4UzJfUlN3R05McENTbWR2MkVTbUNfTG5DbndidUZkaXZzcUxkNzZRUWNWdENuNzhRazNxUWpJeVYtNEZIdEhIeExrd2Y2TENFTC14RWJiR0w0cVVCVWx6SXJDU3NydXpUc2ZUQkEtN2NmeUJCNVFkOG9xU2hPYXhIYVVrTDIzZkFtNHQ1QkVrQnpBMy1aWnYzQjJxVm9TQ0dPT3lTaFZLWlpJQUtwY0tuMmxNN1FFSUFiR2dMLTlOOXN5d9IB4gFBVV95cUxQcDFvUklsSEd5NktzeVlBcU9xcjhZSWdlNlNtQlV3dm81ZkN0SXRDbHVFYUVieHR4MnNvRlc3aGthXzhTSW9Md1VodGJya0x1OEtvSjJTcFVfNUg2VEhLZk9BT05Kd2hLSGpkOWNjNjFmSVd4U0xmYnR2aTFvWHRQX24zN2ZfdjdKQm5qQ1lsWHcyQXcybm9CdUFCMW5mNWkyeWdMNF9DbVlLUml0NkhVWVhkVlFvV1A0MFpmaHE3c2xUcGZTNUJRTXJRVGJfSERqUDZ1STA2YURTOHRrM2VwYVlB?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo",
+        "source": "WSB-TV",
         "language": "English",
-        "published_at": "2026-09-12T20:47:00+00:00",
-        "summary": "Georgia power shutoffs cost more than AC, with spoiled food, lost work, and dangerous heat escalating Yahoo",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFp4anZzMVNJdjh0cWlzSW1rS2w5SUdiSUk5NER6VHBjRG5DaDUwXzEzdDQyY1p5a1daRTRSUUpENkQyczJsTjVhN0RUaDhJX3d2Rk5ubGF1S05nSHdaekhpU2JRem5fX2dRdTNKY09iQjN0djB5VUxRU0hvalJFejN6UWswSWZabUk4cFY3TQ?oc=5\" target=\"_blank\">Georgia power shutoffs cost more than AC, with spoiled food, lost work, and dangerous heat escalating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "published_at": "2026-09-13T19:01:15+00:00",
+        "summary": "New Georgia solar projects are scheduled to start operation by 2029 WSB-TV",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnVwd1ZXSnAtako4UzJfUlN3R05McENTbWR2MkVTbUNfTG5DbndidUZkaXZzcUxkNzZRUWNWdENuNzhRazNxUWpJeVYtNEZIdEhIeExrd2Y2TENFTC14RWJiR0w0cVVCVWx6SXJDU3NydXpUc2ZUQkEtN2NmeUJCNVFkOG9xU2hPYXhIYVVrTDIzZkFtNHQ1QkVrQnpBMy1aWnYzQjJxVm9TQ0dPT3lTaFZLWlpJQUtwY0tuMmxNN1FFSUFiR2dMLTlOOXN5d9IB4gFBVV95cUxQcDFvUklsSEd5NktzeVlBcU9xcjhZSWdlNlNtQlV3dm81ZkN0SXRDbHVFYUVieHR4MnNvRlc3aGthXzhTSW9Md1VodGJya0x1OEtvSjJTcFVfNUg2VEhLZk9BT05Kd2hLSGpkOWNjNjFmSVd4U0xmYnR2aTFvWHRQX24zN2ZfdjdKQm5qQ1lsWHcyQXcybm9CdUFCMW5mNWkyeWdMNF9DbVlLUml0NkhVWVhkVlFvV1A0MFpmaHE3c2xUcGZTNUJRTXJRVGJfSERqUDZ1STA2YURTOHRrM2VwYVlB?oc=5\" target=\"_blank\">New Georgia solar projects are scheduled to start operation by 2029</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-12T23:39:15+00:00"
+        "collected_at": "2026-09-13T22:00:17+00:00"
       }
     },
     {

@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-13T18:28:08+00:00",
+  "last_updated": "2026-09-13T22:00:17+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 659,
+  "count": 660,
   "mentions": [
+    {
+      "id": "a5d10ce0308f8d3c",
+      "title": "New Georgia solar projects are scheduled to start operation by 2029 - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnVwd1ZXSnAtako4UzJfUlN3R05McENTbWR2MkVTbUNfTG5DbndidUZkaXZzcUxkNzZRUWNWdENuNzhRazNxUWpJeVYtNEZIdEhIeExrd2Y2TENFTC14RWJiR0w0cVVCVWx6SXJDU3NydXpUc2ZUQkEtN2NmeUJCNVFkOG9xU2hPYXhIYVVrTDIzZkFtNHQ1QkVrQnpBMy1aWnYzQjJxVm9TQ0dPT3lTaFZLWlpJQUtwY0tuMmxNN1FFSUFiR2dMLTlOOXN5d9IB4gFBVV95cUxQcDFvUklsSEd5NktzeVlBcU9xcjhZSWdlNlNtQlV3dm81ZkN0SXRDbHVFYUVieHR4MnNvRlc3aGthXzhTSW9Md1VodGJya0x1OEtvSjJTcFVfNUg2VEhLZk9BT05Kd2hLSGpkOWNjNjFmSVd4U0xmYnR2aTFvWHRQX24zN2ZfdjdKQm5qQ1lsWHcyQXcybm9CdUFCMW5mNWkyeWdMNF9DbVlLUml0NkhVWVhkVlFvV1A0MFpmaHE3c2xUcGZTNUJRTXJRVGJfSERqUDZ1STA2YURTOHRrM2VwYVlB?oc=5",
+      "domain": "news.google.com",
+      "source": "WSB-TV",
+      "language": "English",
+      "published_at": "2026-09-13T19:01:15+00:00",
+      "summary": "New Georgia solar projects are scheduled to start operation by 2029 WSB-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnVwd1ZXSnAtako4UzJfUlN3R05McENTbWR2MkVTbUNfTG5DbndidUZkaXZzcUxkNzZRUWNWdENuNzhRazNxUWpJeVYtNEZIdEhIeExrd2Y2TENFTC14RWJiR0w0cVVCVWx6SXJDU3NydXpUc2ZUQkEtN2NmeUJCNVFkOG9xU2hPYXhIYVVrTDIzZkFtNHQ1QkVrQnpBMy1aWnYzQjJxVm9TQ0dPT3lTaFZLWlpJQUtwY0tuMmxNN1FFSUFiR2dMLTlOOXN5d9IB4gFBVV95cUxQcDFvUklsSEd5NktzeVlBcU9xcjhZSWdlNlNtQlV3dm81ZkN0SXRDbHVFYUVieHR4MnNvRlc3aGthXzhTSW9Md1VodGJya0x1OEtvSjJTcFVfNUg2VEhLZk9BT05Kd2hLSGpkOWNjNjFmSVd4U0xmYnR2aTFvWHRQX24zN2ZfdjdKQm5qQ1lsWHcyQXcybm9CdUFCMW5mNWkyeWdMNF9DbVlLUml0NkhVWVhkVlFvV1A0MFpmaHE3c2xUcGZTNUJRTXJRVGJfSERqUDZ1STA2YURTOHRrM2VwYVlB?oc=5\" target=\"_blank\">New Georgia solar projects are scheduled to start operation by 2029</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-13T22:00:17+00:00"
+    },
     {
       "id": "c1f0ca4ce2244292",
       "title": "Georgia power shutoffs cost more than AC, with spoiled food, lost work, and dangerous heat escalating - Yahoo",

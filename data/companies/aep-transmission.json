@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-09-13T18:27:45+00:00",
+  "last_updated": "2026-09-13T21:59:55+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 94,
+  "count": 96,
   "mentions": [
     {
       "id": "3eb5f5e43d128539",
@@ -19,6 +19,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-13T18:27:45+00:00"
+    },
+    {
+      "id": "e3917d79eb2864de",
+      "title": "American Electric Power Company Inc Share Price - AEP, RNS News, Articles, Quotes, & Charts (NASDAQ:AEP) - proactiveinvestors.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHFsYUdlTENXaUdXR05lSFRyQzVObzAxQzhwOGlpME1xc1J5bnpMNC1XandKOVN5UlBtMWQ5dHRySXVxekFsNVI2dHpzSlJFNk5ieFBOeWRMWDhOal85RUFNVVA2akpFdlptZ2xVWHloNnRKRUlnR3c5M21pbktaZVVtS09ZUnh4TDh5WWhR?oc=5",
+      "domain": "news.google.com",
+      "source": "proactiveinvestors.com",
+      "language": "English",
+      "published_at": "2026-09-13T13:38:53+00:00",
+      "summary": "American Electric Power Company Inc Share Price - AEP, RNS News, Articles, Quotes, & Charts (NASDAQ:AEP) proactiveinvestors.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHFsYUdlTENXaUdXR05lSFRyQzVObzAxQzhwOGlpME1xc1J5bnpMNC1XandKOVN5UlBtMWQ5dHRySXVxekFsNVI2dHpzSlJFNk5ieFBOeWRMWDhOal85RUFNVVA2akpFdlptZ2xVWHloNnRKRUlnR3c5M21pbktaZVVtS09ZUnh4TDh5WWhR?oc=5\" target=\"_blank\">American Electric Power Company Inc Share Price - AEP, RNS News, Articles, Quotes, & Charts (NASDAQ:AEP)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">proactiveinvestors.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-13T21:59:55+00:00"
+    },
+    {
+      "id": "626bc0136176cf4b",
+      "title": "PJM approves 765-kV transmission buildout to support surging demand in central Ohio - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ3NZendPdlFqUDhjQy1lX1h5Uk1MYngyNXdfaktNeTdzNm52OEltbzNsMktRWHpQWEFmcGotWEI2LVVKdm1GUEdHVDE3YWtlNVJDYTdrVGJYSFl5NmctRXFHZl9WVlNNNHFPNjBTcXZ1Y0JGMUlnckRzUkZOTXdrWnduWFNQWXZ0VFAycVVUY1l0RGFJd0FueE9vYV9FSlpiOXhYMzBkcTJuVDB3M3BETVRaLXJ4WXZ0U3p2X1JwNTdsaVhVMHlV?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-09-12T04:29:14+00:00",
+      "summary": "PJM approves 765-kV transmission buildout to support surging demand in central Ohio Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ3NZendPdlFqUDhjQy1lX1h5Uk1MYngyNXdfaktNeTdzNm52OEltbzNsMktRWHpQWEFmcGotWEI2LVVKdm1GUEdHVDE3YWtlNVJDYTdrVGJYSFl5NmctRXFHZl9WVlNNNHFPNjBTcXZ1Y0JGMUlnckRzUkZOTXdrWnduWFNQWXZ0VFAycVVUY1l0RGFJd0FueE9vYV9FSlpiOXhYMzBkcTJuVDB3M3BETVRaLXJ4WXZ0U3p2X1JwNTdsaVhVMHlV?oc=5\" target=\"_blank\">PJM approves 765-kV transmission buildout to support surging demand in central Ohio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-13T21:59:55+00:00"
     },
     {
       "id": "5aa606b38bf30b81",

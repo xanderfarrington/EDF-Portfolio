@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-13T18:27:50+00:00",
+  "last_updated": "2026-09-13T22:00:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 370,
+  "count": 371,
   "mentions": [
     {
       "id": "65b46d48ab9b023b",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-11T17:38:55+00:00"
+    },
+    {
+      "id": "ce369a9f2e9d4233",
+      "title": "Alabama Power Brings Electrical Safety Training To Prattville First Responders - elmoreautauganews.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbTZMaGo3WG1ScGN2VWhfeHFJTk1aYW1OZGRpRjVyWDBmV2xhdnVmVDVnZHh5aTBYbW5taThEVGZSVzBfSnlSWWpLU0VpZ3B2RXk4T0xRYmVKVzFDNHJKMFUydjJJSnF6bU5xMVpESHB3djNYbG95VC1rLVJyTmZyZEJWTXZsR251WDBrZHFybXdzd2UySWE2Wjd1Mlo2bENvYURVUFY5aTU0ZVNxWUE1NTFWVjJrNDFqeW9xUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "elmoreautauganews.com",
+      "language": "English",
+      "published_at": "2026-09-11T13:37:15+00:00",
+      "summary": "Alabama Power Brings Electrical Safety Training To Prattville First Responders elmoreautauganews.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbTZMaGo3WG1ScGN2VWhfeHFJTk1aYW1OZGRpRjVyWDBmV2xhdnVmVDVnZHh5aTBYbW5taThEVGZSVzBfSnlSWWpLU0VpZ3B2RXk4T0xRYmVKVzFDNHJKMFUydjJJSnF6bU5xMVpESHB3djNYbG95VC1rLVJyTmZyZEJWTXZsR251WDBrZHFybXdzd2UySWE2Wjd1Mlo2bENvYURVUFY5aTU0ZVNxWUE1NTFWVjJrNDFqeW9xUQ?oc=5\" target=\"_blank\">Alabama Power Brings Electrical Safety Training To Prattville First Responders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elmoreautauganews.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-13T22:00:01+00:00"
     },
     {
       "id": "ce82429b80283b0b",
