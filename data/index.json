@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T08:41:48+00:00",
+  "last_updated": "2026-09-13T14:01:11+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 368,
+      "count": 370,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "a355ce9ba785e957",
-        "title": "Alabama Power Brings Electrical Safety Training To Prattville First Responders - Elmore-Autauga News",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbTZMaGo3WG1ScGN2VWhfeHFJTk1aYW1OZGRpRjVyWDBmV2xhdnVmVDVnZHh5aTBYbW5taThEVGZSVzBfSnlSWWpLU0VpZ3B2RXk4T0xRYmVKVzFDNHJKMFUydjJJSnF6bU5xMVpESHB3djNYbG95VC1rLVJyTmZyZEJWTXZsR251WDBrZHFybXdzd2UySWE2Wjd1Mlo2bENvYURVUFY5aTU0ZVNxWUE1NTFWVjJrNDFqeW9xUQ?oc=5",
+        "id": "65b46d48ab9b023b",
+        "title": "The Alabama Legislature Was on a Collision Course With Alabama Power. Then Came Spring Break. - Inside Climate News",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWTdqcFF0RXd6YXhLS2VpWlBSNGNvLXYzenlJSjFqWHNhblo3dTV0a3NQd0ZvN3lUeGFtOHJoQkUtd3VKM01mdncyeHB1akdBem52cmJIaGhLMlhMRFVQX1BHRUlCdVNPOTVjZzJtcHRaMlkzTTBTUkZKQVhlemV6UHF2V2xiVW5fd0ZoS0l0MkhoUU5CaVltLTRlWmRqMjFPMVkyQmlCdHZfQTA?oc=5",
         "domain": "news.google.com",
-        "source": "Elmore-Autauga News",
+        "source": "Inside Climate News",
         "language": "English",
-        "published_at": "2026-09-11T13:37:15+00:00",
-        "summary": "Alabama Power Brings Electrical Safety Training To Prattville First Responders Elmore-Autauga News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbTZMaGo3WG1ScGN2VWhfeHFJTk1aYW1OZGRpRjVyWDBmV2xhdnVmVDVnZHh5aTBYbW5taThEVGZSVzBfSnlSWWpLU0VpZ3B2RXk4T0xRYmVKVzFDNHJKMFUydjJJSnF6bU5xMVpESHB3djNYbG95VC1rLVJyTmZyZEJWTXZsR251WDBrZHFybXdzd2UySWE2Wjd1Mlo2bENvYURVUFY5aTU0ZVNxWUE1NTFWVjJrNDFqeW9xUQ?oc=5\" target=\"_blank\">Alabama Power Brings Electrical Safety Training To Prattville First Responders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elmore-Autauga News</font>",
+        "published_at": "2026-09-13T09:05:00+00:00",
+        "summary": "The Alabama Legislature Was on a Collision Course With Alabama Power. Then Came Spring Break. Inside Climate News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWTdqcFF0RXd6YXhLS2VpWlBSNGNvLXYzenlJSjFqWHNhblo3dTV0a3NQd0ZvN3lUeGFtOHJoQkUtd3VKM01mdncyeHB1akdBem52cmJIaGhLMlhMRFVQX1BHRUlCdVNPOTVjZzJtcHRaMlkzTTBTUkZKQVhlemV6UHF2V2xiVW5fd0ZoS0l0MkhoUU5CaVltLTRlWmRqMjFPMVkyQmlCdHZfQTA?oc=5\" target=\"_blank\">The Alabama Legislature Was on a Collision Course With Alabama Power. Then Came Spring Break.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-11T17:38:55+00:00"
+        "collected_at": "2026-09-13T14:00:44+00:00"
       }
     },
     {
