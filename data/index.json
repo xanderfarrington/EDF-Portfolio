@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-09-13T14:01:11+00:00",
+  "last_updated": "2026-09-13T18:28:19+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 93,
+      "count": 94,
       "new_mentions_this_run": 5,
       "latest_mention": {
-        "id": "5aa606b38bf30b81",
-        "title": "Washington County residents attend public meeting about proposed AEP transmission line - fox23.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzR0Ukk0bHFuSUxXSGF3bjF5TFJxSE82MXctaTQtTjdpZmVPeVh0aXhoYlNCVVNlSkN4TVI1dDJ5OE1kX0hMZ0dtbkpjVkVITG5qVFN1Ti1GWV8zR1BCUjY1blE5RzB5bTRWQjNxUW5QSjZJalZja0hNMXZXZ1d3OVM5aTh3UmNhQzRJV3dzdkdXUTFabjVub3ZRTk1oazNPYkhRTlBaeE50YXo2ZlF2T1RGYWUxUQ?oc=5",
+        "id": "3eb5f5e43d128539",
+        "title": "American Electric Power Company Inc Share Price - AEP, RNS News, Articles, Quotes, & Charts (NASDAQ:AEP) - Proactive financial news",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHFsYUdlTENXaUdXR05lSFRyQzVObzAxQzhwOGlpME1xc1J5bnpMNC1XandKOVN5UlBtMWQ5dHRySXVxekFsNVI2dHpzSlJFNk5ieFBOeWRMWDhOal85RUFNVVA2akpFdlptZ2xVWHloNnRKRUlnR3c5M21pbktaZVVtS09ZUnh4TDh5WWhR?oc=5",
         "domain": "news.google.com",
-        "source": "fox23.com",
+        "source": "Proactive financial news",
         "language": "English",
-        "published_at": "2026-09-10T03:51:45+00:00",
-        "summary": "Washington County residents attend public meeting about proposed AEP transmission line fox23.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzR0Ukk0bHFuSUxXSGF3bjF5TFJxSE82MXctaTQtTjdpZmVPeVh0aXhoYlNCVVNlSkN4TVI1dDJ5OE1kX0hMZ0dtbkpjVkVITG5qVFN1Ti1GWV8zR1BCUjY1blE5RzB5bTRWQjNxUW5QSjZJalZja0hNMXZXZ1d3OVM5aTh3UmNhQzRJV3dzdkdXUTFabjVub3ZRTk1oazNPYkhRTlBaeE50YXo2ZlF2T1RGYWUxUQ?oc=5\" target=\"_blank\">Washington County residents attend public meeting about proposed AEP transmission line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox23.com</font>",
+        "published_at": "2026-09-13T13:38:53+00:00",
+        "summary": "American Electric Power Company Inc Share Price - AEP, RNS News, Articles, Quotes, & Charts (NASDAQ:AEP) Proactive financial news",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHFsYUdlTENXaUdXR05lSFRyQzVObzAxQzhwOGlpME1xc1J5bnpMNC1XandKOVN5UlBtMWQ5dHRySXVxekFsNVI2dHpzSlJFNk5ieFBOeWRMWDhOal85RUFNVVA2akpFdlptZ2xVWHloNnRKRUlnR3c5M21pbktaZVVtS09ZUnh4TDh5WWhR?oc=5\" target=\"_blank\">American Electric Power Company Inc Share Price - AEP, RNS News, Articles, Quotes, & Charts (NASDAQ:AEP)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Proactive financial news</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-10T08:33:58+00:00"
+        "collected_at": "2026-09-13T18:27:45+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 658,
+      "count": 659,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "c1f0ca4ce2244292",

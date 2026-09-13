@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-13T14:01:00+00:00",
+  "last_updated": "2026-09-13T18:28:08+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 658,
+  "count": 659,
   "mentions": [
     {
       "id": "c1f0ca4ce2244292",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-11T17:39:12+00:00"
+    },
+    {
+      "id": "6009fb4b03aa8797",
+      "title": "Georgia Power secures approval for 1.1 GW solar PPAs - solarbytes.info",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUZKSXlYX3pFb2I4WnU4Z3V6SjhkRm1XakdVdGFMeEFaS0JySFQzNFFOaVJkYzVmNVdwcjktQ0tMaWVLSzdoTl8wMzE1QVktbURDZjBkSDZoN3Q3LS1TdFJqeEhoRWJ3aW1qdDJWTlpLX1BvWEFkb0VKVll3M21IYVdRak1RTWc3cEdZWnZ0d296Q2hObGJSNUg4VDI0S1U5TGxpOEFnM2J5d0dtbExfQ1Vn?oc=5",
+      "domain": "news.google.com",
+      "source": "solarbytes.info",
+      "language": "English",
+      "published_at": "2026-09-11T14:25:06+00:00",
+      "summary": "Georgia Power secures approval for 1.1 GW solar PPAs solarbytes.info",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUZKSXlYX3pFb2I4WnU4Z3V6SjhkRm1XakdVdGFMeEFaS0JySFQzNFFOaVJkYzVmNVdwcjktQ0tMaWVLSzdoTl8wMzE1QVktbURDZjBkSDZoN3Q3LS1TdFJqeEhoRWJ3aW1qdDJWTlpLX1BvWEFkb0VKVll3M21IYVdRak1RTWc3cEdZWnZ0d296Q2hObGJSNUg4VDI0S1U5TGxpOEFnM2J5d0dtbExfQ1Vn?oc=5\" target=\"_blank\">Georgia Power secures approval for 1.1 GW solar PPAs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">solarbytes.info</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-13T18:28:08+00:00"
     },
     {
       "id": "c012b0d1e3a3e8d3",

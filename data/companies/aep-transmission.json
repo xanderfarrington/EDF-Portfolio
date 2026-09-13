@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-09-13T14:00:38+00:00",
+  "last_updated": "2026-09-13T18:27:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 93,
+  "count": 94,
   "mentions": [
+    {
+      "id": "3eb5f5e43d128539",
+      "title": "American Electric Power Company Inc Share Price - AEP, RNS News, Articles, Quotes, & Charts (NASDAQ:AEP) - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHFsYUdlTENXaUdXR05lSFRyQzVObzAxQzhwOGlpME1xc1J5bnpMNC1XandKOVN5UlBtMWQ5dHRySXVxekFsNVI2dHpzSlJFNk5ieFBOeWRMWDhOal85RUFNVVA2akpFdlptZ2xVWHloNnRKRUlnR3c5M21pbktaZVVtS09ZUnh4TDh5WWhR?oc=5",
+      "domain": "news.google.com",
+      "source": "Proactive financial news",
+      "language": "English",
+      "published_at": "2026-09-13T13:38:53+00:00",
+      "summary": "American Electric Power Company Inc Share Price - AEP, RNS News, Articles, Quotes, & Charts (NASDAQ:AEP) Proactive financial news",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHFsYUdlTENXaUdXR05lSFRyQzVObzAxQzhwOGlpME1xc1J5bnpMNC1XandKOVN5UlBtMWQ5dHRySXVxekFsNVI2dHpzSlJFNk5ieFBOeWRMWDhOal85RUFNVVA2akpFdlptZ2xVWHloNnRKRUlnR3c5M21pbktaZVVtS09ZUnh4TDh5WWhR?oc=5\" target=\"_blank\">American Electric Power Company Inc Share Price - AEP, RNS News, Articles, Quotes, & Charts (NASDAQ:AEP)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Proactive financial news</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-13T18:27:45+00:00"
+    },
     {
       "id": "5aa606b38bf30b81",
       "title": "Washington County residents attend public meeting about proposed AEP transmission line - fox23.com",
