@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-14T00:01:29+00:00",
+  "last_updated": "2026-09-14T07:26:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 371,
+  "count": 373,
   "mentions": [
     {
       "id": "65b46d48ab9b023b",
@@ -147,6 +147,20 @@
       "collected_at": "2026-09-10T23:37:00+00:00"
     },
     {
+      "id": "e6c332488ae2f12a",
+      "title": "Ruling pending after two-day hearing in Fenn Church, Alabama Power dispute - abc3340.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSV9femM2QkkzbUFpSGxtb1lrRlZFYU9OYWxMR0g4VUFBMlplbVF2SVFUVnJCbG1aSnlyWk5sQWlJWUdrekQyTnNwenQ4WnRQV29pWHVQaU1pby1wMmk3RXZRZWpObU9LM0E5S09wUmhGMDkxckEzYVkyNnpBcW1vdGpyRzNSWC1mM1lVTmNQMEJyd19vQ0FGTEVHWTB1c0FMTXpiTXJhSQ?oc=5",
+      "domain": "news.google.com",
+      "source": "abc3340.com",
+      "language": "English",
+      "published_at": "2026-09-10T22:16:20+00:00",
+      "summary": "Ruling pending after two-day hearing in Fenn Church, Alabama Power dispute abc3340.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSV9femM2QkkzbUFpSGxtb1lrRlZFYU9OYWxMR0g4VUFBMlplbVF2SVFUVnJCbG1aSnlyWk5sQWlJWUdrekQyTnNwenQ4WnRQV29pWHVQaU1pby1wMmk3RXZRZWpObU9LM0E5S09wUmhGMDkxckEzYVkyNnpBcW1vdGpyRzNSWC1mM1lVTmNQMEJyd19vQ0FGTEVHWTB1c0FMTXpiTXJhSQ?oc=5\" target=\"_blank\">Ruling pending after two-day hearing in Fenn Church, Alabama Power dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abc3340.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-14T07:26:56+00:00"
+    },
+    {
       "id": "89cda2e861e1227f",
       "title": "Judge to decide if Alabama Power can build transmission lines through Shelby County backyard - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOThEaFJWYmRGd2tCZ3R3YXZna0xVNl8xWHhZZlNRbVRLWjdHMHB5MFMxQllzZFVvNUE5SWpWaHBQOXFBUF9LMGNJSGgyOFgzSlZQQi1tQmFKYTNxOUNhWHpnRFFpTWRHLUlwemZORXY3WDJQVnFvTHJkeXUxNjJraWJqUHhLanNidGJsX0dMWQ?oc=5",
@@ -271,6 +285,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-10T02:35:50+00:00"
+    },
+    {
+      "id": "cbf7436e85c0f4a4",
+      "title": "Court hearing continues in dispute between Shelby County property owner, Alabama Power - abc3340.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXBDT0VBX1o2WkhTUVZHZEhDdm1LZHdPQlZsQXlLRXF2RFA4d3QwSnY3MVhCeDB1bkxMRlk3aUs3S2V2eUVhVDk0ZldBaWxBcmliNEp4OE13eGxkV0t3M2tZelB1Q29kaDJzbC0xVXNzaC11enBKNjFCMDlFQXhBNjRiUldEaHFZTFFSZTJxTGRTRTdINjAxT1BCal91NmloMnA0NWEzX0F2S284Q0N1MzFrVlFTVnhyRnNxMzF2RktHMlV4eURlWjBCV0gySnZo?oc=5",
+      "domain": "news.google.com",
+      "source": "abc3340.com",
+      "language": "English",
+      "published_at": "2026-09-09T23:31:08+00:00",
+      "summary": "Court hearing continues in dispute between Shelby County property owner, Alabama Power abc3340.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXBDT0VBX1o2WkhTUVZHZEhDdm1LZHdPQlZsQXlLRXF2RFA4d3QwSnY3MVhCeDB1bkxMRlk3aUs3S2V2eUVhVDk0ZldBaWxBcmliNEp4OE13eGxkV0t3M2tZelB1Q29kaDJzbC0xVXNzaC11enBKNjFCMDlFQXhBNjRiUldEaHFZTFFSZTJxTGRTRTdINjAxT1BCal91NmloMnA0NWEzX0F2S284Q0N1MzFrVlFTVnhyRnNxMzF2RktHMlV4eURlWjBCV0gySnZo?oc=5\" target=\"_blank\">Court hearing continues in dispute between Shelby County property owner, Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abc3340.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-14T07:26:56+00:00"
     },
     {
       "id": "15a2b15ee1525355",
