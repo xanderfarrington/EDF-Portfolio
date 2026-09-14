@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-14T07:27:13+00:00",
+  "last_updated": "2026-09-14T14:38:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 660,
+  "count": 662,
   "mentions": [
+    {
+      "id": "2137bdad6f9aa75c",
+      "title": "Georgia Power encourages customers to take action during National Preparedness Month - Grice Connect",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVdOQ29WQ2hFOEZIbS0zanBvMnYwWk1BMENGUDZyZS1XUWJ4TFp2RS1SajU2SXVRWHZmcjlkSzBfWG5NUUhMclY0Yk1MYVNMWk5FRFM5UHhKc3JfQXhFaFFnWmpqazZ0dzQ3UWZwQ01ZVGJzcGFvVnZoemdmdTVNeWVFdnRJbWxfMFpwSjhQZXctSmRnbm01NXZVNGQwMV8waHRrb05wS1VfelVsaU0xbjh2cmtvTWo4SFlhR3VlUmRuWmJWWG5WSXlvc3A2d9IB0wFBVV95cUxOQ2F0R29GNXhWSENsSDc3dXFsTzFSOE9KRm9jX1VTY09WdkdSWklDMFhnb2xlODdyWHRIQVEwbnV0bHJoNmtMRDk3a0xBNEhHd2N3V0lXZU1KSHV1eXUzN09pX3FiMEtfMlM1WHhONUtGLUhkWU1rS042OGdqOVFZaW1BYUxNbGI3NmtLZGZ4MnlFWEdaR0MxYWhHeGFHUzAwNWMzektEaklZamJNVjF4UzVLRjBrYXRBcE5kS2sxS3I5YXZiaUM4c05tbVdjQnFIZGFv?oc=5",
+      "domain": "news.google.com",
+      "source": "Grice Connect",
+      "language": "English",
+      "published_at": "2026-09-14T14:10:00+00:00",
+      "summary": "Georgia Power encourages customers to take action during National Preparedness Month Grice Connect",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVdOQ29WQ2hFOEZIbS0zanBvMnYwWk1BMENGUDZyZS1XUWJ4TFp2RS1SajU2SXVRWHZmcjlkSzBfWG5NUUhMclY0Yk1MYVNMWk5FRFM5UHhKc3JfQXhFaFFnWmpqazZ0dzQ3UWZwQ01ZVGJzcGFvVnZoemdmdTVNeWVFdnRJbWxfMFpwSjhQZXctSmRnbm01NXZVNGQwMV8waHRrb05wS1VfelVsaU0xbjh2cmtvTWo4SFlhR3VlUmRuWmJWWG5WSXlvc3A2d9IB0wFBVV95cUxOQ2F0R29GNXhWSENsSDc3dXFsTzFSOE9KRm9jX1VTY09WdkdSWklDMFhnb2xlODdyWHRIQVEwbnV0bHJoNmtMRDk3a0xBNEhHd2N3V0lXZU1KSHV1eXUzN09pX3FiMEtfMlM1WHhONUtGLUhkWU1rS042OGdqOVFZaW1BYUxNbGI3NmtLZGZ4MnlFWEdaR0MxYWhHeGFHUzAwNWMzektEaklZamJNVjF4UzVLRjBrYXRBcE5kS2sxS3I5YXZiaUM4c05tbVdjQnFIZGFv?oc=5\" target=\"_blank\">Georgia Power encourages customers to take action during National Preparedness Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-14T14:38:31+00:00"
+    },
     {
       "id": "a5d10ce0308f8d3c",
       "title": "New Georgia solar projects are scheduled to start operation by 2029 - WSB-TV",
@@ -467,6 +481,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-08T22:16:29+00:00"
+    },
+    {
+      "id": "584d7f368e60e7ea",
+      "title": "Georgia Power works to meet growing power demand - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9USk1MRmJKSHI5TUNWVHJCZjdtMUxJX05sdjZzMVVJaEhkRzl6bWtOaDRhSEZpRWN0Q2M3eW1aeXRiTzcxc1UwNVNfalFHXy10LV9OTFlPeGVyRkVUS0szOFBEeGg?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX 5 Atlanta",
+      "language": "English",
+      "published_at": "2026-09-08T16:16:00+00:00",
+      "summary": "Georgia Power works to meet growing power demand FOX 5 Atlanta",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9USk1MRmJKSHI5TUNWVHJCZjdtMUxJX05sdjZzMVVJaEhkRzl6bWtOaDRhSEZpRWN0Q2M3eW1aeXRiTzcxc1UwNVNfalFHXy10LV9OTFlPeGVyRkVUS0szOFBEeGg?oc=5\" target=\"_blank\">Georgia Power works to meet growing power demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-14T14:38:31+00:00"
     },
     {
       "id": "9a48d8d84366db62",

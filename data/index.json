@@ -1,32 +1,32 @@
 {
-  "last_updated": "2026-09-14T07:27:23+00:00",
+  "last_updated": "2026-09-14T14:38:41+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 96,
-      "new_mentions_this_run": 6,
+      "count": 97,
+      "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "3eb5f5e43d128539",
-        "title": "American Electric Power Company Inc Share Price - AEP, RNS News, Articles, Quotes, & Charts (NASDAQ:AEP) - Proactive financial news",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHFsYUdlTENXaUdXR05lSFRyQzVObzAxQzhwOGlpME1xc1J5bnpMNC1XandKOVN5UlBtMWQ5dHRySXVxekFsNVI2dHpzSlJFNk5ieFBOeWRMWDhOal85RUFNVVA2akpFdlptZ2xVWHloNnRKRUlnR3c5M21pbktaZVVtS09ZUnh4TDh5WWhR?oc=5",
+        "id": "129ca168aa68a710",
+        "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJYcEFrZWtDSHQ0a2h0azlRM0ttUzBfR2JFN0JuaGRzZmd3VWt6Q3VCQzJ5MXJ6dHZhVEd2QUw1aGVLV0JPcmp2c3pPX09mdXNPUjRIbFN4cjFFZ2ZUdzBTbDhNTVhlREdfeXdVRy00TWdhazhhOUNIVXQ4T0tXZ3EwdEpiYk8tTXJNNA?oc=5",
         "domain": "news.google.com",
-        "source": "Proactive financial news",
+        "source": "Yahoo",
         "language": "English",
-        "published_at": "2026-09-13T13:38:53+00:00",
-        "summary": "American Electric Power Company Inc Share Price - AEP, RNS News, Articles, Quotes, & Charts (NASDAQ:AEP) Proactive financial news",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHFsYUdlTENXaUdXR05lSFRyQzVObzAxQzhwOGlpME1xc1J5bnpMNC1XandKOVN5UlBtMWQ5dHRySXVxekFsNVI2dHpzSlJFNk5ieFBOeWRMWDhOal85RUFNVVA2akpFdlptZ2xVWHloNnRKRUlnR3c5M21pbktaZVVtS09ZUnh4TDh5WWhR?oc=5\" target=\"_blank\">American Electric Power Company Inc Share Price - AEP, RNS News, Articles, Quotes, & Charts (NASDAQ:AEP)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Proactive financial news</font>",
+        "published_at": "2026-09-14T09:02:55+00:00",
+        "summary": "Public hearing planned for 51-mile AEP transmission project Yahoo",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJYcEFrZWtDSHQ0a2h0azlRM0ttUzBfR2JFN0JuaGRzZmd3VWt6Q3VCQzJ5MXJ6dHZhVEd2QUw1aGVLV0JPcmp2c3pPX09mdXNPUjRIbFN4cjFFZ2ZUdzBTbDhNTVhlREdfeXdVRy00TWdhazhhOUNIVXQ4T0tXZ3EwdEpiYk8tTXJNNA?oc=5\" target=\"_blank\">Public hearing planned for 51-mile AEP transmission project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-13T18:27:45+00:00"
+        "collected_at": "2026-09-14T14:38:09+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 373,
+      "count": 376,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "65b46d48ab9b023b",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 660,
+      "count": 662,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "a5d10ce0308f8d3c",
-        "title": "New Georgia solar projects are scheduled to start operation by 2029 - WSB-TV",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnVwd1ZXSnAtako4UzJfUlN3R05McENTbWR2MkVTbUNfTG5DbndidUZkaXZzcUxkNzZRUWNWdENuNzhRazNxUWpJeVYtNEZIdEhIeExrd2Y2TENFTC14RWJiR0w0cVVCVWx6SXJDU3NydXpUc2ZUQkEtN2NmeUJCNVFkOG9xU2hPYXhIYVVrTDIzZkFtNHQ1QkVrQnpBMy1aWnYzQjJxVm9TQ0dPT3lTaFZLWlpJQUtwY0tuMmxNN1FFSUFiR2dMLTlOOXN5d9IB4gFBVV95cUxQcDFvUklsSEd5NktzeVlBcU9xcjhZSWdlNlNtQlV3dm81ZkN0SXRDbHVFYUVieHR4MnNvRlc3aGthXzhTSW9Md1VodGJya0x1OEtvSjJTcFVfNUg2VEhLZk9BT05Kd2hLSGpkOWNjNjFmSVd4U0xmYnR2aTFvWHRQX24zN2ZfdjdKQm5qQ1lsWHcyQXcybm9CdUFCMW5mNWkyeWdMNF9DbVlLUml0NkhVWVhkVlFvV1A0MFpmaHE3c2xUcGZTNUJRTXJRVGJfSERqUDZ1STA2YURTOHRrM2VwYVlB?oc=5",
+        "id": "2137bdad6f9aa75c",
+        "title": "Georgia Power encourages customers to take action during National Preparedness Month - Grice Connect",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVdOQ29WQ2hFOEZIbS0zanBvMnYwWk1BMENGUDZyZS1XUWJ4TFp2RS1SajU2SXVRWHZmcjlkSzBfWG5NUUhMclY0Yk1MYVNMWk5FRFM5UHhKc3JfQXhFaFFnWmpqazZ0dzQ3UWZwQ01ZVGJzcGFvVnZoemdmdTVNeWVFdnRJbWxfMFpwSjhQZXctSmRnbm01NXZVNGQwMV8waHRrb05wS1VfelVsaU0xbjh2cmtvTWo4SFlhR3VlUmRuWmJWWG5WSXlvc3A2d9IB0wFBVV95cUxOQ2F0R29GNXhWSENsSDc3dXFsTzFSOE9KRm9jX1VTY09WdkdSWklDMFhnb2xlODdyWHRIQVEwbnV0bHJoNmtMRDk3a0xBNEhHd2N3V0lXZU1KSHV1eXUzN09pX3FiMEtfMlM1WHhONUtGLUhkWU1rS042OGdqOVFZaW1BYUxNbGI3NmtLZGZ4MnlFWEdaR0MxYWhHeGFHUzAwNWMzektEaklZamJNVjF4UzVLRjBrYXRBcE5kS2sxS3I5YXZiaUM4c05tbVdjQnFIZGFv?oc=5",
         "domain": "news.google.com",
-        "source": "WSB-TV",
+        "source": "Grice Connect",
         "language": "English",
-        "published_at": "2026-09-13T19:01:15+00:00",
-        "summary": "New Georgia solar projects are scheduled to start operation by 2029 WSB-TV",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnVwd1ZXSnAtako4UzJfUlN3R05McENTbWR2MkVTbUNfTG5DbndidUZkaXZzcUxkNzZRUWNWdENuNzhRazNxUWpJeVYtNEZIdEhIeExrd2Y2TENFTC14RWJiR0w0cVVCVWx6SXJDU3NydXpUc2ZUQkEtN2NmeUJCNVFkOG9xU2hPYXhIYVVrTDIzZkFtNHQ1QkVrQnpBMy1aWnYzQjJxVm9TQ0dPT3lTaFZLWlpJQUtwY0tuMmxNN1FFSUFiR2dMLTlOOXN5d9IB4gFBVV95cUxQcDFvUklsSEd5NktzeVlBcU9xcjhZSWdlNlNtQlV3dm81ZkN0SXRDbHVFYUVieHR4MnNvRlc3aGthXzhTSW9Md1VodGJya0x1OEtvSjJTcFVfNUg2VEhLZk9BT05Kd2hLSGpkOWNjNjFmSVd4U0xmYnR2aTFvWHRQX24zN2ZfdjdKQm5qQ1lsWHcyQXcybm9CdUFCMW5mNWkyeWdMNF9DbVlLUml0NkhVWVhkVlFvV1A0MFpmaHE3c2xUcGZTNUJRTXJRVGJfSERqUDZ1STA2YURTOHRrM2VwYVlB?oc=5\" target=\"_blank\">New Georgia solar projects are scheduled to start operation by 2029</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "published_at": "2026-09-14T14:10:00+00:00",
+        "summary": "Georgia Power encourages customers to take action during National Preparedness Month Grice Connect",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVdOQ29WQ2hFOEZIbS0zanBvMnYwWk1BMENGUDZyZS1XUWJ4TFp2RS1SajU2SXVRWHZmcjlkSzBfWG5NUUhMclY0Yk1MYVNMWk5FRFM5UHhKc3JfQXhFaFFnWmpqazZ0dzQ3UWZwQ01ZVGJzcGFvVnZoemdmdTVNeWVFdnRJbWxfMFpwSjhQZXctSmRnbm01NXZVNGQwMV8waHRrb05wS1VfelVsaU0xbjh2cmtvTWo4SFlhR3VlUmRuWmJWWG5WSXlvc3A2d9IB0wFBVV95cUxOQ2F0R29GNXhWSENsSDc3dXFsTzFSOE9KRm9jX1VTY09WdkdSWklDMFhnb2xlODdyWHRIQVEwbnV0bHJoNmtMRDk3a0xBNEhHd2N3V0lXZU1KSHV1eXUzN09pX3FiMEtfMlM1WHhONUtGLUhkWU1rS042OGdqOVFZaW1BYUxNbGI3NmtLZGZ4MnlFWEdaR0MxYWhHeGFHUzAwNWMzektEaklZamJNVjF4UzVLRjBrYXRBcE5kS2sxS3I5YXZiaUM4c05tbVdjQnFIZGFv?oc=5\" target=\"_blank\">Georgia Power encourages customers to take action during National Preparedness Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-13T22:00:17+00:00"
+        "collected_at": "2026-09-14T14:38:31+00:00"
       }
     },
     {

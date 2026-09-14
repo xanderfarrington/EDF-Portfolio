@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-09-14T07:26:51+00:00",
+  "last_updated": "2026-09-14T14:38:09+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 96,
+  "count": 97,
   "mentions": [
+    {
+      "id": "129ca168aa68a710",
+      "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJYcEFrZWtDSHQ0a2h0azlRM0ttUzBfR2JFN0JuaGRzZmd3VWt6Q3VCQzJ5MXJ6dHZhVEd2QUw1aGVLV0JPcmp2c3pPX09mdXNPUjRIbFN4cjFFZ2ZUdzBTbDhNTVhlREdfeXdVRy00TWdhazhhOUNIVXQ4T0tXZ3EwdEpiYk8tTXJNNA?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-09-14T09:02:55+00:00",
+      "summary": "Public hearing planned for 51-mile AEP transmission project Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJYcEFrZWtDSHQ0a2h0azlRM0ttUzBfR2JFN0JuaGRzZmd3VWt6Q3VCQzJ5MXJ6dHZhVEd2QUw1aGVLV0JPcmp2c3pPX09mdXNPUjRIbFN4cjFFZ2ZUdzBTbDhNTVhlREdfeXdVRy00TWdhazhhOUNIVXQ4T0tXZ3EwdEpiYk8tTXJNNA?oc=5\" target=\"_blank\">Public hearing planned for 51-mile AEP transmission project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-14T14:38:09+00:00"
+    },
     {
       "id": "3eb5f5e43d128539",
       "title": "American Electric Power Company Inc Share Price - AEP, RNS News, Articles, Quotes, & Charts (NASDAQ:AEP) - Proactive financial news",
