@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-14T14:38:31+00:00",
+  "last_updated": "2026-09-14T20:06:43+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 662,
+  "count": 664,
   "mentions": [
+    {
+      "id": "3812828f15474aa3",
+      "title": "Georgia Power spends money to study new nuclear reactor sites - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjR5TEVwQm5scjA5Ylo2SVZhSnY1eWs5b1FRX0kzaDJnS2Q1TWJiVFlXSmU2em5FTkNrTF9WV00yLW1EdzBabkd5STA3SzI4VGdWS0JmSTVwSnVhN0JpMjN3NXBRUHVQQmxPTVFEb1ZKN19Zai1lS0ZVTktvaXlPNnpvODZNOUpjN1A1X0tSUG5YS2RnMHJpbjFSQVVCTkpkUDdYdTdudDRiWmE3?oc=5",
+      "domain": "news.google.com",
+      "source": "AJC.com",
+      "language": "English",
+      "published_at": "2026-09-14T16:32:10+00:00",
+      "summary": "Georgia Power spends money to study new nuclear reactor sites AJC.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjR5TEVwQm5scjA5Ylo2SVZhSnY1eWs5b1FRX0kzaDJnS2Q1TWJiVFlXSmU2em5FTkNrTF9WV00yLW1EdzBabkd5STA3SzI4VGdWS0JmSTVwSnVhN0JpMjN3NXBRUHVQQmxPTVFEb1ZKN19Zai1lS0ZVTktvaXlPNnpvODZNOUpjN1A1X0tSUG5YS2RnMHJpbjFSQVVCTkpkUDdYdTdudDRiWmE3?oc=5\" target=\"_blank\">Georgia Power spends money to study new nuclear reactor sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-14T20:06:43+00:00"
+    },
     {
       "id": "2137bdad6f9aa75c",
       "title": "Georgia Power encourages customers to take action during National Preparedness Month - Grice Connect",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-14T14:38:31+00:00"
+    },
+    {
+      "id": "afd55e6dc2dac565",
+      "title": "Georgia Power encourages customers to take action during National Preparedness Month - Grice Connect",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2F0R29GNXhWSENsSDc3dXFsTzFSOE9KRm9jX1VTY09WdkdSWklDMFhnb2xlODdyWHRIQVEwbnV0bHJoNmtMRDk3a0xBNEhHd2N3V0lXZU1KSHV1eXUzN09pX3FiMEtfMlM1WHhONUtGLUhkWU1rS042OGdqOVFZaW1BYUxNbGI3NmtLZGZ4MnlFWEdaR0MxYWhHeGFHUzAwNWMzektEaklZamJNVjF4UzVLRjBrYXRBcE5kS2sxS3I5YXZiaUM4c05tbVdjQnFIZGFv0gHTAUFVX3lxTE5DYXRHb0Y1eFZIQ2xINzd1cWxPMVI4T0pGb2NfVVNjT1Z2R1JaSUMwWGdvbGU4N3JYdEhBUTBudXRscmg2a0xEOTdrTEE0SEd3Y3dXSVdlTUpIdXV5dTM3T2lfcWIwS18yUzVYeE41S0YtSGRZTWtLTjY4Z2o5UVlpbUFhTE1sYjc2a0tkZngyeUVYR1pHQzFhaEd4YUdTMDA1YzN6S0RqSVlqYk1WMXhTNUtGMGthdEFwTmRLazFLcjlhdmJpQzhzTm1tV2NCcUhkYW8?oc=5",
+      "domain": "news.google.com",
+      "source": "Grice Connect",
+      "language": "English",
+      "published_at": "2026-09-14T14:10:00+00:00",
+      "summary": "Georgia Power encourages customers to take action during National Preparedness Month Grice Connect",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2F0R29GNXhWSENsSDc3dXFsTzFSOE9KRm9jX1VTY09WdkdSWklDMFhnb2xlODdyWHRIQVEwbnV0bHJoNmtMRDk3a0xBNEhHd2N3V0lXZU1KSHV1eXUzN09pX3FiMEtfMlM1WHhONUtGLUhkWU1rS042OGdqOVFZaW1BYUxNbGI3NmtLZGZ4MnlFWEdaR0MxYWhHeGFHUzAwNWMzektEaklZamJNVjF4UzVLRjBrYXRBcE5kS2sxS3I5YXZiaUM4c05tbVdjQnFIZGFv0gHTAUFVX3lxTE5DYXRHb0Y1eFZIQ2xINzd1cWxPMVI4T0pGb2NfVVNjT1Z2R1JaSUMwWGdvbGU4N3JYdEhBUTBudXRscmg2a0xEOTdrTEE0SEd3Y3dXSVdlTUpIdXV5dTM3T2lfcWIwS18yUzVYeE41S0YtSGRZTWtLTjY4Z2o5UVlpbUFhTE1sYjc2a0tkZngyeUVYR1pHQzFhaEd4YUdTMDA1YzN6S0RqSVlqYk1WMXhTNUtGMGthdEFwTmRLazFLcjlhdmJpQzhzTm1tV2NCcUhkYW8?oc=5\" target=\"_blank\">Georgia Power encourages customers to take action during National Preparedness Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-14T20:06:43+00:00"
     },
     {
       "id": "a5d10ce0308f8d3c",

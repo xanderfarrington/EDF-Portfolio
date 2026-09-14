@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-14T14:38:41+00:00",
+  "last_updated": "2026-09-14T20:06:54+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 97,
-      "new_mentions_this_run": 7,
+      "count": 98,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "129ca168aa68a710",
         "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 662,
+      "count": 664,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "2137bdad6f9aa75c",
-        "title": "Georgia Power encourages customers to take action during National Preparedness Month - Grice Connect",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVdOQ29WQ2hFOEZIbS0zanBvMnYwWk1BMENGUDZyZS1XUWJ4TFp2RS1SajU2SXVRWHZmcjlkSzBfWG5NUUhMclY0Yk1MYVNMWk5FRFM5UHhKc3JfQXhFaFFnWmpqazZ0dzQ3UWZwQ01ZVGJzcGFvVnZoemdmdTVNeWVFdnRJbWxfMFpwSjhQZXctSmRnbm01NXZVNGQwMV8waHRrb05wS1VfelVsaU0xbjh2cmtvTWo4SFlhR3VlUmRuWmJWWG5WSXlvc3A2d9IB0wFBVV95cUxOQ2F0R29GNXhWSENsSDc3dXFsTzFSOE9KRm9jX1VTY09WdkdSWklDMFhnb2xlODdyWHRIQVEwbnV0bHJoNmtMRDk3a0xBNEhHd2N3V0lXZU1KSHV1eXUzN09pX3FiMEtfMlM1WHhONUtGLUhkWU1rS042OGdqOVFZaW1BYUxNbGI3NmtLZGZ4MnlFWEdaR0MxYWhHeGFHUzAwNWMzektEaklZamJNVjF4UzVLRjBrYXRBcE5kS2sxS3I5YXZiaUM4c05tbVdjQnFIZGFv?oc=5",
+        "id": "3812828f15474aa3",
+        "title": "Georgia Power spends money to study new nuclear reactor sites - AJC.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjR5TEVwQm5scjA5Ylo2SVZhSnY1eWs5b1FRX0kzaDJnS2Q1TWJiVFlXSmU2em5FTkNrTF9WV00yLW1EdzBabkd5STA3SzI4VGdWS0JmSTVwSnVhN0JpMjN3NXBRUHVQQmxPTVFEb1ZKN19Zai1lS0ZVTktvaXlPNnpvODZNOUpjN1A1X0tSUG5YS2RnMHJpbjFSQVVCTkpkUDdYdTdudDRiWmE3?oc=5",
         "domain": "news.google.com",
-        "source": "Grice Connect",
+        "source": "AJC.com",
         "language": "English",
-        "published_at": "2026-09-14T14:10:00+00:00",
-        "summary": "Georgia Power encourages customers to take action during National Preparedness Month Grice Connect",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVdOQ29WQ2hFOEZIbS0zanBvMnYwWk1BMENGUDZyZS1XUWJ4TFp2RS1SajU2SXVRWHZmcjlkSzBfWG5NUUhMclY0Yk1MYVNMWk5FRFM5UHhKc3JfQXhFaFFnWmpqazZ0dzQ3UWZwQ01ZVGJzcGFvVnZoemdmdTVNeWVFdnRJbWxfMFpwSjhQZXctSmRnbm01NXZVNGQwMV8waHRrb05wS1VfelVsaU0xbjh2cmtvTWo4SFlhR3VlUmRuWmJWWG5WSXlvc3A2d9IB0wFBVV95cUxOQ2F0R29GNXhWSENsSDc3dXFsTzFSOE9KRm9jX1VTY09WdkdSWklDMFhnb2xlODdyWHRIQVEwbnV0bHJoNmtMRDk3a0xBNEhHd2N3V0lXZU1KSHV1eXUzN09pX3FiMEtfMlM1WHhONUtGLUhkWU1rS042OGdqOVFZaW1BYUxNbGI3NmtLZGZ4MnlFWEdaR0MxYWhHeGFHUzAwNWMzektEaklZamJNVjF4UzVLRjBrYXRBcE5kS2sxS3I5YXZiaUM4c05tbVdjQnFIZGFv?oc=5\" target=\"_blank\">Georgia Power encourages customers to take action during National Preparedness Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+        "published_at": "2026-09-14T16:32:10+00:00",
+        "summary": "Georgia Power spends money to study new nuclear reactor sites AJC.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjR5TEVwQm5scjA5Ylo2SVZhSnY1eWs5b1FRX0kzaDJnS2Q1TWJiVFlXSmU2em5FTkNrTF9WV00yLW1EdzBabkd5STA3SzI4VGdWS0JmSTVwSnVhN0JpMjN3NXBRUHVQQmxPTVFEb1ZKN19Zai1lS0ZVTktvaXlPNnpvODZNOUpjN1A1X0tSUG5YS2RnMHJpbjFSQVVCTkpkUDdYdTdudDRiWmE3?oc=5\" target=\"_blank\">Georgia Power spends money to study new nuclear reactor sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-14T14:38:31+00:00"
+        "collected_at": "2026-09-14T20:06:43+00:00"
       }
     },
     {
