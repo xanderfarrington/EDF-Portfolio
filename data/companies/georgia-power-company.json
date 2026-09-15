@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-15T20:45:10+00:00",
+  "last_updated": "2026-09-15T23:54:08+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 676,
+  "count": 681,
   "mentions": [
+    {
+      "id": "479b447b693c38a7",
+      "title": "Savannah residents voice concerns over Georgia Power’s ties to proposed OpenAI data center - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHhjV2FsekxMa1QwSVdCQkNvdVIyV1I1LTlMbFIxTFRVeW1sazJwWWd2dzJlY0FQeTk4MVpyQkd6Z1FlQ2NFZHl6MlF2RW1wS0FlaTI4V3ozam43TW5reHhLd0hNMDlKdVpVLThFeVNjWWYtaHRRYkVOaUhOcTRqVDZCUUx4Nm5CcHZZOExlekFmZllsNDdtMHFrV0taV3I4Mml4R2ZuN2VwZ0tkZG9FaFl2aEhVR0x4V3JJ0gHPAUFVX3lxTFB3TDJMZTQydUUzSy1SUGN5NkJ2N2dlSTQ3T1dqZEVEMXRBbzBCOWltaXdTMzFMazJtS3B6Mi03akszQUhyMV9DSXFIZ2R4T2RCVHNFTHlzZkFoQU4xU3VyQXo3OU01RjhVUEhBRVZuRWVsMi0wR2Q1Nm1tTi1lcXRaZVJ5U3JNZ3RmZExfREhia2p6RGNERXo3THJXOWo2WVBWaWRiRV9NcTFsZjNhcDVLMkhtSUUwUjI0dVctYm9TdGdwUjJYSVhZLWRhOWtMUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-09-15T22:56:00+00:00",
+      "summary": "Savannah residents voice concerns over Georgia Power’s ties to proposed OpenAI data center WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHhjV2FsekxMa1QwSVdCQkNvdVIyV1I1LTlMbFIxTFRVeW1sazJwWWd2dzJlY0FQeTk4MVpyQkd6Z1FlQ2NFZHl6MlF2RW1wS0FlaTI4V3ozam43TW5reHhLd0hNMDlKdVpVLThFeVNjWWYtaHRRYkVOaUhOcTRqVDZCUUx4Nm5CcHZZOExlekFmZllsNDdtMHFrV0taV3I4Mml4R2ZuN2VwZ0tkZG9FaFl2aEhVR0x4V3JJ0gHPAUFVX3lxTFB3TDJMZTQydUUzSy1SUGN5NkJ2N2dlSTQ3T1dqZEVEMXRBbzBCOWltaXdTMzFMazJtS3B6Mi03akszQUhyMV9DSXFIZ2R4T2RCVHNFTHlzZkFoQU4xU3VyQXo3OU01RjhVUEhBRVZuRWVsMi0wR2Q1Nm1tTi1lcXRaZVJ5U3JNZ3RmZExfREhia2p6RGNERXo3THJXOWo2WVBWaWRiRV9NcTFsZjNhcDVLMkhtSUUwUjI0dVctYm9TdGdwUjJYSVhZLWRhOWtMUQ?oc=5\" target=\"_blank\">Savannah residents voice concerns over Georgia Power’s ties to proposed OpenAI data center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T23:54:08+00:00"
+    },
     {
       "id": "55641df617b15cb4",
       "title": "Georgia Power installs 512-MWh BESS at Robins Air Force Base - Solar Power World",
@@ -119,6 +133,20 @@
       "collected_at": "2026-09-15T13:03:16+00:00"
     },
     {
+      "id": "bfe1b32860d95f2c",
+      "title": "Savannah residents voice concerns over Georgia Power’s ties to proposed OpenAI data center - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdzA1WWxiUG1YRjROc3NLMnZVN1FieHVaTFRPMHBaTkFwbC1JWFhPSDVDSWV3UHB4Y2d3cGhrdXpMeEFnZ0hWeGUyZEE0cmNFMF9USnAxcjNXYVdXRVJjemFPYkhWbDF2MmNNdVZkcklpUTEzOVFBMDltQ0VLSGdtQ3pSU2ZmOFJGQW9LMDNsU2lIbW5hV09GR0g0NVJySnRxSkJWSW5LWl93elNsR1hxU2FpdnJRcl94TkN0bjNMSDRYSzQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-09-15T04:01:04+00:00",
+      "summary": "Savannah residents voice concerns over Georgia Power’s ties to proposed OpenAI data center WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdzA1WWxiUG1YRjROc3NLMnZVN1FieHVaTFRPMHBaTkFwbC1JWFhPSDVDSWV3UHB4Y2d3cGhrdXpMeEFnZ0hWeGUyZEE0cmNFMF9USnAxcjNXYVdXRVJjemFPYkhWbDF2MmNNdVZkcklpUTEzOVFBMDltQ0VLSGdtQ3pSU2ZmOFJGQW9LMDNsU2lIbW5hV09GR0g0NVJySnRxSkJWSW5LWl93elNsR1hxU2FpdnJRcl94TkN0bjNMSDRYSzQ?oc=5\" target=\"_blank\">Savannah residents voice concerns over Georgia Power’s ties to proposed OpenAI data center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T23:54:08+00:00"
+    },
+    {
       "id": "55b92fbffe913356",
       "title": "Georgia Power’s Grid Expansion Plans Spur Questions - RTO Insider",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3VDME9oY094NHFZYXZFbDhzU2xqak9jUHJ4enZyVzhlRGpGX1hpWkF1aWlFZE5JTFBHbFpheEhQN0VPMUZRNjNJbGdMYkJDWF8wbnhRUVhtbGx0WHFHdVNuc2xlamRNUUtER3RYX1JEU2pmZXR4aVRzTThtaS0wR1puakQzS3VYdHFURA?oc=5",
@@ -131,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-15T00:09:09+00:00"
+    },
+    {
+      "id": "80fad701b5810064",
+      "title": "Georgia Power’s Grid Expansion Plans Spur Questions - rtoinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3VDME9oY094NHFZYXZFbDhzU2xqak9jUHJ4enZyVzhlRGpGX1hpWkF1aWlFZE5JTFBHbFpheEhQN0VPMUZRNjNJbGdMYkJDWF8wbnhRUVhtbGx0WHFHdVNuc2xlamRNUUtER3RYX1JEU2pmZXR4aVRzTThtaS0wR1puakQzS3VYdHFURA?oc=5",
+      "domain": "news.google.com",
+      "source": "rtoinsider.com",
+      "language": "English",
+      "published_at": "2026-09-14T20:12:50+00:00",
+      "summary": "Georgia Power’s Grid Expansion Plans Spur Questions rtoinsider.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3VDME9oY094NHFZYXZFbDhzU2xqak9jUHJ4enZyVzhlRGpGX1hpWkF1aWlFZE5JTFBHbFpheEhQN0VPMUZRNjNJbGdMYkJDWF8wbnhRUVhtbGx0WHFHdVNuc2xlamRNUUtER3RYX1JEU2pmZXR4aVRzTThtaS0wR1puakQzS3VYdHFURA?oc=5\" target=\"_blank\">Georgia Power’s Grid Expansion Plans Spur Questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rtoinsider.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T23:54:08+00:00"
     },
     {
       "id": "3812828f15474aa3",
@@ -203,6 +245,20 @@
       "collected_at": "2026-09-15T13:03:16+00:00"
     },
     {
+      "id": "be98244143c2b264",
+      "title": "Georgia regulators approve 1,137 MW of new solar power for Georgia Power - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFgtMFZGOEd2T0c4ek9tdGdwbkVVal9IWE1HUjREcmZhSGl0OERkd1JVLV9IUW55NFotVDdsSlpLNkh3N3NRc0lWcG5wa0pfckhYU3VlNXI0WEF5cEJSQVNYbmMxOHozRVMzSnhpUm4tT0JuQ0FfaVIxQ1BKbTU0NGxTaFhFX25FMWZaRVRwY0FiWUplRmNlUVhjVGNqRFpyeDNGWUg4VFVrSldCRXlkUEZBb28?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-09-14T11:59:33+00:00",
+      "summary": "Georgia regulators approve 1,137 MW of new solar power for Georgia Power Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFgtMFZGOEd2T0c4ek9tdGdwbkVVal9IWE1HUjREcmZhSGl0OERkd1JVLV9IUW55NFotVDdsSlpLNkh3N3NRc0lWcG5wa0pfckhYU3VlNXI0WEF5cEJSQVNYbmMxOHozRVMzSnhpUm4tT0JuQ0FfaVIxQ1BKbTU0NGxTaFhFX25FMWZaRVRwY0FiWUplRmNlUVhjVGNqRFpyeDNGWUg4VFVrSldCRXlkUEZBb28?oc=5\" target=\"_blank\">Georgia regulators approve 1,137 MW of new solar power for Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T23:54:08+00:00"
+    },
+    {
       "id": "a5d10ce0308f8d3c",
       "title": "New Georgia solar projects are scheduled to start operation by 2029 - WSB-TV",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnVwd1ZXSnAtako4UzJfUlN3R05McENTbWR2MkVTbUNfTG5DbndidUZkaXZzcUxkNzZRUWNWdENuNzhRazNxUWpJeVYtNEZIdEhIeExrd2Y2TENFTC14RWJiR0w0cVVCVWx6SXJDU3NydXpUc2ZUQkEtN2NmeUJCNVFkOG9xU2hPYXhIYVVrTDIzZkFtNHQ1QkVrQnpBMy1aWnYzQjJxVm9TQ0dPT3lTaFZLWlpJQUtwY0tuMmxNN1FFSUFiR2dMLTlOOXN5d9IB4gFBVV95cUxQcDFvUklsSEd5NktzeVlBcU9xcjhZSWdlNlNtQlV3dm81ZkN0SXRDbHVFYUVieHR4MnNvRlc3aGthXzhTSW9Md1VodGJya0x1OEtvSjJTcFVfNUg2VEhLZk9BT05Kd2hLSGpkOWNjNjFmSVd4U0xmYnR2aTFvWHRQX24zN2ZfdjdKQm5qQ1lsWHcyQXcybm9CdUFCMW5mNWkyeWdMNF9DbVlLUml0NkhVWVhkVlFvV1A0MFpmaHE3c2xUcGZTNUJRTXJRVGJfSERqUDZ1STA2YURTOHRrM2VwYVlB?oc=5",
@@ -215,6 +271,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-13T22:00:17+00:00"
+    },
+    {
+      "id": "cc3f088b09453796",
+      "title": "New Georgia solar projects are scheduled to start operation by 2029 - wsbtv.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnVwd1ZXSnAtako4UzJfUlN3R05McENTbWR2MkVTbUNfTG5DbndidUZkaXZzcUxkNzZRUWNWdENuNzhRazNxUWpJeVYtNEZIdEhIeExrd2Y2TENFTC14RWJiR0w0cVVCVWx6SXJDU3NydXpUc2ZUQkEtN2NmeUJCNVFkOG9xU2hPYXhIYVVrTDIzZkFtNHQ1QkVrQnpBMy1aWnYzQjJxVm9TQ0dPT3lTaFZLWlpJQUtwY0tuMmxNN1FFSUFiR2dMLTlOOXN5d9IB4gFBVV95cUxQcDFvUklsSEd5NktzeVlBcU9xcjhZSWdlNlNtQlV3dm81ZkN0SXRDbHVFYUVieHR4MnNvRlc3aGthXzhTSW9Md1VodGJya0x1OEtvSjJTcFVfNUg2VEhLZk9BT05Kd2hLSGpkOWNjNjFmSVd4U0xmYnR2aTFvWHRQX24zN2ZfdjdKQm5qQ1lsWHcyQXcybm9CdUFCMW5mNWkyeWdMNF9DbVlLUml0NkhVWVhkVlFvV1A0MFpmaHE3c2xUcGZTNUJRTXJRVGJfSERqUDZ1STA2YURTOHRrM2VwYVlB?oc=5",
+      "domain": "news.google.com",
+      "source": "wsbtv.com",
+      "language": "English",
+      "published_at": "2026-09-13T19:01:15+00:00",
+      "summary": "New Georgia solar projects are scheduled to start operation by 2029 wsbtv.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnVwd1ZXSnAtako4UzJfUlN3R05McENTbWR2MkVTbUNfTG5DbndidUZkaXZzcUxkNzZRUWNWdENuNzhRazNxUWpJeVYtNEZIdEhIeExrd2Y2TENFTC14RWJiR0w0cVVCVWx6SXJDU3NydXpUc2ZUQkEtN2NmeUJCNVFkOG9xU2hPYXhIYVVrTDIzZkFtNHQ1QkVrQnpBMy1aWnYzQjJxVm9TQ0dPT3lTaFZLWlpJQUtwY0tuMmxNN1FFSUFiR2dMLTlOOXN5d9IB4gFBVV95cUxQcDFvUklsSEd5NktzeVlBcU9xcjhZSWdlNlNtQlV3dm81ZkN0SXRDbHVFYUVieHR4MnNvRlc3aGthXzhTSW9Md1VodGJya0x1OEtvSjJTcFVfNUg2VEhLZk9BT05Kd2hLSGpkOWNjNjFmSVd4U0xmYnR2aTFvWHRQX24zN2ZfdjdKQm5qQ1lsWHcyQXcybm9CdUFCMW5mNWkyeWdMNF9DbVlLUml0NkhVWVhkVlFvV1A0MFpmaHE3c2xUcGZTNUJRTXJRVGJfSERqUDZ1STA2YURTOHRrM2VwYVlB?oc=5\" target=\"_blank\">New Georgia solar projects are scheduled to start operation by 2029</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsbtv.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T23:54:08+00:00"
     },
     {
       "id": "c1f0ca4ce2244292",

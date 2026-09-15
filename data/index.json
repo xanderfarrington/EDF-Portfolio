@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T20:45:20+00:00",
+  "last_updated": "2026-09-15T23:54:19+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 676,
+      "count": 681,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "55641df617b15cb4",
-        "title": "Georgia Power installs 512-MWh BESS at Robins Air Force Base - Solar Power World",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS1RWbThsakFMOV9hVXJULWhhclljbDlfUE1CajBYMGFJZnJfQkE5NDkwSlJReDJ6ZWZDcUVodndLbW9CbmNxMDk2S3VROUxHLWtPSDNfR3pYS3lqaTJiclRpakJHSzJGSHg1UTNtemRFWGdVbGY5RzQ3U0RvNTVVR0U3N0owWnRmZmVHTTVPODZxV3Y1emNVRTc1dVhDUW9INk1YSjg5MEk2WTg?oc=5",
+        "id": "479b447b693c38a7",
+        "title": "Savannah residents voice concerns over Georgia Power’s ties to proposed OpenAI data center - WTOC",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHhjV2FsekxMa1QwSVdCQkNvdVIyV1I1LTlMbFIxTFRVeW1sazJwWWd2dzJlY0FQeTk4MVpyQkd6Z1FlQ2NFZHl6MlF2RW1wS0FlaTI4V3ozam43TW5reHhLd0hNMDlKdVpVLThFeVNjWWYtaHRRYkVOaUhOcTRqVDZCUUx4Nm5CcHZZOExlekFmZllsNDdtMHFrV0taV3I4Mml4R2ZuN2VwZ0tkZG9FaFl2aEhVR0x4V3JJ0gHPAUFVX3lxTFB3TDJMZTQydUUzSy1SUGN5NkJ2N2dlSTQ3T1dqZEVEMXRBbzBCOWltaXdTMzFMazJtS3B6Mi03akszQUhyMV9DSXFIZ2R4T2RCVHNFTHlzZkFoQU4xU3VyQXo3OU01RjhVUEhBRVZuRWVsMi0wR2Q1Nm1tTi1lcXRaZVJ5U3JNZ3RmZExfREhia2p6RGNERXo3THJXOWo2WVBWaWRiRV9NcTFsZjNhcDVLMkhtSUUwUjI0dVctYm9TdGdwUjJYSVhZLWRhOWtMUQ?oc=5",
         "domain": "news.google.com",
-        "source": "Solar Power World",
+        "source": "WTOC",
         "language": "English",
-        "published_at": "2026-09-15T19:41:41+00:00",
-        "summary": "Georgia Power installs 512-MWh BESS at Robins Air Force Base Solar Power World",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS1RWbThsakFMOV9hVXJULWhhclljbDlfUE1CajBYMGFJZnJfQkE5NDkwSlJReDJ6ZWZDcUVodndLbW9CbmNxMDk2S3VROUxHLWtPSDNfR3pYS3lqaTJiclRpakJHSzJGSHg1UTNtemRFWGdVbGY5RzQ3U0RvNTVVR0U3N0owWnRmZmVHTTVPODZxV3Y1emNVRTc1dVhDUW9INk1YSjg5MEk2WTg?oc=5\" target=\"_blank\">Georgia Power installs 512-MWh BESS at Robins Air Force Base</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solar Power World</font>",
+        "published_at": "2026-09-15T22:56:00+00:00",
+        "summary": "Savannah residents voice concerns over Georgia Power’s ties to proposed OpenAI data center WTOC",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHhjV2FsekxMa1QwSVdCQkNvdVIyV1I1LTlMbFIxTFRVeW1sazJwWWd2dzJlY0FQeTk4MVpyQkd6Z1FlQ2NFZHl6MlF2RW1wS0FlaTI4V3ozam43TW5reHhLd0hNMDlKdVpVLThFeVNjWWYtaHRRYkVOaUhOcTRqVDZCUUx4Nm5CcHZZOExlekFmZllsNDdtMHFrV0taV3I4Mml4R2ZuN2VwZ0tkZG9FaFl2aEhVR0x4V3JJ0gHPAUFVX3lxTFB3TDJMZTQydUUzSy1SUGN5NkJ2N2dlSTQ3T1dqZEVEMXRBbzBCOWltaXdTMzFMazJtS3B6Mi03akszQUhyMV9DSXFIZ2R4T2RCVHNFTHlzZkFoQU4xU3VyQXo3OU01RjhVUEhBRVZuRWVsMi0wR2Q1Nm1tTi1lcXRaZVJ5U3JNZ3RmZExfREhia2p6RGNERXo3THJXOWo2WVBWaWRiRV9NcTFsZjNhcDVLMkhtSUUwUjI0dVctYm9TdGdwUjJYSVhZLWRhOWtMUQ?oc=5\" target=\"_blank\">Savannah residents voice concerns over Georgia Power’s ties to proposed OpenAI data center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-15T20:45:10+00:00"
+        "collected_at": "2026-09-15T23:54:08+00:00"
       }
     },
     {
