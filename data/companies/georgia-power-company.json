@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-15T17:52:27+00:00",
+  "last_updated": "2026-09-15T20:45:10+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 673,
+  "count": 676,
   "mentions": [
+    {
+      "id": "55641df617b15cb4",
+      "title": "Georgia Power installs 512-MWh BESS at Robins Air Force Base - Solar Power World",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS1RWbThsakFMOV9hVXJULWhhclljbDlfUE1CajBYMGFJZnJfQkE5NDkwSlJReDJ6ZWZDcUVodndLbW9CbmNxMDk2S3VROUxHLWtPSDNfR3pYS3lqaTJiclRpakJHSzJGSHg1UTNtemRFWGdVbGY5RzQ3U0RvNTVVR0U3N0owWnRmZmVHTTVPODZxV3Y1emNVRTc1dVhDUW9INk1YSjg5MEk2WTg?oc=5",
+      "domain": "news.google.com",
+      "source": "Solar Power World",
+      "language": "English",
+      "published_at": "2026-09-15T19:41:41+00:00",
+      "summary": "Georgia Power installs 512-MWh BESS at Robins Air Force Base Solar Power World",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS1RWbThsakFMOV9hVXJULWhhclljbDlfUE1CajBYMGFJZnJfQkE5NDkwSlJReDJ6ZWZDcUVodndLbW9CbmNxMDk2S3VROUxHLWtPSDNfR3pYS3lqaTJiclRpakJHSzJGSHg1UTNtemRFWGdVbGY5RzQ3U0RvNTVVR0U3N0owWnRmZmVHTTVPODZxV3Y1emNVRTc1dVhDUW9INk1YSjg5MEk2WTg?oc=5\" target=\"_blank\">Georgia Power installs 512-MWh BESS at Robins Air Force Base</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solar Power World</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T20:45:10+00:00"
+    },
     {
       "id": "d44e36daed2f37bf",
       "title": "Georgia Power starts up 128-MW BESS at Robins solar farm - Renewables Now",
@@ -47,6 +61,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-15T17:52:27+00:00"
+    },
+    {
+      "id": "1d2f7ff014d2117d",
+      "title": "Georgia Power’s new battery can supply power for four hours - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDVSMmFqbVJwUzZXV3Z5Vjk0em4wZERRZlN1YmNSMWkzOVF2NzgwZHlsSnJmaElRRjQwQUZ4QVctT3JOblVrV3R1aUNtbG80OFRFUm5QVDRLYWNPa3A5eXBTMXJfWGRQNEFNdzQwMFFrUWR6LTNuTE5EV0ZrMGNtRVdlOGNMRDNNQlNWSEJMNWtsM2VLODVfTmYteURyVUphTmVsbUFISm84b1RYclpWMlRDa2RBYWlxRWNFNUhR?oc=5",
+      "domain": "news.google.com",
+      "source": "Stock Titan",
+      "language": "English",
+      "published_at": "2026-09-15T16:00:00+00:00",
+      "summary": "Georgia Power’s new battery can supply power for four hours Stock Titan",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxObDVSMmFqbVJwUzZXV3Z5Vjk0em4wZERRZlN1YmNSMWkzOVF2NzgwZHlsSnJmaElRRjQwQUZ4QVctT3JOblVrV3R1aUNtbG80OFRFUm5QVDRLYWNPa3A5eXBTMXJfWGRQNEFNdzQwMFFrUWR6LTNuTE5EV0ZrMGNtRVdlOGNMRDNNQlNWSEJMNWtsM2VLODVfTmYteURyVUphTmVsbUFISm84b1RYclpWMlRDa2RBYWlxRWNFNUhR?oc=5\" target=\"_blank\">Georgia Power’s new battery can supply power for four hours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T20:45:10+00:00"
+    },
+    {
+      "id": "33047c3f26700b94",
+      "title": "Georgia Power secures approvals for 1.1 GW of solar PPAs (US) - enerdata.net",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVJGNTBQLW1jeHVodVJIT2JaVllMUllkQ3YwYlV2c0dweUFsSGtEcmw0WGVBVTBqWF9EOEVsdFZ1dUpQa0pleUg0ZTJONFlyOGNXVGVzSEJZMDNMRFU1cG9mNnF6cnYwRU5VLXdtTEMxRnE2U0h4RkNEcV80MURIN3d3b1Q2TDlyb3FNVkdCM3FyZi1mNzlqc1pBcEN0b216YWhLRFVSc0R4N1hwZ2VXSWlR?oc=5",
+      "domain": "news.google.com",
+      "source": "enerdata.net",
+      "language": "English",
+      "published_at": "2026-09-15T12:00:00+00:00",
+      "summary": "Georgia Power secures approvals for 1.1 GW of solar PPAs (US) enerdata.net",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVJGNTBQLW1jeHVodVJIT2JaVllMUllkQ3YwYlV2c0dweUFsSGtEcmw0WGVBVTBqWF9EOEVsdFZ1dUpQa0pleUg0ZTJONFlyOGNXVGVzSEJZMDNMRFU1cG9mNnF6cnYwRU5VLXdtTEMxRnE2U0h4RkNEcV80MURIN3d3b1Q2TDlyb3FNVkdCM3FyZi1mNzlqc1pBcEN0b216YWhLRFVSc0R4N1hwZ2VXSWlR?oc=5\" target=\"_blank\">Georgia Power secures approvals for 1.1 GW of solar PPAs (US)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">enerdata.net</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T20:45:10+00:00"
     },
     {
       "id": "b4ed7b86c34536e9",

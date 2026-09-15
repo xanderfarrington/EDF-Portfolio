@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-15T17:52:10+00:00",
+  "last_updated": "2026-09-15T20:44:53+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 376,
+  "count": 380,
   "mentions": [
     {
       "id": "65b46d48ab9b023b",
@@ -203,6 +203,20 @@
       "collected_at": "2026-09-11T20:19:11+00:00"
     },
     {
+      "id": "d05a2eb3cb1a012b",
+      "title": "Judge to decide if Alabama Power can build transmission lines through Shelby County backyard - alabamas42.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0xlLUZKTlFHWkJmQkVQV3ZBd0IwUTdRZ1ZYbXZpdTBMOEpmc2R5OUFUby15Q0VsUXR1dVNXSDY5aDJIV0dmUE8xZkhXaW1FdWo1OVVvdFFPMVpJS195UnFxemY5SEI3RlMxTURsRmtrVHYyamdxaVJUM2VzLXo3elJlNThtU0VWTGNOaGo0RHNYSXRnWTVYeWIxWTYxSnZSV3UyalNSb25fRnRRRmNvTkgwYmtGQUs4ODI0ejJlNXQ1S1dD0gHKAUFVX3lxTE9XZkp4VE8xS0VCdGg0Rjh1aU5NUzdhVW1NWnlYQU52MjVaZ1ZhU056bFNXUWZycTRsRnZlMEU1QUJpNDBrQ3pFWlZ0LVpPRnczVXpWanZmTW5RdXl0ZTVMc2JqVEtfNy1DN3drbWl4VGJpaXZ3V1B2bmhaYVpadFd3VW1sVDVRV2plVFduSU5weFRXSXlEcmxkWVpLdWJMem1CVnZGN0tFRnVxeGVkbTlEREdId1VlNWFSNGJfY2MwV3FoWjFLcVpjVXc?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamas42.com",
+      "language": "English",
+      "published_at": "2026-09-10T20:53:12+00:00",
+      "summary": "Judge to decide if Alabama Power can build transmission lines through Shelby County backyard alabamas42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0xlLUZKTlFHWkJmQkVQV3ZBd0IwUTdRZ1ZYbXZpdTBMOEpmc2R5OUFUby15Q0VsUXR1dVNXSDY5aDJIV0dmUE8xZkhXaW1FdWo1OVVvdFFPMVpJS195UnFxemY5SEI3RlMxTURsRmtrVHYyamdxaVJUM2VzLXo3elJlNThtU0VWTGNOaGo0RHNYSXRnWTVYeWIxWTYxSnZSV3UyalNSb25fRnRRRmNvTkgwYmtGQUs4ODI0ejJlNXQ1S1dD0gHKAUFVX3lxTE9XZkp4VE8xS0VCdGg0Rjh1aU5NUzdhVW1NWnlYQU52MjVaZ1ZhU056bFNXUWZycTRsRnZlMEU1QUJpNDBrQ3pFWlZ0LVpPRnczVXpWanZmTW5RdXl0ZTVMc2JqVEtfNy1DN3drbWl4VGJpaXZ3V1B2bmhaYVpadFd3VW1sVDVRV2plVFduSU5weFRXSXlEcmxkWVpLdWJMem1CVnZGN0tFRnVxeGVkbTlEREdId1VlNWFSNGJfY2MwV3FoWjFLcVpjVXc?oc=5\" target=\"_blank\">Judge to decide if Alabama Power can build transmission lines through Shelby County backyard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamas42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T20:44:53+00:00"
+    },
+    {
       "id": "f81451e555fca3c4",
       "title": "Judge to decide if Alabama Power can build transmission lines through Shelby County backyard - cbs42.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2ZKeFRPMUtFQnRoNEY4dWlOTVM3YVVtTVp5WEFOdjI1WmdWYVNOemxTV1FmcnE0bEZ2ZTBFNUFCaTQwa0N6RVpWdC1aT0Z3M1V6Vmp2Zk1uUXV5dGU1THNialRLXzctQzd3a21peFRiaWl2d1dQdm5oWmFaWnRXd1VtbFQ1UVdqZVRXbklOcHhUV0l5RHJsZFlaS3ViTHptQlZ2RjdLRUZ1cXhlZG05RERHSHdVZTVhUjRiX2NjMFdxaFoxS3FaY1V30gHKAUFVX3lxTE9XZkp4VE8xS0VCdGg0Rjh1aU5NUzdhVW1NWnlYQU52MjVaZ1ZhU056bFNXUWZycTRsRnZlMEU1QUJpNDBrQ3pFWlZ0LVpPRnczVXpWanZmTW5RdXl0ZTVMc2JqVEtfNy1DN3drbWl4VGJpaXZ3V1B2bmhaYVpadFd3VW1sVDVRV2plVFduSU5weFRXSXlEcmxkWVpLdWJMem1CVnZGN0tFRnVxeGVkbTlEREdId1VlNWFSNGJfY2MwV3FoWjFLcVpjVXc?oc=5",
@@ -357,6 +371,20 @@
       "collected_at": "2026-09-10T13:59:50+00:00"
     },
     {
+      "id": "db1a03e05b475847",
+      "title": "Judge to hear 2nd day of arguments to decide if Alabama Power must halt work on Shelby County transmission line - alabamas42.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZTgxSExoVUh0WTFuMkl1WG92WHB6cGdDWTRGdGhJVm1VR3BSdm1kRWI2RW1KLTB6WWdOeEoyY2xmMzFjeXlnT0FIR1FnVFdrRk5UVjZVeFV0VlRlWXdlQkJKMUF4R1dtMmktcHpRMXg5Wm5qd0l2VXEyUmE3dXlNM1RBbk9NNEY3UHdPSWxCWW5nTGhmYUNIMmI2aFFZeFExMm5WMFhDY2QwSlZrV3BiN2NJUXZUYXFGa25kNi1IR0t1YlIxaUhJWTM4SEUyWDBGSHdGakp1ZGtxenFQSkHSAeMBQVVfeXFMTjM5cUZzdjc1ajlvWXYtR1g5VGh4WGNaWER2aEs0R2NlVnpwdGliS0pGNlZNTERwV2xjekZ1ZXI5VWhYWkNhOVJvN1huZUhIMjNYQXZfcFRLQXRSOHd2UWIwYXYyUF9jdVBldld0Vm11dUZWYk5pTC1sampSbmpscDRDcWNwVFpidy02RHMtVlZnNk9aTjNHV3JFMklBN2htazNuN1ZKRG9SZjZ4M0Z5ckFOQ2dUd2Z0RXlHaFJVVjJ6YkJ1bXhKLUpzWW1LTE8tc0d6QnNvZEpOS2h1cjNTOEdaNGs?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamas42.com",
+      "language": "English",
+      "published_at": "2026-09-09T23:10:37+00:00",
+      "summary": "Judge to hear 2nd day of arguments to decide if Alabama Power must halt work on Shelby County transmission line alabamas42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZTgxSExoVUh0WTFuMkl1WG92WHB6cGdDWTRGdGhJVm1VR3BSdm1kRWI2RW1KLTB6WWdOeEoyY2xmMzFjeXlnT0FIR1FnVFdrRk5UVjZVeFV0VlRlWXdlQkJKMUF4R1dtMmktcHpRMXg5Wm5qd0l2VXEyUmE3dXlNM1RBbk9NNEY3UHdPSWxCWW5nTGhmYUNIMmI2aFFZeFExMm5WMFhDY2QwSlZrV3BiN2NJUXZUYXFGa25kNi1IR0t1YlIxaUhJWTM4SEUyWDBGSHdGakp1ZGtxenFQSkHSAeMBQVVfeXFMTjM5cUZzdjc1ajlvWXYtR1g5VGh4WGNaWER2aEs0R2NlVnpwdGliS0pGNlZNTERwV2xjekZ1ZXI5VWhYWkNhOVJvN1huZUhIMjNYQXZfcFRLQXRSOHd2UWIwYXYyUF9jdVBldld0Vm11dUZWYk5pTC1sampSbmpscDRDcWNwVFpidy02RHMtVlZnNk9aTjNHV3JFMklBN2htazNuN1ZKRG9SZjZ4M0Z5ckFOQ2dUd2Z0RXlHaFJVVjJ6YkJ1bXhKLUpzWW1LTE8tc0d6QnNvZEpOS2h1cjNTOEdaNGs?oc=5\" target=\"_blank\">Judge to hear 2nd day of arguments to decide if Alabama Power must halt work on Shelby County transmission line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamas42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T20:44:53+00:00"
+    },
+    {
       "id": "5aa3d81b082ad14f",
       "title": "Case against Alabama Power goes to court - yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2dZeTM1MDdoZ19JblJyN2ZTLTRhZnYxM3JUaUNrMTc0c1Qzc2cyb3pVWkluNFZTckw3Yk82a2p1WGlGUzhnaVFSRUtCNWJrc3VWTGd4Q19Ta3BWMDkwdUlmX3A2RkdjWFdmN3dsVnVUdkNkSDQyaWo2V090QVAtMG9hMGQyVjA?oc=5",
@@ -383,6 +411,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-11T08:28:37+00:00"
+    },
+    {
+      "id": "a485345069926d26",
+      "title": "Case against Alabama Power goes to court - alabamas42.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU05lMVNWWlU5cTNhQ25pNmMyazIyTXEzMEMzT1c3d1hFS1lwYWk0Rkdnb19VajB3aVd1TmxQWnVZb0VLYzh4V21Idmk1T0tqLUQxWmRmaUpqeDllaTRNbWhmTEkxVEtuTm5MWVI2MmtSdEtVa3F0WThCYV9wR1pfR1dIQTA?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamas42.com",
+      "language": "English",
+      "published_at": "2026-09-09T22:08:51+00:00",
+      "summary": "Case against Alabama Power goes to court alabamas42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQU05lMVNWWlU5cTNhQ25pNmMyazIyTXEzMEMzT1c3d1hFS1lwYWk0Rkdnb19VajB3aVd1TmxQWnVZb0VLYzh4V21Idmk1T0tqLUQxWmRmaUpqeDllaTRNbWhmTEkxVEtuTm5MWVI2MmtSdEtVa3F0WThCYV9wR1pfR1dIQTA?oc=5\" target=\"_blank\">Case against Alabama Power goes to court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamas42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T20:44:53+00:00"
     },
     {
       "id": "493f9ee9cddfe06b",
@@ -607,6 +649,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-08T02:32:59+00:00"
+    },
+    {
+      "id": "9093ee2309edeefa",
+      "title": "Shelby County landowner asks court to temporarily stop Alabama Power transmission line work - alabamas42.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1pqcU5kMmRJangxY1FTLXpUQS1Qb3RsQzhJOEtHbXRtaTI4cXNmSWNUNktkTXNUUXBpQWNMcWx2ZTYyOWVqV1k0MGpkRF90Y3Zyelc0NmVJa0ZiQVVPTzR5bm5xbFh5ODl3Sld3WWxrMlpfeV83S0dORWtvWnFWSHNfeTdxODZMV0QzWXFPUHJOV3hab3BGVnZRZTYtRXludkFHNDJEY0V0WHppV3E5dzF3U3NTYXNTWVlVSDM3S05ab2_SAcgBQVVfeXFMTnRsTG94VTFfWUw3WlYzbl9keFNqWXI3REdEdF9KcXRYSmM2U2p1VGdqOThadzh1WFdBZUVzNXp4akZXYXBwYm5EM3hucS05U3Q4djNMQXJDV1Z2eG0tcTJETkx4TzhtbC13aTdhSHVtOEwwUUNLX2VZcnZNeWp6aERKaEtwS2VycTVSSXVaMml5TW5YSV9NR2dDRW1IMk1odG5NZi1DQXI1VnE4TVZOQl9NUmZOb2ZuSHdJMHo3Q1JJMDdIRHYyczA?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamas42.com",
+      "language": "English",
+      "published_at": "2026-09-07T20:47:38+00:00",
+      "summary": "Shelby County landowner asks court to temporarily stop Alabama Power transmission line work alabamas42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1pqcU5kMmRJangxY1FTLXpUQS1Qb3RsQzhJOEtHbXRtaTI4cXNmSWNUNktkTXNUUXBpQWNMcWx2ZTYyOWVqV1k0MGpkRF90Y3Zyelc0NmVJa0ZiQVVPTzR5bm5xbFh5ODl3Sld3WWxrMlpfeV83S0dORWtvWnFWSHNfeTdxODZMV0QzWXFPUHJOV3hab3BGVnZRZTYtRXludkFHNDJEY0V0WHppV3E5dzF3U3NTYXNTWVlVSDM3S05ab2_SAcgBQVVfeXFMTnRsTG94VTFfWUw3WlYzbl9keFNqWXI3REdEdF9KcXRYSmM2U2p1VGdqOThadzh1WFdBZUVzNXp4akZXYXBwYm5EM3hucS05U3Q4djNMQXJDV1Z2eG0tcTJETkx4TzhtbC13aTdhSHVtOEwwUUNLX2VZcnZNeWp6aERKaEtwS2VycTVSSXVaMml5TW5YSV9NR2dDRW1IMk1odG5NZi1DQXI1VnE4TVZOQl9NUmZOb2ZuSHdJMHo3Q1JJMDdIRHYyczA?oc=5\" target=\"_blank\">Shelby County landowner asks court to temporarily stop Alabama Power transmission line work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamas42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T20:44:53+00:00"
     },
     {
       "id": "3877f44199794646",
