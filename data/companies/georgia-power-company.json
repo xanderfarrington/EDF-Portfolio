@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-15T07:03:38+00:00",
+  "last_updated": "2026-09-15T13:03:16+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 666,
+  "count": 670,
   "mentions": [
+    {
+      "id": "b4ed7b86c34536e9",
+      "title": "Georgia Public Service Commission to hold first Savannah meeting with Georgia Power and OpenAI - WJCL",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnQwdTBlVzVVdGE2eGkyWDdsTk42WVB4NEpfTnE5dVlUSXBpOE9RR1JZa24zSEU1NDBrNUpTbGdjYjd2T0R3c0ZrVVFtb21IaHBsRTdjWm8tbHFxYW9VbXBqSV9RaWF6dXRsMzVrbFpIV0lHZG9wU1BINzgtLTFwbG92bW4wRGQ1dERNUDdyY25WZw?oc=5",
+      "domain": "news.google.com",
+      "source": "WJCL",
+      "language": "English",
+      "published_at": "2026-09-15T11:30:00+00:00",
+      "summary": "Georgia Public Service Commission to hold first Savannah meeting with Georgia Power and OpenAI WJCL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnQwdTBlVzVVdGE2eGkyWDdsTk42WVB4NEpfTnE5dVlUSXBpOE9RR1JZa24zSEU1NDBrNUpTbGdjYjd2T0R3c0ZrVVFtb21IaHBsRTdjWm8tbHFxYW9VbXBqSV9RaWF6dXRsMzVrbFpIV0lHZG9wU1BINzgtLTFwbG92bW4wRGQ1dERNUDdyY25WZw?oc=5\" target=\"_blank\">Georgia Public Service Commission to hold first Savannah meeting with Georgia Power and OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJCL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T13:03:16+00:00"
+    },
+    {
+      "id": "6539692caf417402",
+      "title": "Georgia Power secures approvals for 1.1 GW of solar PPAs (US) - Enerdata",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVJGNTBQLW1jeHVodVJIT2JaVllMUllkQ3YwYlV2c0dweUFsSGtEcmw0WGVBVTBqWF9EOEVsdFZ1dUpQa0pleUg0ZTJONFlyOGNXVGVzSEJZMDNMRFU1cG9mNnF6cnYwRU5VLXdtTEMxRnE2U0h4RkNEcV80MURIN3d3b1Q2TDlyb3FNVkdCM3FyZi1mNzlqc1pBcEN0b216YWhLRFVSc0R4N1hwZ2VXSWlR?oc=5",
+      "domain": "news.google.com",
+      "source": "Enerdata",
+      "language": "English",
+      "published_at": "2026-09-15T07:37:16+00:00",
+      "summary": "Georgia Power secures approvals for 1.1 GW of solar PPAs (US) Enerdata",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVJGNTBQLW1jeHVodVJIT2JaVllMUllkQ3YwYlV2c0dweUFsSGtEcmw0WGVBVTBqWF9EOEVsdFZ1dUpQa0pleUg0ZTJONFlyOGNXVGVzSEJZMDNMRFU1cG9mNnF6cnYwRU5VLXdtTEMxRnE2U0h4RkNEcV80MURIN3d3b1Q2TDlyb3FNVkdCM3FyZi1mNzlqc1pBcEN0b216YWhLRFVSc0R4N1hwZ2VXSWlR?oc=5\" target=\"_blank\">Georgia Power secures approvals for 1.1 GW of solar PPAs (US)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Enerdata</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T13:03:16+00:00"
+    },
     {
       "id": "55b92fbffe913356",
       "title": "Georgia Power’s Grid Expansion Plans Spur Questions - RTO Insider",
@@ -75,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-15T07:03:38+00:00"
+    },
+    {
+      "id": "179a0a72f5f86247",
+      "title": "Georgia regulators approve 1,137 MW of new solar power for Georgia Power - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjJ3cFVzOFUwM2ZIbkNmb1oyaEZmZkR6N3plUGdQOXU1UTRvWC1uSjVQeFhoNjZyZUo4c05oaWhmRzhQOEhOaG1MLXNTd3kwSHJ0dDNVclhVZmo3c1Q4VVAyZ2VJZHpLeE5IMk15dGJZNU9zb1ZITDFYY2hzb1VzMmxTOEFmWkg2ajVnNnp5S0UxVXNUZ0lsMHJwWUNiVVVHU1pHQ3JlQ2NaM0ZQaG0wMy1iTTRUaTlKd3c?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-09-14T11:59:33+00:00",
+      "summary": "Georgia regulators approve 1,137 MW of new solar power for Georgia Power Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjJ3cFVzOFUwM2ZIbkNmb1oyaEZmZkR6N3plUGdQOXU1UTRvWC1uSjVQeFhoNjZyZUo4c05oaWhmRzhQOEhOaG1MLXNTd3kwSHJ0dDNVclhVZmo3c1Q4VVAyZ2VJZHpLeE5IMk15dGJZNU9zb1ZITDFYY2hzb1VzMmxTOEFmWkg2ajVnNnp5S0UxVXNUZ0lsMHJwWUNiVVVHU1pHQ3JlQ2NaM0ZQaG0wMy1iTTRUaTlKd3c?oc=5\" target=\"_blank\">Georgia regulators approve 1,137 MW of new solar power for Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T13:03:16+00:00"
     },
     {
       "id": "a5d10ce0308f8d3c",
@@ -201,6 +243,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-11T17:39:12+00:00"
+    },
+    {
+      "id": "40c822aa17bc0973",
+      "title": "Georgia Power gains approval for 1.14GW of new solar agreements - power-technology.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR2VtV1BqdWZrVzhSRncwZkRUS255cW96TlRCWmFOeVNXUkNwYmJ6WUprazZJUlJEOHpHd2NpanZEQzg5VnhDb0VxUGI0ZDRlZV9PZ3dKZjh4NnJSX0xWT3JJVUxuZ29WWDF3NXh2MHBCZUpCR2ZUaEF0S0phVEFfZ3FncDl4Zw?oc=5",
+      "domain": "news.google.com",
+      "source": "power-technology.com",
+      "language": "English",
+      "published_at": "2026-09-11T10:14:36+00:00",
+      "summary": "Georgia Power gains approval for 1.14GW of new solar agreements power-technology.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNR2VtV1BqdWZrVzhSRncwZkRUS255cW96TlRCWmFOeVNXUkNwYmJ6WUprazZJUlJEOHpHd2NpanZEQzg5VnhDb0VxUGI0ZDRlZV9PZ3dKZjh4NnJSX0xWT3JJVUxuZ29WWDF3NXh2MHBCZUpCR2ZUaEF0S0phVEFfZ3FncDl4Zw?oc=5\" target=\"_blank\">Georgia Power gains approval for 1.14GW of new solar agreements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">power-technology.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T13:03:16+00:00"
     },
     {
       "id": "9787fca12be934a1",
