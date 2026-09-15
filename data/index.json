@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T13:03:27+00:00",
+  "last_updated": "2026-09-15T17:52:38+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 670,
+      "count": 673,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "b4ed7b86c34536e9",
-        "title": "Georgia Public Service Commission to hold first Savannah meeting with Georgia Power and OpenAI - WJCL",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnQwdTBlVzVVdGE2eGkyWDdsTk42WVB4NEpfTnE5dVlUSXBpOE9RR1JZa24zSEU1NDBrNUpTbGdjYjd2T0R3c0ZrVVFtb21IaHBsRTdjWm8tbHFxYW9VbXBqSV9RaWF6dXRsMzVrbFpIV0lHZG9wU1BINzgtLTFwbG92bW4wRGQ1dERNUDdyY25WZw?oc=5",
+        "id": "d44e36daed2f37bf",
+        "title": "Georgia Power starts up 128-MW BESS at Robins solar farm - Renewables Now",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQWx5aDJGSDBOVUZJMmlXR3oxMnYzSjVqYVBCZlQ2VFAwckszTThEaXlwdTVKUEtzb1RCMVlkdHVzbXVCUDhmOTFlUXR2dUZZYjNwVUp2SlNCYVRBeGN6UVVFVkZMYjBTWU16ek5VTVFtTl9RZVpyWDJid3p6bzFDX2M3ZmJza0pMY0F0RVlzLWJDWDJWQ19CRUlBT0Q?oc=5",
         "domain": "news.google.com",
-        "source": "WJCL",
+        "source": "Renewables Now",
         "language": "English",
-        "published_at": "2026-09-15T11:30:00+00:00",
-        "summary": "Georgia Public Service Commission to hold first Savannah meeting with Georgia Power and OpenAI WJCL",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnQwdTBlVzVVdGE2eGkyWDdsTk42WVB4NEpfTnE5dVlUSXBpOE9RR1JZa24zSEU1NDBrNUpTbGdjYjd2T0R3c0ZrVVFtb21IaHBsRTdjWm8tbHFxYW9VbXBqSV9RaWF6dXRsMzVrbFpIV0lHZG9wU1BINzgtLTFwbG92bW4wRGQ1dERNUDdyY25WZw?oc=5\" target=\"_blank\">Georgia Public Service Commission to hold first Savannah meeting with Georgia Power and OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJCL</font>",
+        "published_at": "2026-09-15T16:31:56+00:00",
+        "summary": "Georgia Power starts up 128-MW BESS at Robins solar farm Renewables Now",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOQWx5aDJGSDBOVUZJMmlXR3oxMnYzSjVqYVBCZlQ2VFAwckszTThEaXlwdTVKUEtzb1RCMVlkdHVzbXVCUDhmOTFlUXR2dUZZYjNwVUp2SlNCYVRBeGN6UVVFVkZMYjBTWU16ek5VTVFtTl9RZVpyWDJid3p6bzFDX2M3ZmJza0pMY0F0RVlzLWJDWDJWQ19CRUlBT0Q?oc=5\" target=\"_blank\">Georgia Power starts up 128-MW BESS at Robins solar farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Renewables Now</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-15T13:03:16+00:00"
+        "collected_at": "2026-09-15T17:52:27+00:00"
       }
     },
     {
