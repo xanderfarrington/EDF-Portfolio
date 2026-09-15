@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-14T20:06:54+00:00",
+  "last_updated": "2026-09-15T00:09:20+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 98,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "129ca168aa68a710",
         "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 664,
+      "count": 665,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "3812828f15474aa3",
-        "title": "Georgia Power spends money to study new nuclear reactor sites - AJC.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjR5TEVwQm5scjA5Ylo2SVZhSnY1eWs5b1FRX0kzaDJnS2Q1TWJiVFlXSmU2em5FTkNrTF9WV00yLW1EdzBabkd5STA3SzI4VGdWS0JmSTVwSnVhN0JpMjN3NXBRUHVQQmxPTVFEb1ZKN19Zai1lS0ZVTktvaXlPNnpvODZNOUpjN1A1X0tSUG5YS2RnMHJpbjFSQVVCTkpkUDdYdTdudDRiWmE3?oc=5",
+        "id": "55b92fbffe913356",
+        "title": "Georgia Power’s Grid Expansion Plans Spur Questions - RTO Insider",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3VDME9oY094NHFZYXZFbDhzU2xqak9jUHJ4enZyVzhlRGpGX1hpWkF1aWlFZE5JTFBHbFpheEhQN0VPMUZRNjNJbGdMYkJDWF8wbnhRUVhtbGx0WHFHdVNuc2xlamRNUUtER3RYX1JEU2pmZXR4aVRzTThtaS0wR1puakQzS3VYdHFURA?oc=5",
         "domain": "news.google.com",
-        "source": "AJC.com",
+        "source": "RTO Insider",
         "language": "English",
-        "published_at": "2026-09-14T16:32:10+00:00",
-        "summary": "Georgia Power spends money to study new nuclear reactor sites AJC.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjR5TEVwQm5scjA5Ylo2SVZhSnY1eWs5b1FRX0kzaDJnS2Q1TWJiVFlXSmU2em5FTkNrTF9WV00yLW1EdzBabkd5STA3SzI4VGdWS0JmSTVwSnVhN0JpMjN3NXBRUHVQQmxPTVFEb1ZKN19Zai1lS0ZVTktvaXlPNnpvODZNOUpjN1A1X0tSUG5YS2RnMHJpbjFSQVVCTkpkUDdYdTdudDRiWmE3?oc=5\" target=\"_blank\">Georgia Power spends money to study new nuclear reactor sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+        "published_at": "2026-09-14T20:12:50+00:00",
+        "summary": "Georgia Power’s Grid Expansion Plans Spur Questions RTO Insider",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3VDME9oY094NHFZYXZFbDhzU2xqak9jUHJ4enZyVzhlRGpGX1hpWkF1aWlFZE5JTFBHbFpheEhQN0VPMUZRNjNJbGdMYkJDWF8wbnhRUVhtbGx0WHFHdVNuc2xlamRNUUtER3RYX1JEU2pmZXR4aVRzTThtaS0wR1puakQzS3VYdHFURA?oc=5\" target=\"_blank\">Georgia Power’s Grid Expansion Plans Spur Questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-14T20:06:43+00:00"
+        "collected_at": "2026-09-15T00:09:09+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 57,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "26c14d0218c5b451",
         "title": "White & Case advises the Office of Energy Dominance Financing on US$1.917 billion in loans for Iowa nuclear power plant - White & Case LLP",

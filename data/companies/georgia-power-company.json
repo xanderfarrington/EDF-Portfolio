@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-14T20:06:43+00:00",
+  "last_updated": "2026-09-15T00:09:09+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 664,
+  "count": 665,
   "mentions": [
+    {
+      "id": "55b92fbffe913356",
+      "title": "Georgia Power’s Grid Expansion Plans Spur Questions - RTO Insider",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3VDME9oY094NHFZYXZFbDhzU2xqak9jUHJ4enZyVzhlRGpGX1hpWkF1aWlFZE5JTFBHbFpheEhQN0VPMUZRNjNJbGdMYkJDWF8wbnhRUVhtbGx0WHFHdVNuc2xlamRNUUtER3RYX1JEU2pmZXR4aVRzTThtaS0wR1puakQzS3VYdHFURA?oc=5",
+      "domain": "news.google.com",
+      "source": "RTO Insider",
+      "language": "English",
+      "published_at": "2026-09-14T20:12:50+00:00",
+      "summary": "Georgia Power’s Grid Expansion Plans Spur Questions RTO Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3VDME9oY094NHFZYXZFbDhzU2xqak9jUHJ4enZyVzhlRGpGX1hpWkF1aWlFZE5JTFBHbFpheEhQN0VPMUZRNjNJbGdMYkJDWF8wbnhRUVhtbGx0WHFHdVNuc2xlamRNUUtER3RYX1JEU2pmZXR4aVRzTThtaS0wR1puakQzS3VYdHFURA?oc=5\" target=\"_blank\">Georgia Power’s Grid Expansion Plans Spur Questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T00:09:09+00:00"
+    },
     {
       "id": "3812828f15474aa3",
       "title": "Georgia Power spends money to study new nuclear reactor sites - AJC.com",
