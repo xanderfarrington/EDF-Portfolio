@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-15T00:09:09+00:00",
+  "last_updated": "2026-09-15T07:03:38+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 665,
+  "count": 666,
   "mentions": [
     {
       "id": "55b92fbffe913356",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-14T20:06:43+00:00"
+    },
+    {
+      "id": "68713955755ece76",
+      "title": "Georgia Power encourages customers to take action during National Preparedness Month - griceconnect.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2F0R29GNXhWSENsSDc3dXFsTzFSOE9KRm9jX1VTY09WdkdSWklDMFhnb2xlODdyWHRIQVEwbnV0bHJoNmtMRDk3a0xBNEhHd2N3V0lXZU1KSHV1eXUzN09pX3FiMEtfMlM1WHhONUtGLUhkWU1rS042OGdqOVFZaW1BYUxNbGI3NmtLZGZ4MnlFWEdaR0MxYWhHeGFHUzAwNWMzektEaklZamJNVjF4UzVLRjBrYXRBcE5kS2sxS3I5YXZiaUM4c05tbVdjQnFIZGFv0gHTAUFVX3lxTE5DYXRHb0Y1eFZIQ2xINzd1cWxPMVI4T0pGb2NfVVNjT1Z2R1JaSUMwWGdvbGU4N3JYdEhBUTBudXRscmg2a0xEOTdrTEE0SEd3Y3dXSVdlTUpIdXV5dTM3T2lfcWIwS18yUzVYeE41S0YtSGRZTWtLTjY4Z2o5UVlpbUFhTE1sYjc2a0tkZngyeUVYR1pHQzFhaEd4YUdTMDA1YzN6S0RqSVlqYk1WMXhTNUtGMGthdEFwTmRLazFLcjlhdmJpQzhzTm1tV2NCcUhkYW8?oc=5",
+      "domain": "news.google.com",
+      "source": "griceconnect.com",
+      "language": "English",
+      "published_at": "2026-09-14T14:10:00+00:00",
+      "summary": "Georgia Power encourages customers to take action during National Preparedness Month griceconnect.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2F0R29GNXhWSENsSDc3dXFsTzFSOE9KRm9jX1VTY09WdkdSWklDMFhnb2xlODdyWHRIQVEwbnV0bHJoNmtMRDk3a0xBNEhHd2N3V0lXZU1KSHV1eXUzN09pX3FiMEtfMlM1WHhONUtGLUhkWU1rS042OGdqOVFZaW1BYUxNbGI3NmtLZGZ4MnlFWEdaR0MxYWhHeGFHUzAwNWMzektEaklZamJNVjF4UzVLRjBrYXRBcE5kS2sxS3I5YXZiaUM4c05tbVdjQnFIZGFv0gHTAUFVX3lxTE5DYXRHb0Y1eFZIQ2xINzd1cWxPMVI4T0pGb2NfVVNjT1Z2R1JaSUMwWGdvbGU4N3JYdEhBUTBudXRscmg2a0xEOTdrTEE0SEd3Y3dXSVdlTUpIdXV5dTM3T2lfcWIwS18yUzVYeE41S0YtSGRZTWtLTjY4Z2o5UVlpbUFhTE1sYjc2a0tkZngyeUVYR1pHQzFhaEd4YUdTMDA1YzN6S0RqSVlqYk1WMXhTNUtGMGthdEFwTmRLazFLcjlhdmJpQzhzTm1tV2NCcUhkYW8?oc=5\" target=\"_blank\">Georgia Power encourages customers to take action during National Preparedness Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">griceconnect.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-15T07:03:38+00:00"
     },
     {
       "id": "a5d10ce0308f8d3c",
