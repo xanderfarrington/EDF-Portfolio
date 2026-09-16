@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T14:31:25+00:00",
+  "last_updated": "2026-09-16T19:17:42+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 381,
+      "count": 382,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "65b46d48ab9b023b",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 694,
+      "count": 698,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "9cddbd21d65312a2",
-        "title": "Data center concerns take center stage at Public Service Commission town hall held in Savannah - WJCL",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMzZHTllrMkJlMWRUYnVSc2VGV1RiZWhmS1dMTXhYQ09vSzZWaEt6dHdpRjJMNXFnc3RiY09qa0UzMGRjYVQzdC1VcjU3RmtBTkp0WS0tU2tlTkNPZXMtTG1nRGwxQmdBRHJNS3JMSVF5QW9ia3ltaFFTazBybXdBUm9LZU9QajQ5aG41U1FR?oc=5",
+        "id": "c04868f63aacadb1",
+        "title": "Georgia PSC travels to Savannah for meeting on data centers, power bills - WABE",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzRhZVUyY2pELXdSV1B5NGJWdFRGZzB0OXRtWFhPMEJqak5sQVJJRTlidHU5Nkx4XzdwaVBoa1E0NXFJdlVkdEU0V3pxbnAxd3ZJaWlLS2p5SEZiaW9MYzNrSHhnWDI3OXI0OEthdnQ1WUlxTFpDdTlpdkliVlppTDBzcWRRQnB6LW1DVnlyS0RkNGk0NnppZQ?oc=5",
         "domain": "news.google.com",
-        "source": "WJCL",
+        "source": "WABE",
         "language": "English",
-        "published_at": "2026-09-16T13:09:00+00:00",
-        "summary": "Data center concerns take center stage at Public Service Commission town hall held in Savannah WJCL",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOMzZHTllrMkJlMWRUYnVSc2VGV1RiZWhmS1dMTXhYQ09vSzZWaEt6dHdpRjJMNXFnc3RiY09qa0UzMGRjYVQzdC1VcjU3RmtBTkp0WS0tU2tlTkNPZXMtTG1nRGwxQmdBRHJNS3JMSVF5QW9ia3ltaFFTazBybXdBUm9LZU9QajQ5aG41U1FR?oc=5\" target=\"_blank\">Data center concerns take center stage at Public Service Commission town hall held in Savannah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJCL</font>",
+        "published_at": "2026-09-16T18:32:44+00:00",
+        "summary": "Georgia PSC travels to Savannah for meeting on data centers, power bills WABE",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzRhZVUyY2pELXdSV1B5NGJWdFRGZzB0OXRtWFhPMEJqak5sQVJJRTlidHU5Nkx4XzdwaVBoa1E0NXFJdlVkdEU0V3pxbnAxd3ZJaWlLS2p5SEZiaW9MYzNrSHhnWDI3OXI0OEthdnQ1WUlxTFpDdTlpdkliVlppTDBzcWRRQnB6LW1DVnlyS0RkNGk0NnppZQ?oc=5\" target=\"_blank\">Georgia PSC travels to Savannah for meeting on data centers, power bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-16T14:31:15+00:00"
+        "collected_at": "2026-09-16T19:17:32+00:00"
       }
     },
     {

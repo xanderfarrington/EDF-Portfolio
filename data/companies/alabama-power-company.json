@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-16T14:30:58+00:00",
+  "last_updated": "2026-09-16T19:17:15+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 381,
+  "count": 382,
   "mentions": [
     {
       "id": "65b46d48ab9b023b",
@@ -565,6 +565,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-08T19:11:13+00:00"
+    },
+    {
+      "id": "2ac92ad52620561e",
+      "title": "Landowner asks court to temporarily stop Alabama Power transmission line work - alabamas42.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pWMjJPWFIyZXBkTjRBVWtFakJyakhVdzNmTnRrM3RURTYzR2pmc2R3RXRwTE5wRUp5Nk1OelJyUlBaQTNSU05nMHhPZzJNUnNJU0FvRTV1bmRZRVdvV1RlbGJHRE9kQXFQd3lBNy1DQml2dUtzSjZaTjVPZ0VCbVVMVnlzZTlYUXVvcGVsMHhZWlBMTEk4MGJkeFQtU0U3YVhJbFlLS2hEcG4wTHhKR2VSX0lRUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamas42.com",
+      "language": "English",
+      "published_at": "2026-09-08T11:24:26+00:00",
+      "summary": "Landowner asks court to temporarily stop Alabama Power transmission line work alabamas42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pWMjJPWFIyZXBkTjRBVWtFakJyakhVdzNmTnRrM3RURTYzR2pmc2R3RXRwTE5wRUp5Nk1OelJyUlBaQTNSU05nMHhPZzJNUnNJU0FvRTV1bmRZRVdvV1RlbGJHRE9kQXFQd3lBNy1DQml2dUtzSjZaTjVPZ0VCbVVMVnlzZTlYUXVvcGVsMHhZWlBMTEk4MGJkeFQtU0U3YVhJbFlLS2hEcG4wTHhKR2VSX0lRUQ?oc=5\" target=\"_blank\">Landowner asks court to temporarily stop Alabama Power transmission line work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamas42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-16T19:17:15+00:00"
     },
     {
       "id": "906f0e55c3b92309",
