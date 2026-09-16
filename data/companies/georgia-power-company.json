@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-16T19:17:32+00:00",
+  "last_updated": "2026-09-16T22:33:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 698,
+  "count": 699,
   "mentions": [
     {
       "id": "c04868f63aacadb1",
@@ -173,6 +173,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-16T19:17:32+00:00"
+    },
+    {
+      "id": "f517adf0a654f5d8",
+      "title": "Georgia Power Starts 128-MW Battery Storage Facility Near Robins AFB - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2VsRkFZQlBnQkp5OXh2RmlvTXFMR2tlOExkaXVnY0F2WXpkNDZNR3MyeWxReFpQZkRFNnV0RGY5UDJveDFxQVlXZGVtb3VKa0JuNXdnRkJCTzE4cTh6Y2xpZnZHTThVVXB5Q090YVM3N3JpNVBDd040NzFXVzFHTEl3?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo! Finance Canada",
+      "language": "English",
+      "published_at": "2026-09-16T03:00:00+00:00",
+      "summary": "Georgia Power Starts 128-MW Battery Storage Facility Near Robins AFB Yahoo! Finance Canada",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2VsRkFZQlBnQkp5OXh2RmlvTXFMR2tlOExkaXVnY0F2WXpkNDZNR3MyeWxReFpQZkRFNnV0RGY5UDJveDFxQVlXZGVtb3VKa0JuNXdnRkJCTzE4cTh6Y2xpZnZHTThVVXB5Q090YVM3N3JpNVBDd040NzFXVzFHTEl3?oc=5\" target=\"_blank\">Georgia Power Starts 128-MW Battery Storage Facility Near Robins AFB</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-16T22:33:40+00:00"
     },
     {
       "id": "3a7ddf85d79b5e72",
