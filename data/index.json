@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-15T23:54:19+00:00",
+  "last_updated": "2026-09-16T02:51:00+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 98,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "129ca168aa68a710",
         "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 681,
+      "count": 685,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "479b447b693c38a7",
-        "title": "Savannah residents voice concerns over Georgia Power’s ties to proposed OpenAI data center - WTOC",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHhjV2FsekxMa1QwSVdCQkNvdVIyV1I1LTlMbFIxTFRVeW1sazJwWWd2dzJlY0FQeTk4MVpyQkd6Z1FlQ2NFZHl6MlF2RW1wS0FlaTI4V3ozam43TW5reHhLd0hNMDlKdVpVLThFeVNjWWYtaHRRYkVOaUhOcTRqVDZCUUx4Nm5CcHZZOExlekFmZllsNDdtMHFrV0taV3I4Mml4R2ZuN2VwZ0tkZG9FaFl2aEhVR0x4V3JJ0gHPAUFVX3lxTFB3TDJMZTQydUUzSy1SUGN5NkJ2N2dlSTQ3T1dqZEVEMXRBbzBCOWltaXdTMzFMazJtS3B6Mi03akszQUhyMV9DSXFIZ2R4T2RCVHNFTHlzZkFoQU4xU3VyQXo3OU01RjhVUEhBRVZuRWVsMi0wR2Q1Nm1tTi1lcXRaZVJ5U3JNZ3RmZExfREhia2p6RGNERXo3THJXOWo2WVBWaWRiRV9NcTFsZjNhcDVLMkhtSUUwUjI0dVctYm9TdGdwUjJYSVhZLWRhOWtMUQ?oc=5",
+        "id": "3a7ddf85d79b5e72",
+        "title": "Residents question OpenAI, Georgia Power at PSC meeting - Bryan County News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2tzQ3Nra0gtcXNFMklPMTg4MElUSkVLc0dZcVBuZ3FxVklJamc5dTlYb1NyZzd0N25xaE12dkx2Z2xnQjU5YTlIV1BraHYtME51OWVtLVJPbXM3LTBWdU84OGJBZ3dSdWdjZHFCR1ZiN2dFSWxQMXNBWkM3eUhoOW9ZUGc0VzFxRG5kYnA3Y2hLdGdWak5V?oc=5",
         "domain": "news.google.com",
-        "source": "WTOC",
+        "source": "Bryan County News",
         "language": "English",
-        "published_at": "2026-09-15T22:56:00+00:00",
-        "summary": "Savannah residents voice concerns over Georgia Power’s ties to proposed OpenAI data center WTOC",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHhjV2FsekxMa1QwSVdCQkNvdVIyV1I1LTlMbFIxTFRVeW1sazJwWWd2dzJlY0FQeTk4MVpyQkd6Z1FlQ2NFZHl6MlF2RW1wS0FlaTI4V3ozam43TW5reHhLd0hNMDlKdVpVLThFeVNjWWYtaHRRYkVOaUhOcTRqVDZCUUx4Nm5CcHZZOExlekFmZllsNDdtMHFrV0taV3I4Mml4R2ZuN2VwZ0tkZG9FaFl2aEhVR0x4V3JJ0gHPAUFVX3lxTFB3TDJMZTQydUUzSy1SUGN5NkJ2N2dlSTQ3T1dqZEVEMXRBbzBCOWltaXdTMzFMazJtS3B6Mi03akszQUhyMV9DSXFIZ2R4T2RCVHNFTHlzZkFoQU4xU3VyQXo3OU01RjhVUEhBRVZuRWVsMi0wR2Q1Nm1tTi1lcXRaZVJ5U3JNZ3RmZExfREhia2p6RGNERXo3THJXOWo2WVBWaWRiRV9NcTFsZjNhcDVLMkhtSUUwUjI0dVctYm9TdGdwUjJYSVhZLWRhOWtMUQ?oc=5\" target=\"_blank\">Savannah residents voice concerns over Georgia Power’s ties to proposed OpenAI data center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+        "published_at": "2026-09-15T23:58:22+00:00",
+        "summary": "Residents question OpenAI, Georgia Power at PSC meeting Bryan County News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2tzQ3Nra0gtcXNFMklPMTg4MElUSkVLc0dZcVBuZ3FxVklJamc5dTlYb1NyZzd0N25xaE12dkx2Z2xnQjU5YTlIV1BraHYtME51OWVtLVJPbXM3LTBWdU84OGJBZ3dSdWdjZHFCR1ZiN2dFSWxQMXNBWkM3eUhoOW9ZUGc0VzFxRG5kYnA3Y2hLdGdWak5V?oc=5\" target=\"_blank\">Residents question OpenAI, Georgia Power at PSC meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bryan County News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-15T23:54:08+00:00"
+        "collected_at": "2026-09-16T02:50:49+00:00"
       }
     },
     {
