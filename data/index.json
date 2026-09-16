@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-16T09:01:01+00:00",
+  "last_updated": "2026-09-16T14:31:25+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 98,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "129ca168aa68a710",
         "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 380,
+      "count": 381,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "65b46d48ab9b023b",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 101,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 688,
+      "count": 694,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "07fb79d413f56197",
-        "title": "Homeowner billed $6.7K after Georgia Power failure damaged her appliances - WSB-TV",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSExPNTh4OW16LXZjbzFTTGhjQ0VQbnRXR2JvRC1EandNaGl4VU9xaDN1emQzYUQzaWFtWEpubmpQWmVBTG1vTG81QTh2TWR5OFgtdVpnQlhoOVdlMU01M0xFazFPWlgyXzhXSVFzNG1rd3hTVVU0dUgwT1BHN1FaeEhncWdzY2lOdGRNa0JLdEJ6amE3eTlEbXpUbDVrUDJRYUFKU0VCc1hscmJDYlZyY2VfNVh6U3JST2JDUFRMeFFjNU5ycHhUdmkxajdjbzRIOXhIRTBQUjBIWkwtNENMTVRJVQ?oc=5",
+        "id": "9cddbd21d65312a2",
+        "title": "Data center concerns take center stage at Public Service Commission town hall held in Savannah - WJCL",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMzZHTllrMkJlMWRUYnVSc2VGV1RiZWhmS1dMTXhYQ09vSzZWaEt6dHdpRjJMNXFnc3RiY09qa0UzMGRjYVQzdC1VcjU3RmtBTkp0WS0tU2tlTkNPZXMtTG1nRGwxQmdBRHJNS3JMSVF5QW9ia3ltaFFTazBybXdBUm9LZU9QajQ5aG41U1FR?oc=5",
         "domain": "news.google.com",
-        "source": "WSB-TV",
+        "source": "WJCL",
         "language": "English",
-        "published_at": "2026-09-16T04:12:40+00:00",
-        "summary": "Homeowner billed $6.7K after Georgia Power failure damaged her appliances WSB-TV",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSExPNTh4OW16LXZjbzFTTGhjQ0VQbnRXR2JvRC1EandNaGl4VU9xaDN1emQzYUQzaWFtWEpubmpQWmVBTG1vTG81QTh2TWR5OFgtdVpnQlhoOVdlMU01M0xFazFPWlgyXzhXSVFzNG1rd3hTVVU0dUgwT1BHN1FaeEhncWdzY2lOdGRNa0JLdEJ6amE3eTlEbXpUbDVrUDJRYUFKU0VCc1hscmJDYlZyY2VfNVh6U3JST2JDUFRMeFFjNU5ycHhUdmkxajdjbzRIOXhIRTBQUjBIWkwtNENMTVRJVQ?oc=5\" target=\"_blank\">Homeowner billed $6.7K after Georgia Power failure damaged her appliances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "published_at": "2026-09-16T13:09:00+00:00",
+        "summary": "Data center concerns take center stage at Public Service Commission town hall held in Savannah WJCL",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOMzZHTllrMkJlMWRUYnVSc2VGV1RiZWhmS1dMTXhYQ09vSzZWaEt6dHdpRjJMNXFnc3RiY09qa0UzMGRjYVQzdC1VcjU3RmtBTkp0WS0tU2tlTkNPZXMtTG1nRGwxQmdBRHJNS3JMSVF5QW9ia3ltaFFTazBybXdBUm9LZU9QajQ5aG41U1FR?oc=5\" target=\"_blank\">Data center concerns take center stage at Public Service Commission town hall held in Savannah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJCL</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-16T09:00:50+00:00"
+        "collected_at": "2026-09-16T14:31:15+00:00"
       }
     },
     {

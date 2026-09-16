@@ -2,10 +2,52 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-16T09:00:50+00:00",
+  "last_updated": "2026-09-16T14:31:15+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 688,
+  "count": 694,
   "mentions": [
+    {
+      "id": "9cddbd21d65312a2",
+      "title": "Data center concerns take center stage at Public Service Commission town hall held in Savannah - WJCL",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMzZHTllrMkJlMWRUYnVSc2VGV1RiZWhmS1dMTXhYQ09vSzZWaEt6dHdpRjJMNXFnc3RiY09qa0UzMGRjYVQzdC1VcjU3RmtBTkp0WS0tU2tlTkNPZXMtTG1nRGwxQmdBRHJNS3JMSVF5QW9ia3ltaFFTazBybXdBUm9LZU9QajQ5aG41U1FR?oc=5",
+      "domain": "news.google.com",
+      "source": "WJCL",
+      "language": "English",
+      "published_at": "2026-09-16T13:09:00+00:00",
+      "summary": "Data center concerns take center stage at Public Service Commission town hall held in Savannah WJCL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOMzZHTllrMkJlMWRUYnVSc2VGV1RiZWhmS1dMTXhYQ09vSzZWaEt6dHdpRjJMNXFnc3RiY09qa0UzMGRjYVQzdC1VcjU3RmtBTkp0WS0tU2tlTkNPZXMtTG1nRGwxQmdBRHJNS3JMSVF5QW9ia3ltaFFTazBybXdBUm9LZU9QajQ5aG41U1FR?oc=5\" target=\"_blank\">Data center concerns take center stage at Public Service Commission town hall held in Savannah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJCL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-16T14:31:15+00:00"
+    },
+    {
+      "id": "a2b88380a9d0b85f",
+      "title": "Georgia Power finishes new storage facility near Air Force base - Solar Builder",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV3R1WHl5WUZVSTdwQTF0X1E0aTRYSFJlWU4xNXBCV3lLMXdWV1NIcnJDVUZ3MFZmNmtENGZVZVMtTks1RDJ2ekNlQnh2UktKYlFYeXMxbVVYR2lBNGR2ZktSaVhuR2dCaEFiV1NfOXpsNTBiNDhLdXJ5STBTZkNiR201djB6aWlTYXJtVEhfbnM2aTdieVg5SnZkV09ZMnFFYlRkS1Nxak9mZ2c?oc=5",
+      "domain": "news.google.com",
+      "source": "Solar Builder",
+      "language": "English",
+      "published_at": "2026-09-16T13:05:35+00:00",
+      "summary": "Georgia Power finishes new storage facility near Air Force base Solar Builder",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV3R1WHl5WUZVSTdwQTF0X1E0aTRYSFJlWU4xNXBCV3lLMXdWV1NIcnJDVUZ3MFZmNmtENGZVZVMtTks1RDJ2ekNlQnh2UktKYlFYeXMxbVVYR2lBNGR2ZktSaVhuR2dCaEFiV1NfOXpsNTBiNDhLdXJ5STBTZkNiR201djB6aWlTYXJtVEhfbnM2aTdieVg5SnZkV09ZMnFFYlRkS1Nxak9mZ2c?oc=5\" target=\"_blank\">Georgia Power finishes new storage facility near Air Force base</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solar Builder</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-16T14:31:15+00:00"
+    },
+    {
+      "id": "e9c85fa62d53b401",
+      "title": "Georgia PSC comes to Savannah, faces ire over data centers - savannahnow.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0lnZmRVUi1BQnBmeUdEZWdGemx1bmVZcnBKRHpvNGMwWXgyNnAwUUFyNWxtYXBpa2wydjd1SmhyT09xZWpscUdRNzM4bHdQTWlrWkIwOWFFZmQtcnBuRTlXT0h2WS1YUFY1UkhXUXl0QTg2SHFiNGpvVmd6TlhpWTZVT0x3amVES05ha0xOd2dDRmxaQWVXdmx6Vk9Lc2ozcGxzaF9TYTY1OGh4ZEIxcGZiMEwtb1o1eGx4MndLZE9PYU1I?oc=5",
+      "domain": "news.google.com",
+      "source": "savannahnow.com",
+      "language": "English",
+      "published_at": "2026-09-16T12:11:00+00:00",
+      "summary": "Georgia PSC comes to Savannah, faces ire over data centers savannahnow.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0lnZmRVUi1BQnBmeUdEZWdGemx1bmVZcnBKRHpvNGMwWXgyNnAwUUFyNWxtYXBpa2wydjd1SmhyT09xZWpscUdRNzM4bHdQTWlrWkIwOWFFZmQtcnBuRTlXT0h2WS1YUFY1UkhXUXl0QTg2SHFiNGpvVmd6TlhpWTZVT0x3amVES05ha0xOd2dDRmxaQWVXdmx6Vk9Lc2ozcGxzaF9TYTY1OGh4ZEIxcGZiMEwtb1o1eGx4MndLZE9PYU1I?oc=5\" target=\"_blank\">Georgia PSC comes to Savannah, faces ire over data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">savannahnow.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-16T14:31:15+00:00"
+    },
     {
       "id": "07fb79d413f56197",
       "title": "Homeowner billed $6.7K after Georgia Power failure damaged her appliances - WSB-TV",
@@ -35,6 +77,20 @@
       "collected_at": "2026-09-16T09:00:50+00:00"
     },
     {
+      "id": "c5a2833d25e5989a",
+      "title": "Homeowner pays out $6.7K after Georgia Power equipment failure damaged her appliances - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUFjZUtncHlZMl9oVnlfY2s0UU95SjlNMEQyTmdSa09ubjRiRGs1SVFwOS14UW5CMHoxZ28wVGdLUjJrNEVDb19SLVZJbkFPWTB2N1hNVTBVLWU0bGFyTFRYR2lyajhsZnBPYzZpQURjcHRaOEhRUkNFVHFtaE9WbGx4U3FzYTJ5dTNndHlDNTlaNXJhQ1l5UFFpY0pGLTJmU2lUV0tUYkJKanV4ZnhaT3FGcG0yNi1vTUE5YWpZQ0NKVUFvOVU5b2I4UGLSAeABQVVfeXFMUDhScDAxNFZ4eFJKYzB4bE15VHQ2VXdZdU1oaXRzQzhXb1V4cDBDSW9qN1N4SzdRZFk5WkpiTUVWeTVNdS1mQUdfdkozc1l0TFZ2S3BGZzlfSUhMamQ4T2pjNHZlUjNyb0E3UFhhMjEzTlQ0Ni1GQzF6ZF9rX01iaTBwOHRKdW95Qk1ueEVmTUZXSDlXaWZnNE1aRU5ZUjdtVDdOZk9qVDJfcldRYW9WWC14S0FxNEtTaEgzOFhUZUFPbEpBaDFGcXVfWkNkRTFVU2h4aHJ3MG9UM1oyUHhSb0w?oc=5",
+      "domain": "news.google.com",
+      "source": "WSB-TV",
+      "language": "English",
+      "published_at": "2026-09-16T04:10:44+00:00",
+      "summary": "Homeowner pays out $6.7K after Georgia Power equipment failure damaged her appliances WSB-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUFjZUtncHlZMl9oVnlfY2s0UU95SjlNMEQyTmdSa09ubjRiRGs1SVFwOS14UW5CMHoxZ28wVGdLUjJrNEVDb19SLVZJbkFPWTB2N1hNVTBVLWU0bGFyTFRYR2lyajhsZnBPYzZpQURjcHRaOEhRUkNFVHFtaE9WbGx4U3FzYTJ5dTNndHlDNTlaNXJhQ1l5UFFpY0pGLTJmU2lUV0tUYkJKanV4ZnhaT3FGcG0yNi1vTUE5YWpZQ0NKVUFvOVU5b2I4UGLSAeABQVVfeXFMUDhScDAxNFZ4eFJKYzB4bE15VHQ2VXdZdU1oaXRzQzhXb1V4cDBDSW9qN1N4SzdRZFk5WkpiTUVWeTVNdS1mQUdfdkozc1l0TFZ2S3BGZzlfSUhMamQ4T2pjNHZlUjNyb0E3UFhhMjEzTlQ0Ni1GQzF6ZF9rX01iaTBwOHRKdW95Qk1ueEVmTUZXSDlXaWZnNE1aRU5ZUjdtVDdOZk9qVDJfcldRYW9WWC14S0FxNEtTaEgzOFhUZUFPbEpBaDFGcXVfWkNkRTFVU2h4aHJ3MG9UM1oyUHhSb0w?oc=5\" target=\"_blank\">Homeowner pays out $6.7K after Georgia Power equipment failure damaged her appliances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-16T14:31:15+00:00"
+    },
+    {
       "id": "e3590b8dd7e52e59",
       "title": "Georgia Power Starts 128-MW Battery Storage Facility Near Robins AFB - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3FKTk9QUmJOVEpldEswTm96bExhYjJ3T0stRmFwSDVMSmZsdGFuOWNaelpLTFBNWWtsQUZ2TGw1ZXBRbFdrVVVxTHRmbThpQUphODNiTVYtVmVCM1ZlVXpZbTFOWjREcUxlMW80QndtOXg5eVFGenRPQ2tIRi1GOU5NOG1RSUhZOUFoTw?oc=5",
@@ -47,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-16T09:00:50+00:00"
+    },
+    {
+      "id": "096cd465506e8ed4",
+      "title": "Georgia Power Starts 128-MW Battery Storage Facility Near Robins AFB - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3FKTk9QUmJOVEpldEswTm96bExhYjJ3T0stRmFwSDVMSmZsdGFuOWNaelpLTFBNWWtsQUZ2TGw1ZXBRbFdrVVVxTHRmbThpQUphODNiTVYtVmVCM1ZlVXpZbTFOWjREcUxlMW80QndtOXg5eVFGenRPQ2tIRi1GOU5NOG1RSUhZOUFoTw?oc=5",
+      "domain": "news.google.com",
+      "source": "finance.yahoo.com",
+      "language": "English",
+      "published_at": "2026-09-16T03:00:00+00:00",
+      "summary": "Georgia Power Starts 128-MW Battery Storage Facility Near Robins AFB finance.yahoo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3FKTk9QUmJOVEpldEswTm96bExhYjJ3T0stRmFwSDVMSmZsdGFuOWNaelpLTFBNWWtsQUZ2TGw1ZXBRbFdrVVVxTHRmbThpQUphODNiTVYtVmVCM1ZlVXpZbTFOWjREcUxlMW80QndtOXg5eVFGenRPQ2tIRi1GOU5NOG1RSUhZOUFoTw?oc=5\" target=\"_blank\">Georgia Power Starts 128-MW Battery Storage Facility Near Robins AFB</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-16T14:31:15+00:00"
     },
     {
       "id": "3a7ddf85d79b5e72",
@@ -355,6 +425,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-15T23:54:08+00:00"
+    },
+    {
+      "id": "27c43c71838221ad",
+      "title": "Georgia regulators approve 1,137 MW of new solar power for Georgia Power - dailyenergyinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjJ3cFVzOFUwM2ZIbkNmb1oyaEZmZkR6N3plUGdQOXU1UTRvWC1uSjVQeFhoNjZyZUo4c05oaWhmRzhQOEhOaG1MLXNTd3kwSHJ0dDNVclhVZmo3c1Q4VVAyZ2VJZHpLeE5IMk15dGJZNU9zb1ZITDFYY2hzb1VzMmxTOEFmWkg2ajVnNnp5S0UxVXNUZ0lsMHJwWUNiVVVHU1pHQ3JlQ2NaM0ZQaG0wMy1iTTRUaTlKd3c?oc=5",
+      "domain": "news.google.com",
+      "source": "dailyenergyinsider.com",
+      "language": "English",
+      "published_at": "2026-09-14T11:59:33+00:00",
+      "summary": "Georgia regulators approve 1,137 MW of new solar power for Georgia Power dailyenergyinsider.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjJ3cFVzOFUwM2ZIbkNmb1oyaEZmZkR6N3plUGdQOXU1UTRvWC1uSjVQeFhoNjZyZUo4c05oaWhmRzhQOEhOaG1MLXNTd3kwSHJ0dDNVclhVZmo3c1Q4VVAyZ2VJZHpLeE5IMk15dGJZNU9zb1ZITDFYY2hzb1VzMmxTOEFmWkg2ajVnNnp5S0UxVXNUZ0lsMHJwWUNiVVVHU1pHQ3JlQ2NaM0ZQaG0wMy1iTTRUaTlKd3c?oc=5\" target=\"_blank\">Georgia regulators approve 1,137 MW of new solar power for Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailyenergyinsider.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-16T14:31:15+00:00"
     },
     {
       "id": "a5d10ce0308f8d3c",
