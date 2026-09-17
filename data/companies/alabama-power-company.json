@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-17T02:54:31+00:00",
+  "last_updated": "2026-09-17T09:05:26+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 384,
+  "count": 386,
   "mentions": [
     {
       "id": "347b8fff7fe4d284",
@@ -49,6 +49,20 @@
       "collected_at": "2026-09-13T14:00:44+00:00"
     },
     {
+      "id": "f4d61db24c9819ae",
+      "title": "The Alabama Legislature Was on a Collision Course With Alabama Power. Then Came Spring Break. - insideclimatenews.org",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWTdqcFF0RXd6YXhLS2VpWlBSNGNvLXYzenlJSjFqWHNhblo3dTV0a3NQd0ZvN3lUeGFtOHJoQkUtd3VKM01mdncyeHB1akdBem52cmJIaGhLMlhMRFVQX1BHRUlCdVNPOTVjZzJtcHRaMlkzTTBTUkZKQVhlemV6UHF2V2xiVW5fd0ZoS0l0MkhoUU5CaVltLTRlWmRqMjFPMVkyQmlCdHZfQTA?oc=5",
+      "domain": "news.google.com",
+      "source": "insideclimatenews.org",
+      "language": "English",
+      "published_at": "2026-09-13T09:05:00+00:00",
+      "summary": "The Alabama Legislature Was on a Collision Course With Alabama Power. Then Came Spring Break. insideclimatenews.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWTdqcFF0RXd6YXhLS2VpWlBSNGNvLXYzenlJSjFqWHNhblo3dTV0a3NQd0ZvN3lUeGFtOHJoQkUtd3VKM01mdncyeHB1akdBem52cmJIaGhLMlhMRFVQX1BHRUlCdVNPOTVjZzJtcHRaMlkzTTBTUkZKQVhlemV6UHF2V2xiVW5fd0ZoS0l0MkhoUU5CaVltLTRlWmRqMjFPMVkyQmlCdHZfQTA?oc=5\" target=\"_blank\">The Alabama Legislature Was on a Collision Course With Alabama Power. Then Came Spring Break.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">insideclimatenews.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T09:05:26+00:00"
+    },
+    {
       "id": "4355805728a8ca7e",
       "title": "How Alabama Power Escaped a Push for Tighter Regulation With Record Profits Intact - Inside Climate News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMllTZFhJOW5yUFZtcjMyZkM5RTVHWVM1aWdTejMtOGlhQmR4R0tnM1pUcEtVa1F2OGxsWlZQMENGS1VPMEsxdTZtakpPRndZamMwMDdGaDJvckhLVmlKX3FYS2xHRzA1MGdTajh5THpQV0pXVG56c0FQTWJRTzI4cHIyWXFOX0NsZkJMeDE3VnVHd2c?oc=5",
@@ -61,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-13T14:00:44+00:00"
+    },
+    {
+      "id": "44e6b217cef799d9",
+      "title": "How Alabama Power Escaped a Push for Tighter Regulation With Record Profits Intact - insideclimatenews.org",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMllTZFhJOW5yUFZtcjMyZkM5RTVHWVM1aWdTejMtOGlhQmR4R0tnM1pUcEtVa1F2OGxsWlZQMENGS1VPMEsxdTZtakpPRndZamMwMDdGaDJvckhLVmlKX3FYS2xHRzA1MGdTajh5THpQV0pXVG56c0FQTWJRTzI4cHIyWXFOX0NsZkJMeDE3VnVHd2c?oc=5",
+      "domain": "news.google.com",
+      "source": "insideclimatenews.org",
+      "language": "English",
+      "published_at": "2026-09-13T09:00:00+00:00",
+      "summary": "How Alabama Power Escaped a Push for Tighter Regulation With Record Profits Intact insideclimatenews.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOMllTZFhJOW5yUFZtcjMyZkM5RTVHWVM1aWdTejMtOGlhQmR4R0tnM1pUcEtVa1F2OGxsWlZQMENGS1VPMEsxdTZtakpPRndZamMwMDdGaDJvckhLVmlKX3FYS2xHRzA1MGdTajh5THpQV0pXVG56c0FQTWJRTzI4cHIyWXFOX0NsZkJMeDE3VnVHd2c?oc=5\" target=\"_blank\">How Alabama Power Escaped a Push for Tighter Regulation With Record Profits Intact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">insideclimatenews.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T09:05:26+00:00"
     },
     {
       "id": "a355ce9ba785e957",

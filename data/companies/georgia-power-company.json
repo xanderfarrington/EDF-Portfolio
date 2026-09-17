@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-17T02:54:49+00:00",
+  "last_updated": "2026-09-17T09:05:43+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 702,
+  "count": 704,
   "mentions": [
     {
       "id": "c04868f63aacadb1",
@@ -229,6 +229,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-16T02:50:49+00:00"
+    },
+    {
+      "id": "cc3466f4e5f3f64e",
+      "title": "Residents question OpenAI, Georgia Power at PSC meeting - bryancountynews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2tzQ3Nra0gtcXNFMklPMTg4MElUSkVLc0dZcVBuZ3FxVklJamc5dTlYb1NyZzd0N25xaE12dkx2Z2xnQjU5YTlIV1BraHYtME51OWVtLVJPbXM3LTBWdU84OGJBZ3dSdWdjZHFCR1ZiN2dFSWxQMXNBWkM3eUhoOW9ZUGc0VzFxRG5kYnA3Y2hLdGdWak5V?oc=5",
+      "domain": "news.google.com",
+      "source": "bryancountynews.com",
+      "language": "English",
+      "published_at": "2026-09-15T23:58:22+00:00",
+      "summary": "Residents question OpenAI, Georgia Power at PSC meeting bryancountynews.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2tzQ3Nra0gtcXNFMklPMTg4MElUSkVLc0dZcVBuZ3FxVklJamc5dTlYb1NyZzd0N25xaE12dkx2Z2xnQjU5YTlIV1BraHYtME51OWVtLVJPbXM3LTBWdU84OGJBZ3dSdWdjZHFCR1ZiN2dFSWxQMXNBWkM3eUhoOW9ZUGc0VzFxRG5kYnA3Y2hLdGdWak5V?oc=5\" target=\"_blank\">Residents question OpenAI, Georgia Power at PSC meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bryancountynews.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T09:05:43+00:00"
     },
     {
       "id": "479b447b693c38a7",
@@ -1097,6 +1111,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-08T14:03:11+00:00"
+    },
+    {
+      "id": "1379c3e62c86eac2",
+      "title": "The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills - insideclimatenews.org",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlkxWXNQYlIxV19hOHdldFlYajF2UFJQTHFTNWpBMWU0a3R3Mm5CaGlYVTh0Mzhaai05SzFpbDVzazlRc2tWX0E1c3YxMnRxSWd3TW1RcU5YbFVUWmYzbFFhZXZEb0s3UGQ2UzlZd2Q3aFpxakk1aWZNbXZFazZKd3RGeW9VRW5oNExLcGt3?oc=5",
+      "domain": "news.google.com",
+      "source": "insideclimatenews.org",
+      "language": "English",
+      "published_at": "2026-09-08T07:00:00+00:00",
+      "summary": "The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills insideclimatenews.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlkxWXNQYlIxV19hOHdldFlYajF2UFJQTHFTNWpBMWU0a3R3Mm5CaGlYVTh0Mzhaai05SzFpbDVzazlRc2tWX0E1c3YxMnRxSWd3TW1RcU5YbFVUWmYzbFFhZXZEb0s3UGQ2UzlZd2Q3aFpxakk1aWZNbXZFazZKd3RGeW9VRW5oNExLcGt3?oc=5\" target=\"_blank\">The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">insideclimatenews.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T09:05:43+00:00"
     },
     {
       "id": "11d66df5e8195745",
