@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-17T09:05:43+00:00",
+  "last_updated": "2026-09-17T14:35:15+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 704,
+  "count": 707,
   "mentions": [
     {
       "id": "c04868f63aacadb1",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-16T14:31:15+00:00"
+    },
+    {
+      "id": "be4e1fe78984f713",
+      "title": "Data center concerns take center stage at Public Service Commission town hall held in Savannah - wjcl.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMzZHTllrMkJlMWRUYnVSc2VGV1RiZWhmS1dMTXhYQ09vSzZWaEt6dHdpRjJMNXFnc3RiY09qa0UzMGRjYVQzdC1VcjU3RmtBTkp0WS0tU2tlTkNPZXMtTG1nRGwxQmdBRHJNS3JMSVF5QW9ia3ltaFFTazBybXdBUm9LZU9QajQ5aG41U1FR?oc=5",
+      "domain": "news.google.com",
+      "source": "wjcl.com",
+      "language": "English",
+      "published_at": "2026-09-16T13:09:00+00:00",
+      "summary": "Data center concerns take center stage at Public Service Commission town hall held in Savannah wjcl.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOMzZHTllrMkJlMWRUYnVSc2VGV1RiZWhmS1dMTXhYQ09vSzZWaEt6dHdpRjJMNXFnc3RiY09qa0UzMGRjYVQzdC1VcjU3RmtBTkp0WS0tU2tlTkNPZXMtTG1nRGwxQmdBRHJNS3JMSVF5QW9ia3ltaFFTazBybXdBUm9LZU9QajQ5aG41U1FR?oc=5\" target=\"_blank\">Data center concerns take center stage at Public Service Commission town hall held in Savannah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wjcl.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T14:35:15+00:00"
     },
     {
       "id": "a2b88380a9d0b85f",
@@ -483,6 +497,20 @@
       "collected_at": "2026-09-17T02:54:49+00:00"
     },
     {
+      "id": "333cdbd83c7a6848",
+      "title": "Georgia Power spends money to study new nuclear reactor sites - The Atlanta Journal-Constitution",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjR5TEVwQm5scjA5Ylo2SVZhSnY1eWs5b1FRX0kzaDJnS2Q1TWJiVFlXSmU2em5FTkNrTF9WV00yLW1EdzBabkd5STA3SzI4VGdWS0JmSTVwSnVhN0JpMjN3NXBRUHVQQmxPTVFEb1ZKN19Zai1lS0ZVTktvaXlPNnpvODZNOUpjN1A1X0tSUG5YS2RnMHJpbjFSQVVCTkpkUDdYdTdudDRiWmE3?oc=5",
+      "domain": "news.google.com",
+      "source": "The Atlanta Journal-Constitution",
+      "language": "English",
+      "published_at": "2026-09-14T15:38:17+00:00",
+      "summary": "Georgia Power spends money to study new nuclear reactor sites The Atlanta Journal-Constitution",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjR5TEVwQm5scjA5Ylo2SVZhSnY1eWs5b1FRX0kzaDJnS2Q1TWJiVFlXSmU2em5FTkNrTF9WV00yLW1EdzBabkd5STA3SzI4VGdWS0JmSTVwSnVhN0JpMjN3NXBRUHVQQmxPTVFEb1ZKN19Zai1lS0ZVTktvaXlPNnpvODZNOUpjN1A1X0tSUG5YS2RnMHJpbjFSQVVCTkpkUDdYdTdudDRiWmE3?oc=5\" target=\"_blank\">Georgia Power spends money to study new nuclear reactor sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Journal-Constitution</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T14:35:15+00:00"
+    },
+    {
       "id": "2137bdad6f9aa75c",
       "title": "Georgia Power encourages customers to take action during National Preparedness Month - Grice Connect",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVdOQ29WQ2hFOEZIbS0zanBvMnYwWk1BMENGUDZyZS1XUWJ4TFp2RS1SajU2SXVRWHZmcjlkSzBfWG5NUUhMclY0Yk1MYVNMWk5FRFM5UHhKc3JfQXhFaFFnWmpqazZ0dzQ3UWZwQ01ZVGJzcGFvVnZoemdmdTVNeWVFdnRJbWxfMFpwSjhQZXctSmRnbm01NXZVNGQwMV8waHRrb05wS1VfelVsaU0xbjh2cmtvTWo4SFlhR3VlUmRuWmJWWG5WSXlvc3A2d9IB0wFBVV95cUxOQ2F0R29GNXhWSENsSDc3dXFsTzFSOE9KRm9jX1VTY09WdkdSWklDMFhnb2xlODdyWHRIQVEwbnV0bHJoNmtMRDk3a0xBNEhHd2N3V0lXZU1KSHV1eXUzN09pX3FiMEtfMlM1WHhONUtGLUhkWU1rS042OGdqOVFZaW1BYUxNbGI3NmtLZGZ4MnlFWEdaR0MxYWhHeGFHUzAwNWMzektEaklZamJNVjF4UzVLRjBrYXRBcE5kS2sxS3I5YXZiaUM4c05tbVdjQnFIZGFv?oc=5",
@@ -677,6 +705,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-12T23:39:15+00:00"
+    },
+    {
+      "id": "f6d7a817ff04ee81",
+      "title": "Georgia Power gains approval for 1.14GW of new solar agreements - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVlmbmFmSTdBdXVOS0ZpT1NXUlNOdGJmUEJpanB2SUM5cW11bmtpczA5cnJROGdnZHk1YkFKUnRicFN3ZFZSSWxNRVdVb25qQmQ3SlRtQ0FpSjc5TXNDa01ucDVUczVQZGxGaDhCaG5pODB6NGtiMEhjd1hPMUF5NUk4NFNyS1hWWVRrbVczY3A?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-09-11T11:09:35+00:00",
+      "summary": "Georgia Power gains approval for 1.14GW of new solar agreements Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVlmbmFmSTdBdXVOS0ZpT1NXUlNOdGJmUEJpanB2SUM5cW11bmtpczA5cnJROGdnZHk1YkFKUnRicFN3ZFZSSWxNRVdVb25qQmQ3SlRtQ0FpSjc5TXNDa01ucDVUczVQZGxGaDhCaG5pODB6NGtiMEhjd1hPMUF5NUk4NFNyS1hWWVRrbVczY3A?oc=5\" target=\"_blank\">Georgia Power gains approval for 1.14GW of new solar agreements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T14:35:15+00:00"
     },
     {
       "id": "9b3d9727d6c1a3ff",
