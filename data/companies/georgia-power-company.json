@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-17T19:29:20+00:00",
+  "last_updated": "2026-09-17T22:35:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 707,
+  "count": 710,
   "mentions": [
     {
       "id": "c04868f63aacadb1",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-16T19:17:32+00:00"
+    },
+    {
+      "id": "2ec7964181383f9f",
+      "title": "How the EPA rollback of carbon emission rules could play out in Georgia's coal-fired power plants - Georgia Public Broadcasting",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUlrdjdsbmlGTmNjMHdZTERNR0FWT1pmN0F5MGxNcU5td1k2ZHBNRVI5OU9OazB0WmRIUFVUbXgyNlNMc3M2TGJWNFV6d2UzOE8zanBwS0EtYUFPZ3V5N0ZaNU4zbFNLdXdIOWdrN3VKbjNrM1FCcU9CRXBjMjlUR1RpSHpWUkZzUkdlZDlMaS0yRW0walh6SGlnUGpqZkE0MkF1ZFlJUWJqMEN1aHZzNXhySDVDNDViOUI4?oc=5",
+      "domain": "news.google.com",
+      "source": "Georgia Public Broadcasting",
+      "language": "English",
+      "published_at": "2026-09-16T14:10:00+00:00",
+      "summary": "How the EPA rollback of carbon emission rules could play out in Georgia's coal-fired power plants Georgia Public Broadcasting",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUlrdjdsbmlGTmNjMHdZTERNR0FWT1pmN0F5MGxNcU5td1k2ZHBNRVI5OU9OazB0WmRIUFVUbXgyNlNMc3M2TGJWNFV6d2UzOE8zanBwS0EtYUFPZ3V5N0ZaNU4zbFNLdXdIOWdrN3VKbjNrM1FCcU9CRXBjMjlUR1RpSHpWUkZzUkdlZDlMaS0yRW0walh6SGlnUGpqZkE0MkF1ZFlJUWJqMEN1aHZzNXhySDVDNDViOUI4?oc=5\" target=\"_blank\">How the EPA rollback of carbon emission rules could play out in Georgia's coal-fired power plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Public Broadcasting</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T22:35:36+00:00"
     },
     {
       "id": "92bf8d18e8a679a2",
@@ -89,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-16T14:31:15+00:00"
+    },
+    {
+      "id": "a4133aa1d25817d0",
+      "title": "Georgia Power finishes new storage facility near Air Force base - solarbuildermag.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV3R1WHl5WUZVSTdwQTF0X1E0aTRYSFJlWU4xNXBCV3lLMXdWV1NIcnJDVUZ3MFZmNmtENGZVZVMtTks1RDJ2ekNlQnh2UktKYlFYeXMxbVVYR2lBNGR2ZktSaVhuR2dCaEFiV1NfOXpsNTBiNDhLdXJ5STBTZkNiR201djB6aWlTYXJtVEhfbnM2aTdieVg5SnZkV09ZMnFFYlRkS1Nxak9mZ2c?oc=5",
+      "domain": "news.google.com",
+      "source": "solarbuildermag.com",
+      "language": "English",
+      "published_at": "2026-09-16T13:05:35+00:00",
+      "summary": "Georgia Power finishes new storage facility near Air Force base solarbuildermag.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV3R1WHl5WUZVSTdwQTF0X1E0aTRYSFJlWU4xNXBCV3lLMXdWV1NIcnJDVUZ3MFZmNmtENGZVZVMtTks1RDJ2ekNlQnh2UktKYlFYeXMxbVVYR2lBNGR2ZktSaVhuR2dCaEFiV1NfOXpsNTBiNDhLdXJ5STBTZkNiR201djB6aWlTYXJtVEhfbnM2aTdieVg5SnZkV09ZMnFFYlRkS1Nxak9mZ2c?oc=5\" target=\"_blank\">Georgia Power finishes new storage facility near Air Force base</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">solarbuildermag.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T22:35:36+00:00"
     },
     {
       "id": "e9c85fa62d53b401",
@@ -635,6 +663,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-12T23:39:15+00:00"
+    },
+    {
+      "id": "0593be303c489e20",
+      "title": "Georgia power shutoffs cost more than AC, with spoiled food, lost work, and dangerous heat escalating - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFp4anZzMVNJdjh0cWlzSW1rS2w5SUdiSUk5NER6VHBjRG5DaDUwXzEzdDQyY1p5a1daRTRSUUpENkQyczJsTjVhN0RUaDhJX3d2Rk5ubGF1S05nSHdaekhpU2JRem5fX2dRdTNKY09iQjN0djB5VUxRU0hvalJFejN6UWswSWZabUk4cFY3TQ?oc=5",
+      "domain": "news.google.com",
+      "source": "yahoo.com",
+      "language": "English",
+      "published_at": "2026-09-12T20:47:00+00:00",
+      "summary": "Georgia power shutoffs cost more than AC, with spoiled food, lost work, and dangerous heat escalating yahoo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFp4anZzMVNJdjh0cWlzSW1rS2w5SUdiSUk5NER6VHBjRG5DaDUwXzEzdDQyY1p5a1daRTRSUUpENkQyczJsTjVhN0RUaDhJX3d2Rk5ubGF1S05nSHdaekhpU2JRem5fX2dRdTNKY09iQjN0djB5VUxRU0hvalJFejN6UWswSWZabUk4cFY3TQ?oc=5\" target=\"_blank\">Georgia power shutoffs cost more than AC, with spoiled food, lost work, and dangerous heat escalating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T22:35:36+00:00"
     },
     {
       "id": "71321e5b74f7c60d",

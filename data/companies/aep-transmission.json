@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-09-17T19:28:22+00:00",
+  "last_updated": "2026-09-17T22:35:13+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 98,
+  "count": 99,
   "mentions": [
     {
       "id": "129ca168aa68a710",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-14T14:38:09+00:00"
+    },
+    {
+      "id": "c3ba31208aacc528",
+      "title": "Public hearing planned for 51-mile AEP transmission project - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJYcEFrZWtDSHQ0a2h0azlRM0ttUzBfR2JFN0JuaGRzZmd3VWt6Q3VCQzJ5MXJ6dHZhVEd2QUw1aGVLV0JPcmp2c3pPX09mdXNPUjRIbFN4cjFFZ2ZUdzBTbDhNTVhlREdfeXdVRy00TWdhazhhOUNIVXQ4T0tXZ3EwdEpiYk8tTXJNNA?oc=5",
+      "domain": "news.google.com",
+      "source": "yahoo.com",
+      "language": "English",
+      "published_at": "2026-09-14T09:02:55+00:00",
+      "summary": "Public hearing planned for 51-mile AEP transmission project yahoo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJYcEFrZWtDSHQ0a2h0azlRM0ttUzBfR2JFN0JuaGRzZmd3VWt6Q3VCQzJ5MXJ6dHZhVEd2QUw1aGVLV0JPcmp2c3pPX09mdXNPUjRIbFN4cjFFZ2ZUdzBTbDhNTVhlREdfeXdVRy00TWdhazhhOUNIVXQ4T0tXZ3EwdEpiYk8tTXJNNA?oc=5\" target=\"_blank\">Public hearing planned for 51-mile AEP transmission project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T22:35:13+00:00"
     },
     {
       "id": "3eb5f5e43d128539",
