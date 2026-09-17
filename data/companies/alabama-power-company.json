@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-16T22:33:24+00:00",
+  "last_updated": "2026-09-17T02:54:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 383,
+  "count": 384,
   "mentions": [
+    {
+      "id": "347b8fff7fe4d284",
+      "title": "Doug Jones ‘troubled’ by connection between Flock cameras, Alabama Power - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS09PZm8zRmhBMGV3YmJxN0RlVXRkdkJvLU8zTC1DTGlHRXhXSURCSzY3WUFySUJnQnlLUzNpUHYycE1ybHZJVF9kUUpmRlNURllLWkVOVDRvQkRFRWhqUml6MjV3bUhFT0lFZF9WNVB5cTdlZ1BuUUI0a2hyRmlLV1JUVmxMSGo3cUtMNGdXZnRxWjV3ZzNMa1hucnA1UzQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-09-16T21:22:20+00:00",
+      "summary": "Doug Jones ‘troubled’ by connection between Flock cameras, Alabama Power Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPS09PZm8zRmhBMGV3YmJxN0RlVXRkdkJvLU8zTC1DTGlHRXhXSURCSzY3WUFySUJnQnlLUzNpUHYycE1ybHZJVF9kUUpmRlNURllLWkVOVDRvQkRFRWhqUml6MjV3bUhFT0lFZF9WNVB5cTdlZ1BuUUI0a2hyRmlLV1JUVmxMSGo3cUtMNGdXZnRxWjV3ZzNMa1hucnA1UzQ?oc=5\" target=\"_blank\">Doug Jones ‘troubled’ by connection between Flock cameras, Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T02:54:31+00:00"
+    },
     {
       "id": "49eb9618d83d5b1f",
       "title": "Doug Jones ‘troubled’ by connection between Flock cameras, Alabama Power - AL.com",

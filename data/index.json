@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T22:33:51+00:00",
+  "last_updated": "2026-09-17T02:55:00+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 383,
+      "count": 384,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "49eb9618d83d5b1f",
-        "title": "Doug Jones ‘troubled’ by connection between Flock cameras, Alabama Power - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeml4bXdLVjZ1TVdxMWNqajA0TDd1YW1IQmVfU1NwTWxHSjdQaDhyMkFEeWdyLWxueUlmNmlBYU9PM1N3SERsUWliZW1CX2Uyb1c2eDZEQjVTc0FfQW1jVzg3QmFvak5QUGhRRXQtWEQ0Yng3Y2RHOW5KWkxnNFFxeVFDczgxWFAzVTFsOE41ZG5uTEszQUhLQS1VcWpidmR1ZWpscmJlZ09hQdIBvgFBVV95cUxPSXRwcG1VQmZESXNJMjlBdjFyRUNqczZkcjBuRlJWanRzalFXYnVDb1Fka2xKaTVtUGw3b3dNejNJNlZJVXZBUE9xNmlwWlpoMTB6d3ltMERSbFhEQnVrLWxvUmxaLVZiVVprVkZLWG5XVDJnM1BEWXpweU9Pd0dXNEktblREUHM0LWUxcGJMZFlfWElqdWpUeE1kd3pLN1NWYkFJY3ZHUVVqRWxGZms2aDBWb0pZRXhnWXRxdXR3?oc=5",
+        "id": "347b8fff7fe4d284",
+        "title": "Doug Jones ‘troubled’ by connection between Flock cameras, Alabama Power - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS09PZm8zRmhBMGV3YmJxN0RlVXRkdkJvLU8zTC1DTGlHRXhXSURCSzY3WUFySUJnQnlLUzNpUHYycE1ybHZJVF9kUUpmRlNURllLWkVOVDRvQkRFRWhqUml6MjV3bUhFT0lFZF9WNVB5cTdlZ1BuUUI0a2hyRmlLV1JUVmxMSGo3cUtMNGdXZnRxWjV3ZzNMa1hucnA1UzQ?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "Yahoo",
         "language": "English",
-        "published_at": "2026-09-16T21:22:00+00:00",
-        "summary": "Doug Jones ‘troubled’ by connection between Flock cameras, Alabama Power AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeml4bXdLVjZ1TVdxMWNqajA0TDd1YW1IQmVfU1NwTWxHSjdQaDhyMkFEeWdyLWxueUlmNmlBYU9PM1N3SERsUWliZW1CX2Uyb1c2eDZEQjVTc0FfQW1jVzg3QmFvak5QUGhRRXQtWEQ0Yng3Y2RHOW5KWkxnNFFxeVFDczgxWFAzVTFsOE41ZG5uTEszQUhLQS1VcWpidmR1ZWpscmJlZ09hQdIBvgFBVV95cUxPSXRwcG1VQmZESXNJMjlBdjFyRUNqczZkcjBuRlJWanRzalFXYnVDb1Fka2xKaTVtUGw3b3dNejNJNlZJVXZBUE9xNmlwWlpoMTB6d3ltMERSbFhEQnVrLWxvUmxaLVZiVVprVkZLWG5XVDJnM1BEWXpweU9Pd0dXNEktblREUHM0LWUxcGJMZFlfWElqdWpUeE1kd3pLN1NWYkFJY3ZHUVVqRWxGZms2aDBWb0pZRXhnWXRxdXR3?oc=5\" target=\"_blank\">Doug Jones ‘troubled’ by connection between Flock cameras, Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-09-16T21:22:20+00:00",
+        "summary": "Doug Jones ‘troubled’ by connection between Flock cameras, Alabama Power Yahoo",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPS09PZm8zRmhBMGV3YmJxN0RlVXRkdkJvLU8zTC1DTGlHRXhXSURCSzY3WUFySUJnQnlLUzNpUHYycE1ybHZJVF9kUUpmRlNURllLWkVOVDRvQkRFRWhqUml6MjV3bUhFT0lFZF9WNVB5cTdlZ1BuUUI0a2hyRmlLV1JUVmxMSGo3cUtMNGdXZnRxWjV3ZzNMa1hucnA1UzQ?oc=5\" target=\"_blank\">Doug Jones ‘troubled’ by connection between Flock cameras, Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-16T22:33:24+00:00"
+        "collected_at": "2026-09-17T02:54:31+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 101,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 699,
+      "count": 702,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "c04868f63aacadb1",

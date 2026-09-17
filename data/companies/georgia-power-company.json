@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-16T22:33:40+00:00",
+  "last_updated": "2026-09-17T02:54:49+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 699,
+  "count": 702,
   "mentions": [
     {
       "id": "c04868f63aacadb1",
@@ -105,6 +105,20 @@
       "collected_at": "2026-09-16T09:00:50+00:00"
     },
     {
+      "id": "44d19d7006ec5d95",
+      "title": "Homeowner billed $6.7K after Georgia Power failure damaged her appliances - wsbtv.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSExPNTh4OW16LXZjbzFTTGhjQ0VQbnRXR2JvRC1EandNaGl4VU9xaDN1emQzYUQzaWFtWEpubmpQWmVBTG1vTG81QTh2TWR5OFgtdVpnQlhoOVdlMU01M0xFazFPWlgyXzhXSVFzNG1rd3hTVVU0dUgwT1BHN1FaeEhncWdzY2lOdGRNa0JLdEJ6amE3eTlEbXpUbDVrUDJRYUFKU0VCc1hscmJDYlZyY2VfNVh6U3JST2JDUFRMeFFjNU5ycHhUdmkxajdjbzRIOXhIRTBQUjBIWkwtNENMTVRJVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "wsbtv.com",
+      "language": "English",
+      "published_at": "2026-09-16T04:12:40+00:00",
+      "summary": "Homeowner billed $6.7K after Georgia Power failure damaged her appliances wsbtv.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSExPNTh4OW16LXZjbzFTTGhjQ0VQbnRXR2JvRC1EandNaGl4VU9xaDN1emQzYUQzaWFtWEpubmpQWmVBTG1vTG81QTh2TWR5OFgtdVpnQlhoOVdlMU01M0xFazFPWlgyXzhXSVFzNG1rd3hTVVU0dUgwT1BHN1FaeEhncWdzY2lOdGRNa0JLdEJ6amE3eTlEbXpUbDVrUDJRYUFKU0VCc1hscmJDYlZyY2VfNVh6U3JST2JDUFRMeFFjNU5ycHhUdmkxajdjbzRIOXhIRTBQUjBIWkwtNENMTVRJVQ?oc=5\" target=\"_blank\">Homeowner billed $6.7K after Georgia Power failure damaged her appliances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsbtv.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T02:54:49+00:00"
+    },
+    {
       "id": "712b437f0f5e366b",
       "title": "Homeowner pays out $6.7K after Georgia Power failure damaged her appliances - WSB-TV",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUFjZUtncHlZMl9oVnlfY2s0UU95SjlNMEQyTmdSa09ubjRiRGs1SVFwOS14UW5CMHoxZ28wVGdLUjJrNEVDb19SLVZJbkFPWTB2N1hNVTBVLWU0bGFyTFRYR2lyajhsZnBPYzZpQURjcHRaOEhRUkNFVHFtaE9WbGx4U3FzYTJ5dTNndHlDNTlaNXJhQ1l5UFFpY0pGLTJmU2lUV0tUYkJKanV4ZnhaT3FGcG0yNi1vTUE5YWpZQ0NKVUFvOVU5b2I4UGLSAeABQVVfeXFMUDhScDAxNFZ4eFJKYzB4bE15VHQ2VXdZdU1oaXRzQzhXb1V4cDBDSW9qN1N4SzdRZFk5WkpiTUVWeTVNdS1mQUdfdkozc1l0TFZ2S3BGZzlfSUhMamQ4T2pjNHZlUjNyb0E3UFhhMjEzTlQ0Ni1GQzF6ZF9rX01iaTBwOHRKdW95Qk1ueEVmTUZXSDlXaWZnNE1aRU5ZUjdtVDdOZk9qVDJfcldRYW9WWC14S0FxNEtTaEgzOFhUZUFPbEpBaDFGcXVfWkNkRTFVU2h4aHJ3MG9UM1oyUHhSb0w?oc=5",
@@ -131,6 +145,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-16T14:31:15+00:00"
+    },
+    {
+      "id": "6d21d5378aebef9c",
+      "title": "Homeowner pays out $6.7K after Georgia Power equipment failure damaged her appliances - wsbtv.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUFjZUtncHlZMl9oVnlfY2s0UU95SjlNMEQyTmdSa09ubjRiRGs1SVFwOS14UW5CMHoxZ28wVGdLUjJrNEVDb19SLVZJbkFPWTB2N1hNVTBVLWU0bGFyTFRYR2lyajhsZnBPYzZpQURjcHRaOEhRUkNFVHFtaE9WbGx4U3FzYTJ5dTNndHlDNTlaNXJhQ1l5UFFpY0pGLTJmU2lUV0tUYkJKanV4ZnhaT3FGcG0yNi1vTUE5YWpZQ0NKVUFvOVU5b2I4UGLSAeABQVVfeXFMUDhScDAxNFZ4eFJKYzB4bE15VHQ2VXdZdU1oaXRzQzhXb1V4cDBDSW9qN1N4SzdRZFk5WkpiTUVWeTVNdS1mQUdfdkozc1l0TFZ2S3BGZzlfSUhMamQ4T2pjNHZlUjNyb0E3UFhhMjEzTlQ0Ni1GQzF6ZF9rX01iaTBwOHRKdW95Qk1ueEVmTUZXSDlXaWZnNE1aRU5ZUjdtVDdOZk9qVDJfcldRYW9WWC14S0FxNEtTaEgzOFhUZUFPbEpBaDFGcXVfWkNkRTFVU2h4aHJ3MG9UM1oyUHhSb0w?oc=5",
+      "domain": "news.google.com",
+      "source": "wsbtv.com",
+      "language": "English",
+      "published_at": "2026-09-16T04:10:44+00:00",
+      "summary": "Homeowner pays out $6.7K after Georgia Power equipment failure damaged her appliances wsbtv.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUFjZUtncHlZMl9oVnlfY2s0UU95SjlNMEQyTmdSa09ubjRiRGs1SVFwOS14UW5CMHoxZ28wVGdLUjJrNEVDb19SLVZJbkFPWTB2N1hNVTBVLWU0bGFyTFRYR2lyajhsZnBPYzZpQURjcHRaOEhRUkNFVHFtaE9WbGx4U3FzYTJ5dTNndHlDNTlaNXJhQ1l5UFFpY0pGLTJmU2lUV0tUYkJKanV4ZnhaT3FGcG0yNi1vTUE5YWpZQ0NKVUFvOVU5b2I4UGLSAeABQVVfeXFMUDhScDAxNFZ4eFJKYzB4bE15VHQ2VXdZdU1oaXRzQzhXb1V4cDBDSW9qN1N4SzdRZFk5WkpiTUVWeTVNdS1mQUdfdkozc1l0TFZ2S3BGZzlfSUhMamQ4T2pjNHZlUjNyb0E3UFhhMjEzTlQ0Ni1GQzF6ZF9rX01iaTBwOHRKdW95Qk1ueEVmTUZXSDlXaWZnNE1aRU5ZUjdtVDdOZk9qVDJfcldRYW9WWC14S0FxNEtTaEgzOFhUZUFPbEpBaDFGcXVfWkNkRTFVU2h4aHJ3MG9UM1oyUHhSb0w?oc=5\" target=\"_blank\">Homeowner pays out $6.7K after Georgia Power equipment failure damaged her appliances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsbtv.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T02:54:49+00:00"
     },
     {
       "id": "e3590b8dd7e52e59",
@@ -425,6 +453,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-14T20:06:43+00:00"
+    },
+    {
+      "id": "a191f3e0dcef8b7b",
+      "title": "Georgia Power spends money to study new nuclear reactor sites - ajc.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjR5TEVwQm5scjA5Ylo2SVZhSnY1eWs5b1FRX0kzaDJnS2Q1TWJiVFlXSmU2em5FTkNrTF9WV00yLW1EdzBabkd5STA3SzI4VGdWS0JmSTVwSnVhN0JpMjN3NXBRUHVQQmxPTVFEb1ZKN19Zai1lS0ZVTktvaXlPNnpvODZNOUpjN1A1X0tSUG5YS2RnMHJpbjFSQVVCTkpkUDdYdTdudDRiWmE3?oc=5",
+      "domain": "news.google.com",
+      "source": "ajc.com",
+      "language": "English",
+      "published_at": "2026-09-14T15:38:17+00:00",
+      "summary": "Georgia Power spends money to study new nuclear reactor sites ajc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjR5TEVwQm5scjA5Ylo2SVZhSnY1eWs5b1FRX0kzaDJnS2Q1TWJiVFlXSmU2em5FTkNrTF9WV00yLW1EdzBabkd5STA3SzI4VGdWS0JmSTVwSnVhN0JpMjN3NXBRUHVQQmxPTVFEb1ZKN19Zai1lS0ZVTktvaXlPNnpvODZNOUpjN1A1X0tSUG5YS2RnMHJpbjFSQVVCTkpkUDdYdTdudDRiWmE3?oc=5\" target=\"_blank\">Georgia Power spends money to study new nuclear reactor sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ajc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-17T02:54:49+00:00"
     },
     {
       "id": "2137bdad6f9aa75c",
