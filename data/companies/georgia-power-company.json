@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-18T08:39:53+00:00",
+  "last_updated": "2026-09-18T14:02:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 712,
+  "count": 715,
   "mentions": [
+    {
+      "id": "7ac75627cc083bb7",
+      "title": "US ROUNDUP: Eos DOE loan, FlexGen-Lightshift, Georgia Power - Energy-Storage.News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVTZnMWdxYnR3aGpac3gxV2hSamMxVERhQS03OEx1eERFZG1UZDVCZW1HUDdPeHRLbVhtckdXQndiUGVlRUFBWTR0X0I0c1BOZlYxTktNbFlzYkV2YmxrQUhrLVdhRDhlVnVRSnNqX1I2TDhQM2d1OVJIaUpuNVNBQ2ZBa2YwYWVVcXA5WXIyUnlPMmNYUDRRSnVlX050SkgwYmRxb0NXcEIzaW9CSXdQeWpHcy1jb1NQVFVzZTNZLVRmbGdEVTZRTVJqenRJaXU3WW9jc1FwZThaMHFLcHNZMkk0WHR3b25oRC1F?oc=5",
+      "domain": "news.google.com",
+      "source": "Energy-Storage.News",
+      "language": "English",
+      "published_at": "2026-09-18T12:36:43+00:00",
+      "summary": "US ROUNDUP: Eos DOE loan, FlexGen-Lightshift, Georgia Power Energy-Storage.News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVTZnMWdxYnR3aGpac3gxV2hSamMxVERhQS03OEx1eERFZG1UZDVCZW1HUDdPeHRLbVhtckdXQndiUGVlRUFBWTR0X0I0c1BOZlYxTktNbFlzYkV2YmxrQUhrLVdhRDhlVnVRSnNqX1I2TDhQM2d1OVJIaUpuNVNBQ2ZBa2YwYWVVcXA5WXIyUnlPMmNYUDRRSnVlX050SkgwYmRxb0NXcEIzaW9CSXdQeWpHcy1jb1NQVFVzZTNZLVRmbGdEVTZRTVJqenRJaXU3WW9jc1FwZThaMHFLcHNZMkk0WHR3b25oRC1F?oc=5\" target=\"_blank\">US ROUNDUP: Eos DOE loan, FlexGen-Lightshift, Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy-Storage.News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-18T14:02:01+00:00"
+    },
+    {
+      "id": "03f5f138bb5f8d8a",
+      "title": "In Savannah, Georgia’s utility regulators faced public wrath over data centers - grist.org",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVBvQ3YwTnd6REZsZ2lNZkhBYmNRM0Q4WWM0SVplM2tYSDhYRGthdmFHaTdnampSenE5TVRMazNwNVY2UGZ3bW53WTJVTEpUQ0w3QnZkdHdWcTVtcWdfSkhZdnJmd1NIeHhHakl1alFxR0xnY3dFeGVyT3RSdExmeWl2ZXJRN0hYZWQzNEtvSQ?oc=5",
+      "domain": "news.google.com",
+      "source": "grist.org",
+      "language": "English",
+      "published_at": "2026-09-18T08:31:43+00:00",
+      "summary": "In Savannah, Georgia’s utility regulators faced public wrath over data centers grist.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVBvQ3YwTnd6REZsZ2lNZkhBYmNRM0Q4WWM0SVplM2tYSDhYRGthdmFHaTdnampSenE5TVRMazNwNVY2UGZ3bW53WTJVTEpUQ0w3QnZkdHdWcTVtcWdfSkhZdnJmd1NIeHhHakl1alFxR0xnY3dFeGVyT3RSdExmeWl2ZXJRN0hYZWQzNEtvSQ?oc=5\" target=\"_blank\">In Savannah, Georgia’s utility regulators faced public wrath over data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">grist.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-18T14:02:01+00:00"
+    },
     {
       "id": "4096ce3f34de07b0",
       "title": "A 128-megawatt battery next to 470,000 solar panels outside an Air Force base in Georgia now stores their daytime power for cold winter mornings, and nine more batteries are approved that add up to over 3,000 megawatts - Autonocion.com",
@@ -425,6 +453,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-15T20:45:10+00:00"
+    },
+    {
+      "id": "512723b29e7b7c16",
+      "title": "Georgia Power's Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia - nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemJwcmt3c2l5UzVINi1GNkZSNjhLU3VXM1p3SUowTm1KZVZXYmNwUk1ianVYcXRKNGxaZHJJLVNiUTRlQ19ELWVQVDRuY0RwakJrQ1JlYVNOY2pDdndVS1BDc1EweWl2c0xsUGYzMGJFZHBXXzhVTDRuVFh3cnBFWnU4bEVuLVJxX19SbXVkQzkxN2k5dUo1UXNCS21DNWhtQm1lVk1kU3U2TjVsbDRaY0t2ZGE4OGtfMkVF?oc=5",
+      "domain": "news.google.com",
+      "source": "nasdaq.com",
+      "language": "English",
+      "published_at": "2026-09-15T16:00:00+00:00",
+      "summary": "Georgia Power's Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia nasdaq.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemJwcmt3c2l5UzVINi1GNkZSNjhLU3VXM1p3SUowTm1KZVZXYmNwUk1ianVYcXRKNGxaZHJJLVNiUTRlQ19ELWVQVDRuY0RwakJrQ1JlYVNOY2pDdndVS1BDc1EweWl2c0xsUGYzMGJFZHBXXzhVTDRuVFh3cnBFWnU4bEVuLVJxX19SbXVkQzkxN2k5dUo1UXNCS21DNWhtQm1lVk1kU3U2TjVsbDRaY0t2ZGE4OGtfMkVF?oc=5\" target=\"_blank\">Georgia Power's Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nasdaq.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-18T14:02:01+00:00"
     },
     {
       "id": "33047c3f26700b94",

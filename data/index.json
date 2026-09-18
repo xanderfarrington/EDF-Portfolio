@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-18T08:40:03+00:00",
+  "last_updated": "2026-09-18T14:02:12+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 99,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "129ca168aa68a710",
         "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 712,
+      "count": 715,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "4096ce3f34de07b0",
-        "title": "A 128-megawatt battery next to 470,000 solar panels outside an Air Force base in Georgia now stores their daytime power for cold winter mornings, and nine more batteries are approved that add up to over 3,000 megawatts - Autonocion.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSi05dFh3RGo0Y0lKYmFzTXFXYTFtLWdsZnc0Wk0yZUpnUmQ3NjRFeEtCNTcydjNNZ09KUzROaWtQLTFja2JSYTI0b3lQaGpwYjdKRFU3WGd1a2J1WGJqS2F1SXpVRlEzSE5sZXlIeXdKcU5yRmNZUXF3bThxNVZxcTE2c1NEOF9tRTU2V0lOYUZ1cndXS0FUMUJR?oc=5",
+        "id": "7ac75627cc083bb7",
+        "title": "US ROUNDUP: Eos DOE loan, FlexGen-Lightshift, Georgia Power - Energy-Storage.News",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVTZnMWdxYnR3aGpac3gxV2hSamMxVERhQS03OEx1eERFZG1UZDVCZW1HUDdPeHRLbVhtckdXQndiUGVlRUFBWTR0X0I0c1BOZlYxTktNbFlzYkV2YmxrQUhrLVdhRDhlVnVRSnNqX1I2TDhQM2d1OVJIaUpuNVNBQ2ZBa2YwYWVVcXA5WXIyUnlPMmNYUDRRSnVlX050SkgwYmRxb0NXcEIzaW9CSXdQeWpHcy1jb1NQVFVzZTNZLVRmbGdEVTZRTVJqenRJaXU3WW9jc1FwZThaMHFLcHNZMkk0WHR3b25oRC1F?oc=5",
         "domain": "news.google.com",
-        "source": "Autonocion.com",
+        "source": "Energy-Storage.News",
         "language": "English",
-        "published_at": "2026-09-17T21:00:55+00:00",
-        "summary": "A 128-megawatt battery next to 470,000 solar panels outside an Air Force base in Georgia now stores their daytime power for cold winter mornings, and nine more batteries are approved that add up to over 3,000 megawatts Autonocion.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSi05dFh3RGo0Y0lKYmFzTXFXYTFtLWdsZnc0Wk0yZUpnUmQ3NjRFeEtCNTcydjNNZ09KUzROaWtQLTFja2JSYTI0b3lQaGpwYjdKRFU3WGd1a2J1WGJqS2F1SXpVRlEzSE5sZXlIeXdKcU5yRmNZUXF3bThxNVZxcTE2c1NEOF9tRTU2V0lOYUZ1cndXS0FUMUJR?oc=5\" target=\"_blank\">A 128-megawatt battery next to 470,000 solar panels outside an Air Force base in Georgia now stores their daytime power for cold winter mornings, and nine more batteries are approved that add up to over 3,000 megawatts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Autonocion.com</font>",
+        "published_at": "2026-09-18T12:36:43+00:00",
+        "summary": "US ROUNDUP: Eos DOE loan, FlexGen-Lightshift, Georgia Power Energy-Storage.News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVTZnMWdxYnR3aGpac3gxV2hSamMxVERhQS03OEx1eERFZG1UZDVCZW1HUDdPeHRLbVhtckdXQndiUGVlRUFBWTR0X0I0c1BOZlYxTktNbFlzYkV2YmxrQUhrLVdhRDhlVnVRSnNqX1I2TDhQM2d1OVJIaUpuNVNBQ2ZBa2YwYWVVcXA5WXIyUnlPMmNYUDRRSnVlX050SkgwYmRxb0NXcEIzaW9CSXdQeWpHcy1jb1NQVFVzZTNZLVRmbGdEVTZRTVJqenRJaXU3WW9jc1FwZThaMHFLcHNZMkk0WHR3b25oRC1F?oc=5\" target=\"_blank\">US ROUNDUP: Eos DOE loan, FlexGen-Lightshift, Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy-Storage.News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-18T08:39:53+00:00"
+        "collected_at": "2026-09-18T14:02:01+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 57,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "26c14d0218c5b451",
         "title": "White & Case advises the Office of Energy Dominance Financing on US$1.917 billion in loans for Iowa nuclear power plant - White & Case LLP",
