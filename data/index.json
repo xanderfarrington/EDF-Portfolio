@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-18T14:02:12+00:00",
+  "last_updated": "2026-09-18T18:47:53+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 99,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "129ca168aa68a710",
         "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 101,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 715,
+      "count": 716,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "7ac75627cc083bb7",
@@ -110,21 +110,21 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 57,
-      "new_mentions_this_run": 6,
+      "count": 58,
+      "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "26c14d0218c5b451",
-        "title": "White & Case advises the Office of Energy Dominance Financing on US$1.917 billion in loans for Iowa nuclear power plant - White & Case LLP",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYTNFU2hubkNoT1k2MEVtaVZld1hsTkdBaERaN3FTMjBtVW5fRFZsaGotNzBzYlZIY1NxbWxlazNYQW53Yk9aWEVxSEV2MkRfczF6R2dyWXUtWVJFcTFuYTVPYm5LM1hxTVY2Y3R1ODdjNzJRcFdIWXpudG9Zd0Fwbll3UVozR0hpSFBHaWVQeTZja21BSzRaSDc0cUtTLVhQSEprTW1lb1Z1OVUwLTlXaF9ZWk5kdkVrc0NOcnJaTGs?oc=5",
+        "id": "e436781449e42f0d",
+        "title": "DOE’s New Strategic Plan Sets an Expansive Course for Energy Dominance Financing | Mintz - ML Strategies - JD Supra",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTFaOUdtOVBidWk5UGdmUGEwT251SG01QWxQYlhFbnF2WEJLYVFsWlExMERUckdkZDNhMXBxSThwSXRqeGhKc25CV256ekhVc1N3MEFBYXpzQzRpdmM5bVdCR3NwU2xzeTByT2JiWXZ3aXJjcDFMZ3ljVGFHTFlLeQ?oc=5",
         "domain": "news.google.com",
-        "source": "White & Case LLP",
+        "source": "JD Supra",
         "language": "English",
-        "published_at": "2026-09-11T12:00:00+00:00",
-        "summary": "White & Case advises the Office of Energy Dominance Financing on US$1.917 billion in loans for Iowa nuclear power plant White & Case LLP",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYTNFU2hubkNoT1k2MEVtaVZld1hsTkdBaERaN3FTMjBtVW5fRFZsaGotNzBzYlZIY1NxbWxlazNYQW53Yk9aWEVxSEV2MkRfczF6R2dyWXUtWVJFcTFuYTVPYm5LM1hxTVY2Y3R1ODdjNzJRcFdIWXpudG9Zd0Fwbll3UVozR0hpSFBHaWVQeTZja21BSzRaSDc0cUtTLVhQSEprTW1lb1Z1OVUwLTlXaF9ZWk5kdkVrc0NOcnJaTGs?oc=5\" target=\"_blank\">White & Case advises the Office of Energy Dominance Financing on US$1.917 billion in loans for Iowa nuclear power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">White & Case LLP</font>",
+        "published_at": "2026-09-18T14:13:49+00:00",
+        "summary": "DOE’s New Strategic Plan Sets an Expansive Course for Energy Dominance Financing | Mintz - ML Strategies JD Supra",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTFaOUdtOVBidWk5UGdmUGEwT251SG01QWxQYlhFbnF2WEJLYVFsWlExMERUckdkZDNhMXBxSThwSXRqeGhKc25CV256ekhVc1N3MEFBYXpzQzRpdmM5bVdCR3NwU2xzeTByT2JiWXZ3aXJjcDFMZ3ljVGFHTFlLeQ?oc=5\" target=\"_blank\">DOE’s New Strategic Plan Sets an Expansive Course for Energy Dominance Financing | Mintz - ML Strategies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-11T20:19:34+00:00"
+        "collected_at": "2026-09-18T18:47:48+00:00"
       }
     }
   ]

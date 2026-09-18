@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-18T14:02:01+00:00",
+  "last_updated": "2026-09-18T18:47:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 715,
+  "count": 716,
   "mentions": [
     {
       "id": "7ac75627cc083bb7",
@@ -467,6 +467,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-18T14:02:01+00:00"
+    },
+    {
+      "id": "0857cae68e4a4a97",
+      "title": "Georgia Power's Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia - Nasdaq",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemJwcmt3c2l5UzVINi1GNkZSNjhLU3VXM1p3SUowTm1KZVZXYmNwUk1ianVYcXRKNGxaZHJJLVNiUTRlQ19ELWVQVDRuY0RwakJrQ1JlYVNOY2pDdndVS1BDc1EweWl2c0xsUGYzMGJFZHBXXzhVTDRuVFh3cnBFWnU4bEVuLVJxX19SbXVkQzkxN2k5dUo1UXNCS21DNWhtQm1lVk1kU3U2TjVsbDRaY0t2ZGE4OGtfMkVF?oc=5",
+      "domain": "news.google.com",
+      "source": "Nasdaq",
+      "language": "English",
+      "published_at": "2026-09-15T16:00:00+00:00",
+      "summary": "Georgia Power's Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia Nasdaq",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemJwcmt3c2l5UzVINi1GNkZSNjhLU3VXM1p3SUowTm1KZVZXYmNwUk1ianVYcXRKNGxaZHJJLVNiUTRlQ19ELWVQVDRuY0RwakJrQ1JlYVNOY2pDdndVS1BDc1EweWl2c0xsUGYzMGJFZHBXXzhVTDRuVFh3cnBFWnU4bEVuLVJxX19SbXVkQzkxN2k5dUo1UXNCS21DNWhtQm1lVk1kU3U2TjVsbDRaY0t2ZGE4OGtfMkVF?oc=5\" target=\"_blank\">Georgia Power's Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-18T18:47:42+00:00"
     },
     {
       "id": "33047c3f26700b94",
