@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T02:41:13+00:00",
+  "last_updated": "2026-09-18T08:40:03+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 710,
+      "count": 712,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "c04868f63aacadb1",
-        "title": "Georgia PSC travels to Savannah for meeting on data centers, power bills - WABE",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzRhZVUyY2pELXdSV1B5NGJWdFRGZzB0OXRtWFhPMEJqak5sQVJJRTlidHU5Nkx4XzdwaVBoa1E0NXFJdlVkdEU0V3pxbnAxd3ZJaWlLS2p5SEZiaW9MYzNrSHhnWDI3OXI0OEthdnQ1WUlxTFpDdTlpdkliVlppTDBzcWRRQnB6LW1DVnlyS0RkNGk0NnppZQ?oc=5",
+        "id": "4096ce3f34de07b0",
+        "title": "A 128-megawatt battery next to 470,000 solar panels outside an Air Force base in Georgia now stores their daytime power for cold winter mornings, and nine more batteries are approved that add up to over 3,000 megawatts - Autonocion.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSi05dFh3RGo0Y0lKYmFzTXFXYTFtLWdsZnc0Wk0yZUpnUmQ3NjRFeEtCNTcydjNNZ09KUzROaWtQLTFja2JSYTI0b3lQaGpwYjdKRFU3WGd1a2J1WGJqS2F1SXpVRlEzSE5sZXlIeXdKcU5yRmNZUXF3bThxNVZxcTE2c1NEOF9tRTU2V0lOYUZ1cndXS0FUMUJR?oc=5",
         "domain": "news.google.com",
-        "source": "WABE",
+        "source": "Autonocion.com",
         "language": "English",
-        "published_at": "2026-09-16T18:32:44+00:00",
-        "summary": "Georgia PSC travels to Savannah for meeting on data centers, power bills WABE",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzRhZVUyY2pELXdSV1B5NGJWdFRGZzB0OXRtWFhPMEJqak5sQVJJRTlidHU5Nkx4XzdwaVBoa1E0NXFJdlVkdEU0V3pxbnAxd3ZJaWlLS2p5SEZiaW9MYzNrSHhnWDI3OXI0OEthdnQ1WUlxTFpDdTlpdkliVlppTDBzcWRRQnB6LW1DVnlyS0RkNGk0NnppZQ?oc=5\" target=\"_blank\">Georgia PSC travels to Savannah for meeting on data centers, power bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
+        "published_at": "2026-09-17T21:00:55+00:00",
+        "summary": "A 128-megawatt battery next to 470,000 solar panels outside an Air Force base in Georgia now stores their daytime power for cold winter mornings, and nine more batteries are approved that add up to over 3,000 megawatts Autonocion.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSi05dFh3RGo0Y0lKYmFzTXFXYTFtLWdsZnc0Wk0yZUpnUmQ3NjRFeEtCNTcydjNNZ09KUzROaWtQLTFja2JSYTI0b3lQaGpwYjdKRFU3WGd1a2J1WGJqS2F1SXpVRlEzSE5sZXlIeXdKcU5yRmNZUXF3bThxNVZxcTE2c1NEOF9tRTU2V0lOYUZ1cndXS0FUMUJR?oc=5\" target=\"_blank\">A 128-megawatt battery next to 470,000 solar panels outside an Air Force base in Georgia now stores their daytime power for cold winter mornings, and nine more batteries are approved that add up to over 3,000 megawatts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Autonocion.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-16T19:17:32+00:00"
+        "collected_at": "2026-09-18T08:39:53+00:00"
       }
     },
     {
