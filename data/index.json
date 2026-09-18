@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-18T18:47:53+00:00",
+  "last_updated": "2026-09-18T22:09:54+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 99,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "129ca168aa68a710",
         "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 387,
+      "count": 388,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "347b8fff7fe4d284",
-        "title": "Doug Jones ‘troubled’ by connection between Flock cameras, Alabama Power - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS09PZm8zRmhBMGV3YmJxN0RlVXRkdkJvLU8zTC1DTGlHRXhXSURCSzY3WUFySUJnQnlLUzNpUHYycE1ybHZJVF9kUUpmRlNURllLWkVOVDRvQkRFRWhqUml6MjV3bUhFT0lFZF9WNVB5cTdlZ1BuUUI0a2hyRmlLV1JUVmxMSGo3cUtMNGdXZnRxWjV3ZzNMa1hucnA1UzQ?oc=5",
+        "id": "d0187169cfd09b93",
+        "title": "How to get help with your Alabama power bills online - WVTM",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3BZRFA5cnZEYktzTFU2OEhjMlJNWnJkR0dCVEdDM202enMyRndCSEQwNEZiM1Z3czdhTGc1TXY3OGt1M1dHeklzTVpuWVJYZkJlUzF6RHp1YzZtMmI4OUhtcHU2TjQtZlIta2cwdXROTXJDOUhVY3gyWmtGNjVoRHNIb2F5cG00WnhvaDh0d3F1cUZPc2c?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo",
+        "source": "WVTM",
         "language": "English",
-        "published_at": "2026-09-16T21:22:20+00:00",
-        "summary": "Doug Jones ‘troubled’ by connection between Flock cameras, Alabama Power Yahoo",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPS09PZm8zRmhBMGV3YmJxN0RlVXRkdkJvLU8zTC1DTGlHRXhXSURCSzY3WUFySUJnQnlLUzNpUHYycE1ybHZJVF9kUUpmRlNURllLWkVOVDRvQkRFRWhqUml6MjV3bUhFT0lFZF9WNVB5cTdlZ1BuUUI0a2hyRmlLV1JUVmxMSGo3cUtMNGdXZnRxWjV3ZzNMa1hucnA1UzQ?oc=5\" target=\"_blank\">Doug Jones ‘troubled’ by connection between Flock cameras, Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "published_at": "2026-09-18T20:41:00+00:00",
+        "summary": "How to get help with your Alabama power bills online WVTM",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3BZRFA5cnZEYktzTFU2OEhjMlJNWnJkR0dCVEdDM202enMyRndCSEQwNEZiM1Z3czdhTGc1TXY3OGt1M1dHeklzTVpuWVJYZkJlUzF6RHp1YzZtMmI4OUhtcHU2TjQtZlIta2cwdXROTXJDOUhVY3gyWmtGNjVoRHNIb2F5cG00WnhvaDh0d3F1cUZPc2c?oc=5\" target=\"_blank\">How to get help with your Alabama power bills online</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-17T02:54:31+00:00"
+        "collected_at": "2026-09-18T22:09:27+00:00"
       }
     },
     {
