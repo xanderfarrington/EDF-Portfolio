@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-19T02:40:22+00:00",
+  "last_updated": "2026-09-19T08:27:10+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 99,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "129ca168aa68a710",
         "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 388,
+      "count": 389,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "d0187169cfd09b93",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 101,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "14f441b393e9f6cb",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 717,
+      "count": 718,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "7ac75627cc083bb7",
@@ -110,7 +110,7 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 58,
+      "count": 59,
       "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "e436781449e42f0d",

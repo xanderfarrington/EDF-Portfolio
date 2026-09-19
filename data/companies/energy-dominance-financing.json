@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-09-19T02:40:17+00:00",
+  "last_updated": "2026-09-19T08:27:05+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 58,
+  "count": 59,
   "mentions": [
     {
       "id": "e436781449e42f0d",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-18T18:47:48+00:00"
+    },
+    {
+      "id": "4f910c3cdd9490e7",
+      "title": "DOE’s New Strategic Plan Sets an Expansive Course for Energy Dominance Financing | Mintz - ML Strategies - jdsupra.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTFaOUdtOVBidWk5UGdmUGEwT251SG01QWxQYlhFbnF2WEJLYVFsWlExMERUckdkZDNhMXBxSThwSXRqeGhKc25CV256ekhVc1N3MEFBYXpzQzRpdmM5bVdCR3NwU2xzeTByT2JiWXZ3aXJjcDFMZ3ljVGFHTFlLeQ?oc=5",
+      "domain": "news.google.com",
+      "source": "jdsupra.com",
+      "language": "English",
+      "published_at": "2026-09-18T14:13:49+00:00",
+      "summary": "DOE’s New Strategic Plan Sets an Expansive Course for Energy Dominance Financing | Mintz - ML Strategies jdsupra.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTFaOUdtOVBidWk5UGdmUGEwT251SG01QWxQYlhFbnF2WEJLYVFsWlExMERUckdkZDNhMXBxSThwSXRqeGhKc25CV256ekhVc1N3MEFBYXpzQzRpdmM5bVdCR3NwU2xzeTByT2JiWXZ3aXJjcDFMZ3ljVGFHTFlLeQ?oc=5\" target=\"_blank\">DOE’s New Strategic Plan Sets an Expansive Course for Energy Dominance Financing | Mintz - ML Strategies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jdsupra.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-19T08:27:05+00:00"
     },
     {
       "id": "26c14d0218c5b451",

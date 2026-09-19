@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-19T02:40:12+00:00",
+  "last_updated": "2026-09-19T08:26:59+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 717,
+  "count": 718,
   "mentions": [
     {
       "id": "7ac75627cc083bb7",
@@ -313,6 +313,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-16T22:33:40+00:00"
+    },
+    {
+      "id": "bd9a07fd03df7e56",
+      "title": "Georgia Power Starts 128-MW Battery Storage Facility Near Robins AFB - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakhPblZwRWlZOGZBX2ZKb18tZDRSZnlrOHR6TmpEcEhjd2xiQjNueU1HV2RKa0d0dmVOeFFROERlVWMxY0FYZnV4dXhRUTV2V09qX3Z6VFBZTGQtZUloVEJnS2tiTzl4bzBUUGFJME5td3JNVmlNNi1pWENrd3VXNTlWRTlMdWk5a3NsNjZ2YzV6QlVLZXMwZlpzMENKZWtkN0NQbGt2VFFCZ1nSAbABQVVfeXFMTVoyMURKQXMydWZuWmN4SVhkOEI1TFo1OUJRb24zSFdySXJNdEJMRkwtY1J6eHBaZlZzQ25TSU1EVkMwMFYwVWl0SVdQSWN4ZmxHeDcxWklWZ29zWkRaYi0tVmYzdkZMdjc5QmxMZF9JWVJKN04tNkp6YnZjLU1BejZnbmNxMGdfemtvTzdUTmJFLUdyUzVVX284VlEzbTA1c1daSVRySGRJcWg0S24tei0?oc=5",
+      "domain": "news.google.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "language": "English",
+      "published_at": "2026-09-16T03:00:00+00:00",
+      "summary": "Georgia Power Starts 128-MW Battery Storage Facility Near Robins AFB Crude Oil Prices Today | OilPrice.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakhPblZwRWlZOGZBX2ZKb18tZDRSZnlrOHR6TmpEcEhjd2xiQjNueU1HV2RKa0d0dmVOeFFROERlVWMxY0FYZnV4dXhRUTV2V09qX3Z6VFBZTGQtZUloVEJnS2tiTzl4bzBUUGFJME5td3JNVmlNNi1pWENrd3VXNTlWRTlMdWk5a3NsNjZ2YzV6QlVLZXMwZlpzMENKZWtkN0NQbGt2VFFCZ1nSAbABQVVfeXFMTVoyMURKQXMydWZuWmN4SVhkOEI1TFo1OUJRb24zSFdySXJNdEJMRkwtY1J6eHBaZlZzQ25TSU1EVkMwMFYwVWl0SVdQSWN4ZmxHeDcxWklWZ29zWkRaYi0tVmYzdkZMdjc5QmxMZF9JWVJKN04tNkp6YnZjLU1BejZnbmNxMGdfemtvTzdUTmJFLUdyUzVVX284VlEzbTA1c1daSVRySGRJcWg0S24tei0?oc=5\" target=\"_blank\">Georgia Power Starts 128-MW Battery Storage Facility Near Robins AFB</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crude Oil Prices Today | OilPrice.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-19T08:26:59+00:00"
     },
     {
       "id": "3a7ddf85d79b5e72",
