@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-19T16:58:15+00:00",
+  "last_updated": "2026-09-19T19:53:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 719,
+  "count": 720,
   "mentions": [
     {
       "id": "7ac75627cc083bb7",
@@ -103,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-17T22:35:36+00:00"
+    },
+    {
+      "id": "8cae776001fbe560",
+      "title": "How the EPA rollback of carbon emission rules could play out in Georgia's coal-fired power plants - gpb.org",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUlrdjdsbmlGTmNjMHdZTERNR0FWT1pmN0F5MGxNcU5td1k2ZHBNRVI5OU9OazB0WmRIUFVUbXgyNlNMc3M2TGJWNFV6d2UzOE8zanBwS0EtYUFPZ3V5N0ZaNU4zbFNLdXdIOWdrN3VKbjNrM1FCcU9CRXBjMjlUR1RpSHpWUkZzUkdlZDlMaS0yRW0walh6SGlnUGpqZkE0MkF1ZFlJUWJqMEN1aHZzNXhySDVDNDViOUI4?oc=5",
+      "domain": "news.google.com",
+      "source": "gpb.org",
+      "language": "English",
+      "published_at": "2026-09-16T14:10:00+00:00",
+      "summary": "How the EPA rollback of carbon emission rules could play out in Georgia's coal-fired power plants gpb.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUlrdjdsbmlGTmNjMHdZTERNR0FWT1pmN0F5MGxNcU5td1k2ZHBNRVI5OU9OazB0WmRIUFVUbXgyNlNMc3M2TGJWNFV6d2UzOE8zanBwS0EtYUFPZ3V5N0ZaNU4zbFNLdXdIOWdrN3VKbjNrM1FCcU9CRXBjMjlUR1RpSHpWUkZzUkdlZDlMaS0yRW0walh6SGlnUGpqZkE0MkF1ZFlJUWJqMEN1aHZzNXhySDVDNDViOUI4?oc=5\" target=\"_blank\">How the EPA rollback of carbon emission rules could play out in Georgia's coal-fired power plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gpb.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-19T19:53:34+00:00"
     },
     {
       "id": "92bf8d18e8a679a2",
