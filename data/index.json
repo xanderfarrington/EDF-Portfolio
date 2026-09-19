@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-19T19:53:44+00:00",
+  "last_updated": "2026-09-19T22:02:10+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 99,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "129ca168aa68a710",
         "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
