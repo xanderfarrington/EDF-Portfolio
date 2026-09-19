@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-18T22:09:43+00:00",
+  "last_updated": "2026-09-19T02:40:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 716,
+  "count": 717,
   "mentions": [
     {
       "id": "7ac75627cc083bb7",
@@ -481,6 +481,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-18T18:47:42+00:00"
+    },
+    {
+      "id": "91583daa1424ccac",
+      "title": "Georgia Power's Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWVrVXFWblZBc0s5RU5yYUQtSDMtdlFGa18wVGJRNmdrWk9TYzRCZXhYUjRSOHRwcUwxME9DTXNxS2NFQUpwX2l5bHdmV2RnMkNjUHVOazdST1FZckJvT1g3bzlFdWVJRnN6clFJQlgwWHUydXlkY2ZvWXNDU0pVT3ZwbVZZcFRYTlV5UDczRWhab0ZaM3ZTSnR3?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-09-15T16:00:00+00:00",
+      "summary": "Georgia Power's Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWVrVXFWblZBc0s5RU5yYUQtSDMtdlFGa18wVGJRNmdrWk9TYzRCZXhYUjRSOHRwcUwxME9DTXNxS2NFQUpwX2l5bHdmV2RnMkNjUHVOazdST1FZckJvT1g3bzlFdWVJRnN6clFJQlgwWHUydXlkY2ZvWXNDU0pVT3ZwbVZZcFRYTlV5UDczRWhab0ZaM3ZTSnR3?oc=5\" target=\"_blank\">Georgia Power's Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-19T02:40:12+00:00"
     },
     {
       "id": "33047c3f26700b94",
