@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-20T20:08:49+00:00",
+  "last_updated": "2026-09-20T23:46:46+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 725,
+  "count": 726,
   "mentions": [
+    {
+      "id": "cf5c2cf62213c01f",
+      "title": "Storm damage in southeast Atlanta leaves hundreds without power - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUZWRWkxX0VKZ0hFdVplak1zeV94YmZKbVVIWkhXa21rX2FYc2k0ekJGbEptZHExZzctb21PMXN0cWQzcDVwVF9VUmI2V3cyUUpRb2pzX0pTVWpIMkxtc3I3MWY5Q2htdDZ5c0xadGVMWlpkcnJqVW8xU2N0XzZZWElEd3IyeTBXSldxM1ZKczExM0l2d04wRlJJT1dnYmJ6SkttTkhPRy3SAbwBQVVfeXFMTnJnYUd5ZjRJamRlSDlVdS1ZUEdyc3Q3SjFHQlRGUEZqQnlGOW13WHpQMk5vcmthQjFnRGxrSXlDeVY4cFFTV1BFWjdCYmlKS1pnUndJLVZfVjFwWWxtN1Z6V2R4OHIwaGhjQ2JtZ05kTHZUNmlNb2FnUFZkejU2eUp5d0hmXy1ibzhoRGZ4R1M3Z1lfSFByOC1CTTZpNUFScGh3Q3dTMmxPNFItTUtERERQM05pdnBFUVlUZlk?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-09-20T22:40:00+00:00",
+      "summary": "Storm damage in southeast Atlanta leaves hundreds without power Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUZWRWkxX0VKZ0hFdVplak1zeV94YmZKbVVIWkhXa21rX2FYc2k0ekJGbEptZHExZzctb21PMXN0cWQzcDVwVF9VUmI2V3cyUUpRb2pzX0pTVWpIMkxtc3I3MWY5Q2htdDZ5c0xadGVMWlpkcnJqVW8xU2N0XzZZWElEd3IyeTBXSldxM1ZKczExM0l2d04wRlJJT1dnYmJ6SkttTkhPRy3SAbwBQVVfeXFMTnJnYUd5ZjRJamRlSDlVdS1ZUEdyc3Q3SjFHQlRGUEZqQnlGOW13WHpQMk5vcmthQjFnRGxrSXlDeVY4cFFTV1BFWjdCYmlKS1pnUndJLVZfVjFwWWxtN1Z6V2R4OHIwaGhjQ2JtZ05kTHZUNmlNb2FnUFZkejU2eUp5d0hmXy1ibzhoRGZ4R1M3Z1lfSFByOC1CTTZpNUFScGh3Q3dTMmxPNFItTUtERERQM05pdnBFUVlUZlk?oc=5\" target=\"_blank\">Storm damage in southeast Atlanta leaves hundreds without power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-20T23:46:46+00:00"
+    },
     {
       "id": "0d228436f7ae2b2d",
       "title": "Georgia Power’s Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia - Grice Connect",
