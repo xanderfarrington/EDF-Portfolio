@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-20T08:58:39+00:00",
+  "last_updated": "2026-09-20T13:52:41+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 99,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "129ca168aa68a710",
         "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 721,
+      "count": 722,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "6f9fb0c0f1a8dad9",

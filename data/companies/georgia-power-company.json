@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-20T08:58:29+00:00",
+  "last_updated": "2026-09-20T13:52:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 721,
+  "count": 722,
   "mentions": [
     {
       "id": "6f9fb0c0f1a8dad9",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-20T08:58:29+00:00"
+    },
+    {
+      "id": "f6538486c00b7ed9",
+      "title": "Georgia Power adds 1.14 GW of solar energy with seven projects - Inspenet",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oTWV0OXlHWVE3VzJtNWhROVpEc0lBcGxVOTFSTkt0cm03Ukc2bXZHSGxXYmNFa0pNajc1aDNaTVBhbjQ4MDRMUEtPdEZLUWdJVFhDS09BdXY5QkJiYlV2cUJTOVM0T1QtaFIxNExzM3o5QWM?oc=5",
+      "domain": "news.google.com",
+      "source": "Inspenet",
+      "language": "English",
+      "published_at": "2026-09-20T02:00:00+00:00",
+      "summary": "Georgia Power adds 1.14 GW of solar energy with seven projects Inspenet",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9oTWV0OXlHWVE3VzJtNWhROVpEc0lBcGxVOTFSTkt0cm03Ukc2bXZHSGxXYmNFa0pNajc1aDNaTVBhbjQ4MDRMUEtPdEZLUWdJVFhDS09BdXY5QkJiYlV2cUJTOVM0T1QtaFIxNExzM3o5QWM?oc=5\" target=\"_blank\">Georgia Power adds 1.14 GW of solar energy with seven projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inspenet</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-20T13:52:31+00:00"
     },
     {
       "id": "7ac75627cc083bb7",
