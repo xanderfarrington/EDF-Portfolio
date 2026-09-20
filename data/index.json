@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T02:52:34+00:00",
+  "last_updated": "2026-09-20T08:58:39+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 720,
+      "count": 721,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "7ac75627cc083bb7",
-        "title": "US ROUNDUP: Eos DOE loan, FlexGen-Lightshift, Georgia Power - Energy-Storage.News",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVTZnMWdxYnR3aGpac3gxV2hSamMxVERhQS03OEx1eERFZG1UZDVCZW1HUDdPeHRLbVhtckdXQndiUGVlRUFBWTR0X0I0c1BOZlYxTktNbFlzYkV2YmxrQUhrLVdhRDhlVnVRSnNqX1I2TDhQM2d1OVJIaUpuNVNBQ2ZBa2YwYWVVcXA5WXIyUnlPMmNYUDRRSnVlX050SkgwYmRxb0NXcEIzaW9CSXdQeWpHcy1jb1NQVFVzZTNZLVRmbGdEVTZRTVJqenRJaXU3WW9jc1FwZThaMHFLcHNZMkk0WHR3b25oRC1F?oc=5",
+        "id": "6f9fb0c0f1a8dad9",
+        "title": "Georgia Power adds 1.14 GW of new solar energy - Inspenet",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oTWV0OXlHWVE3VzJtNWhROVpEc0lBcGxVOTFSTkt0cm03Ukc2bXZHSGxXYmNFa0pNajc1aDNaTVBhbjQ4MDRMUEtPdEZLUWdJVFhDS09BdXY5QkJiYlV2cUJTOVM0T1QtaFIxNExzM3o5QWM?oc=5",
         "domain": "news.google.com",
-        "source": "Energy-Storage.News",
+        "source": "Inspenet",
         "language": "English",
-        "published_at": "2026-09-18T12:36:43+00:00",
-        "summary": "US ROUNDUP: Eos DOE loan, FlexGen-Lightshift, Georgia Power Energy-Storage.News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVTZnMWdxYnR3aGpac3gxV2hSamMxVERhQS03OEx1eERFZG1UZDVCZW1HUDdPeHRLbVhtckdXQndiUGVlRUFBWTR0X0I0c1BOZlYxTktNbFlzYkV2YmxrQUhrLVdhRDhlVnVRSnNqX1I2TDhQM2d1OVJIaUpuNVNBQ2ZBa2YwYWVVcXA5WXIyUnlPMmNYUDRRSnVlX050SkgwYmRxb0NXcEIzaW9CSXdQeWpHcy1jb1NQVFVzZTNZLVRmbGdEVTZRTVJqenRJaXU3WW9jc1FwZThaMHFLcHNZMkk0WHR3b25oRC1F?oc=5\" target=\"_blank\">US ROUNDUP: Eos DOE loan, FlexGen-Lightshift, Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy-Storage.News</font>",
+        "published_at": "2026-09-20T02:00:00+00:00",
+        "summary": "Georgia Power adds 1.14 GW of new solar energy Inspenet",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9oTWV0OXlHWVE3VzJtNWhROVpEc0lBcGxVOTFSTkt0cm03Ukc2bXZHSGxXYmNFa0pNajc1aDNaTVBhbjQ4MDRMUEtPdEZLUWdJVFhDS09BdXY5QkJiYlV2cUJTOVM0T1QtaFIxNExzM3o5QWM?oc=5\" target=\"_blank\">Georgia Power adds 1.14 GW of new solar energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inspenet</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-18T14:02:01+00:00"
+        "collected_at": "2026-09-20T08:58:29+00:00"
       }
     },
     {
