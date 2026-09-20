@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-20T13:52:31+00:00",
+  "last_updated": "2026-09-20T17:13:38+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 722,
+  "count": 725,
   "mentions": [
+    {
+      "id": "0d228436f7ae2b2d",
+      "title": "Georgia Power’s Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia - Grice Connect",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYTltQWo5b3JCMEQ3SHJkNGdraC1NNV9NRk9BZ2JndVVreTJjaktScG5feTZzQVVRMWg5NDdURFdjMDk1VklIa3RuYjk3ekdtZjVJbGo3VGNNSlFKSTJ6bWxhQWNBd1RZclNBYkhGLWxGc1BjVklBWlU1NDMtbm9vakFGdVVVVE4tZm1pMVJtSFdHWlZ1UExuN283NUpKUHhiYXJOa2l2eEY2S091RE1CVU44eEtKMEprMzdBTWlBNE5hWlFTMEpLSWltOXJRLXVBU2FId3dOU0FtdGFaazg0UnR0cTcyWC1tc1lWLVlwcG4tY1XSAfgBQVVfeXFMTXlOWm5CeS10Qy1ONUhZQTQyMjBKQUpPQ29RdXJKVmpfeEJhVzJGRGU2ZXpDd2R4bGkwZEdhNG5fSFQzbjk5M3VLTlNvak1vMXNSbmJSTUhudUIyeFl0Z0p4Vkd2MzZ2YW1SUFJpQ0VIM0w3MWtwN0FybVBSQnhhd2lkaGhWQU41MGozeExLYTRES2Itc3Vwclp5THFvSldTQXI3Tm05VXhraVl3eHpQUm1IU2pDOERTVE8yWVVXdmtRWGtNRU5XRldWLWlXbXNjaFk5RjJhRnEtQkhxbXN5Y05EeVRMRXZidTN1QzBUSHRIUmhOUHh2bDU?oc=5",
+      "domain": "news.google.com",
+      "source": "Grice Connect",
+      "language": "English",
+      "published_at": "2026-09-20T14:05:00+00:00",
+      "summary": "Georgia Power’s Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia Grice Connect",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYTltQWo5b3JCMEQ3SHJkNGdraC1NNV9NRk9BZ2JndVVreTJjaktScG5feTZzQVVRMWg5NDdURFdjMDk1VklIa3RuYjk3ekdtZjVJbGo3VGNNSlFKSTJ6bWxhQWNBd1RZclNBYkhGLWxGc1BjVklBWlU1NDMtbm9vakFGdVVVVE4tZm1pMVJtSFdHWlZ1UExuN283NUpKUHhiYXJOa2l2eEY2S091RE1CVU44eEtKMEprMzdBTWlBNE5hWlFTMEpLSWltOXJRLXVBU2FId3dOU0FtdGFaazg0UnR0cTcyWC1tc1lWLVlwcG4tY1XSAfgBQVVfeXFMTXlOWm5CeS10Qy1ONUhZQTQyMjBKQUpPQ29RdXJKVmpfeEJhVzJGRGU2ZXpDd2R4bGkwZEdhNG5fSFQzbjk5M3VLTlNvak1vMXNSbmJSTUhudUIyeFl0Z0p4Vkd2MzZ2YW1SUFJpQ0VIM0w3MWtwN0FybVBSQnhhd2lkaGhWQU41MGozeExLYTRES2Itc3Vwclp5THFvSldTQXI3Tm05VXhraVl3eHpQUm1IU2pDOERTVE8yWVVXdmtRWGtNRU5XRldWLWlXbXNjaFk5RjJhRnEtQkhxbXN5Y05EeVRMRXZidTN1QzBUSHRIUmhOUHh2bDU?oc=5\" target=\"_blank\">Georgia Power’s Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-20T17:13:38+00:00"
+    },
     {
       "id": "6f9fb0c0f1a8dad9",
       "title": "Georgia Power adds 1.14 GW of new solar energy - Inspenet",
@@ -89,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-18T08:39:53+00:00"
+    },
+    {
+      "id": "a96acd8b17135c5b",
+      "title": "Georgia Power opens new battery energy storage system at Robins Solar Facility - dailyenergyinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWR6WlhEM2h3ZEN3RTRCZDN3YmpwUHFmUGNUZFZhVGZYTTM5Y2NNUFJQdGtSNlRzQlBpem8yaHlmeE5YZk5DSHg2NEdnRXVQcEkwZ1p5U2J5TWhycUZVYjdwVEZyM3RCOVhWNEswRUtjREQ0NUdJZ3lRbmNuVXBBM002MkdEaTVmNk5KeVFDQ2lGMEZrbThjSTlmbFJ5T0FneW1NUkRzSGRxMVJCeFhaMlVROUx4RUdhQnpYaVRB?oc=5",
+      "domain": "news.google.com",
+      "source": "dailyenergyinsider.com",
+      "language": "English",
+      "published_at": "2026-09-17T12:23:04+00:00",
+      "summary": "Georgia Power opens new battery energy storage system at Robins Solar Facility dailyenergyinsider.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWR6WlhEM2h3ZEN3RTRCZDN3YmpwUHFmUGNUZFZhVGZYTTM5Y2NNUFJQdGtSNlRzQlBpem8yaHlmeE5YZk5DSHg2NEdnRXVQcEkwZ1p5U2J5TWhycUZVYjdwVEZyM3RCOVhWNEswRUtjREQ0NUdJZ3lRbmNuVXBBM002MkdEaTVmNk5KeVFDQ2lGMEZrbThjSTlmbFJ5T0FneW1NUkRzSGRxMVJCeFhaMlVROUx4RUdhQnpYaVRB?oc=5\" target=\"_blank\">Georgia Power opens new battery energy storage system at Robins Solar Facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailyenergyinsider.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-20T17:13:38+00:00"
     },
     {
       "id": "c04868f63aacadb1",
@@ -593,6 +621,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-15T13:03:16+00:00"
+    },
+    {
+      "id": "38a8761c49cbbd14",
+      "title": "Georgia regulators approve 1,137 MW of new solar power for Georgia Power - dailyenergyinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFgtMFZGOEd2T0c4ek9tdGdwbkVVal9IWE1HUjREcmZhSGl0OERkd1JVLV9IUW55NFotVDdsSlpLNkh3N3NRc0lWcG5wa0pfckhYU3VlNXI0WEF5cEJSQVNYbmMxOHozRVMzSnhpUm4tT0JuQ0FfaVIxQ1BKbTU0NGxTaFhFX25FMWZaRVRwY0FiWUplRmNlUVhjVGNqRFpyeDNGWUg4VFVrSldCRXlkUEZBb28?oc=5",
+      "domain": "news.google.com",
+      "source": "dailyenergyinsider.com",
+      "language": "English",
+      "published_at": "2026-09-15T05:00:55+00:00",
+      "summary": "Georgia regulators approve 1,137 MW of new solar power for Georgia Power dailyenergyinsider.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFgtMFZGOEd2T0c4ek9tdGdwbkVVal9IWE1HUjREcmZhSGl0OERkd1JVLV9IUW55NFotVDdsSlpLNkh3N3NRc0lWcG5wa0pfckhYU3VlNXI0WEF5cEJSQVNYbmMxOHozRVMzSnhpUm4tT0JuQ0FfaVIxQ1BKbTU0NGxTaFhFX25FMWZaRVRwY0FiWUplRmNlUVhjVGNqRFpyeDNGWUg4VFVrSldCRXlkUEZBb28?oc=5\" target=\"_blank\">Georgia regulators approve 1,137 MW of new solar power for Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailyenergyinsider.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-20T17:13:38+00:00"
     },
     {
       "id": "bfe1b32860d95f2c",

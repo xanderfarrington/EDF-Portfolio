@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T13:52:41+00:00",
+  "last_updated": "2026-09-20T17:13:48+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 722,
+      "count": 725,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "6f9fb0c0f1a8dad9",
-        "title": "Georgia Power adds 1.14 GW of new solar energy - Inspenet",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oTWV0OXlHWVE3VzJtNWhROVpEc0lBcGxVOTFSTkt0cm03Ukc2bXZHSGxXYmNFa0pNajc1aDNaTVBhbjQ4MDRMUEtPdEZLUWdJVFhDS09BdXY5QkJiYlV2cUJTOVM0T1QtaFIxNExzM3o5QWM?oc=5",
+        "id": "0d228436f7ae2b2d",
+        "title": "Georgia Power’s Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia - Grice Connect",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYTltQWo5b3JCMEQ3SHJkNGdraC1NNV9NRk9BZ2JndVVreTJjaktScG5feTZzQVVRMWg5NDdURFdjMDk1VklIa3RuYjk3ekdtZjVJbGo3VGNNSlFKSTJ6bWxhQWNBd1RZclNBYkhGLWxGc1BjVklBWlU1NDMtbm9vakFGdVVVVE4tZm1pMVJtSFdHWlZ1UExuN283NUpKUHhiYXJOa2l2eEY2S091RE1CVU44eEtKMEprMzdBTWlBNE5hWlFTMEpLSWltOXJRLXVBU2FId3dOU0FtdGFaazg0UnR0cTcyWC1tc1lWLVlwcG4tY1XSAfgBQVVfeXFMTXlOWm5CeS10Qy1ONUhZQTQyMjBKQUpPQ29RdXJKVmpfeEJhVzJGRGU2ZXpDd2R4bGkwZEdhNG5fSFQzbjk5M3VLTlNvak1vMXNSbmJSTUhudUIyeFl0Z0p4Vkd2MzZ2YW1SUFJpQ0VIM0w3MWtwN0FybVBSQnhhd2lkaGhWQU41MGozeExLYTRES2Itc3Vwclp5THFvSldTQXI3Tm05VXhraVl3eHpQUm1IU2pDOERTVE8yWVVXdmtRWGtNRU5XRldWLWlXbXNjaFk5RjJhRnEtQkhxbXN5Y05EeVRMRXZidTN1QzBUSHRIUmhOUHh2bDU?oc=5",
         "domain": "news.google.com",
-        "source": "Inspenet",
+        "source": "Grice Connect",
         "language": "English",
-        "published_at": "2026-09-20T02:00:00+00:00",
-        "summary": "Georgia Power adds 1.14 GW of new solar energy Inspenet",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9oTWV0OXlHWVE3VzJtNWhROVpEc0lBcGxVOTFSTkt0cm03Ukc2bXZHSGxXYmNFa0pNajc1aDNaTVBhbjQ4MDRMUEtPdEZLUWdJVFhDS09BdXY5QkJiYlV2cUJTOVM0T1QtaFIxNExzM3o5QWM?oc=5\" target=\"_blank\">Georgia Power adds 1.14 GW of new solar energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inspenet</font>",
+        "published_at": "2026-09-20T14:05:00+00:00",
+        "summary": "Georgia Power’s Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia Grice Connect",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYTltQWo5b3JCMEQ3SHJkNGdraC1NNV9NRk9BZ2JndVVreTJjaktScG5feTZzQVVRMWg5NDdURFdjMDk1VklIa3RuYjk3ekdtZjVJbGo3VGNNSlFKSTJ6bWxhQWNBd1RZclNBYkhGLWxGc1BjVklBWlU1NDMtbm9vakFGdVVVVE4tZm1pMVJtSFdHWlZ1UExuN283NUpKUHhiYXJOa2l2eEY2S091RE1CVU44eEtKMEprMzdBTWlBNE5hWlFTMEpLSWltOXJRLXVBU2FId3dOU0FtdGFaazg0UnR0cTcyWC1tc1lWLVlwcG4tY1XSAfgBQVVfeXFMTXlOWm5CeS10Qy1ONUhZQTQyMjBKQUpPQ29RdXJKVmpfeEJhVzJGRGU2ZXpDd2R4bGkwZEdhNG5fSFQzbjk5M3VLTlNvak1vMXNSbmJSTUhudUIyeFl0Z0p4Vkd2MzZ2YW1SUFJpQ0VIM0w3MWtwN0FybVBSQnhhd2lkaGhWQU41MGozeExLYTRES2Itc3Vwclp5THFvSldTQXI3Tm05VXhraVl3eHpQUm1IU2pDOERTVE8yWVVXdmtRWGtNRU5XRldWLWlXbXNjaFk5RjJhRnEtQkhxbXN5Y05EeVRMRXZidTN1QzBUSHRIUmhOUHh2bDU?oc=5\" target=\"_blank\">Georgia Power’s Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-20T08:58:29+00:00"
+        "collected_at": "2026-09-20T17:13:38+00:00"
       }
     },
     {
