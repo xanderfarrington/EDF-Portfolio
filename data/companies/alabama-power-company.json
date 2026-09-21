@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-21T02:49:31+00:00",
+  "last_updated": "2026-09-21T09:30:00+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 394,
+  "count": 395,
   "mentions": [
     {
       "id": "ff6a83895757ad46",
@@ -75,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-19T16:57:58+00:00"
+    },
+    {
+      "id": "315219f76bdb3733",
+      "title": "How to get help with your Alabama power bills online - wvtm13.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3BZRFA5cnZEYktzTFU2OEhjMlJNWnJkR0dCVEdDM202enMyRndCSEQwNEZiM1Z3czdhTGc1TXY3OGt1M1dHeklzTVpuWVJYZkJlUzF6RHp1YzZtMmI4OUhtcHU2TjQtZlIta2cwdXROTXJDOUhVY3gyWmtGNjVoRHNIb2F5cG00WnhvaDh0d3F1cUZPc2c?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm13.com",
+      "language": "English",
+      "published_at": "2026-09-18T22:10:00+00:00",
+      "summary": "How to get help with your Alabama power bills online wvtm13.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3BZRFA5cnZEYktzTFU2OEhjMlJNWnJkR0dCVEdDM202enMyRndCSEQwNEZiM1Z3czdhTGc1TXY3OGt1M1dHeklzTVpuWVJYZkJlUzF6RHp1YzZtMmI4OUhtcHU2TjQtZlIta2cwdXROTXJDOUhVY3gyWmtGNjVoRHNIb2F5cG00WnhvaDh0d3F1cUZPc2c?oc=5\" target=\"_blank\">How to get help with your Alabama power bills online</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm13.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-21T09:30:00+00:00"
     },
     {
       "id": "d0187169cfd09b93",
