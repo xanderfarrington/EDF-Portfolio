@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-20T23:46:46+00:00",
+  "last_updated": "2026-09-21T02:49:48+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 726,
+  "count": 728,
   "mentions": [
     {
       "id": "cf5c2cf62213c01f",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-20T17:13:38+00:00"
+    },
+    {
+      "id": "16292c6b5f9c5689",
+      "title": "Georgia Power’s Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia - griceconnect.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYTltQWo5b3JCMEQ3SHJkNGdraC1NNV9NRk9BZ2JndVVreTJjaktScG5feTZzQVVRMWg5NDdURFdjMDk1VklIa3RuYjk3ekdtZjVJbGo3VGNNSlFKSTJ6bWxhQWNBd1RZclNBYkhGLWxGc1BjVklBWlU1NDMtbm9vakFGdVVVVE4tZm1pMVJtSFdHWlZ1UExuN283NUpKUHhiYXJOa2l2eEY2S091RE1CVU44eEtKMEprMzdBTWlBNE5hWlFTMEpLSWltOXJRLXVBU2FId3dOU0FtdGFaazg0UnR0cTcyWC1tc1lWLVlwcG4tY1XSAfgBQVVfeXFMTXlOWm5CeS10Qy1ONUhZQTQyMjBKQUpPQ29RdXJKVmpfeEJhVzJGRGU2ZXpDd2R4bGkwZEdhNG5fSFQzbjk5M3VLTlNvak1vMXNSbmJSTUhudUIyeFl0Z0p4Vkd2MzZ2YW1SUFJpQ0VIM0w3MWtwN0FybVBSQnhhd2lkaGhWQU41MGozeExLYTRES2Itc3Vwclp5THFvSldTQXI3Tm05VXhraVl3eHpQUm1IU2pDOERTVE8yWVVXdmtRWGtNRU5XRldWLWlXbXNjaFk5RjJhRnEtQkhxbXN5Y05EeVRMRXZidTN1QzBUSHRIUmhOUHh2bDU?oc=5",
+      "domain": "news.google.com",
+      "source": "griceconnect.com",
+      "language": "English",
+      "published_at": "2026-09-20T14:05:00+00:00",
+      "summary": "Georgia Power’s Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia griceconnect.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYTltQWo5b3JCMEQ3SHJkNGdraC1NNV9NRk9BZ2JndVVreTJjaktScG5feTZzQVVRMWg5NDdURFdjMDk1VklIa3RuYjk3ekdtZjVJbGo3VGNNSlFKSTJ6bWxhQWNBd1RZclNBYkhGLWxGc1BjVklBWlU1NDMtbm9vakFGdVVVVE4tZm1pMVJtSFdHWlZ1UExuN283NUpKUHhiYXJOa2l2eEY2S091RE1CVU44eEtKMEprMzdBTWlBNE5hWlFTMEpLSWltOXJRLXVBU2FId3dOU0FtdGFaazg0UnR0cTcyWC1tc1lWLVlwcG4tY1XSAfgBQVVfeXFMTXlOWm5CeS10Qy1ONUhZQTQyMjBKQUpPQ29RdXJKVmpfeEJhVzJGRGU2ZXpDd2R4bGkwZEdhNG5fSFQzbjk5M3VLTlNvak1vMXNSbmJSTUhudUIyeFl0Z0p4Vkd2MzZ2YW1SUFJpQ0VIM0w3MWtwN0FybVBSQnhhd2lkaGhWQU41MGozeExLYTRES2Itc3Vwclp5THFvSldTQXI3Tm05VXhraVl3eHpQUm1IU2pDOERTVE8yWVVXdmtRWGtNRU5XRldWLWlXbXNjaFk5RjJhRnEtQkhxbXN5Y05EeVRMRXZidTN1QzBUSHRIUmhOUHh2bDU?oc=5\" target=\"_blank\">Georgia Power’s Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">griceconnect.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-21T02:49:48+00:00"
     },
     {
       "id": "6f9fb0c0f1a8dad9",
@@ -789,6 +803,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-15T07:03:38+00:00"
+    },
+    {
+      "id": "d436474e704b53b5",
+      "title": "Georgia Power encourages customers to take action during National Preparedness Month - griceconnect.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVdOQ29WQ2hFOEZIbS0zanBvMnYwWk1BMENGUDZyZS1XUWJ4TFp2RS1SajU2SXVRWHZmcjlkSzBfWG5NUUhMclY0Yk1MYVNMWk5FRFM5UHhKc3JfQXhFaFFnWmpqazZ0dzQ3UWZwQ01ZVGJzcGFvVnZoemdmdTVNeWVFdnRJbWxfMFpwSjhQZXctSmRnbm01NXZVNGQwMV8waHRrb05wS1VfelVsaU0xbjh2cmtvTWo4SFlhR3VlUmRuWmJWWG5WSXlvc3A2d9IB0wFBVV95cUxOQ2F0R29GNXhWSENsSDc3dXFsTzFSOE9KRm9jX1VTY09WdkdSWklDMFhnb2xlODdyWHRIQVEwbnV0bHJoNmtMRDk3a0xBNEhHd2N3V0lXZU1KSHV1eXUzN09pX3FiMEtfMlM1WHhONUtGLUhkWU1rS042OGdqOVFZaW1BYUxNbGI3NmtLZGZ4MnlFWEdaR0MxYWhHeGFHUzAwNWMzektEaklZamJNVjF4UzVLRjBrYXRBcE5kS2sxS3I5YXZiaUM4c05tbVdjQnFIZGFv?oc=5",
+      "domain": "news.google.com",
+      "source": "griceconnect.com",
+      "language": "English",
+      "published_at": "2026-09-14T14:10:00+00:00",
+      "summary": "Georgia Power encourages customers to take action during National Preparedness Month griceconnect.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVdOQ29WQ2hFOEZIbS0zanBvMnYwWk1BMENGUDZyZS1XUWJ4TFp2RS1SajU2SXVRWHZmcjlkSzBfWG5NUUhMclY0Yk1MYVNMWk5FRFM5UHhKc3JfQXhFaFFnWmpqazZ0dzQ3UWZwQ01ZVGJzcGFvVnZoemdmdTVNeWVFdnRJbWxfMFpwSjhQZXctSmRnbm01NXZVNGQwMV8waHRrb05wS1VfelVsaU0xbjh2cmtvTWo4SFlhR3VlUmRuWmJWWG5WSXlvc3A2d9IB0wFBVV95cUxOQ2F0R29GNXhWSENsSDc3dXFsTzFSOE9KRm9jX1VTY09WdkdSWklDMFhnb2xlODdyWHRIQVEwbnV0bHJoNmtMRDk3a0xBNEhHd2N3V0lXZU1KSHV1eXUzN09pX3FiMEtfMlM1WHhONUtGLUhkWU1rS042OGdqOVFZaW1BYUxNbGI3NmtLZGZ4MnlFWEdaR0MxYWhHeGFHUzAwNWMzektEaklZamJNVjF4UzVLRjBrYXRBcE5kS2sxS3I5YXZiaUM4c05tbVdjQnFIZGFv?oc=5\" target=\"_blank\">Georgia Power encourages customers to take action during National Preparedness Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">griceconnect.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-21T02:49:48+00:00"
     },
     {
       "id": "179a0a72f5f86247",
