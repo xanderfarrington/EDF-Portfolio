@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-21T16:08:50+00:00",
+  "last_updated": "2026-09-21T21:34:41+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 99,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "129ca168aa68a710",
         "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 395,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "ff6a83895757ad46",
         "title": "The Alabama Legislature was on a collision course with Alabama Power. Then came spring break - WBHM",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 729,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "0060bd6c4121515c",
         "title": "Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable - PR Newswire",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 59,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "e436781449e42f0d",
         "title": "DOE’s New Strategic Plan Sets an Expansive Course for Energy Dominance Financing | Mintz - ML Strategies - JD Supra",
