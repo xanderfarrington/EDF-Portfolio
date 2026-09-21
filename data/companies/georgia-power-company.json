@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-21T09:30:16+00:00",
+  "last_updated": "2026-09-21T16:08:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 728,
+  "count": 729,
   "mentions": [
+    {
+      "id": "0060bd6c4121515c",
+      "title": "Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbl80dkFDNFBUblBLT1hqcFpVSXVqNTJLN1RwUFhzU240Z0pKY1dvTnBranJIYk5IVTYxbGxOc3lMTjFocUZzYmE0VzdUcFJJNDlkMVM4TnZERmZMYll6SElHVnhaYmlqUW9vdXdKeF80aDhYT3ZDQWk1Qk54dmppaUZEQlI4bXA3bzd3c2Jka2ZNY0hvbzdNVlFqSmdmQlZJdkhXWjlrUWRqTFo5R3hwR0UwTVhlRzgtbjFvZDJTdEoxa1BWVmpKemxhTnU4NzI0TlRRRURQcFVhbERvNllGMExVdWZiV2NnZTVFMU4xRmY2XzhHbE53bE5wOE50bzZUdU9j?oc=5",
+      "domain": "news.google.com",
+      "source": "PR Newswire",
+      "language": "English",
+      "published_at": "2026-09-21T15:00:00+00:00",
+      "summary": "Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable PR Newswire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNbl80dkFDNFBUblBLT1hqcFpVSXVqNTJLN1RwUFhzU240Z0pKY1dvTnBranJIYk5IVTYxbGxOc3lMTjFocUZzYmE0VzdUcFJJNDlkMVM4TnZERmZMYll6SElHVnhaYmlqUW9vdXdKeF80aDhYT3ZDQWk1Qk54dmppaUZEQlI4bXA3bzd3c2Jka2ZNY0hvbzdNVlFqSmdmQlZJdkhXWjlrUWRqTFo5R3hwR0UwTVhlRzgtbjFvZDJTdEoxa1BWVmpKemxhTnU4NzI0TlRRRURQcFVhbERvNllGMExVdWZiV2NnZTVFMU4xRmY2XzhHbE53bE5wOE50bzZUdU9j?oc=5\" target=\"_blank\">Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-21T16:08:40+00:00"
+    },
     {
       "id": "cf5c2cf62213c01f",
       "title": "Storm damage in southeast Atlanta leaves hundreds without power - Atlanta News First",

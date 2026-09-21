@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T09:30:27+00:00",
+  "last_updated": "2026-09-21T16:08:50+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 395,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "ff6a83895757ad46",
         "title": "The Alabama Legislature was on a collision course with Alabama Power. Then came spring break - WBHM",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 728,
+      "count": 729,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "cf5c2cf62213c01f",
-        "title": "Storm damage in southeast Atlanta leaves hundreds without power - Atlanta News First",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUZWRWkxX0VKZ0hFdVplak1zeV94YmZKbVVIWkhXa21rX2FYc2k0ekJGbEptZHExZzctb21PMXN0cWQzcDVwVF9VUmI2V3cyUUpRb2pzX0pTVWpIMkxtc3I3MWY5Q2htdDZ5c0xadGVMWlpkcnJqVW8xU2N0XzZZWElEd3IyeTBXSldxM1ZKczExM0l2d04wRlJJT1dnYmJ6SkttTkhPRy3SAbwBQVVfeXFMTnJnYUd5ZjRJamRlSDlVdS1ZUEdyc3Q3SjFHQlRGUEZqQnlGOW13WHpQMk5vcmthQjFnRGxrSXlDeVY4cFFTV1BFWjdCYmlKS1pnUndJLVZfVjFwWWxtN1Z6V2R4OHIwaGhjQ2JtZ05kTHZUNmlNb2FnUFZkejU2eUp5d0hmXy1ibzhoRGZ4R1M3Z1lfSFByOC1CTTZpNUFScGh3Q3dTMmxPNFItTUtERERQM05pdnBFUVlUZlk?oc=5",
+        "id": "0060bd6c4121515c",
+        "title": "Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbl80dkFDNFBUblBLT1hqcFpVSXVqNTJLN1RwUFhzU240Z0pKY1dvTnBranJIYk5IVTYxbGxOc3lMTjFocUZzYmE0VzdUcFJJNDlkMVM4TnZERmZMYll6SElHVnhaYmlqUW9vdXdKeF80aDhYT3ZDQWk1Qk54dmppaUZEQlI4bXA3bzd3c2Jka2ZNY0hvbzdNVlFqSmdmQlZJdkhXWjlrUWRqTFo5R3hwR0UwTVhlRzgtbjFvZDJTdEoxa1BWVmpKemxhTnU4NzI0TlRRRURQcFVhbERvNllGMExVdWZiV2NnZTVFMU4xRmY2XzhHbE53bE5wOE50bzZUdU9j?oc=5",
         "domain": "news.google.com",
-        "source": "Atlanta News First",
+        "source": "PR Newswire",
         "language": "English",
-        "published_at": "2026-09-20T22:40:00+00:00",
-        "summary": "Storm damage in southeast Atlanta leaves hundreds without power Atlanta News First",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUZWRWkxX0VKZ0hFdVplak1zeV94YmZKbVVIWkhXa21rX2FYc2k0ekJGbEptZHExZzctb21PMXN0cWQzcDVwVF9VUmI2V3cyUUpRb2pzX0pTVWpIMkxtc3I3MWY5Q2htdDZ5c0xadGVMWlpkcnJqVW8xU2N0XzZZWElEd3IyeTBXSldxM1ZKczExM0l2d04wRlJJT1dnYmJ6SkttTkhPRy3SAbwBQVVfeXFMTnJnYUd5ZjRJamRlSDlVdS1ZUEdyc3Q3SjFHQlRGUEZqQnlGOW13WHpQMk5vcmthQjFnRGxrSXlDeVY4cFFTV1BFWjdCYmlKS1pnUndJLVZfVjFwWWxtN1Z6V2R4OHIwaGhjQ2JtZ05kTHZUNmlNb2FnUFZkejU2eUp5d0hmXy1ibzhoRGZ4R1M3Z1lfSFByOC1CTTZpNUFScGh3Q3dTMmxPNFItTUtERERQM05pdnBFUVlUZlk?oc=5\" target=\"_blank\">Storm damage in southeast Atlanta leaves hundreds without power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+        "published_at": "2026-09-21T15:00:00+00:00",
+        "summary": "Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable PR Newswire",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNbl80dkFDNFBUblBLT1hqcFpVSXVqNTJLN1RwUFhzU240Z0pKY1dvTnBranJIYk5IVTYxbGxOc3lMTjFocUZzYmE0VzdUcFJJNDlkMVM4TnZERmZMYll6SElHVnhaYmlqUW9vdXdKeF80aDhYT3ZDQWk1Qk54dmppaUZEQlI4bXA3bzd3c2Jka2ZNY0hvbzdNVlFqSmdmQlZJdkhXWjlrUWRqTFo5R3hwR0UwTVhlRzgtbjFvZDJTdEoxa1BWVmpKemxhTnU4NzI0TlRRRURQcFVhbERvNllGMExVdWZiV2NnZTVFMU4xRmY2XzhHbE53bE5wOE50bzZUdU9j?oc=5\" target=\"_blank\">Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-20T23:46:46+00:00"
+        "collected_at": "2026-09-21T16:08:40+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 59,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "e436781449e42f0d",
         "title": "DOE’s New Strategic Plan Sets an Expansive Course for Energy Dominance Financing | Mintz - ML Strategies - JD Supra",
