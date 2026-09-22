@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T00:29:46+00:00",
+  "last_updated": "2026-09-22T07:10:48+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 396,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "ff6a83895757ad46",
         "title": "The Alabama Legislature was on a collision course with Alabama Power. Then came spring break - WBHM",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 742,
+      "count": 747,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "eaa160a37acb688a",
-        "title": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates - Yahoo Finance Singapore",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcDVFQjN3N1NNc1Z0SGl5WVMycFlCcDNLRkVmUlpKTWhodDA4YkNkTVBXWllIQy1RSTJzOG9xa3BiZXZJMjFSSVFhNDRFdVZBc3BfSjZFLXY1eWN0U0VDU0lYZWk0NmltU0x5MTFta1EwVFg3a2lPd0tySHJld1AxVmEzWUoyTUdfVFE?oc=5",
+        "id": "0afca7b3ecbd49c9",
+        "title": "Georgia Power expands partnership with statewide nonprofit to make state parks more accessible and enjoyable - On Common Ground News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV3FfX2tfczFITHg5VC1KX1lONW1HVTJaXzBhLVJ1eElQMUdtYmZmQU1MTm40N2wzeGhFcDZDZDBWSFA4WDNSUXZEZ245NnFsSTNLem5YWXZJb0xKOEI5RGcwdnM2SGV2a29hWndZd2p0LWhhbWNQd2lqT1lrN3VHM3BVdDh0dlRER2hHRk5Nbk8yTlpQb3NrVFZvRWpTY000T0FlQmVMaDl4X0NFa0xjRy0tOTVOTEwxVHJ2VW9zdWxVQzVKcTJnMw?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo Finance Singapore",
+        "source": "On Common Ground News",
         "language": "English",
-        "published_at": "2026-09-21T23:49:44+00:00",
-        "summary": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates Yahoo Finance Singapore",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOcDVFQjN3N1NNc1Z0SGl5WVMycFlCcDNLRkVmUlpKTWhodDA4YkNkTVBXWllIQy1RSTJzOG9xa3BiZXZJMjFSSVFhNDRFdVZBc3BfSjZFLXY1eWN0U0VDU0lYZWk0NmltU0x5MTFta1EwVFg3a2lPd0tySHJld1AxVmEzWUoyTUdfVFE?oc=5\" target=\"_blank\">Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+        "published_at": "2026-09-22T04:10:21+00:00",
+        "summary": "Georgia Power expands partnership with statewide nonprofit to make state parks more accessible and enjoyable On Common Ground News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV3FfX2tfczFITHg5VC1KX1lONW1HVTJaXzBhLVJ1eElQMUdtYmZmQU1MTm40N2wzeGhFcDZDZDBWSFA4WDNSUXZEZ245NnFsSTNLem5YWXZJb0xKOEI5RGcwdnM2SGV2a29hWndZd2p0LWhhbWNQd2lqT1lrN3VHM3BVdDh0dlRER2hHRk5Nbk8yTlpQb3NrVFZvRWpTY000T0FlQmVMaDl4X0NFa0xjRy0tOTVOTEwxVHJ2VW9zdWxVQzVKcTJnMw?oc=5\" target=\"_blank\">Georgia Power expands partnership with statewide nonprofit to make state parks more accessible and enjoyable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">On Common Ground News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-22T00:29:35+00:00"
+        "collected_at": "2026-09-22T07:10:38+00:00"
       }
     },
     {
