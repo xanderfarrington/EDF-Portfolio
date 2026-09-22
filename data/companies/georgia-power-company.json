@@ -2,10 +2,66 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-22T07:10:38+00:00",
+  "last_updated": "2026-09-22T13:00:16+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 747,
+  "count": 755,
   "mentions": [
+    {
+      "id": "f10808449a0ed377",
+      "title": "Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWpJMEFNUWp0S2cxYmJvYTZnRFJpVHdaeVRWdlE3UEQzZG1LVmw3WWlHeU9VVi1EU3RtQkROTXJBdTFqd2lvQWlyNkZ0ZkJYaHBSckxGYUExY201bGtuUFNTSUloNzk3eHVaRG5qbzdDa1Rad0RZdGhZeUtSaFNhVHFtS3ZMalZEVUo5WHBrM3NKWjU5Mks4YjhDSnotWDhJc3RWR3p0QW1RVjlfRElXUFlsLUROMXZJNGVSanNLeXBoZEwwYU8weA?oc=5",
+      "domain": "news.google.com",
+      "source": "Data Center Dynamics",
+      "language": "English",
+      "published_at": "2026-09-22T10:58:57+00:00",
+      "summary": "Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants Data Center Dynamics",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWpJMEFNUWp0S2cxYmJvYTZnRFJpVHdaeVRWdlE3UEQzZG1LVmw3WWlHeU9VVi1EU3RtQkROTXJBdTFqd2lvQWlyNkZ0ZkJYaHBSckxGYUExY201bGtuUFNTSUloNzk3eHVaRG5qbzdDa1Rad0RZdGhZeUtSaFNhVHFtS3ZMalZEVUo5WHBrM3NKWjU5Mks4YjhDSnotWDhJc3RWR3p0QW1RVjlfRElXUFlsLUROMXZJNGVSanNLeXBoZEwwYU8weA?oc=5\" target=\"_blank\">Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T13:00:16+00:00"
+    },
+    {
+      "id": "282425646583146c",
+      "title": "Georgia Power nuclear reactors to get huge face-lift, paid partly by Google - The Atlanta Journal-Constitution",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHU5OXV3Vl8zV0FjR1hnWXpqV0NIZXpHLU5ZRjloZFZzNmhjbjRPcXZ6RzNsSy0zUUNMYUVFVVdpd3J0dzQwYmV5UFE5cEE0V0M2N2IzSExPX29vdFh1cEM3UnN0aWhialphLWVtOE4wRWI2RHZqM29PUzRkdlVkQzB2TkhfUElObVZ4Tk5CNFZ2MThETUx2elBtRnpaT1RrdE5vUWJQS3o4czVwdmZQZ1pETWpTbGJSWk5UMXpRdw?oc=5",
+      "domain": "news.google.com",
+      "source": "The Atlanta Journal-Constitution",
+      "language": "English",
+      "published_at": "2026-09-22T10:04:57+00:00",
+      "summary": "Georgia Power nuclear reactors to get huge face-lift, paid partly by Google The Atlanta Journal-Constitution",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHU5OXV3Vl8zV0FjR1hnWXpqV0NIZXpHLU5ZRjloZFZzNmhjbjRPcXZ6RzNsSy0zUUNMYUVFVVdpd3J0dzQwYmV5UFE5cEE0V0M2N2IzSExPX29vdFh1cEM3UnN0aWhialphLWVtOE4wRWI2RHZqM29PUzRkdlVkQzB2TkhfUElObVZ4Tk5CNFZ2MThETUx2elBtRnpaT1RrdE5vUWJQS3o4czVwdmZQZ1pETWpTbGJSWk5UMXpRdw?oc=5\" target=\"_blank\">Georgia Power nuclear reactors to get huge face-lift, paid partly by Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Journal-Constitution</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T13:00:16+00:00"
+    },
+    {
+      "id": "57b0857436f0d383",
+      "title": "Google-Georgia Power deal would boost output at Vogtle, Hatch - The Augusta Press",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUNCeWptVENZeXNmVm50MFdud2xlM0VXZ3RxRDhBLXVwNzZrSTZLOFRzT1hqeDdnTmFBV1dMTHlMNWt3VEdFMVFzRmhsSE5QQVByZ21Dbms0aUY0c2tfdkhvbUdTY0RFdXNvbnA0SmI3SVctMUE4Y2ktY0Y5SjJ6QUNwZ1BpVm5tUFpFVVlCcUxac00?oc=5",
+      "domain": "news.google.com",
+      "source": "The Augusta Press",
+      "language": "English",
+      "published_at": "2026-09-22T09:06:05+00:00",
+      "summary": "Google-Georgia Power deal would boost output at Vogtle, Hatch The Augusta Press",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUNCeWptVENZeXNmVm50MFdud2xlM0VXZ3RxRDhBLXVwNzZrSTZLOFRzT1hqeDdnTmFBV1dMTHlMNWt3VEdFMVFzRmhsSE5QQVByZ21Dbms0aUY0c2tfdkhvbUdTY0RFdXNvbnA0SmI3SVctMUE4Y2ktY0Y5SjJ6QUNwZ1BpVm5tUFpFVVlCcUxac00?oc=5\" target=\"_blank\">Google-Georgia Power deal would boost output at Vogtle, Hatch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Press</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T13:00:16+00:00"
+    },
+    {
+      "id": "1c972a76146ef560",
+      "title": "Georgia Power and Google to fund 96 MW of nuclear uprates at Vogtle and Hatch - Mugglehead Investment Magazine",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OSGtFcnNZYmYtX1hrOXpwdkQ5dnhlNTFCWUp4N0ItaEJjcjlERkVWVWllc0QwY2k0UVVMemtDLUdtVUZkVFVWRkkyUWZfc0ZfTUNoU3k1SjZZQi1yeVhCN3Q1SmxwNDZ3MW9iSHJXbnJyZk1RLXMxZ2hfOHo?oc=5",
+      "domain": "news.google.com",
+      "source": "Mugglehead Investment Magazine",
+      "language": "English",
+      "published_at": "2026-09-22T07:47:05+00:00",
+      "summary": "Georgia Power and Google to fund 96 MW of nuclear uprates at Vogtle and Hatch Mugglehead Investment Magazine",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9OSGtFcnNZYmYtX1hrOXpwdkQ5dnhlNTFCWUp4N0ItaEJjcjlERkVWVWllc0QwY2k0UVVMemtDLUdtVUZkVFVWRkkyUWZfc0ZfTUNoU3k1SjZZQi1yeVhCN3Q1SmxwNDZ3MW9iSHJXbnJyZk1RLXMxZ2hfOHo?oc=5\" target=\"_blank\">Georgia Power and Google to fund 96 MW of nuclear uprates at Vogtle and Hatch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mugglehead Investment Magazine</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T13:00:16+00:00"
+    },
     {
       "id": "0afca7b3ecbd49c9",
       "title": "Georgia Power expands partnership with statewide nonprofit to make state parks more accessible and enjoyable - On Common Ground News",
@@ -47,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T07:10:38+00:00"
+    },
+    {
+      "id": "ac2ef85021760dd4",
+      "title": "Google Backs Nuclear Expansion at Georgia Power Plants - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejN3cUpGYXZUVEppYkI1eFp4Um5nUUVUQzZBTFJKUzNvOHNfTFVrVnlHdmZpS2h0TmkwS2V3S0F4SGF3OXAtdHFPeFJfREZGYXBTZ054OXB6TVdhalpjYUNndC01MGo2dDBhcDJCNmZTaEpKcXZPZm1rczJtSVRhZHhuMHBqUUZmWUZZeXQzejZPZ05wM0E2OEN4Zw?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-09-22T02:31:00+00:00",
+      "summary": "Google Backs Nuclear Expansion at Georgia Power Plants Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOejN3cUpGYXZUVEppYkI1eFp4Um5nUUVUQzZBTFJKUzNvOHNfTFVrVnlHdmZpS2h0TmkwS2V3S0F4SGF3OXAtdHFPeFJfREZGYXBTZ054OXB6TVdhalpjYUNndC01MGo2dDBhcDJCNmZTaEpKcXZPZm1rczJtSVRhZHhuMHBqUUZmWUZZeXQzejZPZ05wM0E2OEN4Zw?oc=5\" target=\"_blank\">Google Backs Nuclear Expansion at Georgia Power Plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T13:00:16+00:00"
     },
     {
       "id": "74c6ae0af246dfb0",
@@ -161,6 +231,20 @@
       "collected_at": "2026-09-22T00:29:35+00:00"
     },
     {
+      "id": "11f848a50f41dbc1",
+      "title": "Southern Co unit signs deal with Google to add nuclear capacity - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUl1Q3lBdk5XNTJaUl9zUkR5bms4cFBTN3R0cEFiUm5tUXVyVEp4NkF3YVVMWk9WSFBmcW5mVnIxMGU2Ry02UWw2ZUlLMjB0NWZEMVBxb2h4clpxZEVZOEd4S1h3dGlVQW9MNkNBTHJzcGJvVjRsWXZ4NDhwZFFKdTdBNTlwNlh5aDdrWHF3azRtNnJYSGI4bG9HWHY0ZldETU5wMzR5Q3dubEZ3YzhabUdLNA?oc=5",
+      "domain": "news.google.com",
+      "source": "Reuters",
+      "language": "English",
+      "published_at": "2026-09-21T21:39:43+00:00",
+      "summary": "Southern Co unit signs deal with Google to add nuclear capacity Reuters",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUl1Q3lBdk5XNTJaUl9zUkR5bms4cFBTN3R0cEFiUm5tUXVyVEp4NkF3YVVMWk9WSFBmcW5mVnIxMGU2Ry02UWw2ZUlLMjB0NWZEMVBxb2h4clpxZEVZOEd4S1h3dGlVQW9MNkNBTHJzcGJvVjRsWXZ4NDhwZFFKdTdBNTlwNlh5aDdrWHF3azRtNnJYSGI4bG9HWHY0ZldETU5wMzR5Q3dubEZ3YzhabUdLNA?oc=5\" target=\"_blank\">Southern Co unit signs deal with Google to add nuclear capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T13:00:16+00:00"
+    },
+    {
       "id": "3457381a97f2782b",
       "title": "Georgia Power, Google strike nuclear uprate deal worth $900M - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGRQcmxjeXBneXdacHRlSTJVTlB6WHBNT3M4dndRM3Y3MXNJN2VYZjlLZ0FZREE5TEdXV211YzlxWHBmRkNLTWRBeW9CMko4aldWSnh1STdSZDlzTy0yMXZfM2h0SDl5ZDZGWVJBNTlPbndsa0IxaUVXMGZXd1R2SFVpZGxNakh0cTdPYlFaQ1MzSk5fMERoYlJ2V0pwWjVVamhDOVk3UmVsdGlwMlU3NkVSeTVPQQ?oc=5",
@@ -187,6 +271,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T00:29:35+00:00"
+    },
+    {
+      "id": "5fe023d65e335fe3",
+      "title": "Google partners with Georgia Power to expand nu... - pluang.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdlF1X0dLQktLaEVpNmk1cThTSFRqdDByZ3ZRRVpMeXZIaGxyOEZMaXpZN0MwYm5BVkhjR1Z3NXR6NzlTRmZHVE52VS1zWHQzQ0FpMzBZa2dnT24tTV9pMEFjQmdod01YbVlUSTRSdTJTSjBWR3JKa1E5SVhvVHhWQ2xUV1BMZldybHJ4d3NKeVRYRjdiaHZpWEl4djFsSlRQcmlwel9abw?oc=5",
+      "domain": "news.google.com",
+      "source": "pluang.com",
+      "language": "English",
+      "published_at": "2026-09-21T21:04:12+00:00",
+      "summary": "Google partners with Georgia Power to expand nu... pluang.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdlF1X0dLQktLaEVpNmk1cThTSFRqdDByZ3ZRRVpMeXZIaGxyOEZMaXpZN0MwYm5BVkhjR1Z3NXR6NzlTRmZHVE52VS1zWHQzQ0FpMzBZa2dnT24tTV9pMEFjQmdod01YbVlUSTRSdTJTSjBWR3JKa1E5SVhvVHhWQ2xUV1BMZldybHJ4d3NKeVRYRjdiaHZpWEl4djFsSlRQcmlwel9abw?oc=5\" target=\"_blank\">Google partners with Georgia Power to expand nu...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pluang.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T13:00:16+00:00"
     },
     {
       "id": "b27fd73dd3e97aff",
@@ -285,6 +383,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-20T23:46:46+00:00"
+    },
+    {
+      "id": "8a8df8531f94560f",
+      "title": "Storm damage in southeast Atlanta leaves hundreds without power - atlantanewsfirst.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUZWRWkxX0VKZ0hFdVplak1zeV94YmZKbVVIWkhXa21rX2FYc2k0ekJGbEptZHExZzctb21PMXN0cWQzcDVwVF9VUmI2V3cyUUpRb2pzX0pTVWpIMkxtc3I3MWY5Q2htdDZ5c0xadGVMWlpkcnJqVW8xU2N0XzZZWElEd3IyeTBXSldxM1ZKczExM0l2d04wRlJJT1dnYmJ6SkttTkhPRy3SAbwBQVVfeXFMTnJnYUd5ZjRJamRlSDlVdS1ZUEdyc3Q3SjFHQlRGUEZqQnlGOW13WHpQMk5vcmthQjFnRGxrSXlDeVY4cFFTV1BFWjdCYmlKS1pnUndJLVZfVjFwWWxtN1Z6V2R4OHIwaGhjQ2JtZ05kTHZUNmlNb2FnUFZkejU2eUp5d0hmXy1ibzhoRGZ4R1M3Z1lfSFByOC1CTTZpNUFScGh3Q3dTMmxPNFItTUtERERQM05pdnBFUVlUZlk?oc=5",
+      "domain": "news.google.com",
+      "source": "atlantanewsfirst.com",
+      "language": "English",
+      "published_at": "2026-09-20T22:40:00+00:00",
+      "summary": "Storm damage in southeast Atlanta leaves hundreds without power atlantanewsfirst.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUZWRWkxX0VKZ0hFdVplak1zeV94YmZKbVVIWkhXa21rX2FYc2k0ekJGbEptZHExZzctb21PMXN0cWQzcDVwVF9VUmI2V3cyUUpRb2pzX0pTVWpIMkxtc3I3MWY5Q2htdDZ5c0xadGVMWlpkcnJqVW8xU2N0XzZZWElEd3IyeTBXSldxM1ZKczExM0l2d04wRlJJT1dnYmJ6SkttTkhPRy3SAbwBQVVfeXFMTnJnYUd5ZjRJamRlSDlVdS1ZUEdyc3Q3SjFHQlRGUEZqQnlGOW13WHpQMk5vcmthQjFnRGxrSXlDeVY4cFFTV1BFWjdCYmlKS1pnUndJLVZfVjFwWWxtN1Z6V2R4OHIwaGhjQ2JtZ05kTHZUNmlNb2FnUFZkejU2eUp5d0hmXy1ibzhoRGZ4R1M3Z1lfSFByOC1CTTZpNUFScGh3Q3dTMmxPNFItTUtERERQM05pdnBFUVlUZlk?oc=5\" target=\"_blank\">Storm damage in southeast Atlanta leaves hundreds without power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">atlantanewsfirst.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T13:00:16+00:00"
     },
     {
       "id": "0d228436f7ae2b2d",

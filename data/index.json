@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T07:10:48+00:00",
+  "last_updated": "2026-09-22T13:00:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 747,
+      "count": 755,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "0afca7b3ecbd49c9",
-        "title": "Georgia Power expands partnership with statewide nonprofit to make state parks more accessible and enjoyable - On Common Ground News",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV3FfX2tfczFITHg5VC1KX1lONW1HVTJaXzBhLVJ1eElQMUdtYmZmQU1MTm40N2wzeGhFcDZDZDBWSFA4WDNSUXZEZ245NnFsSTNLem5YWXZJb0xKOEI5RGcwdnM2SGV2a29hWndZd2p0LWhhbWNQd2lqT1lrN3VHM3BVdDh0dlRER2hHRk5Nbk8yTlpQb3NrVFZvRWpTY000T0FlQmVMaDl4X0NFa0xjRy0tOTVOTEwxVHJ2VW9zdWxVQzVKcTJnMw?oc=5",
+        "id": "f10808449a0ed377",
+        "title": "Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants - Data Center Dynamics",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWpJMEFNUWp0S2cxYmJvYTZnRFJpVHdaeVRWdlE3UEQzZG1LVmw3WWlHeU9VVi1EU3RtQkROTXJBdTFqd2lvQWlyNkZ0ZkJYaHBSckxGYUExY201bGtuUFNTSUloNzk3eHVaRG5qbzdDa1Rad0RZdGhZeUtSaFNhVHFtS3ZMalZEVUo5WHBrM3NKWjU5Mks4YjhDSnotWDhJc3RWR3p0QW1RVjlfRElXUFlsLUROMXZJNGVSanNLeXBoZEwwYU8weA?oc=5",
         "domain": "news.google.com",
-        "source": "On Common Ground News",
+        "source": "Data Center Dynamics",
         "language": "English",
-        "published_at": "2026-09-22T04:10:21+00:00",
-        "summary": "Georgia Power expands partnership with statewide nonprofit to make state parks more accessible and enjoyable On Common Ground News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV3FfX2tfczFITHg5VC1KX1lONW1HVTJaXzBhLVJ1eElQMUdtYmZmQU1MTm40N2wzeGhFcDZDZDBWSFA4WDNSUXZEZ245NnFsSTNLem5YWXZJb0xKOEI5RGcwdnM2SGV2a29hWndZd2p0LWhhbWNQd2lqT1lrN3VHM3BVdDh0dlRER2hHRk5Nbk8yTlpQb3NrVFZvRWpTY000T0FlQmVMaDl4X0NFa0xjRy0tOTVOTEwxVHJ2VW9zdWxVQzVKcTJnMw?oc=5\" target=\"_blank\">Georgia Power expands partnership with statewide nonprofit to make state parks more accessible and enjoyable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">On Common Ground News</font>",
+        "published_at": "2026-09-22T10:58:57+00:00",
+        "summary": "Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants Data Center Dynamics",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWpJMEFNUWp0S2cxYmJvYTZnRFJpVHdaeVRWdlE3UEQzZG1LVmw3WWlHeU9VVi1EU3RtQkROTXJBdTFqd2lvQWlyNkZ0ZkJYaHBSckxGYUExY201bGtuUFNTSUloNzk3eHVaRG5qbzdDa1Rad0RZdGhZeUtSaFNhVHFtS3ZMalZEVUo5WHBrM3NKWjU5Mks4YjhDSnotWDhJc3RWR3p0QW1RVjlfRElXUFlsLUROMXZJNGVSanNLeXBoZEwwYU8weA?oc=5\" target=\"_blank\">Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-22T07:10:38+00:00"
+        "collected_at": "2026-09-22T13:00:16+00:00"
       }
     },
     {
