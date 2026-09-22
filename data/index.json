@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-21T21:34:41+00:00",
+  "last_updated": "2026-09-22T00:29:46+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 99,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "129ca168aa68a710",
         "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 395,
-      "new_mentions_this_run": 0,
+      "count": 396,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "ff6a83895757ad46",
         "title": "The Alabama Legislature was on a collision course with Alabama Power. Then came spring break - WBHM",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 729,
-      "new_mentions_this_run": 0,
+      "count": 742,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "0060bd6c4121515c",
-        "title": "Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbl80dkFDNFBUblBLT1hqcFpVSXVqNTJLN1RwUFhzU240Z0pKY1dvTnBranJIYk5IVTYxbGxOc3lMTjFocUZzYmE0VzdUcFJJNDlkMVM4TnZERmZMYll6SElHVnhaYmlqUW9vdXdKeF80aDhYT3ZDQWk1Qk54dmppaUZEQlI4bXA3bzd3c2Jka2ZNY0hvbzdNVlFqSmdmQlZJdkhXWjlrUWRqTFo5R3hwR0UwTVhlRzgtbjFvZDJTdEoxa1BWVmpKemxhTnU4NzI0TlRRRURQcFVhbERvNllGMExVdWZiV2NnZTVFMU4xRmY2XzhHbE53bE5wOE50bzZUdU9j?oc=5",
+        "id": "eaa160a37acb688a",
+        "title": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates - Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcDVFQjN3N1NNc1Z0SGl5WVMycFlCcDNLRkVmUlpKTWhodDA4YkNkTVBXWllIQy1RSTJzOG9xa3BiZXZJMjFSSVFhNDRFdVZBc3BfSjZFLXY1eWN0U0VDU0lYZWk0NmltU0x5MTFta1EwVFg3a2lPd0tySHJld1AxVmEzWUoyTUdfVFE?oc=5",
         "domain": "news.google.com",
-        "source": "PR Newswire",
+        "source": "Yahoo Finance Singapore",
         "language": "English",
-        "published_at": "2026-09-21T15:00:00+00:00",
-        "summary": "Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable PR Newswire",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNbl80dkFDNFBUblBLT1hqcFpVSXVqNTJLN1RwUFhzU240Z0pKY1dvTnBranJIYk5IVTYxbGxOc3lMTjFocUZzYmE0VzdUcFJJNDlkMVM4TnZERmZMYll6SElHVnhaYmlqUW9vdXdKeF80aDhYT3ZDQWk1Qk54dmppaUZEQlI4bXA3bzd3c2Jka2ZNY0hvbzdNVlFqSmdmQlZJdkhXWjlrUWRqTFo5R3hwR0UwTVhlRzgtbjFvZDJTdEoxa1BWVmpKemxhTnU4NzI0TlRRRURQcFVhbERvNllGMExVdWZiV2NnZTVFMU4xRmY2XzhHbE53bE5wOE50bzZUdU9j?oc=5\" target=\"_blank\">Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "published_at": "2026-09-21T23:49:44+00:00",
+        "summary": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates Yahoo Finance Singapore",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOcDVFQjN3N1NNc1Z0SGl5WVMycFlCcDNLRkVmUlpKTWhodDA4YkNkTVBXWllIQy1RSTJzOG9xa3BiZXZJMjFSSVFhNDRFdVZBc3BfSjZFLXY1eWN0U0VDU0lYZWk0NmltU0x5MTFta1EwVFg3a2lPd0tySHJld1AxVmEzWUoyTUdfVFE?oc=5\" target=\"_blank\">Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-21T16:08:40+00:00"
+        "collected_at": "2026-09-22T00:29:35+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 59,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "e436781449e42f0d",
         "title": "DOE’s New Strategic Plan Sets an Expansive Course for Energy Dominance Financing | Mintz - ML Strategies - JD Supra",
