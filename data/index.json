@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T17:52:41+00:00",
+  "last_updated": "2026-09-22T20:45:23+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 396,
+      "count": 398,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "ff6a83895757ad46",
-        "title": "The Alabama Legislature was on a collision course with Alabama Power. Then came spring break - WBHM",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDZRbHdLcGlySURwWUxKV3Z2NkZnaDZWZWsyV0h2c2Eycl9hRVVYYXVpX3ppRVhaYUQ3bXM2ZG9CdWpfekhJVXI5WkgtcU1LY1JxbUZ3Z0pVOEo4dC1ZVjh5bDZOanBiaDdZcGdVbnZRT2N0YzREYXNlczA0VXlKczk4eUNieGVuUFJoMi1NeEpRMS1fT0NnZ0tHRHEwMXJWUHBGWkhoRFgtZUo2TVFJRHFvSlJDdDBwdXVFUHVGSnNSSmtYZGc3Nkp2MlZFQ00?oc=5",
+        "id": "ca37c16b9beaac90",
+        "title": "'Arbitrary and capricious': Judge rules in favor of Fenn Church's property rights, grants TPO in Alabama Power case - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ2lDMEVlQ1FlWUd0TE9GLWxVQlA5RXZuRXFoRVdzUVVPQlhfblAxcC1qMGQxRmJDMzlRTF9QYUFjNEtNcTVYS1V4UGJGb2VxU25XdTk3MlhNZUV5cm5RMzU5ek01UjRfaS1uYVZvUTd4NWZ4Q3dNYXA5dTZ4Y1VOYTdwNWc1T0llZzVBcGZkZHE3NmVHVU4ycDIyYnVrOU9VcGlkVmQ2dmhMRVUtN3YySnp1WmF2Wnk3RUhuQ2s3U2FOSmNmRkdZLWx1NWlpcDhFU29BZnNrc3I?oc=5",
         "domain": "news.google.com",
-        "source": "WBHM",
+        "source": "1819 News",
         "language": "English",
-        "published_at": "2026-09-19T12:27:00+00:00",
-        "summary": "The Alabama Legislature was on a collision course with Alabama Power. Then came spring break WBHM",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDZRbHdLcGlySURwWUxKV3Z2NkZnaDZWZWsyV0h2c2Eycl9hRVVYYXVpX3ppRVhaYUQ3bXM2ZG9CdWpfekhJVXI5WkgtcU1LY1JxbUZ3Z0pVOEo4dC1ZVjh5bDZOanBiaDdZcGdVbnZRT2N0YzREYXNlczA0VXlKczk4eUNieGVuUFJoMi1NeEpRMS1fT0NnZ0tHRHEwMXJWUHBGWkhoRFgtZUo2TVFJRHFvSlJDdDBwdXVFUHVGSnNSSmtYZGc3Nkp2MlZFQ00?oc=5\" target=\"_blank\">The Alabama Legislature was on a collision course with Alabama Power. Then came spring break</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBHM</font>",
+        "published_at": "2026-09-22T19:12:38+00:00",
+        "summary": "'Arbitrary and capricious': Judge rules in favor of Fenn Church's property rights, grants TPO in Alabama Power case 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ2lDMEVlQ1FlWUd0TE9GLWxVQlA5RXZuRXFoRVdzUVVPQlhfblAxcC1qMGQxRmJDMzlRTF9QYUFjNEtNcTVYS1V4UGJGb2VxU25XdTk3MlhNZUV5cm5RMzU5ek01UjRfaS1uYVZvUTd4NWZ4Q3dNYXA5dTZ4Y1VOYTdwNWc1T0llZzVBcGZkZHE3NmVHVU4ycDIyYnVrOU9VcGlkVmQ2dmhMRVUtN3YySnp1WmF2Wnk3RUhuQ2s3U2FOSmNmRkdZLWx1NWlpcDhFU29BZnNrc3I?oc=5\" target=\"_blank\">'Arbitrary and capricious': Judge rules in favor of Fenn Church's property rights, grants TPO in Alabama Power case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-19T13:37:49+00:00"
+        "collected_at": "2026-09-22T20:44:56+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 761,
+      "count": 766,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "26cee3ab8548db71",
-        "title": "Norcross transformer blaze contained; Georgia Power investigates fire - 11Alive.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN2c4Rm1yMDJCRE1hQlFpbXJwb1BHUXI4UU9aLWlzdmk4c3ZFaXhvWHpXY2x2T3YtRVdVZHk1aW1rdmFJS2tmbmxCNzlQLVdrUnBDREJwallyTW1LN1lwWVI3VWh0eEpQR0xsYlhId1NYWjY2dmRmd1o5NlNKOVZIQXVtNWJvcnFCLVJVblhqd05jbjluX25fb09IR2tDdE1UZHA4NnVkYVJsZkNaTkhyZnRORW1pMEo1c19QZWtCSlVqUWFKUHdweklVSFdyTG5tcHdfX21NRVpqdDMyT1JEUVBIMWlVc3g3NEhJ?oc=5",
+        "id": "ff1aee501fed703c",
+        "title": "Georgia Power, Google partner to expand nuclear energy, pass $900 million savings to customers - WSB-TV",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTEJlV2pybTNOQTEzN0JXeUVONmc2MDNOWUpXSXlYcEtKdW1sbm5JaVJiM25aazlyX1J6eFlXZUk1MzNyUzFRRFRZaGVlVXRPOUY2bGFBT3BXTzRELVFUQW51TkZCWV92aFE0VzBpNE5OWnk3RjBsdU55NWhmN3A4UEZscDlYenF5aWR6dkswRDloMUdTOWdjczREVjVnVVN6dTJOeGNabVNYWUduSHh5RDgxTDY2R3ZkZ2RMYlh6am5Pc1RkQmI3NXYzZHR0WDk0RE55blRXeTlXMzJjUjR0RzZwb1pEMXdURnfSAf4BQVVfeXFMTU5CU2RyVlJRQzBkd0dZVl9zRE10cDhpbEk1Q0pQTkM0ZE1SNmgyc1g3RkZmM3gxc2UyY0tmb2xjWmRRaFpVODlGWi0za0VqWGZPMlpaVENYNkFmc0RDNnk5aHdIZnlzZl8tMmpTTXFpRlV2TTltY2dfTmV4c3BvczBGR3drbHl1WkwtRTQ4NkdlUl9pd2ttcDhUSTl0dy1HRlRfeDczT0ROQ0NoNFllRGV5aDZRTXRZUGRYTlpVZWFBa01fNUY5UlF4d0lENDhBMVhGaXhtUElicEZpMUxOUXpXeGNtZ0g2bWFPel9rbzlYUWFqS1dGTmxGbG9FVWc?oc=5",
         "domain": "news.google.com",
-        "source": "11Alive.com",
+        "source": "WSB-TV",
         "language": "English",
-        "published_at": "2026-09-22T17:11:00+00:00",
-        "summary": "Norcross transformer blaze contained; Georgia Power investigates fire 11Alive.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN2c4Rm1yMDJCRE1hQlFpbXJwb1BHUXI4UU9aLWlzdmk4c3ZFaXhvWHpXY2x2T3YtRVdVZHk1aW1rdmFJS2tmbmxCNzlQLVdrUnBDREJwallyTW1LN1lwWVI3VWh0eEpQR0xsYlhId1NYWjY2dmRmd1o5NlNKOVZIQXVtNWJvcnFCLVJVblhqd05jbjluX25fb09IR2tDdE1UZHA4NnVkYVJsZkNaTkhyZnRORW1pMEo1c19QZWtCSlVqUWFKUHdweklVSFdyTG5tcHdfX21NRVpqdDMyT1JEUVBIMWlVc3g3NEhJ?oc=5\" target=\"_blank\">Norcross transformer blaze contained; Georgia Power investigates fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+        "published_at": "2026-09-22T20:13:11+00:00",
+        "summary": "Georgia Power, Google partner to expand nuclear energy, pass $900 million savings to customers WSB-TV",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTEJlV2pybTNOQTEzN0JXeUVONmc2MDNOWUpXSXlYcEtKdW1sbm5JaVJiM25aazlyX1J6eFlXZUk1MzNyUzFRRFRZaGVlVXRPOUY2bGFBT3BXTzRELVFUQW51TkZCWV92aFE0VzBpNE5OWnk3RjBsdU55NWhmN3A4UEZscDlYenF5aWR6dkswRDloMUdTOWdjczREVjVnVVN6dTJOeGNabVNYWUduSHh5RDgxTDY2R3ZkZ2RMYlh6am5Pc1RkQmI3NXYzZHR0WDk0RE55blRXeTlXMzJjUjR0RzZwb1pEMXdURnfSAf4BQVVfeXFMTU5CU2RyVlJRQzBkd0dZVl9zRE10cDhpbEk1Q0pQTkM0ZE1SNmgyc1g3RkZmM3gxc2UyY0tmb2xjWmRRaFpVODlGWi0za0VqWGZPMlpaVENYNkFmc0RDNnk5aHdIZnlzZl8tMmpTTXFpRlV2TTltY2dfTmV4c3BvczBGR3drbHl1WkwtRTQ4NkdlUl9pd2ttcDhUSTl0dy1HRlRfeDczT0ROQ0NoNFllRGV5aDZRTXRZUGRYTlpVZWFBa01fNUY5UlF4d0lENDhBMVhGaXhtUElicEZpMUxOUXpXeGNtZ0g2bWFPel9rbzlYUWFqS1dGTmxGbG9FVWc?oc=5\" target=\"_blank\">Georgia Power, Google partner to expand nuclear energy, pass $900 million savings to customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-22T17:52:30+00:00"
+        "collected_at": "2026-09-22T20:45:12+00:00"
       }
     },
     {
