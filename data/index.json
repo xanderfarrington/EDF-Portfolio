@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T20:45:23+00:00",
+  "last_updated": "2026-09-22T23:57:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 398,
-      "new_mentions_this_run": 23,
+      "count": 401,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "ca37c16b9beaac90",
-        "title": "'Arbitrary and capricious': Judge rules in favor of Fenn Church's property rights, grants TPO in Alabama Power case - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ2lDMEVlQ1FlWUd0TE9GLWxVQlA5RXZuRXFoRVdzUVVPQlhfblAxcC1qMGQxRmJDMzlRTF9QYUFjNEtNcTVYS1V4UGJGb2VxU25XdTk3MlhNZUV5cm5RMzU5ek01UjRfaS1uYVZvUTd4NWZ4Q3dNYXA5dTZ4Y1VOYTdwNWc1T0llZzVBcGZkZHE3NmVHVU4ycDIyYnVrOU9VcGlkVmQ2dmhMRVUtN3YySnp1WmF2Wnk3RUhuQ2s3U2FOSmNmRkdZLWx1NWlpcDhFU29BZnNrc3I?oc=5",
+        "id": "daf879e05fd41874",
+        "title": "Shelby County man calls court ruling against Alabama Power a ‘huge battle won’ - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZTR5Z2F5aUo3bjAzYU9NQmxEbXdBRVNIWG1MakdFTGNGRWFHYkhQLS1TSEp1aUxBY1FuV1FIVnB0NmZXcmZmU09FQUZnTTFzOHdGTGt6Wk9JZVY0OTY0LWZSa3hMY0VtVkxiR1VkaGU0clhuLVNJQ3RvTXZBaENsN2diNzdiNWFxMDRNaGd4ZTFMb0lFSFdpZDNMaTRRU0p0M0hPVFA1VFdwekQxQkVPVzBfONIBxwFBVV95cUxPSmdWdkFGckE3VmxlbEkxdkFyeWh0TlFRQWJyR0hxUlQ0VVpvSzJXSzltT01jdFdOUVJfdlBqSGRDY2Y1REZyUS10OEY3RXBqTk5BOU8wbnZDc20tQTloZVVjOXdMUkFyNEt4aFowU09XZExmRTZaRmVaaG04dUJmRkdYamxoS09PaVJ5SFdsS1E1Vk4yTlBxNmhpbi1FakVPTUlUajVCdVY5amxHendzQWdDQ0xHdVJyUk9ZZktpNHBPNEhhc1lV?oc=5",
         "domain": "news.google.com",
-        "source": "1819 News",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-09-22T19:12:38+00:00",
-        "summary": "'Arbitrary and capricious': Judge rules in favor of Fenn Church's property rights, grants TPO in Alabama Power case 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ2lDMEVlQ1FlWUd0TE9GLWxVQlA5RXZuRXFoRVdzUVVPQlhfblAxcC1qMGQxRmJDMzlRTF9QYUFjNEtNcTVYS1V4UGJGb2VxU25XdTk3MlhNZUV5cm5RMzU5ek01UjRfaS1uYVZvUTd4NWZ4Q3dNYXA5dTZ4Y1VOYTdwNWc1T0llZzVBcGZkZHE3NmVHVU4ycDIyYnVrOU9VcGlkVmQ2dmhMRVUtN3YySnp1WmF2Wnk3RUhuQ2s3U2FOSmNmRkdZLWx1NWlpcDhFU29BZnNrc3I?oc=5\" target=\"_blank\">'Arbitrary and capricious': Judge rules in favor of Fenn Church's property rights, grants TPO in Alabama Power case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-09-22T21:57:00+00:00",
+        "summary": "Shelby County man calls court ruling against Alabama Power a ‘huge battle won’ AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZTR5Z2F5aUo3bjAzYU9NQmxEbXdBRVNIWG1MakdFTGNGRWFHYkhQLS1TSEp1aUxBY1FuV1FIVnB0NmZXcmZmU09FQUZnTTFzOHdGTGt6Wk9JZVY0OTY0LWZSa3hMY0VtVkxiR1VkaGU0clhuLVNJQ3RvTXZBaENsN2diNzdiNWFxMDRNaGd4ZTFMb0lFSFdpZDNMaTRRU0p0M0hPVFA1VFdwekQxQkVPVzBfONIBxwFBVV95cUxPSmdWdkFGckE3VmxlbEkxdkFyeWh0TlFRQWJyR0hxUlQ0VVpvSzJXSzltT01jdFdOUVJfdlBqSGRDY2Y1REZyUS10OEY3RXBqTk5BOU8wbnZDc20tQTloZVVjOXdMUkFyNEt4aFowU09XZExmRTZaRmVaaG04dUJmRkdYamxoS09PaVJ5SFdsS1E1Vk4yTlBxNmhpbi1FakVPTUlUajVCdVY5amxHendzQWdDQ0xHdVJyUk9ZZktpNHBPNEhhc1lV?oc=5\" target=\"_blank\">Shelby County man calls court ruling against Alabama Power a ‘huge battle won’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-22T20:44:56+00:00"
+        "collected_at": "2026-09-22T23:56:36+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 766,
+      "count": 771,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "ff1aee501fed703c",

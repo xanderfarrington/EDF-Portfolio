@@ -2,10 +2,38 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-22T20:44:56+00:00",
+  "last_updated": "2026-09-22T23:56:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 398,
+  "count": 401,
   "mentions": [
+    {
+      "id": "daf879e05fd41874",
+      "title": "Shelby County man calls court ruling against Alabama Power a ‘huge battle won’ - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZTR5Z2F5aUo3bjAzYU9NQmxEbXdBRVNIWG1MakdFTGNGRWFHYkhQLS1TSEp1aUxBY1FuV1FIVnB0NmZXcmZmU09FQUZnTTFzOHdGTGt6Wk9JZVY0OTY0LWZSa3hMY0VtVkxiR1VkaGU0clhuLVNJQ3RvTXZBaENsN2diNzdiNWFxMDRNaGd4ZTFMb0lFSFdpZDNMaTRRU0p0M0hPVFA1VFdwekQxQkVPVzBfONIBxwFBVV95cUxPSmdWdkFGckE3VmxlbEkxdkFyeWh0TlFRQWJyR0hxUlQ0VVpvSzJXSzltT01jdFdOUVJfdlBqSGRDY2Y1REZyUS10OEY3RXBqTk5BOU8wbnZDc20tQTloZVVjOXdMUkFyNEt4aFowU09XZExmRTZaRmVaaG04dUJmRkdYamxoS09PaVJ5SFdsS1E1Vk4yTlBxNmhpbi1FakVPTUlUajVCdVY5amxHendzQWdDQ0xHdVJyUk9ZZktpNHBPNEhhc1lV?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-09-22T21:57:00+00:00",
+      "summary": "Shelby County man calls court ruling against Alabama Power a ‘huge battle won’ AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZTR5Z2F5aUo3bjAzYU9NQmxEbXdBRVNIWG1MakdFTGNGRWFHYkhQLS1TSEp1aUxBY1FuV1FIVnB0NmZXcmZmU09FQUZnTTFzOHdGTGt6Wk9JZVY0OTY0LWZSa3hMY0VtVkxiR1VkaGU0clhuLVNJQ3RvTXZBaENsN2diNzdiNWFxMDRNaGd4ZTFMb0lFSFdpZDNMaTRRU0p0M0hPVFA1VFdwekQxQkVPVzBfONIBxwFBVV95cUxPSmdWdkFGckE3VmxlbEkxdkFyeWh0TlFRQWJyR0hxUlQ0VVpvSzJXSzltT01jdFdOUVJfdlBqSGRDY2Y1REZyUS10OEY3RXBqTk5BOU8wbnZDc20tQTloZVVjOXdMUkFyNEt4aFowU09XZExmRTZaRmVaaG04dUJmRkdYamxoS09PaVJ5SFdsS1E1Vk4yTlBxNmhpbi1FakVPTUlUajVCdVY5amxHendzQWdDQ0xHdVJyUk9ZZktpNHBPNEhhc1lV?oc=5\" target=\"_blank\">Shelby County man calls court ruling against Alabama Power a ‘huge battle won’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T23:56:36+00:00"
+    },
+    {
+      "id": "8cf8b669bcb9ba80",
+      "title": "Judge blocks Alabama Power from entering Shelby County man's property for transmission line - WVTM",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNenIxVndNU1RIdHRUQ2U5Q2ZxTXNiVGtWVmdXbEtUNmlMSGNSN2RtbDZ5UU11NDFxTVRWdy13cFdxZFdLaE0xeGMxOFl4bjhVM1dyOFpfSkRreW44ZFlOM2hITEQ1SEhBazg1X2RUTVhTNEtWRUJqR3BpcUZIRXk5YnRULURkSnc1ZThEazhn?oc=5",
+      "domain": "news.google.com",
+      "source": "WVTM",
+      "language": "English",
+      "published_at": "2026-09-22T21:11:00+00:00",
+      "summary": "Judge blocks Alabama Power from entering Shelby County man's property for transmission line WVTM",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNenIxVndNU1RIdHRUQ2U5Q2ZxTXNiVGtWVmdXbEtUNmlMSGNSN2RtbDZ5UU11NDFxTVRWdy13cFdxZFdLaE0xeGMxOFl4bjhVM1dyOFpfSkRreW44ZFlOM2hITEQ1SEhBazg1X2RUTVhTNEtWRUJqR3BpcUZIRXk5YnRULURkSnc1ZThEazhn?oc=5\" target=\"_blank\">Judge blocks Alabama Power from entering Shelby County man's property for transmission line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T23:56:36+00:00"
+    },
     {
       "id": "ca37c16b9beaac90",
       "title": "'Arbitrary and capricious': Judge rules in favor of Fenn Church's property rights, grants TPO in Alabama Power case - 1819 News",
@@ -33,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T20:44:56+00:00"
+    },
+    {
+      "id": "74c89a41c5660c4c",
+      "title": "Alabama Power restrained from entering Shelby County homeowner’s property in preliminary injunction - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONG1BVEYzSVdoNk44MVZncElTQ3dOQmUzdUFfMUFIb1ZsWWZWcnQ1UlBxb0ZzU09qa3FuSVlVMldsUDlZMWdxN0Z2V2pKVC0zZGpaZDVWZ3dhSEJmSlZtTmVzOG9DRHJSbU9DZW0wXzRyLVRrU1lxV29aMUhTWGx3LVdTSXVNQ2o0dVZ1eWJub0NiWlByR2ItcE9n?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-09-22T18:42:51+00:00",
+      "summary": "Alabama Power restrained from entering Shelby County homeowner’s property in preliminary injunction Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONG1BVEYzSVdoNk44MVZncElTQ3dOQmUzdUFfMUFIb1ZsWWZWcnQ1UlBxb0ZzU09qa3FuSVlVMldsUDlZMWdxN0Z2V2pKVC0zZGpaZDVWZ3dhSEJmSlZtTmVzOG9DRHJSbU9DZW0wXzRyLVRrU1lxV29aMUhTWGx3LVdTSXVNQ2o0dVZ1eWJub0NiWlByR2ItcE9n?oc=5\" target=\"_blank\">Alabama Power restrained from entering Shelby County homeowner’s property in preliminary injunction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T23:56:36+00:00"
     },
     {
       "id": "ff6a83895757ad46",

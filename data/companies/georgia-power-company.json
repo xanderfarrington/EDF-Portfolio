@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-22T20:45:12+00:00",
+  "last_updated": "2026-09-22T23:56:53+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 766,
+  "count": 771,
   "mentions": [
     {
       "id": "ff1aee501fed703c",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T20:45:12+00:00"
+    },
+    {
+      "id": "8fa5b514a8680fa6",
+      "title": "Georgia Power, Google partner to expand nuclear energy, pass $900 million savings to customers - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUtzQldlYlFJTFduOVhEa3Q5dW5XdjhaUTAwUzU4VENSaWVLUVBiM0t3Y1A0ajktelNWVW9Zdk1CbHh2eC1ZcW11b244RndOQTc1NFMzeURFUlVGSS1EWGJlbXl5dUJIRWYzODl1TFRuZmQ5QXBCOVdDX1hRSDZmbDgxTUQ2RW96MGNaRzNFTk51cUdDT3lN?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-09-22T20:13:11+00:00",
+      "summary": "Georgia Power, Google partner to expand nuclear energy, pass $900 million savings to customers Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUtzQldlYlFJTFduOVhEa3Q5dW5XdjhaUTAwUzU4VENSaWVLUVBiM0t3Y1A0ajktelNWVW9Zdk1CbHh2eC1ZcW11b244RndOQTc1NFMzeURFUlVGSS1EWGJlbXl5dUJIRWYzODl1TFRuZmQ5QXBCOVdDX1hRSDZmbDgxTUQ2RW96MGNaRzNFTk51cUdDT3lN?oc=5\" target=\"_blank\">Georgia Power, Google partner to expand nuclear energy, pass $900 million savings to customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T23:56:53+00:00"
     },
     {
       "id": "f3e901a32dfe3f82",
@@ -63,6 +77,20 @@
       "collected_at": "2026-09-22T20:45:12+00:00"
     },
     {
+      "id": "050c40681431bce7",
+      "title": "Thousands lose power after Georgia Power substation fire in Norcross - Gwinnett Daily Post",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPci1DZFR3d0x3ZjFOR2xqSzdGanI5UzU3Y0haMlpLV1BKRnhqYlB5bDdneE5CSUpoZExVN1Zlb1FUZ3dFWS1yOWZFeFpZeFBIWUk1eC00VHFxMGt0N3VIeTEzOC0tMXBsN0ZOakVUdmdCSUZiQXg1X2dKQkNGUHZSaUtDcVctOEEyY3dTMmlOaWJ5VHJOa3doUnpPZm9hUGRfSUJLbGYycG9GeFMxLXh4SGVZMUxtWWc4UzBaU25HakUya0wxSGowYnpJWTVMbUpGc2o2RUFlOW9VZUUtWmx5ZE9rSEpBaUFCcllmbWh5UQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Gwinnett Daily Post",
+      "language": "English",
+      "published_at": "2026-09-22T18:10:00+00:00",
+      "summary": "Thousands lose power after Georgia Power substation fire in Norcross Gwinnett Daily Post",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPci1DZFR3d0x3ZjFOR2xqSzdGanI5UzU3Y0haMlpLV1BKRnhqYlB5bDdneE5CSUpoZExVN1Zlb1FUZ3dFWS1yOWZFeFpZeFBIWUk1eC00VHFxMGt0N3VIeTEzOC0tMXBsN0ZOakVUdmdCSUZiQXg1X2dKQkNGUHZSaUtDcVctOEEyY3dTMmlOaWJ5VHJOa3doUnpPZm9hUGRfSUJLbGYycG9GeFMxLXh4SGVZMUxtWWc4UzBaU25HakUya0wxSGowYnpJWTVMbUpGc2o2RUFlOW9VZUUtWmx5ZE9rSEpBaUFCcllmbWh5UQ?oc=5\" target=\"_blank\">Thousands lose power after Georgia Power substation fire in Norcross</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gwinnett Daily Post</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T23:56:53+00:00"
+    },
+    {
       "id": "26cee3ab8548db71",
       "title": "Norcross transformer blaze contained; Georgia Power investigates fire - 11Alive.com",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN2c4Rm1yMDJCRE1hQlFpbXJwb1BHUXI4UU9aLWlzdmk4c3ZFaXhvWHpXY2x2T3YtRVdVZHk1aW1rdmFJS2tmbmxCNzlQLVdrUnBDREJwallyTW1LN1lwWVI3VWh0eEpQR0xsYlhId1NYWjY2dmRmd1o5NlNKOVZIQXVtNWJvcnFCLVJVblhqd05jbjluX25fb09IR2tDdE1UZHA4NnVkYVJsZkNaTkhyZnRORW1pMEo1c19QZWtCSlVqUWFKUHdweklVSFdyTG5tcHdfX21NRVpqdDMyT1JEUVBIMWlVc3g3NEhJ?oc=5",
@@ -89,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T17:52:30+00:00"
+    },
+    {
+      "id": "778a01189fdec69a",
+      "title": "Crews battle intense fire at Georgia Power substation in Norcross - fox5atlanta.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQTNsVmg2dEh5eWw5a09fRThxdDJ0b3hoR29pbFQyckJYUUFObEJMUXdhSzBTXy1xT1dzUmRiZ2pWa1dENzhDalB6WmZxSDctR1FKTXo4Zm5BcUFaMjMtZVRjZ3I3NWRRMG53dnlVdXZ0Q1RDSTB0QWtZZEg5NVhlTDJka1ZjbWlGZEw5VUJ4T3NuNXAtVVhV?oc=5",
+      "domain": "news.google.com",
+      "source": "fox5atlanta.com",
+      "language": "English",
+      "published_at": "2026-09-22T17:07:44+00:00",
+      "summary": "Crews battle intense fire at Georgia Power substation in Norcross fox5atlanta.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQTNsVmg2dEh5eWw5a09fRThxdDJ0b3hoR29pbFQyckJYUUFObEJMUXdhSzBTXy1xT1dzUmRiZ2pWa1dENzhDalB6WmZxSDctR1FKTXo4Zm5BcUFaMjMtZVRjZ3I3NWRRMG53dnlVdXZ0Q1RDSTB0QWtZZEg5NVhlTDJka1ZjbWlGZEw5VUJ4T3NuNXAtVVhV?oc=5\" target=\"_blank\">Crews battle intense fire at Georgia Power substation in Norcross</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox5atlanta.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T23:56:53+00:00"
     },
     {
       "id": "392a889522468e1c",
@@ -469,6 +511,20 @@
       "collected_at": "2026-09-22T00:29:35+00:00"
     },
     {
+      "id": "9679d6d515b7c0be",
+      "title": "Georgia Power agreement with Google to provide approximately $900 million in projected benefits for customers and advance nuclear energy in Georgia - prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPMkdIUllmLTFaNHdCVEIzRUFmWEc3bEpFTjI4OGlqNkItclVMWkJINkZDMlBvQXdDNUhrR3V1SUhPaG5qeTJiZzhTb2tuMEVyMWpPYzFrZnV1TENRZmNGZ3EtQ3FFNW1xX1g1MElSSWZGSVhadnc2X0dRYmd6QXJQWTVrNnd0UXBEa1ZISnJKT0paTkh4QkZJeGhUVGZibDZNODhVUk9MQ2xIYnNrT09JVFhNX3BIN0ZLYm1ad0l5TEhTTlZaQkNtZGx0NWpXc2tMMFBROW9kTE9WcFVJUWdfUE1QYnN1Qkx3b3RyQmhFMVJMZ2JYRXJIcDd2UjRrTGVLUE00T0JVRzdaejFVbERIVThzd3ZCb0hyaDVqR09lSElRTlBHNENhQjF3?oc=5",
+      "domain": "news.google.com",
+      "source": "prnewswire.com",
+      "language": "English",
+      "published_at": "2026-09-21T20:50:00+00:00",
+      "summary": "Georgia Power agreement with Google to provide approximately $900 million in projected benefits for customers and advance nuclear energy in Georgia prnewswire.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxPMkdIUllmLTFaNHdCVEIzRUFmWEc3bEpFTjI4OGlqNkItclVMWkJINkZDMlBvQXdDNUhrR3V1SUhPaG5qeTJiZzhTb2tuMEVyMWpPYzFrZnV1TENRZmNGZ3EtQ3FFNW1xX1g1MElSSWZGSVhadnc2X0dRYmd6QXJQWTVrNnd0UXBEa1ZISnJKT0paTkh4QkZJeGhUVGZibDZNODhVUk9MQ2xIYnNrT09JVFhNX3BIN0ZLYm1ad0l5TEhTTlZaQkNtZGx0NWpXc2tMMFBROW9kTE9WcFVJUWdfUE1QYnN1Qkx3b3RyQmhFMVJMZ2JYRXJIcDd2UjRrTGVLUE00T0JVRzdaejFVbERIVThzd3ZCb0hyaDVqR09lSElRTlBHNENhQjF3?oc=5\" target=\"_blank\">Georgia Power agreement with Google to provide approximately $900 million in projected benefits for customers and advance nuclear energy in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prnewswire.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T23:56:53+00:00"
+    },
+    {
       "id": "08d9fa05b4fc2b8f",
       "title": "Georgia Power’s Robins Battery Storage Achieves Commercial Operation - renewableenergymagazine.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVpFMllFMlRrMEx4ZEF5Ykk2d1lIQnJLN2M1UnkyLXBpT1BtUUpvV1p3ZDJ0bFJzM0VPWFhaM3JlTWFaY3dTZ3B3aXdEbkc1eEs2dVpCRjlIMHNualE5QjlzWkNGVVprZFpGYkxKNmlLbG00akJQbDV3MFl3NDZ4Y1Y1SWRYT3BuZFQ1QU4wNjdMS2xnUHZvY0hIX1dTd0dFUUIwRzk1bzA?oc=5",
@@ -509,6 +565,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T00:29:35+00:00"
+    },
+    {
+      "id": "147c2ca50e139065",
+      "title": "Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable - prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbl80dkFDNFBUblBLT1hqcFpVSXVqNTJLN1RwUFhzU240Z0pKY1dvTnBranJIYk5IVTYxbGxOc3lMTjFocUZzYmE0VzdUcFJJNDlkMVM4TnZERmZMYll6SElHVnhaYmlqUW9vdXdKeF80aDhYT3ZDQWk1Qk54dmppaUZEQlI4bXA3bzd3c2Jka2ZNY0hvbzdNVlFqSmdmQlZJdkhXWjlrUWRqTFo5R3hwR0UwTVhlRzgtbjFvZDJTdEoxa1BWVmpKemxhTnU4NzI0TlRRRURQcFVhbERvNllGMExVdWZiV2NnZTVFMU4xRmY2XzhHbE53bE5wOE50bzZUdU9j?oc=5",
+      "domain": "news.google.com",
+      "source": "prnewswire.com",
+      "language": "English",
+      "published_at": "2026-09-21T15:00:00+00:00",
+      "summary": "Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable prnewswire.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNbl80dkFDNFBUblBLT1hqcFpVSXVqNTJLN1RwUFhzU240Z0pKY1dvTnBranJIYk5IVTYxbGxOc3lMTjFocUZzYmE0VzdUcFJJNDlkMVM4TnZERmZMYll6SElHVnhaYmlqUW9vdXdKeF80aDhYT3ZDQWk1Qk54dmppaUZEQlI4bXA3bzd3c2Jka2ZNY0hvbzdNVlFqSmdmQlZJdkhXWjlrUWRqTFo5R3hwR0UwTVhlRzgtbjFvZDJTdEoxa1BWVmpKemxhTnU4NzI0TlRRRURQcFVhbERvNllGMExVdWZiV2NnZTVFMU4xRmY2XzhHbE53bE5wOE50bzZUdU9j?oc=5\" target=\"_blank\">Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prnewswire.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T23:56:53+00:00"
     },
     {
       "id": "cf5c2cf62213c01f",
