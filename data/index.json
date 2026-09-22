@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T13:00:27+00:00",
+  "last_updated": "2026-09-22T17:52:41+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 396,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "ff6a83895757ad46",
         "title": "The Alabama Legislature was on a collision course with Alabama Power. Then came spring break - WBHM",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 755,
+      "count": 761,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "f10808449a0ed377",
-        "title": "Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants - Data Center Dynamics",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWpJMEFNUWp0S2cxYmJvYTZnRFJpVHdaeVRWdlE3UEQzZG1LVmw3WWlHeU9VVi1EU3RtQkROTXJBdTFqd2lvQWlyNkZ0ZkJYaHBSckxGYUExY201bGtuUFNTSUloNzk3eHVaRG5qbzdDa1Rad0RZdGhZeUtSaFNhVHFtS3ZMalZEVUo5WHBrM3NKWjU5Mks4YjhDSnotWDhJc3RWR3p0QW1RVjlfRElXUFlsLUROMXZJNGVSanNLeXBoZEwwYU8weA?oc=5",
+        "id": "26cee3ab8548db71",
+        "title": "Norcross transformer blaze contained; Georgia Power investigates fire - 11Alive.com",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN2c4Rm1yMDJCRE1hQlFpbXJwb1BHUXI4UU9aLWlzdmk4c3ZFaXhvWHpXY2x2T3YtRVdVZHk1aW1rdmFJS2tmbmxCNzlQLVdrUnBDREJwallyTW1LN1lwWVI3VWh0eEpQR0xsYlhId1NYWjY2dmRmd1o5NlNKOVZIQXVtNWJvcnFCLVJVblhqd05jbjluX25fb09IR2tDdE1UZHA4NnVkYVJsZkNaTkhyZnRORW1pMEo1c19QZWtCSlVqUWFKUHdweklVSFdyTG5tcHdfX21NRVpqdDMyT1JEUVBIMWlVc3g3NEhJ?oc=5",
         "domain": "news.google.com",
-        "source": "Data Center Dynamics",
+        "source": "11Alive.com",
         "language": "English",
-        "published_at": "2026-09-22T10:58:57+00:00",
-        "summary": "Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants Data Center Dynamics",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWpJMEFNUWp0S2cxYmJvYTZnRFJpVHdaeVRWdlE3UEQzZG1LVmw3WWlHeU9VVi1EU3RtQkROTXJBdTFqd2lvQWlyNkZ0ZkJYaHBSckxGYUExY201bGtuUFNTSUloNzk3eHVaRG5qbzdDa1Rad0RZdGhZeUtSaFNhVHFtS3ZMalZEVUo5WHBrM3NKWjU5Mks4YjhDSnotWDhJc3RWR3p0QW1RVjlfRElXUFlsLUROMXZJNGVSanNLeXBoZEwwYU8weA?oc=5\" target=\"_blank\">Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
+        "published_at": "2026-09-22T17:11:00+00:00",
+        "summary": "Norcross transformer blaze contained; Georgia Power investigates fire 11Alive.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN2c4Rm1yMDJCRE1hQlFpbXJwb1BHUXI4UU9aLWlzdmk4c3ZFaXhvWHpXY2x2T3YtRVdVZHk1aW1rdmFJS2tmbmxCNzlQLVdrUnBDREJwallyTW1LN1lwWVI3VWh0eEpQR0xsYlhId1NYWjY2dmRmd1o5NlNKOVZIQXVtNWJvcnFCLVJVblhqd05jbjluX25fb09IR2tDdE1UZHA4NnVkYVJsZkNaTkhyZnRORW1pMEo1c19QZWtCSlVqUWFKUHdweklVSFdyTG5tcHdfX21NRVpqdDMyT1JEUVBIMWlVc3g3NEhJ?oc=5\" target=\"_blank\">Norcross transformer blaze contained; Georgia Power investigates fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-22T13:00:16+00:00"
+        "collected_at": "2026-09-22T17:52:30+00:00"
       }
     },
     {

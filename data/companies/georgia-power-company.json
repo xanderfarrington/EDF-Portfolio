@@ -2,10 +2,52 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-22T13:00:16+00:00",
+  "last_updated": "2026-09-22T17:52:30+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 755,
+  "count": 761,
   "mentions": [
+    {
+      "id": "26cee3ab8548db71",
+      "title": "Norcross transformer blaze contained; Georgia Power investigates fire - 11Alive.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN2c4Rm1yMDJCRE1hQlFpbXJwb1BHUXI4UU9aLWlzdmk4c3ZFaXhvWHpXY2x2T3YtRVdVZHk1aW1rdmFJS2tmbmxCNzlQLVdrUnBDREJwallyTW1LN1lwWVI3VWh0eEpQR0xsYlhId1NYWjY2dmRmd1o5NlNKOVZIQXVtNWJvcnFCLVJVblhqd05jbjluX25fb09IR2tDdE1UZHA4NnVkYVJsZkNaTkhyZnRORW1pMEo1c19QZWtCSlVqUWFKUHdweklVSFdyTG5tcHdfX21NRVpqdDMyT1JEUVBIMWlVc3g3NEhJ?oc=5",
+      "domain": "news.google.com",
+      "source": "11Alive.com",
+      "language": "English",
+      "published_at": "2026-09-22T17:11:00+00:00",
+      "summary": "Norcross transformer blaze contained; Georgia Power investigates fire 11Alive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN2c4Rm1yMDJCRE1hQlFpbXJwb1BHUXI4UU9aLWlzdmk4c3ZFaXhvWHpXY2x2T3YtRVdVZHk1aW1rdmFJS2tmbmxCNzlQLVdrUnBDREJwallyTW1LN1lwWVI3VWh0eEpQR0xsYlhId1NYWjY2dmRmd1o5NlNKOVZIQXVtNWJvcnFCLVJVblhqd05jbjluX25fb09IR2tDdE1UZHA4NnVkYVJsZkNaTkhyZnRORW1pMEo1c19QZWtCSlVqUWFKUHdweklVSFdyTG5tcHdfX21NRVpqdDMyT1JEUVBIMWlVc3g3NEhJ?oc=5\" target=\"_blank\">Norcross transformer blaze contained; Georgia Power investigates fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T17:52:30+00:00"
+    },
+    {
+      "id": "bc564a8b14735139",
+      "title": "Crews battle intense fire at Georgia Power substation in Norcross - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQTNsVmg2dEh5eWw5a09fRThxdDJ0b3hoR29pbFQyckJYUUFObEJMUXdhSzBTXy1xT1dzUmRiZ2pWa1dENzhDalB6WmZxSDctR1FKTXo4Zm5BcUFaMjMtZVRjZ3I3NWRRMG53dnlVdXZ0Q1RDSTB0QWtZZEg5NVhlTDJka1ZjbWlGZEw5VUJ4T3NuNXAtVVhV?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX 5 Atlanta",
+      "language": "English",
+      "published_at": "2026-09-22T17:07:44+00:00",
+      "summary": "Crews battle intense fire at Georgia Power substation in Norcross FOX 5 Atlanta",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQTNsVmg2dEh5eWw5a09fRThxdDJ0b3hoR29pbFQyckJYUUFObEJMUXdhSzBTXy1xT1dzUmRiZ2pWa1dENzhDalB6WmZxSDctR1FKTXo4Zm5BcUFaMjMtZVRjZ3I3NWRRMG53dnlVdXZ0Q1RDSTB0QWtZZEg5NVhlTDJka1ZjbWlGZEw5VUJ4T3NuNXAtVVhV?oc=5\" target=\"_blank\">Crews battle intense fire at Georgia Power substation in Norcross</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T17:52:30+00:00"
+    },
+    {
+      "id": "392a889522468e1c",
+      "title": "Georgia Power, Google to upgrade Plant Vogtle? What's happening - The Augusta Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNek11a3JDWEQ4VHY5cklFbEZ4MDZJRDlDRlEtYWZXbTJ4UERGcGhuVGxJOUdrSkNhNV85NDQ0YlNYRzJkNnZHalRIQW92N3RpczdjRjF6TUhxNHZYYTlWVlpGdF9SSWk3TVpGWjV5RlZ0Y3hkdTFjUEs3cTl6SWFFMDEyRFRWck51SURBdnY5cVY0MVFjYTR3V1pOZHNPVDFuNDR2YkRNcjZ6YkgycXR1Tk1WR3Mwdm9nTnZnS3FPNlBTWXN2djdOSWN5aU9UenRhWWtnU0pKV0I?oc=5",
+      "domain": "news.google.com",
+      "source": "The Augusta Chronicle",
+      "language": "English",
+      "published_at": "2026-09-22T14:47:00+00:00",
+      "summary": "Georgia Power, Google to upgrade Plant Vogtle? What's happening The Augusta Chronicle",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNek11a3JDWEQ4VHY5cklFbEZ4MDZJRDlDRlEtYWZXbTJ4UERGcGhuVGxJOUdrSkNhNV85NDQ0YlNYRzJkNnZHalRIQW92N3RpczdjRjF6TUhxNHZYYTlWVlpGdF9SSWk3TVpGWjV5RlZ0Y3hkdTFjUEs3cTl6SWFFMDEyRFRWck51SURBdnY5cVY0MVFjYTR3V1pOZHNPVDFuNDR2YkRNcjZ6YkgycXR1Tk1WR3Mwdm9nTnZnS3FPNlBTWXN2djdOSWN5aU9UenRhWWtnU0pKV0I?oc=5\" target=\"_blank\">Georgia Power, Google to upgrade Plant Vogtle? What's happening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T17:52:30+00:00"
+    },
     {
       "id": "f10808449a0ed377",
       "title": "Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants - Data Center Dynamics",
@@ -175,6 +217,20 @@
       "collected_at": "2026-09-22T00:29:35+00:00"
     },
     {
+      "id": "9f8bad03f4e6cf09",
+      "title": "Google to Fund Power-Capacity Increases at Two Georgia Nuclear Plants - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzhDYmJrTHRmWGNFaG1VRVhtV0NBUEhRdlhia1ljcWxUdFhiWGZGQm9mYjI2Q0hwQUswcEFORnp6TVdoMlk4NlhkRmN2TlIweUZHUHBtWGpOZ192NHc0TjBQWlRnRUNMSzNuNXFiRGc1eGdjek1UbUJ1R3Z0VTAtN2YySmFLUkwxWnNnS0ZtV1BFbGx2b05UaG92R21oSThfQk5UdDF3ajdMX2JyWWc?oc=5",
+      "domain": "news.google.com",
+      "source": "bloomberg.com",
+      "language": "English",
+      "published_at": "2026-09-21T23:40:16+00:00",
+      "summary": "Google to Fund Power-Capacity Increases at Two Georgia Nuclear Plants bloomberg.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzhDYmJrTHRmWGNFaG1VRVhtV0NBUEhRdlhia1ljcWxUdFhiWGZGQm9mYjI2Q0hwQUswcEFORnp6TVdoMlk4NlhkRmN2TlIweUZHUHBtWGpOZ192NHc0TjBQWlRnRUNMSzNuNXFiRGc1eGdjek1UbUJ1R3Z0VTAtN2YySmFLUkwxWnNnS0ZtV1BFbGx2b05UaG92R21oSThfQk5UdDF3ajdMX2JyWWc?oc=5\" target=\"_blank\">Google to Fund Power-Capacity Increases at Two Georgia Nuclear Plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomberg.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T17:52:30+00:00"
+    },
+    {
       "id": "23cf035cb4d1dbdf",
       "title": "Georgia Power Says Proposal with Google Will \"Provide Approximately $900 Million in Benefits for Customers\" - The Georgia Virtue",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaC1PWXVFOHp3VTBNQkcxT2tDN3M2Z05WUnc5VVJnSURuOS1kbkg0cm1mZVNzWm40V09vU0MwMlNoSi1IdEVHbzRrMHZXaWpsS0RvYm95c0JCWm5CQWlEYm9CQnZkNHNsS3RJOEg1azBjMkxnQURhQUhfNDFMbjFJc0NBR282NXcwSVdwYnFjOGdEMFRVUi0zRmMxalNyMEV5ck1CeHBwdktfcW1yU19FU1FQR1dVWG1CaHNOcnd6d19JRWdHX2FQb3lXLUpGU3BjRVRMdU55UjAyaDI2M3ZEVEZiSWZQdw?oc=5",
@@ -187,6 +243,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T00:29:35+00:00"
+    },
+    {
+      "id": "b96a5e6f60a337cb",
+      "title": "Georgia Power, Google strike nuclear uprate deal worth $900M By Investing.com - Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV0JTbER5a3lfUWZhQjkzWTBKVkRNakJmUVg5SldOMHJwVGM3Ql9jaW1pbG04MkFXWWhCeV94WDMxZ0t5TmVYVVM3WUp2OE9TYlZRNjNEYlA0c2pjWWV1bmdvMExWY2Y1dDh4ZVQ5Q2tEbjAxOVlYQ3pMU0pPZWRNd19Gcnl6M3JDdnZEN0pyQUM0aTFsUVV6ME5JUDRWWFo2N24tNlRPVjZqQmpaLTJJaW03d2ZxdUplM0Rv?oc=5",
+      "domain": "news.google.com",
+      "source": "Investing.com Canada",
+      "language": "English",
+      "published_at": "2026-09-21T23:12:35+00:00",
+      "summary": "Georgia Power, Google strike nuclear uprate deal worth $900M By Investing.com Investing.com Canada",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV0JTbER5a3lfUWZhQjkzWTBKVkRNakJmUVg5SldOMHJwVGM3Ql9jaW1pbG04MkFXWWhCeV94WDMxZ0t5TmVYVVM3WUp2OE9TYlZRNjNEYlA0c2pjWWV1bmdvMExWY2Y1dDh4ZVQ5Q2tEbjAxOVlYQ3pMU0pPZWRNd19Gcnl6M3JDdnZEN0pyQUM0aTFsUVV6ME5JUDRWWFo2N24tNlRPVjZqQmpaLTJJaW03d2ZxdUplM0Rv?oc=5\" target=\"_blank\">Georgia Power, Google strike nuclear uprate deal worth $900M By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T17:52:30+00:00"
     },
     {
       "id": "78f214a81cdd7eba",
@@ -453,6 +523,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-20T13:52:31+00:00"
+    },
+    {
+      "id": "1c36444bfa3b0570",
+      "title": "Georgia Power adds 1.14 GW of solar energy with seven projects - inspenet.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oTWV0OXlHWVE3VzJtNWhROVpEc0lBcGxVOTFSTkt0cm03Ukc2bXZHSGxXYmNFa0pNajc1aDNaTVBhbjQ4MDRMUEtPdEZLUWdJVFhDS09BdXY5QkJiYlV2cUJTOVM0T1QtaFIxNExzM3o5QWM?oc=5",
+      "domain": "news.google.com",
+      "source": "inspenet.com",
+      "language": "English",
+      "published_at": "2026-09-20T02:00:00+00:00",
+      "summary": "Georgia Power adds 1.14 GW of solar energy with seven projects inspenet.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9oTWV0OXlHWVE3VzJtNWhROVpEc0lBcGxVOTFSTkt0cm03Ukc2bXZHSGxXYmNFa0pNajc1aDNaTVBhbjQ4MDRMUEtPdEZLUWdJVFhDS09BdXY5QkJiYlV2cUJTOVM0T1QtaFIxNExzM3o5QWM?oc=5\" target=\"_blank\">Georgia Power adds 1.14 GW of solar energy with seven projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inspenet.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-22T17:52:30+00:00"
     },
     {
       "id": "7ac75627cc083bb7",
