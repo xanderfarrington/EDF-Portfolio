@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-23T08:59:49+00:00",
+  "last_updated": "2026-09-23T14:36:36+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 99,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "129ca168aa68a710",
         "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 403,
+      "count": 406,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "daf879e05fd41874",
-        "title": "Shelby County man calls court ruling against Alabama Power a ‘huge battle won’ - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZTR5Z2F5aUo3bjAzYU9NQmxEbXdBRVNIWG1MakdFTGNGRWFHYkhQLS1TSEp1aUxBY1FuV1FIVnB0NmZXcmZmU09FQUZnTTFzOHdGTGt6Wk9JZVY0OTY0LWZSa3hMY0VtVkxiR1VkaGU0clhuLVNJQ3RvTXZBaENsN2diNzdiNWFxMDRNaGd4ZTFMb0lFSFdpZDNMaTRRU0p0M0hPVFA1VFdwekQxQkVPVzBfONIBxwFBVV95cUxPSmdWdkFGckE3VmxlbEkxdkFyeWh0TlFRQWJyR0hxUlQ0VVpvSzJXSzltT01jdFdOUVJfdlBqSGRDY2Y1REZyUS10OEY3RXBqTk5BOU8wbnZDc20tQTloZVVjOXdMUkFyNEt4aFowU09XZExmRTZaRmVaaG04dUJmRkdYamxoS09PaVJ5SFdsS1E1Vk4yTlBxNmhpbi1FakVPTUlUajVCdVY5amxHendzQWdDQ0xHdVJyUk9ZZktpNHBPNEhhc1lV?oc=5",
+        "id": "ef2bb00da1333154",
+        "title": "Alabama’s power bills, among the nation’s highest, spark intense debate as election nears - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHJOTWlKeWZHRHU0T3NSMkIxY1JLSTQyRUVINFE5ODgxeVI3a0RmVTBadWd5NVdsVjFqRC16Y3hxb29vak04QlkzZWJuanF1bEhMRzRYU0NtQWVWbEVVOW9WOE56MHpRaUFRelktOFdKT25jYkpkdTlLajVkanZSYXo4YWtNS2NqaThsY1FZV25sVkpnS092TzdHSmhwLVZqLW9vRnBKMG5zcWZYM1BwWEZ1b0dBaHJPWmt1SVMyRdIB0wFBVV95cUxPWFZrVk9ObTBpbWliWGJ3LXl4ZkkxLXAtSnI4Qi12T1ozeXdZcEJMTFdMRTRjcHEzRnQteDZuS21VX0lnX0FJeHg0MzAwUVJVVThRNEsxNWFsX1lyY09IOG9mS01GZFpITlFEWGNtOHE3Yk1TbWZxTk1SdE9NYjIxZ3NTR01ReEx0cFdDYi1hWlR1STdIQW84dTlKelZHel9RUzVyYmVmYmhOUHhzSzFLNGVIZ1dBaWI2b0pnQU02X3ZvbUFiNW9ZMGJwMVRET1lOc3R3?oc=5",
         "domain": "news.google.com",
         "source": "AL.com",
         "language": "English",
-        "published_at": "2026-09-22T21:57:00+00:00",
-        "summary": "Shelby County man calls court ruling against Alabama Power a ‘huge battle won’ AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZTR5Z2F5aUo3bjAzYU9NQmxEbXdBRVNIWG1MakdFTGNGRWFHYkhQLS1TSEp1aUxBY1FuV1FIVnB0NmZXcmZmU09FQUZnTTFzOHdGTGt6Wk9JZVY0OTY0LWZSa3hMY0VtVkxiR1VkaGU0clhuLVNJQ3RvTXZBaENsN2diNzdiNWFxMDRNaGd4ZTFMb0lFSFdpZDNMaTRRU0p0M0hPVFA1VFdwekQxQkVPVzBfONIBxwFBVV95cUxPSmdWdkFGckE3VmxlbEkxdkFyeWh0TlFRQWJyR0hxUlQ0VVpvSzJXSzltT01jdFdOUVJfdlBqSGRDY2Y1REZyUS10OEY3RXBqTk5BOU8wbnZDc20tQTloZVVjOXdMUkFyNEt4aFowU09XZExmRTZaRmVaaG04dUJmRkdYamxoS09PaVJ5SFdsS1E1Vk4yTlBxNmhpbi1FakVPTUlUajVCdVY5amxHendzQWdDQ0xHdVJyUk9ZZktpNHBPNEhhc1lV?oc=5\" target=\"_blank\">Shelby County man calls court ruling against Alabama Power a ‘huge battle won’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-09-23T11:00:00+00:00",
+        "summary": "Alabama’s power bills, among the nation’s highest, spark intense debate as election nears AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHJOTWlKeWZHRHU0T3NSMkIxY1JLSTQyRUVINFE5ODgxeVI3a0RmVTBadWd5NVdsVjFqRC16Y3hxb29vak04QlkzZWJuanF1bEhMRzRYU0NtQWVWbEVVOW9WOE56MHpRaUFRelktOFdKT25jYkpkdTlLajVkanZSYXo4YWtNS2NqaThsY1FZV25sVkpnS092TzdHSmhwLVZqLW9vRnBKMG5zcWZYM1BwWEZ1b0dBaHJPWmt1SVMyRdIB0wFBVV95cUxPWFZrVk9ObTBpbWliWGJ3LXl4ZkkxLXAtSnI4Qi12T1ozeXdZcEJMTFdMRTRjcHEzRnQteDZuS21VX0lnX0FJeHg0MzAwUVJVVThRNEsxNWFsX1lyY09IOG9mS01GZFpITlFEWGNtOHE3Yk1TbWZxTk1SdE9NYjIxZ3NTR01ReEx0cFdDYi1hWlR1STdIQW84dTlKelZHel9RUzVyYmVmYmhOUHhzSzFLNGVIZ1dBaWI2b0pnQU02X3ZvbUFiNW9ZMGJwMVRET1lOc3R3?oc=5\" target=\"_blank\">Alabama’s power bills, among the nation’s highest, spark intense debate as election nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-22T23:56:36+00:00"
+        "collected_at": "2026-09-23T14:36:09+00:00"
       }
     },
     {
@@ -89,42 +89,42 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 777,
+      "count": 779,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "aaea2a933fc091d6",
-        "title": "Sept. 23 – Georgia Power agrees to $900 Million deal with Google that will benefit Consumers - Savannah Business Journal",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMngza25jd0RyLXRCcVJxaWVrTlRvSE5lcWhURHdpbHd5Y2xJNGg0Z2R1UEViekNxNFE5b0s0cUp6dEI1QUlvbk5SaFd0b0JwbV9lalFNYjNIMjJXd2Q1VG1uUW1JUnVHOFlwX3E2RFh3bWFjeVBBLVk4TnpXV3lpNkFfM0Nzd2o4OVZSeGpsNExOZ19SYmYteERQRFg1M0x1dmVSSDVpOVpNdDFDaWNfLTMtR1p6NVl3RkdhTFJuZTFQMFYzcW00UDl6eU9PNDJ1b3o3am1fUTZ3X1JjSlAzYmZEeWtKX21jWmUweEhfaEZvOWhGcTUyMGtRMHZOTEFJa2p2MHVnak9adll3V3JyM0pELXBHXzVpR1htczFJLTNXUHc?oc=5",
+        "id": "bfb7e8d7047104c9",
+        "title": "SO's Georgia Power Signs Google Deal to Boost Nuclear Capacity - Yahoo Finance UK",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdkV0cWFiSDlTV2NYLUVBc0ZTcnF2SEt5R1g5bEx1c2lBT3lrV05OWnpNdXh4ejZ3X2ItU1Iza3gtT3AzM3NURC1zUVNuaFRmeHZUeGIxYS1wSl9Hb2FNQmdzYmtQWDVSU3E3djBwZmxfUlp2UFVXRmZQSzFqUWhLRktqMEZxQQ?oc=5",
         "domain": "news.google.com",
-        "source": "Savannah Business Journal",
+        "source": "Yahoo Finance UK",
         "language": "English",
-        "published_at": "2026-09-23T07:15:00+00:00",
-        "summary": "Sept. 23 – Georgia Power agrees to $900 Million deal with Google that will benefit Consumers Savannah Business Journal",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxOMngza25jd0RyLXRCcVJxaWVrTlRvSE5lcWhURHdpbHd5Y2xJNGg0Z2R1UEViekNxNFE5b0s0cUp6dEI1QUlvbk5SaFd0b0JwbV9lalFNYjNIMjJXd2Q1VG1uUW1JUnVHOFlwX3E2RFh3bWFjeVBBLVk4TnpXV3lpNkFfM0Nzd2o4OVZSeGpsNExOZ19SYmYteERQRFg1M0x1dmVSSDVpOVpNdDFDaWNfLTMtR1p6NVl3RkdhTFJuZTFQMFYzcW00UDl6eU9PNDJ1b3o3am1fUTZ3X1JjSlAzYmZEeWtKX21jWmUweEhfaEZvOWhGcTUyMGtRMHZOTEFJa2p2MHVnak9adll3V3JyM0pELXBHXzVpR1htczFJLTNXUHc?oc=5\" target=\"_blank\">Sept. 23 – Georgia Power agrees to $900 Million deal with Google that will benefit Consumers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Business Journal</font>",
+        "published_at": "2026-09-23T13:50:00+00:00",
+        "summary": "SO's Georgia Power Signs Google Deal to Boost Nuclear Capacity Yahoo Finance UK",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdkV0cWFiSDlTV2NYLUVBc0ZTcnF2SEt5R1g5bEx1c2lBT3lrV05OWnpNdXh4ejZ3X2ItU1Iza3gtT3AzM3NURC1zUVNuaFRmeHZUeGIxYS1wSl9Hb2FNQmdzYmtQWDVSU3E3djBwZmxfUlp2UFVXRmZQSzFqUWhLRktqMEZxQQ?oc=5\" target=\"_blank\">SO's Georgia Power Signs Google Deal to Boost Nuclear Capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-23T08:59:38+00:00"
+        "collected_at": "2026-09-23T14:36:26+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 59,
+      "count": 60,
       "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "e436781449e42f0d",
-        "title": "DOE’s New Strategic Plan Sets an Expansive Course for Energy Dominance Financing | Mintz - ML Strategies - JD Supra",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTFaOUdtOVBidWk5UGdmUGEwT251SG01QWxQYlhFbnF2WEJLYVFsWlExMERUckdkZDNhMXBxSThwSXRqeGhKc25CV256ekhVc1N3MEFBYXpzQzRpdmM5bVdCR3NwU2xzeTByT2JiWXZ3aXJjcDFMZ3ljVGFHTFlLeQ?oc=5",
+        "id": "62da534190e29cd2",
+        "title": "Iowa is leading America's nuclear power comeback | Opinion - The Des Moines Register",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEhlNFNIN1ZhemlFekVocVRCYmZEMHJLQVBYUnFQdmZCaTI1TG1FTWxXN3pBVFRJZlVJRUhMM216NF9FQ1JvWUFpeXVORUpIbGhLRDdlV0EzbWxBUjlncVpzOFYyRHVZNnFnVDJuNnA3OEEwQXlIYm4zUU8yU1djMkx2RDVxTlJGOTlVeHVBVjZiTG1BQ1lTTkhaOWo5N1FzYjZnZl8zZkg3SXBiaWUzMGFZUEx2VTZGd1U1RlYybzJlM00yYjBN?oc=5",
         "domain": "news.google.com",
-        "source": "JD Supra",
+        "source": "The Des Moines Register",
         "language": "English",
-        "published_at": "2026-09-18T14:13:49+00:00",
-        "summary": "DOE’s New Strategic Plan Sets an Expansive Course for Energy Dominance Financing | Mintz - ML Strategies JD Supra",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTFaOUdtOVBidWk5UGdmUGEwT251SG01QWxQYlhFbnF2WEJLYVFsWlExMERUckdkZDNhMXBxSThwSXRqeGhKc25CV256ekhVc1N3MEFBYXpzQzRpdmM5bVdCR3NwU2xzeTByT2JiWXZ3aXJjcDFMZ3ljVGFHTFlLeQ?oc=5\" target=\"_blank\">DOE’s New Strategic Plan Sets an Expansive Course for Energy Dominance Financing | Mintz - ML Strategies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>",
+        "published_at": "2026-09-23T09:09:00+00:00",
+        "summary": "Iowa is leading America's nuclear power comeback | Opinion The Des Moines Register",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEhlNFNIN1ZhemlFekVocVRCYmZEMHJLQVBYUnFQdmZCaTI1TG1FTWxXN3pBVFRJZlVJRUhMM216NF9FQ1JvWUFpeXVORUpIbGhLRDdlV0EzbWxBUjlncVpzOFYyRHVZNnFnVDJuNnA3OEEwQXlIYm4zUU8yU1djMkx2RDVxTlJGOTlVeHVBVjZiTG1BQ1lTTkhaOWo5N1FzYjZnZl8zZkg3SXBiaWUzMGFZUEx2VTZGd1U1RlYybzJlM00yYjBN?oc=5\" target=\"_blank\">Iowa is leading America's nuclear power comeback | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Des Moines Register</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-18T18:47:48+00:00"
+        "collected_at": "2026-09-23T14:36:31+00:00"
       }
     }
   ]

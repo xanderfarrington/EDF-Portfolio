@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-23T08:59:38+00:00",
+  "last_updated": "2026-09-23T14:36:26+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 777,
+  "count": 779,
   "mentions": [
+    {
+      "id": "bfb7e8d7047104c9",
+      "title": "SO's Georgia Power Signs Google Deal to Boost Nuclear Capacity - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdkV0cWFiSDlTV2NYLUVBc0ZTcnF2SEt5R1g5bEx1c2lBT3lrV05OWnpNdXh4ejZ3X2ItU1Iza3gtT3AzM3NURC1zUVNuaFRmeHZUeGIxYS1wSl9Hb2FNQmdzYmtQWDVSU3E3djBwZmxfUlp2UFVXRmZQSzFqUWhLRktqMEZxQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance UK",
+      "language": "English",
+      "published_at": "2026-09-23T13:50:00+00:00",
+      "summary": "SO's Georgia Power Signs Google Deal to Boost Nuclear Capacity Yahoo Finance UK",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdkV0cWFiSDlTV2NYLUVBc0ZTcnF2SEt5R1g5bEx1c2lBT3lrV05OWnpNdXh4ejZ3X2ItU1Iza3gtT3AzM3NURC1zUVNuaFRmeHZUeGIxYS1wSl9Hb2FNQmdzYmtQWDVSU3E3djBwZmxfUlp2UFVXRmZQSzFqUWhLRktqMEZxQQ?oc=5\" target=\"_blank\">SO's Georgia Power Signs Google Deal to Boost Nuclear Capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-23T14:36:26+00:00"
+    },
     {
       "id": "aaea2a933fc091d6",
       "title": "Sept. 23 – Georgia Power agrees to $900 Million deal with Google that will benefit Consumers - Savannah Business Journal",
@@ -663,6 +677,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T23:56:53+00:00"
+    },
+    {
+      "id": "9b4b2ff338d58166",
+      "title": "Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable - morningstar.com",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOb1hpbXFmNnFlaHZYN3NYemlpR1NNcVQ1cTdBLS1iTnExc085ME80SFQ2d2UxRl92c2hpVE94bFpJME9yM2VHNkYxdEdSUHpFZXNHbFRZSkRpREg5WlBRcVp1M0lZcXJzMEZqNU5mNEJVQXZhaFVfdGFiOG1mdGFkLVdCR0Jac0k5dmItblVkbi1FcDYyc28tV3pUeV9PcDd2VEN1ZWR6UUd1YlliWEpmSFd2TURIUE03dmVkWVpYZDF0cGFjY25pUzZNSFBiUEpDZEs2bXlqb3pxSzZWWkFGOU1XM3liWnpsMG1WM2lLQnVGVVlnUEFnVmI0Y2I3OUhqdnVGRmg2NGo1UQ?oc=5",
+      "domain": "news.google.com",
+      "source": "morningstar.com",
+      "language": "English",
+      "published_at": "2026-09-21T15:00:00+00:00",
+      "summary": "Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable morningstar.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOb1hpbXFmNnFlaHZYN3NYemlpR1NNcVQ1cTdBLS1iTnExc085ME80SFQ2d2UxRl92c2hpVE94bFpJME9yM2VHNkYxdEdSUHpFZXNHbFRZSkRpREg5WlBRcVp1M0lZcXJzMEZqNU5mNEJVQXZhaFVfdGFiOG1mdGFkLVdCR0Jac0k5dmItblVkbi1FcDYyc28tV3pUeV9PcDd2VEN1ZWR6UUd1YlliWEpmSFd2TURIUE03dmVkWVpYZDF0cGFjY25pUzZNSFBiUEpDZEs2bXlqb3pxSzZWWkFGOU1XM3liWnpsMG1WM2lLQnVGVVlnUEFnVmI0Y2I3OUhqdnVGRmg2NGo1UQ?oc=5\" target=\"_blank\">Georgia Power furthers partnership with statewide nonprofit to make Georgia State Parks more accessible and enjoyable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningstar.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-23T14:36:26+00:00"
     },
     {
       "id": "cf5c2cf62213c01f",

@@ -2,10 +2,38 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-23T08:59:21+00:00",
+  "last_updated": "2026-09-23T14:36:09+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 403,
+  "count": 406,
   "mentions": [
+    {
+      "id": "ef2bb00da1333154",
+      "title": "Alabama’s power bills, among the nation’s highest, spark intense debate as election nears - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHJOTWlKeWZHRHU0T3NSMkIxY1JLSTQyRUVINFE5ODgxeVI3a0RmVTBadWd5NVdsVjFqRC16Y3hxb29vak04QlkzZWJuanF1bEhMRzRYU0NtQWVWbEVVOW9WOE56MHpRaUFRelktOFdKT25jYkpkdTlLajVkanZSYXo4YWtNS2NqaThsY1FZV25sVkpnS092TzdHSmhwLVZqLW9vRnBKMG5zcWZYM1BwWEZ1b0dBaHJPWmt1SVMyRdIB0wFBVV95cUxPWFZrVk9ObTBpbWliWGJ3LXl4ZkkxLXAtSnI4Qi12T1ozeXdZcEJMTFdMRTRjcHEzRnQteDZuS21VX0lnX0FJeHg0MzAwUVJVVThRNEsxNWFsX1lyY09IOG9mS01GZFpITlFEWGNtOHE3Yk1TbWZxTk1SdE9NYjIxZ3NTR01ReEx0cFdDYi1hWlR1STdIQW84dTlKelZHel9RUzVyYmVmYmhOUHhzSzFLNGVIZ1dBaWI2b0pnQU02X3ZvbUFiNW9ZMGJwMVRET1lOc3R3?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-09-23T11:00:00+00:00",
+      "summary": "Alabama’s power bills, among the nation’s highest, spark intense debate as election nears AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHJOTWlKeWZHRHU0T3NSMkIxY1JLSTQyRUVINFE5ODgxeVI3a0RmVTBadWd5NVdsVjFqRC16Y3hxb29vak04QlkzZWJuanF1bEhMRzRYU0NtQWVWbEVVOW9WOE56MHpRaUFRelktOFdKT25jYkpkdTlLajVkanZSYXo4YWtNS2NqaThsY1FZV25sVkpnS092TzdHSmhwLVZqLW9vRnBKMG5zcWZYM1BwWEZ1b0dBaHJPWmt1SVMyRdIB0wFBVV95cUxPWFZrVk9ObTBpbWliWGJ3LXl4ZkkxLXAtSnI4Qi12T1ozeXdZcEJMTFdMRTRjcHEzRnQteDZuS21VX0lnX0FJeHg0MzAwUVJVVThRNEsxNWFsX1lyY09IOG9mS01GZFpITlFEWGNtOHE3Yk1TbWZxTk1SdE9NYjIxZ3NTR01ReEx0cFdDYi1hWlR1STdIQW84dTlKelZHel9RUzVyYmVmYmhOUHhzSzFLNGVIZ1dBaWI2b0pnQU02X3ZvbUFiNW9ZMGJwMVRET1lOc3R3?oc=5\" target=\"_blank\">Alabama’s power bills, among the nation’s highest, spark intense debate as election nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-23T14:36:09+00:00"
+    },
+    {
+      "id": "b24a0046e0dc0c17",
+      "title": "Shelby County man calls court ruling against Alabama Power a ‘huge battle won’ - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGZLR05yRjZqU3BZM3AyQUJoTXN3QzQ3c1RRWjZ3bEJUTjc5bHFLLVhzVTNTT1Z2MlZBZzBOX2tVb0cybHl0NnRfanN2WmV6cGlXbmpuSzBYR2g0c09pRUx5TFNERU02d1U0R2xxc2MxNTBQLUp1QWFVRHM4UXEzNC1jU0VBNVRnR1Zv?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-09-22T21:58:42+00:00",
+      "summary": "Shelby County man calls court ruling against Alabama Power a ‘huge battle won’ Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGZLR05yRjZqU3BZM3AyQUJoTXN3QzQ3c1RRWjZ3bEJUTjc5bHFLLVhzVTNTT1Z2MlZBZzBOX2tVb0cybHl0NnRfanN2WmV6cGlXbmpuSzBYR2g0c09pRUx5TFNERU02d1U0R2xxc2MxNTBQLUp1QWFVRHM4UXEzNC1jU0VBNVRnR1Zv?oc=5\" target=\"_blank\">Shelby County man calls court ruling against Alabama Power a ‘huge battle won’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-23T14:36:09+00:00"
+    },
     {
       "id": "daf879e05fd41874",
       "title": "Shelby County man calls court ruling against Alabama Power a ‘huge battle won’ - AL.com",
@@ -89,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T20:44:56+00:00"
+    },
+    {
+      "id": "1141be0563cf72b9",
+      "title": "Judge temporarily blocks Alabama Power from entering Shelby County man's property - abc3340.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNXF1SjRtMERpNGRaZG5yRDZVc3dIMUtyb3hDSkJMYXFYS3FkRnN3UUdfRi1ncGlVVGYwajNqQTlSUmRpWHpHMHBLaGYta2oza1NramdZd0NSbi14dTAyVGNlN1g3akFJSlZvOUIyVDVEVHdabjRZaC1pUVZGZkFnaWxKS3FZdDNJQVBHemVSWDV2NURDVk9ESGdOZjdONG9oQ2FEd0JQYWpSM1JvMkNSb2pmMmk4SExkUGJGSG1MSkJRVHE3QURYOExUMmx1Tk5lN1F0ZFhXbDRXNC1Q?oc=5",
+      "domain": "news.google.com",
+      "source": "abc3340.com",
+      "language": "English",
+      "published_at": "2026-09-22T18:46:05+00:00",
+      "summary": "Judge temporarily blocks Alabama Power from entering Shelby County man's property abc3340.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNXF1SjRtMERpNGRaZG5yRDZVc3dIMUtyb3hDSkJMYXFYS3FkRnN3UUdfRi1ncGlVVGYwajNqQTlSUmRpWHpHMHBLaGYta2oza1NramdZd0NSbi14dTAyVGNlN1g3akFJSlZvOUIyVDVEVHdabjRZaC1pUVZGZkFnaWxKS3FZdDNJQVBHemVSWDV2NURDVk9ESGdOZjdONG9oQ2FEd0JQYWpSM1JvMkNSb2pmMmk4SExkUGJGSG1MSkJRVHE3QURYOExUMmx1Tk5lN1F0ZFhXbDRXNC1Q?oc=5\" target=\"_blank\">Judge temporarily blocks Alabama Power from entering Shelby County man's property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abc3340.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-23T14:36:09+00:00"
     },
     {
       "id": "74c89a41c5660c4c",

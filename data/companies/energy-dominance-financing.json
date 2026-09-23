@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-09-23T08:59:44+00:00",
+  "last_updated": "2026-09-23T14:36:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 59,
+  "count": 60,
   "mentions": [
+    {
+      "id": "62da534190e29cd2",
+      "title": "Iowa is leading America's nuclear power comeback | Opinion - The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEhlNFNIN1ZhemlFekVocVRCYmZEMHJLQVBYUnFQdmZCaTI1TG1FTWxXN3pBVFRJZlVJRUhMM216NF9FQ1JvWUFpeXVORUpIbGhLRDdlV0EzbWxBUjlncVpzOFYyRHVZNnFnVDJuNnA3OEEwQXlIYm4zUU8yU1djMkx2RDVxTlJGOTlVeHVBVjZiTG1BQ1lTTkhaOWo5N1FzYjZnZl8zZkg3SXBiaWUzMGFZUEx2VTZGd1U1RlYybzJlM00yYjBN?oc=5",
+      "domain": "news.google.com",
+      "source": "The Des Moines Register",
+      "language": "English",
+      "published_at": "2026-09-23T09:09:00+00:00",
+      "summary": "Iowa is leading America's nuclear power comeback | Opinion The Des Moines Register",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEhlNFNIN1ZhemlFekVocVRCYmZEMHJLQVBYUnFQdmZCaTI1TG1FTWxXN3pBVFRJZlVJRUhMM216NF9FQ1JvWUFpeXVORUpIbGhLRDdlV0EzbWxBUjlncVpzOFYyRHVZNnFnVDJuNnA3OEEwQXlIYm4zUU8yU1djMkx2RDVxTlJGOTlVeHVBVjZiTG1BQ1lTTkhaOWo5N1FzYjZnZl8zZkg3SXBiaWUzMGFZUEx2VTZGd1U1RlYybzJlM00yYjBN?oc=5\" target=\"_blank\">Iowa is leading America's nuclear power comeback | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Des Moines Register</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-23T14:36:31+00:00"
+    },
     {
       "id": "e436781449e42f0d",
       "title": "DOE’s New Strategic Plan Sets an Expansive Course for Energy Dominance Financing | Mintz - ML Strategies - JD Supra",
