@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T03:18:02+00:00",
+  "last_updated": "2026-09-23T08:59:49+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 771,
+      "count": 777,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "ff1aee501fed703c",
-        "title": "Georgia Power, Google partner to expand nuclear energy, pass $900 million savings to customers - WSB-TV",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTEJlV2pybTNOQTEzN0JXeUVONmc2MDNOWUpXSXlYcEtKdW1sbm5JaVJiM25aazlyX1J6eFlXZUk1MzNyUzFRRFRZaGVlVXRPOUY2bGFBT3BXTzRELVFUQW51TkZCWV92aFE0VzBpNE5OWnk3RjBsdU55NWhmN3A4UEZscDlYenF5aWR6dkswRDloMUdTOWdjczREVjVnVVN6dTJOeGNabVNYWUduSHh5RDgxTDY2R3ZkZ2RMYlh6am5Pc1RkQmI3NXYzZHR0WDk0RE55blRXeTlXMzJjUjR0RzZwb1pEMXdURnfSAf4BQVVfeXFMTU5CU2RyVlJRQzBkd0dZVl9zRE10cDhpbEk1Q0pQTkM0ZE1SNmgyc1g3RkZmM3gxc2UyY0tmb2xjWmRRaFpVODlGWi0za0VqWGZPMlpaVENYNkFmc0RDNnk5aHdIZnlzZl8tMmpTTXFpRlV2TTltY2dfTmV4c3BvczBGR3drbHl1WkwtRTQ4NkdlUl9pd2ttcDhUSTl0dy1HRlRfeDczT0ROQ0NoNFllRGV5aDZRTXRZUGRYTlpVZWFBa01fNUY5UlF4d0lENDhBMVhGaXhtUElicEZpMUxOUXpXeGNtZ0g2bWFPel9rbzlYUWFqS1dGTmxGbG9FVWc?oc=5",
+        "id": "aaea2a933fc091d6",
+        "title": "Sept. 23 – Georgia Power agrees to $900 Million deal with Google that will benefit Consumers - Savannah Business Journal",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMngza25jd0RyLXRCcVJxaWVrTlRvSE5lcWhURHdpbHd5Y2xJNGg0Z2R1UEViekNxNFE5b0s0cUp6dEI1QUlvbk5SaFd0b0JwbV9lalFNYjNIMjJXd2Q1VG1uUW1JUnVHOFlwX3E2RFh3bWFjeVBBLVk4TnpXV3lpNkFfM0Nzd2o4OVZSeGpsNExOZ19SYmYteERQRFg1M0x1dmVSSDVpOVpNdDFDaWNfLTMtR1p6NVl3RkdhTFJuZTFQMFYzcW00UDl6eU9PNDJ1b3o3am1fUTZ3X1JjSlAzYmZEeWtKX21jWmUweEhfaEZvOWhGcTUyMGtRMHZOTEFJa2p2MHVnak9adll3V3JyM0pELXBHXzVpR1htczFJLTNXUHc?oc=5",
         "domain": "news.google.com",
-        "source": "WSB-TV",
+        "source": "Savannah Business Journal",
         "language": "English",
-        "published_at": "2026-09-22T20:13:11+00:00",
-        "summary": "Georgia Power, Google partner to expand nuclear energy, pass $900 million savings to customers WSB-TV",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTEJlV2pybTNOQTEzN0JXeUVONmc2MDNOWUpXSXlYcEtKdW1sbm5JaVJiM25aazlyX1J6eFlXZUk1MzNyUzFRRFRZaGVlVXRPOUY2bGFBT3BXTzRELVFUQW51TkZCWV92aFE0VzBpNE5OWnk3RjBsdU55NWhmN3A4UEZscDlYenF5aWR6dkswRDloMUdTOWdjczREVjVnVVN6dTJOeGNabVNYWUduSHh5RDgxTDY2R3ZkZ2RMYlh6am5Pc1RkQmI3NXYzZHR0WDk0RE55blRXeTlXMzJjUjR0RzZwb1pEMXdURnfSAf4BQVVfeXFMTU5CU2RyVlJRQzBkd0dZVl9zRE10cDhpbEk1Q0pQTkM0ZE1SNmgyc1g3RkZmM3gxc2UyY0tmb2xjWmRRaFpVODlGWi0za0VqWGZPMlpaVENYNkFmc0RDNnk5aHdIZnlzZl8tMmpTTXFpRlV2TTltY2dfTmV4c3BvczBGR3drbHl1WkwtRTQ4NkdlUl9pd2ttcDhUSTl0dy1HRlRfeDczT0ROQ0NoNFllRGV5aDZRTXRZUGRYTlpVZWFBa01fNUY5UlF4d0lENDhBMVhGaXhtUElicEZpMUxOUXpXeGNtZ0g2bWFPel9rbzlYUWFqS1dGTmxGbG9FVWc?oc=5\" target=\"_blank\">Georgia Power, Google partner to expand nuclear energy, pass $900 million savings to customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "published_at": "2026-09-23T07:15:00+00:00",
+        "summary": "Sept. 23 – Georgia Power agrees to $900 Million deal with Google that will benefit Consumers Savannah Business Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxOMngza25jd0RyLXRCcVJxaWVrTlRvSE5lcWhURHdpbHd5Y2xJNGg0Z2R1UEViekNxNFE5b0s0cUp6dEI1QUlvbk5SaFd0b0JwbV9lalFNYjNIMjJXd2Q1VG1uUW1JUnVHOFlwX3E2RFh3bWFjeVBBLVk4TnpXV3lpNkFfM0Nzd2o4OVZSeGpsNExOZ19SYmYteERQRFg1M0x1dmVSSDVpOVpNdDFDaWNfLTMtR1p6NVl3RkdhTFJuZTFQMFYzcW00UDl6eU9PNDJ1b3o3am1fUTZ3X1JjSlAzYmZEeWtKX21jWmUweEhfaEZvOWhGcTUyMGtRMHZOTEFJa2p2MHVnak9adll3V3JyM0pELXBHXzVpR1htczFJLTNXUHc?oc=5\" target=\"_blank\">Sept. 23 – Georgia Power agrees to $900 Million deal with Google that will benefit Consumers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Business Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-22T20:45:12+00:00"
+        "collected_at": "2026-09-23T08:59:38+00:00"
       }
     },
     {
