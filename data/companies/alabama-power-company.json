@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-23T14:36:09+00:00",
+  "last_updated": "2026-09-23T19:23:17+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 406,
+  "count": 407,
   "mentions": [
     {
       "id": "ef2bb00da1333154",
@@ -145,6 +145,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T23:56:36+00:00"
+    },
+    {
+      "id": "594fcee8f900b7ec",
+      "title": "Report: Alabama Power scores 5 out of 100 on clean energy transition - Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazRCM1JJWmxmTERKM3dRWEhaUm05YXRnbVhvQTg1Q21sSkNUZ0RiRG8tMnFaS0JsdXNaZ0dLOHVGWF9Md1BLcXJpRDNWaWthb2RnTl9kWmJKMUhOSXkwU2NiUkk3cmc1bFI4RGFCYWhPUGZ3dnFCSkZ5UUtZOTFzNnBpUmk1eWE5TmlycWJsaE01U0hCT0g4cWRGWERWaVdOWXVCTVl5Ni1MdTROc0lJR1M3Yw?oc=5",
+      "domain": "news.google.com",
+      "source": "Big News Network.com",
+      "language": "English",
+      "published_at": "2026-09-21T23:49:00+00:00",
+      "summary": "Report: Alabama Power scores 5 out of 100 on clean energy transition Big News Network.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPazRCM1JJWmxmTERKM3dRWEhaUm05YXRnbVhvQTg1Q21sSkNUZ0RiRG8tMnFaS0JsdXNaZ0dLOHVGWF9Md1BLcXJpRDNWaWthb2RnTl9kWmJKMUhOSXkwU2NiUkk3cmc1bFI4RGFCYWhPUGZ3dnFCSkZ5UUtZOTFzNnBpUmk1eWE5TmlycWJsaE01U0hCT0g4cWRGWERWaVdOWXVCTVl5Ni1MdTROc0lJR1M3Yw?oc=5\" target=\"_blank\">Report: Alabama Power scores 5 out of 100 on clean energy transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Big News Network.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-23T19:23:16+00:00"
     },
     {
       "id": "ff6a83895757ad46",
