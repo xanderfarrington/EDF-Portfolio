@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-22T23:56:36+00:00",
+  "last_updated": "2026-09-23T03:17:35+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 401,
+  "count": 403,
   "mentions": [
     {
       "id": "daf879e05fd41874",
@@ -21,6 +21,20 @@
       "collected_at": "2026-09-22T23:56:36+00:00"
     },
     {
+      "id": "f68d1313cffe24fb",
+      "title": "Shelby County man calls court ruling against Alabama Power a ‘huge battle won’ - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmdWdkFGckE3VmxlbEkxdkFyeWh0TlFRQWJyR0hxUlQ0VVpvSzJXSzltT01jdFdOUVJfdlBqSGRDY2Y1REZyUS10OEY3RXBqTk5BOU8wbnZDc20tQTloZVVjOXdMUkFyNEt4aFowU09XZExmRTZaRmVaaG04dUJmRkdYamxoS09PaVJ5SFdsS1E1Vk4yTlBxNmhpbi1FakVPTUlUajVCdVY5amxHendzQWdDQ0xHdVJyUk9ZZktpNHBPNEhhc1lV0gHHAUFVX3lxTE9KZ1Z2QUZyQTdWbGVsSTF2QXJ5aHROUVFBYnJHSHFSVDRVWm9LMldLOW1PTWN0V05RUl92UGpIZENjZjVERnJRLXQ4RjdFcGpOTkE5TzBudkNzbS1BOWhlVWM5d0xSQXI0S3hoWjBTT1dkTGZFNlpGZVpobTh1QmZGR1hqbGhLT09pUnlIV2xLUTVWTjJOUHE2aGluLUVqRU9NSVRqNUJ1VjlqbEd6d3NBZ0NDTEd1UnJST1lmS2k0cE80SGFzWVU?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-09-22T21:57:00+00:00",
+      "summary": "Shelby County man calls court ruling against Alabama Power a ‘huge battle won’ AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmdWdkFGckE3VmxlbEkxdkFyeWh0TlFRQWJyR0hxUlQ0VVpvSzJXSzltT01jdFdOUVJfdlBqSGRDY2Y1REZyUS10OEY3RXBqTk5BOU8wbnZDc20tQTloZVVjOXdMUkFyNEt4aFowU09XZExmRTZaRmVaaG04dUJmRkdYamxoS09PaVJ5SFdsS1E1Vk4yTlBxNmhpbi1FakVPTUlUajVCdVY5amxHendzQWdDQ0xHdVJyUk9ZZktpNHBPNEhhc1lV0gHHAUFVX3lxTE9KZ1Z2QUZyQTdWbGVsSTF2QXJ5aHROUVFBYnJHSHFSVDRVWm9LMldLOW1PTWN0V05RUl92UGpIZENjZjVERnJRLXQ4RjdFcGpOTkE5TzBudkNzbS1BOWhlVWM5d0xSQXI0S3hoWjBTT1dkTGZFNlpGZVpobTh1QmZGR1hqbGhLT09pUnlIV2xLUTVWTjJOUHE2aGluLUVqRU9NSVRqNUJ1VjlqbEd6d3NBZ0NDTEd1UnJST1lmS2k0cE80SGFzWVU?oc=5\" target=\"_blank\">Shelby County man calls court ruling against Alabama Power a ‘huge battle won’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-23T03:17:35+00:00"
+    },
+    {
       "id": "8cf8b669bcb9ba80",
       "title": "Judge blocks Alabama Power from entering Shelby County man's property for transmission line - WVTM",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNenIxVndNU1RIdHRUQ2U5Q2ZxTXNiVGtWVmdXbEtUNmlMSGNSN2RtbDZ5UU11NDFxTVRWdy13cFdxZFdLaE0xeGMxOFl4bjhVM1dyOFpfSkRreW44ZFlOM2hITEQ1SEhBazg1X2RUTVhTNEtWRUJqR3BpcUZIRXk5YnRULURkSnc1ZThEazhn?oc=5",
@@ -33,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T23:56:36+00:00"
+    },
+    {
+      "id": "b8358ae23d629e99",
+      "title": "Judge blocks Alabama Power from entering Shelby County man's property for transmission line - WVTM Channel 13",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNenIxVndNU1RIdHRUQ2U5Q2ZxTXNiVGtWVmdXbEtUNmlMSGNSN2RtbDZ5UU11NDFxTVRWdy13cFdxZFdLaE0xeGMxOFl4bjhVM1dyOFpfSkRreW44ZFlOM2hITEQ1SEhBazg1X2RUTVhTNEtWRUJqR3BpcUZIRXk5YnRULURkSnc1ZThEazhn?oc=5",
+      "domain": "news.google.com",
+      "source": "WVTM Channel 13",
+      "language": "English",
+      "published_at": "2026-09-22T21:11:00+00:00",
+      "summary": "Judge blocks Alabama Power from entering Shelby County man's property for transmission line WVTM Channel 13",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNenIxVndNU1RIdHRUQ2U5Q2ZxTXNiVGtWVmdXbEtUNmlMSGNSN2RtbDZ5UU11NDFxTVRWdy13cFdxZFdLaE0xeGMxOFl4bjhVM1dyOFpfSkRreW44ZFlOM2hITEQ1SEhBazg1X2RUTVhTNEtWRUJqR3BpcUZIRXk5YnRULURkSnc1ZThEazhn?oc=5\" target=\"_blank\">Judge blocks Alabama Power from entering Shelby County man's property for transmission line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM Channel 13</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-23T03:17:35+00:00"
     },
     {
       "id": "ca37c16b9beaac90",
