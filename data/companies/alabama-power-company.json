@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-23T19:23:17+00:00",
+  "last_updated": "2026-09-23T22:36:44+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 407,
+  "count": 408,
   "mentions": [
+    {
+      "id": "df904251caaa534d",
+      "title": "Calera property owner wins temporary court order blocking Alabama Power crews - WVTM Channel 13",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDRrM0tIY1dEMXJCNzhEanRXbVRwT3FfdzgxeDVaYm1IV3RDMk5WX0FvaFVKVERwVTlCeVJGclBkT2NMUjlsemhVUlh6aVpMOEtReEYyVUZBM1l5MTN1dHprc2pLdXVDWjBBLTd5TkRtNlNLdGh6OFBWeWNKb1d6WjJSeXJiZk40TVpWS2lsWWgyX0M5NGFOd0pVQXdCQ3p5UG1leHlULVJGTDJXWUNz?oc=5",
+      "domain": "news.google.com",
+      "source": "WVTM Channel 13",
+      "language": "English",
+      "published_at": "2026-09-23T21:43:00+00:00",
+      "summary": "Calera property owner wins temporary court order blocking Alabama Power crews WVTM Channel 13",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDRrM0tIY1dEMXJCNzhEanRXbVRwT3FfdzgxeDVaYm1IV3RDMk5WX0FvaFVKVERwVTlCeVJGclBkT2NMUjlsemhVUlh6aVpMOEtReEYyVUZBM1l5MTN1dHprc2pLdXVDWjBBLTd5TkRtNlNLdGh6OFBWeWNKb1d6WjJSeXJiZk40TVpWS2lsWWgyX0M5NGFOd0pVQXdCQ3p5UG1leHlULVJGTDJXWUNz?oc=5\" target=\"_blank\">Calera property owner wins temporary court order blocking Alabama Power crews</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM Channel 13</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-23T22:36:44+00:00"
+    },
     {
       "id": "ef2bb00da1333154",
       "title": "Alabama’s power bills, among the nation’s highest, spark intense debate as election nears - AL.com",
