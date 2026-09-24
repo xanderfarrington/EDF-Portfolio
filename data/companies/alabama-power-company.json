@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-23T22:36:44+00:00",
+  "last_updated": "2026-09-24T02:40:17+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 408,
+  "count": 409,
   "mentions": [
     {
       "id": "df904251caaa534d",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-23T14:36:09+00:00"
+    },
+    {
+      "id": "51c9536355ab007c",
+      "title": "Alabama Power kicks off United Way campaign - WSFA",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1lzak1jN2NkWG5ieW8xRjYwYVZaOUF0RXZUWFoyQmpxNWJrWHZRU2owa29oYUY4dTlEcEFvanRZRE14SU1lM2swZUUzZHRSNXZCS2ZCUlZRRm1iUGxkYTB5WG9yVlNEaE41Zm9aeGUyRDFScFBERHZPRVdrNnBNMGZTMEN3bjRWdHc?oc=5",
+      "domain": "news.google.com",
+      "source": "WSFA",
+      "language": "English",
+      "published_at": "2026-09-23T01:52:22+00:00",
+      "summary": "Alabama Power kicks off United Way campaign WSFA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1lzak1jN2NkWG5ieW8xRjYwYVZaOUF0RXZUWFoyQmpxNWJrWHZRU2owa29oYUY4dTlEcEFvanRZRE14SU1lM2swZUUzZHRSNXZCS2ZCUlZRRm1iUGxkYTB5WG9yVlNEaE41Zm9aeGUyRDFScFBERHZPRVdrNnBNMGZTMEN3bjRWdHc?oc=5\" target=\"_blank\">Alabama Power kicks off United Way campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-24T02:40:17+00:00"
     },
     {
       "id": "b24a0046e0dc0c17",
