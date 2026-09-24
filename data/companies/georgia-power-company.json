@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-24T14:34:25+00:00",
+  "last_updated": "2026-09-24T19:42:46+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 792,
+  "count": 794,
   "mentions": [
+    {
+      "id": "2ca37f665e1ef092",
+      "title": "Google, Georgia Power announce partnership to uprate plants - American Nuclear Society -- ANS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0E0WTVfaURrUWxBdldXZmFxbXRsRklrTGlDLWNlWjNhejZFLWs4Sjl5dUZFcElfc1l5ZXBKTTFaS1JIdVBTNjA2WnpHaXNjLURlSjkzM1B5TVE0YW1JVThEUXlQY1NNLWZ4TnFZTEFlVXR6S00ycF9SMi1hOE5KbjBRQ2tjZWd6dlVBeXN1a2lQU1pFZXNMYXdLRklNYVYtWUd1ZTFFclB2WFVn?oc=5",
+      "domain": "news.google.com",
+      "source": "American Nuclear Society -- ANS",
+      "language": "English",
+      "published_at": "2026-09-23T22:03:36+00:00",
+      "summary": "Google, Georgia Power announce partnership to uprate plants American Nuclear Society -- ANS",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0E0WTVfaURrUWxBdldXZmFxbXRsRklrTGlDLWNlWjNhejZFLWs4Sjl5dUZFcElfc1l5ZXBKTTFaS1JIdVBTNjA2WnpHaXNjLURlSjkzM1B5TVE0YW1JVThEUXlQY1NNLWZ4TnFZTEFlVXR6S00ycF9SMi1hOE5KbjBRQ2tjZWd6dlVBeXN1a2lQU1pFZXNMYXdLRklNYVYtWUd1ZTFFclB2WFVn?oc=5\" target=\"_blank\">Google, Georgia Power announce partnership to uprate plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society -- ANS</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-24T19:42:46+00:00"
+    },
     {
       "id": "b070a0cea2f08234",
       "title": "Students from Middle Georgia schools attend Georgia Power career exposure day in Dublin - WGXA",
@@ -117,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-23T19:23:33+00:00"
+    },
+    {
+      "id": "9cd8f7762b80da06",
+      "title": "SO's Georgia Power Signs Google Deal to Boost Nuclear Capacity - Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQS03UFJnWmlTZkdZS3VKMUtfQmJOYklWQWh0M2hjWWdyX0dUcHkxVG1RczV5THBtdERxRzVXOEZZQ1ZZdC0zaTd2MkI4VW5oY2p6ZWJ1bWxfaXRtd0VHY0d0Yk52TDJ2WDZLejJGZFlpcTJmSFNraHQxbmFqUmVadXU0XzlhMkNvQkxxc3dvR08zR0dEa1lwVkMyVEEzUFJQeTZ2dg?oc=5",
+      "domain": "news.google.com",
+      "source": "Zacks Investment Research",
+      "language": "English",
+      "published_at": "2026-09-23T13:02:22+00:00",
+      "summary": "SO's Georgia Power Signs Google Deal to Boost Nuclear Capacity Zacks Investment Research",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNQS03UFJnWmlTZkdZS3VKMUtfQmJOYklWQWh0M2hjWWdyX0dUcHkxVG1RczV5THBtdERxRzVXOEZZQ1ZZdC0zaTd2MkI4VW5oY2p6ZWJ1bWxfaXRtd0VHY0d0Yk52TDJ2WDZLejJGZFlpcTJmSFNraHQxbmFqUmVadXU0XzlhMkNvQkxxc3dvR08zR0dEa1lwVkMyVEEzUFJQeTZ2dg?oc=5\" target=\"_blank\">SO's Georgia Power Signs Google Deal to Boost Nuclear Capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zacks Investment Research</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-24T19:42:46+00:00"
     },
     {
       "id": "c59ffa1d08f0e3ee",
