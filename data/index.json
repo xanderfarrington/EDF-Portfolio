@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T19:42:56+00:00",
+  "last_updated": "2026-09-24T22:55:50+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 410,
+      "count": 412,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "df904251caaa534d",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 794,
+      "count": 795,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "2ca37f665e1ef092",
-        "title": "Google, Georgia Power announce partnership to uprate plants - American Nuclear Society -- ANS",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0E0WTVfaURrUWxBdldXZmFxbXRsRklrTGlDLWNlWjNhejZFLWs4Sjl5dUZFcElfc1l5ZXBKTTFaS1JIdVBTNjA2WnpHaXNjLURlSjkzM1B5TVE0YW1JVThEUXlQY1NNLWZ4TnFZTEFlVXR6S00ycF9SMi1hOE5KbjBRQ2tjZWd6dlVBeXN1a2lQU1pFZXNMYXdLRklNYVYtWUd1ZTFFclB2WFVn?oc=5",
+        "id": "9b640c5fa1da8707",
+        "title": "Georgia Power, Google announce deal to pay for nuclear upgrades - georgiarecorder.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOG1KeDRWSkhvZVptRFZvY2lpU2ZDbkJTbVhMbVJoYmdyVEViYUhtaDR5RG55TE9iZ01LQkFfemVKWXFxdzdSRExIbllrbThxN0MySDhYcVRGbm5yeDVieGdvTzVZZW1uZFRjSEd4TzJvQmI3bzRac291azBrNnBvektJYWRRT3ZOS3FhSnFSRUhBbmU2ZmZYM0dDUjRiRFlyMGRZVQ?oc=5",
         "domain": "news.google.com",
-        "source": "American Nuclear Society -- ANS",
+        "source": "georgiarecorder.com",
         "language": "English",
-        "published_at": "2026-09-23T22:03:36+00:00",
-        "summary": "Google, Georgia Power announce partnership to uprate plants American Nuclear Society -- ANS",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0E0WTVfaURrUWxBdldXZmFxbXRsRklrTGlDLWNlWjNhejZFLWs4Sjl5dUZFcElfc1l5ZXBKTTFaS1JIdVBTNjA2WnpHaXNjLURlSjkzM1B5TVE0YW1JVThEUXlQY1NNLWZ4TnFZTEFlVXR6S00ycF9SMi1hOE5KbjBRQ2tjZWd6dlVBeXN1a2lQU1pFZXNMYXdLRklNYVYtWUd1ZTFFclB2WFVn?oc=5\" target=\"_blank\">Google, Georgia Power announce partnership to uprate plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society -- ANS</font>",
+        "published_at": "2026-09-24T21:06:21+00:00",
+        "summary": "Georgia Power, Google announce deal to pay for nuclear upgrades georgiarecorder.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQOG1KeDRWSkhvZVptRFZvY2lpU2ZDbkJTbVhMbVJoYmdyVEViYUhtaDR5RG55TE9iZ01LQkFfemVKWXFxdzdSRExIbllrbThxN0MySDhYcVRGbm5yeDVieGdvTzVZZW1uZFRjSEd4TzJvQmI3bzRac291azBrNnBvektJYWRRT3ZOS3FhSnFSRUhBbmU2ZmZYM0dDUjRiRFlyMGRZVQ?oc=5\" target=\"_blank\">Georgia Power, Google announce deal to pay for nuclear upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">georgiarecorder.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-24T19:42:46+00:00"
+        "collected_at": "2026-09-24T22:55:40+00:00"
       }
     },
     {
