@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-24T08:55:41+00:00",
+  "last_updated": "2026-09-24T14:34:25+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 791,
+  "count": 792,
   "mentions": [
     {
       "id": "b070a0cea2f08234",
@@ -551,6 +551,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T07:10:38+00:00"
+    },
+    {
+      "id": "f19a14d6ae9515d6",
+      "title": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates - powermag.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYU9Md3A1MG9XTmFwTXR3clo5MHp6NnE4VTlzN2JJNVRBOEFIbnljVzhrQjRBT2tqeHFGai03ZnViT1FrMkJNWHgwQ2NQQmVPbnZwa0tZQU4ycXpyTEF0NmJ5WnJ3ODVHamxZMEhQbmVKN2Y0M0RjNGFvcWM3N2ViX3BHelRPZGo2Q2VFUS05aXZtNDBUUDZaT0tyaw?oc=5",
+      "domain": "news.google.com",
+      "source": "powermag.com",
+      "language": "English",
+      "published_at": "2026-09-21T23:52:37+00:00",
+      "summary": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates powermag.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNYU9Md3A1MG9XTmFwTXR3clo5MHp6NnE4VTlzN2JJNVRBOEFIbnljVzhrQjRBT2tqeHFGai03ZnViT1FrMkJNWHgwQ2NQQmVPbnZwa0tZQU4ycXpyTEF0NmJ5WnJ3ODVHamxZMEhQbmVKN2Y0M0RjNGFvcWM3N2ViX3BHelRPZGo2Q2VFUS05aXZtNDBUUDZaT0tyaw?oc=5\" target=\"_blank\">Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">powermag.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-24T14:34:25+00:00"
     },
     {
       "id": "eaa160a37acb688a",
