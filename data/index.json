@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T22:55:50+00:00",
+  "last_updated": "2026-09-25T02:57:52+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 412,
-      "new_mentions_this_run": 25,
+      "count": 413,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "df904251caaa534d",
         "title": "Calera property owner wins temporary court order blocking Alabama Power crews - WVTM Channel 13",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 795,
+      "count": 796,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "9b640c5fa1da8707",

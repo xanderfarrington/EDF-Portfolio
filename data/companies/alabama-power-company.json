@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-24T22:55:21+00:00",
+  "last_updated": "2026-09-25T02:57:25+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 412,
+  "count": 413,
   "mentions": [
     {
       "id": "df904251caaa534d",
@@ -215,6 +215,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T23:56:36+00:00"
+    },
+    {
+      "id": "0bbb089817f713b1",
+      "title": "Alabama Power restrained from entering Shelby County homeowner’s property in preliminary injunction - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONG1BVEYzSVdoNk44MVZncElTQ3dOQmUzdUFfMUFIb1ZsWWZWcnQ1UlBxb0ZzU09qa3FuSVlVMldsUDlZMWdxN0Z2V2pKVC0zZGpaZDVWZ3dhSEJmSlZtTmVzOG9DRHJSbU9DZW0wXzRyLVRrU1lxV29aMUhTWGx3LVdTSXVNQ2o0dVZ1eWJub0NiWlByR2ItcE9n?oc=5",
+      "domain": "news.google.com",
+      "source": "yahoo.com",
+      "language": "English",
+      "published_at": "2026-09-22T18:42:51+00:00",
+      "summary": "Alabama Power restrained from entering Shelby County homeowner’s property in preliminary injunction yahoo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONG1BVEYzSVdoNk44MVZncElTQ3dOQmUzdUFfMUFIb1ZsWWZWcnQ1UlBxb0ZzU09qa3FuSVlVMldsUDlZMWdxN0Z2V2pKVC0zZGpaZDVWZ3dhSEJmSlZtTmVzOG9DRHJSbU9DZW0wXzRyLVRrU1lxV29aMUhTWGx3LVdTSXVNQ2o0dVZ1eWJub0NiWlByR2ItcE9n?oc=5\" target=\"_blank\">Alabama Power restrained from entering Shelby County homeowner’s property in preliminary injunction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-25T02:57:25+00:00"
     },
     {
       "id": "594fcee8f900b7ec",

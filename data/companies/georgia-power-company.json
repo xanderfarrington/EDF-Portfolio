@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-24T22:55:40+00:00",
+  "last_updated": "2026-09-25T02:57:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 795,
+  "count": 796,
   "mentions": [
     {
       "id": "9b640c5fa1da8707",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-24T22:55:40+00:00"
+    },
+    {
+      "id": "5869ae238257e349",
+      "title": "Georgia Power, Google announce deal to pay for nuclear upgrades - Georgia Recorder",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOG1KeDRWSkhvZVptRFZvY2lpU2ZDbkJTbVhMbVJoYmdyVEViYUhtaDR5RG55TE9iZ01LQkFfemVKWXFxdzdSRExIbllrbThxN0MySDhYcVRGbm5yeDVieGdvTzVZZW1uZFRjSEd4TzJvQmI3bzRac291azBrNnBvektJYWRRT3ZOS3FhSnFSRUhBbmU2ZmZYM0dDUjRiRFlyMGRZVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Georgia Recorder",
+      "language": "English",
+      "published_at": "2026-09-24T21:06:21+00:00",
+      "summary": "Georgia Power, Google announce deal to pay for nuclear upgrades Georgia Recorder",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQOG1KeDRWSkhvZVptRFZvY2lpU2ZDbkJTbVhMbVJoYmdyVEViYUhtaDR5RG55TE9iZ01LQkFfemVKWXFxdzdSRExIbllrbThxN0MySDhYcVRGbm5yeDVieGdvTzVZZW1uZFRjSEd4TzJvQmI3bzRac291azBrNnBvektJYWRRT3ZOS3FhSnFSRUhBbmU2ZmZYM0dDUjRiRFlyMGRZVQ?oc=5\" target=\"_blank\">Georgia Power, Google announce deal to pay for nuclear upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgia Recorder</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-25T02:57:42+00:00"
     },
     {
       "id": "2ca37f665e1ef092",
