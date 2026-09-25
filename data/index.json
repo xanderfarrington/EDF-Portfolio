@@ -1,32 +1,32 @@
 {
-  "last_updated": "2026-09-25T14:55:08+00:00",
+  "last_updated": "2026-09-25T19:45:45+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 102,
-      "new_mentions_this_run": 7,
+      "count": 104,
+      "new_mentions_this_run": 9,
       "latest_mention": {
-        "id": "ed4404972acb3244",
-        "title": "AEP5497571 Bond Profile: Coupon and Redemption - tradingview.com",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCNFd4T3h2RGsxVXZOS0ZSTnBnWlJjR1BMSVgwMjkycXFHbDdBS2VncmNZRUxFVTVSeVFSa2ZnelJtYjFVOC1jREFDWXdwcjZpdlNCaldOVmZxUGEydm5UR25GSFhJOGtSSnVFZ1dn?oc=5",
+        "id": "e78a89d028e374cf",
+        "title": "AEP6184588 Bond Profile: Coupon and Redemption - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43VTc4STRDUzdyR3RkbEY3SEtIWnhsZElwV3JJVHZrSlllUENidWtIM2YzZzF0SGo3amUxU2xaQTlmNTJaLW92UWNuOFRtTUdKTjkwRnRVbzJsSFhucy1Bd1ZTUzNBMmRUNUhkd0V3?oc=5",
         "domain": "news.google.com",
-        "source": "tradingview.com",
+        "source": "TradingView",
         "language": "English",
-        "published_at": "2026-09-25T03:50:17+00:00",
-        "summary": "AEP5497571 Bond Profile: Coupon and Redemption tradingview.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBCNFd4T3h2RGsxVXZOS0ZSTnBnWlJjR1BMSVgwMjkycXFHbDdBS2VncmNZRUxFVTVSeVFSa2ZnelJtYjFVOC1jREFDWXdwcjZpdlNCaldOVmZxUGEydm5UR25GSFhJOGtSSnVFZ1dn?oc=5\" target=\"_blank\">AEP5497571 Bond Profile: Coupon and Redemption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tradingview.com</font>",
+        "published_at": "2026-09-25T17:35:55+00:00",
+        "summary": "AEP6184588 Bond Profile: Coupon and Redemption TradingView",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE43VTc4STRDUzdyR3RkbEY3SEtIWnhsZElwV3JJVHZrSlllUENidWtIM2YzZzF0SGo3amUxU2xaQTlmNTJaLW92UWNuOFRtTUdKTjkwRnRVbzJsSFhucy1Bd1ZTUzNBMmRUNUhkd0V3?oc=5\" target=\"_blank\">AEP6184588 Bond Profile: Coupon and Redemption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-25T09:16:03+00:00"
+        "collected_at": "2026-09-25T19:45:12+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 414,
+      "count": 415,
       "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "df904251caaa534d",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 804,
+      "count": 809,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "b34723e7980922f9",
