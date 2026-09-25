@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-25T09:16:25+00:00",
+  "last_updated": "2026-09-25T14:54:57+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 801,
+  "count": 804,
   "mentions": [
     {
       "id": "b34723e7980922f9",
@@ -75,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-25T02:57:42+00:00"
+    },
+    {
+      "id": "ecb63c57acc96b8a",
+      "title": "Georgia Power and Google announce deal to pay for nuclear upgrades - WABE",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUJBMnpkdGRiS3hLcms2a3U1MTN0dnI2YllESzBtMnQzaUwxQzlaRXZwQlhxR3dIcHl1eWRrbUVlT0ppTnFOcWVfaVROTkc4bnNFb1plRDJ3ZTk4XzJBOWRScWVkNUsyWGF6V0RKWjdkLWRjMTVUanA2UElIOVN3MHhGRzVvWFYyMUZHZg?oc=5",
+      "domain": "news.google.com",
+      "source": "WABE",
+      "language": "English",
+      "published_at": "2026-09-24T20:54:57+00:00",
+      "summary": "Georgia Power and Google announce deal to pay for nuclear upgrades WABE",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxObUJBMnpkdGRiS3hLcms2a3U1MTN0dnI2YllESzBtMnQzaUwxQzlaRXZwQlhxR3dIcHl1eWRrbUVlT0ppTnFOcWVfaVROTkc4bnNFb1plRDJ3ZTk4XzJBOWRScWVkNUsyWGF6V0RKWjdkLWRjMTVUanA2UElIOVN3MHhGRzVvWFYyMUZHZg?oc=5\" target=\"_blank\">Georgia Power and Google announce deal to pay for nuclear upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-25T14:54:57+00:00"
     },
     {
       "id": "2ca37f665e1ef092",
@@ -257,6 +271,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-25T09:16:25+00:00"
+    },
+    {
+      "id": "92f88145c356c6ec",
+      "title": "Georgia Power, Google seek to advance nuclear energy in Georgia - Daily Energy Insider",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdkdxdEd5aHBENW0xWEdLRWpNVzNpbVdmUVpPUnpMTzNQbnJwek15ZzdYaVVNZjVuZ0dPUWhyM0VzaHR0VjNUSEk4WERIQ0VZaUhuRExZeTQtR3MtR2lRM3VZelY3WkhKV2ItSlBiR1JFbm5EWlRJX3NfV3dRU1VxVm5hRWFRZXlpRzc0Q0ktMURJbzdKN3BESm13UnktRmNTNDhEaFJGazlGZExGRlE?oc=5",
+      "domain": "news.google.com",
+      "source": "Daily Energy Insider",
+      "language": "English",
+      "published_at": "2026-09-23T11:34:21+00:00",
+      "summary": "Georgia Power, Google seek to advance nuclear energy in Georgia Daily Energy Insider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdkdxdEd5aHBENW0xWEdLRWpNVzNpbVdmUVpPUnpMTzNQbnJwek15ZzdYaVVNZjVuZ0dPUWhyM0VzaHR0VjNUSEk4WERIQ0VZaUhuRExZeTQtR3MtR2lRM3VZelY3WkhKV2ItSlBiR1JFbm5EWlRJX3NfV3dRU1VxVm5hRWFRZXlpRzc0Q0ktMURJbzdKN3BESm13UnktRmNTNDhEaFJGazlGZExGRlE?oc=5\" target=\"_blank\">Georgia Power, Google seek to advance nuclear energy in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Energy Insider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-25T14:54:57+00:00"
     },
     {
       "id": "fb86faaa7108434c",
@@ -943,6 +971,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T00:29:35+00:00"
+    },
+    {
+      "id": "101a1489008e135f",
+      "title": "Georgia Power?s Robins Battery Storage Achieves Commercial Operation - renewableenergymagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVpFMllFMlRrMEx4ZEF5Ykk2d1lIQnJLN2M1UnkyLXBpT1BtUUpvV1p3ZDJ0bFJzM0VPWFhaM3JlTWFaY3dTZ3B3aXdEbkc1eEs2dVpCRjlIMHNualE5QjlzWkNGVVprZFpGYkxKNmlLbG00akJQbDV3MFl3NDZ4Y1Y1SWRYT3BuZFQ1QU4wNjdMS2xnUHZvY0hIX1dTd0dFUUIwRzk1bzA?oc=5",
+      "domain": "news.google.com",
+      "source": "renewableenergymagazine.com",
+      "language": "English",
+      "published_at": "2026-09-21T16:22:31+00:00",
+      "summary": "Georgia Power?s Robins Battery Storage Achieves Commercial Operation renewableenergymagazine.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVpFMllFMlRrMEx4ZEF5Ykk2d1lIQnJLN2M1UnkyLXBpT1BtUUpvV1p3ZDJ0bFJzM0VPWFhaM3JlTWFaY3dTZ3B3aXdEbkc1eEs2dVpCRjlIMHNualE5QjlzWkNGVVprZFpGYkxKNmlLbG00akJQbDV3MFl3NDZ4Y1Y1SWRYT3BuZFQ1QU4wNjdMS2xnUHZvY0hIX1dTd0dFUUIwRzk1bzA?oc=5\" target=\"_blank\">Georgia Power?s Robins Battery Storage Achieves Commercial Operation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">renewableenergymagazine.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-25T14:54:57+00:00"
     },
     {
       "id": "0060bd6c4121515c",
