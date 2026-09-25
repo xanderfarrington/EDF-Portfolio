@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-09-25T02:57:52+00:00",
+  "last_updated": "2026-09-25T09:16:36+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 99,
-      "new_mentions_this_run": 5,
+      "count": 101,
+      "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "129ca168aa68a710",
-        "title": "Public hearing planned for 51-mile AEP transmission project - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJYcEFrZWtDSHQ0a2h0azlRM0ttUzBfR2JFN0JuaGRzZmd3VWt6Q3VCQzJ5MXJ6dHZhVEd2QUw1aGVLV0JPcmp2c3pPX09mdXNPUjRIbFN4cjFFZ2ZUdzBTbDhNTVhlREdfeXdVRy00TWdhazhhOUNIVXQ4T0tXZ3EwdEpiYk8tTXJNNA?oc=5",
+        "id": "ed4404972acb3244",
+        "title": "AEP5497571 Bond Profile: Coupon and Redemption - tradingview.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCNFd4T3h2RGsxVXZOS0ZSTnBnWlJjR1BMSVgwMjkycXFHbDdBS2VncmNZRUxFVTVSeVFSa2ZnelJtYjFVOC1jREFDWXdwcjZpdlNCaldOVmZxUGEydm5UR25GSFhJOGtSSnVFZ1dn?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo",
+        "source": "tradingview.com",
         "language": "English",
-        "published_at": "2026-09-14T09:02:55+00:00",
-        "summary": "Public hearing planned for 51-mile AEP transmission project Yahoo",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJYcEFrZWtDSHQ0a2h0azlRM0ttUzBfR2JFN0JuaGRzZmd3VWt6Q3VCQzJ5MXJ6dHZhVEd2QUw1aGVLV0JPcmp2c3pPX09mdXNPUjRIbFN4cjFFZ2ZUdzBTbDhNTVhlREdfeXdVRy00TWdhazhhOUNIVXQ4T0tXZ3EwdEpiYk8tTXJNNA?oc=5\" target=\"_blank\">Public hearing planned for 51-mile AEP transmission project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "published_at": "2026-09-25T03:50:17+00:00",
+        "summary": "AEP5497571 Bond Profile: Coupon and Redemption tradingview.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBCNFd4T3h2RGsxVXZOS0ZSTnBnWlJjR1BMSVgwMjkycXFHbDdBS2VncmNZRUxFVTVSeVFSa2ZnelJtYjFVOC1jREFDWXdwcjZpdlNCaldOVmZxUGEydm5UR25GSFhJOGtSSnVFZ1dn?oc=5\" target=\"_blank\">AEP5497571 Bond Profile: Coupon and Redemption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tradingview.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-14T14:38:09+00:00"
+        "collected_at": "2026-09-25T09:16:03+00:00"
       }
     },
     {
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 413,
-      "new_mentions_this_run": 23,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "df904251caaa534d",
         "title": "Calera property owner wins temporary court order blocking Alabama Power crews - WVTM Channel 13",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 796,
+      "count": 801,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "9b640c5fa1da8707",
-        "title": "Georgia Power, Google announce deal to pay for nuclear upgrades - georgiarecorder.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOG1KeDRWSkhvZVptRFZvY2lpU2ZDbkJTbVhMbVJoYmdyVEViYUhtaDR5RG55TE9iZ01LQkFfemVKWXFxdzdSRExIbllrbThxN0MySDhYcVRGbm5yeDVieGdvTzVZZW1uZFRjSEd4TzJvQmI3bzRac291azBrNnBvektJYWRRT3ZOS3FhSnFSRUhBbmU2ZmZYM0dDUjRiRFlyMGRZVQ?oc=5",
+        "id": "b34723e7980922f9",
+        "title": "‘There was just zapping things.’ Georgia Power equipment failure left woman out $2k - WSB-TV",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTDU1UmJYcU5fdDN6UDNBYkdRQnkzRmFVd0ExT08tTm5NWWZGdmNkYmNlZVA4cnV6ZzlzYWpVNVR6bjg3MHNTdDJuUHFfMFNHb1VUQVhHdTNjQ1ZkNkUwZ2pqSlAtZWhick5HQlJhRzdyeXJPUU1oQUFkSlBzZUpvOWl1VmJOOFY4RjA2bVFmUkhJTkR3Z05MQmszYkVZbWczNzY1bzl4OEV1emI1elZHZWkwYVg2Snhhcl9MYXlWNDF1VkVVT3VCbHFSTkZtMzJiXzY1SFdCMNIB6wFBVV95cUxQc0kwMnk1RjJ6Skw4aExLWEJpZzhEM3NaaTZrVnN3WUVLX0dNMFluWjNvOEhnM2Z3bmZDc255WDBCSTE1ZEcyWW9JZlhJME51ZEtLWklHZkhGV1ZwYVp2dWNMNUw3OHh2MlZ4Um1yLW15a3JCaVp3MU1qVUZuWVQxbkF5M3hTUzVPaWpNNXNBS2dyS29lekd4WUZXZ21mZlVoYXFzRUttVmFjbHVuZ2JFVTJiVk83cnN6TlpLVE1KWV9HUW9jSFJoUzdWdjE1RGZWN09jODEtclBIR2hJNHFMU0IySENKbEFvdUxR?oc=5",
         "domain": "news.google.com",
-        "source": "georgiarecorder.com",
+        "source": "WSB-TV",
         "language": "English",
-        "published_at": "2026-09-24T21:06:21+00:00",
-        "summary": "Georgia Power, Google announce deal to pay for nuclear upgrades georgiarecorder.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQOG1KeDRWSkhvZVptRFZvY2lpU2ZDbkJTbVhMbVJoYmdyVEViYUhtaDR5RG55TE9iZ01LQkFfemVKWXFxdzdSRExIbllrbThxN0MySDhYcVRGbm5yeDVieGdvTzVZZW1uZFRjSEd4TzJvQmI3bzRac291azBrNnBvektJYWRRT3ZOS3FhSnFSRUhBbmU2ZmZYM0dDUjRiRFlyMGRZVQ?oc=5\" target=\"_blank\">Georgia Power, Google announce deal to pay for nuclear upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">georgiarecorder.com</font>",
+        "published_at": "2026-09-25T05:07:22+00:00",
+        "summary": "‘There was just zapping things.’ Georgia Power equipment failure left woman out $2k WSB-TV",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTDU1UmJYcU5fdDN6UDNBYkdRQnkzRmFVd0ExT08tTm5NWWZGdmNkYmNlZVA4cnV6ZzlzYWpVNVR6bjg3MHNTdDJuUHFfMFNHb1VUQVhHdTNjQ1ZkNkUwZ2pqSlAtZWhick5HQlJhRzdyeXJPUU1oQUFkSlBzZUpvOWl1VmJOOFY4RjA2bVFmUkhJTkR3Z05MQmszYkVZbWczNzY1bzl4OEV1emI1elZHZWkwYVg2Snhhcl9MYXlWNDF1VkVVT3VCbHFSTkZtMzJiXzY1SFdCMNIB6wFBVV95cUxQc0kwMnk1RjJ6Skw4aExLWEJpZzhEM3NaaTZrVnN3WUVLX0dNMFluWjNvOEhnM2Z3bmZDc255WDBCSTE1ZEcyWW9JZlhJME51ZEtLWklHZkhGV1ZwYVp2dWNMNUw3OHh2MlZ4Um1yLW15a3JCaVp3MU1qVUZuWVQxbkF5M3hTUzVPaWpNNXNBS2dyS29lekd4WUZXZ21mZlVoYXFzRUttVmFjbHVuZ2JFVTJiVk83cnN6TlpLVE1KWV9HUW9jSFJoUzdWdjE1RGZWN09jODEtclBIR2hJNHFMU0IySENKbEFvdUxR?oc=5\" target=\"_blank\">‘There was just zapping things.’ Georgia Power equipment failure left woman out $2k</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-24T22:55:40+00:00"
+        "collected_at": "2026-09-25T09:16:25+00:00"
       }
     },
     {

@@ -2,10 +2,52 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-25T02:57:42+00:00",
+  "last_updated": "2026-09-25T09:16:25+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 796,
+  "count": 801,
   "mentions": [
+    {
+      "id": "b34723e7980922f9",
+      "title": "‘There was just zapping things.’ Georgia Power equipment failure left woman out $2k - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTDU1UmJYcU5fdDN6UDNBYkdRQnkzRmFVd0ExT08tTm5NWWZGdmNkYmNlZVA4cnV6ZzlzYWpVNVR6bjg3MHNTdDJuUHFfMFNHb1VUQVhHdTNjQ1ZkNkUwZ2pqSlAtZWhick5HQlJhRzdyeXJPUU1oQUFkSlBzZUpvOWl1VmJOOFY4RjA2bVFmUkhJTkR3Z05MQmszYkVZbWczNzY1bzl4OEV1emI1elZHZWkwYVg2Snhhcl9MYXlWNDF1VkVVT3VCbHFSTkZtMzJiXzY1SFdCMNIB6wFBVV95cUxQc0kwMnk1RjJ6Skw4aExLWEJpZzhEM3NaaTZrVnN3WUVLX0dNMFluWjNvOEhnM2Z3bmZDc255WDBCSTE1ZEcyWW9JZlhJME51ZEtLWklHZkhGV1ZwYVp2dWNMNUw3OHh2MlZ4Um1yLW15a3JCaVp3MU1qVUZuWVQxbkF5M3hTUzVPaWpNNXNBS2dyS29lekd4WUZXZ21mZlVoYXFzRUttVmFjbHVuZ2JFVTJiVk83cnN6TlpLVE1KWV9HUW9jSFJoUzdWdjE1RGZWN09jODEtclBIR2hJNHFMU0IySENKbEFvdUxR?oc=5",
+      "domain": "news.google.com",
+      "source": "WSB-TV",
+      "language": "English",
+      "published_at": "2026-09-25T05:07:22+00:00",
+      "summary": "‘There was just zapping things.’ Georgia Power equipment failure left woman out $2k WSB-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTDU1UmJYcU5fdDN6UDNBYkdRQnkzRmFVd0ExT08tTm5NWWZGdmNkYmNlZVA4cnV6ZzlzYWpVNVR6bjg3MHNTdDJuUHFfMFNHb1VUQVhHdTNjQ1ZkNkUwZ2pqSlAtZWhick5HQlJhRzdyeXJPUU1oQUFkSlBzZUpvOWl1VmJOOFY4RjA2bVFmUkhJTkR3Z05MQmszYkVZbWczNzY1bzl4OEV1emI1elZHZWkwYVg2Snhhcl9MYXlWNDF1VkVVT3VCbHFSTkZtMzJiXzY1SFdCMNIB6wFBVV95cUxQc0kwMnk1RjJ6Skw4aExLWEJpZzhEM3NaaTZrVnN3WUVLX0dNMFluWjNvOEhnM2Z3bmZDc255WDBCSTE1ZEcyWW9JZlhJME51ZEtLWklHZkhGV1ZwYVp2dWNMNUw3OHh2MlZ4Um1yLW15a3JCaVp3MU1qVUZuWVQxbkF5M3hTUzVPaWpNNXNBS2dyS29lekd4WUZXZ21mZlVoYXFzRUttVmFjbHVuZ2JFVTJiVk83cnN6TlpLVE1KWV9HUW9jSFJoUzdWdjE1RGZWN09jODEtclBIR2hJNHFMU0IySENKbEFvdUxR?oc=5\" target=\"_blank\">‘There was just zapping things.’ Georgia Power equipment failure left woman out $2k</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-25T09:16:25+00:00"
+    },
+    {
+      "id": "28c03d5f54da452a",
+      "title": "'There was just zapping things.' Georgia Power equipment failure left woman out $2k - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOenR0bFVabWM1c0p5VmhLXzNpRGMyMWVwcko3SV9ZT1g5WmhqZzBoY1BaMTZ2dmtOWHZ2Qk9DbDdsWVdldlNZbk9FVmEySjlYcUVEbnVaOWFoX0F2SVlvdFlGbmowNnlYLTVsaDd3bjZMN1lidEdGMjNHbjYyZjdsSmFaMjhqU05jZjcwLWZpWFU0bTRGNmo5WnJmMXR0UHhsQUlHWXd4d0hwLWhmWkFqaHlFSFU2NmZHZ0kxNzg5RGN0bzcxb3F4LTNFMkk5bndDbS1WWEpqSEhJSENEc3d2US1CNGJ5R0JEYnd0NTN3?oc=5",
+      "domain": "news.google.com",
+      "source": "WSB-TV",
+      "language": "English",
+      "published_at": "2026-09-25T05:00:50+00:00",
+      "summary": "'There was just zapping things.' Georgia Power equipment failure left woman out $2k WSB-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOenR0bFVabWM1c0p5VmhLXzNpRGMyMWVwcko3SV9ZT1g5WmhqZzBoY1BaMTZ2dmtOWHZ2Qk9DbDdsWVdldlNZbk9FVmEySjlYcUVEbnVaOWFoX0F2SVlvdFlGbmowNnlYLTVsaDd3bjZMN1lidEdGMjNHbjYyZjdsSmFaMjhqU05jZjcwLWZpWFU0bTRGNmo5WnJmMXR0UHhsQUlHWXd4d0hwLWhmWkFqaHlFSFU2NmZHZ0kxNzg5RGN0bzcxb3F4LTNFMkk5bndDbS1WWEpqSEhJSENEc3d2US1CNGJ5R0JEYnd0NTN3?oc=5\" target=\"_blank\">'There was just zapping things.' Georgia Power equipment failure left woman out $2k</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-25T09:16:25+00:00"
+    },
+    {
+      "id": "d941360b3fda7558",
+      "title": "Google to help fund upgrades for Georgia Power nuclear reactors - thecurrentga.org",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMVdWNy1DQmdqa3NvVmlkanI5dHhZYVRJZE1GZTMxa2t2UVZmdDNnbnNSbjZubktlanU3NG4xODY0Nm1iXzV6dWVUTHpmaHpFeDNiWFo4ZXN2MThscHNTQXRUSVh5bHVUcFZ0RmY2bHh2ZGxLR1VnQUtJQU5sbUJzTVFUZnNnanBxZGpFcHoxbjdqMC12YTg1QUJfaDBZUjJ4YWc?oc=5",
+      "domain": "news.google.com",
+      "source": "thecurrentga.org",
+      "language": "English",
+      "published_at": "2026-09-24T21:20:13+00:00",
+      "summary": "Google to help fund upgrades for Georgia Power nuclear reactors thecurrentga.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNMVdWNy1DQmdqa3NvVmlkanI5dHhZYVRJZE1GZTMxa2t2UVZmdDNnbnNSbjZubktlanU3NG4xODY0Nm1iXzV6dWVUTHpmaHpFeDNiWFo4ZXN2MThscHNTQXRUSVh5bHVUcFZ0RmY2bHh2ZGxLR1VnQUtJQU5sbUJzTVFUZnNnanBxZGpFcHoxbjdqMC12YTg1QUJfaDBZUjJ4YWc?oc=5\" target=\"_blank\">Google to help fund upgrades for Georgia Power nuclear reactors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecurrentga.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-25T09:16:25+00:00"
+    },
     {
       "id": "9b640c5fa1da8707",
       "title": "Georgia Power, Google announce deal to pay for nuclear upgrades - georgiarecorder.com",
@@ -47,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-24T19:42:46+00:00"
+    },
+    {
+      "id": "ef6545ed5061424d",
+      "title": "Google, Georgia Power announce partnership to uprate plants - ans.org",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0E0WTVfaURrUWxBdldXZmFxbXRsRklrTGlDLWNlWjNhejZFLWs4Sjl5dUZFcElfc1l5ZXBKTTFaS1JIdVBTNjA2WnpHaXNjLURlSjkzM1B5TVE0YW1JVThEUXlQY1NNLWZ4TnFZTEFlVXR6S00ycF9SMi1hOE5KbjBRQ2tjZWd6dlVBeXN1a2lQU1pFZXNMYXdLRklNYVYtWUd1ZTFFclB2WFVn?oc=5",
+      "domain": "news.google.com",
+      "source": "ans.org",
+      "language": "English",
+      "published_at": "2026-09-23T22:03:36+00:00",
+      "summary": "Google, Georgia Power announce partnership to uprate plants ans.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0E0WTVfaURrUWxBdldXZmFxbXRsRklrTGlDLWNlWjNhejZFLWs4Sjl5dUZFcElfc1l5ZXBKTTFaS1JIdVBTNjA2WnpHaXNjLURlSjkzM1B5TVE0YW1JVThEUXlQY1NNLWZ4TnFZTEFlVXR6S00ycF9SMi1hOE5KbjBRQ2tjZWd6dlVBeXN1a2lQU1pFZXNMYXdLRklNYVYtWUd1ZTFFclB2WFVn?oc=5\" target=\"_blank\">Google, Georgia Power announce partnership to uprate plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ans.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-25T09:16:25+00:00"
     },
     {
       "id": "b070a0cea2f08234",
@@ -187,6 +243,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-23T19:23:33+00:00"
+    },
+    {
+      "id": "5224aa1e0db7a70f",
+      "title": "Georgia power and Google deal will expand nuclear capacity - thetruecitizen.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMWUyOWlBOUhXcTgzT2VfZ2t4NEdFaUxUQzFodHlxcnQ5cHc5TXNHakdyRC16Vm1XTkl4RnROYkl4TWVyaGxDZHdSM1NjckI3N3pwQ0dmMVhEcl9XdkJacm9rSTN0SDNqU3EtbTRfbHl5VHNPSHJFZ21KMTJWMDFTTXUxUzhxYlFtdUJyY3lRVW0wR1FoU2Znd2h4dk9QUHk4?oc=5",
+      "domain": "news.google.com",
+      "source": "thetruecitizen.com",
+      "language": "English",
+      "published_at": "2026-09-23T13:02:07+00:00",
+      "summary": "Georgia power and Google deal will expand nuclear capacity thetruecitizen.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNMWUyOWlBOUhXcTgzT2VfZ2t4NEdFaUxUQzFodHlxcnQ5cHc5TXNHakdyRC16Vm1XTkl4RnROYkl4TWVyaGxDZHdSM1NjckI3N3pwQ0dmMVhEcl9XdkJacm9rSTN0SDNqU3EtbTRfbHl5VHNPSHJFZ21KMTJWMDFTTXUxUzhxYlFtdUJyY3lRVW0wR1FoU2Znd2h4dk9QUHk4?oc=5\" target=\"_blank\">Georgia power and Google deal will expand nuclear capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thetruecitizen.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-25T09:16:25+00:00"
     },
     {
       "id": "fb86faaa7108434c",
