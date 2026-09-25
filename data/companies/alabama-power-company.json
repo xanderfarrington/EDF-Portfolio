@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-25T19:45:18+00:00",
+  "last_updated": "2026-09-25T23:00:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 415,
+  "count": 417,
   "mentions": [
+    {
+      "id": "c5016e3d6f41fad8",
+      "title": "Alabama Power Foundation donates to Ritz Theatre, supporting arts education - The Anniston Star",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYlE5RTU4d2ZvMXFSdWJMMHpWN1hobkpIZzJ2SjdMaTdubFdSaWZ2d00xbjR4UFljYzlTaDFvQVF6RGFDY0RTWjZ1eVZBVHpyc1h5anlkcU9DTkFURno3cHU2VVVJWU4zRWZ1b1F5NE1qU1V5dFJ4OVBWNEtnSjF2LWJCVFRIaUJpaWtDUkg0eUVvWXc3Y3FMUmV6QlZKTkU2SEQzd1RaeDh3Njk3dlBkbzJ3VDdWRGdqTEVhcXVrb3RFMHl1dTNIblhjblZsTzE0bTJjcXBuY1hCeC05UGtqQTZLSm9XaXhzc3RRckRhNHFRZ2hmZlR0cjMyY0pqbk9ELXZ0NW04bw?oc=5",
+      "domain": "news.google.com",
+      "source": "The Anniston Star",
+      "language": "English",
+      "published_at": "2026-09-25T19:41:00+00:00",
+      "summary": "Alabama Power Foundation donates to Ritz Theatre, supporting arts education The Anniston Star",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPYlE5RTU4d2ZvMXFSdWJMMHpWN1hobkpIZzJ2SjdMaTdubFdSaWZ2d00xbjR4UFljYzlTaDFvQVF6RGFDY0RTWjZ1eVZBVHpyc1h5anlkcU9DTkFURno3cHU2VVVJWU4zRWZ1b1F5NE1qU1V5dFJ4OVBWNEtnSjF2LWJCVFRIaUJpaWtDUkg0eUVvWXc3Y3FMUmV6QlZKTkU2SEQzd1RaeDh3Njk3dlBkbzJ3VDdWRGdqTEVhcXVrb3RFMHl1dTNIblhjblZsTzE0bTJjcXBuY1hCeC05UGtqQTZLSm9XaXhzc3RRckRhNHFRZ2hmZlR0cjMyY0pqbk9ELXZ0NW04bw?oc=5\" target=\"_blank\">Alabama Power Foundation donates to Ritz Theatre, supporting arts education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Anniston Star</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-25T23:00:01+00:00"
+    },
     {
       "id": "df904251caaa534d",
       "title": "Calera property owner wins temporary court order blocking Alabama Power crews - WVTM Channel 13",
@@ -201,6 +215,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T20:44:56+00:00"
+    },
+    {
+      "id": "1a1a2fe15bc3a7ab",
+      "title": "'Arbitrary and capricious': Judge rules in favor of Fenn Church's property rights, grants TPO in Alabama Power case - 1819news.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ2lDMEVlQ1FlWUd0TE9GLWxVQlA5RXZuRXFoRVdzUVVPQlhfblAxcC1qMGQxRmJDMzlRTF9QYUFjNEtNcTVYS1V4UGJGb2VxU25XdTk3MlhNZUV5cm5RMzU5ek01UjRfaS1uYVZvUTd4NWZ4Q3dNYXA5dTZ4Y1VOYTdwNWc1T0llZzVBcGZkZHE3NmVHVU4ycDIyYnVrOU9VcGlkVmQ2dmhMRVUtN3YySnp1WmF2Wnk3RUhuQ2s3U2FOSmNmRkdZLWx1NWlpcDhFU29BZnNrc3I?oc=5",
+      "domain": "news.google.com",
+      "source": "1819news.com",
+      "language": "English",
+      "published_at": "2026-09-22T19:12:38+00:00",
+      "summary": "'Arbitrary and capricious': Judge rules in favor of Fenn Church's property rights, grants TPO in Alabama Power case 1819news.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ2lDMEVlQ1FlWUd0TE9GLWxVQlA5RXZuRXFoRVdzUVVPQlhfblAxcC1qMGQxRmJDMzlRTF9QYUFjNEtNcTVYS1V4UGJGb2VxU25XdTk3MlhNZUV5cm5RMzU5ek01UjRfaS1uYVZvUTd4NWZ4Q3dNYXA5dTZ4Y1VOYTdwNWc1T0llZzVBcGZkZHE3NmVHVU4ycDIyYnVrOU9VcGlkVmQ2dmhMRVUtN3YySnp1WmF2Wnk3RUhuQ2s3U2FOSmNmRkdZLWx1NWlpcDhFU29BZnNrc3I?oc=5\" target=\"_blank\">'Arbitrary and capricious': Judge rules in favor of Fenn Church's property rights, grants TPO in Alabama Power case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819news.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-25T23:00:01+00:00"
     },
     {
       "id": "70b9d84e2a964a4d",

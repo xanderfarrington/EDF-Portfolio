@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T19:45:45+00:00",
+  "last_updated": "2026-09-25T23:00:28+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 415,
+      "count": 417,
       "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "df904251caaa534d",
-        "title": "Calera property owner wins temporary court order blocking Alabama Power crews - WVTM Channel 13",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDRrM0tIY1dEMXJCNzhEanRXbVRwT3FfdzgxeDVaYm1IV3RDMk5WX0FvaFVKVERwVTlCeVJGclBkT2NMUjlsemhVUlh6aVpMOEtReEYyVUZBM1l5MTN1dHprc2pLdXVDWjBBLTd5TkRtNlNLdGh6OFBWeWNKb1d6WjJSeXJiZk40TVpWS2lsWWgyX0M5NGFOd0pVQXdCQ3p5UG1leHlULVJGTDJXWUNz?oc=5",
+        "id": "c5016e3d6f41fad8",
+        "title": "Alabama Power Foundation donates to Ritz Theatre, supporting arts education - The Anniston Star",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYlE5RTU4d2ZvMXFSdWJMMHpWN1hobkpIZzJ2SjdMaTdubFdSaWZ2d00xbjR4UFljYzlTaDFvQVF6RGFDY0RTWjZ1eVZBVHpyc1h5anlkcU9DTkFURno3cHU2VVVJWU4zRWZ1b1F5NE1qU1V5dFJ4OVBWNEtnSjF2LWJCVFRIaUJpaWtDUkg0eUVvWXc3Y3FMUmV6QlZKTkU2SEQzd1RaeDh3Njk3dlBkbzJ3VDdWRGdqTEVhcXVrb3RFMHl1dTNIblhjblZsTzE0bTJjcXBuY1hCeC05UGtqQTZLSm9XaXhzc3RRckRhNHFRZ2hmZlR0cjMyY0pqbk9ELXZ0NW04bw?oc=5",
         "domain": "news.google.com",
-        "source": "WVTM Channel 13",
+        "source": "The Anniston Star",
         "language": "English",
-        "published_at": "2026-09-23T21:43:00+00:00",
-        "summary": "Calera property owner wins temporary court order blocking Alabama Power crews WVTM Channel 13",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDRrM0tIY1dEMXJCNzhEanRXbVRwT3FfdzgxeDVaYm1IV3RDMk5WX0FvaFVKVERwVTlCeVJGclBkT2NMUjlsemhVUlh6aVpMOEtReEYyVUZBM1l5MTN1dHprc2pLdXVDWjBBLTd5TkRtNlNLdGh6OFBWeWNKb1d6WjJSeXJiZk40TVpWS2lsWWgyX0M5NGFOd0pVQXdCQ3p5UG1leHlULVJGTDJXWUNz?oc=5\" target=\"_blank\">Calera property owner wins temporary court order blocking Alabama Power crews</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM Channel 13</font>",
+        "published_at": "2026-09-25T19:41:00+00:00",
+        "summary": "Alabama Power Foundation donates to Ritz Theatre, supporting arts education The Anniston Star",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPYlE5RTU4d2ZvMXFSdWJMMHpWN1hobkpIZzJ2SjdMaTdubFdSaWZ2d00xbjR4UFljYzlTaDFvQVF6RGFDY0RTWjZ1eVZBVHpyc1h5anlkcU9DTkFURno3cHU2VVVJWU4zRWZ1b1F5NE1qU1V5dFJ4OVBWNEtnSjF2LWJCVFRIaUJpaWtDUkg0eUVvWXc3Y3FMUmV6QlZKTkU2SEQzd1RaeDh3Njk3dlBkbzJ3VDdWRGdqTEVhcXVrb3RFMHl1dTNIblhjblZsTzE0bTJjcXBuY1hCeC05UGtqQTZLSm9XaXhzc3RRckRhNHFRZ2hmZlR0cjMyY0pqbk9ELXZ0NW04bw?oc=5\" target=\"_blank\">Alabama Power Foundation donates to Ritz Theatre, supporting arts education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Anniston Star</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-23T22:36:44+00:00"
+        "collected_at": "2026-09-25T23:00:01+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 809,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "b34723e7980922f9",
         "title": "‘There was just zapping things.’ Georgia Power equipment failure left woman out $2k - WSB-TV",
