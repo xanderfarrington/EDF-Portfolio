@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-26T08:58:42+00:00",
+  "last_updated": "2026-09-26T13:59:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 417,
+  "count": 419,
   "mentions": [
     {
       "id": "c5016e3d6f41fad8",
@@ -75,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-25T19:45:18+00:00"
+    },
+    {
+      "id": "a57068423679b7f0",
+      "title": "Alabama’s power bills, among the nation’s highest, spark intense debate as election nears - al.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHJOTWlKeWZHRHU0T3NSMkIxY1JLSTQyRUVINFE5ODgxeVI3a0RmVTBadWd5NVdsVjFqRC16Y3hxb29vak04QlkzZWJuanF1bEhMRzRYU0NtQWVWbEVVOW9WOE56MHpRaUFRelktOFdKT25jYkpkdTlLajVkanZSYXo4YWtNS2NqaThsY1FZV25sVkpnS092TzdHSmhwLVZqLW9vRnBKMG5zcWZYM1BwWEZ1b0dBaHJPWmt1SVMyRdIB0wFBVV95cUxPWFZrVk9ObTBpbWliWGJ3LXl4ZkkxLXAtSnI4Qi12T1ozeXdZcEJMTFdMRTRjcHEzRnQteDZuS21VX0lnX0FJeHg0MzAwUVJVVThRNEsxNWFsX1lyY09IOG9mS01GZFpITlFEWGNtOHE3Yk1TbWZxTk1SdE9NYjIxZ3NTR01ReEx0cFdDYi1hWlR1STdIQW84dTlKelZHel9RUzVyYmVmYmhOUHhzSzFLNGVIZ1dBaWI2b0pnQU02X3ZvbUFiNW9ZMGJwMVRET1lOc3R3?oc=5",
+      "domain": "news.google.com",
+      "source": "al.com",
+      "language": "English",
+      "published_at": "2026-09-23T16:29:00+00:00",
+      "summary": "Alabama’s power bills, among the nation’s highest, spark intense debate as election nears al.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHJOTWlKeWZHRHU0T3NSMkIxY1JLSTQyRUVINFE5ODgxeVI3a0RmVTBadWd5NVdsVjFqRC16Y3hxb29vak04QlkzZWJuanF1bEhMRzRYU0NtQWVWbEVVOW9WOE56MHpRaUFRelktOFdKT25jYkpkdTlLajVkanZSYXo4YWtNS2NqaThsY1FZV25sVkpnS092TzdHSmhwLVZqLW9vRnBKMG5zcWZYM1BwWEZ1b0dBaHJPWmt1SVMyRdIB0wFBVV95cUxPWFZrVk9ObTBpbWliWGJ3LXl4ZkkxLXAtSnI4Qi12T1ozeXdZcEJMTFdMRTRjcHEzRnQteDZuS21VX0lnX0FJeHg0MzAwUVJVVThRNEsxNWFsX1lyY09IOG9mS01GZFpITlFEWGNtOHE3Yk1TbWZxTk1SdE9NYjIxZ3NTR01ReEx0cFdDYi1hWlR1STdIQW84dTlKelZHel9RUzVyYmVmYmhOUHhzSzFLNGVIZ1dBaWI2b0pnQU02X3ZvbUFiNW9ZMGJwMVRET1lOc3R3?oc=5\" target=\"_blank\">Alabama’s power bills, among the nation’s highest, spark intense debate as election nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-26T13:59:42+00:00"
     },
     {
       "id": "ef2bb00da1333154",
@@ -159,6 +173,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-23T03:17:35+00:00"
+    },
+    {
+      "id": "781b2468a4db752b",
+      "title": "Shelby County man calls court ruling against Alabama Power a ‘huge battle won’ - al.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZTR5Z2F5aUo3bjAzYU9NQmxEbXdBRVNIWG1MakdFTGNGRWFHYkhQLS1TSEp1aUxBY1FuV1FIVnB0NmZXcmZmU09FQUZnTTFzOHdGTGt6Wk9JZVY0OTY0LWZSa3hMY0VtVkxiR1VkaGU0clhuLVNJQ3RvTXZBaENsN2diNzdiNWFxMDRNaGd4ZTFMb0lFSFdpZDNMaTRRU0p0M0hPVFA1VFdwekQxQkVPVzBfONIBxwFBVV95cUxPSmdWdkFGckE3VmxlbEkxdkFyeWh0TlFRQWJyR0hxUlQ0VVpvSzJXSzltT01jdFdOUVJfdlBqSGRDY2Y1REZyUS10OEY3RXBqTk5BOU8wbnZDc20tQTloZVVjOXdMUkFyNEt4aFowU09XZExmRTZaRmVaaG04dUJmRkdYamxoS09PaVJ5SFdsS1E1Vk4yTlBxNmhpbi1FakVPTUlUajVCdVY5amxHendzQWdDQ0xHdVJyUk9ZZktpNHBPNEhhc1lV?oc=5",
+      "domain": "news.google.com",
+      "source": "al.com",
+      "language": "English",
+      "published_at": "2026-09-22T21:57:00+00:00",
+      "summary": "Shelby County man calls court ruling against Alabama Power a ‘huge battle won’ al.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZTR5Z2F5aUo3bjAzYU9NQmxEbXdBRVNIWG1MakdFTGNGRWFHYkhQLS1TSEp1aUxBY1FuV1FIVnB0NmZXcmZmU09FQUZnTTFzOHdGTGt6Wk9JZVY0OTY0LWZSa3hMY0VtVkxiR1VkaGU0clhuLVNJQ3RvTXZBaENsN2diNzdiNWFxMDRNaGd4ZTFMb0lFSFdpZDNMaTRRU0p0M0hPVFA1VFdwekQxQkVPVzBfONIBxwFBVV95cUxPSmdWdkFGckE3VmxlbEkxdkFyeWh0TlFRQWJyR0hxUlQ0VVpvSzJXSzltT01jdFdOUVJfdlBqSGRDY2Y1REZyUS10OEY3RXBqTk5BOU8wbnZDc20tQTloZVVjOXdMUkFyNEt4aFowU09XZExmRTZaRmVaaG04dUJmRkdYamxoS09PaVJ5SFdsS1E1Vk4yTlBxNmhpbi1FakVPTUlUajVCdVY5amxHendzQWdDQ0xHdVJyUk9ZZktpNHBPNEhhc1lV?oc=5\" target=\"_blank\">Shelby County man calls court ruling against Alabama Power a ‘huge battle won’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-26T13:59:42+00:00"
     },
     {
       "id": "8cf8b669bcb9ba80",
