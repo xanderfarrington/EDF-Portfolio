@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-26T13:59:42+00:00",
+  "last_updated": "2026-09-26T17:41:03+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 419,
+  "count": 420,
   "mentions": [
     {
       "id": "c5016e3d6f41fad8",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-25T23:00:01+00:00"
+    },
+    {
+      "id": "0dc9ce9b3feadcd7",
+      "title": "Alabama Power Foundation donates to Ritz Theatre, supporting arts education - annistonstar.com",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYlE5RTU4d2ZvMXFSdWJMMHpWN1hobkpIZzJ2SjdMaTdubFdSaWZ2d00xbjR4UFljYzlTaDFvQVF6RGFDY0RTWjZ1eVZBVHpyc1h5anlkcU9DTkFURno3cHU2VVVJWU4zRWZ1b1F5NE1qU1V5dFJ4OVBWNEtnSjF2LWJCVFRIaUJpaWtDUkg0eUVvWXc3Y3FMUmV6QlZKTkU2SEQzd1RaeDh3Njk3dlBkbzJ3VDdWRGdqTEVhcXVrb3RFMHl1dTNIblhjblZsTzE0bTJjcXBuY1hCeC05UGtqQTZLSm9XaXhzc3RRckRhNHFRZ2hmZlR0cjMyY0pqbk9ELXZ0NW04bw?oc=5",
+      "domain": "news.google.com",
+      "source": "annistonstar.com",
+      "language": "English",
+      "published_at": "2026-09-25T19:41:00+00:00",
+      "summary": "Alabama Power Foundation donates to Ritz Theatre, supporting arts education annistonstar.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPYlE5RTU4d2ZvMXFSdWJMMHpWN1hobkpIZzJ2SjdMaTdubFdSaWZ2d00xbjR4UFljYzlTaDFvQVF6RGFDY0RTWjZ1eVZBVHpyc1h5anlkcU9DTkFURno3cHU2VVVJWU4zRWZ1b1F5NE1qU1V5dFJ4OVBWNEtnSjF2LWJCVFRIaUJpaWtDUkg0eUVvWXc3Y3FMUmV6QlZKTkU2SEQzd1RaeDh3Njk3dlBkbzJ3VDdWRGdqTEVhcXVrb3RFMHl1dTNIblhjblZsTzE0bTJjcXBuY1hCeC05UGtqQTZLSm9XaXhzc3RRckRhNHFRZ2hmZlR0cjMyY0pqbk9ELXZ0NW04bw?oc=5\" target=\"_blank\">Alabama Power Foundation donates to Ritz Theatre, supporting arts education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">annistonstar.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-26T17:41:03+00:00"
     },
     {
       "id": "df904251caaa534d",
