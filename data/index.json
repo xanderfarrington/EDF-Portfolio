@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T13:28:33+00:00",
+  "last_updated": "2026-09-27T18:01:23+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 420,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "c5016e3d6f41fad8",
         "title": "Alabama Power Foundation donates to Ritz Theatre, supporting arts education - The Anniston Star",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 814,
+      "count": 815,
       "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "9052fd2316ac38c0",

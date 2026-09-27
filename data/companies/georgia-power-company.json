@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-27T13:28:22+00:00",
+  "last_updated": "2026-09-27T18:01:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 814,
+  "count": 815,
   "mentions": [
     {
       "id": "9052fd2316ac38c0",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-27T13:28:22+00:00"
+    },
+    {
+      "id": "078b87e3b188b3b6",
+      "title": "Georgia emissions could rise after EPA rule repeal - Savannah Morning News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObzBRNTMzVUhJX3J4bm5xajN4U0h0eF9pbTVvTzBtR1NfRUVZNDVKeUxFRmRjSFZzZWxZRkFvMi1iTWg3NzdqU3k3bHZIYjl4UlhjYy11c1RqOEo0MndNQTdIMHVjRTlHeXgxT3ZvZS1kOThsQWNNdHctRXdHblRJOG9rZW5Td2gydGxZLTZmOTREZGstV0RsUEh3dlZnTzZOMkhoR0k2b2k4aU5kNGNTY2sxVmxEME9G?oc=5",
+      "domain": "news.google.com",
+      "source": "Savannah Morning News",
+      "language": "English",
+      "published_at": "2026-09-27T09:03:00+00:00",
+      "summary": "Georgia emissions could rise after EPA rule repeal Savannah Morning News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxObzBRNTMzVUhJX3J4bm5xajN4U0h0eF9pbTVvTzBtR1NfRUVZNDVKeUxFRmRjSFZzZWxZRkFvMi1iTWg3NzdqU3k3bHZIYjl4UlhjYy11c1RqOEo0MndNQTdIMHVjRTlHeXgxT3ZvZS1kOThsQWNNdHctRXdHblRJOG9rZW5Td2gydGxZLTZmOTREZGstV0RsUEh3dlZnTzZOMkhoR0k2b2k4aU5kNGNTY2sxVmxEME9G?oc=5\" target=\"_blank\">Georgia emissions could rise after EPA rule repeal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-27T18:01:12+00:00"
     },
     {
       "id": "846295705ca0fce2",
