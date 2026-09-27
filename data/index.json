@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T18:01:23+00:00",
+  "last_updated": "2026-09-27T22:45:26+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 815,
-      "new_mentions_this_run": 24,
+      "count": 816,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "9052fd2316ac38c0",
-        "title": "Georgia emissions could rise after EPA rule repeal - The State",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PakZZMjU0b1pBeF9sTHlmZlZHdERnOXFLZ3VSaW84bFNEUDFCOUtjUVNhYmM2a3l6UHlyc3NiVC14XzRuS1Y0LVJxd0VGVnBpeUJZYllHSnprdnhfdVNBNw?oc=5",
+        "id": "c8f095bf36f79ef9",
+        "title": "Georgia Power receives approval for 1,137 MW of new solar power purchase agreements through CARES program - Grice Connect",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVEp5cEE0VHppM1FGNjlBaEJFaE9JVDdjeFdFSzhrdm44cDRUUl81T0ZvLWVubzBndnBjeVlCME8tTmczaFpGMWpjS1Q5Z2ktV1JUWDFUSnctVlVEdEpqUU5uclJOdUE2Z0gyc3dJWkpHTVhpT3RWZnBPd0NkV3hCNHVXZEFiMThiZFFBNHByOXc4NGplaU5ydnV3RFFOY01Fd2RkNlZWb0xRY1Y2WkVkQXoySFVpLWxTUmpkNXU3eDd4WmMxNkVKcXRXaGdIVlMxRlJZdDd2VldkWDNEeEt3aXd6WEVJZGlq?oc=5",
         "domain": "news.google.com",
-        "source": "The State",
+        "source": "Grice Connect",
         "language": "English",
-        "published_at": "2026-09-27T09:03:00+00:00",
-        "summary": "Georgia emissions could rise after EPA rule repeal The State",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PakZZMjU0b1pBeF9sTHlmZlZHdERnOXFLZ3VSaW84bFNEUDFCOUtjUVNhYmM2a3l6UHlyc3NiVC14XzRuS1Y0LVJxd0VGVnBpeUJZYllHSnprdnhfdVNBNw?oc=5\" target=\"_blank\">Georgia emissions could rise after EPA rule repeal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The State</font>",
+        "published_at": "2026-09-27T18:33:00+00:00",
+        "summary": "Georgia Power receives approval for 1,137 MW of new solar power purchase agreements through CARES program Grice Connect",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVEp5cEE0VHppM1FGNjlBaEJFaE9JVDdjeFdFSzhrdm44cDRUUl81T0ZvLWVubzBndnBjeVlCME8tTmczaFpGMWpjS1Q5Z2ktV1JUWDFUSnctVlVEdEpqUU5uclJOdUE2Z0gyc3dJWkpHTVhpT3RWZnBPd0NkV3hCNHVXZEFiMThiZFFBNHByOXc4NGplaU5ydnV3RFFOY01Fd2RkNlZWb0xRY1Y2WkVkQXoySFVpLWxTUmpkNXU3eDd4WmMxNkVKcXRXaGdIVlMxRlJZdDd2VldkWDNEeEt3aXd6WEVJZGlq?oc=5\" target=\"_blank\">Georgia Power receives approval for 1,137 MW of new solar power purchase agreements through CARES program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-27T13:28:22+00:00"
+        "collected_at": "2026-09-27T22:45:15+00:00"
       }
     },
     {
