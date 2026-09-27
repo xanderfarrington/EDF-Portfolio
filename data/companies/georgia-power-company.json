@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-27T07:27:35+00:00",
+  "last_updated": "2026-09-27T13:28:22+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 811,
+  "count": 814,
   "mentions": [
+    {
+      "id": "9052fd2316ac38c0",
+      "title": "Georgia emissions could rise after EPA rule repeal - The State",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PakZZMjU0b1pBeF9sTHlmZlZHdERnOXFLZ3VSaW84bFNEUDFCOUtjUVNhYmM2a3l6UHlyc3NiVC14XzRuS1Y0LVJxd0VGVnBpeUJZYllHSnprdnhfdVNBNw?oc=5",
+      "domain": "news.google.com",
+      "source": "The State",
+      "language": "English",
+      "published_at": "2026-09-27T09:03:00+00:00",
+      "summary": "Georgia emissions could rise after EPA rule repeal The State",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PakZZMjU0b1pBeF9sTHlmZlZHdERnOXFLZ3VSaW84bFNEUDFCOUtjUVNhYmM2a3l6UHlyc3NiVC14XzRuS1Y0LVJxd0VGVnBpeUJZYllHSnprdnhfdVNBNw?oc=5\" target=\"_blank\">Georgia emissions could rise after EPA rule repeal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The State</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-27T13:28:22+00:00"
+    },
     {
       "id": "846295705ca0fce2",
       "title": "Southwire, Georgia Power and The Ray Unveil Native Habitat Initiative Along Energy Rights-of-Way in Carrollton, Ga - CSRwire",
@@ -623,6 +637,20 @@
       "collected_at": "2026-09-23T08:59:38+00:00"
     },
     {
+      "id": "ead91b37522666d3",
+      "title": "Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants - datacenterdynamics.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWpJMEFNUWp0S2cxYmJvYTZnRFJpVHdaeVRWdlE3UEQzZG1LVmw3WWlHeU9VVi1EU3RtQkROTXJBdTFqd2lvQWlyNkZ0ZkJYaHBSckxGYUExY201bGtuUFNTSUloNzk3eHVaRG5qbzdDa1Rad0RZdGhZeUtSaFNhVHFtS3ZMalZEVUo5WHBrM3NKWjU5Mks4YjhDSnotWDhJc3RWR3p0QW1RVjlfRElXUFlsLUROMXZJNGVSanNLeXBoZEwwYU8weA?oc=5",
+      "domain": "news.google.com",
+      "source": "datacenterdynamics.com",
+      "language": "English",
+      "published_at": "2026-09-22T11:33:20+00:00",
+      "summary": "Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants datacenterdynamics.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWpJMEFNUWp0S2cxYmJvYTZnRFJpVHdaeVRWdlE3UEQzZG1LVmw3WWlHeU9VVi1EU3RtQkROTXJBdTFqd2lvQWlyNkZ0ZkJYaHBSckxGYUExY201bGtuUFNTSUloNzk3eHVaRG5qbzdDa1Rad0RZdGhZeUtSaFNhVHFtS3ZMalZEVUo5WHBrM3NKWjU5Mks4YjhDSnotWDhJc3RWR3p0QW1RVjlfRElXUFlsLUROMXZJNGVSanNLeXBoZEwwYU8weA?oc=5\" target=\"_blank\">Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">datacenterdynamics.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-27T13:28:22+00:00"
+    },
+    {
       "id": "bb7db6332786e072",
       "title": "Georgia Power nuclear reactors to get huge face-lift, paid partly by Google - ajc.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHU5OXV3Vl8zV0FjR1hnWXpqV0NIZXpHLU5ZRjloZFZzNmhjbjRPcXZ6RzNsSy0zUUNMYUVFVVdpd3J0dzQwYmV5UFE5cEE0V0M2N2IzSExPX29vdFh1cEM3UnN0aWhialphLWVtOE4wRWI2RHZqM29PUzRkdlVkQzB2TkhfUElObVZ4Tk5CNFZ2MThETUx2elBtRnpaT1RrdE5vUWJQS3o4czVwdmZQZ1pETWpTbGJSWk5UMXpRdw?oc=5",
@@ -915,6 +943,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-22T00:29:35+00:00"
+    },
+    {
+      "id": "2ee9fb78dbb5baf4",
+      "title": "Southern Co unit signs deal with Google to add nuclear capacity - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUl1Q3lBdk5XNTJaUl9zUkR5bms4cFBTN3R0cEFiUm5tUXVyVEp4NkF3YVVMWk9WSFBmcW5mVnIxMGU2Ry02UWw2ZUlLMjB0NWZEMVBxb2h4clpxZEVZOEd4S1h3dGlVQW9MNkNBTHJzcGJvVjRsWXZ4NDhwZFFKdTdBNTlwNlh5aDdrWHF3azRtNnJYSGI4bG9HWHY0ZldETU5wMzR5Q3dubEZ3YzhabUdLNA?oc=5",
+      "domain": "news.google.com",
+      "source": "reuters.com",
+      "language": "English",
+      "published_at": "2026-09-21T21:48:03+00:00",
+      "summary": "Southern Co unit signs deal with Google to add nuclear capacity reuters.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUl1Q3lBdk5XNTJaUl9zUkR5bms4cFBTN3R0cEFiUm5tUXVyVEp4NkF3YVVMWk9WSFBmcW5mVnIxMGU2Ry02UWw2ZUlLMjB0NWZEMVBxb2h4clpxZEVZOEd4S1h3dGlVQW9MNkNBTHJzcGJvVjRsWXZ4NDhwZFFKdTdBNTlwNlh5aDdrWHF3azRtNnJYSGI4bG9HWHY0ZldETU5wMzR5Q3dubEZ3YzhabUdLNA?oc=5\" target=\"_blank\">Southern Co unit signs deal with Google to add nuclear capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-27T13:28:22+00:00"
     },
     {
       "id": "ea3dc4865fc57714",
