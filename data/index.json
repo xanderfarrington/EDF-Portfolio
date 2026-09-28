@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-28T10:24:23+00:00",
+  "last_updated": "2026-09-28T19:06:08+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 107,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "f4450944f0af16bb",
         "title": "American Electric Power stock at USD 118.35 on September 25, 2026 - AD HOC NEWS",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 817,
-      "new_mentions_this_run": 24,
+      "count": 818,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "c8f095bf36f79ef9",
-        "title": "Georgia Power receives approval for 1,137 MW of new solar power purchase agreements through CARES program - Grice Connect",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVEp5cEE0VHppM1FGNjlBaEJFaE9JVDdjeFdFSzhrdm44cDRUUl81T0ZvLWVubzBndnBjeVlCME8tTmczaFpGMWpjS1Q5Z2ktV1JUWDFUSnctVlVEdEpqUU5uclJOdUE2Z0gyc3dJWkpHTVhpT3RWZnBPd0NkV3hCNHVXZEFiMThiZFFBNHByOXc4NGplaU5ydnV3RFFOY01Fd2RkNlZWb0xRY1Y2WkVkQXoySFVpLWxTUmpkNXU3eDd4WmMxNkVKcXRXaGdIVlMxRlJZdDd2VldkWDNEeEt3aXd6WEVJZGlq?oc=5",
+        "id": "5ab2a11788f7abfa",
+        "title": "Georgia Power, Google announce deal to pay for nuclear upgrades - Times-Georgian",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLWI2RDBtcHlmNWtoWm5SSWtDNTFZMDhHTzhEaWpJOWt6bzhnS2I1eFFyYWxQRkxDWUppdDdkeExVRXNWSE1Fa3d2amlscWRQcnhLRkRvSy1ramVsWWx0Vkoyd2ZJOG8xY0NhaTh0RnhKZkJWR3drckFla3gtd0NweDJhaGY4a0VscWI4WDY4blJPWDZSNnQwYXNNMnNHNGEyMVlOZlFFeTNldFpqeS15WkRBUXg4NzAwbWJfOWU1dFQ5SlRIUG5sZ0lGRWR2M3R1LUd2UHdvYWMzdnJhcjVxbkJLTVpnTjk0Mmc?oc=5",
         "domain": "news.google.com",
-        "source": "Grice Connect",
+        "source": "Times-Georgian",
         "language": "English",
-        "published_at": "2026-09-27T18:33:00+00:00",
-        "summary": "Georgia Power receives approval for 1,137 MW of new solar power purchase agreements through CARES program Grice Connect",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVEp5cEE0VHppM1FGNjlBaEJFaE9JVDdjeFdFSzhrdm44cDRUUl81T0ZvLWVubzBndnBjeVlCME8tTmczaFpGMWpjS1Q5Z2ktV1JUWDFUSnctVlVEdEpqUU5uclJOdUE2Z0gyc3dJWkpHTVhpT3RWZnBPd0NkV3hCNHVXZEFiMThiZFFBNHByOXc4NGplaU5ydnV3RFFOY01Fd2RkNlZWb0xRY1Y2WkVkQXoySFVpLWxTUmpkNXU3eDd4WmMxNkVKcXRXaGdIVlMxRlJZdDd2VldkWDNEeEt3aXd6WEVJZGlq?oc=5\" target=\"_blank\">Georgia Power receives approval for 1,137 MW of new solar power purchase agreements through CARES program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+        "published_at": "2026-09-28T16:01:00+00:00",
+        "summary": "Georgia Power, Google announce deal to pay for nuclear upgrades Times-Georgian",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLWI2RDBtcHlmNWtoWm5SSWtDNTFZMDhHTzhEaWpJOWt6bzhnS2I1eFFyYWxQRkxDWUppdDdkeExVRXNWSE1Fa3d2amlscWRQcnhLRkRvSy1ramVsWWx0Vkoyd2ZJOG8xY0NhaTh0RnhKZkJWR3drckFla3gtd0NweDJhaGY4a0VscWI4WDY4blJPWDZSNnQwYXNNMnNHNGEyMVlOZlFFeTNldFpqeS15WkRBUXg4NzAwbWJfOWU1dFQ5SlRIUG5sZ0lGRWR2M3R1LUd2UHdvYWMzdnJhcjVxbkJLTVpnTjk0Mmc?oc=5\" target=\"_blank\">Georgia Power, Google announce deal to pay for nuclear upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times-Georgian</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-27T22:45:15+00:00"
+        "collected_at": "2026-09-28T19:05:57+00:00"
       }
     },
     {

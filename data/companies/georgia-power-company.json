@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-28T10:24:12+00:00",
+  "last_updated": "2026-09-28T19:05:57+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 817,
+  "count": 818,
   "mentions": [
+    {
+      "id": "5ab2a11788f7abfa",
+      "title": "Georgia Power, Google announce deal to pay for nuclear upgrades - Times-Georgian",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLWI2RDBtcHlmNWtoWm5SSWtDNTFZMDhHTzhEaWpJOWt6bzhnS2I1eFFyYWxQRkxDWUppdDdkeExVRXNWSE1Fa3d2amlscWRQcnhLRkRvSy1ramVsWWx0Vkoyd2ZJOG8xY0NhaTh0RnhKZkJWR3drckFla3gtd0NweDJhaGY4a0VscWI4WDY4blJPWDZSNnQwYXNNMnNHNGEyMVlOZlFFeTNldFpqeS15WkRBUXg4NzAwbWJfOWU1dFQ5SlRIUG5sZ0lGRWR2M3R1LUd2UHdvYWMzdnJhcjVxbkJLTVpnTjk0Mmc?oc=5",
+      "domain": "news.google.com",
+      "source": "Times-Georgian",
+      "language": "English",
+      "published_at": "2026-09-28T16:01:00+00:00",
+      "summary": "Georgia Power, Google announce deal to pay for nuclear upgrades Times-Georgian",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLWI2RDBtcHlmNWtoWm5SSWtDNTFZMDhHTzhEaWpJOWt6bzhnS2I1eFFyYWxQRkxDWUppdDdkeExVRXNWSE1Fa3d2amlscWRQcnhLRkRvSy1ramVsWWx0Vkoyd2ZJOG8xY0NhaTh0RnhKZkJWR3drckFla3gtd0NweDJhaGY4a0VscWI4WDY4blJPWDZSNnQwYXNNMnNHNGEyMVlOZlFFeTNldFpqeS15WkRBUXg4NzAwbWJfOWU1dFQ5SlRIUG5sZ0lGRWR2M3R1LUd2UHdvYWMzdnJhcjVxbkJLTVpnTjk0Mmc?oc=5\" target=\"_blank\">Georgia Power, Google announce deal to pay for nuclear upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times-Georgian</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-28T19:05:57+00:00"
+    },
     {
       "id": "c8f095bf36f79ef9",
       "title": "Georgia Power receives approval for 1,137 MW of new solar power purchase agreements through CARES program - Grice Connect",
