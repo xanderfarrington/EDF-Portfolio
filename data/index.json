@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-27T22:45:26+00:00",
+  "last_updated": "2026-09-28T03:03:01+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 107,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "f4450944f0af16bb",
         "title": "American Electric Power stock at USD 118.35 on September 25, 2026 - AD HOC NEWS",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 420,
+      "count": 421,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "c5016e3d6f41fad8",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 816,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "c8f095bf36f79ef9",
         "title": "Georgia Power receives approval for 1,137 MW of new solar power purchase agreements through CARES program - Grice Connect",
