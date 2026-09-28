@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-28T03:02:51+00:00",
+  "last_updated": "2026-09-28T10:24:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 816,
+  "count": 817,
   "mentions": [
     {
       "id": "c8f095bf36f79ef9",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-27T22:45:15+00:00"
+    },
+    {
+      "id": "3b77e012734601c0",
+      "title": "Google, Georgia Power announce partnership to uprate plants - ans.org",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWTRhRjhaZVQ0RTVfYTZIQ2tJMFFvTDljRDBTMTBtbXVPc094c09IcVVpeWhrRTVwWVoyS3cwdDRlbjVsZ3NwTmZSZXd3Yy1DMXpZTzJXSDNCaWJwQl9hZ3hocEc1QWE2VS05WV90S3NlZzIwbVg1RGZ0cmZGVWpod1lFRjAyR1VkaE95VllHTFFDVG5KODB0ZXFMQ0RaUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "ans.org",
+      "language": "English",
+      "published_at": "2026-09-27T10:53:39+00:00",
+      "summary": "Google, Georgia Power announce partnership to uprate plants ans.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPWTRhRjhaZVQ0RTVfYTZIQ2tJMFFvTDljRDBTMTBtbXVPc094c09IcVVpeWhrRTVwWVoyS3cwdDRlbjVsZ3NwTmZSZXd3Yy1DMXpZTzJXSDNCaWJwQl9hZ3hocEc1QWE2VS05WV90S3NlZzIwbVg1RGZ0cmZGVWpod1lFRjAyR1VkaE95VllHTFFDVG5KODB0ZXFMQ0RaUQ?oc=5\" target=\"_blank\">Google, Georgia Power announce partnership to uprate plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ans.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-28T10:24:12+00:00"
     },
     {
       "id": "9052fd2316ac38c0",
