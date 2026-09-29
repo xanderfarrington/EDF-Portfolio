@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-09-29T14:31:09+00:00",
+  "last_updated": "2026-09-29T20:23:13+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 102,
+  "count": 103,
   "mentions": [
+    {
+      "id": "35b2735a6c611205",
+      "title": "Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjFEVHNOc2hGYk13U0tqSG14UjgwRjkxTF9zVTdaOWZIVVFrY2o1b3FkNk5rN2ZIaHBwMlYxOUd2S0xjZ2RxQWJrcWdJcXlnUHpTNE9zdXdHckJuV2JfR0xWRnB6akw3QTdmOFE2UDZVNHpvRE9jcHhrVkt2UHhNT2Q3WXlVdGJyQV9aUHJYR3MxYmIwLTF6b0RiRkVaQ0hrb1FaQWlNV1hDVUxsLVo0YzVYbks?oc=5",
+      "domain": "news.google.com",
+      "source": "Kalkine Media",
+      "language": "English",
+      "published_at": "2026-09-29T16:02:00+00:00",
+      "summary": "Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand Kalkine Media",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjFEVHNOc2hGYk13U0tqSG14UjgwRjkxTF9zVTdaOWZIVVFrY2o1b3FkNk5rN2ZIaHBwMlYxOUd2S0xjZ2RxQWJrcWdJcXlnUHpTNE9zdXdHckJuV2JfR0xWRnB6akw3QTdmOFE2UDZVNHpvRE9jcHhrVkt2UHhNT2Q3WXlVdGJyQV9aUHJYR3MxYmIwLTF6b0RiRkVaQ0hrb1FaQWlNV1hDVUxsLVo0YzVYbks?oc=5\" target=\"_blank\">Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-29T20:23:13+00:00"
+    },
     {
       "id": "ff764eecb5496361",
       "title": "NRC completes environmental review of Crane restart - World Nuclear News",

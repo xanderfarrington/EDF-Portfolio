@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-29T14:31:25+00:00",
+  "last_updated": "2026-09-29T20:23:29+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 107,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "f4450944f0af16bb",
         "title": "American Electric Power stock at USD 118.35 on September 25, 2026 - AD HOC NEWS",
@@ -68,21 +68,21 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 102,
-      "new_mentions_this_run": 2,
+      "count": 103,
+      "new_mentions_this_run": 3,
       "latest_mention": {
-        "id": "ff764eecb5496361",
-        "title": "NRC completes environmental review of Crane restart - World Nuclear News",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlpmNlNzUndLcjNZLWEtYWV6VnNGNk5xT19WTDVBUU14Q2pfdDlDYWJodl90YXgyX1dmb050RzRSRVNBZ1o4SjNoNTRHWmVsZ2ZRcDNqTTRheXpEZ0xSbi1vOUliT1BBTC1LeDBiR2R5Z2NmZ0szbDFvbk51aUxCQUxlSDAtNVVKbjZRTnRVV1dPajVyUV9ybzRPYw?oc=5",
+        "id": "35b2735a6c611205",
+        "title": "Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjFEVHNOc2hGYk13U0tqSG14UjgwRjkxTF9zVTdaOWZIVVFrY2o1b3FkNk5rN2ZIaHBwMlYxOUd2S0xjZ2RxQWJrcWdJcXlnUHpTNE9zdXdHckJuV2JfR0xWRnB6akw3QTdmOFE2UDZVNHpvRE9jcHhrVkt2UHhNT2Q3WXlVdGJyQV9aUHJYR3MxYmIwLTF6b0RiRkVaQ0hrb1FaQWlNV1hDVUxsLVo0YzVYbks?oc=5",
         "domain": "news.google.com",
-        "source": "World Nuclear News",
+        "source": "Kalkine Media",
         "language": "English",
-        "published_at": "2026-09-28T18:47:05+00:00",
-        "summary": "NRC completes environmental review of Crane restart World Nuclear News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlpmNlNzUndLcjNZLWEtYWV6VnNGNk5xT19WTDVBUU14Q2pfdDlDYWJodl90YXgyX1dmb050RzRSRVNBZ1o4SjNoNTRHWmVsZ2ZRcDNqTTRheXpEZ0xSbi1vOUliT1BBTC1LeDBiR2R5Z2NmZ0szbDFvbk51aUxCQUxlSDAtNVVKbjZRTnRVV1dPajVyUV9ybzRPYw?oc=5\" target=\"_blank\">NRC completes environmental review of Crane restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Nuclear News</font>",
+        "published_at": "2026-09-29T16:02:00+00:00",
+        "summary": "Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand Kalkine Media",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjFEVHNOc2hGYk13U0tqSG14UjgwRjkxTF9zVTdaOWZIVVFrY2o1b3FkNk5rN2ZIaHBwMlYxOUd2S0xjZ2RxQWJrcWdJcXlnUHpTNE9zdXdHckJuV2JfR0xWRnB6akw3QTdmOFE2UDZVNHpvRE9jcHhrVkt2UHhNT2Q3WXlVdGJyQV9aUHJYR3MxYmIwLTF6b0RiRkVaQ0hrb1FaQWlNV1hDVUxsLVo0YzVYbks?oc=5\" target=\"_blank\">Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-29T00:07:00+00:00"
+        "collected_at": "2026-09-29T20:23:13+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 822,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "5ab2a11788f7abfa",
         "title": "Georgia Power, Google announce deal to pay for nuclear upgrades - Times-Georgian",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 61,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "62da534190e29cd2",
         "title": "Iowa is leading America's nuclear power comeback | Opinion - The Des Moines Register",
