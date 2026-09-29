@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-28T19:05:41+00:00",
+  "last_updated": "2026-09-29T00:06:49+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 421,
+  "count": 422,
   "mentions": [
+    {
+      "id": "15a7939f895192c0",
+      "title": "Alabama Power Leaders Meet Some of Tuskegee’s Best and Brightest - Tuskegee University",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT25jSUZSenByaUxERGJkaGhrMnVtUW4wQ0FfOWRUVG5BQ2Nhc194S1R3OEloMGZfMTVHZ0xsUkZfYkZ0WUUxa3BnTFdrQjBEd1M3aFdFeExYMktfb1FhYlRRUElFNDVOcnQ4aGVwRzl3amlWYVZfdzZEYTZZMzNaQ19EU2ktOUs3TnRWcnlvVllJZ19fdDZudW9wZ3NPNi05cWlkUw?oc=5",
+      "domain": "news.google.com",
+      "source": "Tuskegee University",
+      "language": "English",
+      "published_at": "2026-09-28T21:25:50+00:00",
+      "summary": "Alabama Power Leaders Meet Some of Tuskegee’s Best and Brightest Tuskegee University",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOT25jSUZSenByaUxERGJkaGhrMnVtUW4wQ0FfOWRUVG5BQ2Nhc194S1R3OEloMGZfMTVHZ0xsUkZfYkZ0WUUxa3BnTFdrQjBEd1M3aFdFeExYMktfb1FhYlRRUElFNDVOcnQ4aGVwRzl3amlWYVZfdzZEYTZZMzNaQ19EU2ktOUs3TnRWcnlvVllJZ19fdDZudW9wZ3NPNi05cWlkUw?oc=5\" target=\"_blank\">Alabama Power Leaders Meet Some of Tuskegee’s Best and Brightest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tuskegee University</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-29T00:06:49+00:00"
+    },
     {
       "id": "c5016e3d6f41fad8",
       "title": "Alabama Power Foundation donates to Ritz Theatre, supporting arts education - The Anniston Star",

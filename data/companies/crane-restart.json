@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-09-28T19:05:52+00:00",
+  "last_updated": "2026-09-29T00:07:00+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 101,
+  "count": 102,
   "mentions": [
+    {
+      "id": "ff764eecb5496361",
+      "title": "NRC completes environmental review of Crane restart - World Nuclear News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlpmNlNzUndLcjNZLWEtYWV6VnNGNk5xT19WTDVBUU14Q2pfdDlDYWJodl90YXgyX1dmb050RzRSRVNBZ1o4SjNoNTRHWmVsZ2ZRcDNqTTRheXpEZ0xSbi1vOUliT1BBTC1LeDBiR2R5Z2NmZ0szbDFvbk51aUxCQUxlSDAtNVVKbjZRTnRVV1dPajVyUV9ybzRPYw?oc=5",
+      "domain": "news.google.com",
+      "source": "World Nuclear News",
+      "language": "English",
+      "published_at": "2026-09-28T18:47:05+00:00",
+      "summary": "NRC completes environmental review of Crane restart World Nuclear News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlpmNlNzUndLcjNZLWEtYWV6VnNGNk5xT19WTDVBUU14Q2pfdDlDYWJodl90YXgyX1dmb050RzRSRVNBZ1o4SjNoNTRHWmVsZ2ZRcDNqTTRheXpEZ0xSbi1vOUliT1BBTC1LeDBiR2R5Z2NmZ0szbDFvbk51aUxCQUxlSDAtNVVKbjZRTnRVV1dPajVyUV9ybzRPYw?oc=5\" target=\"_blank\">NRC completes environmental review of Crane restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Nuclear News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-29T00:07:00+00:00"
+    },
     {
       "id": "14f441b393e9f6cb",
       "title": "Constellation Energy (NASDAQ:CEG) Advances Nuclear Deals and Crane Restart - Kalkine Media",
