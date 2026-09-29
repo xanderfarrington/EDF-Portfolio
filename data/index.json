@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T00:07:16+00:00",
+  "last_updated": "2026-09-29T07:45:56+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 422,
-      "new_mentions_this_run": 21,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "15a7939f895192c0",
         "title": "Alabama Power Leaders Meet Some of Tuskegee’s Best and Brightest - Tuskegee University",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 818,
+      "count": 819,
       "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "5ab2a11788f7abfa",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 60,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "62da534190e29cd2",
         "title": "Iowa is leading America's nuclear power comeback | Opinion - The Des Moines Register",

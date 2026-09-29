@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-29T00:07:06+00:00",
+  "last_updated": "2026-09-29T07:45:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 818,
+  "count": 819,
   "mentions": [
     {
       "id": "5ab2a11788f7abfa",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-27T22:45:15+00:00"
+    },
+    {
+      "id": "88a09f0a0f6c79ba",
+      "title": "Georgia Power receives approval for 1,137 MW of new solar power purchase agreements through CARES program - Grice Connect",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVFVlNEhjUTZvSGhKTDljZVJCZXROelVQRkt5SjVCVzIyZWVfb1Q3NGNnNUFqWkVXZzVzWm13NGVCaTFVSkQwdXNpbjFxaHZ6UUJZYV9WQlV2Wm9fcUVsM2JQMmx3UDBTTlliMXRXNUNEeGhIU2tWUTFJX1dpZFI3aVA3V3BJNTFucXlYUmd4U2VvOGVtT2YyN3lDRUhMZV8tTDNRRlg2WmV6MTVkT1BsOTFCdFlwRDl1dGYycjhjZTlxd2lUVjdab0NHWHl4aXdHWE41X0gzYWhXRzJhUHhXc0tUcVQ2c3lMaFJTVml3?oc=5",
+      "domain": "news.google.com",
+      "source": "Grice Connect",
+      "language": "English",
+      "published_at": "2026-09-27T18:33:00+00:00",
+      "summary": "Georgia Power receives approval for 1,137 MW of new solar power purchase agreements through CARES program Grice Connect",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVFVlNEhjUTZvSGhKTDljZVJCZXROelVQRkt5SjVCVzIyZWVfb1Q3NGNnNUFqWkVXZzVzWm13NGVCaTFVSkQwdXNpbjFxaHZ6UUJZYV9WQlV2Wm9fcUVsM2JQMmx3UDBTTlliMXRXNUNEeGhIU2tWUTFJX1dpZFI3aVA3V3BJNTFucXlYUmd4U2VvOGVtT2YyN3lDRUhMZV8tTDNRRlg2WmV6MTVkT1BsOTFCdFlwRDl1dGYycjhjZTlxd2lUVjdab0NHWHl4aXdHWE41X0gzYWhXRzJhUHhXc0tUcVQ2c3lMaFJTVml3?oc=5\" target=\"_blank\">Georgia Power receives approval for 1,137 MW of new solar power purchase agreements through CARES program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-29T07:45:45+00:00"
     },
     {
       "id": "3b77e012734601c0",
