@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-30T14:29:53+00:00",
+  "last_updated": "2026-09-30T20:26:52+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 426,
+  "count": 427,
   "mentions": [
     {
       "id": "0f488d80de98eabd",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-30T14:29:53+00:00"
+    },
+    {
+      "id": "2b442c18099984ff",
+      "title": "Fall Weather Swings Can Raise Alabama Energy Use - wiregrassdailynews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeE1kNmYtME96TmJ0V2ZQQW4tdHBuTDhfNElWLU9Wd1RoSy0wMG9hTURtRXVrc1Vkb2lUejF5TlhkQWhHMmxIeU11MUdyVHRDamRldXNfLVNTNG9BWFg5RWNaOVVQUExEdzFDWWtOR3ZLbi02Z2tmd0phWTUtYkJnZTdrQWRQZG1wU19ab3RtTE5saEtsWTlXSjFucFR6S0Qwc2x1ZFdkVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "wiregrassdailynews.com",
+      "language": "English",
+      "published_at": "2026-09-30T13:23:21+00:00",
+      "summary": "Fall Weather Swings Can Raise Alabama Energy Use wiregrassdailynews.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQeE1kNmYtME96TmJ0V2ZQQW4tdHBuTDhfNElWLU9Wd1RoSy0wMG9hTURtRXVrc1Vkb2lUejF5TlhkQWhHMmxIeU11MUdyVHRDamRldXNfLVNTNG9BWFg5RWNaOVVQUExEdzFDWWtOR3ZLbi02Z2tmd0phWTUtYkJnZTdrQWRQZG1wU19ab3RtTE5saEtsWTlXSjFucFR6S0Qwc2x1ZFdkVQ?oc=5\" target=\"_blank\">Fall Weather Swings Can Raise Alabama Energy Use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wiregrassdailynews.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-30T20:26:52+00:00"
     },
     {
       "id": "77c31803ca9a7d22",

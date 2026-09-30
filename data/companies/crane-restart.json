@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-09-30T14:30:04+00:00",
+  "last_updated": "2026-09-30T20:27:03+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 103,
+  "count": 104,
   "mentions": [
     {
       "id": "35b2735a6c611205",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-29T00:07:00+00:00"
+    },
+    {
+      "id": "ca2ab95c9e7bd656",
+      "title": "NRC completes environmental review of Crane restart - world-nuclear-news.org",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlpmNlNzUndLcjNZLWEtYWV6VnNGNk5xT19WTDVBUU14Q2pfdDlDYWJodl90YXgyX1dmb050RzRSRVNBZ1o4SjNoNTRHWmVsZ2ZRcDNqTTRheXpEZ0xSbi1vOUliT1BBTC1LeDBiR2R5Z2NmZ0szbDFvbk51aUxCQUxlSDAtNVVKbjZRTnRVV1dPajVyUV9ybzRPYw?oc=5",
+      "domain": "news.google.com",
+      "source": "world-nuclear-news.org",
+      "language": "English",
+      "published_at": "2026-09-28T18:47:05+00:00",
+      "summary": "NRC completes environmental review of Crane restart world-nuclear-news.org",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlpmNlNzUndLcjNZLWEtYWV6VnNGNk5xT19WTDVBUU14Q2pfdDlDYWJodl90YXgyX1dmb050RzRSRVNBZ1o4SjNoNTRHWmVsZ2ZRcDNqTTRheXpEZ0xSbi1vOUliT1BBTC1LeDBiR2R5Z2NmZ0szbDFvbk51aUxCQUxlSDAtNVVKbjZRTnRVV1dPajVyUV9ybzRPYw?oc=5\" target=\"_blank\">NRC completes environmental review of Crane restart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">world-nuclear-news.org</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-30T20:27:03+00:00"
     },
     {
       "id": "14f441b393e9f6cb",

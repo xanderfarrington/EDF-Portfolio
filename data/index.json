@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-30T14:30:20+00:00",
+  "last_updated": "2026-09-30T20:27:19+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 107,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "f4450944f0af16bb",
         "title": "American Electric Power stock at USD 118.35 on September 25, 2026 - AD HOC NEWS",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 426,
+      "count": 427,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "0f488d80de98eabd",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 103,
+      "count": 104,
       "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "35b2735a6c611205",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 826,
-      "new_mentions_this_run": 24,
+      "count": 831,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "74bf59379748a98f",
-        "title": "Scheduled outage set for Savannah’s 37th Street, says Georgia Power - WTOC",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXJtUnFwR1g0Y25mWTBES1F5NlNCSGZMQ3lmVVZUek9JdzdQSVBnVHZ1Vl9KOENoWW9OcUNEN2RibFVzQWNrUGdqaW1XZlBqRVQ3c19yQy03Wl96eElnZ3dwWTNaMm91SHZ6eTVxa242SlZjTWRMYWdvV2lEYi1CTnJQMzFiLWdKN2c0Yk9FT0JPN2FBV1Y1QzBn?oc=5",
+        "id": "e7cf17d20be75ae6",
+        "title": "Scheduled outage planned near W 38th Street as Georgia Power clears limbs - WSAV-TV",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcl9jYm9YMmF1M2JHeE9XMG1MUVptYjg4Q08xakVudmNEY0UtbVREZHpVMDlPMmUxNFZiMVN0Z08tMXhXMWtCM2JrQkwySGtZRkZRUFE2SmZXZF9hb3lobVFEWnNPSjltWFhTR3RqdWc2VWVUMFVGdkYxc2RYQ08tZ1hPakF1WG5uZlIyTzJoUmVSaEFnMG5IT1RXWDRRZnRTTVJZTE94cE1NOU5ESUQ4Sl9SMzA3ZTZFUDNOSzVuOV8yUdIBxwFBVV95cUxQZWM0ajJkSDJ5cDJFblNyb29SQWlPOWFDM1IwR25BVGhhQmRicXNJalM0NnhENzJUbVF2bXZwaW42X1ZqRmhGQ3duNEFDbmFqYVdIdDZ6OTB6ak1qUGRRekJyQmdUS1R0SU1ad1Q3clpJVXg0Y0JrSUFkVUdGV052UjZvRVBFTExRczBlSk44X1RhSnZNb1lHTDBDeXlQMzlkS0pLX0poMXIzRUtYWGdCN0xiNnVIMVZqQWpQVWdQYkpEUktHTlFv?oc=5",
         "domain": "news.google.com",
-        "source": "WTOC",
+        "source": "WSAV-TV",
         "language": "English",
-        "published_at": "2026-09-30T14:13:00+00:00",
-        "summary": "Scheduled outage set for Savannah’s 37th Street, says Georgia Power WTOC",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXJtUnFwR1g0Y25mWTBES1F5NlNCSGZMQ3lmVVZUek9JdzdQSVBnVHZ1Vl9KOENoWW9OcUNEN2RibFVzQWNrUGdqaW1XZlBqRVQ3c19yQy03Wl96eElnZ3dwWTNaMm91SHZ6eTVxa242SlZjTWRMYWdvV2lEYi1CTnJQMzFiLWdKN2c0Yk9FT0JPN2FBV1Y1QzBn?oc=5\" target=\"_blank\">Scheduled outage set for Savannah’s 37th Street, says Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+        "published_at": "2026-09-30T17:30:58+00:00",
+        "summary": "Scheduled outage planned near W 38th Street as Georgia Power clears limbs WSAV-TV",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcl9jYm9YMmF1M2JHeE9XMG1MUVptYjg4Q08xakVudmNEY0UtbVREZHpVMDlPMmUxNFZiMVN0Z08tMXhXMWtCM2JrQkwySGtZRkZRUFE2SmZXZF9hb3lobVFEWnNPSjltWFhTR3RqdWc2VWVUMFVGdkYxc2RYQ08tZ1hPakF1WG5uZlIyTzJoUmVSaEFnMG5IT1RXWDRRZnRTTVJZTE94cE1NOU5ESUQ4Sl9SMzA3ZTZFUDNOSzVuOV8yUdIBxwFBVV95cUxQZWM0ajJkSDJ5cDJFblNyb29SQWlPOWFDM1IwR25BVGhhQmRicXNJalM0NnhENzJUbVF2bXZwaW42X1ZqRmhGQ3duNEFDbmFqYVdIdDZ6OTB6ak1qUGRRekJyQmdUS1R0SU1ad1Q3clpJVXg0Y0JrSUFkVUdGV052UjZvRVBFTExRczBlSk44X1RhSnZNb1lHTDBDeXlQMzlkS0pLX0poMXIzRUtYWGdCN0xiNnVIMVZqQWpQVWdQYkpEUktHTlFv?oc=5\" target=\"_blank\">Scheduled outage planned near W 38th Street as Georgia Power clears limbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAV-TV</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-30T14:30:09+00:00"
+        "collected_at": "2026-09-30T20:27:08+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 62,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "62da534190e29cd2",
         "title": "Iowa is leading America's nuclear power comeback | Opinion - The Des Moines Register",

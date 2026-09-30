@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-30T14:30:09+00:00",
+  "last_updated": "2026-09-30T20:27:08+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 826,
+  "count": 831,
   "mentions": [
+    {
+      "id": "e7cf17d20be75ae6",
+      "title": "Scheduled outage planned near W 38th Street as Georgia Power clears limbs - WSAV-TV",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcl9jYm9YMmF1M2JHeE9XMG1MUVptYjg4Q08xakVudmNEY0UtbVREZHpVMDlPMmUxNFZiMVN0Z08tMXhXMWtCM2JrQkwySGtZRkZRUFE2SmZXZF9hb3lobVFEWnNPSjltWFhTR3RqdWc2VWVUMFVGdkYxc2RYQ08tZ1hPakF1WG5uZlIyTzJoUmVSaEFnMG5IT1RXWDRRZnRTTVJZTE94cE1NOU5ESUQ4Sl9SMzA3ZTZFUDNOSzVuOV8yUdIBxwFBVV95cUxQZWM0ajJkSDJ5cDJFblNyb29SQWlPOWFDM1IwR25BVGhhQmRicXNJalM0NnhENzJUbVF2bXZwaW42X1ZqRmhGQ3duNEFDbmFqYVdIdDZ6OTB6ak1qUGRRekJyQmdUS1R0SU1ad1Q3clpJVXg0Y0JrSUFkVUdGV052UjZvRVBFTExRczBlSk44X1RhSnZNb1lHTDBDeXlQMzlkS0pLX0poMXIzRUtYWGdCN0xiNnVIMVZqQWpQVWdQYkpEUktHTlFv?oc=5",
+      "domain": "news.google.com",
+      "source": "WSAV-TV",
+      "language": "English",
+      "published_at": "2026-09-30T17:30:58+00:00",
+      "summary": "Scheduled outage planned near W 38th Street as Georgia Power clears limbs WSAV-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcl9jYm9YMmF1M2JHeE9XMG1MUVptYjg4Q08xakVudmNEY0UtbVREZHpVMDlPMmUxNFZiMVN0Z08tMXhXMWtCM2JrQkwySGtZRkZRUFE2SmZXZF9hb3lobVFEWnNPSjltWFhTR3RqdWc2VWVUMFVGdkYxc2RYQ08tZ1hPakF1WG5uZlIyTzJoUmVSaEFnMG5IT1RXWDRRZnRTTVJZTE94cE1NOU5ESUQ4Sl9SMzA3ZTZFUDNOSzVuOV8yUdIBxwFBVV95cUxQZWM0ajJkSDJ5cDJFblNyb29SQWlPOWFDM1IwR25BVGhhQmRicXNJalM0NnhENzJUbVF2bXZwaW42X1ZqRmhGQ3duNEFDbmFqYVdIdDZ6OTB6ak1qUGRRekJyQmdUS1R0SU1ad1Q3clpJVXg0Y0JrSUFkVUdGV052UjZvRVBFTExRczBlSk44X1RhSnZNb1lHTDBDeXlQMzlkS0pLX0poMXIzRUtYWGdCN0xiNnVIMVZqQWpQVWdQYkpEUktHTlFv?oc=5\" target=\"_blank\">Scheduled outage planned near W 38th Street as Georgia Power clears limbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAV-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-30T20:27:08+00:00"
+    },
+    {
+      "id": "b70e77a9f352c66b",
+      "title": "3-hour power outage planned Thursday morning in part of Savannah - Savannah Morning News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenVDN2RqQnNoSVdyamNmRDliNi1fQVN0NU0tNExyNkgwOGYxcmE0NVZidGVUU2pBMkpEUWl3WFdBc0dpcl9QUEtMSzkxYzQ1REh4WnlDdTduOUhkZ3RyWHhJcGxtdGRGR1FFSFU1MHNmZng5aWxMVGN5YjRxX3ZMOGlkX0VGV1FXQXpXbkRIM2ZDT3FhV3puN2t6ZTJ0T3laVlh1UjMyeWl6ZC05Y0RqRVRuZXBGeUh4Y1lNVDJTODFHNEV3MVhSeg?oc=5",
+      "domain": "news.google.com",
+      "source": "Savannah Morning News",
+      "language": "English",
+      "published_at": "2026-09-30T15:20:00+00:00",
+      "summary": "3-hour power outage planned Thursday morning in part of Savannah Savannah Morning News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenVDN2RqQnNoSVdyamNmRDliNi1fQVN0NU0tNExyNkgwOGYxcmE0NVZidGVUU2pBMkpEUWl3WFdBc0dpcl9QUEtMSzkxYzQ1REh4WnlDdTduOUhkZ3RyWHhJcGxtdGRGR1FFSFU1MHNmZng5aWxMVGN5YjRxX3ZMOGlkX0VGV1FXQXpXbkRIM2ZDT3FhV3puN2t6ZTJ0T3laVlh1UjMyeWl6ZC05Y0RqRVRuZXBGeUh4Y1lNVDJTODFHNEV3MVhSeg?oc=5\" target=\"_blank\">3-hour power outage planned Thursday morning in part of Savannah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-30T20:27:08+00:00"
+    },
     {
       "id": "74bf59379748a98f",
       "title": "Scheduled outage set for Savannah’s 37th Street, says Georgia Power - WTOC",
@@ -35,6 +63,20 @@
       "collected_at": "2026-09-30T14:30:09+00:00"
     },
     {
+      "id": "36d86528c882807e",
+      "title": "LEARNING ABOUT CAREERS WITH GEORGIA POWER - theadvancenews.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNnczRFYydXFNVEJpNktESkRkV3VETC1BMGtsOEpyb0FYb2JUanpMa3lEaWFwdGI4RHZCS2RrN2JlU2dOZVptekR2aVRZbG82YXhIQUQyTTF3UWNReG9xYVlNZ2VkTzVhbkJCcDNXQ1F1RUpyNzc3UkpPb2Q1cHZmNXBVa01TQktrZTF0YUxMZFM?oc=5",
+      "domain": "news.google.com",
+      "source": "theadvancenews.com",
+      "language": "English",
+      "published_at": "2026-09-30T11:58:57+00:00",
+      "summary": "LEARNING ABOUT CAREERS WITH GEORGIA POWER theadvancenews.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQNnczRFYydXFNVEJpNktESkRkV3VETC1BMGtsOEpyb0FYb2JUanpMa3lEaWFwdGI4RHZCS2RrN2JlU2dOZVptekR2aVRZbG82YXhIQUQyTTF3UWNReG9xYVlNZ2VkTzVhbkJCcDNXQ1F1RUpyNzc3UkpPb2Q1cHZmNXBVa01TQktrZTF0YUxMZFM?oc=5\" target=\"_blank\">LEARNING ABOUT CAREERS WITH GEORGIA POWER</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theadvancenews.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-30T20:27:08+00:00"
+    },
+    {
       "id": "69ff5f5910180a2f",
       "title": "Google support for Georgia plant uprates - Nuclear Engineering International",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90WUNrUlpCU29xR20wbS02NjBhcTV5N0NWWjhfbmlUZmo5Ry1zU21xdGpRZmV0anJ5amtuREYtNGl3bFkxWDRaTWVvMW5teEtJYTZwNGRLZ2lPeHFKMHJjVE4tX2xFNlVuV2xDMGU4N3E0Z3V4ZnJsdXlNMktNZ1U?oc=5",
@@ -47,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-30T14:30:09+00:00"
+    },
+    {
+      "id": "9c829318d54cd569",
+      "title": "Hunton Advises on Georgia Power Company’s Tax-Exempt Remarketing - Hunton Andrews Kurth LLP",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONWtGaXhOa3VNbGhMTEFHZGNGYXhJUWZHXzZaczdRaTRVdkpuZ1hOeUVMR001V3NBdHFhRTJCZHhEMHozb0lCU0NselBHR1JuT2xOSFFMVU5IUnNVallfMU1lV1RXdnIwallwWElLWVI2Rm43Y0d5bG5PM19KVFlLdVgtbi1PLU9yUG9ZZXItWm1YdXpUTnc?oc=5",
+      "domain": "news.google.com",
+      "source": "Hunton Andrews Kurth LLP",
+      "language": "English",
+      "published_at": "2026-09-29T07:00:00+00:00",
+      "summary": "Hunton Advises on Georgia Power Company’s Tax-Exempt Remarketing Hunton Andrews Kurth LLP",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxONWtGaXhOa3VNbGhMTEFHZGNGYXhJUWZHXzZaczdRaTRVdkpuZ1hOeUVMR001V3NBdHFhRTJCZHhEMHozb0lCU0NselBHR1JuT2xOSFFMVU5IUnNVallfMU1lV1RXdnIwallwWElLWVI2Rm43Y0d5bG5PM19KVFlLdVgtbi1PLU9yUG9ZZXItWm1YdXpUTnc?oc=5\" target=\"_blank\">Hunton Advises on Georgia Power Company’s Tax-Exempt Remarketing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hunton Andrews Kurth LLP</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-30T20:27:08+00:00"
     },
     {
       "id": "5ab2a11788f7abfa",
@@ -159,6 +215,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-27T07:27:35+00:00"
+    },
+    {
+      "id": "8fe10c0126e17c77",
+      "title": "Southwire, Georgia Power and The Ray Unveil Native Habitat Initiative Along Energy Rights-of-Way in Carrollton, Ga - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTko1eGt6dmNyQmc5cWtqN01Jc3FSUF9NOTJJZ0FMcDFRNXNuaEd6c2k0QnhmdVljY0NEWUk3RUlQOHd1d2lXcjk4QXRIdzRBb3lOLUlac0F6Q3ZTQ3BvR2xMRm1NRDdoNGdhYWJITURrbEZzMjAtWlc4cU83OWJiUFJSZFBsT3RPNlM0MU1ubkRYWjJUZXc?oc=5",
+      "domain": "news.google.com",
+      "source": "finance.yahoo.com",
+      "language": "English",
+      "published_at": "2026-09-25T14:10:00+00:00",
+      "summary": "Southwire, Georgia Power and The Ray Unveil Native Habitat Initiative Along Energy Rights-of-Way in Carrollton, Ga finance.yahoo.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNTko1eGt6dmNyQmc5cWtqN01Jc3FSUF9NOTJJZ0FMcDFRNXNuaEd6c2k0QnhmdVljY0NEWUk3RUlQOHd1d2lXcjk4QXRIdzRBb3lOLUlac0F6Q3ZTQ3BvR2xMRm1NRDdoNGdhYWJITURrbEZzMjAtWlc4cU83OWJiUFJSZFBsT3RPNlM0MU1ubkRYWjJUZXc?oc=5\" target=\"_blank\">Southwire, Georgia Power and The Ray Unveil Native Habitat Initiative Along Energy Rights-of-Way in Carrollton, Ga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-30T20:27:08+00:00"
     },
     {
       "id": "b34723e7980922f9",
