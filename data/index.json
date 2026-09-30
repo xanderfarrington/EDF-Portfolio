@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-30T07:49:17+00:00",
+  "last_updated": "2026-09-30T14:30:20+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 107,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "f4450944f0af16bb",
         "title": "American Electric Power stock at USD 118.35 on September 25, 2026 - AD HOC NEWS",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 423,
+      "count": 426,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "b3ba4fae40e91ee2",
-        "title": "Alabama Power Asks Judge to Lift Order Blocking Shelby County Property Access - WBMA",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXNCakt3YlpiaERQVlhacjVWencyVzR2UWRnSGpQOWlacXFaYjNnM0VRTlYxVlloX181VW1WZUxnUFBmeDYzcGRDTVlJQmthakpuOUNsWFQ3MjBjdGlja3RCZDNOLVJzS0o5eWlyWDktbkJoWkVGZ3hLSlFXdThIekFmZVAyOWxIclF3ZHVUY0VMdE9XRGx6dmFFNzllYmlQQU1razBMQm5jM0U5Y1g0OHdzVnRfNURSNUo4TGx2LUhvdXlmSG0zSzctd0RLR3A1?oc=5",
+        "id": "0f488d80de98eabd",
+        "title": "Alabama Power Donates Bucket Truck To Trenholm State For Student Training - montgomeryindependent.com",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNDgyanpOU0dvU2VjNGs1VGktdndsMTZiV0EybEZLY3lTUW9EMEljQV9ZcXJWQm4yUVRuMm90ZTJBMjdpclhsa3RqYlh6SUtPLTkzb1VZWEt2VkcyUnQ2VEdockZCaE5NdDd6X045TzFuMnZvc2UwNDk2QkdjOXY2YzBwNmMtYTB5ZzMwR0g5MURmTTQzMHN0clhLRUNyUFh2Tkh3VDhZbTd3bXVRX2MtSmtJcm5ZT3V1eUJCYl9pNDNYVVpNZUZaV01MeUl4dHYyZUlNVWkzbWFDWXdVLVhKeVlUaFM3MHptcXBzazR0cjRZemJrTHUydFBB?oc=5",
         "domain": "news.google.com",
-        "source": "WBMA",
+        "source": "montgomeryindependent.com",
         "language": "English",
-        "published_at": "2026-09-29T23:15:11+00:00",
-        "summary": "Alabama Power Asks Judge to Lift Order Blocking Shelby County Property Access WBMA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXNCakt3YlpiaERQVlhacjVWencyVzR2UWRnSGpQOWlacXFaYjNnM0VRTlYxVlloX181VW1WZUxnUFBmeDYzcGRDTVlJQmthakpuOUNsWFQ3MjBjdGlja3RCZDNOLVJzS0o5eWlyWDktbkJoWkVGZ3hLSlFXdThIekFmZVAyOWxIclF3ZHVUY0VMdE9XRGx6dmFFNzllYmlQQU1razBMQm5jM0U5Y1g0OHdzVnRfNURSNUo4TGx2LUhvdXlmSG0zSzctd0RLR3A1?oc=5\" target=\"_blank\">Alabama Power Asks Judge to Lift Order Blocking Shelby County Property Access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+        "published_at": "2026-09-30T14:00:00+00:00",
+        "summary": "Alabama Power Donates Bucket Truck To Trenholm State For Student Training montgomeryindependent.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNDgyanpOU0dvU2VjNGs1VGktdndsMTZiV0EybEZLY3lTUW9EMEljQV9ZcXJWQm4yUVRuMm90ZTJBMjdpclhsa3RqYlh6SUtPLTkzb1VZWEt2VkcyUnQ2VEdockZCaE5NdDd6X045TzFuMnZvc2UwNDk2QkdjOXY2YzBwNmMtYTB5ZzMwR0g5MURmTTQzMHN0clhLRUNyUFh2Tkh3VDhZbTd3bXVRX2MtSmtJcm5ZT3V1eUJCYl9pNDNYVVpNZUZaV01MeUl4dHYyZUlNVWkzbWFDWXdVLVhKeVlUaFM3MHptcXBzazR0cjRZemJrTHUydFBB?oc=5\" target=\"_blank\">Alabama Power Donates Bucket Truck To Trenholm State For Student Training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">montgomeryindependent.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-30T00:56:59+00:00"
+        "collected_at": "2026-09-30T14:29:53+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 822,
+      "count": 826,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "5ab2a11788f7abfa",
-        "title": "Georgia Power, Google announce deal to pay for nuclear upgrades - Times-Georgian",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLWI2RDBtcHlmNWtoWm5SSWtDNTFZMDhHTzhEaWpJOWt6bzhnS2I1eFFyYWxQRkxDWUppdDdkeExVRXNWSE1Fa3d2amlscWRQcnhLRkRvSy1ramVsWWx0Vkoyd2ZJOG8xY0NhaTh0RnhKZkJWR3drckFla3gtd0NweDJhaGY4a0VscWI4WDY4blJPWDZSNnQwYXNNMnNHNGEyMVlOZlFFeTNldFpqeS15WkRBUXg4NzAwbWJfOWU1dFQ5SlRIUG5sZ0lGRWR2M3R1LUd2UHdvYWMzdnJhcjVxbkJLTVpnTjk0Mmc?oc=5",
+        "id": "74bf59379748a98f",
+        "title": "Scheduled outage set for Savannah’s 37th Street, says Georgia Power - WTOC",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXJtUnFwR1g0Y25mWTBES1F5NlNCSGZMQ3lmVVZUek9JdzdQSVBnVHZ1Vl9KOENoWW9OcUNEN2RibFVzQWNrUGdqaW1XZlBqRVQ3c19yQy03Wl96eElnZ3dwWTNaMm91SHZ6eTVxa242SlZjTWRMYWdvV2lEYi1CTnJQMzFiLWdKN2c0Yk9FT0JPN2FBV1Y1QzBn?oc=5",
         "domain": "news.google.com",
-        "source": "Times-Georgian",
+        "source": "WTOC",
         "language": "English",
-        "published_at": "2026-09-28T16:01:00+00:00",
-        "summary": "Georgia Power, Google announce deal to pay for nuclear upgrades Times-Georgian",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLWI2RDBtcHlmNWtoWm5SSWtDNTFZMDhHTzhEaWpJOWt6bzhnS2I1eFFyYWxQRkxDWUppdDdkeExVRXNWSE1Fa3d2amlscWRQcnhLRkRvSy1ramVsWWx0Vkoyd2ZJOG8xY0NhaTh0RnhKZkJWR3drckFla3gtd0NweDJhaGY4a0VscWI4WDY4blJPWDZSNnQwYXNNMnNHNGEyMVlOZlFFeTNldFpqeS15WkRBUXg4NzAwbWJfOWU1dFQ5SlRIUG5sZ0lGRWR2M3R1LUd2UHdvYWMzdnJhcjVxbkJLTVpnTjk0Mmc?oc=5\" target=\"_blank\">Georgia Power, Google announce deal to pay for nuclear upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times-Georgian</font>",
+        "published_at": "2026-09-30T14:13:00+00:00",
+        "summary": "Scheduled outage set for Savannah’s 37th Street, says Georgia Power WTOC",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXJtUnFwR1g0Y25mWTBES1F5NlNCSGZMQ3lmVVZUek9JdzdQSVBnVHZ1Vl9KOENoWW9OcUNEN2RibFVzQWNrUGdqaW1XZlBqRVQ3c19yQy03Wl96eElnZ3dwWTNaMm91SHZ6eTVxa242SlZjTWRMYWdvV2lEYi1CTnJQMzFiLWdKN2c0Yk9FT0JPN2FBV1Y1QzBn?oc=5\" target=\"_blank\">Scheduled outage set for Savannah’s 37th Street, says Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-28T19:05:57+00:00"
+        "collected_at": "2026-09-30T14:30:09+00:00"
       }
     },
     {
