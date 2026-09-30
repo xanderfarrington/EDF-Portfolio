@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-29T20:23:02+00:00",
+  "last_updated": "2026-09-30T00:56:59+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 422,
+  "count": 423,
   "mentions": [
+    {
+      "id": "b3ba4fae40e91ee2",
+      "title": "Alabama Power Asks Judge to Lift Order Blocking Shelby County Property Access - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXNCakt3YlpiaERQVlhacjVWencyVzR2UWRnSGpQOWlacXFaYjNnM0VRTlYxVlloX181VW1WZUxnUFBmeDYzcGRDTVlJQmthakpuOUNsWFQ3MjBjdGlja3RCZDNOLVJzS0o5eWlyWDktbkJoWkVGZ3hLSlFXdThIekFmZVAyOWxIclF3ZHVUY0VMdE9XRGx6dmFFNzllYmlQQU1razBMQm5jM0U5Y1g0OHdzVnRfNURSNUo4TGx2LUhvdXlmSG0zSzctd0RLR3A1?oc=5",
+      "domain": "news.google.com",
+      "source": "WBMA",
+      "language": "English",
+      "published_at": "2026-09-29T23:15:11+00:00",
+      "summary": "Alabama Power Asks Judge to Lift Order Blocking Shelby County Property Access WBMA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXNCakt3YlpiaERQVlhacjVWencyVzR2UWRnSGpQOWlacXFaYjNnM0VRTlYxVlloX181VW1WZUxnUFBmeDYzcGRDTVlJQmthakpuOUNsWFQ3MjBjdGlja3RCZDNOLVJzS0o5eWlyWDktbkJoWkVGZ3hLSlFXdThIekFmZVAyOWxIclF3ZHVUY0VMdE9XRGx6dmFFNzllYmlQQU1razBMQm5jM0U5Y1g0OHdzVnRfNURSNUo4TGx2LUhvdXlmSG0zSzctd0RLR3A1?oc=5\" target=\"_blank\">Alabama Power Asks Judge to Lift Order Blocking Shelby County Property Access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-09-30T00:56:59+00:00"
+    },
     {
       "id": "15a7939f895192c0",
       "title": "Alabama Power Leaders Meet Some of Tuskegee’s Best and Brightest - Tuskegee University",
