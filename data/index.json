@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T00:57:26+00:00",
+  "last_updated": "2026-09-30T07:49:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 62,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "62da534190e29cd2",
         "title": "Iowa is leading America's nuclear power comeback | Opinion - The Des Moines Register",
