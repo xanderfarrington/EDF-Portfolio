@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-10-01T08:08:14+00:00",
+  "last_updated": "2026-10-01T16:49:27+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 107,
+  "count": 108,
   "mentions": [
+    {
+      "id": "79ca1b94c7018803",
+      "title": "AEP4961682 Bond Profile: Coupon and Redemption - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WNi1uZXJITU1TMnNfYUhyMURuNlBoN3NmcHU0VWFock5HbldaeFN5cElnWUVyNlZwcVpnbWlHN3V1MlNvejdEeXNNamcwVVQxZlRzVWc5MWdfRDcwd0s3eFh2QW9pc1RVd1RjcjN3?oc=5",
+      "domain": "news.google.com",
+      "source": "TradingView",
+      "language": "English",
+      "published_at": "2026-10-01T08:11:51+00:00",
+      "summary": "AEP4961682 Bond Profile: Coupon and Redemption TradingView",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9WNi1uZXJITU1TMnNfYUhyMURuNlBoN3NmcHU0VWFock5HbldaeFN5cElnWUVyNlZwcVpnbWlHN3V1MlNvejdEeXNNamcwVVQxZlRzVWc5MWdfRDcwd0s3eFh2QW9pc1RVd1RjcjN3?oc=5\" target=\"_blank\">AEP4961682 Bond Profile: Coupon and Redemption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-01T16:49:27+00:00"
+    },
     {
       "id": "f4450944f0af16bb",
       "title": "American Electric Power stock at USD 118.35 on September 25, 2026 - AD HOC NEWS",
