@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T01:00:07+00:00",
+  "last_updated": "2026-10-01T08:08:47+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 834,
+      "count": 836,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "532ff59b4552886e",
-        "title": "Erie County man charged with making threats to Georgia power plant - niagara-gazette.com",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONk5ydzJEbU1rU2VNZzJwUkM2NUgtQUdaN2ZpRUVVV3I2V2Ffa21QYjY4TkRCb0lIaFNBbmtTUXEtSXlual9xRHFVMzR2ajUxQjJjXzU2YmZPR2FxR0lzQVpIN0VzV280by1kZVp5ZjI3Nk01U1Z0ejFTRTJ5eXk4NlUtX0tqT09GWXZXS2ZpY3Q1SXg5Rm5vNVVfdk8taVl2cFl4Z1JfS2pja19DbWtDT2NXTXlaTHY3Zk9mNXVzb3hFNV9oYkloeDczVGxZQ3FjLVNhcVJMd2JMcDY2ZWVYc2l0OWp4U09KMjQ1YWZGaVA?oc=5",
+        "id": "d271b8802b0ed0d1",
+        "title": "Erie County Man Charged in False Bomb Threat Against Georgia Power - Finger Lakes Daily News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGZLYnVHbUhHdUNCMW9KbzZyX2ktbExZMWUxRHFOdkxjek8zemhkYjlnOWlBZzNQRjVhU3VhTlpmSURTWF9CbmdfN1UwcXBHdUtoQ3NzaUx3cFQ4NkRZTVB1cnNUWTdmVE1nVlJrenVOZDdWeDA2Nmt3Zmx5dkhEQWR1QUliMkYxNVdfdHJSam9HTlJhYUJTcnhsZVduUnBVMU5iUjdaRXgzYXVqMWlB?oc=5",
         "domain": "news.google.com",
-        "source": "niagara-gazette.com",
+        "source": "Finger Lakes Daily News",
         "language": "English",
-        "published_at": "2026-09-30T21:32:00+00:00",
-        "summary": "Erie County man charged with making threats to Georgia power plant niagara-gazette.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxONk5ydzJEbU1rU2VNZzJwUkM2NUgtQUdaN2ZpRUVVV3I2V2Ffa21QYjY4TkRCb0lIaFNBbmtTUXEtSXlual9xRHFVMzR2ajUxQjJjXzU2YmZPR2FxR0lzQVpIN0VzV280by1kZVp5ZjI3Nk01U1Z0ejFTRTJ5eXk4NlUtX0tqT09GWXZXS2ZpY3Q1SXg5Rm5vNVVfdk8taVl2cFl4Z1JfS2pja19DbWtDT2NXTXlaTHY3Zk9mNXVzb3hFNV9oYkloeDczVGxZQ3FjLVNhcVJMd2JMcDY2ZWVYc2l0OWp4U09KMjQ1YWZGaVA?oc=5\" target=\"_blank\">Erie County man charged with making threats to Georgia power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">niagara-gazette.com</font>",
+        "published_at": "2026-10-01T04:00:26+00:00",
+        "summary": "Erie County Man Charged in False Bomb Threat Against Georgia Power Finger Lakes Daily News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGZLYnVHbUhHdUNCMW9KbzZyX2ktbExZMWUxRHFOdkxjek8zemhkYjlnOWlBZzNQRjVhU3VhTlpmSURTWF9CbmdfN1UwcXBHdUtoQ3NzaUx3cFQ4NkRZTVB1cnNUWTdmVE1nVlJrenVOZDdWeDA2Nmt3Zmx5dkhEQWR1QUliMkYxNVdfdHJSam9HTlJhYUJTcnhsZVduUnBVMU5iUjdaRXgzYXVqMWlB?oc=5\" target=\"_blank\">Erie County Man Charged in False Bomb Threat Against Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finger Lakes Daily News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-01T00:59:56+00:00"
+        "collected_at": "2026-10-01T08:08:36+00:00"
       }
     },
     {
