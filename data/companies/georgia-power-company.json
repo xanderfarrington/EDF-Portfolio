@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-01T16:49:49+00:00",
+  "last_updated": "2026-10-01T22:13:35+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 838,
+  "count": 839,
   "mentions": [
+    {
+      "id": "10a24f44f249f094",
+      "title": "Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUmNPVXdMQkRYOUhIM0xWSV9RRW9yX3JOU09qb093YXJvUGs2eXpYRmZKTlcwTmdyRWpmMHRhY21pMWxDamNxTUpBb1NoOVNseTVoT2k0V0o1WUN2QTJkSmRXZFZoVHpaVXVMUzRac2tXN09kM3gyZk5tV1R0Zm4wYi03Tm9uaXQ1Z1NLeTc4dU03RmxQMzd0QkRhaEFpVmlQR1RZU0ZOaXMzZjlTOUpETmF6R1psMXhCSzBSbkJPNVppd29VUWEyVjE2bVRWc0tIOExGOFpscFI5bjJOSVFZb0otRWMyM0g5N05VamlROC1HQktnT2F6VVA5Nzg?oc=5",
+      "domain": "news.google.com",
+      "source": "The Globe and Mail",
+      "language": "English",
+      "published_at": "2026-10-01T20:33:24+00:00",
+      "summary": "Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It. The Globe and Mail",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUmNPVXdMQkRYOUhIM0xWSV9RRW9yX3JOU09qb093YXJvUGs2eXpYRmZKTlcwTmdyRWpmMHRhY21pMWxDamNxTUpBb1NoOVNseTVoT2k0V0o1WUN2QTJkSmRXZFZoVHpaVXVMUzRac2tXN09kM3gyZk5tV1R0Zm4wYi03Tm9uaXQ1Z1NLeTc4dU03RmxQMzd0QkRhaEFpVmlQR1RZU0ZOaXMzZjlTOUpETmF6R1psMXhCSzBSbkJPNVppd29VUWEyVjE2bVRWc0tIOExGOFpscFI5bjJOSVFZb0otRWMyM0g5N05VamlROC1HQktnT2F6VVA5Nzg?oc=5\" target=\"_blank\">Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-01T22:13:35+00:00"
+    },
     {
       "id": "d271b8802b0ed0d1",
       "title": "Erie County Man Charged in False Bomb Threat Against Georgia Power - Finger Lakes Daily News",
