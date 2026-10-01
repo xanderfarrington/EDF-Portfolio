@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-09-30T20:27:08+00:00",
+  "last_updated": "2026-10-01T00:59:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 831,
+  "count": 834,
   "mentions": [
+    {
+      "id": "532ff59b4552886e",
+      "title": "Erie County man charged with making threats to Georgia power plant - niagara-gazette.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONk5ydzJEbU1rU2VNZzJwUkM2NUgtQUdaN2ZpRUVVV3I2V2Ffa21QYjY4TkRCb0lIaFNBbmtTUXEtSXlual9xRHFVMzR2ajUxQjJjXzU2YmZPR2FxR0lzQVpIN0VzV280by1kZVp5ZjI3Nk01U1Z0ejFTRTJ5eXk4NlUtX0tqT09GWXZXS2ZpY3Q1SXg5Rm5vNVVfdk8taVl2cFl4Z1JfS2pja19DbWtDT2NXTXlaTHY3Zk9mNXVzb3hFNV9oYkloeDczVGxZQ3FjLVNhcVJMd2JMcDY2ZWVYc2l0OWp4U09KMjQ1YWZGaVA?oc=5",
+      "domain": "news.google.com",
+      "source": "niagara-gazette.com",
+      "language": "English",
+      "published_at": "2026-09-30T21:32:00+00:00",
+      "summary": "Erie County man charged with making threats to Georgia power plant niagara-gazette.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxONk5ydzJEbU1rU2VNZzJwUkM2NUgtQUdaN2ZpRUVVV3I2V2Ffa21QYjY4TkRCb0lIaFNBbmtTUXEtSXlual9xRHFVMzR2ajUxQjJjXzU2YmZPR2FxR0lzQVpIN0VzV280by1kZVp5ZjI3Nk01U1Z0ejFTRTJ5eXk4NlUtX0tqT09GWXZXS2ZpY3Q1SXg5Rm5vNVVfdk8taVl2cFl4Z1JfS2pja19DbWtDT2NXTXlaTHY3Zk9mNXVzb3hFNV9oYkloeDczVGxZQ3FjLVNhcVJMd2JMcDY2ZWVYc2l0OWp4U09KMjQ1YWZGaVA?oc=5\" target=\"_blank\">Erie County man charged with making threats to Georgia power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">niagara-gazette.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-01T00:59:56+00:00"
+    },
+    {
+      "id": "2c949302d90d80ed",
+      "title": "West Georgia Technical College and Georgia Power Address Manufacturing Workforce Needs Through Accelerated Training - The City Menus",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOFB2UmxQcUVSOGQ0cHo0Qm5EcjhiYmlWQzJySDZzY3oxbWFURDJiYlBweE9HVWttcV9pSzhDZzNGTjRodWtGd25FRlIzeDNNbmxNSEluYWpHNURldzhWbnRtRWwzaDU0MHlnNGw0d3JCZzZXMWVkQkF4cTdMYkdncVRxYmUxOGUzLTJLdE9CejM2U01ZdXBjTkpKUDZuY0pvTER3RFlzSmE4aW9zdHVUUWVLSTB5ZGZHa1RYTGRzZC1ZeUY0N09URHE4bXoycTNncVRiQmFXQmxVQkplTDYxWUVKWkFSV0E?oc=5",
+      "domain": "news.google.com",
+      "source": "The City Menus",
+      "language": "English",
+      "published_at": "2026-09-30T20:39:14+00:00",
+      "summary": "West Georgia Technical College and Georgia Power Address Manufacturing Workforce Needs Through Accelerated Training The City Menus",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOFB2UmxQcUVSOGQ0cHo0Qm5EcjhiYmlWQzJySDZzY3oxbWFURDJiYlBweE9HVWttcV9pSzhDZzNGTjRodWtGd25FRlIzeDNNbmxNSEluYWpHNURldzhWbnRtRWwzaDU0MHlnNGw0d3JCZzZXMWVkQkF4cTdMYkdncVRxYmUxOGUzLTJLdE9CejM2U01ZdXBjTkpKUDZuY0pvTER3RFlzSmE4aW9zdHVUUWVLSTB5ZGZHa1RYTGRzZC1ZeUY0N09URHE4bXoycTNncVRiQmFXQmxVQkplTDYxWUVKWkFSV0E?oc=5\" target=\"_blank\">West Georgia Technical College and Georgia Power Address Manufacturing Workforce Needs Through Accelerated Training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The City Menus</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-01T00:59:56+00:00"
+    },
     {
       "id": "e7cf17d20be75ae6",
       "title": "Scheduled outage planned near W 38th Street as Georgia Power clears limbs - WSAV-TV",
@@ -19,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-30T20:27:08+00:00"
+    },
+    {
+      "id": "f7cd428349027c04",
+      "title": "Scheduled outage planned near W 38th Street as Georgia Power clears limbs - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXIwbGhPOE85S2NzRDd4TW80Q20zS1AzeFNkVWtTajBoRDFjQzZZSUFRcmU2VG1ldXNidjhMVTNpZWZ0c1pWVWktZE05Rm9WdUc4ay1mUDFFTjlIbkg3bDdQWUh6ZmgzM0pqYWxmQlB0dTFNeW9DMUZmaDJkZzFTcGlIcFRTNHBDTFE?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-09-30T17:30:58+00:00",
+      "summary": "Scheduled outage planned near W 38th Street as Georgia Power clears limbs Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXIwbGhPOE85S2NzRDd4TW80Q20zS1AzeFNkVWtTajBoRDFjQzZZSUFRcmU2VG1ldXNidjhMVTNpZWZ0c1pWVWktZE05Rm9WdUc4ay1mUDFFTjlIbkg3bDdQWUh6ZmgzM0pqYWxmQlB0dTFNeW9DMUZmaDJkZzFTcGlIcFRTNHBDTFE?oc=5\" target=\"_blank\">Scheduled outage planned near W 38th Street as Georgia Power clears limbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-01T00:59:56+00:00"
     },
     {
       "id": "b70e77a9f352c66b",

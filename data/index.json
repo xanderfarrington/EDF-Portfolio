@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T20:27:19+00:00",
+  "last_updated": "2026-10-01T01:00:07+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 427,
+      "count": 428,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "0f488d80de98eabd",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 831,
+      "count": 834,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "e7cf17d20be75ae6",
-        "title": "Scheduled outage planned near W 38th Street as Georgia Power clears limbs - WSAV-TV",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcl9jYm9YMmF1M2JHeE9XMG1MUVptYjg4Q08xakVudmNEY0UtbVREZHpVMDlPMmUxNFZiMVN0Z08tMXhXMWtCM2JrQkwySGtZRkZRUFE2SmZXZF9hb3lobVFEWnNPSjltWFhTR3RqdWc2VWVUMFVGdkYxc2RYQ08tZ1hPakF1WG5uZlIyTzJoUmVSaEFnMG5IT1RXWDRRZnRTTVJZTE94cE1NOU5ESUQ4Sl9SMzA3ZTZFUDNOSzVuOV8yUdIBxwFBVV95cUxQZWM0ajJkSDJ5cDJFblNyb29SQWlPOWFDM1IwR25BVGhhQmRicXNJalM0NnhENzJUbVF2bXZwaW42X1ZqRmhGQ3duNEFDbmFqYVdIdDZ6OTB6ak1qUGRRekJyQmdUS1R0SU1ad1Q3clpJVXg0Y0JrSUFkVUdGV052UjZvRVBFTExRczBlSk44X1RhSnZNb1lHTDBDeXlQMzlkS0pLX0poMXIzRUtYWGdCN0xiNnVIMVZqQWpQVWdQYkpEUktHTlFv?oc=5",
+        "id": "532ff59b4552886e",
+        "title": "Erie County man charged with making threats to Georgia power plant - niagara-gazette.com",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONk5ydzJEbU1rU2VNZzJwUkM2NUgtQUdaN2ZpRUVVV3I2V2Ffa21QYjY4TkRCb0lIaFNBbmtTUXEtSXlual9xRHFVMzR2ajUxQjJjXzU2YmZPR2FxR0lzQVpIN0VzV280by1kZVp5ZjI3Nk01U1Z0ejFTRTJ5eXk4NlUtX0tqT09GWXZXS2ZpY3Q1SXg5Rm5vNVVfdk8taVl2cFl4Z1JfS2pja19DbWtDT2NXTXlaTHY3Zk9mNXVzb3hFNV9oYkloeDczVGxZQ3FjLVNhcVJMd2JMcDY2ZWVYc2l0OWp4U09KMjQ1YWZGaVA?oc=5",
         "domain": "news.google.com",
-        "source": "WSAV-TV",
+        "source": "niagara-gazette.com",
         "language": "English",
-        "published_at": "2026-09-30T17:30:58+00:00",
-        "summary": "Scheduled outage planned near W 38th Street as Georgia Power clears limbs WSAV-TV",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcl9jYm9YMmF1M2JHeE9XMG1MUVptYjg4Q08xakVudmNEY0UtbVREZHpVMDlPMmUxNFZiMVN0Z08tMXhXMWtCM2JrQkwySGtZRkZRUFE2SmZXZF9hb3lobVFEWnNPSjltWFhTR3RqdWc2VWVUMFVGdkYxc2RYQ08tZ1hPakF1WG5uZlIyTzJoUmVSaEFnMG5IT1RXWDRRZnRTTVJZTE94cE1NOU5ESUQ4Sl9SMzA3ZTZFUDNOSzVuOV8yUdIBxwFBVV95cUxQZWM0ajJkSDJ5cDJFblNyb29SQWlPOWFDM1IwR25BVGhhQmRicXNJalM0NnhENzJUbVF2bXZwaW42X1ZqRmhGQ3duNEFDbmFqYVdIdDZ6OTB6ak1qUGRRekJyQmdUS1R0SU1ad1Q3clpJVXg0Y0JrSUFkVUdGV052UjZvRVBFTExRczBlSk44X1RhSnZNb1lHTDBDeXlQMzlkS0pLX0poMXIzRUtYWGdCN0xiNnVIMVZqQWpQVWdQYkpEUktHTlFv?oc=5\" target=\"_blank\">Scheduled outage planned near W 38th Street as Georgia Power clears limbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAV-TV</font>",
+        "published_at": "2026-09-30T21:32:00+00:00",
+        "summary": "Erie County man charged with making threats to Georgia power plant niagara-gazette.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxONk5ydzJEbU1rU2VNZzJwUkM2NUgtQUdaN2ZpRUVVV3I2V2Ffa21QYjY4TkRCb0lIaFNBbmtTUXEtSXlual9xRHFVMzR2ajUxQjJjXzU2YmZPR2FxR0lzQVpIN0VzV280by1kZVp5ZjI3Nk01U1Z0ejFTRTJ5eXk4NlUtX0tqT09GWXZXS2ZpY3Q1SXg5Rm5vNVVfdk8taVl2cFl4Z1JfS2pja19DbWtDT2NXTXlaTHY3Zk9mNXVzb3hFNV9oYkloeDczVGxZQ3FjLVNhcVJMd2JMcDY2ZWVYc2l0OWp4U09KMjQ1YWZGaVA?oc=5\" target=\"_blank\">Erie County man charged with making threats to Georgia power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">niagara-gazette.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-30T20:27:08+00:00"
+        "collected_at": "2026-10-01T00:59:56+00:00"
       }
     },
     {

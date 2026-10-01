@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-09-30T20:26:52+00:00",
+  "last_updated": "2026-10-01T00:59:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 427,
+  "count": 428,
   "mentions": [
     {
       "id": "0f488d80de98eabd",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-30T14:29:53+00:00"
+    },
+    {
+      "id": "1c54f69e7135a0c1",
+      "title": "Alabama Power Donates Bucket Truck To Trenholm State For Student Training - Montgomery Independent",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNDgyanpOU0dvU2VjNGs1VGktdndsMTZiV0EybEZLY3lTUW9EMEljQV9ZcXJWQm4yUVRuMm90ZTJBMjdpclhsa3RqYlh6SUtPLTkzb1VZWEt2VkcyUnQ2VEdockZCaE5NdDd6X045TzFuMnZvc2UwNDk2QkdjOXY2YzBwNmMtYTB5ZzMwR0g5MURmTTQzMHN0clhLRUNyUFh2Tkh3VDhZbTd3bXVRX2MtSmtJcm5ZT3V1eUJCYl9pNDNYVVpNZUZaV01MeUl4dHYyZUlNVWkzbWFDWXdVLVhKeVlUaFM3MHptcXBzazR0cjRZemJrTHUydFBB?oc=5",
+      "domain": "news.google.com",
+      "source": "Montgomery Independent",
+      "language": "English",
+      "published_at": "2026-09-30T14:00:00+00:00",
+      "summary": "Alabama Power Donates Bucket Truck To Trenholm State For Student Training Montgomery Independent",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNDgyanpOU0dvU2VjNGs1VGktdndsMTZiV0EybEZLY3lTUW9EMEljQV9ZcXJWQm4yUVRuMm90ZTJBMjdpclhsa3RqYlh6SUtPLTkzb1VZWEt2VkcyUnQ2VEdockZCaE5NdDd6X045TzFuMnZvc2UwNDk2QkdjOXY2YzBwNmMtYTB5ZzMwR0g5MURmTTQzMHN0clhLRUNyUFh2Tkh3VDhZbTd3bXVRX2MtSmtJcm5ZT3V1eUJCYl9pNDNYVVpNZUZaV01MeUl4dHYyZUlNVWkzbWFDWXdVLVhKeVlUaFM3MHptcXBzazR0cjRZemJrTHUydFBB?oc=5\" target=\"_blank\">Alabama Power Donates Bucket Truck To Trenholm State For Student Training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Montgomery Independent</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-01T00:59:40+00:00"
     },
     {
       "id": "2b442c18099984ff",
