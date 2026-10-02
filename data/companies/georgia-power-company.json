@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-02T03:35:20+00:00",
+  "last_updated": "2026-10-02T10:14:06+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 840,
+  "count": 842,
   "mentions": [
+    {
+      "id": "37a0e14128b0b987",
+      "title": "Google could help pay for Georgia nuclear upgrades - Savannah Morning News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1hKSVRhbjMxUlczTHNvTHprSkgtQVpKazZjanpZTU1tQUJkbE5IYmUxMS1rcHlGaG1BbzZwR0FORVI5RzhhUGFPcGUxazZMZFdYaGxTRGpaUThaTkVCMzJwRVZaRkJ5OXJKbndfS2NncHdTTmI1VzdFT0dBbllsWi11TGgxbkd4MTdFaER6TFJNRWxvMXBBcVdpMm4xRldQREFhMXo0UTFWSGwwMzFpSzBVc1lHRmozNEFFR1dZZEVBMW04TlE?oc=5",
+      "domain": "news.google.com",
+      "source": "Savannah Morning News",
+      "language": "English",
+      "published_at": "2026-10-02T09:01:00+00:00",
+      "summary": "Google could help pay for Georgia nuclear upgrades Savannah Morning News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1hKSVRhbjMxUlczTHNvTHprSkgtQVpKazZjanpZTU1tQUJkbE5IYmUxMS1rcHlGaG1BbzZwR0FORVI5RzhhUGFPcGUxazZMZFdYaGxTRGpaUThaTkVCMzJwRVZaRkJ5OXJKbndfS2NncHdTTmI1VzdFT0dBbllsWi11TGgxbkd4MTdFaER6TFJNRWxvMXBBcVdpMm4xRldQREFhMXo0UTFWSGwwMzFpSzBVc1lHRmozNEFFR1dZZEVBMW04TlE?oc=5\" target=\"_blank\">Google could help pay for Georgia nuclear upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-02T10:14:06+00:00"
+    },
     {
       "id": "10a24f44f249f094",
       "title": "Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It. - The Globe and Mail",
@@ -229,6 +243,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-30T20:27:08+00:00"
+    },
+    {
+      "id": "51db162368dd393e",
+      "title": "Hunton Advises on Georgia Power Company’s Tax-Exempt Remarketing - hunton.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONWtGaXhOa3VNbGhMTEFHZGNGYXhJUWZHXzZaczdRaTRVdkpuZ1hOeUVMR001V3NBdHFhRTJCZHhEMHozb0lCU0NselBHR1JuT2xOSFFMVU5IUnNVallfMU1lV1RXdnIwallwWElLWVI2Rm43Y0d5bG5PM19KVFlLdVgtbi1PLU9yUG9ZZXItWm1YdXpUTnc?oc=5",
+      "domain": "news.google.com",
+      "source": "hunton.com",
+      "language": "English",
+      "published_at": "2026-09-29T07:00:00+00:00",
+      "summary": "Hunton Advises on Georgia Power Company’s Tax-Exempt Remarketing hunton.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxONWtGaXhOa3VNbGhMTEFHZGNGYXhJUWZHXzZaczdRaTRVdkpuZ1hOeUVMR001V3NBdHFhRTJCZHhEMHozb0lCU0NselBHR1JuT2xOSFFMVU5IUnNVallfMU1lV1RXdnIwallwWElLWVI2Rm43Y0d5bG5PM19KVFlLdVgtbi1PLU9yUG9ZZXItWm1YdXpUTnc?oc=5\" target=\"_blank\">Hunton Advises on Georgia Power Company’s Tax-Exempt Remarketing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hunton.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-02T10:14:06+00:00"
     },
     {
       "id": "5ab2a11788f7abfa",

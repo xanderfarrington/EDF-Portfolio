@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T03:35:30+00:00",
+  "last_updated": "2026-10-02T10:14:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 840,
+      "count": 842,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "10a24f44f249f094",
-        "title": "Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It. - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUmNPVXdMQkRYOUhIM0xWSV9RRW9yX3JOU09qb093YXJvUGs2eXpYRmZKTlcwTmdyRWpmMHRhY21pMWxDamNxTUpBb1NoOVNseTVoT2k0V0o1WUN2QTJkSmRXZFZoVHpaVXVMUzRac2tXN09kM3gyZk5tV1R0Zm4wYi03Tm9uaXQ1Z1NLeTc4dU03RmxQMzd0QkRhaEFpVmlQR1RZU0ZOaXMzZjlTOUpETmF6R1psMXhCSzBSbkJPNVppd29VUWEyVjE2bVRWc0tIOExGOFpscFI5bjJOSVFZb0otRWMyM0g5N05VamlROC1HQktnT2F6VVA5Nzg?oc=5",
+        "id": "37a0e14128b0b987",
+        "title": "Google could help pay for Georgia nuclear upgrades - Savannah Morning News",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1hKSVRhbjMxUlczTHNvTHprSkgtQVpKazZjanpZTU1tQUJkbE5IYmUxMS1rcHlGaG1BbzZwR0FORVI5RzhhUGFPcGUxazZMZFdYaGxTRGpaUThaTkVCMzJwRVZaRkJ5OXJKbndfS2NncHdTTmI1VzdFT0dBbllsWi11TGgxbkd4MTdFaER6TFJNRWxvMXBBcVdpMm4xRldQREFhMXo0UTFWSGwwMzFpSzBVc1lHRmozNEFFR1dZZEVBMW04TlE?oc=5",
         "domain": "news.google.com",
-        "source": "The Globe and Mail",
+        "source": "Savannah Morning News",
         "language": "English",
-        "published_at": "2026-10-01T20:33:24+00:00",
-        "summary": "Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It. The Globe and Mail",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUmNPVXdMQkRYOUhIM0xWSV9RRW9yX3JOU09qb093YXJvUGs2eXpYRmZKTlcwTmdyRWpmMHRhY21pMWxDamNxTUpBb1NoOVNseTVoT2k0V0o1WUN2QTJkSmRXZFZoVHpaVXVMUzRac2tXN09kM3gyZk5tV1R0Zm4wYi03Tm9uaXQ1Z1NLeTc4dU03RmxQMzd0QkRhaEFpVmlQR1RZU0ZOaXMzZjlTOUpETmF6R1psMXhCSzBSbkJPNVppd29VUWEyVjE2bVRWc0tIOExGOFpscFI5bjJOSVFZb0otRWMyM0g5N05VamlROC1HQktnT2F6VVA5Nzg?oc=5\" target=\"_blank\">Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+        "published_at": "2026-10-02T09:01:00+00:00",
+        "summary": "Google could help pay for Georgia nuclear upgrades Savannah Morning News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1hKSVRhbjMxUlczTHNvTHprSkgtQVpKazZjanpZTU1tQUJkbE5IYmUxMS1rcHlGaG1BbzZwR0FORVI5RzhhUGFPcGUxazZMZFdYaGxTRGpaUThaTkVCMzJwRVZaRkJ5OXJKbndfS2NncHdTTmI1VzdFT0dBbllsWi11TGgxbkd4MTdFaER6TFJNRWxvMXBBcVdpMm4xRldQREFhMXo0UTFWSGwwMzFpSzBVc1lHRmozNEFFR1dZZEVBMW04TlE?oc=5\" target=\"_blank\">Google could help pay for Georgia nuclear upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-01T22:13:35+00:00"
+        "collected_at": "2026-10-02T10:14:06+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 62,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "62da534190e29cd2",
         "title": "Iowa is leading America's nuclear power comeback | Opinion - The Des Moines Register",
