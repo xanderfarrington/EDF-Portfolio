@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T22:13:46+00:00",
+  "last_updated": "2026-10-02T03:35:30+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 428,
+      "count": 429,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "0f488d80de98eabd",
-        "title": "Alabama Power Donates Bucket Truck To Trenholm State For Student Training - montgomeryindependent.com",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNDgyanpOU0dvU2VjNGs1VGktdndsMTZiV0EybEZLY3lTUW9EMEljQV9ZcXJWQm4yUVRuMm90ZTJBMjdpclhsa3RqYlh6SUtPLTkzb1VZWEt2VkcyUnQ2VEdockZCaE5NdDd6X045TzFuMnZvc2UwNDk2QkdjOXY2YzBwNmMtYTB5ZzMwR0g5MURmTTQzMHN0clhLRUNyUFh2Tkh3VDhZbTd3bXVRX2MtSmtJcm5ZT3V1eUJCYl9pNDNYVVpNZUZaV01MeUl4dHYyZUlNVWkzbWFDWXdVLVhKeVlUaFM3MHptcXBzazR0cjRZemJrTHUydFBB?oc=5",
+        "id": "5e8b96dd23a4aa56",
+        "title": "Alabama Power appeals order blocking entry onto Shelby County man's property - WVTM Channel 13",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSU1FQUVfb2xjRllrNWlIRHlTVDRGMzd3Y29HcGlZNFpDSTNSdjNwRlBVbUl0aEFwdUplNzlBa2JUSElIM1FxS2dMU051ZEtfMTRucmcxZDhNcVBBcGVLZ3BuMzFaV3hfeDJ5WVJzX0o4MU9CQ3lMVi1RR1pDNkRzckRJYnpuWDViVzFmd0lR?oc=5",
         "domain": "news.google.com",
-        "source": "montgomeryindependent.com",
+        "source": "WVTM Channel 13",
         "language": "English",
-        "published_at": "2026-09-30T14:00:00+00:00",
-        "summary": "Alabama Power Donates Bucket Truck To Trenholm State For Student Training montgomeryindependent.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNDgyanpOU0dvU2VjNGs1VGktdndsMTZiV0EybEZLY3lTUW9EMEljQV9ZcXJWQm4yUVRuMm90ZTJBMjdpclhsa3RqYlh6SUtPLTkzb1VZWEt2VkcyUnQ2VEdockZCaE5NdDd6X045TzFuMnZvc2UwNDk2QkdjOXY2YzBwNmMtYTB5ZzMwR0g5MURmTTQzMHN0clhLRUNyUFh2Tkh3VDhZbTd3bXVRX2MtSmtJcm5ZT3V1eUJCYl9pNDNYVVpNZUZaV01MeUl4dHYyZUlNVWkzbWFDWXdVLVhKeVlUaFM3MHptcXBzazR0cjRZemJrTHUydFBB?oc=5\" target=\"_blank\">Alabama Power Donates Bucket Truck To Trenholm State For Student Training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">montgomeryindependent.com</font>",
+        "published_at": "2026-10-02T00:04:00+00:00",
+        "summary": "Alabama Power appeals order blocking entry onto Shelby County man's property WVTM Channel 13",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSU1FQUVfb2xjRllrNWlIRHlTVDRGMzd3Y29HcGlZNFpDSTNSdjNwRlBVbUl0aEFwdUplNzlBa2JUSElIM1FxS2dMU051ZEtfMTRucmcxZDhNcVBBcGVLZ3BuMzFaV3hfeDJ5WVJzX0o4MU9CQ3lMVi1RR1pDNkRzckRJYnpuWDViVzFmd0lR?oc=5\" target=\"_blank\">Alabama Power appeals order blocking entry onto Shelby County man's property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM Channel 13</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-30T14:29:53+00:00"
+        "collected_at": "2026-10-02T03:35:03+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 839,
+      "count": 840,
       "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "10a24f44f249f094",

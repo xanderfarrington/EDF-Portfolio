@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-01T22:13:35+00:00",
+  "last_updated": "2026-10-02T03:35:20+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 839,
+  "count": 840,
   "mentions": [
     {
       "id": "10a24f44f249f094",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-01T08:08:36+00:00"
+    },
+    {
+      "id": "fb3b9242c12a69a4",
+      "title": "Holland man arrested for threat on Georgia power plant – News 4 Buffalo - WIVB News 4",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjB6QWlDQ0hwVWZMTndoVE5vOFpfTEJkeldpS0FlaENKQWdhaV94UU9OYUl3SGUyOWlnS1lnZEFyYlZFRkpYSkRPSUxEdExvcGgtLVlaUDlXdnk5X2czdFF1MDB5WlpFNG0wLWRHX1RSZnA1a19kblgtdkFYdktpczMtbHlHNEdaLXpnbmQtY2pEZzRMaUE?oc=5",
+      "domain": "news.google.com",
+      "source": "WIVB News 4",
+      "language": "English",
+      "published_at": "2026-10-01T02:32:49+00:00",
+      "summary": "Holland man arrested for threat on Georgia power plant – News 4 Buffalo WIVB News 4",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjB6QWlDQ0hwVWZMTndoVE5vOFpfTEJkeldpS0FlaENKQWdhaV94UU9OYUl3SGUyOWlnS1lnZEFyYlZFRkpYSkRPSUxEdExvcGgtLVlaUDlXdnk5X2czdFF1MDB5WlpFNG0wLWRHX1RSZnA1a19kblgtdkFYdktpczMtbHlHNEdaLXpnbmQtY2pEZzRMaUE?oc=5\" target=\"_blank\">Holland man arrested for threat on Georgia power plant – News 4 Buffalo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIVB News 4</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-02T03:35:20+00:00"
     },
     {
       "id": "532ff59b4552886e",
