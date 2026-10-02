@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T17:15:00+00:00",
+  "last_updated": "2026-10-02T21:42:22+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 430,
+      "count": 431,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "5e8b96dd23a4aa56",
-        "title": "Alabama Power appeals order blocking entry onto Shelby County man's property - WVTM Channel 13",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSU1FQUVfb2xjRllrNWlIRHlTVDRGMzd3Y29HcGlZNFpDSTNSdjNwRlBVbUl0aEFwdUplNzlBa2JUSElIM1FxS2dMU051ZEtfMTRucmcxZDhNcVBBcGVLZ3BuMzFaV3hfeDJ5WVJzX0o4MU9CQ3lMVi1RR1pDNkRzckRJYnpuWDViVzFmd0lR?oc=5",
+        "id": "29015635d1bdd33c",
+        "title": "Alabama Power appeals court order blocking access to Shelby County man’s property - al.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenRsemstMGpGWVB6b0tJc3RiTjk5RDRtNkxLXzVMZW4wd0pYajM0SnBmNGIwOVRvSzRRTV9pZzI2LW1FV05KODg5VklWOUkyY2kyUEhIcGIyNmhCQnYwQkF2N0dlZkNFa25JN1BzMFZ4S3ZnRkFreTRVM2h5NThZWVhIVlJhOFhBd3lMSnl4SXNaNXF3MkJjQ0pMSzNnbDdsQzJ2WG01UUdTWGk5akJtbldaSk1iaks20gHMAUFVX3lxTE1sV0R2LXZJV2IzNWZaZG5DanFYZERWSjVsamdwVUJBckFVZ1pwaHc5al9NVEhiRG1XN0hSZ1Bzb1FQNnpWTGYteWlvMGtTeFd4Zkc5aTczckowRTZKa3hJLUllR2xmOVZkUDhkUnhEQ0JUcDNaXzFFYlh3R0JTLVhEWTVEWlFqWm5MSVBOcjZGOXVJTTRTc21kZ0Q3aDd3TXl4eWhtdkZIMEtUVDEyMDF2dFF0Wmdyek1CYmcybzdvUnQtbF8xeUllRGR0Mw?oc=5",
         "domain": "news.google.com",
-        "source": "WVTM Channel 13",
+        "source": "al.com",
         "language": "English",
-        "published_at": "2026-10-02T00:04:00+00:00",
-        "summary": "Alabama Power appeals order blocking entry onto Shelby County man's property WVTM Channel 13",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSU1FQUVfb2xjRllrNWlIRHlTVDRGMzd3Y29HcGlZNFpDSTNSdjNwRlBVbUl0aEFwdUplNzlBa2JUSElIM1FxS2dMU051ZEtfMTRucmcxZDhNcVBBcGVLZ3BuMzFaV3hfeDJ5WVJzX0o4MU9CQ3lMVi1RR1pDNkRzckRJYnpuWDViVzFmd0lR?oc=5\" target=\"_blank\">Alabama Power appeals order blocking entry onto Shelby County man's property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM Channel 13</font>",
+        "published_at": "2026-10-02T19:28:00+00:00",
+        "summary": "Alabama Power appeals court order blocking access to Shelby County man’s property al.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenRsemstMGpGWVB6b0tJc3RiTjk5RDRtNkxLXzVMZW4wd0pYajM0SnBmNGIwOVRvSzRRTV9pZzI2LW1FV05KODg5VklWOUkyY2kyUEhIcGIyNmhCQnYwQkF2N0dlZkNFa25JN1BzMFZ4S3ZnRkFreTRVM2h5NThZWVhIVlJhOFhBd3lMSnl4SXNaNXF3MkJjQ0pMSzNnbDdsQzJ2WG01UUdTWGk5akJtbldaSk1iaks20gHMAUFVX3lxTE1sV0R2LXZJV2IzNWZaZG5DanFYZERWSjVsamdwVUJBckFVZ1pwaHc5al9NVEhiRG1XN0hSZ1Bzb1FQNnpWTGYteWlvMGtTeFd4Zkc5aTczckowRTZKa3hJLUllR2xmOVZkUDhkUnhEQ0JUcDNaXzFFYlh3R0JTLVhEWTVEWlFqWm5MSVBOcjZGOXVJTTRTc21kZ0Q3aDd3TXl4eWhtdkZIMEtUVDEyMDF2dFF0Wmdyek1CYmcybzdvUnQtbF8xeUllRGR0Mw?oc=5\" target=\"_blank\">Alabama Power appeals court order blocking access to Shelby County man’s property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-02T03:35:03+00:00"
+        "collected_at": "2026-10-02T21:41:54+00:00"
       }
     },
     {
