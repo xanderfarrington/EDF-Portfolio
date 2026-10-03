@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T12:56:40+00:00",
+  "last_updated": "2026-10-03T17:43:23+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 436,
-      "new_mentions_this_run": 20,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "29015635d1bdd33c",
         "title": "Alabama Power appeals court order blocking access to Shelby County man’s property - al.com",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 846,
-      "new_mentions_this_run": 25,
+      "count": 847,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "d327ed9f5cc4332c",
         "title": "Georgia Power to conduct traffic pacing for power line stringing across I-20 and I-285 Oct 10 - Cobb Courier",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 62,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "62da534190e29cd2",
         "title": "Iowa is leading America's nuclear power comeback | Opinion - The Des Moines Register",

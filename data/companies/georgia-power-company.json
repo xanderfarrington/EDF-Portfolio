@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-03T12:56:29+00:00",
+  "last_updated": "2026-10-03T17:43:13+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 846,
+  "count": 847,
   "mentions": [
     {
       "id": "d327ed9f5cc4332c",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-01T22:13:35+00:00"
+    },
+    {
+      "id": "79bf6c9312e49bd8",
+      "title": "Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPV3RyRXhFRGJVYk85czZkNmt2QlNKdEI2M0dORnBhWkE1eThxQnBUdVJNaENCWWNUSjBhOHZ0SkV4azhESHRSanlNTWpDT2pFOHRnZ0FjVXlMREtoVEFrN3QyNzE4WURrUlVBdzhqZkZrMEJ3T1FvbDRrbDZmVng0TVhXZ1ZUX0FXVUdIMTZUb0ZPYnVCc2c0allFZlRYQXF0M01PSVBrNlpLYVp6LXJiNkNxeWYtanlBSExYZHpXUnlhdG1YbzVHWDA2N3JxeXZzRHAwb3YzYXVHeXVwcm0tSVNJLWZDalBRM2hROUwxeXJ6bGN2RjNJaWR3?oc=5",
+      "domain": "news.google.com",
+      "source": "The Globe and Mail",
+      "language": "English",
+      "published_at": "2026-10-01T20:33:20+00:00",
+      "summary": "Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It. The Globe and Mail",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPV3RyRXhFRGJVYk85czZkNmt2QlNKdEI2M0dORnBhWkE1eThxQnBUdVJNaENCWWNUSjBhOHZ0SkV4azhESHRSanlNTWpDT2pFOHRnZ0FjVXlMREtoVEFrN3QyNzE4WURrUlVBdzhqZkZrMEJ3T1FvbDRrbDZmVng0TVhXZ1ZUX0FXVUdIMTZUb0ZPYnVCc2c0allFZlRYQXF0M01PSVBrNlpLYVp6LXJiNkNxeWYtanlBSExYZHpXUnlhdG1YbzVHWDA2N3JxeXZzRHAwb3YzYXVHeXVwcm0tSVNJLWZDalBRM2hROUwxeXJ6bGN2RjNJaWR3?oc=5\" target=\"_blank\">Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-03T17:43:13+00:00"
     },
     {
       "id": "d271b8802b0ed0d1",
