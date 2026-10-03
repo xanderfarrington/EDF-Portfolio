@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-03T07:26:18+00:00",
+  "last_updated": "2026-10-03T12:56:29+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 843,
+  "count": 846,
   "mentions": [
+    {
+      "id": "d327ed9f5cc4332c",
+      "title": "Georgia Power to conduct traffic pacing for power line stringing across I-20 and I-285 Oct 10 - Cobb Courier",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYkhYV1MtbTF5VFotVTQ1NE11QUJCOUdlYkNHMklMNm00TVhTQ3VnWFVJZUsxQUxXeU9UY2hWd0t2c1hSZU1ocklBQ1BuVEVFVVV6WkJMNTdkSGFTNnRnSWFEQi1TQjAzQzJtS3dJM1J2SGx1SkVYN3BfWnR6S2wtU2hWaG9qMEJsTVA1eldGZFhYOENrcnBmOTdhNjh1cEU1NmFGcjBHT2RQajhLcGtmTmtoVXMzN1YyZ0ZJTmFyQVFzZ3A2WVJCY0oyRjA?oc=5",
+      "domain": "news.google.com",
+      "source": "Cobb Courier",
+      "language": "English",
+      "published_at": "2026-10-03T11:28:34+00:00",
+      "summary": "Georgia Power to conduct traffic pacing for power line stringing across I-20 and I-285 Oct 10 Cobb Courier",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOYkhYV1MtbTF5VFotVTQ1NE11QUJCOUdlYkNHMklMNm00TVhTQ3VnWFVJZUsxQUxXeU9UY2hWd0t2c1hSZU1ocklBQ1BuVEVFVVV6WkJMNTdkSGFTNnRnSWFEQi1TQjAzQzJtS3dJM1J2SGx1SkVYN3BfWnR6S2wtU2hWaG9qMEJsTVA1eldGZFhYOENrcnBmOTdhNjh1cEU1NmFGcjBHT2RQajhLcGtmTmtoVXMzN1YyZ0ZJTmFyQVFzZ3A2WVJCY0oyRjA?oc=5\" target=\"_blank\">Georgia Power to conduct traffic pacing for power line stringing across I-20 and I-285 Oct 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cobb Courier</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-03T12:56:29+00:00"
+    },
     {
       "id": "37a0e14128b0b987",
       "title": "Google could help pay for Georgia nuclear upgrades - Savannah Morning News",
@@ -161,6 +175,20 @@
       "collected_at": "2026-10-01T16:49:49+00:00"
     },
     {
+      "id": "ae918a82fde9c580",
+      "title": "Scheduled outage planned near W 38th Street as Georgia Power clears limbs - wsav.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcl9jYm9YMmF1M2JHeE9XMG1MUVptYjg4Q08xakVudmNEY0UtbVREZHpVMDlPMmUxNFZiMVN0Z08tMXhXMWtCM2JrQkwySGtZRkZRUFE2SmZXZF9hb3lobVFEWnNPSjltWFhTR3RqdWc2VWVUMFVGdkYxc2RYQ08tZ1hPakF1WG5uZlIyTzJoUmVSaEFnMG5IT1RXWDRRZnRTTVJZTE94cE1NOU5ESUQ4Sl9SMzA3ZTZFUDNOSzVuOV8yUdIBxwFBVV95cUxQZWM0ajJkSDJ5cDJFblNyb29SQWlPOWFDM1IwR25BVGhhQmRicXNJalM0NnhENzJUbVF2bXZwaW42X1ZqRmhGQ3duNEFDbmFqYVdIdDZ6OTB6ak1qUGRRekJyQmdUS1R0SU1ad1Q3clpJVXg0Y0JrSUFkVUdGV052UjZvRVBFTExRczBlSk44X1RhSnZNb1lHTDBDeXlQMzlkS0pLX0poMXIzRUtYWGdCN0xiNnVIMVZqQWpQVWdQYkpEUktHTlFv?oc=5",
+      "domain": "news.google.com",
+      "source": "wsav.com",
+      "language": "English",
+      "published_at": "2026-09-30T17:30:58+00:00",
+      "summary": "Scheduled outage planned near W 38th Street as Georgia Power clears limbs wsav.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcl9jYm9YMmF1M2JHeE9XMG1MUVptYjg4Q08xakVudmNEY0UtbVREZHpVMDlPMmUxNFZiMVN0Z08tMXhXMWtCM2JrQkwySGtZRkZRUFE2SmZXZF9hb3lobVFEWnNPSjltWFhTR3RqdWc2VWVUMFVGdkYxc2RYQ08tZ1hPakF1WG5uZlIyTzJoUmVSaEFnMG5IT1RXWDRRZnRTTVJZTE94cE1NOU5ESUQ4Sl9SMzA3ZTZFUDNOSzVuOV8yUdIBxwFBVV95cUxQZWM0ajJkSDJ5cDJFblNyb29SQWlPOWFDM1IwR25BVGhhQmRicXNJalM0NnhENzJUbVF2bXZwaW42X1ZqRmhGQ3duNEFDbmFqYVdIdDZ6OTB6ak1qUGRRekJyQmdUS1R0SU1ad1Q3clpJVXg0Y0JrSUFkVUdGV052UjZvRVBFTExRczBlSk44X1RhSnZNb1lHTDBDeXlQMzlkS0pLX0poMXIzRUtYWGdCN0xiNnVIMVZqQWpQVWdQYkpEUktHTlFv?oc=5\" target=\"_blank\">Scheduled outage planned near W 38th Street as Georgia Power clears limbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsav.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-03T12:56:29+00:00"
+    },
+    {
       "id": "b70e77a9f352c66b",
       "title": "3-hour power outage planned Thursday morning in part of Savannah - Savannah Morning News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenVDN2RqQnNoSVdyamNmRDliNi1fQVN0NU0tNExyNkgwOGYxcmE0NVZidGVUU2pBMkpEUWl3WFdBc0dpcl9QUEtMSzkxYzQ1REh4WnlDdTduOUhkZ3RyWHhJcGxtdGRGR1FFSFU1MHNmZng5aWxMVGN5YjRxX3ZMOGlkX0VGV1FXQXpXbkRIM2ZDT3FhV3puN2t6ZTJ0T3laVlh1UjMyeWl6ZC05Y0RqRVRuZXBGeUh4Y1lNVDJTODFHNEV3MVhSeg?oc=5",
@@ -187,6 +215,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-30T14:30:09+00:00"
+    },
+    {
+      "id": "35461eed5dceeade",
+      "title": "Scheduled outage set for Savannah’s 37th Street, says Georgia Power - wtoc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXJtUnFwR1g0Y25mWTBES1F5NlNCSGZMQ3lmVVZUek9JdzdQSVBnVHZ1Vl9KOENoWW9OcUNEN2RibFVzQWNrUGdqaW1XZlBqRVQ3c19yQy03Wl96eElnZ3dwWTNaMm91SHZ6eTVxa242SlZjTWRMYWdvV2lEYi1CTnJQMzFiLWdKN2c0Yk9FT0JPN2FBV1Y1QzBn?oc=5",
+      "domain": "news.google.com",
+      "source": "wtoc.com",
+      "language": "English",
+      "published_at": "2026-09-30T14:13:00+00:00",
+      "summary": "Scheduled outage set for Savannah’s 37th Street, says Georgia Power wtoc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXJtUnFwR1g0Y25mWTBES1F5NlNCSGZMQ3lmVVZUek9JdzdQSVBnVHZ1Vl9KOENoWW9OcUNEN2RibFVzQWNrUGdqaW1XZlBqRVQ3c19yQy03Wl96eElnZ3dwWTNaMm91SHZ6eTVxa242SlZjTWRMYWdvV2lEYi1CTnJQMzFiLWdKN2c0Yk9FT0JPN2FBV1Y1QzBn?oc=5\" target=\"_blank\">Scheduled outage set for Savannah’s 37th Street, says Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wtoc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-03T12:56:29+00:00"
     },
     {
       "id": "269f592a1abdc3e2",

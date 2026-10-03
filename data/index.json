@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-03T07:26:28+00:00",
+  "last_updated": "2026-10-03T12:56:40+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 108,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "79ca1b94c7018803",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - TradingView",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 435,
-      "new_mentions_this_run": 24,
+      "count": 436,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "29015635d1bdd33c",
         "title": "Alabama Power appeals court order blocking access to Shelby County man’s property - al.com",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 843,
-      "new_mentions_this_run": 24,
+      "count": 846,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "37a0e14128b0b987",
-        "title": "Google could help pay for Georgia nuclear upgrades - Savannah Morning News",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1hKSVRhbjMxUlczTHNvTHprSkgtQVpKazZjanpZTU1tQUJkbE5IYmUxMS1rcHlGaG1BbzZwR0FORVI5RzhhUGFPcGUxazZMZFdYaGxTRGpaUThaTkVCMzJwRVZaRkJ5OXJKbndfS2NncHdTTmI1VzdFT0dBbllsWi11TGgxbkd4MTdFaER6TFJNRWxvMXBBcVdpMm4xRldQREFhMXo0UTFWSGwwMzFpSzBVc1lHRmozNEFFR1dZZEVBMW04TlE?oc=5",
+        "id": "d327ed9f5cc4332c",
+        "title": "Georgia Power to conduct traffic pacing for power line stringing across I-20 and I-285 Oct 10 - Cobb Courier",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYkhYV1MtbTF5VFotVTQ1NE11QUJCOUdlYkNHMklMNm00TVhTQ3VnWFVJZUsxQUxXeU9UY2hWd0t2c1hSZU1ocklBQ1BuVEVFVVV6WkJMNTdkSGFTNnRnSWFEQi1TQjAzQzJtS3dJM1J2SGx1SkVYN3BfWnR6S2wtU2hWaG9qMEJsTVA1eldGZFhYOENrcnBmOTdhNjh1cEU1NmFGcjBHT2RQajhLcGtmTmtoVXMzN1YyZ0ZJTmFyQVFzZ3A2WVJCY0oyRjA?oc=5",
         "domain": "news.google.com",
-        "source": "Savannah Morning News",
+        "source": "Cobb Courier",
         "language": "English",
-        "published_at": "2026-10-02T09:01:00+00:00",
-        "summary": "Google could help pay for Georgia nuclear upgrades Savannah Morning News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1hKSVRhbjMxUlczTHNvTHprSkgtQVpKazZjanpZTU1tQUJkbE5IYmUxMS1rcHlGaG1BbzZwR0FORVI5RzhhUGFPcGUxazZMZFdYaGxTRGpaUThaTkVCMzJwRVZaRkJ5OXJKbndfS2NncHdTTmI1VzdFT0dBbllsWi11TGgxbkd4MTdFaER6TFJNRWxvMXBBcVdpMm4xRldQREFhMXo0UTFWSGwwMzFpSzBVc1lHRmozNEFFR1dZZEVBMW04TlE?oc=5\" target=\"_blank\">Google could help pay for Georgia nuclear upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+        "published_at": "2026-10-03T11:28:34+00:00",
+        "summary": "Georgia Power to conduct traffic pacing for power line stringing across I-20 and I-285 Oct 10 Cobb Courier",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOYkhYV1MtbTF5VFotVTQ1NE11QUJCOUdlYkNHMklMNm00TVhTQ3VnWFVJZUsxQUxXeU9UY2hWd0t2c1hSZU1ocklBQ1BuVEVFVVV6WkJMNTdkSGFTNnRnSWFEQi1TQjAzQzJtS3dJM1J2SGx1SkVYN3BfWnR6S2wtU2hWaG9qMEJsTVA1eldGZFhYOENrcnBmOTdhNjh1cEU1NmFGcjBHT2RQajhLcGtmTmtoVXMzN1YyZ0ZJTmFyQVFzZ3A2WVJCY0oyRjA?oc=5\" target=\"_blank\">Georgia Power to conduct traffic pacing for power line stringing across I-20 and I-285 Oct 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cobb Courier</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-02T10:14:06+00:00"
+        "collected_at": "2026-10-03T12:56:29+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 62,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "62da534190e29cd2",
         "title": "Iowa is leading America's nuclear power comeback | Opinion - The Des Moines Register",
