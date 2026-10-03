@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-03T00:52:42+00:00",
+  "last_updated": "2026-10-03T07:26:28+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 108,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "79ca1b94c7018803",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - TradingView",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 433,
-      "new_mentions_this_run": 25,
+      "count": 435,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "29015635d1bdd33c",
         "title": "Alabama Power appeals court order blocking access to Shelby County man’s property - al.com",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 843,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "37a0e14128b0b987",
         "title": "Google could help pay for Georgia nuclear upgrades - Savannah Morning News",

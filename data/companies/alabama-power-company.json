@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-03T00:52:15+00:00",
+  "last_updated": "2026-10-03T07:26:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 433,
+  "count": 435,
   "mentions": [
     {
       "id": "29015635d1bdd33c",
@@ -75,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-02T17:14:33+00:00"
+    },
+    {
+      "id": "4e675c2e36c30eb6",
+      "title": "Alabama Power v. Fenn Church headed to Supreme Court - abc3340.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmRrRWtudUs2R2UyNUxneUFxZUd6dFVqTFFxb2ZqdDRHdVBNMmg5anFPTllEbGVpbUdSeUpXNUw3cUlJUVh2aldQZjNFVFQyM29icUs1WG5OV0hZaWJjRTNDbmw3ZWFHX2dmLV9fTlVsUzdHb2g4Y2pid2FySk5DdGxHZGtJR3F2TDM4MWtMd0JOWDl0NW5PY3F6RHBRdlRta3ltOGkyMktPS2kx?oc=5",
+      "domain": "news.google.com",
+      "source": "abc3340.com",
+      "language": "English",
+      "published_at": "2026-10-01T23:24:30+00:00",
+      "summary": "Alabama Power v. Fenn Church headed to Supreme Court abc3340.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmRrRWtudUs2R2UyNUxneUFxZUd6dFVqTFFxb2ZqdDRHdVBNMmg5anFPTllEbGVpbUdSeUpXNUw3cUlJUVh2aldQZjNFVFQyM29icUs1WG5OV0hZaWJjRTNDbmw3ZWFHX2dmLV9fTlVsUzdHb2g4Y2pid2FySk5DdGxHZGtJR3F2TDM4MWtMd0JOWDl0NW5PY3F6RHBRdlRta3ltOGkyMktPS2kx?oc=5\" target=\"_blank\">Alabama Power v. Fenn Church headed to Supreme Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abc3340.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-03T07:26:01+00:00"
     },
     {
       "id": "0f488d80de98eabd",
@@ -159,6 +173,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-30T00:56:59+00:00"
+    },
+    {
+      "id": "6c87f0796ce8b7a4",
+      "title": "Alabama Power Asks Judge to Lift Order Blocking Shelby County Property Access - abc3340.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXNCakt3YlpiaERQVlhacjVWencyVzR2UWRnSGpQOWlacXFaYjNnM0VRTlYxVlloX181VW1WZUxnUFBmeDYzcGRDTVlJQmthakpuOUNsWFQ3MjBjdGlja3RCZDNOLVJzS0o5eWlyWDktbkJoWkVGZ3hLSlFXdThIekFmZVAyOWxIclF3ZHVUY0VMdE9XRGx6dmFFNzllYmlQQU1razBMQm5jM0U5Y1g0OHdzVnRfNURSNUo4TGx2LUhvdXlmSG0zSzctd0RLR3A1?oc=5",
+      "domain": "news.google.com",
+      "source": "abc3340.com",
+      "language": "English",
+      "published_at": "2026-09-29T23:15:11+00:00",
+      "summary": "Alabama Power Asks Judge to Lift Order Blocking Shelby County Property Access abc3340.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXNCakt3YlpiaERQVlhacjVWencyVzR2UWRnSGpQOWlacXFaYjNnM0VRTlYxVlloX181VW1WZUxnUFBmeDYzcGRDTVlJQmthakpuOUNsWFQ3MjBjdGlja3RCZDNOLVJzS0o5eWlyWDktbkJoWkVGZ3hLSlFXdThIekFmZVAyOWxIclF3ZHVUY0VMdE9XRGx6dmFFNzllYmlQQU1razBMQm5jM0U5Y1g0OHdzVnRfNURSNUo4TGx2LUhvdXlmSG0zSzctd0RLR3A1?oc=5\" target=\"_blank\">Alabama Power Asks Judge to Lift Order Blocking Shelby County Property Access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abc3340.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-03T07:26:01+00:00"
     },
     {
       "id": "15a7939f895192c0",
