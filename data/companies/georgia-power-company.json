@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-02T21:42:11+00:00",
+  "last_updated": "2026-10-03T00:52:32+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 842,
+  "count": 843,
   "mentions": [
     {
       "id": "37a0e14128b0b987",
@@ -229,6 +229,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-30T14:30:09+00:00"
+    },
+    {
+      "id": "5355def39b5dd8cf",
+      "title": "Google support for Georgia plant uprates - neimagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90WUNrUlpCU29xR20wbS02NjBhcTV5N0NWWjhfbmlUZmo5Ry1zU21xdGpRZmV0anJ5amtuREYtNGl3bFkxWDRaTWVvMW5teEtJYTZwNGRLZ2lPeHFKMHJjVE4tX2xFNlVuV2xDMGU4N3E0Z3V4ZnJsdXlNMktNZ1U?oc=5",
+      "domain": "news.google.com",
+      "source": "neimagazine.com",
+      "language": "English",
+      "published_at": "2026-09-29T18:19:43+00:00",
+      "summary": "Google support for Georgia plant uprates neimagazine.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE90WUNrUlpCU29xR20wbS02NjBhcTV5N0NWWjhfbmlUZmo5Ry1zU21xdGpRZmV0anJ5amtuREYtNGl3bFkxWDRaTWVvMW5teEtJYTZwNGRLZ2lPeHFKMHJjVE4tX2xFNlVuV2xDMGU4N3E0Z3V4ZnJsdXlNMktNZ1U?oc=5\" target=\"_blank\">Google support for Georgia plant uprates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">neimagazine.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-03T00:52:32+00:00"
     },
     {
       "id": "9c829318d54cd569",

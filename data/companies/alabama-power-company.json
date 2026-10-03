@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-02T21:41:54+00:00",
+  "last_updated": "2026-10-03T00:52:15+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 431,
+  "count": 433,
   "mentions": [
     {
       "id": "29015635d1bdd33c",
@@ -19,6 +19,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-02T21:41:54+00:00"
+    },
+    {
+      "id": "24a4f55ffcdf9704",
+      "title": "Alabama Power appeals court order blocking access to Shelby County man’s property - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenRsemstMGpGWVB6b0tJc3RiTjk5RDRtNkxLXzVMZW4wd0pYajM0SnBmNGIwOVRvSzRRTV9pZzI2LW1FV05KODg5VklWOUkyY2kyUEhIcGIyNmhCQnYwQkF2N0dlZkNFa25JN1BzMFZ4S3ZnRkFreTRVM2h5NThZWVhIVlJhOFhBd3lMSnl4SXNaNXF3MkJjQ0pMSzNnbDdsQzJ2WG01UUdTWGk5akJtbldaSk1iaks20gHMAUFVX3lxTE1sV0R2LXZJV2IzNWZaZG5DanFYZERWSjVsamdwVUJBckFVZ1pwaHc5al9NVEhiRG1XN0hSZ1Bzb1FQNnpWTGYteWlvMGtTeFd4Zkc5aTczckowRTZKa3hJLUllR2xmOVZkUDhkUnhEQ0JUcDNaXzFFYlh3R0JTLVhEWTVEWlFqWm5MSVBOcjZGOXVJTTRTc21kZ0Q3aDd3TXl4eWhtdkZIMEtUVDEyMDF2dFF0Wmdyek1CYmcybzdvUnQtbF8xeUllRGR0Mw?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-10-02T19:28:00+00:00",
+      "summary": "Alabama Power appeals court order blocking access to Shelby County man’s property AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenRsemstMGpGWVB6b0tJc3RiTjk5RDRtNkxLXzVMZW4wd0pYajM0SnBmNGIwOVRvSzRRTV9pZzI2LW1FV05KODg5VklWOUkyY2kyUEhIcGIyNmhCQnYwQkF2N0dlZkNFa25JN1BzMFZ4S3ZnRkFreTRVM2h5NThZWVhIVlJhOFhBd3lMSnl4SXNaNXF3MkJjQ0pMSzNnbDdsQzJ2WG01UUdTWGk5akJtbldaSk1iaks20gHMAUFVX3lxTE1sV0R2LXZJV2IzNWZaZG5DanFYZERWSjVsamdwVUJBckFVZ1pwaHc5al9NVEhiRG1XN0hSZ1Bzb1FQNnpWTGYteWlvMGtTeFd4Zkc5aTczckowRTZKa3hJLUllR2xmOVZkUDhkUnhEQ0JUcDNaXzFFYlh3R0JTLVhEWTVEWlFqWm5MSVBOcjZGOXVJTTRTc21kZ0Q3aDd3TXl4eWhtdkZIMEtUVDEyMDF2dFF0Wmdyek1CYmcybzdvUnQtbF8xeUllRGR0Mw?oc=5\" target=\"_blank\">Alabama Power appeals court order blocking access to Shelby County man’s property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-03T00:52:15+00:00"
+    },
+    {
+      "id": "43fa3a3a8a771a12",
+      "title": "Federal Realty Acquires The Summit For $508M - Bisnow",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGZ6RWExYVNlOG5lVUFSd29yNkhEU0Vma2h3S1hnVk1rSjRtSk9YRVA5eGFmVWhSXzJyOTRYSmtOekUtb0wzU0FVejM3R1hKSlhpeDZnblhQd2JRa3ZLT2dCcjVYeFY4SjRYRHRCSUthcFhJamlWTXVJVVY5S2VOd2tQeVhfVGY3aFdFSm5xUHl2OWhjam52blJYN3NvazN3THdHQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Bisnow",
+      "language": "English",
+      "published_at": "2026-10-02T17:46:26+00:00",
+      "summary": "Federal Realty Acquires The Summit For $508M Bisnow",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGZ6RWExYVNlOG5lVUFSd29yNkhEU0Vma2h3S1hnVk1rSjRtSk9YRVA5eGFmVWhSXzJyOTRYSmtOekUtb0wzU0FVejM3R1hKSlhpeDZnblhQd2JRa3ZLT2dCcjVYeFY4SjRYRHRCSUthcFhJamlWTXVJVVY5S2VOd2tQeVhfVGY3aFdFSm5xUHl2OWhjam52blJYN3NvazN3THdHQQ?oc=5\" target=\"_blank\">Federal Realty Acquires The Summit For $508M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnow</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-03T00:52:15+00:00"
     },
     {
       "id": "5e8b96dd23a4aa56",
