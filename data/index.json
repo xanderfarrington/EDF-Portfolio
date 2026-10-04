@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T13:36:59+00:00",
+  "last_updated": "2026-10-04T17:56:56+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 855,
+      "count": 856,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "b7ad065aff6d539a",
-        "title": "Georgia Power presents $52,500 donation to HSSAT - Jackson Progress-Argus",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON1ZrRFJWS3JGVkYzaVJVS2I2S0FGcWNSdHZZN2s0X3JhdkJqVE9xc2pJb0dBZktLTWZVejVTbmRGRmpDZEpGTVpQUmZ3aUdzSktWQnFTN3VoVGVvN0dGb05aQ2hhODYta21QRWZ3ZDlrUTVtUGVjaFNfaFFOVU9zVjZveU1UNEJZV3ozZ3RyMUlEX0R0d2w3d0JLRzBINnhrOWtlMWpoLUJ1VDNfUWUtUTBMcjFmWjFDU3ktNURDSVBfSTFoRHdkbnlqRkRVQWdOS2IySlZFVQ?oc=5",
+        "id": "4f7259b34b14da3b",
+        "title": "Erie County man faces federal charge in Georgia Power bomb threat case - WGRZ",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEdyQTlLay1kU19zdFJBYmlCZkl5akc3NG9JUzZqNEVjSFFCemU3MC1YbVQwM2xpYVpTTTl6elQxZGN0TkcxMDdZOXNQT2lBemFGVnZTRV9FNmtRV1otOTQwNDJ1bDhCWWhLRmRXdHMzNkVsSWtrdXhNdVhfU2JhT0V1cXdHMHhCZzJFTmJWVlc5TnpOMkd4UERJLVFvVW9WVjlPNHczbzFNUWdnTEhlQnhDYlZ0LW1yRzlEQ0tORW9rTWRwMzNwYXlDYjBmM3M?oc=5",
         "domain": "news.google.com",
-        "source": "Jackson Progress-Argus",
+        "source": "WGRZ",
         "language": "English",
-        "published_at": "2026-10-04T01:00:00+00:00",
-        "summary": "Georgia Power presents $52,500 donation to HSSAT Jackson Progress-Argus",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxON1ZrRFJWS3JGVkYzaVJVS2I2S0FGcWNSdHZZN2s0X3JhdkJqVE9xc2pJb0dBZktLTWZVejVTbmRGRmpDZEpGTVpQUmZ3aUdzSktWQnFTN3VoVGVvN0dGb05aQ2hhODYta21QRWZ3ZDlrUTVtUGVjaFNfaFFOVU9zVjZveU1UNEJZV3ozZ3RyMUlEX0R0d2w3d0JLRzBINnhrOWtlMWpoLUJ1VDNfUWUtUTBMcjFmWjFDU3ktNURDSVBfSTFoRHdkbnlqRkRVQWdOS2IySlZFVQ?oc=5\" target=\"_blank\">Georgia Power presents $52,500 donation to HSSAT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jackson Progress-Argus</font>",
+        "published_at": "2026-10-04T13:55:00+00:00",
+        "summary": "Erie County man faces federal charge in Georgia Power bomb threat case WGRZ",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEdyQTlLay1kU19zdFJBYmlCZkl5akc3NG9JUzZqNEVjSFFCemU3MC1YbVQwM2xpYVpTTTl6elQxZGN0TkcxMDdZOXNQT2lBemFGVnZTRV9FNmtRV1otOTQwNDJ1bDhCWWhLRmRXdHMzNkVsSWtrdXhNdVhfU2JhT0V1cXdHMHhCZzJFTmJWVlc5TnpOMkd4UERJLVFvVW9WVjlPNHczbzFNUWdnTEhlQnhDYlZ0LW1yRzlEQ0tORW9rTWRwMzNwYXlDYjBmM3M?oc=5\" target=\"_blank\">Erie County man faces federal charge in Georgia Power bomb threat case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGRZ</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-04T07:39:29+00:00"
+        "collected_at": "2026-10-04T17:56:46+00:00"
       }
     },
     {
