@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-04T07:39:13+00:00",
+  "last_updated": "2026-10-04T13:36:32+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 439,
+  "count": 441,
   "mentions": [
+    {
+      "id": "c9bedcc41b822536",
+      "title": "Comeback Town: Birmingham residential electric bills are 41% higher than Huntsville’s - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXE2aWlvR29XWWJsNnZEd1JwNmFyTWc0T3R6TzB4ZEVJX2U2YXVoLUs3N2drYmFNUzRBY0FCNkFlQkt4YzVnWk1ZblpFMlZFZ3VtbzhLa3p0TWo3ZzdyQlotbFhLSGVLM3MxRmxOdHRGX2FwRm53ZEZKT2JZOTFOZmt1UGpZTjFTU0syTjhwVE9rUzlTd2JjV0x3UGdjNnhabGVmQ2JKenNKcl9kLTYwWnZhVlRGenNoSVNBRjJoOWZTUUlTaXNjbDR3?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-10-04T13:00:00+00:00",
+      "summary": "Comeback Town: Birmingham residential electric bills are 41% higher than Huntsville’s AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXE2aWlvR29XWWJsNnZEd1JwNmFyTWc0T3R6TzB4ZEVJX2U2YXVoLUs3N2drYmFNUzRBY0FCNkFlQkt4YzVnWk1ZblpFMlZFZ3VtbzhLa3p0TWo3ZzdyQlotbFhLSGVLM3MxRmxOdHRGX2FwRm53ZEZKT2JZOTFOZmt1UGpZTjFTU0syTjhwVE9rUzlTd2JjV0x3UGdjNnhabGVmQ2JKenNKcl9kLTYwWnZhVlRGenNoSVNBRjJoOWZTUUlTaXNjbDR3?oc=5\" target=\"_blank\">Comeback Town: Birmingham residential electric bills are 41% higher than Huntsville’s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-04T13:36:32+00:00"
+    },
     {
       "id": "4daf451b345e19d3",
       "title": "Thousands lose power after severe storms roll through Central Alabama… - 1819 News",
@@ -75,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-03T00:52:15+00:00"
+    },
+    {
+      "id": "0b377a94eda55581",
+      "title": "Federal Realty Acquires The Summit For $508M - bisnow.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGZ6RWExYVNlOG5lVUFSd29yNkhEU0Vma2h3S1hnVk1rSjRtSk9YRVA5eGFmVWhSXzJyOTRYSmtOekUtb0wzU0FVejM3R1hKSlhpeDZnblhQd2JRa3ZLT2dCcjVYeFY4SjRYRHRCSUthcFhJamlWTXVJVVY5S2VOd2tQeVhfVGY3aFdFSm5xUHl2OWhjam52blJYN3NvazN3THdHQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "bisnow.com",
+      "language": "English",
+      "published_at": "2026-10-02T17:46:26+00:00",
+      "summary": "Federal Realty Acquires The Summit For $508M bisnow.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGZ6RWExYVNlOG5lVUFSd29yNkhEU0Vma2h3S1hnVk1rSjRtSk9YRVA5eGFmVWhSXzJyOTRYSmtOekUtb0wzU0FVejM3R1hKSlhpeDZnblhQd2JRa3ZLT2dCcjVYeFY4SjRYRHRCSUthcFhJamlWTXVJVVY5S2VOd2tQeVhfVGY3aFdFSm5xUHl2OWhjam52blJYN3NvazN3THdHQQ?oc=5\" target=\"_blank\">Federal Realty Acquires The Summit For $508M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bisnow.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-04T13:36:32+00:00"
     },
     {
       "id": "5e8b96dd23a4aa56",

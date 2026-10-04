@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-04T07:39:39+00:00",
+  "last_updated": "2026-10-04T13:36:59+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 108,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "79ca1b94c7018803",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - TradingView",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 439,
+      "count": 441,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "4daf451b345e19d3",
-        "title": "Thousands lose power after severe storms roll through Central Alabama… - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFV4c2IwZ0hRSHZJeWJnZDM1VVp6NXVzYWpsX29oZ2hVQVRjWVRYSGVXZWI4cmpxWDJIRFNPVWNNdGhWU1RKWExnemktdFlQVDZac1VFUUhQYWxQa3l6N1VCMXREcVFHeHctV2xvT1d6YWJkbGIyWG5fcE9VcTZWMm1qWFN0QUxHN29WTHg4dGtDUV9LUEUxYTQ1cjNmMURLeEE?oc=5",
+        "id": "c9bedcc41b822536",
+        "title": "Comeback Town: Birmingham residential electric bills are 41% higher than Huntsville’s - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXE2aWlvR29XWWJsNnZEd1JwNmFyTWc0T3R6TzB4ZEVJX2U2YXVoLUs3N2drYmFNUzRBY0FCNkFlQkt4YzVnWk1ZblpFMlZFZ3VtbzhLa3p0TWo3ZzdyQlotbFhLSGVLM3MxRmxOdHRGX2FwRm53ZEZKT2JZOTFOZmt1UGpZTjFTU0syTjhwVE9rUzlTd2JjV0x3UGdjNnhabGVmQ2JKenNKcl9kLTYwWnZhVlRGenNoSVNBRjJoOWZTUUlTaXNjbDR3?oc=5",
         "domain": "news.google.com",
-        "source": "1819 News",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-10-03T20:09:50+00:00",
-        "summary": "Thousands lose power after severe storms roll through Central Alabama… 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFV4c2IwZ0hRSHZJeWJnZDM1VVp6NXVzYWpsX29oZ2hVQVRjWVRYSGVXZWI4cmpxWDJIRFNPVWNNdGhWU1RKWExnemktdFlQVDZac1VFUUhQYWxQa3l6N1VCMXREcVFHeHctV2xvT1d6YWJkbGIyWG5fcE9VcTZWMm1qWFN0QUxHN29WTHg4dGtDUV9LUEUxYTQ1cjNmMURLeEE?oc=5\" target=\"_blank\">Thousands lose power after severe storms roll through Central Alabama…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-10-04T13:00:00+00:00",
+        "summary": "Comeback Town: Birmingham residential electric bills are 41% higher than Huntsville’s AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXE2aWlvR29XWWJsNnZEd1JwNmFyTWc0T3R6TzB4ZEVJX2U2YXVoLUs3N2drYmFNUzRBY0FCNkFlQkt4YzVnWk1ZblpFMlZFZ3VtbzhLa3p0TWo3ZzdyQlotbFhLSGVLM3MxRmxOdHRGX2FwRm53ZEZKT2JZOTFOZmt1UGpZTjFTU0syTjhwVE9rUzlTd2JjV0x3UGdjNnhabGVmQ2JKenNKcl9kLTYwWnZhVlRGenNoSVNBRjJoOWZTUUlTaXNjbDR3?oc=5\" target=\"_blank\">Comeback Town: Birmingham residential electric bills are 41% higher than Huntsville’s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-04T07:39:13+00:00"
+        "collected_at": "2026-10-04T13:36:32+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 853,
+      "count": 855,
       "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "b7ad065aff6d539a",

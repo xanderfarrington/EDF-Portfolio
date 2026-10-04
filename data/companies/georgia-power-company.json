@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-04T07:39:29+00:00",
+  "last_updated": "2026-10-04T13:36:48+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 853,
+  "count": 855,
   "mentions": [
     {
       "id": "b7ad065aff6d539a",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-04T07:39:29+00:00"
+    },
+    {
+      "id": "1a9d1b34c7b3510a",
+      "title": "Georgia Power presents $52,500 donation to HSSAT - jacksonprogress-argus.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON1ZrRFJWS3JGVkYzaVJVS2I2S0FGcWNSdHZZN2s0X3JhdkJqVE9xc2pJb0dBZktLTWZVejVTbmRGRmpDZEpGTVpQUmZ3aUdzSktWQnFTN3VoVGVvN0dGb05aQ2hhODYta21QRWZ3ZDlrUTVtUGVjaFNfaFFOVU9zVjZveU1UNEJZV3ozZ3RyMUlEX0R0d2w3d0JLRzBINnhrOWtlMWpoLUJ1VDNfUWUtUTBMcjFmWjFDU3ktNURDSVBfSTFoRHdkbnlqRkRVQWdOS2IySlZFVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "jacksonprogress-argus.com",
+      "language": "English",
+      "published_at": "2026-10-04T01:00:00+00:00",
+      "summary": "Georgia Power presents $52,500 donation to HSSAT jacksonprogress-argus.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxON1ZrRFJWS3JGVkYzaVJVS2I2S0FGcWNSdHZZN2s0X3JhdkJqVE9xc2pJb0dBZktLTWZVejVTbmRGRmpDZEpGTVpQUmZ3aUdzSktWQnFTN3VoVGVvN0dGb05aQ2hhODYta21QRWZ3ZDlrUTVtUGVjaFNfaFFOVU9zVjZveU1UNEJZV3ozZ3RyMUlEX0R0d2w3d0JLRzBINnhrOWtlMWpoLUJ1VDNfUWUtUTBMcjFmWjFDU3ktNURDSVBfSTFoRHdkbnlqRkRVQWdOS2IySlZFVQ?oc=5\" target=\"_blank\">Georgia Power presents $52,500 donation to HSSAT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jacksonprogress-argus.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-04T13:36:48+00:00"
     },
     {
       "id": "d327ed9f5cc4332c",
@@ -1783,6 +1797,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-04T07:39:29+00:00"
+    },
+    {
+      "id": "80c077b25186cb91",
+      "title": "Georgia Power’s Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia - griceconnect.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYTltQWo5b3JCMEQ3SHJkNGdraC1NNV9NRk9BZ2JndVVreTJjaktScG5feTZzQVVRMWg5NDdURFdjMDk1VklIa3RuYjk3ekdtZjVJbGo3VGNNSlFKSTJ6bWxhQWNBd1RZclNBYkhGLWxGc1BjVklBWlU1NDMtbm9vakFGdVVVVE4tZm1pMVJtSFdHWlZ1UExuN283NUpKUHhiYXJOa2l2eEY2S091RE1CVU44eEtKMEprMzdBTWlBNE5hWlFTMEpLSWltOXJRLXVBU2FId3dOU0FtdGFaazg0UnR0cTcyWC1tc1lWLVlwcG4tY1U?oc=5",
+      "domain": "news.google.com",
+      "source": "griceconnect.com",
+      "language": "English",
+      "published_at": "2026-09-20T07:00:00+00:00",
+      "summary": "Georgia Power’s Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia griceconnect.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYTltQWo5b3JCMEQ3SHJkNGdraC1NNV9NRk9BZ2JndVVreTJjaktScG5feTZzQVVRMWg5NDdURFdjMDk1VklIa3RuYjk3ekdtZjVJbGo3VGNNSlFKSTJ6bWxhQWNBd1RZclNBYkhGLWxGc1BjVklBWlU1NDMtbm9vakFGdVVVVE4tZm1pMVJtSFdHWlZ1UExuN283NUpKUHhiYXJOa2l2eEY2S091RE1CVU44eEtKMEprMzdBTWlBNE5hWlFTMEpLSWltOXJRLXVBU2FId3dOU0FtdGFaazg0UnR0cTcyWC1tc1lWLVlwcG4tY1U?oc=5\" target=\"_blank\">Georgia Power’s Robins Battery Storage achieves commercial operation helping to ensure reliable energy in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">griceconnect.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-04T13:36:48+00:00"
     },
     {
       "id": "6f9fb0c0f1a8dad9",
