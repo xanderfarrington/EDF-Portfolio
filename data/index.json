@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-04T00:17:55+00:00",
+  "last_updated": "2026-10-04T07:39:39+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 108,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "79ca1b94c7018803",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - TradingView",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 437,
+      "count": 439,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "29015635d1bdd33c",
-        "title": "Alabama Power appeals court order blocking access to Shelby County man’s property - al.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenRsemstMGpGWVB6b0tJc3RiTjk5RDRtNkxLXzVMZW4wd0pYajM0SnBmNGIwOVRvSzRRTV9pZzI2LW1FV05KODg5VklWOUkyY2kyUEhIcGIyNmhCQnYwQkF2N0dlZkNFa25JN1BzMFZ4S3ZnRkFreTRVM2h5NThZWVhIVlJhOFhBd3lMSnl4SXNaNXF3MkJjQ0pMSzNnbDdsQzJ2WG01UUdTWGk5akJtbldaSk1iaks20gHMAUFVX3lxTE1sV0R2LXZJV2IzNWZaZG5DanFYZERWSjVsamdwVUJBckFVZ1pwaHc5al9NVEhiRG1XN0hSZ1Bzb1FQNnpWTGYteWlvMGtTeFd4Zkc5aTczckowRTZKa3hJLUllR2xmOVZkUDhkUnhEQ0JUcDNaXzFFYlh3R0JTLVhEWTVEWlFqWm5MSVBOcjZGOXVJTTRTc21kZ0Q3aDd3TXl4eWhtdkZIMEtUVDEyMDF2dFF0Wmdyek1CYmcybzdvUnQtbF8xeUllRGR0Mw?oc=5",
+        "id": "4daf451b345e19d3",
+        "title": "Thousands lose power after severe storms roll through Central Alabama… - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFV4c2IwZ0hRSHZJeWJnZDM1VVp6NXVzYWpsX29oZ2hVQVRjWVRYSGVXZWI4cmpxWDJIRFNPVWNNdGhWU1RKWExnemktdFlQVDZac1VFUUhQYWxQa3l6N1VCMXREcVFHeHctV2xvT1d6YWJkbGIyWG5fcE9VcTZWMm1qWFN0QUxHN29WTHg4dGtDUV9LUEUxYTQ1cjNmMURLeEE?oc=5",
         "domain": "news.google.com",
-        "source": "al.com",
+        "source": "1819 News",
         "language": "English",
-        "published_at": "2026-10-02T19:28:00+00:00",
-        "summary": "Alabama Power appeals court order blocking access to Shelby County man’s property al.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenRsemstMGpGWVB6b0tJc3RiTjk5RDRtNkxLXzVMZW4wd0pYajM0SnBmNGIwOVRvSzRRTV9pZzI2LW1FV05KODg5VklWOUkyY2kyUEhIcGIyNmhCQnYwQkF2N0dlZkNFa25JN1BzMFZ4S3ZnRkFreTRVM2h5NThZWVhIVlJhOFhBd3lMSnl4SXNaNXF3MkJjQ0pMSzNnbDdsQzJ2WG01UUdTWGk5akJtbldaSk1iaks20gHMAUFVX3lxTE1sV0R2LXZJV2IzNWZaZG5DanFYZERWSjVsamdwVUJBckFVZ1pwaHc5al9NVEhiRG1XN0hSZ1Bzb1FQNnpWTGYteWlvMGtTeFd4Zkc5aTczckowRTZKa3hJLUllR2xmOVZkUDhkUnhEQ0JUcDNaXzFFYlh3R0JTLVhEWTVEWlFqWm5MSVBOcjZGOXVJTTRTc21kZ0Q3aDd3TXl4eWhtdkZIMEtUVDEyMDF2dFF0Wmdyek1CYmcybzdvUnQtbF8xeUllRGR0Mw?oc=5\" target=\"_blank\">Alabama Power appeals court order blocking access to Shelby County man’s property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al.com</font>",
+        "published_at": "2026-10-03T20:09:50+00:00",
+        "summary": "Thousands lose power after severe storms roll through Central Alabama… 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFV4c2IwZ0hRSHZJeWJnZDM1VVp6NXVzYWpsX29oZ2hVQVRjWVRYSGVXZWI4cmpxWDJIRFNPVWNNdGhWU1RKWExnemktdFlQVDZac1VFUUhQYWxQa3l6N1VCMXREcVFHeHctV2xvT1d6YWJkbGIyWG5fcE9VcTZWMm1qWFN0QUxHN29WTHg4dGtDUV9LUEUxYTQ1cjNmMURLeEE?oc=5\" target=\"_blank\">Thousands lose power after severe storms roll through Central Alabama…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-02T21:41:54+00:00"
+        "collected_at": "2026-10-04T07:39:13+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 850,
+      "count": 853,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "d327ed9f5cc4332c",
-        "title": "Georgia Power to conduct traffic pacing for power line stringing across I-20 and I-285 Oct 10 - Cobb Courier",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYkhYV1MtbTF5VFotVTQ1NE11QUJCOUdlYkNHMklMNm00TVhTQ3VnWFVJZUsxQUxXeU9UY2hWd0t2c1hSZU1ocklBQ1BuVEVFVVV6WkJMNTdkSGFTNnRnSWFEQi1TQjAzQzJtS3dJM1J2SGx1SkVYN3BfWnR6S2wtU2hWaG9qMEJsTVA1eldGZFhYOENrcnBmOTdhNjh1cEU1NmFGcjBHT2RQajhLcGtmTmtoVXMzN1YyZ0ZJTmFyQVFzZ3A2WVJCY0oyRjA?oc=5",
+        "id": "b7ad065aff6d539a",
+        "title": "Georgia Power presents $52,500 donation to HSSAT - Jackson Progress-Argus",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON1ZrRFJWS3JGVkYzaVJVS2I2S0FGcWNSdHZZN2s0X3JhdkJqVE9xc2pJb0dBZktLTWZVejVTbmRGRmpDZEpGTVpQUmZ3aUdzSktWQnFTN3VoVGVvN0dGb05aQ2hhODYta21QRWZ3ZDlrUTVtUGVjaFNfaFFOVU9zVjZveU1UNEJZV3ozZ3RyMUlEX0R0d2w3d0JLRzBINnhrOWtlMWpoLUJ1VDNfUWUtUTBMcjFmWjFDU3ktNURDSVBfSTFoRHdkbnlqRkRVQWdOS2IySlZFVQ?oc=5",
         "domain": "news.google.com",
-        "source": "Cobb Courier",
+        "source": "Jackson Progress-Argus",
         "language": "English",
-        "published_at": "2026-10-03T11:28:34+00:00",
-        "summary": "Georgia Power to conduct traffic pacing for power line stringing across I-20 and I-285 Oct 10 Cobb Courier",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOYkhYV1MtbTF5VFotVTQ1NE11QUJCOUdlYkNHMklMNm00TVhTQ3VnWFVJZUsxQUxXeU9UY2hWd0t2c1hSZU1ocklBQ1BuVEVFVVV6WkJMNTdkSGFTNnRnSWFEQi1TQjAzQzJtS3dJM1J2SGx1SkVYN3BfWnR6S2wtU2hWaG9qMEJsTVA1eldGZFhYOENrcnBmOTdhNjh1cEU1NmFGcjBHT2RQajhLcGtmTmtoVXMzN1YyZ0ZJTmFyQVFzZ3A2WVJCY0oyRjA?oc=5\" target=\"_blank\">Georgia Power to conduct traffic pacing for power line stringing across I-20 and I-285 Oct 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cobb Courier</font>",
+        "published_at": "2026-10-04T01:00:00+00:00",
+        "summary": "Georgia Power presents $52,500 donation to HSSAT Jackson Progress-Argus",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxON1ZrRFJWS3JGVkYzaVJVS2I2S0FGcWNSdHZZN2s0X3JhdkJqVE9xc2pJb0dBZktLTWZVejVTbmRGRmpDZEpGTVpQUmZ3aUdzSktWQnFTN3VoVGVvN0dGb05aQ2hhODYta21QRWZ3ZDlrUTVtUGVjaFNfaFFOVU9zVjZveU1UNEJZV3ozZ3RyMUlEX0R0d2w3d0JLRzBINnhrOWtlMWpoLUJ1VDNfUWUtUTBMcjFmWjFDU3ktNURDSVBfSTFoRHdkbnlqRkRVQWdOS2IySlZFVQ?oc=5\" target=\"_blank\">Georgia Power presents $52,500 donation to HSSAT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jackson Progress-Argus</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-03T12:56:29+00:00"
+        "collected_at": "2026-10-04T07:39:29+00:00"
       }
     },
     {
