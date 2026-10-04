@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-04T17:56:46+00:00",
+  "last_updated": "2026-10-04T20:51:15+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 856,
+  "count": 857,
   "mentions": [
     {
       "id": "4f7259b34b14da3b",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-04T13:36:48+00:00"
+    },
+    {
+      "id": "eed208666b77bd87",
+      "title": "Georgia Power to conduct traffic pacing for power line stringing across I-20 and I-285 Oct 10 - cobbcountycourier.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYkhYV1MtbTF5VFotVTQ1NE11QUJCOUdlYkNHMklMNm00TVhTQ3VnWFVJZUsxQUxXeU9UY2hWd0t2c1hSZU1ocklBQ1BuVEVFVVV6WkJMNTdkSGFTNnRnSWFEQi1TQjAzQzJtS3dJM1J2SGx1SkVYN3BfWnR6S2wtU2hWaG9qMEJsTVA1eldGZFhYOENrcnBmOTdhNjh1cEU1NmFGcjBHT2RQajhLcGtmTmtoVXMzN1YyZ0ZJTmFyQVFzZ3A2WVJCY0oyRjA?oc=5",
+      "domain": "news.google.com",
+      "source": "cobbcountycourier.com",
+      "language": "English",
+      "published_at": "2026-10-03T11:32:35+00:00",
+      "summary": "Georgia Power to conduct traffic pacing for power line stringing across I-20 and I-285 Oct 10 cobbcountycourier.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOYkhYV1MtbTF5VFotVTQ1NE11QUJCOUdlYkNHMklMNm00TVhTQ3VnWFVJZUsxQUxXeU9UY2hWd0t2c1hSZU1ocklBQ1BuVEVFVVV6WkJMNTdkSGFTNnRnSWFEQi1TQjAzQzJtS3dJM1J2SGx1SkVYN3BfWnR6S2wtU2hWaG9qMEJsTVA1eldGZFhYOENrcnBmOTdhNjh1cEU1NmFGcjBHT2RQajhLcGtmTmtoVXMzN1YyZ0ZJTmFyQVFzZ3A2WVJCY0oyRjA?oc=5\" target=\"_blank\">Georgia Power to conduct traffic pacing for power line stringing across I-20 and I-285 Oct 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cobbcountycourier.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-04T20:51:15+00:00"
     },
     {
       "id": "d327ed9f5cc4332c",
