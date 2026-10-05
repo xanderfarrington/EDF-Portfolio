@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-10-05T08:05:55+00:00",
+  "last_updated": "2026-10-05T19:00:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 108,
+      "count": 109,
       "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "79ca1b94c7018803",
-        "title": "AEP4961682 Bond Profile: Coupon and Redemption - TradingView",
+        "id": "bb732da69d683116",
+        "title": "AEP4961682 Bond Profile: Coupon and Redemption - tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WNi1uZXJITU1TMnNfYUhyMURuNlBoN3NmcHU0VWFock5HbldaeFN5cElnWUVyNlZwcVpnbWlHN3V1MlNvejdEeXNNamcwVVQxZlRzVWc5MWdfRDcwd0s3eFh2QW9pc1RVd1RjcjN3?oc=5",
         "domain": "news.google.com",
-        "source": "TradingView",
+        "source": "tradingview.com",
         "language": "English",
-        "published_at": "2026-10-01T08:11:51+00:00",
-        "summary": "AEP4961682 Bond Profile: Coupon and Redemption TradingView",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9WNi1uZXJITU1TMnNfYUhyMURuNlBoN3NmcHU0VWFock5HbldaeFN5cElnWUVyNlZwcVpnbWlHN3V1MlNvejdEeXNNamcwVVQxZlRzVWc5MWdfRDcwd0s3eFh2QW9pc1RVd1RjcjN3?oc=5\" target=\"_blank\">AEP4961682 Bond Profile: Coupon and Redemption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "published_at": "2026-10-01T08:11:52+00:00",
+        "summary": "AEP4961682 Bond Profile: Coupon and Redemption tradingview.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9WNi1uZXJITU1TMnNfYUhyMURuNlBoN3NmcHU0VWFock5HbldaeFN5cElnWUVyNlZwcVpnbWlHN3V1MlNvejdEeXNNamcwVVQxZlRzVWc5MWdfRDcwd0s3eFh2QW9pc1RVd1RjcjN3?oc=5\" target=\"_blank\">AEP4961682 Bond Profile: Coupon and Redemption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tradingview.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-01T16:49:27+00:00"
+        "collected_at": "2026-10-05T18:59:54+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 442,
-      "new_mentions_this_run": 25,
+      "count": 443,
+      "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "c9bedcc41b822536",
-        "title": "Comeback Town: Birmingham residential electric bills are 41% higher than Huntsville’s - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXE2aWlvR29XWWJsNnZEd1JwNmFyTWc0T3R6TzB4ZEVJX2U2YXVoLUs3N2drYmFNUzRBY0FCNkFlQkt4YzVnWk1ZblpFMlZFZ3VtbzhLa3p0TWo3ZzdyQlotbFhLSGVLM3MxRmxOdHRGX2FwRm53ZEZKT2JZOTFOZmt1UGpZTjFTU0syTjhwVE9rUzlTd2JjV0x3UGdjNnhabGVmQ2JKenNKcl9kLTYwWnZhVlRGenNoSVNBRjJoOWZTUUlTaXNjbDR3?oc=5",
+        "id": "f5d153323248811f",
+        "title": "Potential data breach possibly affected as many as 400,000 Alabama Power customers - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNakpaMmhwZjR3Zm1zUUQxa1EyV1BmV0ZLaUFDRmRqVWN1YnVzYlNRQmJhUTgwdWZDeUFDSDdQcnBWWkw4M2w1QmpDWkFTMjRHOGNqOUZ2RjRpRWR6aFMzM1h4ekFZRFE5aF9QcFZKeDNzMExGbWc2TnRFaFQ4Smd6ZWJrclVnamF2ZHhEMG5CR0xjTmU0U0tOdktCMHVuNDhkZWVSSGMyelp0QUUxc0xhZFRFazdfaldtbWfSAc4BQVVfeXFMTUM3amJUaXlpd0RYVGZSeENsdy1oZGlhQmYtRTRZR2kxUk00TzRrWU5nNldJdkxOWnRsYUR2U1lvUFBLckhoUk9Zd2RJcVdvcHVJWG5OYWNQQjI4MVdTREIxZWNOQ1VTa1pZME9wM0M3R0VXQjhJa1l0WDRXcXE4OWZVblZ6MWNWOEthS2JEQ2ZkNHhUNGNSd3dfM2owenNQb1FadUdWQm9CVHNOb2t4WGFST1BzRXp2RGRIZ3BNaFpUcU04b3ZNNjQ1WGRIY1E?oc=5",
         "domain": "news.google.com",
         "source": "AL.com",
         "language": "English",
-        "published_at": "2026-10-04T13:00:00+00:00",
-        "summary": "Comeback Town: Birmingham residential electric bills are 41% higher than Huntsville’s AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXE2aWlvR29XWWJsNnZEd1JwNmFyTWc0T3R6TzB4ZEVJX2U2YXVoLUs3N2drYmFNUzRBY0FCNkFlQkt4YzVnWk1ZblpFMlZFZ3VtbzhLa3p0TWo3ZzdyQlotbFhLSGVLM3MxRmxOdHRGX2FwRm53ZEZKT2JZOTFOZmt1UGpZTjFTU0syTjhwVE9rUzlTd2JjV0x3UGdjNnhabGVmQ2JKenNKcl9kLTYwWnZhVlRGenNoSVNBRjJoOWZTUUlTaXNjbDR3?oc=5\" target=\"_blank\">Comeback Town: Birmingham residential electric bills are 41% higher than Huntsville’s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-10-05T18:02:00+00:00",
+        "summary": "Potential data breach possibly affected as many as 400,000 Alabama Power customers AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNakpaMmhwZjR3Zm1zUUQxa1EyV1BmV0ZLaUFDRmRqVWN1YnVzYlNRQmJhUTgwdWZDeUFDSDdQcnBWWkw4M2w1QmpDWkFTMjRHOGNqOUZ2RjRpRWR6aFMzM1h4ekFZRFE5aF9QcFZKeDNzMExGbWc2TnRFaFQ4Smd6ZWJrclVnamF2ZHhEMG5CR0xjTmU0U0tOdktCMHVuNDhkZWVSSGMyelp0QUUxc0xhZFRFazdfaldtbWfSAc4BQVVfeXFMTUM3amJUaXlpd0RYVGZSeENsdy1oZGlhQmYtRTRZR2kxUk00TzRrWU5nNldJdkxOWnRsYUR2U1lvUFBLckhoUk9Zd2RJcVdvcHVJWG5OYWNQQjI4MVdTREIxZWNOQ1VTa1pZME9wM0M3R0VXQjhJa1l0WDRXcXE4OWZVblZ6MWNWOEthS2JEQ2ZkNHhUNGNSd3dfM2owenNQb1FadUdWQm9CVHNOb2t4WGFST1BzRXp2RGRIZ3BNaFpUcU04b3ZNNjQ1WGRIY1E?oc=5\" target=\"_blank\">Potential data breach possibly affected as many as 400,000 Alabama Power customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-04T13:36:32+00:00"
+        "collected_at": "2026-10-05T19:00:00+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 859,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "4f7259b34b14da3b",
         "title": "Erie County man faces federal charge in Georgia Power bomb threat case - WGRZ",

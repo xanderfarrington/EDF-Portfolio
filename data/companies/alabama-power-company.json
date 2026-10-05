@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-05T08:05:28+00:00",
+  "last_updated": "2026-10-05T19:00:00+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 442,
+  "count": 443,
   "mentions": [
+    {
+      "id": "f5d153323248811f",
+      "title": "Potential data breach possibly affected as many as 400,000 Alabama Power customers - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNakpaMmhwZjR3Zm1zUUQxa1EyV1BmV0ZLaUFDRmRqVWN1YnVzYlNRQmJhUTgwdWZDeUFDSDdQcnBWWkw4M2w1QmpDWkFTMjRHOGNqOUZ2RjRpRWR6aFMzM1h4ekFZRFE5aF9QcFZKeDNzMExGbWc2TnRFaFQ4Smd6ZWJrclVnamF2ZHhEMG5CR0xjTmU0U0tOdktCMHVuNDhkZWVSSGMyelp0QUUxc0xhZFRFazdfaldtbWfSAc4BQVVfeXFMTUM3amJUaXlpd0RYVGZSeENsdy1oZGlhQmYtRTRZR2kxUk00TzRrWU5nNldJdkxOWnRsYUR2U1lvUFBLckhoUk9Zd2RJcVdvcHVJWG5OYWNQQjI4MVdTREIxZWNOQ1VTa1pZME9wM0M3R0VXQjhJa1l0WDRXcXE4OWZVblZ6MWNWOEthS2JEQ2ZkNHhUNGNSd3dfM2owenNQb1FadUdWQm9CVHNOb2t4WGFST1BzRXp2RGRIZ3BNaFpUcU04b3ZNNjQ1WGRIY1E?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-10-05T18:02:00+00:00",
+      "summary": "Potential data breach possibly affected as many as 400,000 Alabama Power customers AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNakpaMmhwZjR3Zm1zUUQxa1EyV1BmV0ZLaUFDRmRqVWN1YnVzYlNRQmJhUTgwdWZDeUFDSDdQcnBWWkw4M2w1QmpDWkFTMjRHOGNqOUZ2RjRpRWR6aFMzM1h4ekFZRFE5aF9QcFZKeDNzMExGbWc2TnRFaFQ4Smd6ZWJrclVnamF2ZHhEMG5CR0xjTmU0U0tOdktCMHVuNDhkZWVSSGMyelp0QUUxc0xhZFRFazdfaldtbWfSAc4BQVVfeXFMTUM3amJUaXlpd0RYVGZSeENsdy1oZGlhQmYtRTRZR2kxUk00TzRrWU5nNldJdkxOWnRsYUR2U1lvUFBLckhoUk9Zd2RJcVdvcHVJWG5OYWNQQjI4MVdTREIxZWNOQ1VTa1pZME9wM0M3R0VXQjhJa1l0WDRXcXE4OWZVblZ6MWNWOEthS2JEQ2ZkNHhUNGNSd3dfM2owenNQb1FadUdWQm9CVHNOb2t4WGFST1BzRXp2RGRIZ3BNaFpUcU04b3ZNNjQ1WGRIY1E?oc=5\" target=\"_blank\">Potential data breach possibly affected as many as 400,000 Alabama Power customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-05T19:00:00+00:00"
+    },
     {
       "id": "c9bedcc41b822536",
       "title": "Comeback Town: Birmingham residential electric bills are 41% higher than Huntsville’s - AL.com",

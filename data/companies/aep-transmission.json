@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-10-05T08:05:23+00:00",
+  "last_updated": "2026-10-05T18:59:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 108,
+  "count": 109,
   "mentions": [
+    {
+      "id": "bb732da69d683116",
+      "title": "AEP4961682 Bond Profile: Coupon and Redemption - tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WNi1uZXJITU1TMnNfYUhyMURuNlBoN3NmcHU0VWFock5HbldaeFN5cElnWUVyNlZwcVpnbWlHN3V1MlNvejdEeXNNamcwVVQxZlRzVWc5MWdfRDcwd0s3eFh2QW9pc1RVd1RjcjN3?oc=5",
+      "domain": "news.google.com",
+      "source": "tradingview.com",
+      "language": "English",
+      "published_at": "2026-10-01T08:11:52+00:00",
+      "summary": "AEP4961682 Bond Profile: Coupon and Redemption tradingview.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9WNi1uZXJITU1TMnNfYUhyMURuNlBoN3NmcHU0VWFock5HbldaeFN5cElnWUVyNlZwcVpnbWlHN3V1MlNvejdEeXNNamcwVVQxZlRzVWc5MWdfRDcwd0s3eFh2QW9pc1RVd1RjcjN3?oc=5\" target=\"_blank\">AEP4961682 Bond Profile: Coupon and Redemption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tradingview.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-05T18:59:54+00:00"
+    },
     {
       "id": "79ca1b94c7018803",
       "title": "AEP4961682 Bond Profile: Coupon and Redemption - TradingView",
