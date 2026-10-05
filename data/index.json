@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-05T00:23:05+00:00",
+  "last_updated": "2026-10-05T08:05:55+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 108,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "79ca1b94c7018803",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - TradingView",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 858,
-      "new_mentions_this_run": 24,
+      "count": 859,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "4f7259b34b14da3b",
         "title": "Erie County man faces federal charge in Georgia Power bomb threat case - WGRZ",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 62,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "62da534190e29cd2",
         "title": "Iowa is leading America's nuclear power comeback | Opinion - The Des Moines Register",
