@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-06T01:04:03+00:00",
+  "last_updated": "2026-10-06T08:26:04+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 454,
+  "count": 457,
   "mentions": [
     {
       "id": "15a933f9bdeaada7",
@@ -63,6 +63,20 @@
       "collected_at": "2026-10-06T01:04:03+00:00"
     },
     {
+      "id": "c319072b9c0b3b6f",
+      "title": "Nearly 100,000 Alabama Power accounts affected by Southern Company data breach - WBRC",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0N4VmJ3WDIzVWFBYnR4dEg4blhubkQ3dnRLTktUSzhDTjFXdmcyRE9lbktDa2ZIeEVuTy1idUV1bTVYOW45VnR3RlhQY2RaS21jcmdaV3NJTTNwb09xeHBHMXJBckZNSTFOS0VqRFJkdHVCM015WmVCOTZaeHo2MHZ4clJxak5EUF9VeXNpWGxsM1ZQd3lSVUhUZlpQMEtmYUJfbW9qWTM5R1J3Q0JF0gHDAUFVX3lxTE8yTnlsclkyVGpENXlMSW5BeURtR1NHQ0RXT0xNYjJkT0JXMngzdmFzWWNoTWJTOVB5OF9sWTE1bjAxSmRPWXdZWGVGeTlwZHoyZFk1b1FhaVptTWJZTTlvbEVzclN5aTZJTUFOQ2JfUk1KSFMyUEM1Nzg3OFFkeF93WmViRU55VFdGOW5Dajl4VkhpbnQxb1BuQlVsZDBrQlB1WlNOMU42a29aa29leVRXYm1EdFJXYWRHaUROU2VWYTdROA?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC",
+      "language": "English",
+      "published_at": "2026-10-05T21:45:00+00:00",
+      "summary": "Nearly 100,000 Alabama Power accounts affected by Southern Company data breach WBRC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0N4VmJ3WDIzVWFBYnR4dEg4blhubkQ3dnRLTktUSzhDTjFXdmcyRE9lbktDa2ZIeEVuTy1idUV1bTVYOW45VnR3RlhQY2RaS21jcmdaV3NJTTNwb09xeHBHMXJBckZNSTFOS0VqRFJkdHVCM015WmVCOTZaeHo2MHZ4clJxak5EUF9VeXNpWGxsM1ZQd3lSVUhUZlpQMEtmYUJfbW9qWTM5R1J3Q0JF0gHDAUFVX3lxTE8yTnlsclkyVGpENXlMSW5BeURtR1NHQ0RXT0xNYjJkT0JXMngzdmFzWWNoTWJTOVB5OF9sWTE1bjAxSmRPWXdZWGVGeTlwZHoyZFk1b1FhaVptTWJZTTlvbEVzclN5aTZJTUFOQ2JfUk1KSFMyUEM1Nzg3OFFkeF93WmViRU55VFdGOW5Dajl4VkhpbnQxb1BuQlVsZDBrQlB1WlNOMU42a29aa29leVRXYm1EdFJXYWRHaUROU2VWYTdROA?oc=5\" target=\"_blank\">Nearly 100,000 Alabama Power accounts affected by Southern Company data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T08:26:04+00:00"
+    },
+    {
       "id": "1f55e3a2fb59f10d",
       "title": "Nearly 100K Alabama Power accounts impacted by Southern Company data breach - WSFA",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeXVfVHY5Z1ZNU2NvTnJuZVNZSUFHNEhlX0NyQ2dOLTVPWVgzbS04eU5tTEdpWE1sa1Boa2dDZXhfRDI0NnJlUERFTC10Vl9fMmY4Y2F3U2J1eldoOV95YnNaY3pCZWdpdVlNV1dzc0RpMy1wTkxyS3otQWpQdU14WEFvbktPSklTZzRJSGZXNGFuWDEzemVTS25LYkFBZlA5allOTHV4SURiVHJkZ21sTXl1dEc?oc=5",
@@ -91,6 +105,20 @@
       "collected_at": "2026-10-06T01:04:03+00:00"
     },
     {
+      "id": "398892d993f8b328",
+      "title": "Data breach affects some Alabama Power customers - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQekF6NXRxZnAzV0p4SFZqRDU1NXFBZ2JBZUluM0xQX1JkXzh1LWd1SUJOX3JVb3cxRFNCNW1ZTGhidkd2V1F5OXk2Sm5BY3Z2WEd3SDVMamF5UnB4bWtnUmtBQUNCTGtCRzYwTWZNS3RZWDZiTXFKbmV0MjdSck11Z2Z3VUNndU9TSmtwVA?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-10-05T21:13:22+00:00",
+      "summary": "Data breach affects some Alabama Power customers Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQekF6NXRxZnAzV0p4SFZqRDU1NXFBZ2JBZUluM0xQX1JkXzh1LWd1SUJOX3JVb3cxRFNCNW1ZTGhidkd2V1F5OXk2Sm5BY3Z2WEd3SDVMamF5UnB4bWtnUmtBQUNCTGtCRzYwTWZNS3RZWDZiTXFKbmV0MjdSck11Z2Z3VUNndU9TSmtwVA?oc=5\" target=\"_blank\">Data breach affects some Alabama Power customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T08:26:04+00:00"
+    },
+    {
       "id": "810141c18347952c",
       "title": "Alabama Power says 100,000 customers affected by data breach - mynbc15.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDVVREowZzhBMjNqdnExemMxSkNsXzJibWdHdmE5ZDlDZVVSbG1EbGNKcXJBVEVFVFoycnhpcWFTV2J6VVZjbDB2WUk3d1dUbDJDSzhBWTkzOXRsZFpfX3J2LVdVVFFtVGdManh0MU9SOUx6Xzl5cUlqcHlFOS1EeHBpVzhkbHNFb05qY2czRGNjSmxy?oc=5",
@@ -117,6 +145,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-06T01:04:03+00:00"
+    },
+    {
+      "id": "7ff79b278aa1b622",
+      "title": "Nearly 100K Alabama Power accounts impacted by Southern Company data breach - WBRC",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXo3UTRBWDBjZnFHQXNIUnJyY2tWaVNwU0FvSE1nM2M2STJTU2dvSXVSX0NRMl96WVBKbktibTZ6TnpiaEk4Y0ZLZzdVRHhsNWkwaVNfYlUtMkZYWXlzck9uaWwtRUFMMWs4djNmQnE3THZKazBfSlhhb3V1U0k1ZHAza1BwWEFLSUtUTjBReU92WDM1SUZPZTl2Ym8zamxPb3lxVjNuM2gwT3RJMnhMVWwzTEs?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC",
+      "language": "English",
+      "published_at": "2026-10-05T21:02:58+00:00",
+      "summary": "Nearly 100K Alabama Power accounts impacted by Southern Company data breach WBRC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXo3UTRBWDBjZnFHQXNIUnJyY2tWaVNwU0FvSE1nM2M2STJTU2dvSXVSX0NRMl96WVBKbktibTZ6TnpiaEk4Y0ZLZzdVRHhsNWkwaVNfYlUtMkZYWXlzck9uaWwtRUFMMWs4djNmQnE3THZKazBfSlhhb3V1U0k1ZHAza1BwWEFLSUtUTjBReU92WDM1SUZPZTl2Ym8zamxPb3lxVjNuM2gwT3RJMnhMVWwzTEs?oc=5\" target=\"_blank\">Nearly 100K Alabama Power accounts impacted by Southern Company data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T08:26:04+00:00"
     },
     {
       "id": "16fc57acdadf0764",

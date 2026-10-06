@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T01:04:30+00:00",
+  "last_updated": "2026-10-06T08:26:31+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 454,
+      "count": 457,
       "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "15a933f9bdeaada7",
@@ -89,42 +89,42 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 868,
-      "new_mentions_this_run": 24,
+      "count": 877,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "4a2e94d2787a1022",
-        "title": "BREAKING: Alabama Power, Georgia Power customer accounts accessed in cybersecurity incident - cnaw2news.com",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JDNkhVVWM1VTFZWllCUGhpeEZTZkpHYndQVXgzQ25hTGw4Ry1rUndlaUNsdnMxWG9wNlBVNnRKZ0l2aHRGdXAtajVoLUVOVkxPbW93RzBrcG51X0E3YmlaR2Y4Mmt2NnpEaGxPaVdka0V6c0NQTHRVejhsbXFhSjgwVWlDVlpOSmFwVDh0Sk93UkdUMTJrZkxyY0xleUY3aEdwTktCOTl5T1V5QVlJWWlJZVRQcUx4N1NPSUtKMTk?oc=5",
+        "id": "55e24e04e8c9847c",
+        "title": "Georgia Power's parent company dealing with aftermath of cyberattack | What we know - 11Alive.com",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbFlUNnJlVWRnWHRGWHZUdTZwY3I4ZV9ib0xpSGtsTXJNUXBvNElOa2xGLW8zNzhCV0VHWnRlcFY2bTFnaXZob2hLcGpvMkpoaEJkT05laV9BNmxvU3k5OVJoVDQ2cTcyVUxqMGFGZjRHaUNEMHdORlVBR0hJdFVqc3VvTGJGZzc3NWY4UW8yZW5QN1hUTWpsNld1czZqQ0ZiNDJjRHdyVzA5bjJXdEhRdWhBRWhvMVE5WE15VW43QzAyN2dkT0JGRFlIcGlqRTNhRkp6X21QaHlidGIzaG1Tckl3VUljMGtsejY4N18zTE5lNnc?oc=5",
         "domain": "news.google.com",
-        "source": "cnaw2news.com",
+        "source": "11Alive.com",
         "language": "English",
-        "published_at": "2026-10-05T21:51:28+00:00",
-        "summary": "BREAKING: Alabama Power, Georgia Power customer accounts accessed in cybersecurity incident cnaw2news.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JDNkhVVWM1VTFZWllCUGhpeEZTZkpHYndQVXgzQ25hTGw4Ry1rUndlaUNsdnMxWG9wNlBVNnRKZ0l2aHRGdXAtajVoLUVOVkxPbW93RzBrcG51X0E3YmlaR2Y4Mmt2NnpEaGxPaVdka0V6c0NQTHRVejhsbXFhSjgwVWlDVlpOSmFwVDh0Sk93UkdUMTJrZkxyY0xleUY3aEdwTktCOTl5T1V5QVlJWWlJZVRQcUx4N1NPSUtKMTk?oc=5\" target=\"_blank\">BREAKING: Alabama Power, Georgia Power customer accounts accessed in cybersecurity incident</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnaw2news.com</font>",
+        "published_at": "2026-10-06T03:51:00+00:00",
+        "summary": "Georgia Power's parent company dealing with aftermath of cyberattack | What we know 11Alive.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbFlUNnJlVWRnWHRGWHZUdTZwY3I4ZV9ib0xpSGtsTXJNUXBvNElOa2xGLW8zNzhCV0VHWnRlcFY2bTFnaXZob2hLcGpvMkpoaEJkT05laV9BNmxvU3k5OVJoVDQ2cTcyVUxqMGFGZjRHaUNEMHdORlVBR0hJdFVqc3VvTGJGZzc3NWY4UW8yZW5QN1hUTWpsNld1czZqQ0ZiNDJjRHdyVzA5bjJXdEhRdWhBRWhvMVE5WE15VW43QzAyN2dkT0JGRFlIcGlqRTNhRkp6X21QaHlidGIzaG1Tckl3VUljMGtsejY4N18zTE5lNnc?oc=5\" target=\"_blank\">Georgia Power's parent company dealing with aftermath of cyberattack | What we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-06T01:04:20+00:00"
+        "collected_at": "2026-10-06T08:26:21+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 63,
-      "new_mentions_this_run": 8,
+      "count": 64,
+      "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "09879434db5f1b9b",
-        "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel US Nuclear Output - energytech.com",
+        "id": "9c5a579ff3ec7231",
+        "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON3VzUlBxY3AwZ2s4bTJrcEw0ZzNlS0xCZThIUkpTcjRSY0U1UFZ3NXZCY0d4V3NucE1vLXZUS3JSYTBYZ0QtY043WWJLR1UtMm9WbDVNRzRaOWJ3MUFPMG1mcUZ3SVdCNDRPZjNXdVFHSUhyWEk5eTRKODBsZ3NqQmNKclNGb2pENjFQNW5oX3VOdW1GMzZpcHVSZkRVOVRvMUZTbGFPRGd0dVdtNmRNRWNVRXhVLU15VXlRQU1XQ1pxU2EwMGx5UzhHd3g?oc=5",
         "domain": "news.google.com",
         "source": "energytech.com",
         "language": "English",
-        "published_at": "2026-10-05T19:36:26+00:00",
-        "summary": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel US Nuclear Output energytech.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxON3VzUlBxY3AwZ2s4bTJrcEw0ZzNlS0xCZThIUkpTcjRSY0U1UFZ3NXZCY0d4V3NucE1vLXZUS3JSYTBYZ0QtY043WWJLR1UtMm9WbDVNRzRaOWJ3MUFPMG1mcUZ3SVdCNDRPZjNXdVFHSUhyWEk5eTRKODBsZ3NqQmNKclNGb2pENjFQNW5oX3VOdW1GMzZpcHVSZkRVOVRvMUZTbGFPRGd0dVdtNmRNRWNVRXhVLU15VXlRQU1XQ1pxU2EwMGx5UzhHd3g?oc=5\" target=\"_blank\">DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel US Nuclear Output</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energytech.com</font>",
+        "published_at": "2026-10-06T01:30:35+00:00",
+        "summary": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output energytech.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxON3VzUlBxY3AwZ2s4bTJrcEw0ZzNlS0xCZThIUkpTcjRSY0U1UFZ3NXZCY0d4V3NucE1vLXZUS3JSYTBYZ0QtY043WWJLR1UtMm9WbDVNRzRaOWJ3MUFPMG1mcUZ3SVdCNDRPZjNXdVFHSUhyWEk5eTRKODBsZ3NqQmNKclNGb2pENjFQNW5oX3VOdW1GMzZpcHVSZkRVOVRvMUZTbGFPRGd0dVdtNmRNRWNVRXhVLU15VXlRQU1XQ1pxU2EwMGx5UzhHd3g?oc=5\" target=\"_blank\">DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energytech.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-06T01:04:25+00:00"
+        "collected_at": "2026-10-06T08:26:26+00:00"
       }
     }
   ]
