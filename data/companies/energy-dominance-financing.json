@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-10-06T08:26:26+00:00",
+  "last_updated": "2026-10-06T16:26:25+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 64,
+  "count": 65,
   "mentions": [
     {
       "id": "9c5a579ff3ec7231",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-06T08:26:26+00:00"
+    },
+    {
+      "id": "00ca6a8e8c826510",
+      "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - EnergyTech",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON3VzUlBxY3AwZ2s4bTJrcEw0ZzNlS0xCZThIUkpTcjRSY0U1UFZ3NXZCY0d4V3NucE1vLXZUS3JSYTBYZ0QtY043WWJLR1UtMm9WbDVNRzRaOWJ3MUFPMG1mcUZ3SVdCNDRPZjNXdVFHSUhyWEk5eTRKODBsZ3NqQmNKclNGb2pENjFQNW5oX3VOdW1GMzZpcHVSZkRVOVRvMUZTbGFPRGd0dVdtNmRNRWNVRXhVLU15VXlRQU1XQ1pxU2EwMGx5UzhHd3g?oc=5",
+      "domain": "news.google.com",
+      "source": "EnergyTech",
+      "language": "English",
+      "published_at": "2026-10-06T01:30:35+00:00",
+      "summary": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output EnergyTech",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxON3VzUlBxY3AwZ2s4bTJrcEw0ZzNlS0xCZThIUkpTcjRSY0U1UFZ3NXZCY0d4V3NucE1vLXZUS3JSYTBYZ0QtY043WWJLR1UtMm9WbDVNRzRaOWJ3MUFPMG1mcUZ3SVdCNDRPZjNXdVFHSUhyWEk5eTRKODBsZ3NqQmNKclNGb2pENjFQNW5oX3VOdW1GMzZpcHVSZkRVOVRvMUZTbGFPRGd0dVdtNmRNRWNVRXhVLU15VXlRQU1XQ1pxU2EwMGx5UzhHd3g?oc=5\" target=\"_blank\">DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnergyTech</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T16:26:25+00:00"
     },
     {
       "id": "09879434db5f1b9b",

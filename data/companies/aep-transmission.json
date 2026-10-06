@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-10-06T08:25:59+00:00",
+  "last_updated": "2026-10-06T16:25:57+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 109,
+  "count": 110,
   "mentions": [
     {
       "id": "bb732da69d683116",
@@ -243,6 +243,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-10T08:33:58+00:00"
+    },
+    {
+      "id": "114ebd58c69fc13b",
+      "title": "Washington County residents attend public meeting about proposed AEP transmission line - KOKI FOX 23",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzR0Ukk0bHFuSUxXSGF3bjF5TFJxSE82MXctaTQtTjdpZmVPeVh0aXhoYlNCVVNlSkN4TVI1dDJ5OE1kX0hMZ0dtbkpjVkVITG5qVFN1Ti1GWV8zR1BCUjY1blE5RzB5bTRWQjNxUW5QSjZJalZja0hNMXZXZ1d3OVM5aTh3UmNhQzRJV3dzdkdXUTFabjVub3ZRTk1oazNPYkhRTlBaeE50YXo2ZlF2T1RGYWUxUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "KOKI FOX 23",
+      "language": "English",
+      "published_at": "2026-09-09T07:00:00+00:00",
+      "summary": "Washington County residents attend public meeting about proposed AEP transmission line KOKI FOX 23",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzR0Ukk0bHFuSUxXSGF3bjF5TFJxSE82MXctaTQtTjdpZmVPeVh0aXhoYlNCVVNlSkN4TVI1dDJ5OE1kX0hMZ0dtbkpjVkVITG5qVFN1Ti1GWV8zR1BCUjY1blE5RzB5bTRWQjNxUW5QSjZJalZja0hNMXZXZ1d3OVM5aTh3UmNhQzRJV3dzdkdXUTFabjVub3ZRTk1oazNPYkhRTlBaeE50YXo2ZlF2T1RGYWUxUQ?oc=5\" target=\"_blank\">Washington County residents attend public meeting about proposed AEP transmission line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOKI FOX 23</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T16:25:57+00:00"
     },
     {
       "id": "e7e9b3e32a2c9f9a",

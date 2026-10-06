@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-06T08:26:31+00:00",
+  "last_updated": "2026-10-06T16:26:30+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 109,
+      "count": 110,
       "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "bb732da69d683116",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 457,
+      "count": 462,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "15a933f9bdeaada7",
-        "title": "100,000 Alabama Power Customers Affected in Southern Company Data Breach - WBMA",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVEJLTEl3N05kWHlpQ2pIVkN5dFRqLTQ4bGh4c1VZTXhGYnZDMW1xOFpXZVJTSDE4NUJ0cEVDR3F4NGNjYXd2R004eFVScW5Na0FiUWprUGxpWDY0OWkxeXRKSXZKRzl6Tk1rQ2dHWC1tSzhyVGYwbU81clFSSzhLMEtLMWlxNHdJN05pQ2RJR2trdEVRYkdNVkZTcldGUWhLSzJFY1lmOFlWQmZpaFp0RERMVTEzMHNEUHEydEk2NWg2ZU5YdlE?oc=5",
+        "id": "af44c21b4b83078f",
+        "title": "Data Breach Affects Alabama Power and Georgia Power Customers - WEIS | Local & Area News, Sports, & Weather - weisradio.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaWTJBVFNzczY0S3h3VVZPXzNlaG5EcHpKa1ptS1cyUlNQU2RuMXBZREF0dnd3cng0a1o1OUdXdmZVSTgzczRfY0JXV1RMWDYzM3BmbUo3U2FCV01mNzU2UmRTZkxnS0N1M0cweEFHaFFuUWJQWVE?oc=5",
         "domain": "news.google.com",
-        "source": "WBMA",
+        "source": "weisradio.com",
         "language": "English",
-        "published_at": "2026-10-05T23:44:02+00:00",
-        "summary": "100,000 Alabama Power Customers Affected in Southern Company Data Breach WBMA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOVEJLTEl3N05kWHlpQ2pIVkN5dFRqLTQ4bGh4c1VZTXhGYnZDMW1xOFpXZVJTSDE4NUJ0cEVDR3F4NGNjYXd2R004eFVScW5Na0FiUWprUGxpWDY0OWkxeXRKSXZKRzl6Tk1rQ2dHWC1tSzhyVGYwbU81clFSSzhLMEtLMWlxNHdJN05pQ2RJR2trdEVRYkdNVkZTcldGUWhLSzJFY1lmOFlWQmZpaFp0RERMVTEzMHNEUHEydEk2NWg2ZU5YdlE?oc=5\" target=\"_blank\">100,000 Alabama Power Customers Affected in Southern Company Data Breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+        "published_at": "2026-10-06T12:56:15+00:00",
+        "summary": "Data Breach Affects Alabama Power and Georgia Power Customers - WEIS | Local & Area News, Sports, & Weather weisradio.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBaWTJBVFNzczY0S3h3VVZPXzNlaG5EcHpKa1ptS1cyUlNQU2RuMXBZREF0dnd3cng0a1o1OUdXdmZVSTgzczRfY0JXV1RMWDYzM3BmbUo3U2FCV01mNzU2UmRTZkxnS0N1M0cweEFHaFFuUWJQWVE?oc=5\" target=\"_blank\">Data Breach Affects Alabama Power and Georgia Power Customers - WEIS | Local & Area News, Sports, & Weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">weisradio.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-06T01:04:03+00:00"
+        "collected_at": "2026-10-06T16:26:02+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 105,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "35b2735a6c611205",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand - Kalkine Media",
@@ -89,28 +89,28 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 877,
+      "count": 885,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "55e24e04e8c9847c",
-        "title": "Georgia Power's parent company dealing with aftermath of cyberattack | What we know - 11Alive.com",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbFlUNnJlVWRnWHRGWHZUdTZwY3I4ZV9ib0xpSGtsTXJNUXBvNElOa2xGLW8zNzhCV0VHWnRlcFY2bTFnaXZob2hLcGpvMkpoaEJkT05laV9BNmxvU3k5OVJoVDQ2cTcyVUxqMGFGZjRHaUNEMHdORlVBR0hJdFVqc3VvTGJGZzc3NWY4UW8yZW5QN1hUTWpsNld1czZqQ0ZiNDJjRHdyVzA5bjJXdEhRdWhBRWhvMVE5WE15VW43QzAyN2dkT0JGRFlIcGlqRTNhRkp6X21QaHlidGIzaG1Tckl3VUljMGtsejY4N18zTE5lNnc?oc=5",
+        "id": "93f25375d5a6e2cf",
+        "title": "Georgia Power work to interrupt SR-30 traffic in Port Wentworth - WTOC",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTFJ1bTlNWnE1N3dkXzMtY1VUWWhVRmc3S3EwY3pMWWJ3aWlJZ3dWbGh5Y25uc1d2Zjg0QzdsMzNzNXRmUGUzczhtQnpqMXE2bWZsMUxIWVZmWFk0OVlkMk1oYTF6LVBMQUdRblpPNWNRMmZGS0E2cU1yUWRTVHRPUEFEUVAzWWdWY3A2cWw0ZFh0OTAx?oc=5",
         "domain": "news.google.com",
-        "source": "11Alive.com",
+        "source": "WTOC",
         "language": "English",
-        "published_at": "2026-10-06T03:51:00+00:00",
-        "summary": "Georgia Power's parent company dealing with aftermath of cyberattack | What we know 11Alive.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbFlUNnJlVWRnWHRGWHZUdTZwY3I4ZV9ib0xpSGtsTXJNUXBvNElOa2xGLW8zNzhCV0VHWnRlcFY2bTFnaXZob2hLcGpvMkpoaEJkT05laV9BNmxvU3k5OVJoVDQ2cTcyVUxqMGFGZjRHaUNEMHdORlVBR0hJdFVqc3VvTGJGZzc3NWY4UW8yZW5QN1hUTWpsNld1czZqQ0ZiNDJjRHdyVzA5bjJXdEhRdWhBRWhvMVE5WE15VW43QzAyN2dkT0JGRFlIcGlqRTNhRkp6X21QaHlidGIzaG1Tckl3VUljMGtsejY4N18zTE5lNnc?oc=5\" target=\"_blank\">Georgia Power's parent company dealing with aftermath of cyberattack | What we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+        "published_at": "2026-10-06T13:44:00+00:00",
+        "summary": "Georgia Power work to interrupt SR-30 traffic in Port Wentworth WTOC",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOTFJ1bTlNWnE1N3dkXzMtY1VUWWhVRmc3S3EwY3pMWWJ3aWlJZ3dWbGh5Y25uc1d2Zjg0QzdsMzNzNXRmUGUzczhtQnpqMXE2bWZsMUxIWVZmWFk0OVlkMk1oYTF6LVBMQUdRblpPNWNRMmZGS0E2cU1yUWRTVHRPUEFEUVAzWWdWY3A2cWw0ZFh0OTAx?oc=5\" target=\"_blank\">Georgia Power work to interrupt SR-30 traffic in Port Wentworth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-06T08:26:21+00:00"
+        "collected_at": "2026-10-06T16:26:19+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 64,
+      "count": 65,
       "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
