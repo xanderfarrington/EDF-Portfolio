@@ -2,10 +2,38 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-06T16:26:02+00:00",
+  "last_updated": "2026-10-06T22:08:25+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 462,
+  "count": 465,
   "mentions": [
+    {
+      "id": "2f882785dd8faeb9",
+      "title": "Alabama Power Prepares as Gulf Disturbance Nears - Wiregrass Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2s1ZmNMaWMyMXBhMGR6MUlMLVVkOWxvSURjcUVodU1DVHh5YjlJVVNEZU1QVUlrMVdhRGJjZUwzTWRzOWRQMUVaVmJOQ095dFJUb2wxOTNCUmhYNXBRN2U0eFM4ekE1SE1wOFZOdkxIVWJPYXVFNzc5NWhxTjNQMEhVNDdfT2lBNm5zaUNXM21QSi05emNiTndyeWlhcE0zSlV1MFFPeU0?oc=5",
+      "domain": "news.google.com",
+      "source": "Wiregrass Daily News",
+      "language": "English",
+      "published_at": "2026-10-06T20:18:55+00:00",
+      "summary": "Alabama Power Prepares as Gulf Disturbance Nears Wiregrass Daily News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2s1ZmNMaWMyMXBhMGR6MUlMLVVkOWxvSURjcUVodU1DVHh5YjlJVVNEZU1QVUlrMVdhRGJjZUwzTWRzOWRQMUVaVmJOQ095dFJUb2wxOTNCUmhYNXBRN2U0eFM4ekE1SE1wOFZOdkxIVWJPYXVFNzc5NWhxTjNQMEhVNDdfT2lBNm5zaUNXM21QSi05emNiTndyeWlhcE0zSlV1MFFPeU0?oc=5\" target=\"_blank\">Alabama Power Prepares as Gulf Disturbance Nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiregrass Daily News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T22:08:25+00:00"
+    },
+    {
+      "id": "71d6229597a4ec60",
+      "title": "Alabama Power prepares for a potential severe weather in the Wiregrass - WDHN",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTNVd0Q1Zm9SSE13Y1lKQ2w1YTdEZ1k1NHp1STJBQVNhSVluR3lwREdPVV83TGNoc1REUUVOVWN5ZWZRTUxXRV9JQW51dnRZMmFKVXp0Mlk1LWpmaldYR0hkMXlJWHNXM0VFdXZFUTc4cUJUZ2VpZ3E0X3o3NDRodWhDZTRUZ0RKcWVKRjVUd0p0cUFWSm01QXZaNHJxTjJmWVdkcUk3Y203VzV6bURzejRsNkFNQlE?oc=5",
+      "domain": "news.google.com",
+      "source": "WDHN",
+      "language": "English",
+      "published_at": "2026-10-06T19:22:49+00:00",
+      "summary": "Alabama Power prepares for a potential severe weather in the Wiregrass WDHN",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTNVd0Q1Zm9SSE13Y1lKQ2w1YTdEZ1k1NHp1STJBQVNhSVluR3lwREdPVV83TGNoc1REUUVOVWN5ZWZRTUxXRV9JQW51dnRZMmFKVXp0Mlk1LWpmaldYR0hkMXlJWHNXM0VFdXZFUTc4cUJUZ2VpZ3E0X3o3NDRodWhDZTRUZ0RKcWVKRjVUd0p0cUFWSm01QXZaNHJxTjJmWVdkcUk3Y203VzV6bURzejRsNkFNQlE?oc=5\" target=\"_blank\">Alabama Power prepares for a potential severe weather in the Wiregrass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDHN</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T22:08:25+00:00"
+    },
     {
       "id": "af44c21b4b83078f",
       "title": "Data Breach Affects Alabama Power and Georgia Power Customers - WEIS | Local & Area News, Sports, & Weather - weisradio.com",
@@ -243,6 +271,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-06T01:04:03+00:00"
+    },
+    {
+      "id": "2ffe907542589ddb",
+      "title": "Nearly 100K Alabama Power accounts impacted by Southern Company data breach - WTVY",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVk53TFNvX2tmOGdLbTZqZlZjLXM2elhFcDFTU3JkZk9hX3JxVVVTLTZwanFETWFFVHg5ZEoydnpMQzJZYjVqVnBab0VfUUtQODF1RFhrQmtXdm5EZ3JZN3lJX3ZGZTl3ckV6U1BDemhWRWpSNHhGb1dYVGMwR01sZG1rV2Y4R25hY2lUWTNQalVlWUxab0QtLWl5WVBrcDlvdTVlMmZWc1JvRFBBR0pLS3BMa3E?oc=5",
+      "domain": "news.google.com",
+      "source": "WTVY",
+      "language": "English",
+      "published_at": "2026-10-05T19:03:26+00:00",
+      "summary": "Nearly 100K Alabama Power accounts impacted by Southern Company data breach WTVY",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVk53TFNvX2tmOGdLbTZqZlZjLXM2elhFcDFTU3JkZk9hX3JxVVVTLTZwanFETWFFVHg5ZEoydnpMQzJZYjVqVnBab0VfUUtQODF1RFhrQmtXdm5EZ3JZN3lJX3ZGZTl3ckV6U1BDemhWRWpSNHhGb1dYVGMwR01sZG1rV2Y4R25hY2lUWTNQalVlWUxab0QtLWl5WVBrcDlvdTVlMmZWc1JvRFBBR0pLS3BMa3E?oc=5\" target=\"_blank\">Nearly 100K Alabama Power accounts impacted by Southern Company data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVY</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T22:08:25+00:00"
     },
     {
       "id": "0b34fbc57e3b3ffd",

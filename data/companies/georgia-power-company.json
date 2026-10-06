@@ -2,10 +2,66 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-06T16:26:19+00:00",
+  "last_updated": "2026-10-06T22:08:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 885,
+  "count": 893,
   "mentions": [
+    {
+      "id": "2d17a0de6d73947d",
+      "title": "Georgia Power targeted by hackers, company says - WRDW",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPemhDM19fbEVlYklJaGRsUXB4Tk1UdUQ2R2x1SGZyLWZSdWVXSC1yX3ZhUkVMeXBGSEhMblZ5VnQyTXI0Z2N5UUREYmtGck5qdzJRNlFpdWMzeEFESjQ0T052aFRNb3lsQnRBUjQ1SFl2MEhMTklCeXhxOHBRS0JLMG80NHNGQ1FUWFJydVFn?oc=5",
+      "domain": "news.google.com",
+      "source": "WRDW",
+      "language": "English",
+      "published_at": "2026-10-06T19:48:00+00:00",
+      "summary": "Georgia Power targeted by hackers, company says WRDW",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPemhDM19fbEVlYklJaGRsUXB4Tk1UdUQ2R2x1SGZyLWZSdWVXSC1yX3ZhUkVMeXBGSEhMblZ5VnQyTXI0Z2N5UUREYmtGck5qdzJRNlFpdWMzeEFESjQ0T052aFRNb3lsQnRBUjQ1SFl2MEhMTklCeXhxOHBRS0JLMG80NHNGQ1FUWFJydVFn?oc=5\" target=\"_blank\">Georgia Power targeted by hackers, company says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T22:08:42+00:00"
+    },
+    {
+      "id": "bf3bb70aaea3e94e",
+      "title": "Georgia Power customer information leaked through online portal - Now Georgia",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWnpGWlBPVVh0VEVaWWNnMW4wMmwwYUh0czlrdE94MGgwdktBSUEtYTh1clFSVnRfTUZOSzVteXAtTXFmMml1WnhURkNJT0hUOEN4WHRqSWd0R0Z2bEZhbFRrNTFwLTNMVGRPUk5TLWVyZkxla01GSnJCZEpQMV94U0ZBcHI0MWJfaDAtd0VHdTY?oc=5",
+      "domain": "news.google.com",
+      "source": "Now Georgia",
+      "language": "English",
+      "published_at": "2026-10-06T19:21:34+00:00",
+      "summary": "Georgia Power customer information leaked through online portal Now Georgia",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPWnpGWlBPVVh0VEVaWWNnMW4wMmwwYUh0czlrdE94MGgwdktBSUEtYTh1clFSVnRfTUZOSzVteXAtTXFmMml1WnhURkNJT0hUOEN4WHRqSWd0R0Z2bEZhbFRrNTFwLTNMVGRPUk5TLWVyZkxla01GSnJCZEpQMV94U0ZBcHI0MWJfaDAtd0VHdTY?oc=5\" target=\"_blank\">Georgia Power customer information leaked through online portal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Now Georgia</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T22:08:42+00:00"
+    },
+    {
+      "id": "5cbd38c25c1f83b2",
+      "title": "West Georgia Technical College and Georgia Power address man... - LaGrange Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcUxFeEpMcVM2b1plVm8talJBX3JBUzZwdUplM1RaeUMxdWNScEVraEJvcUo0ZDhrRGpGcklGQWJlYzNMLW9jTHB0Mm1makgzMDk5U1NOUWJDdDlHazJhLUEtTDJrQy1YVTFlanNjTUtKTTZTb01LZWc4bE4ybmRuT19ROW5tVTRzUW9xazVPXy1TR0hoY0ZxUTRCQUtiZjhXZVpFS01HTm4yVF9vQXVOX0lOLTVrVkhaTXdxVXlON0Y2Z3ZYZTZvb1lMRzhoYTh0Sndqa1Nwejk1WlFLZzNvZWRQY1dEUklTUU5RcW9B?oc=5",
+      "domain": "news.google.com",
+      "source": "LaGrange Daily News",
+      "language": "English",
+      "published_at": "2026-10-06T18:39:11+00:00",
+      "summary": "West Georgia Technical College and Georgia Power address man... LaGrange Daily News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcUxFeEpMcVM2b1plVm8talJBX3JBUzZwdUplM1RaeUMxdWNScEVraEJvcUo0ZDhrRGpGcklGQWJlYzNMLW9jTHB0Mm1makgzMDk5U1NOUWJDdDlHazJhLUEtTDJrQy1YVTFlanNjTUtKTTZTb01LZWc4bE4ybmRuT19ROW5tVTRzUW9xazVPXy1TR0hoY0ZxUTRCQUtiZjhXZVpFS01HTm4yVF9vQXVOX0lOLTVrVkhaTXdxVXlON0Y2Z3ZYZTZvb1lMRzhoYTh0Sndqa1Nwejk1WlFLZzNvZWRQY1dEUklTUU5RcW9B?oc=5\" target=\"_blank\">West Georgia Technical College and Georgia Power address man...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LaGrange Daily News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T22:08:42+00:00"
+    },
+    {
+      "id": "4bfb880ab06b713a",
+      "title": "Georgia Power gifts $25,000 to BCFC for fire recovery efforts - Blackshear Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkhYazhKaUFQWFRTU0swV05CNkFKS1h6QmUybEtxcEtEb01zUXRSYWFKR2JLalJNT3N3VGRuajJtcEFLQ0xaQjhGN25LbGhQaUZ6WS02Vlk0WVpQRHFvdk1IS2lvalRzbUFLQXNBOE1vXzAzLXdNVGJrUDJIRW9oNk5BTEhyeVBKT0xsNnhyT1VtdllfU2J4bGtOXzRtWUVFQjBXTkZoeEthTnRBblE?oc=5",
+      "domain": "news.google.com",
+      "source": "Blackshear Times",
+      "language": "English",
+      "published_at": "2026-10-06T17:35:50+00:00",
+      "summary": "Georgia Power gifts $25,000 to BCFC for fire recovery efforts Blackshear Times",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkhYazhKaUFQWFRTU0swV05CNkFKS1h6QmUybEtxcEtEb01zUXRSYWFKR2JLalJNT3N3VGRuajJtcEFLQ0xaQjhGN25LbGhQaUZ6WS02Vlk0WVpQRHFvdk1IS2lvalRzbUFLQXNBOE1vXzAzLXdNVGJrUDJIRW9oNk5BTEhyeVBKT0xsNnhyT1VtdllfU2J4bGtOXzRtWUVFQjBXTkZoeEthTnRBblE?oc=5\" target=\"_blank\">Georgia Power gifts $25,000 to BCFC for fire recovery efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blackshear Times</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T22:08:42+00:00"
+    },
     {
       "id": "93f25375d5a6e2cf",
       "title": "Georgia Power work to interrupt SR-30 traffic in Port Wentworth - WTOC",
@@ -77,6 +133,20 @@
       "collected_at": "2026-10-06T16:26:19+00:00"
     },
     {
+      "id": "5c87a5a6b675d7b9",
+      "title": "Georgia Power data breach exposes 400,000 customer accounts - Quartz",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hLVM1NHNhYjNlY0N1bmJOZHpfRzg0Z1BzYVNwMmx0SWZQQ1I4QkYtamlUSmdOaDJ2Y0I0N0hTLXhtQUxQRlFBV3dmNlladjVRNHBqS2I1YWtHQWxsbU1OYVYyTkVaZVhNN0o0ZEx4MFJQbE0?oc=5",
+      "domain": "news.google.com",
+      "source": "Quartz",
+      "language": "English",
+      "published_at": "2026-10-06T12:11:39+00:00",
+      "summary": "Georgia Power data breach exposes 400,000 customer accounts Quartz",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9hLVM1NHNhYjNlY0N1bmJOZHpfRzg0Z1BzYVNwMmx0SWZQQ1I4QkYtamlUSmdOaDJ2Y0I0N0hTLXhtQUxQRlFBV3dmNlladjVRNHBqS2I1YWtHQWxsbU1OYVYyTkVaZVhNN0o0ZEx4MFJQbE0?oc=5\" target=\"_blank\">Georgia Power data breach exposes 400,000 customer accounts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quartz</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T22:08:42+00:00"
+    },
+    {
       "id": "10d3c9d497d85171",
       "title": "BREAKING: Alabama Power, Georgia Power customer accounts accessed in cybersecurity incident - CNAW 2 with Colin Scroggins",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JDNkhVVWM1VTFZWllCUGhpeEZTZkpHYndQVXgzQ25hTGw4Ry1rUndlaUNsdnMxWG9wNlBVNnRKZ0l2aHRGdXAtajVoLUVOVkxPbW93RzBrcG51X0E3YmlaR2Y4Mmt2NnpEaGxPaVdka0V6c0NQTHRVejhsbXFhSjgwVWlDVlpOSmFwVDh0Sk93UkdUMTJrZkxyY0xleUY3aEdwTktCOTl5T1V5QVlJWWlJZVRQcUx4N1NPSUtKMTk?oc=5",
@@ -131,6 +201,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-06T08:26:21+00:00"
+    },
+    {
+      "id": "d3c4410c702a20cb",
+      "title": "Georgia Power data breach hits 300,000 customers - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZnlVR3JOZmNfWWI2aXpDeUhMUkRldDBaS29uZ3NSeVRKeGh2WGwyOGhaMnMtcVp4TGhZTHB0UFNnZVdkaXJadXRPNXphS0x0TWt0d2JwRC1QZThadExKbWlxQ0g5NkEzOEpvU240SzU?oc=5",
+      "domain": "news.google.com",
+      "source": "AJC.com",
+      "language": "English",
+      "published_at": "2026-10-06T00:56:12+00:00",
+      "summary": "Georgia Power data breach hits 300,000 customers AJC.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZnlVR3JOZmNfWWI2aXpDeUhMUkRldDBaS29uZ3NSeVRKeGh2WGwyOGhaMnMtcVp4TGhZTHB0UFNnZVdkaXJadXRPNXphS0x0TWt0d2JwRC1QZThadExKbWlxQ0g5NkEzOEpvU240SzU?oc=5\" target=\"_blank\">Georgia Power data breach hits 300,000 customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T22:08:42+00:00"
     },
     {
       "id": "0f219d4a46c69a39",
@@ -201,6 +285,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-06T08:26:21+00:00"
+    },
+    {
+      "id": "1bd21d35e1b62c61",
+      "title": "Georgia Power notifies customers of cyberattack exposing personal information - WRBL",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjZ3cDJFM1ljV2l4TXBLckd0WDhsTzlucDhqcHdkMi1RdVc0VHVRWjZWa0hNVlFFOFFiLW5fMHNOdnVkVlBzLTdrZmpZa3hDdEpoNVVBZnN6M0cyUUxJNEcwbkZnMEZ4TlBrajloUWpUUE9CVlBZQWpENGZTM0Z5UkVEa2tBQ2Zhc1lSN3pkelB2Qks1dXBIaDlvZ2dyVnkwRFNEWWlhaGsyaGtXRVg1RkdOQlQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WRBL",
+      "language": "English",
+      "published_at": "2026-10-05T21:52:10+00:00",
+      "summary": "Georgia Power notifies customers of cyberattack exposing personal information WRBL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjZ3cDJFM1ljV2l4TXBLckd0WDhsTzlucDhqcHdkMi1RdVc0VHVRWjZWa0hNVlFFOFFiLW5fMHNOdnVkVlBzLTdrZmpZa3hDdEpoNVVBZnN6M0cyUUxJNEcwbkZnMEZ4TlBrajloUWpUUE9CVlBZQWpENGZTM0Z5UkVEa2tBQ2Zhc1lSN3pkelB2Qks1dXBIaDlvZ2dyVnkwRFNEWWlhaGsyaGtXRVg1RkdOQlQ?oc=5\" target=\"_blank\">Georgia Power notifies customers of cyberattack exposing personal information</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRBL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T22:08:42+00:00"
     },
     {
       "id": "4a2e94d2787a1022",
@@ -313,6 +411,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-06T08:26:21+00:00"
+    },
+    {
+      "id": "0766850da1ece2de",
+      "title": "Georgia Power targeted by hackers, company says - WALB",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcE43UlpNcWtTTlA0dmxuNFp1UjVtQ25iSDlsekFoUF9jUEFNZTY3dTlWbFR6dG0wZEUyM0IwaUgyb1dOeXZVS0w2YVJ5U0E0RlExNmMxMVQzX1BmeG02aE54MjJRTGJidlJDMmxhSVNpbnZhR3BSMGJGR2JjcFJEZ01MejRLQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WALB",
+      "language": "English",
+      "published_at": "2026-10-05T19:49:00+00:00",
+      "summary": "Georgia Power targeted by hackers, company says WALB",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOcE43UlpNcWtTTlA0dmxuNFp1UjVtQ25iSDlsekFoUF9jUEFNZTY3dTlWbFR6dG0wZEUyM0IwaUgyb1dOeXZVS0w2YVJ5U0E0RlExNmMxMVQzX1BmeG02aE54MjJRTGJidlJDMmxhSVNpbnZhR3BSMGJGR2JjcFJEZ01MejRLQQ?oc=5\" target=\"_blank\">Georgia Power targeted by hackers, company says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WALB</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T22:08:42+00:00"
     },
     {
       "id": "f3e0c510cb395098",
