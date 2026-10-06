@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-10-05T19:00:22+00:00",
+  "last_updated": "2026-10-06T01:04:25+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 62,
+  "count": 63,
   "mentions": [
+    {
+      "id": "09879434db5f1b9b",
+      "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel US Nuclear Output - energytech.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON3VzUlBxY3AwZ2s4bTJrcEw0ZzNlS0xCZThIUkpTcjRSY0U1UFZ3NXZCY0d4V3NucE1vLXZUS3JSYTBYZ0QtY043WWJLR1UtMm9WbDVNRzRaOWJ3MUFPMG1mcUZ3SVdCNDRPZjNXdVFHSUhyWEk5eTRKODBsZ3NqQmNKclNGb2pENjFQNW5oX3VOdW1GMzZpcHVSZkRVOVRvMUZTbGFPRGd0dVdtNmRNRWNVRXhVLU15VXlRQU1XQ1pxU2EwMGx5UzhHd3g?oc=5",
+      "domain": "news.google.com",
+      "source": "energytech.com",
+      "language": "English",
+      "published_at": "2026-10-05T19:36:26+00:00",
+      "summary": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel US Nuclear Output energytech.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxON3VzUlBxY3AwZ2s4bTJrcEw0ZzNlS0xCZThIUkpTcjRSY0U1UFZ3NXZCY0d4V3NucE1vLXZUS3JSYTBYZ0QtY043WWJLR1UtMm9WbDVNRzRaOWJ3MUFPMG1mcUZ3SVdCNDRPZjNXdVFHSUhyWEk5eTRKODBsZ3NqQmNKclNGb2pENjFQNW5oX3VOdW1GMzZpcHVSZkRVOVRvMUZTbGFPRGd0dVdtNmRNRWNVRXhVLU15VXlRQU1XQ1pxU2EwMGx5UzhHd3g?oc=5\" target=\"_blank\">DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel US Nuclear Output</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energytech.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-06T01:04:25+00:00"
+    },
     {
       "id": "62da534190e29cd2",
       "title": "Iowa is leading America's nuclear power comeback | Opinion - The Des Moines Register",

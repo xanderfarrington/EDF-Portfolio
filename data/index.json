@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T19:00:27+00:00",
+  "last_updated": "2026-10-06T01:04:30+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 443,
-      "new_mentions_this_run": 20,
+      "count": 454,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "f5d153323248811f",
-        "title": "Potential data breach possibly affected as many as 400,000 Alabama Power customers - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNakpaMmhwZjR3Zm1zUUQxa1EyV1BmV0ZLaUFDRmRqVWN1YnVzYlNRQmJhUTgwdWZDeUFDSDdQcnBWWkw4M2w1QmpDWkFTMjRHOGNqOUZ2RjRpRWR6aFMzM1h4ekFZRFE5aF9QcFZKeDNzMExGbWc2TnRFaFQ4Smd6ZWJrclVnamF2ZHhEMG5CR0xjTmU0U0tOdktCMHVuNDhkZWVSSGMyelp0QUUxc0xhZFRFazdfaldtbWfSAc4BQVVfeXFMTUM3amJUaXlpd0RYVGZSeENsdy1oZGlhQmYtRTRZR2kxUk00TzRrWU5nNldJdkxOWnRsYUR2U1lvUFBLckhoUk9Zd2RJcVdvcHVJWG5OYWNQQjI4MVdTREIxZWNOQ1VTa1pZME9wM0M3R0VXQjhJa1l0WDRXcXE4OWZVblZ6MWNWOEthS2JEQ2ZkNHhUNGNSd3dfM2owenNQb1FadUdWQm9CVHNOb2t4WGFST1BzRXp2RGRIZ3BNaFpUcU04b3ZNNjQ1WGRIY1E?oc=5",
+        "id": "15a933f9bdeaada7",
+        "title": "100,000 Alabama Power Customers Affected in Southern Company Data Breach - WBMA",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVEJLTEl3N05kWHlpQ2pIVkN5dFRqLTQ4bGh4c1VZTXhGYnZDMW1xOFpXZVJTSDE4NUJ0cEVDR3F4NGNjYXd2R004eFVScW5Na0FiUWprUGxpWDY0OWkxeXRKSXZKRzl6Tk1rQ2dHWC1tSzhyVGYwbU81clFSSzhLMEtLMWlxNHdJN05pQ2RJR2trdEVRYkdNVkZTcldGUWhLSzJFY1lmOFlWQmZpaFp0RERMVTEzMHNEUHEydEk2NWg2ZU5YdlE?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "WBMA",
         "language": "English",
-        "published_at": "2026-10-05T18:02:00+00:00",
-        "summary": "Potential data breach possibly affected as many as 400,000 Alabama Power customers AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNakpaMmhwZjR3Zm1zUUQxa1EyV1BmV0ZLaUFDRmRqVWN1YnVzYlNRQmJhUTgwdWZDeUFDSDdQcnBWWkw4M2w1QmpDWkFTMjRHOGNqOUZ2RjRpRWR6aFMzM1h4ekFZRFE5aF9QcFZKeDNzMExGbWc2TnRFaFQ4Smd6ZWJrclVnamF2ZHhEMG5CR0xjTmU0U0tOdktCMHVuNDhkZWVSSGMyelp0QUUxc0xhZFRFazdfaldtbWfSAc4BQVVfeXFMTUM3amJUaXlpd0RYVGZSeENsdy1oZGlhQmYtRTRZR2kxUk00TzRrWU5nNldJdkxOWnRsYUR2U1lvUFBLckhoUk9Zd2RJcVdvcHVJWG5OYWNQQjI4MVdTREIxZWNOQ1VTa1pZME9wM0M3R0VXQjhJa1l0WDRXcXE4OWZVblZ6MWNWOEthS2JEQ2ZkNHhUNGNSd3dfM2owenNQb1FadUdWQm9CVHNOb2t4WGFST1BzRXp2RGRIZ3BNaFpUcU04b3ZNNjQ1WGRIY1E?oc=5\" target=\"_blank\">Potential data breach possibly affected as many as 400,000 Alabama Power customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-10-05T23:44:02+00:00",
+        "summary": "100,000 Alabama Power Customers Affected in Southern Company Data Breach WBMA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOVEJLTEl3N05kWHlpQ2pIVkN5dFRqLTQ4bGh4c1VZTXhGYnZDMW1xOFpXZVJTSDE4NUJ0cEVDR3F4NGNjYXd2R004eFVScW5Na0FiUWprUGxpWDY0OWkxeXRKSXZKRzl6Tk1rQ2dHWC1tSzhyVGYwbU81clFSSzhLMEtLMWlxNHdJN05pQ2RJR2trdEVRYkdNVkZTcldGUWhLSzJFY1lmOFlWQmZpaFp0RERMVTEzMHNEUHEydEk2NWg2ZU5YdlE?oc=5\" target=\"_blank\">100,000 Alabama Power Customers Affected in Southern Company Data Breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-05T19:00:00+00:00"
+        "collected_at": "2026-10-06T01:04:03+00:00"
       }
     },
     {
@@ -89,42 +89,42 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 859,
+      "count": 868,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "4f7259b34b14da3b",
-        "title": "Erie County man faces federal charge in Georgia Power bomb threat case - WGRZ",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEdyQTlLay1kU19zdFJBYmlCZkl5akc3NG9JUzZqNEVjSFFCemU3MC1YbVQwM2xpYVpTTTl6elQxZGN0TkcxMDdZOXNQT2lBemFGVnZTRV9FNmtRV1otOTQwNDJ1bDhCWWhLRmRXdHMzNkVsSWtrdXhNdVhfU2JhT0V1cXdHMHhCZzJFTmJWVlc5TnpOMkd4UERJLVFvVW9WVjlPNHczbzFNUWdnTEhlQnhDYlZ0LW1yRzlEQ0tORW9rTWRwMzNwYXlDYjBmM3M?oc=5",
+        "id": "4a2e94d2787a1022",
+        "title": "BREAKING: Alabama Power, Georgia Power customer accounts accessed in cybersecurity incident - cnaw2news.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JDNkhVVWM1VTFZWllCUGhpeEZTZkpHYndQVXgzQ25hTGw4Ry1rUndlaUNsdnMxWG9wNlBVNnRKZ0l2aHRGdXAtajVoLUVOVkxPbW93RzBrcG51X0E3YmlaR2Y4Mmt2NnpEaGxPaVdka0V6c0NQTHRVejhsbXFhSjgwVWlDVlpOSmFwVDh0Sk93UkdUMTJrZkxyY0xleUY3aEdwTktCOTl5T1V5QVlJWWlJZVRQcUx4N1NPSUtKMTk?oc=5",
         "domain": "news.google.com",
-        "source": "WGRZ",
+        "source": "cnaw2news.com",
         "language": "English",
-        "published_at": "2026-10-04T13:55:00+00:00",
-        "summary": "Erie County man faces federal charge in Georgia Power bomb threat case WGRZ",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEdyQTlLay1kU19zdFJBYmlCZkl5akc3NG9JUzZqNEVjSFFCemU3MC1YbVQwM2xpYVpTTTl6elQxZGN0TkcxMDdZOXNQT2lBemFGVnZTRV9FNmtRV1otOTQwNDJ1bDhCWWhLRmRXdHMzNkVsSWtrdXhNdVhfU2JhT0V1cXdHMHhCZzJFTmJWVlc5TnpOMkd4UERJLVFvVW9WVjlPNHczbzFNUWdnTEhlQnhDYlZ0LW1yRzlEQ0tORW9rTWRwMzNwYXlDYjBmM3M?oc=5\" target=\"_blank\">Erie County man faces federal charge in Georgia Power bomb threat case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGRZ</font>",
+        "published_at": "2026-10-05T21:51:28+00:00",
+        "summary": "BREAKING: Alabama Power, Georgia Power customer accounts accessed in cybersecurity incident cnaw2news.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JDNkhVVWM1VTFZWllCUGhpeEZTZkpHYndQVXgzQ25hTGw4Ry1rUndlaUNsdnMxWG9wNlBVNnRKZ0l2aHRGdXAtajVoLUVOVkxPbW93RzBrcG51X0E3YmlaR2Y4Mmt2NnpEaGxPaVdka0V6c0NQTHRVejhsbXFhSjgwVWlDVlpOSmFwVDh0Sk93UkdUMTJrZkxyY0xleUY3aEdwTktCOTl5T1V5QVlJWWlJZVRQcUx4N1NPSUtKMTk?oc=5\" target=\"_blank\">BREAKING: Alabama Power, Georgia Power customer accounts accessed in cybersecurity incident</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnaw2news.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-04T17:56:46+00:00"
+        "collected_at": "2026-10-06T01:04:20+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 62,
-      "new_mentions_this_run": 7,
+      "count": 63,
+      "new_mentions_this_run": 8,
       "latest_mention": {
-        "id": "62da534190e29cd2",
-        "title": "Iowa is leading America's nuclear power comeback | Opinion - The Des Moines Register",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEhlNFNIN1ZhemlFekVocVRCYmZEMHJLQVBYUnFQdmZCaTI1TG1FTWxXN3pBVFRJZlVJRUhMM216NF9FQ1JvWUFpeXVORUpIbGhLRDdlV0EzbWxBUjlncVpzOFYyRHVZNnFnVDJuNnA3OEEwQXlIYm4zUU8yU1djMkx2RDVxTlJGOTlVeHVBVjZiTG1BQ1lTTkhaOWo5N1FzYjZnZl8zZkg3SXBiaWUzMGFZUEx2VTZGd1U1RlYybzJlM00yYjBN?oc=5",
+        "id": "09879434db5f1b9b",
+        "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel US Nuclear Output - energytech.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON3VzUlBxY3AwZ2s4bTJrcEw0ZzNlS0xCZThIUkpTcjRSY0U1UFZ3NXZCY0d4V3NucE1vLXZUS3JSYTBYZ0QtY043WWJLR1UtMm9WbDVNRzRaOWJ3MUFPMG1mcUZ3SVdCNDRPZjNXdVFHSUhyWEk5eTRKODBsZ3NqQmNKclNGb2pENjFQNW5oX3VOdW1GMzZpcHVSZkRVOVRvMUZTbGFPRGd0dVdtNmRNRWNVRXhVLU15VXlRQU1XQ1pxU2EwMGx5UzhHd3g?oc=5",
         "domain": "news.google.com",
-        "source": "The Des Moines Register",
+        "source": "energytech.com",
         "language": "English",
-        "published_at": "2026-09-23T09:09:00+00:00",
-        "summary": "Iowa is leading America's nuclear power comeback | Opinion The Des Moines Register",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEhlNFNIN1ZhemlFekVocVRCYmZEMHJLQVBYUnFQdmZCaTI1TG1FTWxXN3pBVFRJZlVJRUhMM216NF9FQ1JvWUFpeXVORUpIbGhLRDdlV0EzbWxBUjlncVpzOFYyRHVZNnFnVDJuNnA3OEEwQXlIYm4zUU8yU1djMkx2RDVxTlJGOTlVeHVBVjZiTG1BQ1lTTkhaOWo5N1FzYjZnZl8zZkg3SXBiaWUzMGFZUEx2VTZGd1U1RlYybzJlM00yYjBN?oc=5\" target=\"_blank\">Iowa is leading America's nuclear power comeback | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Des Moines Register</font>",
+        "published_at": "2026-10-05T19:36:26+00:00",
+        "summary": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel US Nuclear Output energytech.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxON3VzUlBxY3AwZ2s4bTJrcEw0ZzNlS0xCZThIUkpTcjRSY0U1UFZ3NXZCY0d4V3NucE1vLXZUS3JSYTBYZ0QtY043WWJLR1UtMm9WbDVNRzRaOWJ3MUFPMG1mcUZ3SVdCNDRPZjNXdVFHSUhyWEk5eTRKODBsZ3NqQmNKclNGb2pENjFQNW5oX3VOdW1GMzZpcHVSZkRVOVRvMUZTbGFPRGd0dVdtNmRNRWNVRXhVLU15VXlRQU1XQ1pxU2EwMGx5UzhHd3g?oc=5\" target=\"_blank\">DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel US Nuclear Output</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energytech.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-23T14:36:31+00:00"
+        "collected_at": "2026-10-06T01:04:25+00:00"
       }
     }
   ]
