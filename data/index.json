@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-07T03:46:55+00:00",
+  "last_updated": "2026-10-07T10:46:28+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 110,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "bb732da69d683116",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - tradingview.com",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 465,
-      "new_mentions_this_run": 0,
+      "count": 471,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "2f882785dd8faeb9",
-        "title": "Alabama Power Prepares as Gulf Disturbance Nears - Wiregrass Daily News",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2s1ZmNMaWMyMXBhMGR6MUlMLVVkOWxvSURjcUVodU1DVHh5YjlJVVNEZU1QVUlrMVdhRGJjZUwzTWRzOWRQMUVaVmJOQ095dFJUb2wxOTNCUmhYNXBRN2U0eFM4ekE1SE1wOFZOdkxIVWJPYXVFNzc5NWhxTjNQMEhVNDdfT2lBNm5zaUNXM21QSi05emNiTndyeWlhcE0zSlV1MFFPeU0?oc=5",
+        "id": "a3452aa8212f0ef5",
+        "title": "PSC approves new procedure for evaluating data center contracts - Alabama Daily News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVN4QVQ2aXVZbUNRbUtja3ItTVEzaVNhUVp5akh2WVNSc0hvUEl5V1h2eGV0RDA3MXBfX0NvcGZHb1NDTUJ3TW9LNExwYkptRlBvSTA4andoOUR3U0dmZ3F2dll0QTFxZmNubnhmMFl6UzdmMUoxT0ZBajFheW15aEd6cEpEbGl0cUJwS1RpcTdUZnpr?oc=5",
         "domain": "news.google.com",
-        "source": "Wiregrass Daily News",
+        "source": "Alabama Daily News",
         "language": "English",
-        "published_at": "2026-10-06T20:18:55+00:00",
-        "summary": "Alabama Power Prepares as Gulf Disturbance Nears Wiregrass Daily News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2s1ZmNMaWMyMXBhMGR6MUlMLVVkOWxvSURjcUVodU1DVHh5YjlJVVNEZU1QVUlrMVdhRGJjZUwzTWRzOWRQMUVaVmJOQ095dFJUb2wxOTNCUmhYNXBRN2U0eFM4ekE1SE1wOFZOdkxIVWJPYXVFNzc5NWhxTjNQMEhVNDdfT2lBNm5zaUNXM21QSi05emNiTndyeWlhcE0zSlV1MFFPeU0?oc=5\" target=\"_blank\">Alabama Power Prepares as Gulf Disturbance Nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiregrass Daily News</font>",
+        "published_at": "2026-10-07T10:11:10+00:00",
+        "summary": "PSC approves new procedure for evaluating data center contracts Alabama Daily News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVN4QVQ2aXVZbUNRbUtja3ItTVEzaVNhUVp5akh2WVNSc0hvUEl5V1h2eGV0RDA3MXBfX0NvcGZHb1NDTUJ3TW9LNExwYkptRlBvSTA4andoOUR3U0dmZ3F2dll0QTFxZmNubnhmMFl6UzdmMUoxT0ZBajFheW15aEd6cEpEbGl0cUJwS1RpcTdUZnpr?oc=5\" target=\"_blank\">PSC approves new procedure for evaluating data center contracts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Daily News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-06T22:08:25+00:00"
+        "collected_at": "2026-10-07T10:46:01+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 105,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "35b2735a6c611205",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand - Kalkine Media",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 893,
-      "new_mentions_this_run": 0,
+      "count": 899,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "2d17a0de6d73947d",
-        "title": "Georgia Power targeted by hackers, company says - WRDW",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPemhDM19fbEVlYklJaGRsUXB4Tk1UdUQ2R2x1SGZyLWZSdWVXSC1yX3ZhUkVMeXBGSEhMblZ5VnQyTXI0Z2N5UUREYmtGck5qdzJRNlFpdWMzeEFESjQ0T052aFRNb3lsQnRBUjQ1SFl2MEhMTklCeXhxOHBRS0JLMG80NHNGQ1FUWFJydVFn?oc=5",
+        "id": "a116177449c6c251",
+        "title": "Georgia Power Ambassadors donate to humane society - The Brunswick News",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY2MxVndXM25aQnYtZlhGVWZ0aWZORTdTRTA1eDRFQllGQ1JmOUtvbWlmVUdvc19KSlA1MGloQ1NUSkRTZjFuLVNBZHdyZFF3aENwMlJhWXhmXzd0eTJzendPRGFYTkNuZm9mYWZpaTNGUEk2c2NTUE50eHRzd2h6NVM1cm4yRlZ1MWlzWFRWTS15SzJVU2F1Ul9xY194aFFmcUFsLW5vRVJOZ2c4OFprbXJpdlZSdWt3MGN1UzFzYk12MFVLRjhSbU56ZkN1dVZadFEyM29QSWR1V1Nq?oc=5",
         "domain": "news.google.com",
-        "source": "WRDW",
+        "source": "The Brunswick News",
         "language": "English",
-        "published_at": "2026-10-06T19:48:00+00:00",
-        "summary": "Georgia Power targeted by hackers, company says WRDW",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPemhDM19fbEVlYklJaGRsUXB4Tk1UdUQ2R2x1SGZyLWZSdWVXSC1yX3ZhUkVMeXBGSEhMblZ5VnQyTXI0Z2N5UUREYmtGck5qdzJRNlFpdWMzeEFESjQ0T052aFRNb3lsQnRBUjQ1SFl2MEhMTklCeXhxOHBRS0JLMG80NHNGQ1FUWFJydVFn?oc=5\" target=\"_blank\">Georgia Power targeted by hackers, company says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+        "published_at": "2026-10-07T04:00:00+00:00",
+        "summary": "Georgia Power Ambassadors donate to humane society The Brunswick News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY2MxVndXM25aQnYtZlhGVWZ0aWZORTdTRTA1eDRFQllGQ1JmOUtvbWlmVUdvc19KSlA1MGloQ1NUSkRTZjFuLVNBZHdyZFF3aENwMlJhWXhmXzd0eTJzendPRGFYTkNuZm9mYWZpaTNGUEk2c2NTUE50eHRzd2h6NVM1cm4yRlZ1MWlzWFRWTS15SzJVU2F1Ul9xY194aFFmcUFsLW5vRVJOZ2c4OFprbXJpdlZSdWt3MGN1UzFzYk12MFVLRjhSbU56ZkN1dVZadFEyM29QSWR1V1Nq?oc=5\" target=\"_blank\">Georgia Power Ambassadors donate to humane society</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brunswick News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-06T22:08:42+00:00"
+        "collected_at": "2026-10-07T10:46:18+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 65,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",
