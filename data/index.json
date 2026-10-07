@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-06T22:08:52+00:00",
+  "last_updated": "2026-10-07T03:46:55+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 110,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "bb732da69d683116",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - tradingview.com",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 465,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "2f882785dd8faeb9",
         "title": "Alabama Power Prepares as Gulf Disturbance Nears - Wiregrass Daily News",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 105,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "35b2735a6c611205",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand - Kalkine Media",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 893,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "2d17a0de6d73947d",
         "title": "Georgia Power targeted by hackers, company says - WRDW",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 65,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",
