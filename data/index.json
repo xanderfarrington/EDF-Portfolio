@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T10:46:28+00:00",
+  "last_updated": "2026-10-07T18:16:53+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 471,
+      "count": 475,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "a3452aa8212f0ef5",
-        "title": "PSC approves new procedure for evaluating data center contracts - Alabama Daily News",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVN4QVQ2aXVZbUNRbUtja3ItTVEzaVNhUVp5akh2WVNSc0hvUEl5V1h2eGV0RDA3MXBfX0NvcGZHb1NDTUJ3TW9LNExwYkptRlBvSTA4andoOUR3U0dmZ3F2dll0QTFxZmNubnhmMFl6UzdmMUoxT0ZBajFheW15aEd6cEpEbGl0cUJwS1RpcTdUZnpr?oc=5",
+        "id": "cc9875459a464aec",
+        "title": "PSC Alabama Power - MountainEagle.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUEl1enIxRkNUYUVDLWJoMkRpNFNRVjd5T1NTUks0ei16N3U5QnptcVRTYUVZNWdUM1p4dG9PTk5LVm13a2VuVlFDNFo0TTZqOVdjczhrbXpBeXB2WmZTY2N4THJTTlV5MXZJelBVaDQ5c1ZvYjRXaXJERk1hb3BpT1ZnTXpmd0hfeDV6c2IwXzV6YzFGS1NyYUd2d0QtV2U0MGc?oc=5",
         "domain": "news.google.com",
-        "source": "Alabama Daily News",
+        "source": "MountainEagle.com",
         "language": "English",
-        "published_at": "2026-10-07T10:11:10+00:00",
-        "summary": "PSC approves new procedure for evaluating data center contracts Alabama Daily News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVN4QVQ2aXVZbUNRbUtja3ItTVEzaVNhUVp5akh2WVNSc0hvUEl5V1h2eGV0RDA3MXBfX0NvcGZHb1NDTUJ3TW9LNExwYkptRlBvSTA4andoOUR3U0dmZ3F2dll0QTFxZmNubnhmMFl6UzdmMUoxT0ZBajFheW15aEd6cEpEbGl0cUJwS1RpcTdUZnpr?oc=5\" target=\"_blank\">PSC approves new procedure for evaluating data center contracts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Daily News</font>",
+        "published_at": "2026-10-07T16:15:00+00:00",
+        "summary": "PSC Alabama Power MountainEagle.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPUEl1enIxRkNUYUVDLWJoMkRpNFNRVjd5T1NTUks0ei16N3U5QnptcVRTYUVZNWdUM1p4dG9PTk5LVm13a2VuVlFDNFo0TTZqOVdjczhrbXpBeXB2WmZTY2N4THJTTlV5MXZJelBVaDQ5c1ZvYjRXaXJERk1hb3BpT1ZnTXpmd0hfeDV6c2IwXzV6YzFGS1NyYUd2d0QtV2U0MGc?oc=5\" target=\"_blank\">PSC Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MountainEagle.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-07T10:46:01+00:00"
+        "collected_at": "2026-10-07T18:16:25+00:00"
       }
     },
     {
