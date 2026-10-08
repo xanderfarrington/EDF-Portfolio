@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T12:37:58+00:00",
+  "last_updated": "2026-10-08T19:37:09+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 483,
+      "count": 491,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "6bdfed3f041f1df4",
-        "title": "Alabama power companies prepare for possible outages as Isaias approaches - WSFA",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTF9UZXRBNDM5S05NTTBlNGxfNmROc2stX25rY290blloSmdpMEUzM19BX2lWN19pNjU0S1Bpc2Rla3dDU3pkMjRTNnk4ZDdfMF8zd21FT2duLTY0LVY3dmFvWmRzVlZCMEdhVlZuQ2tjZmd1ZU5XQ09sRFJvNGJKUERMa2paUUpoZGdjRGNkYlJmc2RsWWc0ajFMa2NnTWRZcGdLY2RjNkg?oc=5",
+        "id": "7f469ab3c39e4031",
+        "title": "More than 100,000 Alabama Power customers affected by data breach - WVUA 23",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaEc4N1JWZEFEQ0RaaUZ3dENjSEdDYllWVm5Rczh4S0RMT2RlZUVVMFRhWTFZak00TkE1ZERXRkZVOUo5WU5OenUyMjhmRmRJRXhkUHBZVFFOLTRqQmZ5RHpISGR3OUZwX1RiUDRjaDdiUlFIckx3dTNKUmZmV0JNa243NWItLUMzSlRnaGhDbTR5YUhMZUxpQWt3bTNQc0U5NFlxZlVwNzY3X1hNSXpwaWlueURqZUlOQXpqT180cFNDQ3hPVGRqSTExLUxDbmIxZWJCekJyZk1kX3c?oc=5",
         "domain": "news.google.com",
-        "source": "WSFA",
+        "source": "WVUA 23",
         "language": "English",
-        "published_at": "2026-10-08T02:50:35+00:00",
-        "summary": "Alabama power companies prepare for possible outages as Isaias approaches WSFA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTF9UZXRBNDM5S05NTTBlNGxfNmROc2stX25rY290blloSmdpMEUzM19BX2lWN19pNjU0S1Bpc2Rla3dDU3pkMjRTNnk4ZDdfMF8zd21FT2duLTY0LVY3dmFvWmRzVlZCMEdhVlZuQ2tjZmd1ZU5XQ09sRFJvNGJKUERMa2paUUpoZGdjRGNkYlJmc2RsWWc0ajFMa2NnTWRZcGdLY2RjNkg?oc=5\" target=\"_blank\">Alabama power companies prepare for possible outages as Isaias approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
+        "published_at": "2026-10-08T16:14:00+00:00",
+        "summary": "More than 100,000 Alabama Power customers affected by data breach WVUA 23",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaEc4N1JWZEFEQ0RaaUZ3dENjSEdDYllWVm5Rczh4S0RMT2RlZUVVMFRhWTFZak00TkE1ZERXRkZVOUo5WU5OenUyMjhmRmRJRXhkUHBZVFFOLTRqQmZ5RHpISGR3OUZwX1RiUDRjaDdiUlFIckx3dTNKUmZmV0JNa243NWItLUMzSlRnaGhDbTR5YUhMZUxpQWt3bTNQc0U5NFlxZlVwNzY3X1hNSXpwaWlueURqZUlOQXpqT180cFNDQ3hPVGRqSTExLUxDbmIxZWJCekJyZk1kX3c?oc=5\" target=\"_blank\">More than 100,000 Alabama Power customers affected by data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVUA 23</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-08T12:37:31+00:00"
+        "collected_at": "2026-10-08T19:36:42+00:00"
       }
     },
     {
@@ -89,28 +89,28 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 902,
-      "new_mentions_this_run": 23,
+      "count": 904,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "34d996d2a7b4cf16",
-        "title": "Hackers gain access to information of hundreds of thousands of Georgia Power customers - WUGA",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMnJOc0lVMlpsOWNMRG5RVEFmWEJablRrU1JHRk00a0dxQUZOeFZIRlozMjdLYzBqSkQ0Ymc4M0hJa1VSYUJkem9tdW1ka2VydjlEY215T3E3LUFTQ0dyTnFHZmhJNFpYLXFzbDFnMlZkd1lGRm84M25YY2NMZHhaY3E2WkpwQnRrbEI5d0w4OHBXQkZTUG5TWjBWTS1GbzNndFNIZHV0QzZrVENmWjZSZ2VjendGMUxGd3A0Y2RCeDh1VXpVTTgxV1Q4TnQxZU5ibzAzQWVB?oc=5",
+        "id": "aa8b57be95ffed75",
+        "title": "Rural Oconee County Residents Concerned About Frequent Power Outages - Grady Newsource",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFNqWENXT2FlNkdRMmZiLW5JS0UtX3BNeE5WN25tbGExZUp0TFZaUEREVjAza3FoT1ZYVUppVkVSRjB1VjM5SXBqeURfaVdBN2NVQUtMUkN4THBIcDI0RmNBb2VILXZzMDVjQWE5TXZTNGxXOElrTnN3b2VRSFZkU3dXWjlqa2ctVVVYeGZJTDFLcWpZS1ZXalZBTVh2bkZSS0E?oc=5",
         "domain": "news.google.com",
-        "source": "WUGA",
+        "source": "Grady Newsource",
         "language": "English",
-        "published_at": "2026-10-07T20:53:00+00:00",
-        "summary": "Hackers gain access to information of hundreds of thousands of Georgia Power customers WUGA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMnJOc0lVMlpsOWNMRG5RVEFmWEJablRrU1JHRk00a0dxQUZOeFZIRlozMjdLYzBqSkQ0Ymc4M0hJa1VSYUJkem9tdW1ka2VydjlEY215T3E3LUFTQ0dyTnFHZmhJNFpYLXFzbDFnMlZkd1lGRm84M25YY2NMZHhaY3E2WkpwQnRrbEI5d0w4OHBXQkZTUG5TWjBWTS1GbzNndFNIZHV0QzZrVENmWjZSZ2VjendGMUxGd3A0Y2RCeDh1VXpVTTgxV1Q4TnQxZU5ibzAzQWVB?oc=5\" target=\"_blank\">Hackers gain access to information of hundreds of thousands of Georgia Power customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WUGA</font>",
+        "published_at": "2026-10-08T17:26:57+00:00",
+        "summary": "Rural Oconee County Residents Concerned About Frequent Power Outages Grady Newsource",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFNqWENXT2FlNkdRMmZiLW5JS0UtX3BNeE5WN25tbGExZUp0TFZaUEREVjAza3FoT1ZYVUppVkVSRjB1VjM5SXBqeURfaVdBN2NVQUtMUkN4THBIcDI0RmNBb2VILXZzMDVjQWE5TXZTNGxXOElrTnN3b2VRSFZkU3dXWjlqa2ctVVVYeGZJTDFLcWpZS1ZXalZBTVh2bkZSS0E?oc=5\" target=\"_blank\">Rural Oconee County Residents Concerned About Frequent Power Outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grady Newsource</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-08T04:56:05+00:00"
+        "collected_at": "2026-10-08T19:36:59+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 65,
+      "count": 66,
       "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",

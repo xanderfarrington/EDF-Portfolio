@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-10-08T12:37:53+00:00",
+  "last_updated": "2026-10-08T19:37:04+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 65,
+  "count": 66,
   "mentions": [
     {
       "id": "9c5a579ff3ec7231",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-06T01:04:25+00:00"
+    },
+    {
+      "id": "846b7b2f17f29702",
+      "title": "AEP Texas - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vSGtfalZyMmVORTZRVmp2V2VDUUFPWkp1Vmp5V3lHUjJvOUg4T1dLYTFXYlpJLXZtaEtUcEZpZXlfQW5NREtxelFjcGE?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-10-05T15:48:55+00:00",
+      "summary": "AEP Texas Department of Energy (.gov)",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vSGtfalZyMmVORTZRVmp2V2VDUUFPWkp1Vmp5V3lHUjJvOUg4T1dLYTFXYlpJLXZtaEtUcEZpZXlfQW5NREtxelFjcGE?oc=5\" target=\"_blank\">AEP Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-08T19:37:04+00:00"
     },
     {
       "id": "62da534190e29cd2",
