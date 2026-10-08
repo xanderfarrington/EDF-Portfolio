@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-07T23:58:58+00:00",
+  "last_updated": "2026-10-08T04:56:16+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 110,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "bb732da69d683116",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - tradingview.com",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 475,
-      "new_mentions_this_run": 0,
+      "count": 481,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "cc9875459a464aec",
-        "title": "PSC Alabama Power - MountainEagle.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUEl1enIxRkNUYUVDLWJoMkRpNFNRVjd5T1NTUks0ei16N3U5QnptcVRTYUVZNWdUM1p4dG9PTk5LVm13a2VuVlFDNFo0TTZqOVdjczhrbXpBeXB2WmZTY2N4THJTTlV5MXZJelBVaDQ5c1ZvYjRXaXJERk1hb3BpT1ZnTXpmd0hfeDV6c2IwXzV6YzFGS1NyYUd2d0QtV2U0MGc?oc=5",
+        "id": "cff6b5b391b2ec8b",
+        "title": "Alabama power companies prepare for possible outages as Hurricane Isaias approaches - WSFA",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZklvLVNBcU91TGdwcHdKU2VnSG9zUzluMEtLeFhwNUp0M1Iwajl3ZUM5LTNfa2NxQU9qdW5sNm9Gb3FDUlB5ZW9KYVVBOHZWVllSNnFyVjlxRzNuSFdxamF5ekplQ3BDM2JCSHhNSFpNUldtemF5aGhfRXdXdWZsMXV2U1lyZXQtb0lIT2l0OU9oZTVCSzJxY1poSHNONlFzdTRnbmNBaHBPbk5jTnc?oc=5",
         "domain": "news.google.com",
-        "source": "MountainEagle.com",
+        "source": "WSFA",
         "language": "English",
-        "published_at": "2026-10-07T16:15:00+00:00",
-        "summary": "PSC Alabama Power MountainEagle.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPUEl1enIxRkNUYUVDLWJoMkRpNFNRVjd5T1NTUks0ei16N3U5QnptcVRTYUVZNWdUM1p4dG9PTk5LVm13a2VuVlFDNFo0TTZqOVdjczhrbXpBeXB2WmZTY2N4THJTTlV5MXZJelBVaDQ5c1ZvYjRXaXJERk1hb3BpT1ZnTXpmd0hfeDV6c2IwXzV6YzFGS1NyYUd2d0QtV2U0MGc?oc=5\" target=\"_blank\">PSC Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MountainEagle.com</font>",
+        "published_at": "2026-10-08T02:36:00+00:00",
+        "summary": "Alabama power companies prepare for possible outages as Hurricane Isaias approaches WSFA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPZklvLVNBcU91TGdwcHdKU2VnSG9zUzluMEtLeFhwNUp0M1Iwajl3ZUM5LTNfa2NxQU9qdW5sNm9Gb3FDUlB5ZW9KYVVBOHZWVllSNnFyVjlxRzNuSFdxamF5ekplQ3BDM2JCSHhNSFpNUldtemF5aGhfRXdXdWZsMXV2U1lyZXQtb0lIT2l0OU9oZTVCSzJxY1poSHNONlFzdTRnbmNBaHBPbk5jTnc?oc=5\" target=\"_blank\">Alabama power companies prepare for possible outages as Hurricane Isaias approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-07T18:16:25+00:00"
+        "collected_at": "2026-10-08T04:55:49+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 105,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "35b2735a6c611205",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand - Kalkine Media",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 899,
-      "new_mentions_this_run": 0,
+      "count": 902,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "a116177449c6c251",
-        "title": "Georgia Power Ambassadors donate to humane society - The Brunswick News",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY2MxVndXM25aQnYtZlhGVWZ0aWZORTdTRTA1eDRFQllGQ1JmOUtvbWlmVUdvc19KSlA1MGloQ1NUSkRTZjFuLVNBZHdyZFF3aENwMlJhWXhmXzd0eTJzendPRGFYTkNuZm9mYWZpaTNGUEk2c2NTUE50eHRzd2h6NVM1cm4yRlZ1MWlzWFRWTS15SzJVU2F1Ul9xY194aFFmcUFsLW5vRVJOZ2c4OFprbXJpdlZSdWt3MGN1UzFzYk12MFVLRjhSbU56ZkN1dVZadFEyM29QSWR1V1Nq?oc=5",
+        "id": "34d996d2a7b4cf16",
+        "title": "Hackers gain access to information of hundreds of thousands of Georgia Power customers - WUGA",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMnJOc0lVMlpsOWNMRG5RVEFmWEJablRrU1JHRk00a0dxQUZOeFZIRlozMjdLYzBqSkQ0Ymc4M0hJa1VSYUJkem9tdW1ka2VydjlEY215T3E3LUFTQ0dyTnFHZmhJNFpYLXFzbDFnMlZkd1lGRm84M25YY2NMZHhaY3E2WkpwQnRrbEI5d0w4OHBXQkZTUG5TWjBWTS1GbzNndFNIZHV0QzZrVENmWjZSZ2VjendGMUxGd3A0Y2RCeDh1VXpVTTgxV1Q4TnQxZU5ibzAzQWVB?oc=5",
         "domain": "news.google.com",
-        "source": "The Brunswick News",
+        "source": "WUGA",
         "language": "English",
-        "published_at": "2026-10-07T04:00:00+00:00",
-        "summary": "Georgia Power Ambassadors donate to humane society The Brunswick News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY2MxVndXM25aQnYtZlhGVWZ0aWZORTdTRTA1eDRFQllGQ1JmOUtvbWlmVUdvc19KSlA1MGloQ1NUSkRTZjFuLVNBZHdyZFF3aENwMlJhWXhmXzd0eTJzendPRGFYTkNuZm9mYWZpaTNGUEk2c2NTUE50eHRzd2h6NVM1cm4yRlZ1MWlzWFRWTS15SzJVU2F1Ul9xY194aFFmcUFsLW5vRVJOZ2c4OFprbXJpdlZSdWt3MGN1UzFzYk12MFVLRjhSbU56ZkN1dVZadFEyM29QSWR1V1Nq?oc=5\" target=\"_blank\">Georgia Power Ambassadors donate to humane society</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brunswick News</font>",
+        "published_at": "2026-10-07T20:53:00+00:00",
+        "summary": "Hackers gain access to information of hundreds of thousands of Georgia Power customers WUGA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMnJOc0lVMlpsOWNMRG5RVEFmWEJablRrU1JHRk00a0dxQUZOeFZIRlozMjdLYzBqSkQ0Ymc4M0hJa1VSYUJkem9tdW1ka2VydjlEY215T3E3LUFTQ0dyTnFHZmhJNFpYLXFzbDFnMlZkd1lGRm84M25YY2NMZHhaY3E2WkpwQnRrbEI5d0w4OHBXQkZTUG5TWjBWTS1GbzNndFNIZHV0QzZrVENmWjZSZ2VjendGMUxGd3A0Y2RCeDh1VXpVTTgxV1Q4TnQxZU5ibzAzQWVB?oc=5\" target=\"_blank\">Hackers gain access to information of hundreds of thousands of Georgia Power customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WUGA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-07T10:46:18+00:00"
+        "collected_at": "2026-10-08T04:56:05+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 65,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",

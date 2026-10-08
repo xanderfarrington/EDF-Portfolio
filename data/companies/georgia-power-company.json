@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-07T23:58:42+00:00",
+  "last_updated": "2026-10-08T04:56:05+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 899,
+  "count": 902,
   "mentions": [
+    {
+      "id": "34d996d2a7b4cf16",
+      "title": "Hackers gain access to information of hundreds of thousands of Georgia Power customers - WUGA",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMnJOc0lVMlpsOWNMRG5RVEFmWEJablRrU1JHRk00a0dxQUZOeFZIRlozMjdLYzBqSkQ0Ymc4M0hJa1VSYUJkem9tdW1ka2VydjlEY215T3E3LUFTQ0dyTnFHZmhJNFpYLXFzbDFnMlZkd1lGRm84M25YY2NMZHhaY3E2WkpwQnRrbEI5d0w4OHBXQkZTUG5TWjBWTS1GbzNndFNIZHV0QzZrVENmWjZSZ2VjendGMUxGd3A0Y2RCeDh1VXpVTTgxV1Q4TnQxZU5ibzAzQWVB?oc=5",
+      "domain": "news.google.com",
+      "source": "WUGA",
+      "language": "English",
+      "published_at": "2026-10-07T20:53:00+00:00",
+      "summary": "Hackers gain access to information of hundreds of thousands of Georgia Power customers WUGA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMnJOc0lVMlpsOWNMRG5RVEFmWEJablRrU1JHRk00a0dxQUZOeFZIRlozMjdLYzBqSkQ0Ymc4M0hJa1VSYUJkem9tdW1ka2VydjlEY215T3E3LUFTQ0dyTnFHZmhJNFpYLXFzbDFnMlZkd1lGRm84M25YY2NMZHhaY3E2WkpwQnRrbEI5d0w4OHBXQkZTUG5TWjBWTS1GbzNndFNIZHV0QzZrVENmWjZSZ2VjendGMUxGd3A0Y2RCeDh1VXpVTTgxV1Q4TnQxZU5ibzAzQWVB?oc=5\" target=\"_blank\">Hackers gain access to information of hundreds of thousands of Georgia Power customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WUGA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-08T04:56:05+00:00"
+    },
+    {
+      "id": "917831aba7ecf30c",
+      "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVpoaHZVSEducXlFblN4YXpFNmZwTTg0VHdJNWYwVU9zblZaUUx2WDVvY1hhSVhuMmt0TzdHbXdjaWZIMHpxemtJcVozbHg3NklBc0tMODIwTzhqLVczcTlJamxPTTF6N0RiWW9lTV9EVExTczRfRWdwLXFtMXRGZzdWOUZoRjRVSjh5cEkwR3YxMG050gGaAUFVX3lxTFBnd3NDQ2RyVHhlZk9wTGtVczlqdVI0Tm1ISXBlMUx3OHlJMWd2ckNLN09VekRFZ29rc00tdDVxckpYUDZ6RDZHaW55blJmVTBkemFidFdycVFxS1RucHVoRDFNUnUweU1FejFuTzgxYkF4alYySkpDMU5wSjIwZDFSeENfSE14dTNjS29NUG5sc0tFeEt0eWI5eHc?oc=5",
+      "domain": "news.google.com",
+      "source": "SecurityWeek",
+      "language": "English",
+      "published_at": "2026-10-07T14:15:20+00:00",
+      "summary": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts SecurityWeek",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVpoaHZVSEducXlFblN4YXpFNmZwTTg0VHdJNWYwVU9zblZaUUx2WDVvY1hhSVhuMmt0TzdHbXdjaWZIMHpxemtJcVozbHg3NklBc0tMODIwTzhqLVczcTlJamxPTTF6N0RiWW9lTV9EVExTczRfRWdwLXFtMXRGZzdWOUZoRjRVSjh5cEkwR3YxMG050gGaAUFVX3lxTFBnd3NDQ2RyVHhlZk9wTGtVczlqdVI0Tm1ISXBlMUx3OHlJMWd2ckNLN09VekRFZ29rc00tdDVxckpYUDZ6RDZHaW55blJmVTBkemFidFdycVFxS1RucHVoRDFNUnUweU1FejFuTzgxYkF4alYySkpDMU5wSjIwZDFSeENfSE14dTNjS29NUG5sc0tFeEt0eWI5eHc?oc=5\" target=\"_blank\">Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SecurityWeek</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-08T04:56:05+00:00"
+    },
     {
       "id": "a116177449c6c251",
       "title": "Georgia Power Ambassadors donate to humane society - The Brunswick News",
@@ -61,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-07T10:46:18+00:00"
+    },
+    {
+      "id": "4c9b46742931d1c6",
+      "title": "Georgia Power data breach exposes information of 300,000 customers - WTVM.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORVFqZC1Na1lCekN2djJDOXVhbkQwUTZSeXVZM2w5SlJvV05rTzREVGhqbTAzTmNBTXVXTlhoTENpZUlYUVhTaEtfeng1Mk9OZFRMa01rTGY5TjZ6a3lKcHZiRnNEVDFRWnhXUGlsX0lPcFNmZTI2UmxsajlKUml5QmUxVzBxajFWcS11M19EdThlcC1odGl1RkhESdIBrwFBVV95cUxOenUzZUdENk1nSmFETGRyTW9zbUVSRU9ZOGFlSWV0ekVUU3l4TmlKOWRHSk9vWVhJeldfQmZ0Um40OTJaU3dJV1VCbk85TzhHZUZOT0g5RmVpNmJ4ZEx5V0ZYOHQ0elZma2htWjFlM3QyZWkzVUVRMmUxU2JicmpGZUxhenBWVi1wa0thZ0FkcjZGSE5rZmsyaWlhZnZiTVNjNjVXUzJCUkE3dGNXRkF3?oc=5",
+      "domain": "news.google.com",
+      "source": "WTVM.com",
+      "language": "English",
+      "published_at": "2026-10-06T22:29:00+00:00",
+      "summary": "Georgia Power data breach exposes information of 300,000 customers WTVM.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxORVFqZC1Na1lCekN2djJDOXVhbkQwUTZSeXVZM2w5SlJvV05rTzREVGhqbTAzTmNBTXVXTlhoTENpZUlYUVhTaEtfeng1Mk9OZFRMa01rTGY5TjZ6a3lKcHZiRnNEVDFRWnhXUGlsX0lPcFNmZTI2UmxsajlKUml5QmUxVzBxajFWcS11M19EdThlcC1odGl1RkhESdIBrwFBVV95cUxOenUzZUdENk1nSmFETGRyTW9zbUVSRU9ZOGFlSWV0ekVUU3l4TmlKOWRHSk9vWVhJeldfQmZ0Um40OTJaU3dJV1VCbk85TzhHZUZOT0g5RmVpNmJ4ZEx5V0ZYOHQ0elZma2htWjFlM3QyZWkzVUVRMmUxU2JicmpGZUxhenBWVi1wa0thZ0FkcjZGSE5rZmsyaWlhZnZiTVNjNjVXUzJCUkE3dGNXRkF3?oc=5\" target=\"_blank\">Georgia Power data breach exposes information of 300,000 customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-08T04:56:05+00:00"
     },
     {
       "id": "2d17a0de6d73947d",
