@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T04:56:16+00:00",
+  "last_updated": "2026-10-08T12:37:58+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 481,
+      "count": 483,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "cff6b5b391b2ec8b",
-        "title": "Alabama power companies prepare for possible outages as Hurricane Isaias approaches - WSFA",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZklvLVNBcU91TGdwcHdKU2VnSG9zUzluMEtLeFhwNUp0M1Iwajl3ZUM5LTNfa2NxQU9qdW5sNm9Gb3FDUlB5ZW9KYVVBOHZWVllSNnFyVjlxRzNuSFdxamF5ekplQ3BDM2JCSHhNSFpNUldtemF5aGhfRXdXdWZsMXV2U1lyZXQtb0lIT2l0OU9oZTVCSzJxY1poSHNONlFzdTRnbmNBaHBPbk5jTnc?oc=5",
+        "id": "6bdfed3f041f1df4",
+        "title": "Alabama power companies prepare for possible outages as Isaias approaches - WSFA",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTF9UZXRBNDM5S05NTTBlNGxfNmROc2stX25rY290blloSmdpMEUzM19BX2lWN19pNjU0S1Bpc2Rla3dDU3pkMjRTNnk4ZDdfMF8zd21FT2duLTY0LVY3dmFvWmRzVlZCMEdhVlZuQ2tjZmd1ZU5XQ09sRFJvNGJKUERMa2paUUpoZGdjRGNkYlJmc2RsWWc0ajFMa2NnTWRZcGdLY2RjNkg?oc=5",
         "domain": "news.google.com",
         "source": "WSFA",
         "language": "English",
-        "published_at": "2026-10-08T02:36:00+00:00",
-        "summary": "Alabama power companies prepare for possible outages as Hurricane Isaias approaches WSFA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPZklvLVNBcU91TGdwcHdKU2VnSG9zUzluMEtLeFhwNUp0M1Iwajl3ZUM5LTNfa2NxQU9qdW5sNm9Gb3FDUlB5ZW9KYVVBOHZWVllSNnFyVjlxRzNuSFdxamF5ekplQ3BDM2JCSHhNSFpNUldtemF5aGhfRXdXdWZsMXV2U1lyZXQtb0lIT2l0OU9oZTVCSzJxY1poSHNONlFzdTRnbmNBaHBPbk5jTnc?oc=5\" target=\"_blank\">Alabama power companies prepare for possible outages as Hurricane Isaias approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
+        "published_at": "2026-10-08T02:50:35+00:00",
+        "summary": "Alabama power companies prepare for possible outages as Isaias approaches WSFA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTF9UZXRBNDM5S05NTTBlNGxfNmROc2stX25rY290blloSmdpMEUzM19BX2lWN19pNjU0S1Bpc2Rla3dDU3pkMjRTNnk4ZDdfMF8zd21FT2duLTY0LVY3dmFvWmRzVlZCMEdhVlZuQ2tjZmd1ZU5XQ09sRFJvNGJKUERMa2paUUpoZGdjRGNkYlJmc2RsWWc0ajFMa2NnTWRZcGdLY2RjNkg?oc=5\" target=\"_blank\">Alabama power companies prepare for possible outages as Isaias approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-08T04:55:49+00:00"
+        "collected_at": "2026-10-08T12:37:31+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 902,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "34d996d2a7b4cf16",
         "title": "Hackers gain access to information of hundreds of thousands of Georgia Power customers - WUGA",
