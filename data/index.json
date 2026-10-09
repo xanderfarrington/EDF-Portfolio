@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T08:18:54+00:00",
+  "last_updated": "2026-10-09T16:45:37+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 498,
+      "count": 502,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "dee3430885ca6696",
-        "title": "Alabama Power And Regional Crews Position Equipment As Hurricane Isaias Approaches - Tuscaloosa Thread",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0daTlVmcktyV1h5WGh1RXlGeHIyaXBUVWhfWjZRZ3BwZGdEY1libWZJWWNpQWJTb2tVQVZrUFVDbkRGZkpGN0g4Ulk3QkszWEZTVEJZYmhrU0hROW1ycnBueVRXZzdUMjMwQkVaSzF6UW10VGVjR21Ic1l4NUd3Z2RB?oc=5",
+        "id": "5abc7b5a8c8ca374",
+        "title": "Data breach leaves 100,000 Alabama Power accounts exposed, including partial Social Security numbers - The Cool Down",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3ZycUJZTFBaZzhfd1piVHRtZU9IYTdsQWZrOGRhNzA2Q2NyRFRIOGEwQUtRNkRoM3VJYVNmZ0RIa2Vqc1c3NUJIRmd2Y0U3TXVfRzA2RjV5aTZ0ODFGb19rT1BYRzUta01JWTZkdDVQV014VnFFdzdtZXVsVDVTS3BBNl9DOS14NnpLYUVyWlZqZ00?oc=5",
         "domain": "news.google.com",
-        "source": "Tuscaloosa Thread",
+        "source": "The Cool Down",
         "language": "English",
-        "published_at": "2026-10-08T22:07:48+00:00",
-        "summary": "Alabama Power And Regional Crews Position Equipment As Hurricane Isaias Approaches Tuscaloosa Thread",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0daTlVmcktyV1h5WGh1RXlGeHIyaXBUVWhfWjZRZ3BwZGdEY1libWZJWWNpQWJTb2tVQVZrUFVDbkRGZkpGN0g4Ulk3QkszWEZTVEJZYmhrU0hROW1ycnBueVRXZzdUMjMwQkVaSzF6UW10VGVjR21Ic1l4NUd3Z2RB?oc=5\" target=\"_blank\">Alabama Power And Regional Crews Position Equipment As Hurricane Isaias Approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tuscaloosa Thread</font>",
+        "published_at": "2026-10-09T16:20:00+00:00",
+        "summary": "Data breach leaves 100,000 Alabama Power accounts exposed, including partial Social Security numbers The Cool Down",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3ZycUJZTFBaZzhfd1piVHRtZU9IYTdsQWZrOGRhNzA2Q2NyRFRIOGEwQUtRNkRoM3VJYVNmZ0RIa2Vqc1c3NUJIRmd2Y0U3TXVfRzA2RjV5aTZ0ODFGb19rT1BYRzUta01JWTZkdDVQV014VnFFdzdtZXVsVDVTS3BBNl9DOS14NnpLYUVyWlZqZ00?oc=5\" target=\"_blank\">Data breach leaves 100,000 Alabama Power accounts exposed, including partial Social Security numbers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cool Down</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-09T00:05:38+00:00"
+        "collected_at": "2026-10-09T16:45:10+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 910,
-      "new_mentions_this_run": 23,
+      "count": 915,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "1445d068fd201e92",
-        "title": "Georgia Power receives multi-billion-dollar loan from Department of Energy - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnRQZThZeG9lRkd3LUd3UjVHa1BzVTlJeENIZDZSaEVOQW5YYXJiWThoQ2tTVFRHaWREbUNtNi15ME5scU1mWUV3elBYVmhyaG5aUW5zU2Jwa0hFYnh0b3RzVDAxam5WS09sOXJVT21WQ0dqMkdWd2FZbEFpZUQxWWFkUXBpRkE?oc=5",
+        "id": "ddc0d997ff0745ca",
+        "title": "Georgia Power prepares for Hurricane Isaias wit... - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94TlBTUGQzR0FyOUd4Z1h2T25IVzRLNUFES2YwQ18wdXdqa2U0bFNVX0ZLWGJKZU1ZdldmM09VYnBzOHk4cWhPVnhNaE5ZeEhtd21IcWdsZm0zcUxNV3NCNUJET3hSOU1JZV85ZndJRWZmWTZQWmpHQkNB?oc=5",
         "domain": "news.google.com",
-        "source": "AOL.com",
+        "source": "Pluang",
         "language": "English",
-        "published_at": "2026-10-09T01:54:00+00:00",
-        "summary": "Georgia Power receives multi-billion-dollar loan from Department of Energy AOL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnRQZThZeG9lRkd3LUd3UjVHa1BzVTlJeENIZDZSaEVOQW5YYXJiWThoQ2tTVFRHaWREbUNtNi15ME5scU1mWUV3elBYVmhyaG5aUW5zU2Jwa0hFYnh0b3RzVDAxam5WS09sOXJVT21WQ0dqMkdWd2FZbEFpZUQxWWFkUXBpRkE?oc=5\" target=\"_blank\">Georgia Power receives multi-billion-dollar loan from Department of Energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "published_at": "2026-10-09T14:25:16+00:00",
+        "summary": "Georgia Power prepares for Hurricane Isaias wit... Pluang",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE94TlBTUGQzR0FyOUd4Z1h2T25IVzRLNUFES2YwQ18wdXdqa2U0bFNVX0ZLWGJKZU1ZdldmM09VYnBzOHk4cWhPVnhNaE5ZeEhtd21IcWdsZm0zcUxNV3NCNUJET3hSOU1JZV85ZndJRWZmWTZQWmpHQkNB?oc=5\" target=\"_blank\">Georgia Power prepares for Hurricane Isaias wit...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-09T08:18:43+00:00"
+        "collected_at": "2026-10-09T16:45:26+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",
