@@ -2,10 +2,66 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-09T16:45:10+00:00",
+  "last_updated": "2026-10-09T22:06:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 502,
+  "count": 509,
   "mentions": [
+    {
+      "id": "ca9747afdc26fa50",
+      "title": "Alabama Power Makes Preparations Ahead of Hurricane Isaias - WVAS",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ01KT0VZTHhRZjFNaXk1ZHVWOThzRE00ZldZSUJrTWVld0xTX05sVmd4WnEydHJJUFJMSDdCRlluUlVJR3dzbDVqdzJxbXYtTUdoOWE0M1psaFVXcWxRc2FfejRJbUhTQzdjaGZNUXdqSW9pSGRHRDkwNnNBTEVpaXY3MC10aTFmcDBZYnVrY2NJTDhiNlYzSTlnNWtfQmY0MkpVWVFB?oc=5",
+      "domain": "news.google.com",
+      "source": "WVAS",
+      "language": "English",
+      "published_at": "2026-10-09T21:07:00+00:00",
+      "summary": "Alabama Power Makes Preparations Ahead of Hurricane Isaias WVAS",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ01KT0VZTHhRZjFNaXk1ZHVWOThzRE00ZldZSUJrTWVld0xTX05sVmd4WnEydHJJUFJMSDdCRlluUlVJR3dzbDVqdzJxbXYtTUdoOWE0M1psaFVXcWxRc2FfejRJbUhTQzdjaGZNUXdqSW9pSGRHRDkwNnNBTEVpaXY3MC10aTFmcDBZYnVrY2NJTDhiNlYzSTlnNWtfQmY0MkpVWVFB?oc=5\" target=\"_blank\">Alabama Power Makes Preparations Ahead of Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVAS</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T22:06:45+00:00"
+    },
+    {
+      "id": "8f7fa98e024d8b77",
+      "title": "Alabama Power brings in more than 5,700 additional resources from 25 states ahead of Hurricane Isaias - Yellowhammer News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQWFxYlNkUmxPSVoxMXI0MHdFMnVBYUV1Sjd2RFpGU1dkc3lYY1ZDQmZCQ3JONWpOeUx0RHBpRDBUeHBzVVkwX2dtTDE1V0ZjSEl4VEZrTnIyVWZaSUZ3RDJmbTBrTlVqWENhOG5zaXhRcXBlWFA1SkJvamp6WXBRNktjVHF1OUNnVGhrWDhJQ0ZVX0FKNExJWEZHT0pYc0FpU2UzOWJ0WllrdzQ4MWhKVlBPZlNPdFBWbDNuZ2NfRmx2OXlmMkVYMGhn?oc=5",
+      "domain": "news.google.com",
+      "source": "Yellowhammer News",
+      "language": "English",
+      "published_at": "2026-10-09T21:01:35+00:00",
+      "summary": "Alabama Power brings in more than 5,700 additional resources from 25 states ahead of Hurricane Isaias Yellowhammer News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNQWFxYlNkUmxPSVoxMXI0MHdFMnVBYUV1Sjd2RFpGU1dkc3lYY1ZDQmZCQ3JONWpOeUx0RHBpRDBUeHBzVVkwX2dtTDE1V0ZjSEl4VEZrTnIyVWZaSUZ3RDJmbTBrTlVqWENhOG5zaXhRcXBlWFA1SkJvamp6WXBRNktjVHF1OUNnVGhrWDhJQ0ZVX0FKNExJWEZHT0pYc0FpU2UzOWJ0WllrdzQ4MWhKVlBPZlNPdFBWbDNuZ2NfRmx2OXlmMkVYMGhn?oc=5\" target=\"_blank\">Alabama Power brings in more than 5,700 additional resources from 25 states ahead of Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellowhammer News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T22:06:45+00:00"
+    },
+    {
+      "id": "79b7660c43e97f80",
+      "title": "Alabama Power crews prepare ahead of Hurricane Isaias - WBRC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzgtdjVDWTIyV2k4Mk1RaVdHeEdwM196andEOUt6bmxkZ043NW1PMTEtSkMwWTVROW9QRk53aWppQVV5N3lHVFhxNVZTcFkzWXZvMzJQbnpLYXZNS3FLT0RCQzNtbDNldC04MnZJRmxDdExrUEh4dmlSaUY2b3NtWEhpb09LZ0V3S01B?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC",
+      "language": "English",
+      "published_at": "2026-10-09T20:57:00+00:00",
+      "summary": "Alabama Power crews prepare ahead of Hurricane Isaias WBRC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzgtdjVDWTIyV2k4Mk1RaVdHeEdwM196andEOUt6bmxkZ043NW1PMTEtSkMwWTVROW9QRk53aWppQVV5N3lHVFhxNVZTcFkzWXZvMzJQbnpLYXZNS3FLT0RCQzNtbDNldC04MnZJRmxDdExrUEh4dmlSaUY2b3NtWEhpb09LZ0V3S01B?oc=5\" target=\"_blank\">Alabama Power crews prepare ahead of Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T22:06:45+00:00"
+    },
+    {
+      "id": "c056bbef429a6bdf",
+      "title": "Alabama Power brings in 5,700 additional workers ahead of Hurricane Isaias - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2JyV1JVQ2UtQi05cklKQWdLSGFWeVNvZG9ET3Rkdk5ZcWtJcXp3RUxENERXZXUzb3pjcFhkSzFEdkFTaUFYYUdWb2pQZGltSG5uSHdsbWpfVE1SZjdJaXBRZFF2YjczdjZidF9TY1NiWUZtempCUjVhcjJuY0ZUbDYxck5xaExtaDRZN2lhQzFJUTFsNTFmcnllVFU3aFhUbmwtVlZpaw?oc=5",
+      "domain": "news.google.com",
+      "source": "WBMA",
+      "language": "English",
+      "published_at": "2026-10-09T20:10:17+00:00",
+      "summary": "Alabama Power brings in 5,700 additional workers ahead of Hurricane Isaias WBMA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2JyV1JVQ2UtQi05cklKQWdLSGFWeVNvZG9ET3Rkdk5ZcWtJcXp3RUxENERXZXUzb3pjcFhkSzFEdkFTaUFYYUdWb2pQZGltSG5uSHdsbWpfVE1SZjdJaXBRZFF2YjczdjZidF9TY1NiWUZtempCUjVhcjJuY0ZUbDYxck5xaExtaDRZN2lhQzFJUTFsNTFmcnllVFU3aFhUbmwtVlZpaw?oc=5\" target=\"_blank\">Alabama Power brings in 5,700 additional workers ahead of Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T22:06:45+00:00"
+    },
     {
       "id": "5abc7b5a8c8ca374",
       "title": "Data breach leaves 100,000 Alabama Power accounts exposed, including partial Social Security numbers - The Cool Down",
@@ -35,6 +91,20 @@
       "collected_at": "2026-10-09T16:45:10+00:00"
     },
     {
+      "id": "87979bc82709c06b",
+      "title": "Ready to Respond: Alabama Power mobilizes crews and resources ahead of Hurricane Isaias - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdGx5UG1ldF9leXgyRERQNWRrZ181X2R3UGtWcG1aazRKSGxmN0JjSGJCTElsdVJNUjlHZy14SHNnU0R4OXBybmdCeE1XX2NNdmIxU1BDUldEY3pnOVYxaHhJSmF4T2tSWDd2Si1nT09rWHZkMGZyRkJDbFQxR1lDcWhmUnpXMDI0X3JJRDJ0TmdZLXNxTGt5eFBZaTFYMEhZQ1I4c3ZTOWhESHJvQkx5dWRvcEJZNHBwa2lkSXJlMllCN2xVOE9CSkRuVmM1akhGRXF1aUlZMEN2UQ?oc=5",
+      "domain": "news.google.com",
+      "source": "PR Newswire",
+      "language": "English",
+      "published_at": "2026-10-09T15:23:00+00:00",
+      "summary": "Ready to Respond: Alabama Power mobilizes crews and resources ahead of Hurricane Isaias PR Newswire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdGx5UG1ldF9leXgyRERQNWRrZ181X2R3UGtWcG1aazRKSGxmN0JjSGJCTElsdVJNUjlHZy14SHNnU0R4OXBybmdCeE1XX2NNdmIxU1BDUldEY3pnOVYxaHhJSmF4T2tSWDd2Si1nT09rWHZkMGZyRkJDbFQxR1lDcWhmUnpXMDI0X3JJRDJ0TmdZLXNxTGt5eFBZaTFYMEhZQ1I4c3ZTOWhESHJvQkx5dWRvcEJZNHBwa2lkSXJlMllCN2xVOE9CSkRuVmM1akhGRXF1aUlZMEN2UQ?oc=5\" target=\"_blank\">Ready to Respond: Alabama Power mobilizes crews and resources ahead of Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T22:06:45+00:00"
+    },
+    {
       "id": "a7b7ce6465ea07a4",
       "title": "Alabama Power, Red Cross prepare for potential Hurricane Isaias impacts - WHNT.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHEwTklfX3U4RWNHVzdXc3Jzak0tTEtod0hfbkdaWnk2SGE1Q2JuVE9HLTFsbXUyR0RJdGxuMVhSZWxZeHpaUUUtdktkNTBtNXRaWm5xSzVGYWllMU1OOHFoclhKVGJJZ0JQQjRESEd0UENoR2xhMTVJRC1VeVVjSjMwOW8zSXMyMXJRVnQydnB2dW93eG4zZTBYbDlXRFlYN3JnU2RPVmo0d9IBrwFBVV95cUxNclQtNVhvV3czc3hJbTNvQ2lrek1rWjA0WEdRWlg4SlA5RGJ6TlVrZ1VuYS1KYUVmRzFTaUpZTmFERThWWHFPTE0teXE5TXpPRmhVSURWRWZraXVaVU1ZZE5aUGw0aUs0ak5qanM4YXZ5Q1NsZUV0bnNYYkQtQ1NqTzhWSWJUZHRaaTVvcDc5SXgzeDR0cGRPX3R5Mk5zRnBNUGtrRUx5aTlub2h5TmtN?oc=5",
@@ -47,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-09T16:45:10+00:00"
+    },
+    {
+      "id": "3dd0377bea9195cc",
+      "title": "Alabama Power ready for outages as state braces for Hurricane Isaias - WBRC 6 News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUFMQkthTWdHM3ZzTGdzdEgzX2N5ZTRSX25SZzdXejEzdmZ2dEtWeUVIbUpMZnFpaVNpNXRPQ2l1akMzNHJrQWswNUljUW4wZjhfWlNRZ09CTW5EbV93NVNscGZRcFdrNnVld2ZHT1c1aVFoenhxVlgwMDlsZnNyYUp4TFNnSUFjNHAtTVduTlUybE5oemlTOHozdGI?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC 6 News",
+      "language": "English",
+      "published_at": "2026-10-09T00:41:38+00:00",
+      "summary": "Alabama Power ready for outages as state braces for Hurricane Isaias WBRC 6 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUFMQkthTWdHM3ZzTGdzdEgzX2N5ZTRSX25SZzdXejEzdmZ2dEtWeUVIbUpMZnFpaVNpNXRPQ2l1akMzNHJrQWswNUljUW4wZjhfWlNRZ09CTW5EbV93NVNscGZRcFdrNnVld2ZHT1c1aVFoenhxVlgwMDlsZnNyYUp4TFNnSUFjNHAtTVduTlUybE5oemlTOHozdGI?oc=5\" target=\"_blank\">Alabama Power ready for outages as state braces for Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC 6 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T22:06:45+00:00"
     },
     {
       "id": "dee3430885ca6696",
@@ -103,6 +187,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-08T19:36:42+00:00"
+    },
+    {
+      "id": "5539f74b8dc5a8fc",
+      "title": "LIVE UPDATES: Track power outages as Isaias impacts Alabama - WVTM Channel 13",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMGRhWFVkQ1ZFTkJ3ZWh4M2Z6UTJuVGdEQWpSS2FsTERFVm1ZZkNjakZWWDhJWDRfdVJFTmUzTC02aUFYMTR2NlFJcjdqZDdyR3dYMjNfcm8zOUhnYmpnbXRsZXdOclp2cVhYTUx3eU1XUVU3Q3dwcWNWT1RZcGE5dHAwcjF3cTBKT1IzY0E1amI4MDlnQ2c?oc=5",
+      "domain": "news.google.com",
+      "source": "WVTM Channel 13",
+      "language": "English",
+      "published_at": "2026-10-08T15:39:00+00:00",
+      "summary": "LIVE UPDATES: Track power outages as Isaias impacts Alabama WVTM Channel 13",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQMGRhWFVkQ1ZFTkJ3ZWh4M2Z6UTJuVGdEQWpSS2FsTERFVm1ZZkNjakZWWDhJWDRfdVJFTmUzTC02aUFYMTR2NlFJcjdqZDdyR3dYMjNfcm8zOUhnYmpnbXRsZXdOclp2cVhYTUx3eU1XUVU3Q3dwcWNWT1RZcGE5dHAwcjF3cTBKT1IzY0E1amI4MDlnQ2c?oc=5\" target=\"_blank\">LIVE UPDATES: Track power outages as Isaias impacts Alabama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM Channel 13</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T22:06:45+00:00"
     },
     {
       "id": "13d53afc8213f237",

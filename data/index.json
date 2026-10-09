@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T16:45:37+00:00",
+  "last_updated": "2026-10-09T22:07:12+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 502,
+      "count": 509,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "5abc7b5a8c8ca374",
-        "title": "Data breach leaves 100,000 Alabama Power accounts exposed, including partial Social Security numbers - The Cool Down",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3ZycUJZTFBaZzhfd1piVHRtZU9IYTdsQWZrOGRhNzA2Q2NyRFRIOGEwQUtRNkRoM3VJYVNmZ0RIa2Vqc1c3NUJIRmd2Y0U3TXVfRzA2RjV5aTZ0ODFGb19rT1BYRzUta01JWTZkdDVQV014VnFFdzdtZXVsVDVTS3BBNl9DOS14NnpLYUVyWlZqZ00?oc=5",
+        "id": "ca9747afdc26fa50",
+        "title": "Alabama Power Makes Preparations Ahead of Hurricane Isaias - WVAS",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ01KT0VZTHhRZjFNaXk1ZHVWOThzRE00ZldZSUJrTWVld0xTX05sVmd4WnEydHJJUFJMSDdCRlluUlVJR3dzbDVqdzJxbXYtTUdoOWE0M1psaFVXcWxRc2FfejRJbUhTQzdjaGZNUXdqSW9pSGRHRDkwNnNBTEVpaXY3MC10aTFmcDBZYnVrY2NJTDhiNlYzSTlnNWtfQmY0MkpVWVFB?oc=5",
         "domain": "news.google.com",
-        "source": "The Cool Down",
+        "source": "WVAS",
         "language": "English",
-        "published_at": "2026-10-09T16:20:00+00:00",
-        "summary": "Data breach leaves 100,000 Alabama Power accounts exposed, including partial Social Security numbers The Cool Down",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3ZycUJZTFBaZzhfd1piVHRtZU9IYTdsQWZrOGRhNzA2Q2NyRFRIOGEwQUtRNkRoM3VJYVNmZ0RIa2Vqc1c3NUJIRmd2Y0U3TXVfRzA2RjV5aTZ0ODFGb19rT1BYRzUta01JWTZkdDVQV014VnFFdzdtZXVsVDVTS3BBNl9DOS14NnpLYUVyWlZqZ00?oc=5\" target=\"_blank\">Data breach leaves 100,000 Alabama Power accounts exposed, including partial Social Security numbers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cool Down</font>",
+        "published_at": "2026-10-09T21:07:00+00:00",
+        "summary": "Alabama Power Makes Preparations Ahead of Hurricane Isaias WVAS",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ01KT0VZTHhRZjFNaXk1ZHVWOThzRE00ZldZSUJrTWVld0xTX05sVmd4WnEydHJJUFJMSDdCRlluUlVJR3dzbDVqdzJxbXYtTUdoOWE0M1psaFVXcWxRc2FfejRJbUhTQzdjaGZNUXdqSW9pSGRHRDkwNnNBTEVpaXY3MC10aTFmcDBZYnVrY2NJTDhiNlYzSTlnNWtfQmY0MkpVWVFB?oc=5\" target=\"_blank\">Alabama Power Makes Preparations Ahead of Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVAS</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-09T16:45:10+00:00"
+        "collected_at": "2026-10-09T22:06:45+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 31,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "85749d5f807b1946",
         "title": "2026 Chrysalis Awards: Commercial Remodel - Qualified Remodeler",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 915,
-      "new_mentions_this_run": 25,
+      "count": 920,
+      "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "ddc0d997ff0745ca",
-        "title": "Georgia Power prepares for Hurricane Isaias wit... - Pluang",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94TlBTUGQzR0FyOUd4Z1h2T25IVzRLNUFES2YwQ18wdXdqa2U0bFNVX0ZLWGJKZU1ZdldmM09VYnBzOHk4cWhPVnhNaE5ZeEhtd21IcWdsZm0zcUxNV3NCNUJET3hSOU1JZV85ZndJRWZmWTZQWmpHQkNB?oc=5",
+        "id": "9ff6491e090a3f87",
+        "title": "Why is Southern Company (NYSE:SO) drawing attention as Georgia power demand surges? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYzRwWFdLTld1bkFvV0J5eFhkbU5vcmxQVl9OdHFPZGpmVDdiaGQ1U1kwNnlwTmZqMjMtZHFDVnFzbGtUc1FHMFpQcGZ4RjNyd0o5aWp3cTM5YVByQW9RNFJRdGY3QkhWeFdySzEwM0NuREhCWFcwaGc2VHlQQUZXTV9FS3N2ck5DblcweE5nTlkzZERQUUZWS1BfZWdNZzlBaE9LMUpaU29hSm9PcDEtaDdRYjd1UXc4anZ0RkdVZw?oc=5",
         "domain": "news.google.com",
-        "source": "Pluang",
+        "source": "Kalkine Media",
         "language": "English",
-        "published_at": "2026-10-09T14:25:16+00:00",
-        "summary": "Georgia Power prepares for Hurricane Isaias wit... Pluang",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE94TlBTUGQzR0FyOUd4Z1h2T25IVzRLNUFES2YwQ18wdXdqa2U0bFNVX0ZLWGJKZU1ZdldmM09VYnBzOHk4cWhPVnhNaE5ZeEhtd21IcWdsZm0zcUxNV3NCNUJET3hSOU1JZV85ZndJRWZmWTZQWmpHQkNB?oc=5\" target=\"_blank\">Georgia Power prepares for Hurricane Isaias wit...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
+        "published_at": "2026-10-09T18:56:00+00:00",
+        "summary": "Why is Southern Company (NYSE:SO) drawing attention as Georgia power demand surges? Kalkine Media",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOYzRwWFdLTld1bkFvV0J5eFhkbU5vcmxQVl9OdHFPZGpmVDdiaGQ1U1kwNnlwTmZqMjMtZHFDVnFzbGtUc1FHMFpQcGZ4RjNyd0o5aWp3cTM5YVByQW9RNFJRdGY3QkhWeFdySzEwM0NuREhCWFcwaGc2VHlQQUZXTV9FS3N2ck5DblcweE5nTlkzZERQUUZWS1BfZWdNZzlBaE9LMUpaU29hSm9PcDEtaDdRYjd1UXc4anZ0RkdVZw?oc=5\" target=\"_blank\">Why is Southern Company (NYSE:SO) drawing attention as Georgia power demand surges?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-09T16:45:26+00:00"
+        "collected_at": "2026-10-09T22:07:02+00:00"
       }
     },
     {
