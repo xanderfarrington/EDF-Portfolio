@@ -2,10 +2,38 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-08T19:36:42+00:00",
+  "last_updated": "2026-10-09T00:05:38+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 491,
+  "count": 497,
   "mentions": [
+    {
+      "id": "dee3430885ca6696",
+      "title": "Alabama Power And Regional Crews Position Equipment As Hurricane Isaias Approaches - Tuscaloosa Thread",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0daTlVmcktyV1h5WGh1RXlGeHIyaXBUVWhfWjZRZ3BwZGdEY1libWZJWWNpQWJTb2tVQVZrUFVDbkRGZkpGN0g4Ulk3QkszWEZTVEJZYmhrU0hROW1ycnBueVRXZzdUMjMwQkVaSzF6UW10VGVjR21Ic1l4NUd3Z2RB?oc=5",
+      "domain": "news.google.com",
+      "source": "Tuscaloosa Thread",
+      "language": "English",
+      "published_at": "2026-10-08T22:07:48+00:00",
+      "summary": "Alabama Power And Regional Crews Position Equipment As Hurricane Isaias Approaches Tuscaloosa Thread",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0daTlVmcktyV1h5WGh1RXlGeHIyaXBUVWhfWjZRZ3BwZGdEY1libWZJWWNpQWJTb2tVQVZrUFVDbkRGZkpGN0g4Ulk3QkszWEZTVEJZYmhrU0hROW1ycnBueVRXZzdUMjMwQkVaSzF6UW10VGVjR21Ic1l4NUd3Z2RB?oc=5\" target=\"_blank\">Alabama Power And Regional Crews Position Equipment As Hurricane Isaias Approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tuscaloosa Thread</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T00:05:38+00:00"
+    },
+    {
+      "id": "079e9f58b5488118",
+      "title": "Georgia Power, Alabama Power secure federal loans to modernize Plant Oliver - WTVM.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUtjbFl1d3ozVTNvU3VLR08xQ05fRVY4bTZDeTJLMXdjUXpidUF6cFBUb3ZwdWt5dFprLTR5cmVLNTN5MnJDdHZHa0hNaUlLLUdiUnBTV1pxX2JBaDFjOUZBeDN2YlBGNEhzUURySkZvcGo3NXFCVDZfcnpHbF9sRjdQa01HdTFiRkFwVS1aN0N4a29ibnVyc3IyTlRqZzhHV1EtcUxzVdIBuwFBVV95cUxQRVItRVBISGc4OEtPdnFfVGFOdHdIMVl4S20yaHM4enA2WDNucWtTczZIT2hHNjF4RjlvRkxBWWRGbEhpTndJSE5oS1BRWnZMajE4ZDVTOWdEYkZPRTVlV1JobEdobkZwYnpLcEVPSHVWcHBiamx0OEp3bGVqNFlFNk9VNzdKZVQyT2twYnpDT1k5dXJPYk1zV1diVXZvZF9VamFjRWZCdTlwTmdqVmQxdmdCcU9Kc1N4d0hN?oc=5",
+      "domain": "news.google.com",
+      "source": "WTVM.com",
+      "language": "English",
+      "published_at": "2026-10-08T21:29:00+00:00",
+      "summary": "Georgia Power, Alabama Power secure federal loans to modernize Plant Oliver WTVM.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUtjbFl1d3ozVTNvU3VLR08xQ05fRVY4bTZDeTJLMXdjUXpidUF6cFBUb3ZwdWt5dFprLTR5cmVLNTN5MnJDdHZHa0hNaUlLLUdiUnBTV1pxX2JBaDFjOUZBeDN2YlBGNEhzUURySkZvcGo3NXFCVDZfcnpHbF9sRjdQa01HdTFiRkFwVS1aN0N4a29ibnVyc3IyTlRqZzhHV1EtcUxzVdIBuwFBVV95cUxQRVItRVBISGc4OEtPdnFfVGFOdHdIMVl4S20yaHM4enA2WDNucWtTczZIT2hHNjF4RjlvRkxBWWRGbEhpTndJSE5oS1BRWnZMajE4ZDVTOWdEYkZPRTVlV1JobEdobkZwYnpLcEVPSHVWcHBiamx0OEp3bGVqNFlFNk9VNzdKZVQyT2twYnpDT1k5dXJPYk1zV1diVXZvZF9VamFjRWZCdTlwTmdqVmQxdmdCcU9Kc1N4d0hN?oc=5\" target=\"_blank\">Georgia Power, Alabama Power secure federal loans to modernize Plant Oliver</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T00:05:38+00:00"
+    },
     {
       "id": "7f469ab3c39e4031",
       "title": "More than 100,000 Alabama Power customers affected by data breach - WVUA 23",
@@ -63,6 +91,20 @@
       "collected_at": "2026-10-08T19:36:42+00:00"
     },
     {
+      "id": "738a2d876236d1ee",
+      "title": "Alabama Power prepares for outages as Hurricane Isaias nears Alabama - Miami Herald",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTJTd2FvWTNJUFFPbVVVMWlwV2NiWl8zWmUzcXAxbmdnX01uT283eVB3U2VVSEI3Z1pSQ0FkbU1EczJsZEdwRTBtcjJZV1lkajFpYldraXJzRTZoa00yZ1I3ZVg3Y2JGVzFrcFJUZ29xNUxHUHp1aDdPbE5hNEJzY2FB?oc=5",
+      "domain": "news.google.com",
+      "source": "Miami Herald",
+      "language": "English",
+      "published_at": "2026-10-08T14:10:00+00:00",
+      "summary": "Alabama Power prepares for outages as Hurricane Isaias nears Alabama Miami Herald",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTJTd2FvWTNJUFFPbVVVMWlwV2NiWl8zWmUzcXAxbmdnX01uT283eVB3U2VVSEI3Z1pSQ0FkbU1EczJsZEdwRTBtcjJZV1lkajFpYldraXJzRTZoa00yZ1I3ZVg3Y2JGVzFrcFJUZ29xNUxHUHp1aDdPbE5hNEJzY2FB?oc=5\" target=\"_blank\">Alabama Power prepares for outages as Hurricane Isaias nears Alabama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Miami Herald</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T00:05:38+00:00"
+    },
+    {
       "id": "3e35143c34af677b",
       "title": "Alabama power companies prepare for possible outages as Isaias approaches - WTVM.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWw2ekdZM1prYXdDX1MxMUdiTVcxVnF4U3dnZnNlbjIxOG1ILVRfNHlYYnhmRDhaZVZIMFI3SnpwLWZ2eWRjQUY0VTdaRUhmSkdwUy02dE9IM3d0RmM0NTJWbllBUWY4TVFjdExPMVl1dzNuUVk3M0J4M3k4ckpheW5odWNoZzNJaFRNTlhnNlpzTFZKN1RiMkhhbnNSUUNPQVJtdHg4XzM?oc=5",
@@ -89,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-08T19:36:42+00:00"
+    },
+    {
+      "id": "051b7244f1b73ed9",
+      "title": "Georgia Power, Alabama Power secure federal loans to modernize Plant Oliver - WTVM.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcy0zSEU3dXlRbnRKd2oweDdJQ1VoN3kxYlFtd2VFbExmUEVXQnpMRkZxdnVFNTNmWDRqUGQ4ZjVZZnF1SFg2bDBKMUtHaXc0Z2RqeXlrMjNxQ1huNWRKa0R3dUNiRTZBM2JaSFZRcWVBVXNuMm9HU3dBTlRjWUh6Vnp2Z21yTUFrRTNReE11djNEdV9oTEl4amJOQTB3UDc2MDFsNzdrODVKZHR4Z0l3?oc=5",
+      "domain": "news.google.com",
+      "source": "WTVM.com",
+      "language": "English",
+      "published_at": "2026-10-08T07:31:28+00:00",
+      "summary": "Georgia Power, Alabama Power secure federal loans to modernize Plant Oliver WTVM.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNcy0zSEU3dXlRbnRKd2oweDdJQ1VoN3kxYlFtd2VFbExmUEVXQnpMRkZxdnVFNTNmWDRqUGQ4ZjVZZnF1SFg2bDBKMUtHaXc0Z2RqeXlrMjNxQ1huNWRKa0R3dUNiRTZBM2JaSFZRcWVBVXNuMm9HU3dBTlRjWUh6Vnp2Z21yTUFrRTNReE11djNEdV9oTEl4amJOQTB3UDc2MDFsNzdrODVKZHR4Z0l3?oc=5\" target=\"_blank\">Georgia Power, Alabama Power secure federal loans to modernize Plant Oliver</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T00:05:38+00:00"
     },
     {
       "id": "6bdfed3f041f1df4",
@@ -187,6 +243,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-08T04:55:49+00:00"
+    },
+    {
+      "id": "794d28e0f3b6ae2e",
+      "title": "Alabama Power, Jefferson County EMA preparing for weekend severe weather - WBRC 6 News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS3NhQTh5d21mcmJkZ3MwZDdWNzlmV1BYX2dia1hKODhHc3hScFprdlQ1US1fV3Rrbmd5Uk1NX2JMUU5kWUUxd3FEanFVQWhrX3hDaGlXQmlFX0J4LXZsR09HSEdkQ1JvMkkxbmFOZ21aaWk3Rkx0amVDNmVKeFpjWWxQNVBmLUdwSDBwRUdKd0F2N1pNRnIwdllmS09oby1KckHSAbYBQVVfeXFMTUJJejhoTHFMYnVSRERjSmozLU9NY3lmeG15cTJWVjRCU0w5V3FVWEljU3dzN3JWeFNTN1dTMmRMQTE2bHhiRFY1SldqR2M0SGQ2alZUOEJ6YUYyeldIbDNGdTl6bTdMMUFlTE5sNUIxM05vY0QzRTdEaWFQZVN3a1dURG50X1gxU1NfdVpDd3RsY092OWQ3NWhhaFVSZTNUdnlQQTVQcEdZYzVNSkxvZ2Y1OFVfTUE?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC 6 News",
+      "language": "English",
+      "published_at": "2026-10-07T21:56:00+00:00",
+      "summary": "Alabama Power, Jefferson County EMA preparing for weekend severe weather WBRC 6 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQS3NhQTh5d21mcmJkZ3MwZDdWNzlmV1BYX2dia1hKODhHc3hScFprdlQ1US1fV3Rrbmd5Uk1NX2JMUU5kWUUxd3FEanFVQWhrX3hDaGlXQmlFX0J4LXZsR09HSEdkQ1JvMkkxbmFOZ21aaWk3Rkx0amVDNmVKeFpjWWxQNVBmLUdwSDBwRUdKd0F2N1pNRnIwdllmS09oby1KckHSAbYBQVVfeXFMTUJJejhoTHFMYnVSRERjSmozLU9NY3lmeG15cTJWVjRCU0w5V3FVWEljU3dzN3JWeFNTN1dTMmRMQTE2bHhiRFY1SldqR2M0SGQ2alZUOEJ6YUYyeldIbDNGdTl6bTdMMUFlTE5sNUIxM05vY0QzRTdEaWFQZVN3a1dURG50X1gxU1NfdVpDd3RsY092OWQ3NWhhaFVSZTNUdnlQQTVQcEdZYzVNSkxvZ2Y1OFVfTUE?oc=5\" target=\"_blank\">Alabama Power, Jefferson County EMA preparing for weekend severe weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC 6 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T00:05:38+00:00"
     },
     {
       "id": "f39c2df3534ce3aa",
@@ -509,6 +579,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-07T10:46:01+00:00"
+    },
+    {
+      "id": "6b7a99135fc6c8d5",
+      "title": "Nearly 100,000 Alabama Power accounts affected by Southern Company data breach - WBRC 6 News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0N4VmJ3WDIzVWFBYnR4dEg4blhubkQ3dnRLTktUSzhDTjFXdmcyRE9lbktDa2ZIeEVuTy1idUV1bTVYOW45VnR3RlhQY2RaS21jcmdaV3NJTTNwb09xeHBHMXJBckZNSTFOS0VqRFJkdHVCM015WmVCOTZaeHo2MHZ4clJxak5EUF9VeXNpWGxsM1ZQd3lSVUhUZlpQMEtmYUJfbW9qWTM5R1J3Q0JF0gHDAUFVX3lxTE8yTnlsclkyVGpENXlMSW5BeURtR1NHQ0RXT0xNYjJkT0JXMngzdmFzWWNoTWJTOVB5OF9sWTE1bjAxSmRPWXdZWGVGeTlwZHoyZFk1b1FhaVptTWJZTTlvbEVzclN5aTZJTUFOQ2JfUk1KSFMyUEM1Nzg3OFFkeF93WmViRU55VFdGOW5Dajl4VkhpbnQxb1BuQlVsZDBrQlB1WlNOMU42a29aa29leVRXYm1EdFJXYWRHaUROU2VWYTdROA?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC 6 News",
+      "language": "English",
+      "published_at": "2026-10-05T21:45:00+00:00",
+      "summary": "Nearly 100,000 Alabama Power accounts affected by Southern Company data breach WBRC 6 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0N4VmJ3WDIzVWFBYnR4dEg4blhubkQ3dnRLTktUSzhDTjFXdmcyRE9lbktDa2ZIeEVuTy1idUV1bTVYOW45VnR3RlhQY2RaS21jcmdaV3NJTTNwb09xeHBHMXJBckZNSTFOS0VqRFJkdHVCM015WmVCOTZaeHo2MHZ4clJxak5EUF9VeXNpWGxsM1ZQd3lSVUhUZlpQMEtmYUJfbW9qWTM5R1J3Q0JF0gHDAUFVX3lxTE8yTnlsclkyVGpENXlMSW5BeURtR1NHQ0RXT0xNYjJkT0JXMngzdmFzWWNoTWJTOVB5OF9sWTE1bjAxSmRPWXdZWGVGeTlwZHoyZFk1b1FhaVptTWJZTTlvbEVzclN5aTZJTUFOQ2JfUk1KSFMyUEM1Nzg3OFFkeF93WmViRU55VFdGOW5Dajl4VkhpbnQxb1BuQlVsZDBrQlB1WlNOMU42a29aa29leVRXYm1EdFJXYWRHaUROU2VWYTdROA?oc=5\" target=\"_blank\">Nearly 100,000 Alabama Power accounts affected by Southern Company data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC 6 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T00:05:38+00:00"
     },
     {
       "id": "1f55e3a2fb59f10d",
