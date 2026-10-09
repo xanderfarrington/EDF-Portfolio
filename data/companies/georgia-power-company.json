@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-09T00:05:55+00:00",
+  "last_updated": "2026-10-09T08:18:43+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 907,
+  "count": 910,
   "mentions": [
+    {
+      "id": "1445d068fd201e92",
+      "title": "Georgia Power receives multi-billion-dollar loan from Department of Energy - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnRQZThZeG9lRkd3LUd3UjVHa1BzVTlJeENIZDZSaEVOQW5YYXJiWThoQ2tTVFRHaWREbUNtNi15ME5scU1mWUV3elBYVmhyaG5aUW5zU2Jwa0hFYnh0b3RzVDAxam5WS09sOXJVT21WQ0dqMkdWd2FZbEFpZUQxWWFkUXBpRkE?oc=5",
+      "domain": "news.google.com",
+      "source": "AOL.com",
+      "language": "English",
+      "published_at": "2026-10-09T01:54:00+00:00",
+      "summary": "Georgia Power receives multi-billion-dollar loan from Department of Energy AOL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnRQZThZeG9lRkd3LUd3UjVHa1BzVTlJeENIZDZSaEVOQW5YYXJiWThoQ2tTVFRHaWREbUNtNi15ME5scU1mWUV3elBYVmhyaG5aUW5zU2Jwa0hFYnh0b3RzVDAxam5WS09sOXJVT21WQ0dqMkdWd2FZbEFpZUQxWWFkUXBpRkE?oc=5\" target=\"_blank\">Georgia Power receives multi-billion-dollar loan from Department of Energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T08:18:43+00:00"
+    },
     {
       "id": "079e9f58b5488118",
       "title": "Georgia Power, Alabama Power secure federal loans to modernize Plant Oliver - WTVM.com",
@@ -35,6 +49,20 @@
       "collected_at": "2026-10-09T00:05:55+00:00"
     },
     {
+      "id": "a7018785cf5b37bb",
+      "title": "Georgia Power receives multi-billion-dollar loan from Department of Energy - WRBL",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFpCTVY5RTN3LTh6a0tJdy1hMUlXdmZWRjVvQURpN015RkJrVUliZFpXTTh5d3Q3N3JKc2dGUEtVQjExRmxmZ042UW5hT2hMWXpfRzlZUTdQdVExWE8xMGZDNjlaOUd2Qnc2MnJZUUlJUHRiMk4yR1dWUm1rUHNtb21QdjRRRUdGXzdIdGVtMjd3ZlI5R09pV3dVelh5YkpVbVBJ0gGoAUFVX3lxTE95dV9aZXJMZkJnQlRHbHRHbWVvQWt3dTd0Znk0d0tkbThmOU16cFRqeTNzLTQ0TmtWTTZqQmszX2RGUWpTeEMyWnVaU0xmMzRrUUU5azZqelVyanVFRmxwby1SWkJjdXhFYkUyNmNvQ2VjSzU4TERSQ3ZxVHdZN1VlWF81YjVvYk9XZEdPbzFLQ0VVX0N4RVU5Z21COUNQRkxNYTVSZHdVbw?oc=5",
+      "domain": "news.google.com",
+      "source": "WRBL",
+      "language": "English",
+      "published_at": "2026-10-08T21:12:14+00:00",
+      "summary": "Georgia Power receives multi-billion-dollar loan from Department of Energy WRBL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFpCTVY5RTN3LTh6a0tJdy1hMUlXdmZWRjVvQURpN015RkJrVUliZFpXTTh5d3Q3N3JKc2dGUEtVQjExRmxmZ042UW5hT2hMWXpfRzlZUTdQdVExWE8xMGZDNjlaOUd2Qnc2MnJZUUlJUHRiMk4yR1dWUm1rUHNtb21QdjRRRUdGXzdIdGVtMjd3ZlI5R09pV3dVelh5YkpVbVBJ0gGoAUFVX3lxTE95dV9aZXJMZkJnQlRHbHRHbWVvQWt3dTd0Znk0d0tkbThmOU16cFRqeTNzLTQ0TmtWTTZqQmszX2RGUWpTeEMyWnVaU0xmMzRrUUU5azZqelVyanVFRmxwby1SWkJjdXhFYkUyNmNvQ2VjSzU4TERSQ3ZxVHdZN1VlWF81YjVvYk9XZEdPbzFLQ0VVX0N4RVU5Z21COUNQRkxNYTVSZHdVbw?oc=5\" target=\"_blank\">Georgia Power receives multi-billion-dollar loan from Department of Energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRBL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T08:18:43+00:00"
+    },
+    {
       "id": "aa8b57be95ffed75",
       "title": "Rural Oconee County Residents Concerned About Frequent Power Outages - Grady Newsource",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFNqWENXT2FlNkdRMmZiLW5JS0UtX3BNeE5WN25tbGExZUp0TFZaUEREVjAza3FoT1ZYVUppVkVSRjB1VjM5SXBqeURfaVdBN2NVQUtMUkN4THBIcDI0RmNBb2VILXZzMDVjQWE5TXZTNGxXOElrTnN3b2VRSFZkU3dXWjlqa2ctVVVYeGZJTDFLcWpZS1ZXalZBTVh2bkZSS0E?oc=5",
@@ -47,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-08T19:36:59+00:00"
+    },
+    {
+      "id": "bdeed9ba8c593f9f",
+      "title": "Georgia Power crews getting ready for potential widespread power outages - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdFlvWVBjcmdscmZkZ0N5OGprYzBSVjVKMkVBcE9yNHpRc3lyY0pkMzlMM0tMS3BUWmhoRGprcnU0akNFWWJ4UTM0cjFHaUFjY3czVWQ4bzJ2WDNWN1htZXdSUFk3RVdDVXhzeDc0UXh2NXYwZVE5MXlEZzJwNHpGWUxXZlEwdnd1UXhmdDdULW0zTWw5N0p0U3l6dmxBOEc0Wkg5ZWlZQU9ieHFUWFFrTVhkbUZta3B5YzF4QTJPdmRJS19DNjhiWXlZMTlDZjF1ZFBKdl93bXQ3YlpldU80?oc=5",
+      "domain": "news.google.com",
+      "source": "WSB-TV",
+      "language": "English",
+      "published_at": "2026-10-08T17:25:37+00:00",
+      "summary": "Georgia Power crews getting ready for potential widespread power outages WSB-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdFlvWVBjcmdscmZkZ0N5OGprYzBSVjVKMkVBcE9yNHpRc3lyY0pkMzlMM0tMS3BUWmhoRGprcnU0akNFWWJ4UTM0cjFHaUFjY3czVWQ4bzJ2WDNWN1htZXdSUFk3RVdDVXhzeDc0UXh2NXYwZVE5MXlEZzJwNHpGWUxXZlEwdnd1UXhmdDdULW0zTWw5N0p0U3l6dmxBOEc0Wkg5ZWlZQU9ieHFUWFFrTVhkbUZta3B5YzF4QTJPdmRJS19DNjhiWXlZMTlDZjF1ZFBKdl93bXQ3YlpldU80?oc=5\" target=\"_blank\">Georgia Power crews getting ready for potential widespread power outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T08:18:43+00:00"
     },
     {
       "id": "4961756b97b1c4dd",

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-09T00:06:06+00:00",
+  "last_updated": "2026-10-09T08:18:54+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 110,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "bb732da69d683116",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - tradingview.com",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 497,
+      "count": 498,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "dee3430885ca6696",
@@ -47,21 +47,21 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 30,
-      "new_mentions_this_run": 0,
+      "count": 31,
+      "new_mentions_this_run": 1,
       "latest_mention": {
-        "id": "addfbf3308caf432",
-        "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5",
+        "id": "85749d5f807b1946",
+        "title": "2026 Chrysalis Awards: Commercial Remodel - Qualified Remodeler",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeUNfd0J2TFhyOXYtcWJid08tT3lUVFZBWnRIRi1EcUdKVXczc2ZqeG5vVUhUTmNuSlE0TlVDTFg0Z2xYcy01RWMta0ZhY2VVMXBHY0p1Y2oxQ25vQlA0eFIxSS01MFJOZXY0RzY5T290WWdndEtSaFQzemt1ZnMxdnJn?oc=5",
         "domain": "news.google.com",
-        "source": "energy.gov",
+        "source": "Qualified Remodeler",
         "language": "English",
-        "published_at": "2026-07-29T13:26:32+00:00",
-        "summary": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing energy.gov",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcC1kM0ViaHdwUjd4ekU0YmZRVlFQNlJmdHUzeWhfQkd3SmdJZkZMRFFhUU9EeENxYXAzOG5DQ2pQc3VqYUlkZFZob3UzYmUzOHNIbW5hUXEyeWsza0otajhjYklsazZKUWRTUE9MZmlQcFJMRHZ6c2c5VC1XZmRkZ3ZlcVB3THFULUROVkpFMGtsUjR0WjJqT1BVWGJ4TTlyYjJPRm5xTm1Sbks4WkZoQ1RkVW11VDA?oc=5\" target=\"_blank\">NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energy.gov</font>",
+        "published_at": "2026-10-08T21:23:30+00:00",
+        "summary": "2026 Chrysalis Awards: Commercial Remodel Qualified Remodeler",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOeUNfd0J2TFhyOXYtcWJid08tT3lUVFZBWnRIRi1EcUdKVXczc2ZqeG5vVUhUTmNuSlE0TlVDTFg0Z2xYcy01RWMta0ZhY2VVMXBHY0p1Y2oxQ25vQlA0eFIxSS01MFJOZXY0RzY5T290WWdndEtSaFQzemt1ZnMxdnJn?oc=5\" target=\"_blank\">2026 Chrysalis Awards: Commercial Remodel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Qualified Remodeler</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-08-01T06:23:01+00:00"
+        "collected_at": "2026-10-09T08:18:32+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 105,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "35b2735a6c611205",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand - Kalkine Media",
@@ -89,28 +89,28 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 907,
+      "count": 910,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "079e9f58b5488118",
-        "title": "Georgia Power, Alabama Power secure federal loans to modernize Plant Oliver - WTVM.com",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUtjbFl1d3ozVTNvU3VLR08xQ05fRVY4bTZDeTJLMXdjUXpidUF6cFBUb3ZwdWt5dFprLTR5cmVLNTN5MnJDdHZHa0hNaUlLLUdiUnBTV1pxX2JBaDFjOUZBeDN2YlBGNEhzUURySkZvcGo3NXFCVDZfcnpHbF9sRjdQa01HdTFiRkFwVS1aN0N4a29ibnVyc3IyTlRqZzhHV1EtcUxzVdIBuwFBVV95cUxQRVItRVBISGc4OEtPdnFfVGFOdHdIMVl4S20yaHM4enA2WDNucWtTczZIT2hHNjF4RjlvRkxBWWRGbEhpTndJSE5oS1BRWnZMajE4ZDVTOWdEYkZPRTVlV1JobEdobkZwYnpLcEVPSHVWcHBiamx0OEp3bGVqNFlFNk9VNzdKZVQyT2twYnpDT1k5dXJPYk1zV1diVXZvZF9VamFjRWZCdTlwTmdqVmQxdmdCcU9Kc1N4d0hN?oc=5",
+        "id": "1445d068fd201e92",
+        "title": "Georgia Power receives multi-billion-dollar loan from Department of Energy - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnRQZThZeG9lRkd3LUd3UjVHa1BzVTlJeENIZDZSaEVOQW5YYXJiWThoQ2tTVFRHaWREbUNtNi15ME5scU1mWUV3elBYVmhyaG5aUW5zU2Jwa0hFYnh0b3RzVDAxam5WS09sOXJVT21WQ0dqMkdWd2FZbEFpZUQxWWFkUXBpRkE?oc=5",
         "domain": "news.google.com",
-        "source": "WTVM.com",
+        "source": "AOL.com",
         "language": "English",
-        "published_at": "2026-10-08T21:29:00+00:00",
-        "summary": "Georgia Power, Alabama Power secure federal loans to modernize Plant Oliver WTVM.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUtjbFl1d3ozVTNvU3VLR08xQ05fRVY4bTZDeTJLMXdjUXpidUF6cFBUb3ZwdWt5dFprLTR5cmVLNTN5MnJDdHZHa0hNaUlLLUdiUnBTV1pxX2JBaDFjOUZBeDN2YlBGNEhzUURySkZvcGo3NXFCVDZfcnpHbF9sRjdQa01HdTFiRkFwVS1aN0N4a29ibnVyc3IyTlRqZzhHV1EtcUxzVdIBuwFBVV95cUxQRVItRVBISGc4OEtPdnFfVGFOdHdIMVl4S20yaHM4enA2WDNucWtTczZIT2hHNjF4RjlvRkxBWWRGbEhpTndJSE5oS1BRWnZMajE4ZDVTOWdEYkZPRTVlV1JobEdobkZwYnpLcEVPSHVWcHBiamx0OEp3bGVqNFlFNk9VNzdKZVQyT2twYnpDT1k5dXJPYk1zV1diVXZvZF9VamFjRWZCdTlwTmdqVmQxdmdCcU9Kc1N4d0hN?oc=5\" target=\"_blank\">Georgia Power, Alabama Power secure federal loans to modernize Plant Oliver</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
+        "published_at": "2026-10-09T01:54:00+00:00",
+        "summary": "Georgia Power receives multi-billion-dollar loan from Department of Energy AOL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnRQZThZeG9lRkd3LUd3UjVHa1BzVTlJeENIZDZSaEVOQW5YYXJiWThoQ2tTVFRHaWREbUNtNi15ME5scU1mWUV3elBYVmhyaG5aUW5zU2Jwa0hFYnh0b3RzVDAxam5WS09sOXJVT21WQ0dqMkdWd2FZbEFpZUQxWWFkUXBpRkE?oc=5\" target=\"_blank\">Georgia Power receives multi-billion-dollar loan from Department of Energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-09T00:05:55+00:00"
+        "collected_at": "2026-10-09T08:18:43+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 66,
+      "count": 67,
       "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",

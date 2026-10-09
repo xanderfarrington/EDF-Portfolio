@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-09T00:05:38+00:00",
+  "last_updated": "2026-10-09T08:18:27+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 497,
+  "count": 498,
   "mentions": [
     {
       "id": "dee3430885ca6696",
@@ -75,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-08T19:36:42+00:00"
+    },
+    {
+      "id": "b83138df2c9c56b9",
+      "title": "Alabama Power preparing ahead of Hurricane Isaias - WKRG",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWpUNmxqc3Bpbk5PTWFhMEVaVUw3WHJHc0J2QWpaRlFPV1M4Yll3VXNiVmhuY1dUa0wzTmF0ZTNoS3paZHNxdG14S3R3Q0phTWhXTVpRT2FXNWM5UmJLUHZ1cDVJdERTX3Ixa3pLS0VQZkhuMENPWkJya2FsYWxfamVBTmJBdkVWOU8xSNIBkgFBVV95cUxNU0xpMVh4cEhyckJ2dXpEQ0ZHSHV6VDllZW83dC1vclotNnVOMVBQeFY3V0pTX2t2MzA5ZjJGdHNyRkQ5blc3bm00LVpRcEJmaW1VSFF5MktMeXZKSUlJVTduTWhCZlNEdkozajZ6VzVkTU1kWV9sbDNGU2J3UjBrdVQ1UkE2ZFVDZXN4X2lnUGkxQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WKRG",
+      "language": "English",
+      "published_at": "2026-10-08T14:35:15+00:00",
+      "summary": "Alabama Power preparing ahead of Hurricane Isaias WKRG",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWpUNmxqc3Bpbk5PTWFhMEVaVUw3WHJHc0J2QWpaRlFPV1M4Yll3VXNiVmhuY1dUa0wzTmF0ZTNoS3paZHNxdG14S3R3Q0phTWhXTVpRT2FXNWM5UmJLUHZ1cDVJdERTX3Ixa3pLS0VQZkhuMENPWkJya2FsYWxfamVBTmJBdkVWOU8xSNIBkgFBVV95cUxNU0xpMVh4cEhyckJ2dXpEQ0ZHSHV6VDllZW83dC1vclotNnVOMVBQeFY3V0pTX2t2MzA5ZjJGdHNyRkQ5blc3bm00LVpRcEJmaW1VSFF5MktMeXZKSUlJVTduTWhCZlNEdkozajZ6VzVkTU1kWV9sbDNGU2J3UjBrdVQ1UkE2ZFVDZXN4X2lnUGkxQQ?oc=5\" target=\"_blank\">Alabama Power preparing ahead of Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKRG</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T08:18:27+00:00"
     },
     {
       "id": "e3fd574649415a6c",

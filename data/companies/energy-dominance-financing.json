@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-10-09T00:06:01+00:00",
+  "last_updated": "2026-10-09T08:18:49+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 66,
+  "count": 67,
   "mentions": [
     {
       "id": "9c5a579ff3ec7231",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-08T19:37:04+00:00"
+    },
+    {
+      "id": "12e87f7f4c961e24",
+      "title": "CRITICAL MATERIALS PROJECTS - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01NWZSSnhwY3ZCNTlMZDN3ZjFaNmxuOWk2NDlYYmxvdmdBXzlEbzZITjU3UGlrY0Fzckt3MXhxbTFTQjkyekNEd25KMVVIX19lZW80d3N6bnRuZXFXTVpUR0RlS3U?oc=5",
+      "domain": "news.google.com",
+      "source": "Department of Energy (.gov)",
+      "language": "English",
+      "published_at": "2026-10-05T15:48:55+00:00",
+      "summary": "CRITICAL MATERIALS PROJECTS Department of Energy (.gov)",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE01NWZSSnhwY3ZCNTlMZDN3ZjFaNmxuOWk2NDlYYmxvdmdBXzlEbzZITjU3UGlrY0Fzckt3MXhxbTFTQjkyekNEd25KMVVIX19lZW80d3N6bnRuZXFXTVpUR0RlS3U?oc=5\" target=\"_blank\">CRITICAL MATERIALS PROJECTS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T08:18:49+00:00"
     },
     {
       "id": "62da534190e29cd2",

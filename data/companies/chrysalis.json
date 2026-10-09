@@ -2,10 +2,24 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-10-09T00:05:44+00:00",
+  "last_updated": "2026-10-09T08:18:32+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 30,
+  "count": 31,
   "mentions": [
+    {
+      "id": "85749d5f807b1946",
+      "title": "2026 Chrysalis Awards: Commercial Remodel - Qualified Remodeler",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeUNfd0J2TFhyOXYtcWJid08tT3lUVFZBWnRIRi1EcUdKVXczc2ZqeG5vVUhUTmNuSlE0TlVDTFg0Z2xYcy01RWMta0ZhY2VVMXBHY0p1Y2oxQ25vQlA0eFIxSS01MFJOZXY0RzY5T290WWdndEtSaFQzemt1ZnMxdnJn?oc=5",
+      "domain": "news.google.com",
+      "source": "Qualified Remodeler",
+      "language": "English",
+      "published_at": "2026-10-08T21:23:30+00:00",
+      "summary": "2026 Chrysalis Awards: Commercial Remodel Qualified Remodeler",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOeUNfd0J2TFhyOXYtcWJid08tT3lUVFZBWnRIRi1EcUdKVXczc2ZqeG5vVUhUTmNuSlE0TlVDTFg0Z2xYcy01RWMta0ZhY2VVMXBHY0p1Y2oxQ25vQlA0eFIxSS01MFJOZXY0RzY5T290WWdndEtSaFQzemt1ZnMxdnJn?oc=5\" target=\"_blank\">2026 Chrysalis Awards: Commercial Remodel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Qualified Remodeler</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-09T08:18:32+00:00"
+    },
     {
       "id": "addfbf3308caf432",
       "title": "NNSA transitions American-made molybdenum-99 effort to DOE Office of Energy Dominance Financing - energy.gov",
