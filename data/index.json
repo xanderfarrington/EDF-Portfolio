@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-10T16:46:48+00:00",
+  "last_updated": "2026-10-10T21:00:13+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 110,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "bb732da69d683116",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - tradingview.com",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 524,
+      "count": 531,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "f92152cd7ad01c8e",
-        "title": "Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway - KATU",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNalFIZnhQWVh0ak8wVXN4Z0twd1FJOUFkT1BOWXR2RWg2OHNvT1p0SmUyUjgwY0RweXpETklFNVQ3VmZSbk81MWdFMUxFYjcwbW9fZUhXZG4yUDcyYTNuMHJ6OFprNHlsWDh1TklXNURYMjlFODZLMkZ3ZHdHcGFnb0s2MXpQU29vb2Y4ZlNlNEp6dm9DRTU5T0N4aUNKU3NWX20zbW40bXlGVjBRZHZBOFdQWHVHZU5RcXF0UUlTM0tJZVJoeXdZWUdBTXR0b3M?oc=5",
+        "id": "c15b0799233a8af7",
+        "title": "More than 267,000 Alabama Power customers lose electricity during Isaias - WBMA",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWZiY0JVMkRYcDFIa0hHSGU3c2ZrcEJLT3pqSnRmY1lTNVlZUTBCRndkS2VlTUtHYW5pakpmNTdkamZLRkxrTVRBMkV4QWtiWk41T3lOTXBZQjVDWWdJaEpxeXd4TGhQNWFQbHpGMWE4SFUxekVGVWhFMnNvdWhPTi0tclRrR0g1aUxvRGpOaTQ5ZkU1am5nUlJPU05fdjVPZm1hbDc1cXFhWlhjN2dJZUdUczZNc2htU3BCSmRrV1Y3aWljSVd2bU1R?oc=5",
         "domain": "news.google.com",
-        "source": "KATU",
+        "source": "WBMA",
         "language": "English",
-        "published_at": "2026-10-10T16:38:17+00:00",
-        "summary": "Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway KATU",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNalFIZnhQWVh0ak8wVXN4Z0twd1FJOUFkT1BOWXR2RWg2OHNvT1p0SmUyUjgwY0RweXpETklFNVQ3VmZSbk81MWdFMUxFYjcwbW9fZUhXZG4yUDcyYTNuMHJ6OFprNHlsWDh1TklXNURYMjlFODZLMkZ3ZHdHcGFnb0s2MXpQU29vb2Y4ZlNlNEp6dm9DRTU5T0N4aUNKU3NWX20zbW40bXlGVjBRZHZBOFdQWHVHZU5RcXF0UUlTM0tJZVJoeXdZWUdBTXR0b3M?oc=5\" target=\"_blank\">Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KATU</font>",
+        "published_at": "2026-10-10T18:06:40+00:00",
+        "summary": "More than 267,000 Alabama Power customers lose electricity during Isaias WBMA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWZiY0JVMkRYcDFIa0hHSGU3c2ZrcEJLT3pqSnRmY1lTNVlZUTBCRndkS2VlTUtHYW5pakpmNTdkamZLRkxrTVRBMkV4QWtiWk41T3lOTXBZQjVDWWdJaEpxeXd4TGhQNWFQbHpGMWE4SFUxekVGVWhFMnNvdWhPTi0tclRrR0g1aUxvRGpOaTQ5ZkU1am5nUlJPU05fdjVPZm1hbDc1cXFhWlhjN2dJZUdUczZNc2htU3BCSmRrV1Y3aWljSVd2bU1R?oc=5\" target=\"_blank\">More than 267,000 Alabama Power customers lose electricity during Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-10T16:46:21+00:00"
+        "collected_at": "2026-10-10T20:59:46+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 928,
-      "new_mentions_this_run": 23,
+      "count": 933,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "75e0a2582d53c505",
-        "title": "Thousands of Georgia Power customers without power due to storm-related damages - WRDW",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQak9rZFh4VlE4c0dkT2dYMWdsbDktTC1EWGFGcXg0djFDd1k1dHFETENfNjUxTHAzNWZCNFAySklzTW84SnU5bzhxelg2Y2dPUjNxNUtmTjBxR2VFRFBQX2JJd1BlVGhPd3JGdlpGYVlYSHc2TG5HSmd1X1hMSTB1U0QzZXhZVFZNRlhLYVVyY2R2QjJEaU5VYlZ1a044TU9iY0tWWTJrY1UwZ9IBvgFBVV95cUxNQXg5YW1JdVhnQm9EQmRMN1NkMkVIX2h1Ym9xRkdGZWg5a19sOEFOVzlVN3FwbmtVWGVPc2lVTkxBNm1tRGU2SHVXbElTWWpTSlgzNm1RNkVCR3BVdGY0WkRobklvZlhXcGJmOVpBU2x3TTNwRmo5Y1V2UUJGUlp0bXAxUGJ1VWk0cW1vZF9QbmpfNmhTY0Mxa3lqODlQWFRZellpNlBhNzhPd21TZzZWT0ZYcHozemd1N0NEaXFn?oc=5",
+        "id": "e5fd683623eb9293",
+        "title": "North Georgia dries out as storm threat shifts eastward - FOX 5 Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwR2F1YzJISFRkZ0JvSzN2VVVPS1dZVW13dzVwaHhRc1RMelowTnZHbEh5S0FmWEtiaXU2YUtacTkyUlRiWFQzZmNhdTgxWldQQTYwYWpRejFmeHhueXNfS0NmTkHSAWpBVV95cUxPaUhWcnJ2SFJ5M1o0TFZ2dVZac1I1VmJzOTdVakFKUmJHN0RNNjRQOUZ3Ri03UTAzT1VlWnZKU2RpeWVmZ3RmX0Zzb1pzcklRVm1sQ1cyR0dIV1E4WWM4T09OMjZIQXF4N2d3?oc=5",
         "domain": "news.google.com",
-        "source": "WRDW",
+        "source": "FOX 5 Atlanta",
         "language": "English",
-        "published_at": "2026-10-10T15:23:00+00:00",
-        "summary": "Thousands of Georgia Power customers without power due to storm-related damages WRDW",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQak9rZFh4VlE4c0dkT2dYMWdsbDktTC1EWGFGcXg0djFDd1k1dHFETENfNjUxTHAzNWZCNFAySklzTW84SnU5bzhxelg2Y2dPUjNxNUtmTjBxR2VFRFBQX2JJd1BlVGhPd3JGdlpGYVlYSHc2TG5HSmd1X1hMSTB1U0QzZXhZVFZNRlhLYVVyY2R2QjJEaU5VYlZ1a044TU9iY0tWWTJrY1UwZ9IBvgFBVV95cUxNQXg5YW1JdVhnQm9EQmRMN1NkMkVIX2h1Ym9xRkdGZWg5a19sOEFOVzlVN3FwbmtVWGVPc2lVTkxBNm1tRGU2SHVXbElTWWpTSlgzNm1RNkVCR3BVdGY0WkRobklvZlhXcGJmOVpBU2x3TTNwRmo5Y1V2UUJGUlp0bXAxUGJ1VWk0cW1vZF9QbmpfNmhTY0Mxa3lqODlQWFRZellpNlBhNzhPd21TZzZWT0ZYcHozemd1N0NEaXFn?oc=5\" target=\"_blank\">Thousands of Georgia Power customers without power due to storm-related damages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+        "published_at": "2026-10-10T20:41:21+00:00",
+        "summary": "North Georgia dries out as storm threat shifts eastward FOX 5 Atlanta",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwR2F1YzJISFRkZ0JvSzN2VVVPS1dZVW13dzVwaHhRc1RMelowTnZHbEh5S0FmWEtiaXU2YUtacTkyUlRiWFQzZmNhdTgxWldQQTYwYWpRejFmeHhueXNfS0NmTkHSAWpBVV95cUxPaUhWcnJ2SFJ5M1o0TFZ2dVZac1I1VmJzOTdVakFKUmJHN0RNNjRQOUZ3Ri03UTAzT1VlWnZKU2RpeWVmZ3RmX0Zzb1pzcklRVm1sQ1cyR0dIV1E4WWM4T09OMjZIQXF4N2d3?oc=5\" target=\"_blank\">North Georgia dries out as storm threat shifts eastward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-10T16:46:37+00:00"
+        "collected_at": "2026-10-10T21:00:03+00:00"
       }
     },
     {
