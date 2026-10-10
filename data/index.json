@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T22:07:12+00:00",
+  "last_updated": "2026-10-10T03:50:35+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 509,
+      "count": 514,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "ca9747afdc26fa50",
-        "title": "Alabama Power Makes Preparations Ahead of Hurricane Isaias - WVAS",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ01KT0VZTHhRZjFNaXk1ZHVWOThzRE00ZldZSUJrTWVld0xTX05sVmd4WnEydHJJUFJMSDdCRlluUlVJR3dzbDVqdzJxbXYtTUdoOWE0M1psaFVXcWxRc2FfejRJbUhTQzdjaGZNUXdqSW9pSGRHRDkwNnNBTEVpaXY3MC10aTFmcDBZYnVrY2NJTDhiNlYzSTlnNWtfQmY0MkpVWVFB?oc=5",
+        "id": "688b642ffd514d9d",
+        "title": "Elizabeth Thomas with Alabama Power gives update on outages - fox10tv.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDRRaHJhSmpDbjhYVktNbTFxZGxVYm1FeGpaRTNkY1I4UlRwbzlWODRLTXA1YU1lWE9RNGhkdC1DTWpTVV9lRkNrYWJkaFl1cXNVWTNCX21zcmt1VzhTRzhScFFwblBDUHprNURQOGs2Z1VVTVNVNFFJUG9QZ2lXX2JCZS1QeTVFSWh0bmI3WWFNT1hGYUJkeWNvZm5aUVE?oc=5",
         "domain": "news.google.com",
-        "source": "WVAS",
+        "source": "fox10tv.com",
         "language": "English",
-        "published_at": "2026-10-09T21:07:00+00:00",
-        "summary": "Alabama Power Makes Preparations Ahead of Hurricane Isaias WVAS",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ01KT0VZTHhRZjFNaXk1ZHVWOThzRE00ZldZSUJrTWVld0xTX05sVmd4WnEydHJJUFJMSDdCRlluUlVJR3dzbDVqdzJxbXYtTUdoOWE0M1psaFVXcWxRc2FfejRJbUhTQzdjaGZNUXdqSW9pSGRHRDkwNnNBTEVpaXY3MC10aTFmcDBZYnVrY2NJTDhiNlYzSTlnNWtfQmY0MkpVWVFB?oc=5\" target=\"_blank\">Alabama Power Makes Preparations Ahead of Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVAS</font>",
+        "published_at": "2026-10-10T02:03:00+00:00",
+        "summary": "Elizabeth Thomas with Alabama Power gives update on outages fox10tv.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDRRaHJhSmpDbjhYVktNbTFxZGxVYm1FeGpaRTNkY1I4UlRwbzlWODRLTXA1YU1lWE9RNGhkdC1DTWpTVV9lRkNrYWJkaFl1cXNVWTNCX21zcmt1VzhTRzhScFFwblBDUHprNURQOGs2Z1VVTVNVNFFJUG9QZ2lXX2JCZS1QeTVFSWh0bmI3WWFNT1hGYUJkeWNvZm5aUVE?oc=5\" target=\"_blank\">Elizabeth Thomas with Alabama Power gives update on outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-09T22:06:45+00:00"
+        "collected_at": "2026-10-10T03:50:08+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 920,
+      "count": 921,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "9ff6491e090a3f87",
-        "title": "Why is Southern Company (NYSE:SO) drawing attention as Georgia power demand surges? - Kalkine Media",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYzRwWFdLTld1bkFvV0J5eFhkbU5vcmxQVl9OdHFPZGpmVDdiaGQ1U1kwNnlwTmZqMjMtZHFDVnFzbGtUc1FHMFpQcGZ4RjNyd0o5aWp3cTM5YVByQW9RNFJRdGY3QkhWeFdySzEwM0NuREhCWFcwaGc2VHlQQUZXTV9FS3N2ck5DblcweE5nTlkzZERQUUZWS1BfZWdNZzlBaE9LMUpaU29hSm9PcDEtaDdRYjd1UXc4anZ0RkdVZw?oc=5",
+        "id": "fb15f1f2aeb8445c",
+        "title": "Georgia Power, tree crews prepare for widespread outages from Isaias - Atlanta News First",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlpEbEVMVENybDduWkxlOGxXQno4eDhfTk1HbmVHdHdMY3RMdFBOeF9lMnhiQWRMODNSYlc0N2dNckdfNDYzVm44eWUwekxpU1NlLWtGRkhZc0NUdkFZN0xKMVZVSzBJUWFTWHZqc05xWm5XbWotUDY1WTRZTzRuYzZtWEtfaU51RURDX1dWcURHNHdzRDZxY2otUFR3R00ySGhMVzhB0gG6AUFVX3lxTE9wTUVOM09hNGtfXzFBNWJDZENpZkM0QldsX3BVTHVka0VBSE1FLUotSGNScUNzMHZQd1EzQklDVEY4aGZyd3laVVVpQTVZdzY1QktrV0dmYld3YzY2dmVoanllU01EWW5xdkVCamVBdGNKNUhVYU11cnRPdXBqRWE4bVV3akx2TS1jb3lhaE5LSVp1T0hMZ3F3MUxxUG9pcTJGQkQ1NldESTYxZWtXcnhQU1lJNGRBQWx3dw?oc=5",
         "domain": "news.google.com",
-        "source": "Kalkine Media",
+        "source": "Atlanta News First",
         "language": "English",
-        "published_at": "2026-10-09T18:56:00+00:00",
-        "summary": "Why is Southern Company (NYSE:SO) drawing attention as Georgia power demand surges? Kalkine Media",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOYzRwWFdLTld1bkFvV0J5eFhkbU5vcmxQVl9OdHFPZGpmVDdiaGQ1U1kwNnlwTmZqMjMtZHFDVnFzbGtUc1FHMFpQcGZ4RjNyd0o5aWp3cTM5YVByQW9RNFJRdGY3QkhWeFdySzEwM0NuREhCWFcwaGc2VHlQQUZXTV9FS3N2ck5DblcweE5nTlkzZERQUUZWS1BfZWdNZzlBaE9LMUpaU29hSm9PcDEtaDdRYjd1UXc4anZ0RkdVZw?oc=5\" target=\"_blank\">Why is Southern Company (NYSE:SO) drawing attention as Georgia power demand surges?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
+        "published_at": "2026-10-09T22:09:00+00:00",
+        "summary": "Georgia Power, tree crews prepare for widespread outages from Isaias Atlanta News First",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONlpEbEVMVENybDduWkxlOGxXQno4eDhfTk1HbmVHdHdMY3RMdFBOeF9lMnhiQWRMODNSYlc0N2dNckdfNDYzVm44eWUwekxpU1NlLWtGRkhZc0NUdkFZN0xKMVZVSzBJUWFTWHZqc05xWm5XbWotUDY1WTRZTzRuYzZtWEtfaU51RURDX1dWcURHNHdzRDZxY2otUFR3R00ySGhMVzhB0gG6AUFVX3lxTE9wTUVOM09hNGtfXzFBNWJDZENpZkM0QldsX3BVTHVka0VBSE1FLUotSGNScUNzMHZQd1EzQklDVEY4aGZyd3laVVVpQTVZdzY1QktrV0dmYld3YzY2dmVoanllU01EWW5xdkVCamVBdGNKNUhVYU11cnRPdXBqRWE4bVV3akx2TS1jb3lhaE5LSVp1T0hMZ3F3MUxxUG9pcTJGQkQ1NldESTYxZWtXcnhQU1lJNGRBQWx3dw?oc=5\" target=\"_blank\">Georgia Power, tree crews prepare for widespread outages from Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-09T22:07:02+00:00"
+        "collected_at": "2026-10-10T03:50:24+00:00"
       }
     },
     {

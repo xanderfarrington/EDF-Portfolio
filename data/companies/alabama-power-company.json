@@ -2,10 +2,52 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-09T22:06:45+00:00",
+  "last_updated": "2026-10-10T03:50:08+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 509,
+  "count": 514,
   "mentions": [
+    {
+      "id": "688b642ffd514d9d",
+      "title": "Elizabeth Thomas with Alabama Power gives update on outages - fox10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDRRaHJhSmpDbjhYVktNbTFxZGxVYm1FeGpaRTNkY1I4UlRwbzlWODRLTXA1YU1lWE9RNGhkdC1DTWpTVV9lRkNrYWJkaFl1cXNVWTNCX21zcmt1VzhTRzhScFFwblBDUHprNURQOGs2Z1VVTVNVNFFJUG9QZ2lXX2JCZS1QeTVFSWh0bmI3WWFNT1hGYUJkeWNvZm5aUVE?oc=5",
+      "domain": "news.google.com",
+      "source": "fox10tv.com",
+      "language": "English",
+      "published_at": "2026-10-10T02:03:00+00:00",
+      "summary": "Elizabeth Thomas with Alabama Power gives update on outages fox10tv.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDRRaHJhSmpDbjhYVktNbTFxZGxVYm1FeGpaRTNkY1I4UlRwbzlWODRLTXA1YU1lWE9RNGhkdC1DTWpTVV9lRkNrYWJkaFl1cXNVWTNCX21zcmt1VzhTRzhScFFwblBDUHprNURQOGs2Z1VVTVNVNFFJUG9QZ2lXX2JCZS1QeTVFSWh0bmI3WWFNT1hGYUJkeWNvZm5aUVE?oc=5\" target=\"_blank\">Elizabeth Thomas with Alabama Power gives update on outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-10T03:50:08+00:00"
+    },
+    {
+      "id": "84b80f5c68167d8c",
+      "title": "Alabama Power update: Numbers rise as Isaias makes landfall. Follow outages - Montgomery Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPajFwMWwyM19VRXIxdW44UXgtZVNabUFnVEwwNWkzLXFLbmhMaENnU21sQ29KdTF1ZUNnQ2JoUjdORjJYWExFSk5NenpxRldKckR1VlhGREQxaTh3Y0MyaUtweHRsOXF0SWhLdHI2dFJwQWk2cGJSMU5oeHZWZ2t3X0Znald5UkpGTWtFZkVnWjJFSENreVdBWDlnc2dtSGJVSXkxckFiZjJIUk13NVNpSWdoenJkT0NhOWtzcWJwQ3JiSHcxVk5mWlVhOEFRMEc1Y1VOOVdYLWtQQjVzMEx0bk12QUwwWTl4?oc=5",
+      "domain": "news.google.com",
+      "source": "Montgomery Advertiser",
+      "language": "English",
+      "published_at": "2026-10-10T01:57:00+00:00",
+      "summary": "Alabama Power update: Numbers rise as Isaias makes landfall. Follow outages Montgomery Advertiser",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPajFwMWwyM19VRXIxdW44UXgtZVNabUFnVEwwNWkzLXFLbmhMaENnU21sQ29KdTF1ZUNnQ2JoUjdORjJYWExFSk5NenpxRldKckR1VlhGREQxaTh3Y0MyaUtweHRsOXF0SWhLdHI2dFJwQWk2cGJSMU5oeHZWZ2t3X0Znald5UkpGTWtFZkVnWjJFSENreVdBWDlnc2dtSGJVSXkxckFiZjJIUk13NVNpSWdoenJkT0NhOWtzcWJwQ3JiSHcxVk5mWlVhOEFRMEc1Y1VOOVdYLWtQQjVzMEx0bk12QUwwWTl4?oc=5\" target=\"_blank\">Alabama Power update: Numbers rise as Isaias makes landfall. Follow outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Montgomery Advertiser</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-10T03:50:08+00:00"
+    },
+    {
+      "id": "7c8450b58614c17e",
+      "title": "Over 102K without power across Wiregrass amid Isaias impacts - WTVY",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGtzUFM4dTdIemgzLVJCNG84el9MaVdSV2Jwb21Wd3lhVDBLWE03SXFHVjIyazlFS1Yzb1B5UVUwd0c1MnZBSmYyYlB2Y0tLVVB2MEhMZ1lZQlBlNHljcmlOd0hhUTNFb1FCeTZNX3FyTlo4SmVOSXRPczVIMG5TNlRmRDBKLXVNTUsycl9WMDBFb3R0WkVZ?oc=5",
+      "domain": "news.google.com",
+      "source": "WTVY",
+      "language": "English",
+      "published_at": "2026-10-10T00:09:00+00:00",
+      "summary": "Over 102K without power across Wiregrass amid Isaias impacts WTVY",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGtzUFM4dTdIemgzLVJCNG84el9MaVdSV2Jwb21Wd3lhVDBLWE03SXFHVjIyazlFS1Yzb1B5UVUwd0c1MnZBSmYyYlB2Y0tLVVB2MEhMZ1lZQlBlNHljcmlOd0hhUTNFb1FCeTZNX3FyTlo4SmVOSXRPczVIMG5TNlRmRDBKLXVNTUsycl9WMDBFb3R0WkVZ?oc=5\" target=\"_blank\">Over 102K without power across Wiregrass amid Isaias impacts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVY</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-10T03:50:08+00:00"
+    },
     {
       "id": "ca9747afdc26fa50",
       "title": "Alabama Power Makes Preparations Ahead of Hurricane Isaias - WVAS",
@@ -47,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-09T22:06:45+00:00"
+    },
+    {
+      "id": "61aa5a1882d16f4e",
+      "title": "Alabama Power ready for outages as state braces for Hurricane Isaias - WBRC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUFMQkthTWdHM3ZzTGdzdEgzX2N5ZTRSX25SZzdXejEzdmZ2dEtWeUVIbUpMZnFpaVNpNXRPQ2l1akMzNHJrQWswNUljUW4wZjhfWlNRZ09CTW5EbV93NVNscGZRcFdrNnVld2ZHT1c1aVFoenhxVlgwMDlsZnNyYUp4TFNnSUFjNHAtTVduTlUybE5oemlTOHozdGI?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC",
+      "language": "English",
+      "published_at": "2026-10-09T20:41:38+00:00",
+      "summary": "Alabama Power ready for outages as state braces for Hurricane Isaias WBRC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUFMQkthTWdHM3ZzTGdzdEgzX2N5ZTRSX25SZzdXejEzdmZ2dEtWeUVIbUpMZnFpaVNpNXRPQ2l1akMzNHJrQWswNUljUW4wZjhfWlNRZ09CTW5EbV93NVNscGZRcFdrNnVld2ZHT1c1aVFoenhxVlgwMDlsZnNyYUp4TFNnSUFjNHAtTVduTlUybE5oemlTOHozdGI?oc=5\" target=\"_blank\">Alabama Power ready for outages as state braces for Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-10T03:50:08+00:00"
     },
     {
       "id": "c056bbef429a6bdf",
@@ -117,6 +173,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-09T16:45:10+00:00"
+    },
+    {
+      "id": "04aa18d0aa2a49f8",
+      "title": "Alabama Power ready for outages as state braces for Hurricane Isaias - WDAM-TV",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQy1kWC1QVjlNSWUtMVp3QkZ6OGFUVnhuVGo3OGYtR0xraWJqSTF4NjRlZ0hiYUNyOFpPbjBNMUEyWEp5ejhxdDR3bTdEako2YXNTWTJneF8yTXRRd0p3djN1TlRWckxqWThfNlBxSWZXeTlmaVRUOVJJNV9kNTlXU1hzNmxybE1Mc1VZaVk4OXF2eXBVczROdHhnWVo?oc=5",
+      "domain": "news.google.com",
+      "source": "WDAM-TV",
+      "language": "English",
+      "published_at": "2026-10-09T00:50:31+00:00",
+      "summary": "Alabama Power ready for outages as state braces for Hurricane Isaias WDAM-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQy1kWC1QVjlNSWUtMVp3QkZ6OGFUVnhuVGo3OGYtR0xraWJqSTF4NjRlZ0hiYUNyOFpPbjBNMUEyWEp5ejhxdDR3bTdEako2YXNTWTJneF8yTXRRd0p3djN1TlRWckxqWThfNlBxSWZXeTlmaVRUOVJJNV9kNTlXU1hzNmxybE1Mc1VZaVk4OXF2eXBVczROdHhnWVo?oc=5\" target=\"_blank\">Alabama Power ready for outages as state braces for Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDAM-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-10T03:50:08+00:00"
     },
     {
       "id": "3dd0377bea9195cc",

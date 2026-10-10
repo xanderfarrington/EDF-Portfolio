@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-09T22:07:02+00:00",
+  "last_updated": "2026-10-10T03:50:24+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 920,
+  "count": 921,
   "mentions": [
+    {
+      "id": "fb15f1f2aeb8445c",
+      "title": "Georgia Power, tree crews prepare for widespread outages from Isaias - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlpEbEVMVENybDduWkxlOGxXQno4eDhfTk1HbmVHdHdMY3RMdFBOeF9lMnhiQWRMODNSYlc0N2dNckdfNDYzVm44eWUwekxpU1NlLWtGRkhZc0NUdkFZN0xKMVZVSzBJUWFTWHZqc05xWm5XbWotUDY1WTRZTzRuYzZtWEtfaU51RURDX1dWcURHNHdzRDZxY2otUFR3R00ySGhMVzhB0gG6AUFVX3lxTE9wTUVOM09hNGtfXzFBNWJDZENpZkM0QldsX3BVTHVka0VBSE1FLUotSGNScUNzMHZQd1EzQklDVEY4aGZyd3laVVVpQTVZdzY1QktrV0dmYld3YzY2dmVoanllU01EWW5xdkVCamVBdGNKNUhVYU11cnRPdXBqRWE4bVV3akx2TS1jb3lhaE5LSVp1T0hMZ3F3MUxxUG9pcTJGQkQ1NldESTYxZWtXcnhQU1lJNGRBQWx3dw?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-10-09T22:09:00+00:00",
+      "summary": "Georgia Power, tree crews prepare for widespread outages from Isaias Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONlpEbEVMVENybDduWkxlOGxXQno4eDhfTk1HbmVHdHdMY3RMdFBOeF9lMnhiQWRMODNSYlc0N2dNckdfNDYzVm44eWUwekxpU1NlLWtGRkhZc0NUdkFZN0xKMVZVSzBJUWFTWHZqc05xWm5XbWotUDY1WTRZTzRuYzZtWEtfaU51RURDX1dWcURHNHdzRDZxY2otUFR3R00ySGhMVzhB0gG6AUFVX3lxTE9wTUVOM09hNGtfXzFBNWJDZENpZkM0QldsX3BVTHVka0VBSE1FLUotSGNScUNzMHZQd1EzQklDVEY4aGZyd3laVVVpQTVZdzY1QktrV0dmYld3YzY2dmVoanllU01EWW5xdkVCamVBdGNKNUhVYU11cnRPdXBqRWE4bVV3akx2TS1jb3lhaE5LSVp1T0hMZ3F3MUxxUG9pcTJGQkQ1NldESTYxZWtXcnhQU1lJNGRBQWx3dw?oc=5\" target=\"_blank\">Georgia Power, tree crews prepare for widespread outages from Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-10T03:50:24+00:00"
+    },
     {
       "id": "9ff6491e090a3f87",
       "title": "Why is Southern Company (NYSE:SO) drawing attention as Georgia power demand surges? - Kalkine Media",
