@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-10T10:22:04+00:00",
+  "last_updated": "2026-10-10T16:46:48+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 110,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "bb732da69d683116",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - tradingview.com",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 519,
+      "count": 524,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "688b642ffd514d9d",
-        "title": "Elizabeth Thomas with Alabama Power gives update on outages - fox10tv.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDRRaHJhSmpDbjhYVktNbTFxZGxVYm1FeGpaRTNkY1I4UlRwbzlWODRLTXA1YU1lWE9RNGhkdC1DTWpTVV9lRkNrYWJkaFl1cXNVWTNCX21zcmt1VzhTRzhScFFwblBDUHprNURQOGs2Z1VVTVNVNFFJUG9QZ2lXX2JCZS1QeTVFSWh0bmI3WWFNT1hGYUJkeWNvZm5aUVE?oc=5",
+        "id": "f92152cd7ad01c8e",
+        "title": "Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway - KATU",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNalFIZnhQWVh0ak8wVXN4Z0twd1FJOUFkT1BOWXR2RWg2OHNvT1p0SmUyUjgwY0RweXpETklFNVQ3VmZSbk81MWdFMUxFYjcwbW9fZUhXZG4yUDcyYTNuMHJ6OFprNHlsWDh1TklXNURYMjlFODZLMkZ3ZHdHcGFnb0s2MXpQU29vb2Y4ZlNlNEp6dm9DRTU5T0N4aUNKU3NWX20zbW40bXlGVjBRZHZBOFdQWHVHZU5RcXF0UUlTM0tJZVJoeXdZWUdBTXR0b3M?oc=5",
         "domain": "news.google.com",
-        "source": "fox10tv.com",
+        "source": "KATU",
         "language": "English",
-        "published_at": "2026-10-10T02:03:00+00:00",
-        "summary": "Elizabeth Thomas with Alabama Power gives update on outages fox10tv.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDRRaHJhSmpDbjhYVktNbTFxZGxVYm1FeGpaRTNkY1I4UlRwbzlWODRLTXA1YU1lWE9RNGhkdC1DTWpTVV9lRkNrYWJkaFl1cXNVWTNCX21zcmt1VzhTRzhScFFwblBDUHprNURQOGs2Z1VVTVNVNFFJUG9QZ2lXX2JCZS1QeTVFSWh0bmI3WWFNT1hGYUJkeWNvZm5aUVE?oc=5\" target=\"_blank\">Elizabeth Thomas with Alabama Power gives update on outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+        "published_at": "2026-10-10T16:38:17+00:00",
+        "summary": "Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway KATU",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNalFIZnhQWVh0ak8wVXN4Z0twd1FJOUFkT1BOWXR2RWg2OHNvT1p0SmUyUjgwY0RweXpETklFNVQ3VmZSbk81MWdFMUxFYjcwbW9fZUhXZG4yUDcyYTNuMHJ6OFprNHlsWDh1TklXNURYMjlFODZLMkZ3ZHdHcGFnb0s2MXpQU29vb2Y4ZlNlNEp6dm9DRTU5T0N4aUNKU3NWX20zbW40bXlGVjBRZHZBOFdQWHVHZU5RcXF0UUlTM0tJZVJoeXdZWUdBTXR0b3M?oc=5\" target=\"_blank\">Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KATU</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-10T03:50:08+00:00"
+        "collected_at": "2026-10-10T16:46:21+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 923,
-      "new_mentions_this_run": 25,
+      "count": 928,
+      "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "a2a3339c3c84532c",
-        "title": "Georgia power outages hit 45,000 in storm - FOX 5 Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZlhTSHBJRExLU1g4U2Y5TDg2RHVjOXUyRW93Z1Rqc2pyR2NScXAtSExRRGFDS3VDOVRrdGprWExFanVxRkNaX1R1OWlaTmgyamJqby1WQ0U4R29fS1Rmb2NJMnbSAWpBVV95cUxQaTdUWW5WSnRfeGpkcVlja3hmaTdldHdXSWlpa29xVW5aLXV3TEViaTc3aWRabnhuN1Z3azRpS1Fsa082dFpUTG50c3ZsX2V1eDJCbUxUUnZTS0NnNXFhU3lKS0dXeXdDYVdR?oc=5",
+        "id": "75e0a2582d53c505",
+        "title": "Thousands of Georgia Power customers without power due to storm-related damages - WRDW",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQak9rZFh4VlE4c0dkT2dYMWdsbDktTC1EWGFGcXg0djFDd1k1dHFETENfNjUxTHAzNWZCNFAySklzTW84SnU5bzhxelg2Y2dPUjNxNUtmTjBxR2VFRFBQX2JJd1BlVGhPd3JGdlpGYVlYSHc2TG5HSmd1X1hMSTB1U0QzZXhZVFZNRlhLYVVyY2R2QjJEaU5VYlZ1a044TU9iY0tWWTJrY1UwZ9IBvgFBVV95cUxNQXg5YW1JdVhnQm9EQmRMN1NkMkVIX2h1Ym9xRkdGZWg5a19sOEFOVzlVN3FwbmtVWGVPc2lVTkxBNm1tRGU2SHVXbElTWWpTSlgzNm1RNkVCR3BVdGY0WkRobklvZlhXcGJmOVpBU2x3TTNwRmo5Y1V2UUJGUlp0bXAxUGJ1VWk0cW1vZF9QbmpfNmhTY0Mxa3lqODlQWFRZellpNlBhNzhPd21TZzZWT0ZYcHozemd1N0NEaXFn?oc=5",
         "domain": "news.google.com",
-        "source": "FOX 5 Atlanta",
+        "source": "WRDW",
         "language": "English",
-        "published_at": "2026-10-10T07:30:46+00:00",
-        "summary": "Georgia power outages hit 45,000 in storm FOX 5 Atlanta",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZlhTSHBJRExLU1g4U2Y5TDg2RHVjOXUyRW93Z1Rqc2pyR2NScXAtSExRRGFDS3VDOVRrdGprWExFanVxRkNaX1R1OWlaTmgyamJqby1WQ0U4R29fS1Rmb2NJMnbSAWpBVV95cUxQaTdUWW5WSnRfeGpkcVlja3hmaTdldHdXSWlpa29xVW5aLXV3TEViaTc3aWRabnhuN1Z3azRpS1Fsa082dFpUTG50c3ZsX2V1eDJCbUxUUnZTS0NnNXFhU3lKS0dXeXdDYVdR?oc=5\" target=\"_blank\">Georgia power outages hit 45,000 in storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+        "published_at": "2026-10-10T15:23:00+00:00",
+        "summary": "Thousands of Georgia Power customers without power due to storm-related damages WRDW",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQak9rZFh4VlE4c0dkT2dYMWdsbDktTC1EWGFGcXg0djFDd1k1dHFETENfNjUxTHAzNWZCNFAySklzTW84SnU5bzhxelg2Y2dPUjNxNUtmTjBxR2VFRFBQX2JJd1BlVGhPd3JGdlpGYVlYSHc2TG5HSmd1X1hMSTB1U0QzZXhZVFZNRlhLYVVyY2R2QjJEaU5VYlZ1a044TU9iY0tWWTJrY1UwZ9IBvgFBVV95cUxNQXg5YW1JdVhnQm9EQmRMN1NkMkVIX2h1Ym9xRkdGZWg5a19sOEFOVzlVN3FwbmtVWGVPc2lVTkxBNm1tRGU2SHVXbElTWWpTSlgzNm1RNkVCR3BVdGY0WkRobklvZlhXcGJmOVpBU2x3TTNwRmo5Y1V2UUJGUlp0bXAxUGJ1VWk0cW1vZF9QbmpfNmhTY0Mxa3lqODlQWFRZellpNlBhNzhPd21TZzZWT0ZYcHozemd1N0NEaXFn?oc=5\" target=\"_blank\">Thousands of Georgia Power customers without power due to storm-related damages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-10T10:21:54+00:00"
+        "collected_at": "2026-10-10T16:46:37+00:00"
       }
     },
     {
