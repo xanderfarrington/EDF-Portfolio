@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-10T20:59:46+00:00",
+  "last_updated": "2026-10-11T00:37:09+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 531,
+  "count": 534,
   "mentions": [
+    {
+      "id": "270f98e902f46993",
+      "title": "LIVE UPDATES: Track power outages as Isaias impacts Alabama - wvtm",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMGRhWFVkQ1ZFTkJ3ZWh4M2Z6UTJuVGdEQWpSS2FsTERFVm1ZZkNjakZWWDhJWDRfdVJFTmUzTC02aUFYMTR2NlFJcjdqZDdyR3dYMjNfcm8zOUhnYmpnbXRsZXdOclp2cVhYTUx3eU1XUVU3Q3dwcWNWT1RZcGE5dHAwcjF3cTBKT1IzY0E1amI4MDlnQ2c?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm",
+      "language": "English",
+      "published_at": "2026-10-10T22:55:00+00:00",
+      "summary": "LIVE UPDATES: Track power outages as Isaias impacts Alabama wvtm",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQMGRhWFVkQ1ZFTkJ3ZWh4M2Z6UTJuVGdEQWpSS2FsTERFVm1ZZkNjakZWWDhJWDRfdVJFTmUzTC02aUFYMTR2NlFJcjdqZDdyR3dYMjNfcm8zOUhnYmpnbXRsZXdOclp2cVhYTUx3eU1XUVU3Q3dwcWNWT1RZcGE5dHAwcjF3cTBKT1IzY0E1amI4MDlnQ2c?oc=5\" target=\"_blank\">LIVE UPDATES: Track power outages as Isaias impacts Alabama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-11T00:37:09+00:00"
+    },
     {
       "id": "c15b0799233a8af7",
       "title": "More than 267,000 Alabama Power customers lose electricity during Isaias - WBMA",
@@ -63,6 +77,20 @@
       "collected_at": "2026-10-10T20:59:46+00:00"
     },
     {
+      "id": "aa1bcfaaac55e1ab",
+      "title": "Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway - WHP Harrisburg",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdXRxSG1ydVFQbFluRWxfS0Z3eG1DTC0yMXVRSktiT0dQaEduOExqZHZxOTFNZHJMOGZ4SUFrNFc5eUh1aUM0TkhOd0w0Z1RMNEttRTV2d1FfajBPc2dxaGllblRCdWlVeU9xaDNfd3dkMUxLcEtHZ2dVQ1ZuNTNnMzVVMWRVUk0xVWstcy1RUWtKbU12Qy03QjFqQ1RVR084NXJMOUdtRXA3MFRHSk1MMTNPQXdRcmotNWZQNGdfNWhkS0Q3YVEyLVQwWHlTWHFkdE9wTTJhWWc?oc=5",
+      "domain": "news.google.com",
+      "source": "WHP Harrisburg",
+      "language": "English",
+      "published_at": "2026-10-10T16:39:36+00:00",
+      "summary": "Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway WHP Harrisburg",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdXRxSG1ydVFQbFluRWxfS0Z3eG1DTC0yMXVRSktiT0dQaEduOExqZHZxOTFNZHJMOGZ4SUFrNFc5eUh1aUM0TkhOd0w0Z1RMNEttRTV2d1FfajBPc2dxaGllblRCdWlVeU9xaDNfd3dkMUxLcEtHZ2dVQ1ZuNTNnMzVVMWRVUk0xVWstcy1RUWtKbU12Qy03QjFqQ1RVR084NXJMOUdtRXA3MFRHSk1MMTNPQXdRcmotNWZQNGdfNWhkS0Q3YVEyLVQwWHlTWHFkdE9wTTJhWWc?oc=5\" target=\"_blank\">Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHP Harrisburg</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-11T00:37:09+00:00"
+    },
+    {
       "id": "33c0f3e436522845",
       "title": "Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway - WSET",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU0t6cVJacTRvaG1OczNTdDFoWDNoZmM0S3lzZUg3M05lcnVUU3pSUHlvSVRyR2ZHNE5KaVI4WjlnM090TWlnLTdLWFI1aUpuUUxYVUxUOUE4RjFmT2tRTGp4WGhHdHdZanB3eWxqc05SSHN4UllaQzlETHJKXzZwR2N4TzhoY0Z4Vzd4QmZLVmc2OXZ1VDk3NnNzMlVmZ240TlE4RTVUSVpjM0hSdEZYR0xPbnZOQ1dpN1ZZenNpMWlFRmcyaGRTRXN6eEVqWms?oc=5",
@@ -75,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-10T20:59:46+00:00"
+    },
+    {
+      "id": "c06e09eb49ef2538",
+      "title": "Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway - KOKI FOX 23",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVjVqRVV4RjM0d2IzLV9uNjlNY2NTUVlwZXFYVjhRU1Y4eUhsVXJXQnY2cjdEQ1lfYzhOZnNmN295VDFVR25pSEgyUEItMDFEcE41a3VBUERjdjZpZTBLU0VMZ3NMb3JyX0p5YUt1WkJMZlVlVEtBLWJnaFBjV193d0FDSWpRUExyOV9RT1BTWGVTVFdvZG15Q3dyaG1DaGdGTFRVaGR4YVBoTUNVQmc5TGFSS1NFMFBvVFpVOV9vV2owZzZ3WkdrLUdEclRVVVFtQm1pbF93?oc=5",
+      "domain": "news.google.com",
+      "source": "KOKI FOX 23",
+      "language": "English",
+      "published_at": "2026-10-10T16:38:52+00:00",
+      "summary": "Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway KOKI FOX 23",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVjVqRVV4RjM0d2IzLV9uNjlNY2NTUVlwZXFYVjhRU1Y4eUhsVXJXQnY2cjdEQ1lfYzhOZnNmN295VDFVR25pSEgyUEItMDFEcE41a3VBUERjdjZpZTBLU0VMZ3NMb3JyX0p5YUt1WkJMZlVlVEtBLWJnaFBjV193d0FDSWpRUExyOV9RT1BTWGVTVFdvZG15Q3dyaG1DaGdGTFRVaGR4YVBoTUNVQmc5TGFSS1NFMFBvVFpVOV9vV2owZzZ3WkdrLUdEclRVVVFtQm1pbF93?oc=5\" target=\"_blank\">Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOKI FOX 23</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-11T00:37:09+00:00"
     },
     {
       "id": "f92152cd7ad01c8e",

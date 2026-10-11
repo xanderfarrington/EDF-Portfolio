@@ -2,10 +2,38 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-10T21:00:03+00:00",
+  "last_updated": "2026-10-11T00:37:26+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 933,
+  "count": 937,
   "mentions": [
+    {
+      "id": "eb1a23633ccfff6b",
+      "title": "Saturday evening weather forecast - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HX3AzckkyMElIc1F3TGxrZzdpWVFqSDgtbWZrblptcE1STHBjbHlnY3dOdXltS3FWUjJUNEthbDRXNWZPVzN0dzczZnRyTDczVzNhS0hsR0J6dlBDYU1HUzN1OFjSAWpBVV95cUxQZnM5S1ZqTkp2Y2hhNDBfakVuSDRJdUhWOTJuS0g5U2N0RWhUWEhUTDBCMlFuUXNzbk1NTW1aY0ZORXJ3RUl2aXAzZ2FSVlgyZnlFbFdUZXhrcW5RaHJ6Wmxmbmw2RnUzRmVn?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX 5 Atlanta",
+      "language": "English",
+      "published_at": "2026-10-11T00:02:11+00:00",
+      "summary": "Saturday evening weather forecast FOX 5 Atlanta",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HX3AzckkyMElIc1F3TGxrZzdpWVFqSDgtbWZrblptcE1STHBjbHlnY3dOdXltS3FWUjJUNEthbDRXNWZPVzN0dzczZnRyTDczVzNhS0hsR0J6dlBDYU1HUzN1OFjSAWpBVV95cUxQZnM5S1ZqTkp2Y2hhNDBfakVuSDRJdUhWOTJuS0g5U2N0RWhUWEhUTDBCMlFuUXNzbk1NTW1aY0ZORXJ3RUl2aXAzZ2FSVlgyZnlFbFdUZXhrcW5RaHJ6Wmxmbmw2RnUzRmVn?oc=5\" target=\"_blank\">Saturday evening weather forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-11T00:37:26+00:00"
+    },
+    {
+      "id": "a00e28c2c566d09b",
+      "title": "Georgia Power says thousands statewide without power following Hurricane Isaias - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGJfOWx4OS1PY0V3cml4Uk5tN3hTcjBlZ2hLWmkyT1dVT2I3RTJLMURFbjRUSFd2dnJaSVpOSFFSTEh3ZWVUeDNNSzBlNjRyQXl2Z0RfNmhwdXlpT1V2Q2JoQUZLQl9YNUVSQ0c0RmlPRnJUd1pSLTJuUkIzZEJrZGxLQXk1RXNfVGNZS016UnRaZ0VEN0pld1VUODZLUzVWcmxJd3lDLXYyQ1g5V3paS1cwcjQ1WDlGdzFCMHFUdW51clFOWGxKWkd3?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-10-10T21:14:00+00:00",
+      "summary": "Georgia Power says thousands statewide without power following Hurricane Isaias Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGJfOWx4OS1PY0V3cml4Uk5tN3hTcjBlZ2hLWmkyT1dVT2I3RTJLMURFbjRUSFd2dnJaSVpOSFFSTEh3ZWVUeDNNSzBlNjRyQXl2Z0RfNmhwdXlpT1V2Q2JoQUZLQl9YNUVSQ0c0RmlPRnJUd1pSLTJuUkIzZEJrZGxLQXk1RXNfVGNZS016UnRaZ0VEN0pld1VUODZLUzVWcmxJd3lDLXYyQ1g5V3paS1cwcjQ1WDlGdzFCMHFUdW51clFOWGxKWkd3?oc=5\" target=\"_blank\">Georgia Power says thousands statewide without power following Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-11T00:37:26+00:00"
+    },
     {
       "id": "e5fd683623eb9293",
       "title": "North Georgia dries out as storm threat shifts eastward - FOX 5 Atlanta",
@@ -49,6 +77,20 @@
       "collected_at": "2026-10-10T21:00:03+00:00"
     },
     {
+      "id": "1104d7174f86dc00",
+      "title": "Georgia Power tracks fluctuating outages across metro counties - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53VUFBendTdmo1VE9ESWxMYmdpQ0h1R0ctNHU0NHNSa2g2cGxiVmNsY29SNHQ1aWlxREtuZVRrSk5zTFlPeUR4a2RXQ1FBNXdjVk00emNGZVVPSENCNHBhRlBjT23SAWpBVV95cUxOVFpJZXlVeDVLOWdXOW83R1ZOSkhOOTN3U21tSExsQ1hlUlIwdEtUWEdJM0p4WmctZTJkal9naTlqZ1M5ZFlCSUxESjFQOVBMQVd4eHZqZmJNN05uU1NNWnpJQllQZkxVcTVn?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX 5 Atlanta",
+      "language": "English",
+      "published_at": "2026-10-10T19:27:44+00:00",
+      "summary": "Georgia Power tracks fluctuating outages across metro counties FOX 5 Atlanta",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE53VUFBendTdmo1VE9ESWxMYmdpQ0h1R0ctNHU0NHNSa2g2cGxiVmNsY29SNHQ1aWlxREtuZVRrSk5zTFlPeUR4a2RXQ1FBNXdjVk00emNGZVVPSENCNHBhRlBjT23SAWpBVV95cUxOVFpJZXlVeDVLOWdXOW83R1ZOSkhOOTN3U21tSExsQ1hlUlIwdEtUWEdJM0p4WmctZTJkal9naTlqZ1M5ZFlCSUxESjFQOVBMQVd4eHZqZmJNN05uU1NNWnpJQllQZkxVcTVn?oc=5\" target=\"_blank\">Georgia Power tracks fluctuating outages across metro counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-11T00:37:26+00:00"
+    },
+    {
       "id": "f49a7d969e323e27",
       "title": "Isaias knocked out power to an estimated 7,000 Georgia Power customers in Albany - WALB",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmhTWjMtMVhzc1dFODFnc2FPdTZkdWFSNkRuR1JwRzAzTjhWemJXdGw4WjA4SDFMWklJdU1ZZ2tnX21QY0Zmd0NNTk44NmxBVGpZQVlzU01rRWVNZHZvYlFmd1hUOER2aGlNdW1BVUVxZEJDTmFEQldZMl9Md2JXUm9JYkdhUGVvUmwzQlo5TVJFZUJiNUgtZV9fQ1JBTGVlTTFOQzJQSFBWUQ?oc=5",
@@ -61,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-10T21:00:03+00:00"
+    },
+    {
+      "id": "57b18c2228c4990f",
+      "title": "Isaias knocked out power to an estimated 7,000 Georgia Power customers in Albany - WALB.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmhTWjMtMVhzc1dFODFnc2FPdTZkdWFSNkRuR1JwRzAzTjhWemJXdGw4WjA4SDFMWklJdU1ZZ2tnX21QY0Zmd0NNTk44NmxBVGpZQVlzU01rRWVNZHZvYlFmd1hUOER2aGlNdW1BVUVxZEJDTmFEQldZMl9Md2JXUm9JYkdhUGVvUmwzQlo5TVJFZUJiNUgtZV9fQ1JBTGVlTTFOQzJQSFBWUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WALB.com",
+      "language": "English",
+      "published_at": "2026-10-10T17:49:00+00:00",
+      "summary": "Isaias knocked out power to an estimated 7,000 Georgia Power customers in Albany WALB.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmhTWjMtMVhzc1dFODFnc2FPdTZkdWFSNkRuR1JwRzAzTjhWemJXdGw4WjA4SDFMWklJdU1ZZ2tnX21QY0Zmd0NNTk44NmxBVGpZQVlzU01rRWVNZHZvYlFmd1hUOER2aGlNdW1BVUVxZEJDTmFEQldZMl9Md2JXUm9JYkdhUGVvUmwzQlo5TVJFZUJiNUgtZV9fQ1JBTGVlTTFOQzJQSFBWUQ?oc=5\" target=\"_blank\">Isaias knocked out power to an estimated 7,000 Georgia Power customers in Albany</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WALB.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-11T00:37:26+00:00"
     },
     {
       "id": "75e0a2582d53c505",

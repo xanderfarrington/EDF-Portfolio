@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T21:00:13+00:00",
+  "last_updated": "2026-10-11T00:37:37+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 531,
+      "count": 534,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "c15b0799233a8af7",
-        "title": "More than 267,000 Alabama Power customers lose electricity during Isaias - WBMA",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWZiY0JVMkRYcDFIa0hHSGU3c2ZrcEJLT3pqSnRmY1lTNVlZUTBCRndkS2VlTUtHYW5pakpmNTdkamZLRkxrTVRBMkV4QWtiWk41T3lOTXBZQjVDWWdJaEpxeXd4TGhQNWFQbHpGMWE4SFUxekVGVWhFMnNvdWhPTi0tclRrR0g1aUxvRGpOaTQ5ZkU1am5nUlJPU05fdjVPZm1hbDc1cXFhWlhjN2dJZUdUczZNc2htU3BCSmRrV1Y3aWljSVd2bU1R?oc=5",
+        "id": "270f98e902f46993",
+        "title": "LIVE UPDATES: Track power outages as Isaias impacts Alabama - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMGRhWFVkQ1ZFTkJ3ZWh4M2Z6UTJuVGdEQWpSS2FsTERFVm1ZZkNjakZWWDhJWDRfdVJFTmUzTC02aUFYMTR2NlFJcjdqZDdyR3dYMjNfcm8zOUhnYmpnbXRsZXdOclp2cVhYTUx3eU1XUVU3Q3dwcWNWT1RZcGE5dHAwcjF3cTBKT1IzY0E1amI4MDlnQ2c?oc=5",
         "domain": "news.google.com",
-        "source": "WBMA",
+        "source": "wvtm",
         "language": "English",
-        "published_at": "2026-10-10T18:06:40+00:00",
-        "summary": "More than 267,000 Alabama Power customers lose electricity during Isaias WBMA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWZiY0JVMkRYcDFIa0hHSGU3c2ZrcEJLT3pqSnRmY1lTNVlZUTBCRndkS2VlTUtHYW5pakpmNTdkamZLRkxrTVRBMkV4QWtiWk41T3lOTXBZQjVDWWdJaEpxeXd4TGhQNWFQbHpGMWE4SFUxekVGVWhFMnNvdWhPTi0tclRrR0g1aUxvRGpOaTQ5ZkU1am5nUlJPU05fdjVPZm1hbDc1cXFhWlhjN2dJZUdUczZNc2htU3BCSmRrV1Y3aWljSVd2bU1R?oc=5\" target=\"_blank\">More than 267,000 Alabama Power customers lose electricity during Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+        "published_at": "2026-10-10T22:55:00+00:00",
+        "summary": "LIVE UPDATES: Track power outages as Isaias impacts Alabama wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQMGRhWFVkQ1ZFTkJ3ZWh4M2Z6UTJuVGdEQWpSS2FsTERFVm1ZZkNjakZWWDhJWDRfdVJFTmUzTC02aUFYMTR2NlFJcjdqZDdyR3dYMjNfcm8zOUhnYmpnbXRsZXdOclp2cVhYTUx3eU1XUVU3Q3dwcWNWT1RZcGE5dHAwcjF3cTBKT1IzY0E1amI4MDlnQ2c?oc=5\" target=\"_blank\">LIVE UPDATES: Track power outages as Isaias impacts Alabama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-10T20:59:46+00:00"
+        "collected_at": "2026-10-11T00:37:09+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 933,
-      "new_mentions_this_run": 25,
+      "count": 937,
+      "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "e5fd683623eb9293",
-        "title": "North Georgia dries out as storm threat shifts eastward - FOX 5 Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwR2F1YzJISFRkZ0JvSzN2VVVPS1dZVW13dzVwaHhRc1RMelowTnZHbEh5S0FmWEtiaXU2YUtacTkyUlRiWFQzZmNhdTgxWldQQTYwYWpRejFmeHhueXNfS0NmTkHSAWpBVV95cUxPaUhWcnJ2SFJ5M1o0TFZ2dVZac1I1VmJzOTdVakFKUmJHN0RNNjRQOUZ3Ri03UTAzT1VlWnZKU2RpeWVmZ3RmX0Zzb1pzcklRVm1sQ1cyR0dIV1E4WWM4T09OMjZIQXF4N2d3?oc=5",
+        "id": "eb1a23633ccfff6b",
+        "title": "Saturday evening weather forecast - FOX 5 Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HX3AzckkyMElIc1F3TGxrZzdpWVFqSDgtbWZrblptcE1STHBjbHlnY3dOdXltS3FWUjJUNEthbDRXNWZPVzN0dzczZnRyTDczVzNhS0hsR0J6dlBDYU1HUzN1OFjSAWpBVV95cUxQZnM5S1ZqTkp2Y2hhNDBfakVuSDRJdUhWOTJuS0g5U2N0RWhUWEhUTDBCMlFuUXNzbk1NTW1aY0ZORXJ3RUl2aXAzZ2FSVlgyZnlFbFdUZXhrcW5RaHJ6Wmxmbmw2RnUzRmVn?oc=5",
         "domain": "news.google.com",
         "source": "FOX 5 Atlanta",
         "language": "English",
-        "published_at": "2026-10-10T20:41:21+00:00",
-        "summary": "North Georgia dries out as storm threat shifts eastward FOX 5 Atlanta",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwR2F1YzJISFRkZ0JvSzN2VVVPS1dZVW13dzVwaHhRc1RMelowTnZHbEh5S0FmWEtiaXU2YUtacTkyUlRiWFQzZmNhdTgxWldQQTYwYWpRejFmeHhueXNfS0NmTkHSAWpBVV95cUxPaUhWcnJ2SFJ5M1o0TFZ2dVZac1I1VmJzOTdVakFKUmJHN0RNNjRQOUZ3Ri03UTAzT1VlWnZKU2RpeWVmZ3RmX0Zzb1pzcklRVm1sQ1cyR0dIV1E4WWM4T09OMjZIQXF4N2d3?oc=5\" target=\"_blank\">North Georgia dries out as storm threat shifts eastward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+        "published_at": "2026-10-11T00:02:11+00:00",
+        "summary": "Saturday evening weather forecast FOX 5 Atlanta",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HX3AzckkyMElIc1F3TGxrZzdpWVFqSDgtbWZrblptcE1STHBjbHlnY3dOdXltS3FWUjJUNEthbDRXNWZPVzN0dzczZnRyTDczVzNhS0hsR0J6dlBDYU1HUzN1OFjSAWpBVV95cUxQZnM5S1ZqTkp2Y2hhNDBfakVuSDRJdUhWOTJuS0g5U2N0RWhUWEhUTDBCMlFuUXNzbk1NTW1aY0ZORXJ3RUl2aXAzZ2FSVlgyZnlFbFdUZXhrcW5RaHJ6Wmxmbmw2RnUzRmVn?oc=5\" target=\"_blank\">Saturday evening weather forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-10T21:00:03+00:00"
+        "collected_at": "2026-10-11T00:37:26+00:00"
       }
     },
     {
