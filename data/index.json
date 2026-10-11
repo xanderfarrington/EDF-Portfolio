@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T00:37:37+00:00",
+  "last_updated": "2026-10-11T08:08:31+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 534,
+      "count": 536,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "270f98e902f46993",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 937,
+      "count": 948,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "eb1a23633ccfff6b",
-        "title": "Saturday evening weather forecast - FOX 5 Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HX3AzckkyMElIc1F3TGxrZzdpWVFqSDgtbWZrblptcE1STHBjbHlnY3dOdXltS3FWUjJUNEthbDRXNWZPVzN0dzczZnRyTDczVzNhS0hsR0J6dlBDYU1HUzN1OFjSAWpBVV95cUxQZnM5S1ZqTkp2Y2hhNDBfakVuSDRJdUhWOTJuS0g5U2N0RWhUWEhUTDBCMlFuUXNzbk1NTW1aY0ZORXJ3RUl2aXAzZ2FSVlgyZnlFbFdUZXhrcW5RaHJ6Wmxmbmw2RnUzRmVn?oc=5",
+        "id": "caa005ceae5fae7e",
+        "title": "Police arrest four suspects in human trafficking sting - FOX 5 Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95em9WZG1iZUJfeXA4Z011TERvbWRWYi1Jd0JwaXFLSXpIZTJ6Mzk5TU5zVXJ2M1EzaDZDZzNLSjJLcFU4RlAwUDFfMjdnZFhqdUhjNDBvVTQzQU4ySGVfNnJJcFPSAWpBVV95cUxOQnBvTkZtRjFiekpyQkVNeTM5SVA2MVA4Z0hLTFJRVkxldUc3YUtfcFE0N1BCZk1zVWs0THpxQ3N5RnByWk5aZmNPVngxZVUzOFhoTUxBOTE1VFRuTExwRzJwR1lqWHBKYnRR?oc=5",
         "domain": "news.google.com",
         "source": "FOX 5 Atlanta",
         "language": "English",
-        "published_at": "2026-10-11T00:02:11+00:00",
-        "summary": "Saturday evening weather forecast FOX 5 Atlanta",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HX3AzckkyMElIc1F3TGxrZzdpWVFqSDgtbWZrblptcE1STHBjbHlnY3dOdXltS3FWUjJUNEthbDRXNWZPVzN0dzczZnRyTDczVzNhS0hsR0J6dlBDYU1HUzN1OFjSAWpBVV95cUxQZnM5S1ZqTkp2Y2hhNDBfakVuSDRJdUhWOTJuS0g5U2N0RWhUWEhUTDBCMlFuUXNzbk1NTW1aY0ZORXJ3RUl2aXAzZ2FSVlgyZnlFbFdUZXhrcW5RaHJ6Wmxmbmw2RnUzRmVn?oc=5\" target=\"_blank\">Saturday evening weather forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+        "published_at": "2026-10-11T03:14:52+00:00",
+        "summary": "Police arrest four suspects in human trafficking sting FOX 5 Atlanta",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE95em9WZG1iZUJfeXA4Z011TERvbWRWYi1Jd0JwaXFLSXpIZTJ6Mzk5TU5zVXJ2M1EzaDZDZzNLSjJLcFU4RlAwUDFfMjdnZFhqdUhjNDBvVTQzQU4ySGVfNnJJcFPSAWpBVV95cUxOQnBvTkZtRjFiekpyQkVNeTM5SVA2MVA4Z0hLTFJRVkxldUc3YUtfcFE0N1BCZk1zVWs0THpxQ3N5RnByWk5aZmNPVngxZVUzOFhoTUxBOTE1VFRuTExwRzJwR1lqWHBKYnRR?oc=5\" target=\"_blank\">Police arrest four suspects in human trafficking sting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-11T00:37:26+00:00"
+        "collected_at": "2026-10-11T08:08:20+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",
