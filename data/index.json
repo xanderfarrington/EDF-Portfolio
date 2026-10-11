@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T08:08:31+00:00",
+  "last_updated": "2026-10-11T16:06:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 948,
+      "count": 950,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "caa005ceae5fae7e",
-        "title": "Police arrest four suspects in human trafficking sting - FOX 5 Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95em9WZG1iZUJfeXA4Z011TERvbWRWYi1Jd0JwaXFLSXpIZTJ6Mzk5TU5zVXJ2M1EzaDZDZzNLSjJLcFU4RlAwUDFfMjdnZFhqdUhjNDBvVTQzQU4ySGVfNnJJcFPSAWpBVV95cUxOQnBvTkZtRjFiekpyQkVNeTM5SVA2MVA4Z0hLTFJRVkxldUc3YUtfcFE0N1BCZk1zVWs0THpxQ3N5RnByWk5aZmNPVngxZVUzOFhoTUxBOTE1VFRuTExwRzJwR1lqWHBKYnRR?oc=5",
+        "id": "ee02759deeac5684",
+        "title": "Sunday morning weather forecast - FOX 5 Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tampENTA4SXc4Vm5OcjBtQUV5MXFsQlJwdnBKUW1yX0FZTll6cUNFZzQ1OU00dUhMMjhnalBDNGw1c1p1dGlXeU9aYktqLU9hS1Z2emlVRXlRQUN4TnZRRDZnM3nSAWpBVV95cUxOTlhJeUw4U0VSYVZ1dGM0TjBBVjV1QzBaSk8yOTFheGp6UXhyR0oyenJHeENwR3ItS0VvU2ZpTmFNc3ptSHNERU5SM0ZWbk5ZS2NsbVkzX1FDTlNTN2J5VVM4REJCTGpBSUp3?oc=5",
         "domain": "news.google.com",
         "source": "FOX 5 Atlanta",
         "language": "English",
-        "published_at": "2026-10-11T03:14:52+00:00",
-        "summary": "Police arrest four suspects in human trafficking sting FOX 5 Atlanta",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE95em9WZG1iZUJfeXA4Z011TERvbWRWYi1Jd0JwaXFLSXpIZTJ6Mzk5TU5zVXJ2M1EzaDZDZzNLSjJLcFU4RlAwUDFfMjdnZFhqdUhjNDBvVTQzQU4ySGVfNnJJcFPSAWpBVV95cUxOQnBvTkZtRjFiekpyQkVNeTM5SVA2MVA4Z0hLTFJRVkxldUc3YUtfcFE0N1BCZk1zVWs0THpxQ3N5RnByWk5aZmNPVngxZVUzOFhoTUxBOTE1VFRuTExwRzJwR1lqWHBKYnRR?oc=5\" target=\"_blank\">Police arrest four suspects in human trafficking sting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+        "published_at": "2026-10-11T10:44:50+00:00",
+        "summary": "Sunday morning weather forecast FOX 5 Atlanta",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tampENTA4SXc4Vm5OcjBtQUV5MXFsQlJwdnBKUW1yX0FZTll6cUNFZzQ1OU00dUhMMjhnalBDNGw1c1p1dGlXeU9aYktqLU9hS1Z2emlVRXlRQUN4TnZRRDZnM3nSAWpBVV95cUxOTlhJeUw4U0VSYVZ1dGM0TjBBVjV1QzBaSk8yOTFheGp6UXhyR0oyenJHeENwR3ItS0VvU2ZpTmFNc3ptSHNERU5SM0ZWbk5ZS2NsbVkzX1FDTlNTN2J5VVM4REJCTGpBSUp3?oc=5\" target=\"_blank\">Sunday morning weather forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-11T08:08:20+00:00"
+        "collected_at": "2026-10-11T16:06:07+00:00"
       }
     },
     {

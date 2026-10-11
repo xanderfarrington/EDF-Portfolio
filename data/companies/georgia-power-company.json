@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-11T08:08:20+00:00",
+  "last_updated": "2026-10-11T16:06:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 948,
+  "count": 950,
   "mentions": [
+    {
+      "id": "ee02759deeac5684",
+      "title": "Sunday morning weather forecast - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tampENTA4SXc4Vm5OcjBtQUV5MXFsQlJwdnBKUW1yX0FZTll6cUNFZzQ1OU00dUhMMjhnalBDNGw1c1p1dGlXeU9aYktqLU9hS1Z2emlVRXlRQUN4TnZRRDZnM3nSAWpBVV95cUxOTlhJeUw4U0VSYVZ1dGM0TjBBVjV1QzBaSk8yOTFheGp6UXhyR0oyenJHeENwR3ItS0VvU2ZpTmFNc3ptSHNERU5SM0ZWbk5ZS2NsbVkzX1FDTlNTN2J5VVM4REJCTGpBSUp3?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX 5 Atlanta",
+      "language": "English",
+      "published_at": "2026-10-11T10:44:50+00:00",
+      "summary": "Sunday morning weather forecast FOX 5 Atlanta",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tampENTA4SXc4Vm5OcjBtQUV5MXFsQlJwdnBKUW1yX0FZTll6cUNFZzQ1OU00dUhMMjhnalBDNGw1c1p1dGlXeU9aYktqLU9hS1Z2emlVRXlRQUN4TnZRRDZnM3nSAWpBVV95cUxOTlhJeUw4U0VSYVZ1dGM0TjBBVjV1QzBaSk8yOTFheGp6UXhyR0oyenJHeENwR3ItS0VvU2ZpTmFNc3ptSHNERU5SM0ZWbk5ZS2NsbVkzX1FDTlNTN2J5VVM4REJCTGpBSUp3?oc=5\" target=\"_blank\">Sunday morning weather forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-11T16:06:07+00:00"
+    },
     {
       "id": "caa005ceae5fae7e",
       "title": "Police arrest four suspects in human trafficking sting - FOX 5 Atlanta",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-11T08:08:20+00:00"
+    },
+    {
+      "id": "b53db4972dc5df85",
+      "title": "5 dead in apparent murder-suicide in South Georgia - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zczdPdFFsS283bVB1UlNXTGdwc280Y2otNGhrTDhuYUJFWDhxYTZLZ0w2RFJjMVk0RWxXcnpIZDJDUGRvZXZOc0xEN19TOHBmUnkxNl9Mck41MExmUFJyeXZCRHjSAWpBVV95cUxNLV9Fb2dhaFJFbThUWXM3OWotV05mbFRPV0RFR1NkcDd1WllIRERDOGNfTGx3SXc4ZUFhNWlyTUlfSVZoSkx6UDI4Sk5jam1hRXhZeUJadU82NG95RmxMbVI2cGlGLUZLZGNn?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX 5 Atlanta",
+      "language": "English",
+      "published_at": "2026-10-11T02:53:54+00:00",
+      "summary": "5 dead in apparent murder-suicide in South Georgia FOX 5 Atlanta",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zczdPdFFsS283bVB1UlNXTGdwc280Y2otNGhrTDhuYUJFWDhxYTZLZ0w2RFJjMVk0RWxXcnpIZDJDUGRvZXZOc0xEN19TOHBmUnkxNl9Mck41MExmUFJyeXZCRHjSAWpBVV95cUxNLV9Fb2dhaFJFbThUWXM3OWotV05mbFRPV0RFR1NkcDd1WllIRERDOGNfTGx3SXc4ZUFhNWlyTUlfSVZoSkx6UDI4Sk5jam1hRXhZeUJadU82NG95RmxMbVI2cGlGLUZLZGNn?oc=5\" target=\"_blank\">5 dead in apparent murder-suicide in South Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-11T16:06:07+00:00"
     },
     {
       "id": "8dad9fbe7a84d37c",
