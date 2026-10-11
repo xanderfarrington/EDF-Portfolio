@@ -2,10 +2,38 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-11T16:05:50+00:00",
+  "last_updated": "2026-10-11T21:21:22+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 536,
+  "count": 539,
   "mentions": [
+    {
+      "id": "9eac0fe3b7f14f9a",
+      "title": "Alabama Power attributes outages in the state’s southern region to extensive tree damage - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHRDbDhxQ09yMmpiQUU4cWhsQnNZNlRORUduRlkybFhkeXI2WXlWbXBnYTFtZHhCVWNqcmdNc3RSYk5uWWtZNHZRNURPNC1vQTJyeWhlaGUtMzkxSVBpWXlaYWF1em43YWxWTnpYaEN3S1pveHo0cUw1Q2l6eDhVRTRONWZNZlo5Y0JqMGp2eHBZSi1VWWZLZWVyenE0clNvVllqSWJ1OThZSHE2ekpHdlZKSTcwN2VMWkpVT2tPU3pnX0ZKeWd3ekFqYw?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-10-11T19:10:00+00:00",
+      "summary": "Alabama Power attributes outages in the state’s southern region to extensive tree damage AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHRDbDhxQ09yMmpiQUU4cWhsQnNZNlRORUduRlkybFhkeXI2WXlWbXBnYTFtZHhCVWNqcmdNc3RSYk5uWWtZNHZRNURPNC1vQTJyeWhlaGUtMzkxSVBpWXlaYWF1em43YWxWTnpYaEN3S1pveHo0cUw1Q2l6eDhVRTRONWZNZlo5Y0JqMGp2eHBZSi1VWWZLZWVyenE0clNvVllqSWJ1OThZSHE2ekpHdlZKSTcwN2VMWkpVT2tPU3pnX0ZKeWd3ekFqYw?oc=5\" target=\"_blank\">Alabama Power attributes outages in the state’s southern region to extensive tree damage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-11T21:21:22+00:00"
+    },
+    {
+      "id": "348e1a40382757a6",
+      "title": "Thousands without power in Alabama following Isaias, when will it come back on? - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQURqTkJxRzZCZlZLbDBWdjBKMVVRNXc1WVRTRHdyNVRYQTF0SGdYNzlIYjREVUI5dnVjZjRVd3pyQ0lkN2stdWhjX1BnSGFwYVJKZERucmM5c29HSTdKODU0aGNFVllDMk95QzFjS3JKMDNuWTdvYVJZa0R2QndHeFVSeXpIZ3NZQ2tSQUJTY1BBRDVIdU96R3hqR0NCV09XOU1Bc2VqdXplTXJUeWd4UDBuQ1NyeDFKZTRoWldB?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-10-11T16:10:00+00:00",
+      "summary": "Thousands without power in Alabama following Isaias, when will it come back on? AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQQURqTkJxRzZCZlZLbDBWdjBKMVVRNXc1WVRTRHdyNVRYQTF0SGdYNzlIYjREVUI5dnVjZjRVd3pyQ0lkN2stdWhjX1BnSGFwYVJKZERucmM5c29HSTdKODU0aGNFVllDMk95QzFjS3JKMDNuWTdvYVJZa0R2QndHeFVSeXpIZ3NZQ2tSQUJTY1BBRDVIdU96R3hqR0NCV09XOU1Bc2VqdXplTXJUeWd4UDBuQ1NyeDFKZTRoWldB?oc=5\" target=\"_blank\">Thousands without power in Alabama following Isaias, when will it come back on?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-11T21:21:22+00:00"
+    },
     {
       "id": "270f98e902f46993",
       "title": "LIVE UPDATES: Track power outages as Isaias impacts Alabama - wvtm",
@@ -775,6 +803,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-08T04:55:49+00:00"
+    },
+    {
+      "id": "d23fd2bc6ad09771",
+      "title": "Alabama Power, Jefferson County EMA preparing for weekend severe weather - WBRC 6 News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjl5eVFoNjJhRmNjVVpjQkVUTUI1bVZ3Q1hFUmE5QUUxV1p4NDR0QUg0bGIxWDYzZVhrNUY4cV9xQW9zOGtuLWtXY3VjaEdNMllXbVMwUG1lbV9iQ1FHcDZpMENOZHYyMVNDWDZfR1ZmWUQ4S1p1cWpRRTVqeDdDaUdBeHd1ZGxXdkNSSWZWUHdSVE13N3ZEbVpQdmJtM2lTMFlzT0hURTR0Zw?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC 6 News",
+      "language": "English",
+      "published_at": "2026-10-07T22:06:00+00:00",
+      "summary": "Alabama Power, Jefferson County EMA preparing for weekend severe weather WBRC 6 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjl5eVFoNjJhRmNjVVpjQkVUTUI1bVZ3Q1hFUmE5QUUxV1p4NDR0QUg0bGIxWDYzZVhrNUY4cV9xQW9zOGtuLWtXY3VjaEdNMllXbVMwUG1lbV9iQ1FHcDZpMENOZHYyMVNDWDZfR1ZmWUQ4S1p1cWpRRTVqeDdDaUdBeHd1ZGxXdkNSSWZWUHdSVE13N3ZEbVpQdmJtM2lTMFlzT0hURTR0Zw?oc=5\" target=\"_blank\">Alabama Power, Jefferson County EMA preparing for weekend severe weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC 6 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-11T21:21:22+00:00"
     },
     {
       "id": "77dd922e488bfe30",
