@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T00:54:04+00:00",
+  "last_updated": "2026-10-12T08:25:34+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 539,
+      "count": 546,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "9eac0fe3b7f14f9a",
-        "title": "Alabama Power attributes outages in the state’s southern region to extensive tree damage - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHRDbDhxQ09yMmpiQUU4cWhsQnNZNlRORUduRlkybFhkeXI2WXlWbXBnYTFtZHhCVWNqcmdNc3RSYk5uWWtZNHZRNURPNC1vQTJyeWhlaGUtMzkxSVBpWXlaYWF1em43YWxWTnpYaEN3S1pveHo0cUw1Q2l6eDhVRTRONWZNZlo5Y0JqMGp2eHBZSi1VWWZLZWVyenE0clNvVllqSWJ1OThZSHE2ekpHdlZKSTcwN2VMWkpVT2tPU3pnX0ZKeWd3ekFqYw?oc=5",
+        "id": "631f7e8761af3cac",
+        "title": "Alabama Power works to restore outages for 30,000 customers after Hurricane Isaias - rocketcitynow.com",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjVrMEVuM0hRZWtla1Q3Ums3c1B1aDZ2NHA0Nml4Sk1vcG1ScUp4a0I1R3JBbUtVNEtMcUN2ejBlbGVyclBScVZtR054ZTBXOGJUZ2tvWTczbDdpanVPcU85OGVYcnRlY0dHZ0ZGX3NrVE0zbEJDSVRhc21iSjY1dThzV2dKVDdPRF80SmU3WkdGQ3RIdzRlQVJWOHVtLTNfdld2al9wWlpzNElQaThqdmxiaWZXeThILXpQX3JmWnRRdmdvX2h2RU1kUF9Ic05TTDRRNS02S0l4WGVYUTFreV9IaS01ZGdKLS0xaDgtUHNYU0dmNmQ4a1d5Wm9Fdw?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "rocketcitynow.com",
         "language": "English",
-        "published_at": "2026-10-11T19:10:00+00:00",
-        "summary": "Alabama Power attributes outages in the state’s southern region to extensive tree damage AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHRDbDhxQ09yMmpiQUU4cWhsQnNZNlRORUduRlkybFhkeXI2WXlWbXBnYTFtZHhCVWNqcmdNc3RSYk5uWWtZNHZRNURPNC1vQTJyeWhlaGUtMzkxSVBpWXlaYWF1em43YWxWTnpYaEN3S1pveHo0cUw1Q2l6eDhVRTRONWZNZlo5Y0JqMGp2eHBZSi1VWWZLZWVyenE0clNvVllqSWJ1OThZSHE2ekpHdlZKSTcwN2VMWkpVT2tPU3pnX0ZKeWd3ekFqYw?oc=5\" target=\"_blank\">Alabama Power attributes outages in the state’s southern region to extensive tree damage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-10-12T04:41:00+00:00",
+        "summary": "Alabama Power works to restore outages for 30,000 customers after Hurricane Isaias rocketcitynow.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjVrMEVuM0hRZWtla1Q3Ums3c1B1aDZ2NHA0Nml4Sk1vcG1ScUp4a0I1R3JBbUtVNEtMcUN2ejBlbGVyclBScVZtR054ZTBXOGJUZ2tvWTczbDdpanVPcU85OGVYcnRlY0dHZ0ZGX3NrVE0zbEJDSVRhc21iSjY1dThzV2dKVDdPRF80SmU3WkdGQ3RIdzRlQVJWOHVtLTNfdld2al9wWlpzNElQaThqdmxiaWZXeThILXpQX3JmWnRRdmdvX2h2RU1kUF9Ic05TTDRRNS02S0l4WGVYUTFreV9IaS01ZGdKLS0xaDgtUHNYU0dmNmQ4a1d5Wm9Fdw?oc=5\" target=\"_blank\">Alabama Power works to restore outages for 30,000 customers after Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rocketcitynow.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-11T21:21:22+00:00"
+        "collected_at": "2026-10-12T08:25:06+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 105,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "35b2735a6c611205",
         "title": "Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand - Kalkine Media",

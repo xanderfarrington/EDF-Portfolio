@@ -2,10 +2,66 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-12T00:53:36+00:00",
+  "last_updated": "2026-10-12T08:25:06+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 539,
+  "count": 546,
   "mentions": [
+    {
+      "id": "631f7e8761af3cac",
+      "title": "Alabama Power works to restore outages for 30,000 customers after Hurricane Isaias - rocketcitynow.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjVrMEVuM0hRZWtla1Q3Ums3c1B1aDZ2NHA0Nml4Sk1vcG1ScUp4a0I1R3JBbUtVNEtMcUN2ejBlbGVyclBScVZtR054ZTBXOGJUZ2tvWTczbDdpanVPcU85OGVYcnRlY0dHZ0ZGX3NrVE0zbEJDSVRhc21iSjY1dThzV2dKVDdPRF80SmU3WkdGQ3RIdzRlQVJWOHVtLTNfdld2al9wWlpzNElQaThqdmxiaWZXeThILXpQX3JmWnRRdmdvX2h2RU1kUF9Ic05TTDRRNS02S0l4WGVYUTFreV9IaS01ZGdKLS0xaDgtUHNYU0dmNmQ4a1d5Wm9Fdw?oc=5",
+      "domain": "news.google.com",
+      "source": "rocketcitynow.com",
+      "language": "English",
+      "published_at": "2026-10-12T04:41:00+00:00",
+      "summary": "Alabama Power works to restore outages for 30,000 customers after Hurricane Isaias rocketcitynow.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjVrMEVuM0hRZWtla1Q3Ums3c1B1aDZ2NHA0Nml4Sk1vcG1ScUp4a0I1R3JBbUtVNEtMcUN2ejBlbGVyclBScVZtR054ZTBXOGJUZ2tvWTczbDdpanVPcU85OGVYcnRlY0dHZ0ZGX3NrVE0zbEJDSVRhc21iSjY1dThzV2dKVDdPRF80SmU3WkdGQ3RIdzRlQVJWOHVtLTNfdld2al9wWlpzNElQaThqdmxiaWZXeThILXpQX3JmWnRRdmdvX2h2RU1kUF9Ic05TTDRRNS02S0l4WGVYUTFreV9IaS01ZGdKLS0xaDgtUHNYU0dmNmQ4a1d5Wm9Fdw?oc=5\" target=\"_blank\">Alabama Power works to restore outages for 30,000 customers after Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rocketcitynow.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-12T08:25:06+00:00"
+    },
+    {
+      "id": "3c780c56846ed439",
+      "title": "Alabama Power expects to restore 95% of hurricane-related outages by midnight - rocketcitynow.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVkk4b3RMVUtHaGFubngwN0xUakJ0VWpBb1dvYk1QUXVEbUExS2ZLMU1zUDdOTkFMeUgzbzQ0S3RLM295WWp2RzVQWWgxS3Y2NVhfZWYxb0ZBQy1nNHk0SHpGb3EzWXZUZDFaT3hIa0Y3WENzN2hkek9Wc1ZIVzI0THRFdWM4OUt6SXRjU1dNd1B2d1ppV09EbmJ5c2diY01MRVpOZGVYU2RqbDlSaUdrTy1MMzZ1UnZfVjFac1g2YTFhblJRZi1BdFJnWkluaUdTZlZpSmwxcFZYOGxqM09aMU5wRVg0dw?oc=5",
+      "domain": "news.google.com",
+      "source": "rocketcitynow.com",
+      "language": "English",
+      "published_at": "2026-10-12T03:55:00+00:00",
+      "summary": "Alabama Power expects to restore 95% of hurricane-related outages by midnight rocketcitynow.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVkk4b3RMVUtHaGFubngwN0xUakJ0VWpBb1dvYk1QUXVEbUExS2ZLMU1zUDdOTkFMeUgzbzQ0S3RLM295WWp2RzVQWWgxS3Y2NVhfZWYxb0ZBQy1nNHk0SHpGb3EzWXZUZDFaT3hIa0Y3WENzN2hkek9Wc1ZIVzI0THRFdWM4OUt6SXRjU1dNd1B2d1ppV09EbmJ5c2diY01MRVpOZGVYU2RqbDlSaUdrTy1MMzZ1UnZfVjFac1g2YTFhblJRZi1BdFJnWkluaUdTZlZpSmwxcFZYOGxqM09aMU5wRVg0dw?oc=5\" target=\"_blank\">Alabama Power expects to restore 95% of hurricane-related outages by midnight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rocketcitynow.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-12T08:25:06+00:00"
+    },
+    {
+      "id": "864fe72add96db80",
+      "title": "Alabama Power crews work to restore power - rocketcitynow.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVU9BMXdlT3RsV2hiWXE4VVp6MXlLbDlmM1JuTXl2OWFCRkVrMFN2RndRZHUxd3hZSFJ6Z2Zjbzg1RzFqZ0syRGxiLVlla3FrTkZOeFNRUUVfV05RX20xYkpVQV9ONDlMTXV5RWR4cFVjQjhHc1RmejViR1BueHJOaFdKREhpWUUtTXQtZHNjamJ0T1BHNGRwYzhwR3I0YmtxT3ZQRkZVeW5Nck95Z1RrTXBMajRaazJCd0ZVRTcwN2JNcFlmN0Z4MA?oc=5",
+      "domain": "news.google.com",
+      "source": "rocketcitynow.com",
+      "language": "English",
+      "published_at": "2026-10-12T00:56:00+00:00",
+      "summary": "Alabama Power crews work to restore power rocketcitynow.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVU9BMXdlT3RsV2hiWXE4VVp6MXlLbDlmM1JuTXl2OWFCRkVrMFN2RndRZHUxd3hZSFJ6Z2Zjbzg1RzFqZ0syRGxiLVlla3FrTkZOeFNRUUVfV05RX20xYkpVQV9ONDlMTXV5RWR4cFVjQjhHc1RmejViR1BueHJOaFdKREhpWUUtTXQtZHNjamJ0T1BHNGRwYzhwR3I0YmtxT3ZQRkZVeW5Nck95Z1RrTXBMajRaazJCd0ZVRTcwN2JNcFlmN0Z4MA?oc=5\" target=\"_blank\">Alabama Power crews work to restore power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rocketcitynow.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-12T08:25:06+00:00"
+    },
+    {
+      "id": "c71156d569fb994f",
+      "title": "Alabama Power attributes outages in the state’s southern region to extensive tree damage - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXhfVU5rSTN4YV83cXQ3TjFfVTg3T0FyZFRRbm1KR0NTaWt2NnZFaHJsQUtWbGU0dWhsbDZaZ0ZncXVTb1oyQ3hPaG5ReW1uSGRjVkUxMWxBNFRWdlhLQUJ2bzVST3U1REZjcU5odWdqbld5R19Uem5kNi1qOExxdEJYblRNMmE0bkJRQWFxMkVLWHlpam9oN0FsOWhKaTBtVDl0Sw?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-10-11T19:11:44+00:00",
+      "summary": "Alabama Power attributes outages in the state’s southern region to extensive tree damage Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXhfVU5rSTN4YV83cXQ3TjFfVTg3T0FyZFRRbm1KR0NTaWt2NnZFaHJsQUtWbGU0dWhsbDZaZ0ZncXVTb1oyQ3hPaG5ReW1uSGRjVkUxMWxBNFRWdlhLQUJ2bzVST3U1REZjcU5odWdqbld5R19Uem5kNi1qOExxdEJYblRNMmE0bkJRQWFxMkVLWHlpam9oN0FsOWhKaTBtVDl0Sw?oc=5\" target=\"_blank\">Alabama Power attributes outages in the state’s southern region to extensive tree damage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-12T08:25:06+00:00"
+    },
     {
       "id": "9eac0fe3b7f14f9a",
       "title": "Alabama Power attributes outages in the state’s southern region to extensive tree damage - AL.com",
@@ -47,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-11T00:37:09+00:00"
+    },
+    {
+      "id": "ff6b91dda3100875",
+      "title": "More than 267,000 Alabama Power customers lose electricity during Isaias - WSYX",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeE4zYTVmaHhNUlk4R2pMUmhYSWswQlNmaUtBWUNIVzNVU0dna1hsWEplM0gtcXFrVGt4aWtnbGw5OEZwWW03N0ljOTc1emQwX0xoS2VMdFJ5YjMxZ2RYQ19zaWdiMEE0MW5qRW1udFZZU3c0aVlUalRjZFg1dGtuRlotYmh6OGRFZXE0aXJydXVDR1pzUmYtOHgzYnNYcUNKVnkxQjU4ZXhQdUcwcy1IUFh3UkNWQXpaTkV6aWxqS2MwLUxIME9YRHF4aU52Z2RmSG51ZU9vYjBvRHFO?oc=5",
+      "domain": "news.google.com",
+      "source": "WSYX",
+      "language": "English",
+      "published_at": "2026-10-10T21:11:45+00:00",
+      "summary": "More than 267,000 Alabama Power customers lose electricity during Isaias WSYX",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeE4zYTVmaHhNUlk4R2pMUmhYSWswQlNmaUtBWUNIVzNVU0dna1hsWEplM0gtcXFrVGt4aWtnbGw5OEZwWW03N0ljOTc1emQwX0xoS2VMdFJ5YjMxZ2RYQ19zaWdiMEE0MW5qRW1udFZZU3c0aVlUalRjZFg1dGtuRlotYmh6OGRFZXE0aXJydXVDR1pzUmYtOHgzYnNYcUNKVnkxQjU4ZXhQdUcwcy1IUFh3UkNWQXpaTkV6aWxqS2MwLUxIME9YRHF4aU52Z2RmSG51ZU9vYjBvRHFO?oc=5\" target=\"_blank\">More than 267,000 Alabama Power customers lose electricity during Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSYX</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-12T08:25:06+00:00"
     },
     {
       "id": "c15b0799233a8af7",
@@ -161,6 +231,20 @@
       "collected_at": "2026-10-10T20:59:46+00:00"
     },
     {
+      "id": "08c684338d5579cc",
+      "title": "Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway - WPDE",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaTQ4Wi1EdXJ6MlYxV3VPbmVKMXlyY0gybVNvTnl3aHFYRHA4M1BIdFlzSW1KT2JRRFZtV0lwS01MX1VvU3B3ZG4yRXE1am96UUdjMVFDR0J5U1BRTW1zdU9kMkJZUzJfdEtwVFp6N0FLc3JmWTBKYzdSanRRbHNBdHZkTnNUM19RTloyYjBFMFNGZFVsV2FTdkpUQ001TTJlYUc2TXdYcmJmX2t2Y1YzbGNocGFLZW9zbXIydTZFMXcyN2hIVjBCZGNuWnR0UTA?oc=5",
+      "domain": "news.google.com",
+      "source": "WPDE",
+      "language": "English",
+      "published_at": "2026-10-10T16:38:57+00:00",
+      "summary": "Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway WPDE",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOaTQ4Wi1EdXJ6MlYxV3VPbmVKMXlyY0gybVNvTnl3aHFYRHA4M1BIdFlzSW1KT2JRRFZtV0lwS01MX1VvU3B3ZG4yRXE1am96UUdjMVFDR0J5U1BRTW1zdU9kMkJZUzJfdEtwVFp6N0FLc3JmWTBKYzdSanRRbHNBdHZkTnNUM19RTloyYjBFMFNGZFVsV2FTdkpUQ001TTJlYUc2TXdYcmJmX2t2Y1YzbGNocGFLZW9zbXIydTZFMXcyN2hIVjBCZGNuWnR0UTA?oc=5\" target=\"_blank\">Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPDE</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-12T08:25:06+00:00"
+    },
+    {
       "id": "c06e09eb49ef2538",
       "title": "Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway - KOKI FOX 23",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVjVqRVV4RjM0d2IzLV9uNjlNY2NTUVlwZXFYVjhRU1Y4eUhsVXJXQnY2cjdEQ1lfYzhOZnNmN295VDFVR25pSEgyUEItMDFEcE41a3VBUERjdjZpZTBLU0VMZ3NMb3JyX0p5YUt1WkJMZlVlVEtBLWJnaFBjV193d0FDSWpRUExyOV9RT1BTWGVTVFdvZG15Q3dyaG1DaGdGTFRVaGR4YVBoTUNVQmc5TGFSS1NFMFBvVFpVOV9vV2owZzZ3WkdrLUdEclRVVVFtQm1pbF93?oc=5",
@@ -229,6 +313,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-10T16:46:21+00:00"
+    },
+    {
+      "id": "1200f5e94ebfd221",
+      "title": "Alabama power outage update: 310,000 without power after Isaias - Bradenton Herald",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lVkZLQXpMVE9kR2lfUDhPdm9vM2ZnXy00WGxiQUFqMUdyMzNCMmUyc0hoSFF0ZWdKdThvbER0Ml85VXcxc0xHQU1QZE1zYjZNVU95MVRPUHdqLUtpYlhqaU9HcmpkazZYeGp0SmFFRzlwM3JqUWVCdWtDSnZId2M?oc=5",
+      "domain": "news.google.com",
+      "source": "Bradenton Herald",
+      "language": "English",
+      "published_at": "2026-10-10T13:22:00+00:00",
+      "summary": "Alabama power outage update: 310,000 without power after Isaias Bradenton Herald",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1lVkZLQXpMVE9kR2lfUDhPdm9vM2ZnXy00WGxiQUFqMUdyMzNCMmUyc0hoSFF0ZWdKdThvbER0Ml85VXcxc0xHQU1QZE1zYjZNVU95MVRPUHdqLUtpYlhqaU9HcmpkazZYeGp0SmFFRzlwM3JqUWVCdWtDSnZId2M?oc=5\" target=\"_blank\">Alabama power outage update: 310,000 without power after Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bradenton Herald</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-12T08:25:06+00:00"
     },
     {
       "id": "f9bd6900bbf71b92",
