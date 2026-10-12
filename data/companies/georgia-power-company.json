@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-11T21:21:38+00:00",
+  "last_updated": "2026-10-12T00:53:53+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 951,
+  "count": 953,
   "mentions": [
+    {
+      "id": "fb676e5e449ad0d6",
+      "title": "Sunday evening weather forecast - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vTERFYXE3RkZROURqdEljemduQi1yaU1NcDF6UlhPaW9BZ0JnN0pGd2JGU1R0Yk5veGtiUmxPU2pOejdRM2NtZVpXdXVOWFRoNWZweW12aHBJNk4tbG13U1lLQTnSAWpBVV95cUxOTEtRM3g0M1E0Y2pZczFxZ2xFSDJodU9oTFF1bC1DSVRRVlJ3VXlVeTZpS21fS0JfaUZkNWFvakE5dENJOTl1TXRXUU5hQXloN0FTZTEzVGhBMGxhcjE1ZFlZc1FnOEtoaG5n?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX 5 Atlanta",
+      "language": "English",
+      "published_at": "2026-10-11T22:41:30+00:00",
+      "summary": "Sunday evening weather forecast FOX 5 Atlanta",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vTERFYXE3RkZROURqdEljemduQi1yaU1NcDF6UlhPaW9BZ0JnN0pGd2JGU1R0Yk5veGtiUmxPU2pOejdRM2NtZVpXdXVOWFRoNWZweW12aHBJNk4tbG13U1lLQTnSAWpBVV95cUxOTEtRM3g0M1E0Y2pZczFxZ2xFSDJodU9oTFF1bC1DSVRRVlJ3VXlVeTZpS21fS0JfaUZkNWFvakE5dENJOTl1TXRXUU5hQXloN0FTZTEzVGhBMGxhcjE1ZFlZc1FnOEtoaG5n?oc=5\" target=\"_blank\">Sunday evening weather forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-12T00:53:53+00:00"
+    },
     {
       "id": "df1676ec5e8221e2",
       "title": "Georgia candidates clash over campaign ad - FOX 5 Atlanta",
@@ -117,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-11T08:08:20+00:00"
+    },
+    {
+      "id": "bcf24ce8056265f6",
+      "title": "Georgia Power restores power to 80,000 customers after Isaias brings high winds, fallen trees - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTEhleGVNZ2ZfYUUzcjJTNVkwc3lTdW9SOGs3eld6eVFmSzBfN05Odk16MFkxWERNc3ZrYWVrZ3dxQ09pTlp4ZkhrX1hkclF3TFhjQ2VyT09KWldnM3Bna3FrYXdYbXBiNC1pVlNTYjBEUjlvemMtbjc2MnhZQjNKcE5nalZ4dFVOcG9UOC1KRWMtQnVHcm5vd0Fqd1kxWlh1VGZCYVZRLUh5YjVLazJ2b2FieHh6a3BzaUYyb2pWUkhOLU9aY1ZaQ002TS1FQdIB4gFBVV95cUxONDN0SExJNTlmcDI1ZHJIazRNT1dIUkl3d3pYYU5DYi1adDU5dG9mMXp5NXYwYkNxeVFTYkQ1dnZnYVl4QU1sYmVpbG9wTGxLZU5WeC1yQk43LUdDQ3B1TUlHX3MtV0V5RkZrelU0OGVRSkpoNmRObGZEMU5wckpkc2JXdExzNHQzaUx1VC04c1dDd01PSng1WVRJUnJBa1c2X2JVOHhON3NONG9Qd19tZDhKcWJ5X2RnVjA2ZG93TmJTSUwzbTFYNjRaX1llXzIzdU1hNy1SSGc4QmU3LVRKQUpB?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-10-11T01:36:00+00:00",
+      "summary": "Georgia Power restores power to 80,000 customers after Isaias brings high winds, fallen trees Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOTEhleGVNZ2ZfYUUzcjJTNVkwc3lTdW9SOGs3eld6eVFmSzBfN05Odk16MFkxWERNc3ZrYWVrZ3dxQ09pTlp4ZkhrX1hkclF3TFhjQ2VyT09KWldnM3Bna3FrYXdYbXBiNC1pVlNTYjBEUjlvemMtbjc2MnhZQjNKcE5nalZ4dFVOcG9UOC1KRWMtQnVHcm5vd0Fqd1kxWlh1VGZCYVZRLUh5YjVLazJ2b2FieHh6a3BzaUYyb2pWUkhOLU9aY1ZaQ002TS1FQdIB4gFBVV95cUxONDN0SExJNTlmcDI1ZHJIazRNT1dIUkl3d3pYYU5DYi1adDU5dG9mMXp5NXYwYkNxeVFTYkQ1dnZnYVl4QU1sYmVpbG9wTGxLZU5WeC1yQk43LUdDQ3B1TUlHX3MtV0V5RkZrelU0OGVRSkpoNmRObGZEMU5wckpkc2JXdExzNHQzaUx1VC04c1dDd01PSng1WVRJUnJBa1c2X2JVOHhON3NONG9Qd19tZDhKcWJ5X2RnVjA2ZG93TmJTSUwzbTFYNjRaX1llXzIzdU1hNy1SSGc4QmU3LVRKQUpB?oc=5\" target=\"_blank\">Georgia Power restores power to 80,000 customers after Isaias brings high winds, fallen trees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-12T00:53:53+00:00"
     },
     {
       "id": "eb1a23633ccfff6b",

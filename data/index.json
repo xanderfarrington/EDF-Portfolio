@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T21:21:49+00:00",
+  "last_updated": "2026-10-12T00:54:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 951,
+      "count": 953,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "df1676ec5e8221e2",
-        "title": "Georgia candidates clash over campaign ad - FOX 5 Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qVEJqMjhwaHo3bmM5U2l2engtUENNaFFFQkp2LVFrYnV6NUJiR2FhXzJrTHYxU205eWxUVGZySnVGU1JheWtQNXBHV2hqX2RvbDB6S3QzZjVDSzM2R2w5QWlqUkrSAWpBVV95cUxPYkxmeVViTEtOcGdnMGhwUWlHanlVSldkS01RN1JqVVdoS01HazhidkpxLWZLdVJrcGFacGlWSV9Dbk5jTUJGZG9WZkRFUFYxQXBXR0J4bjN0dFlkemRLZGFLRUowZHdtSTJ3?oc=5",
+        "id": "fb676e5e449ad0d6",
+        "title": "Sunday evening weather forecast - FOX 5 Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vTERFYXE3RkZROURqdEljemduQi1yaU1NcDF6UlhPaW9BZ0JnN0pGd2JGU1R0Yk5veGtiUmxPU2pOejdRM2NtZVpXdXVOWFRoNWZweW12aHBJNk4tbG13U1lLQTnSAWpBVV95cUxOTEtRM3g0M1E0Y2pZczFxZ2xFSDJodU9oTFF1bC1DSVRRVlJ3VXlVeTZpS21fS0JfaUZkNWFvakE5dENJOTl1TXRXUU5hQXloN0FTZTEzVGhBMGxhcjE1ZFlZc1FnOEtoaG5n?oc=5",
         "domain": "news.google.com",
         "source": "FOX 5 Atlanta",
         "language": "English",
-        "published_at": "2026-10-11T18:28:12+00:00",
-        "summary": "Georgia candidates clash over campaign ad FOX 5 Atlanta",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qVEJqMjhwaHo3bmM5U2l2engtUENNaFFFQkp2LVFrYnV6NUJiR2FhXzJrTHYxU205eWxUVGZySnVGU1JheWtQNXBHV2hqX2RvbDB6S3QzZjVDSzM2R2w5QWlqUkrSAWpBVV95cUxPYkxmeVViTEtOcGdnMGhwUWlHanlVSldkS01RN1JqVVdoS01HazhidkpxLWZLdVJrcGFacGlWSV9Dbk5jTUJGZG9WZkRFUFYxQXBXR0J4bjN0dFlkemRLZGFLRUowZHdtSTJ3?oc=5\" target=\"_blank\">Georgia candidates clash over campaign ad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+        "published_at": "2026-10-11T22:41:30+00:00",
+        "summary": "Sunday evening weather forecast FOX 5 Atlanta",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vTERFYXE3RkZROURqdEljemduQi1yaU1NcDF6UlhPaW9BZ0JnN0pGd2JGU1R0Yk5veGtiUmxPU2pOejdRM2NtZVpXdXVOWFRoNWZweW12aHBJNk4tbG13U1lLQTnSAWpBVV95cUxOTEtRM3g0M1E0Y2pZczFxZ2xFSDJodU9oTFF1bC1DSVRRVlJ3VXlVeTZpS21fS0JfaUZkNWFvakE5dENJOTl1TXRXUU5hQXloN0FTZTEzVGhBMGxhcjE1ZFlZc1FnOEtoaG5n?oc=5\" target=\"_blank\">Sunday evening weather forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-11T21:21:38+00:00"
+        "collected_at": "2026-10-12T00:53:53+00:00"
       }
     },
     {
