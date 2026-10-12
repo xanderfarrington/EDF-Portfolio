@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T08:25:34+00:00",
+  "last_updated": "2026-10-12T19:33:47+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 546,
+      "count": 550,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "631f7e8761af3cac",
-        "title": "Alabama Power works to restore outages for 30,000 customers after Hurricane Isaias - rocketcitynow.com",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjVrMEVuM0hRZWtla1Q3Ums3c1B1aDZ2NHA0Nml4Sk1vcG1ScUp4a0I1R3JBbUtVNEtMcUN2ejBlbGVyclBScVZtR054ZTBXOGJUZ2tvWTczbDdpanVPcU85OGVYcnRlY0dHZ0ZGX3NrVE0zbEJDSVRhc21iSjY1dThzV2dKVDdPRF80SmU3WkdGQ3RIdzRlQVJWOHVtLTNfdld2al9wWlpzNElQaThqdmxiaWZXeThILXpQX3JmWnRRdmdvX2h2RU1kUF9Ic05TTDRRNS02S0l4WGVYUTFreV9IaS01ZGdKLS0xaDgtUHNYU0dmNmQ4a1d5Wm9Fdw?oc=5",
+        "id": "e9af6ba536bc69c7",
+        "title": "Where is power still out in Alabama? Track on map after Isaias - Montgomery Advertiser",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRzBXdUhjZjRvU3ZicmF3WXY0NWhibkxhbHg5Y1NJbW9wODhTZjdFSmpXcktUQWllT01GMHBpNEU2S3JYcUZtaDQyajhoZDQwdU9McG1CQndtZG9NMzlSN2hLRFdRemVkLXEwWlhfSndiZVNLUjJaLXhHcExIUUxCb1dCejdnNjhyZmNuVU9JTXNxSEc5QU1kaUVUa21PMTlPMlhsSURiZGhfcUdxamRMQXZPaG9SZUllOXRLNTZaRm1MeFpQVDd1NHgzQU5JcXFvQU9JUE85cmx4b05TUWlpd09IYUF6N3laZ0E?oc=5",
         "domain": "news.google.com",
-        "source": "rocketcitynow.com",
+        "source": "Montgomery Advertiser",
         "language": "English",
-        "published_at": "2026-10-12T04:41:00+00:00",
-        "summary": "Alabama Power works to restore outages for 30,000 customers after Hurricane Isaias rocketcitynow.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjVrMEVuM0hRZWtla1Q3Ums3c1B1aDZ2NHA0Nml4Sk1vcG1ScUp4a0I1R3JBbUtVNEtMcUN2ejBlbGVyclBScVZtR054ZTBXOGJUZ2tvWTczbDdpanVPcU85OGVYcnRlY0dHZ0ZGX3NrVE0zbEJDSVRhc21iSjY1dThzV2dKVDdPRF80SmU3WkdGQ3RIdzRlQVJWOHVtLTNfdld2al9wWlpzNElQaThqdmxiaWZXeThILXpQX3JmWnRRdmdvX2h2RU1kUF9Ic05TTDRRNS02S0l4WGVYUTFreV9IaS01ZGdKLS0xaDgtUHNYU0dmNmQ4a1d5Wm9Fdw?oc=5\" target=\"_blank\">Alabama Power works to restore outages for 30,000 customers after Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rocketcitynow.com</font>",
+        "published_at": "2026-10-12T15:10:00+00:00",
+        "summary": "Where is power still out in Alabama? Track on map after Isaias Montgomery Advertiser",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRzBXdUhjZjRvU3ZicmF3WXY0NWhibkxhbHg5Y1NJbW9wODhTZjdFSmpXcktUQWllT01GMHBpNEU2S3JYcUZtaDQyajhoZDQwdU9McG1CQndtZG9NMzlSN2hLRFdRemVkLXEwWlhfSndiZVNLUjJaLXhHcExIUUxCb1dCejdnNjhyZmNuVU9JTXNxSEc5QU1kaUVUa21PMTlPMlhsSURiZGhfcUdxamRMQXZPaG9SZUllOXRLNTZaRm1MeFpQVDd1NHgzQU5JcXFvQU9JUE85cmx4b05TUWlpd09IYUF6N3laZ0E?oc=5\" target=\"_blank\">Where is power still out in Alabama? Track on map after Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Montgomery Advertiser</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-12T08:25:06+00:00"
+        "collected_at": "2026-10-12T19:33:20+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 953,
-      "new_mentions_this_run": 23,
+      "count": 956,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "fb676e5e449ad0d6",
-        "title": "Sunday evening weather forecast - FOX 5 Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vTERFYXE3RkZROURqdEljemduQi1yaU1NcDF6UlhPaW9BZ0JnN0pGd2JGU1R0Yk5veGtiUmxPU2pOejdRM2NtZVpXdXVOWFRoNWZweW12aHBJNk4tbG13U1lLQTnSAWpBVV95cUxOTEtRM3g0M1E0Y2pZczFxZ2xFSDJodU9oTFF1bC1DSVRRVlJ3VXlVeTZpS21fS0JfaUZkNWFvakE5dENJOTl1TXRXUU5hQXloN0FTZTEzVGhBMGxhcjE1ZFlZc1FnOEtoaG5n?oc=5",
+        "id": "c28b2b1920663cc7",
+        "title": "Georgia Power shares tips to help customers lower fall and winter energy bills - WFXG",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNVJyN2V0WURJUG5rM0pRdTdQTnl6ZEJiaUlLWWdBSUVGMW5mS2hMVWFaUDN1Ykd3cHJFQmNWUnk2SUVvaVRJWGoyTFZXR0w3ZWZyVDY0Z1Bfc3BnRUU2STB5UVhmc2tIVkVuQkxRcHM5Wmo0bXdBQWRJRi00eHBDa0lhLUJxOUtfNVBneEpEYW0tV2w4b0k1R1dON1BMMFVHdG9MdXBIZkpNdVpiNjk0LVhqZkJ5emQ4RXZibnpkSHlEY2FNQjh5RWJLWlpfeUxnd0UtSlp5aGlKY2hBdGVBVzlkSGxsdWJsdVloY2Qxc18?oc=5",
         "domain": "news.google.com",
-        "source": "FOX 5 Atlanta",
+        "source": "WFXG",
         "language": "English",
-        "published_at": "2026-10-11T22:41:30+00:00",
-        "summary": "Sunday evening weather forecast FOX 5 Atlanta",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vTERFYXE3RkZROURqdEljemduQi1yaU1NcDF6UlhPaW9BZ0JnN0pGd2JGU1R0Yk5veGtiUmxPU2pOejdRM2NtZVpXdXVOWFRoNWZweW12aHBJNk4tbG13U1lLQTnSAWpBVV95cUxOTEtRM3g0M1E0Y2pZczFxZ2xFSDJodU9oTFF1bC1DSVRRVlJ3VXlVeTZpS21fS0JfaUZkNWFvakE5dENJOTl1TXRXUU5hQXloN0FTZTEzVGhBMGxhcjE1ZFlZc1FnOEtoaG5n?oc=5\" target=\"_blank\">Sunday evening weather forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+        "published_at": "2026-10-12T19:22:00+00:00",
+        "summary": "Georgia Power shares tips to help customers lower fall and winter energy bills WFXG",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNVJyN2V0WURJUG5rM0pRdTdQTnl6ZEJiaUlLWWdBSUVGMW5mS2hMVWFaUDN1Ykd3cHJFQmNWUnk2SUVvaVRJWGoyTFZXR0w3ZWZyVDY0Z1Bfc3BnRUU2STB5UVhmc2tIVkVuQkxRcHM5Wmo0bXdBQWRJRi00eHBDa0lhLUJxOUtfNVBneEpEYW0tV2w4b0k1R1dON1BMMFVHdG9MdXBIZkpNdVpiNjk0LVhqZkJ5emQ4RXZibnpkSHlEY2FNQjh5RWJLWlpfeUxnd0UtSlp5aGlKY2hBdGVBVzlkSGxsdWJsdVloY2Qxc18?oc=5\" target=\"_blank\">Georgia Power shares tips to help customers lower fall and winter energy bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFXG</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-12T00:53:53+00:00"
+        "collected_at": "2026-10-12T19:33:36+00:00"
       }
     },
     {

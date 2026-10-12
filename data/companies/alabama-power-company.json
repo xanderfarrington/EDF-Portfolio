@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-12T08:25:06+00:00",
+  "last_updated": "2026-10-12T19:33:20+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 546,
+  "count": 550,
   "mentions": [
+    {
+      "id": "e9af6ba536bc69c7",
+      "title": "Where is power still out in Alabama? Track on map after Isaias - Montgomery Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRzBXdUhjZjRvU3ZicmF3WXY0NWhibkxhbHg5Y1NJbW9wODhTZjdFSmpXcktUQWllT01GMHBpNEU2S3JYcUZtaDQyajhoZDQwdU9McG1CQndtZG9NMzlSN2hLRFdRemVkLXEwWlhfSndiZVNLUjJaLXhHcExIUUxCb1dCejdnNjhyZmNuVU9JTXNxSEc5QU1kaUVUa21PMTlPMlhsSURiZGhfcUdxamRMQXZPaG9SZUllOXRLNTZaRm1MeFpQVDd1NHgzQU5JcXFvQU9JUE85cmx4b05TUWlpd09IYUF6N3laZ0E?oc=5",
+      "domain": "news.google.com",
+      "source": "Montgomery Advertiser",
+      "language": "English",
+      "published_at": "2026-10-12T15:10:00+00:00",
+      "summary": "Where is power still out in Alabama? Track on map after Isaias Montgomery Advertiser",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRzBXdUhjZjRvU3ZicmF3WXY0NWhibkxhbHg5Y1NJbW9wODhTZjdFSmpXcktUQWllT01GMHBpNEU2S3JYcUZtaDQyajhoZDQwdU9McG1CQndtZG9NMzlSN2hLRFdRemVkLXEwWlhfSndiZVNLUjJaLXhHcExIUUxCb1dCejdnNjhyZmNuVU9JTXNxSEc5QU1kaUVUa21PMTlPMlhsSURiZGhfcUdxamRMQXZPaG9SZUllOXRLNTZaRm1MeFpQVDd1NHgzQU5JcXFvQU9JUE85cmx4b05TUWlpd09IYUF6N3laZ0E?oc=5\" target=\"_blank\">Where is power still out in Alabama? Track on map after Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Montgomery Advertiser</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-12T19:33:20+00:00"
+    },
     {
       "id": "631f7e8761af3cac",
       "title": "Alabama Power works to restore outages for 30,000 customers after Hurricane Isaias - rocketcitynow.com",
@@ -91,6 +105,20 @@
       "collected_at": "2026-10-11T21:21:22+00:00"
     },
     {
+      "id": "a6f635f6c96d3a5e",
+      "title": "More than 267,000 Alabama Power customers lose electricity during Isaias - KGAN",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2RnQVJveENLcjZ6UURva09NMWhZYVNDd0JtVm01ekFsUWsyV0ZFTTQ4Nm1WMk9CWnRvR2t3cGVGYjk4dWJjWGNRRXlpMlY2N0dhSC1tYm9LQ1JXTG92WXgwWWRjX2sxYTJtS2xERHpSNDF4a2Mydk5mMmNZam9VTm5mb1pXbTFRSHdNNHpfbk9fcm1zWnlTcXRhMTdNYm0xdkIxY0hZY0x0MzNwNGZ4NmtfTlR4YTgtMTNPN1djVW9FWk1BVkF4ZFNsTzFGLUo1MklJaQ?oc=5",
+      "domain": "news.google.com",
+      "source": "KGAN",
+      "language": "English",
+      "published_at": "2026-10-11T04:38:28+00:00",
+      "summary": "More than 267,000 Alabama Power customers lose electricity during Isaias KGAN",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2RnQVJveENLcjZ6UURva09NMWhZYVNDd0JtVm01ekFsUWsyV0ZFTTQ4Nm1WMk9CWnRvR2t3cGVGYjk4dWJjWGNRRXlpMlY2N0dhSC1tYm9LQ1JXTG92WXgwWWRjX2sxYTJtS2xERHpSNDF4a2Mydk5mMmNZam9VTm5mb1pXbTFRSHdNNHpfbk9fcm1zWnlTcXRhMTdNYm0xdkIxY0hZY0x0MzNwNGZ4NmtfTlR4YTgtMTNPN1djVW9FWk1BVkF4ZFNsTzFGLUo1MklJaQ?oc=5\" target=\"_blank\">More than 267,000 Alabama Power customers lose electricity during Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KGAN</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-12T19:33:20+00:00"
+    },
+    {
       "id": "270f98e902f46993",
       "title": "LIVE UPDATES: Track power outages as Isaias impacts Alabama - wvtm",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMGRhWFVkQ1ZFTkJ3ZWh4M2Z6UTJuVGdEQWpSS2FsTERFVm1ZZkNjakZWWDhJWDRfdVJFTmUzTC02aUFYMTR2NlFJcjdqZDdyR3dYMjNfcm8zOUhnYmpnbXRsZXdOclp2cVhYTUx3eU1XUVU3Q3dwcWNWT1RZcGE5dHAwcjF3cTBKT1IzY0E1amI4MDlnQ2c?oc=5",
@@ -131,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-10T20:59:46+00:00"
+    },
+    {
+      "id": "f407f504d36039f7",
+      "title": "More than 267,000 Alabama Power customers lose electricity during Isaias - wtvcfox",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORzQtMzNmSlhKTHo3dXBVbUN4T0U5WEh2SUIwOXlKOERmVmNjdEFtWU9JTVZGQkN5UzVrV2cwbnd3dTFKTDBsRUs1ZE1wNlJrS1dsdFNlQ0RxcVNDS3ZKXy1SS2dtR1pwdEV0UXBwY0JaZEVlTS1IQ1hDU3MxZEJCbHVnUDZtdEw3YTl4S0RwcXk0N0NFTkVlZ2RpT1ZqaWxMUWxGYUZ5dnB2OTgycUV0TVNRNDgzVU02MF8ycXVKOGlHbjZZZWRqeVlBOXBmY0RvX3Aw?oc=5",
+      "domain": "news.google.com",
+      "source": "wtvcfox",
+      "language": "English",
+      "published_at": "2026-10-10T17:29:13+00:00",
+      "summary": "More than 267,000 Alabama Power customers lose electricity during Isaias wtvcfox",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxORzQtMzNmSlhKTHo3dXBVbUN4T0U5WEh2SUIwOXlKOERmVmNjdEFtWU9JTVZGQkN5UzVrV2cwbnd3dTFKTDBsRUs1ZE1wNlJrS1dsdFNlQ0RxcVNDS3ZKXy1SS2dtR1pwdEV0UXBwY0JaZEVlTS1IQ1hDU3MxZEJCbHVnUDZtdEw3YTl4S0RwcXk0N0NFTkVlZ2RpT1ZqaWxMUWxGYUZ5dnB2OTgycUV0TVNRNDgzVU02MF8ycXVKOGlHbjZZZWRqeVlBOXBmY0RvX3Aw?oc=5\" target=\"_blank\">More than 267,000 Alabama Power customers lose electricity during Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wtvcfox</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-12T19:33:20+00:00"
     },
     {
       "id": "93f7f1540387e695",
@@ -327,6 +369,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-12T08:25:06+00:00"
+    },
+    {
+      "id": "4f5d198d3d2b9927",
+      "title": "Alabama power outage update: 310,000 without power after Isaias - Sun Herald",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kSThVb0E3Umw3WThaQ0g2cDNPRUFnWkZjWWgzQlMwRk1vZ3Y3eG1tRmFTNjFZRU9kYXJ4R01RN21pYkJBTHRlQVJaLUdrbTViSTFVUk1ZczVITlRaLXdGUlRNQkY5MzNrVlJwOFdiWGRZbFY3SHR1RFZabjRmOUE?oc=5",
+      "domain": "news.google.com",
+      "source": "Sun Herald",
+      "language": "English",
+      "published_at": "2026-10-10T13:22:00+00:00",
+      "summary": "Alabama power outage update: 310,000 without power after Isaias Sun Herald",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1kSThVb0E3Umw3WThaQ0g2cDNPRUFnWkZjWWgzQlMwRk1vZ3Y3eG1tRmFTNjFZRU9kYXJ4R01RN21pYkJBTHRlQVJaLUdrbTViSTFVUk1ZczVITlRaLXdGUlRNQkY5MzNrVlJwOFdiWGRZbFY3SHR1RFZabjRmOUE?oc=5\" target=\"_blank\">Alabama power outage update: 310,000 without power after Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sun Herald</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-12T19:33:20+00:00"
     },
     {
       "id": "f9bd6900bbf71b92",
