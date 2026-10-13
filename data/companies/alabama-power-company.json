@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-13T17:17:34+00:00",
+  "last_updated": "2026-10-13T22:10:26+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 554,
+  "count": 555,
   "mentions": [
     {
       "id": "aa92a78294b2b987",
@@ -649,6 +649,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-09T22:06:45+00:00"
+    },
+    {
+      "id": "31e0723bdeab2430",
+      "title": "Alabama Power, Red Cross prepare for potential Hurricane Isaias impacts - WKRG",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOTVKUUxHSzRuT2RmZHMyd1ZMLU83T1k4SDd4a1R0bUFFamlCZXJ4dUlLTFlkYlJQRnFnZzgwUUc1T1lHY2d0UHJaM0V5NGhsMDdDWUdsamJKR20taG42YnUtNml0OC1lX2draWd0M0UtTHVabEhoVFVnNS1RVElwaUVhZ19BNzhmSGRjWndwSEltUXZsNU1Sb3k5Vk9Qc3lJ0gGmAUFVX3lxTFBXMmRHRWw2d2xKQmVlMmlsSTJZbUktODV5REhEaEJTcWJTU05GZzNBRTdoQ2kxbHUxODhfelh0TnpCZ2ZDbTQ2VS1lczVYald4cmVaWGNZNm40RXVqRjUtLUtUSnBPdThjUG5Za3hwMXduSGRsQjBpQ2RsSHVyX29BbWNmeW12R2p6Sjcxc0NXb1NFNTI0M2NYV2RVV0t4R2Y1dlQ0emc?oc=5",
+      "domain": "news.google.com",
+      "source": "WKRG",
+      "language": "English",
+      "published_at": "2026-10-09T18:41:48+00:00",
+      "summary": "Alabama Power, Red Cross prepare for potential Hurricane Isaias impacts WKRG",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPOTVKUUxHSzRuT2RmZHMyd1ZMLU83T1k4SDd4a1R0bUFFamlCZXJ4dUlLTFlkYlJQRnFnZzgwUUc1T1lHY2d0UHJaM0V5NGhsMDdDWUdsamJKR20taG42YnUtNml0OC1lX2draWd0M0UtTHVabEhoVFVnNS1RVElwaUVhZ19BNzhmSGRjWndwSEltUXZsNU1Sb3k5Vk9Qc3lJ0gGmAUFVX3lxTFBXMmRHRWw2d2xKQmVlMmlsSTJZbUktODV5REhEaEJTcWJTU05GZzNBRTdoQ2kxbHUxODhfelh0TnpCZ2ZDbTQ2VS1lczVYald4cmVaWGNZNm40RXVqRjUtLUtUSnBPdThjUG5Za3hwMXduSGRsQjBpQ2RsSHVyX29BbWNmeW12R2p6Sjcxc0NXb1NFNTI0M2NYV2RVV0t4R2Y1dlQ0emc?oc=5\" target=\"_blank\">Alabama Power, Red Cross prepare for potential Hurricane Isaias impacts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKRG</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-13T22:10:26+00:00"
     },
     {
       "id": "5abc7b5a8c8ca374",
