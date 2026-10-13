@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T01:45:56+00:00",
+  "last_updated": "2026-10-13T08:49:57+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 551,
+      "count": 553,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "3fff3502b3caef3e",
-        "title": "Alabama Power customer information accessed by cybersecurity breach - The Auburn Plainsman",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGxzSlJPMlFkUjZ2aHM1TXluRVF0cDdnbVpsa2lrbklYcE5MZEFkdjZ5VlNUcVVKWTVRNDNtV2RRTHRLcjVUbmhYXzNNcnJXamFqRy1KTVV4N0Q3bjFYbkg1WUZ6UVVyLWVzNGFrbUpTTXBsNVNiMjIzQlBDZmtCOXhMYzk0Y3gydGRiSW90amtlUk1hcHIxcW5RWHUtNUl6cm4tT3c2MkNWc3RFa1VGdXBvcw?oc=5",
+        "id": "aa92a78294b2b987",
+        "title": "Alabama Power outage update - fox10tv.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BT0ZjdVBIMXJtT2xXMmFQamFLN21xbk8xVDVENnlRU2dmWFNSNVhXRy1qLWc5R24zNXJMSHUzX3V1Vkl1bXViaFdWRUZjY0dXbmlWSkRVOEF2Rm1LbUtnNFJDSy13bnowN3pvRHFZMlJYb3U1dFlqOQ?oc=5",
         "domain": "news.google.com",
-        "source": "The Auburn Plainsman",
+        "source": "fox10tv.com",
         "language": "English",
-        "published_at": "2026-10-12T20:33:16+00:00",
-        "summary": "Alabama Power customer information accessed by cybersecurity breach The Auburn Plainsman",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGxzSlJPMlFkUjZ2aHM1TXluRVF0cDdnbVpsa2lrbklYcE5MZEFkdjZ5VlNUcVVKWTVRNDNtV2RRTHRLcjVUbmhYXzNNcnJXamFqRy1KTVV4N0Q3bjFYbkg1WUZ6UVVyLWVzNGFrbUpTTXBsNVNiMjIzQlBDZmtCOXhMYzk0Y3gydGRiSW90amtlUk1hcHIxcW5RWHUtNUl6cm4tT3c2MkNWc3RFa1VGdXBvcw?oc=5\" target=\"_blank\">Alabama Power customer information accessed by cybersecurity breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Auburn Plainsman</font>",
+        "published_at": "2026-10-13T03:21:00+00:00",
+        "summary": "Alabama Power outage update fox10tv.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5BT0ZjdVBIMXJtT2xXMmFQamFLN21xbk8xVDVENnlRU2dmWFNSNVhXRy1qLWc5R24zNXJMSHUzX3V1Vkl1bXViaFdWRUZjY0dXbmlWSkRVOEF2Rm1LbUtnNFJDSy13bnowN3pvRHFZMlJYb3U1dFlqOQ?oc=5\" target=\"_blank\">Alabama Power outage update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-13T01:45:28+00:00"
+        "collected_at": "2026-10-13T08:49:30+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 957,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "c28b2b1920663cc7",
         "title": "Georgia Power shares tips to help customers lower fall and winter energy bills - WFXG",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",

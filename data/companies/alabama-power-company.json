@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-13T01:45:28+00:00",
+  "last_updated": "2026-10-13T08:49:30+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 551,
+  "count": 553,
   "mentions": [
+    {
+      "id": "aa92a78294b2b987",
+      "title": "Alabama Power outage update - fox10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BT0ZjdVBIMXJtT2xXMmFQamFLN21xbk8xVDVENnlRU2dmWFNSNVhXRy1qLWc5R24zNXJMSHUzX3V1Vkl1bXViaFdWRUZjY0dXbmlWSkRVOEF2Rm1LbUtnNFJDSy13bnowN3pvRHFZMlJYb3U1dFlqOQ?oc=5",
+      "domain": "news.google.com",
+      "source": "fox10tv.com",
+      "language": "English",
+      "published_at": "2026-10-13T03:21:00+00:00",
+      "summary": "Alabama Power outage update fox10tv.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5BT0ZjdVBIMXJtT2xXMmFQamFLN21xbk8xVDVENnlRU2dmWFNSNVhXRy1qLWc5R24zNXJMSHUzX3V1Vkl1bXViaFdWRUZjY0dXbmlWSkRVOEF2Rm1LbUtnNFJDSy13bnowN3pvRHFZMlJYb3U1dFlqOQ?oc=5\" target=\"_blank\">Alabama Power outage update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-13T08:49:30+00:00"
+    },
     {
       "id": "3fff3502b3caef3e",
       "title": "Alabama Power customer information accessed by cybersecurity breach - The Auburn Plainsman",
@@ -243,6 +257,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-10T20:59:46+00:00"
+    },
+    {
+      "id": "529f1779a74d8846",
+      "title": "More than 267,000 Alabama Power customers lose electricity during Isaias - WCIV",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa3dZRUktSVo4U25QV0F1WGg0eWd5TFBKOTRxdlFUazNMVUpKRElFOUQ4cktqQWh5MjRPNm5Pa1R2R3RQTjZzRnNGTm9NeXRNeXA4c2tHcUk4LVVtZmJiUERnUE1FYzYza05ibzF3bks0VkJZZkpNSmo5Wm9RaFp4OUVOTFI4bWFRYnlEVThjc1FZT1R5SzEzSTI4dkc0ckpxVy1ReDMyOVpaYXJOaHFUeGpkc2ZpX3RwUDRNRjNhSHQtRkFQdzFRbzVUbklfdzd1QnJaWQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WCIV",
+      "language": "English",
+      "published_at": "2026-10-10T16:43:34+00:00",
+      "summary": "More than 267,000 Alabama Power customers lose electricity during Isaias WCIV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa3dZRUktSVo4U25QV0F1WGg0eWd5TFBKOTRxdlFUazNMVUpKRElFOUQ4cktqQWh5MjRPNm5Pa1R2R3RQTjZzRnNGTm9NeXRNeXA4c2tHcUk4LVVtZmJiUERnUE1FYzYza05ibzF3bks0VkJZZkpNSmo5Wm9RaFp4OUVOTFI4bWFRYnlEVThjc1FZT1R5SzEzSTI4dkc0ckpxVy1ReDMyOVpaYXJOaHFUeGpkc2ZpX3RwUDRNRjNhSHQtRkFQdzFRbzVUbklfdzd1QnJaWQ?oc=5\" target=\"_blank\">More than 267,000 Alabama Power customers lose electricity during Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCIV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-13T08:49:30+00:00"
     },
     {
       "id": "bafc168e98d31efd",
