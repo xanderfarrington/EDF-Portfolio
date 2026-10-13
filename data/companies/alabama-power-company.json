@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-13T08:49:30+00:00",
+  "last_updated": "2026-10-13T17:17:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 553,
+  "count": 554,
   "mentions": [
     {
       "id": "aa92a78294b2b987",
@@ -313,6 +313,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-10T20:59:46+00:00"
+    },
+    {
+      "id": "eef08bd08f8bc811",
+      "title": "Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway - coastalabc.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbkpia1NhT1E2MUw0VFdJb0VuRTVwUGtDblBMMzNNZnVSM1ZnTFFHX1ZnUjNWM0UtekIxWDVhUWxGVDVISF9jaWxvUzhiWEdUbDZEVm5yX241RGQ2VWU5VFNZeDVOdG9TUHRyeDlJQnFSN3N1Y3ZySUJocUZwcTl1VS1takhwenN1ckVaRDV3blpRZ2VxTjJIWGFRU2s3aVh3QWFmQjRoZS1TTDEzSWE0V0I5M2ZkaHhVRzc2SVg0NWx5Vk12UmtISFBHaXdzMFpZWnVDX1hhOA?oc=5",
+      "domain": "news.google.com",
+      "source": "coastalabc.com",
+      "language": "English",
+      "published_at": "2026-10-10T16:39:07+00:00",
+      "summary": "Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway coastalabc.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbkpia1NhT1E2MUw0VFdJb0VuRTVwUGtDblBMMzNNZnVSM1ZnTFFHX1ZnUjNWM0UtekIxWDVhUWxGVDVISF9jaWxvUzhiWEdUbDZEVm5yX241RGQ2VWU5VFNZeDVOdG9TUHRyeDlJQnFSN3N1Y3ZySUJocUZwcTl1VS1takhwenN1ckVaRDV3blpRZ2VxTjJIWGFRU2s3aVh3QWFmQjRoZS1TTDEzSWE0V0I5M2ZkaHhVRzc2SVg0NWx5Vk12UmtISFBHaXdzMFpZWnVDX1hhOA?oc=5\" target=\"_blank\">Alabama Power Reports 233,000 Customers Impacted by Isaias, Restoration Efforts Underway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">coastalabc.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-13T17:17:34+00:00"
     },
     {
       "id": "08c684338d5579cc",

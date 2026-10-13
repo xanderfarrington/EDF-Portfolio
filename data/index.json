@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T08:49:57+00:00",
+  "last_updated": "2026-10-13T17:18:01+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 553,
+      "count": 554,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "aa92a78294b2b987",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 957,
+      "count": 960,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "c28b2b1920663cc7",
-        "title": "Georgia Power shares tips to help customers lower fall and winter energy bills - WFXG",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNVJyN2V0WURJUG5rM0pRdTdQTnl6ZEJiaUlLWWdBSUVGMW5mS2hMVWFaUDN1Ykd3cHJFQmNWUnk2SUVvaVRJWGoyTFZXR0w3ZWZyVDY0Z1Bfc3BnRUU2STB5UVhmc2tIVkVuQkxRcHM5Wmo0bXdBQWRJRi00eHBDa0lhLUJxOUtfNVBneEpEYW0tV2w4b0k1R1dON1BMMFVHdG9MdXBIZkpNdVpiNjk0LVhqZkJ5emQ4RXZibnpkSHlEY2FNQjh5RWJLWlpfeUxnd0UtSlp5aGlKY2hBdGVBVzlkSGxsdWJsdVloY2Qxc18?oc=5",
+        "id": "e7216deabc56d939",
+        "title": "Middle Georgia power outages - 41NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yc3lSc3ZPMExUc2lTSUtOZkJOMDFuRUp1QkFiZjBpNW1TTGtnWWNaYVBfRHVDNlpIX1JTdVpfV2xUYnczeVMycU1QQU5JUExCRUdxZDkxdVNZLUpLTnQtMWpfeFE3UQ?oc=5",
         "domain": "news.google.com",
-        "source": "WFXG",
+        "source": "41NBC News",
         "language": "English",
-        "published_at": "2026-10-12T19:22:00+00:00",
-        "summary": "Georgia Power shares tips to help customers lower fall and winter energy bills WFXG",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNVJyN2V0WURJUG5rM0pRdTdQTnl6ZEJiaUlLWWdBSUVGMW5mS2hMVWFaUDN1Ykd3cHJFQmNWUnk2SUVvaVRJWGoyTFZXR0w3ZWZyVDY0Z1Bfc3BnRUU2STB5UVhmc2tIVkVuQkxRcHM5Wmo0bXdBQWRJRi00eHBDa0lhLUJxOUtfNVBneEpEYW0tV2w4b0k1R1dON1BMMFVHdG9MdXBIZkpNdVpiNjk0LVhqZkJ5emQ4RXZibnpkSHlEY2FNQjh5RWJLWlpfeUxnd0UtSlp5aGlKY2hBdGVBVzlkSGxsdWJsdVloY2Qxc18?oc=5\" target=\"_blank\">Georgia Power shares tips to help customers lower fall and winter energy bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFXG</font>",
+        "published_at": "2026-10-13T16:39:20+00:00",
+        "summary": "Middle Georgia power outages 41NBC News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yc3lSc3ZPMExUc2lTSUtOZkJOMDFuRUp1QkFiZjBpNW1TTGtnWWNaYVBfRHVDNlpIX1JTdVpfV2xUYnczeVMycU1QQU5JUExCRUdxZDkxdVNZLUpLTnQtMWpfeFE3UQ?oc=5\" target=\"_blank\">Middle Georgia power outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">41NBC News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-12T19:33:36+00:00"
+        "collected_at": "2026-10-13T17:17:51+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",
