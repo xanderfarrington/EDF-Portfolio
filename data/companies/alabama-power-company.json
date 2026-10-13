@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-12T19:33:20+00:00",
+  "last_updated": "2026-10-13T01:45:28+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 550,
+  "count": 551,
   "mentions": [
+    {
+      "id": "3fff3502b3caef3e",
+      "title": "Alabama Power customer information accessed by cybersecurity breach - The Auburn Plainsman",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGxzSlJPMlFkUjZ2aHM1TXluRVF0cDdnbVpsa2lrbklYcE5MZEFkdjZ5VlNUcVVKWTVRNDNtV2RRTHRLcjVUbmhYXzNNcnJXamFqRy1KTVV4N0Q3bjFYbkg1WUZ6UVVyLWVzNGFrbUpTTXBsNVNiMjIzQlBDZmtCOXhMYzk0Y3gydGRiSW90amtlUk1hcHIxcW5RWHUtNUl6cm4tT3c2MkNWc3RFa1VGdXBvcw?oc=5",
+      "domain": "news.google.com",
+      "source": "The Auburn Plainsman",
+      "language": "English",
+      "published_at": "2026-10-12T20:33:16+00:00",
+      "summary": "Alabama Power customer information accessed by cybersecurity breach The Auburn Plainsman",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGxzSlJPMlFkUjZ2aHM1TXluRVF0cDdnbVpsa2lrbklYcE5MZEFkdjZ5VlNUcVVKWTVRNDNtV2RRTHRLcjVUbmhYXzNNcnJXamFqRy1KTVV4N0Q3bjFYbkg1WUZ6UVVyLWVzNGFrbUpTTXBsNVNiMjIzQlBDZmtCOXhMYzk0Y3gydGRiSW90amtlUk1hcHIxcW5RWHUtNUl6cm4tT3c2MkNWc3RFa1VGdXBvcw?oc=5\" target=\"_blank\">Alabama Power customer information accessed by cybersecurity breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Auburn Plainsman</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-13T01:45:28+00:00"
+    },
     {
       "id": "e9af6ba536bc69c7",
       "title": "Where is power still out in Alabama? Track on map after Isaias - Montgomery Advertiser",
