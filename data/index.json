@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-14T03:06:04+00:00",
+  "last_updated": "2026-10-14T09:12:38+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 110,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "bb732da69d683116",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - tradingview.com",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 555,
+      "count": 556,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "aa92a78294b2b987",
-        "title": "Alabama Power outage update - fox10tv.com",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BT0ZjdVBIMXJtT2xXMmFQamFLN21xbk8xVDVENnlRU2dmWFNSNVhXRy1qLWc5R24zNXJMSHUzX3V1Vkl1bXViaFdWRUZjY0dXbmlWSkRVOEF2Rm1LbUtnNFJDSy13bnowN3pvRHFZMlJYb3U1dFlqOQ?oc=5",
+        "id": "e57962e38d182097",
+        "title": "Georgia Power, Alabama Power and Mississippi Power Data - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOSFZ4bzhkQ2RrUVFZZkhYLTlhaE1sSzdOWjFoUWZ2UHZvU1B0QmJ2Q0ZGeUMzbWZBWVlRaWswdkNwTG9SQ2NPRm14ZzJwYy1iS18yRzNoTGNVNHBXZmVQNVZnY04ydG1pbG9GbGF6U3NoNHY4UTAtSTFOeFd6NGJodUFQTVpkT0ZNb3Jtd2VnbzU4OUNZZklUenZBaWEtdWlwWENUU1F6d1d1MWxKc2NFQVZpam1CSUpsT2VacFNDNVowT1V4aE9ub1NXcVpXeDhqM1RqYlFnRlFQb2RDb0NBVEh6aUJGaEJGRlNINmFZbnlPVThIRUFCNmZ0aWpDZk1UQjJLUmxoLTJlMExtNlZ2eHdtQ01BeWU4ZE15TlpvRjlTTW9hQWdRV2VVSWF1NXc?oc=5",
         "domain": "news.google.com",
-        "source": "fox10tv.com",
+        "source": "GlobeNewswire",
         "language": "English",
-        "published_at": "2026-10-13T03:21:00+00:00",
-        "summary": "Alabama Power outage update fox10tv.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5BT0ZjdVBIMXJtT2xXMmFQamFLN21xbk8xVDVENnlRU2dmWFNSNVhXRy1qLWc5R24zNXJMSHUzX3V1Vkl1bXViaFdWRUZjY0dXbmlWSkRVOEF2Rm1LbUtnNFJDSy13bnowN3pvRHFZMlJYb3U1dFlqOQ?oc=5\" target=\"_blank\">Alabama Power outage update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+        "published_at": "2026-10-14T04:58:36+00:00",
+        "summary": "Georgia Power, Alabama Power and Mississippi Power Data GlobeNewswire",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxOSFZ4bzhkQ2RrUVFZZkhYLTlhaE1sSzdOWjFoUWZ2UHZvU1B0QmJ2Q0ZGeUMzbWZBWVlRaWswdkNwTG9SQ2NPRm14ZzJwYy1iS18yRzNoTGNVNHBXZmVQNVZnY04ydG1pbG9GbGF6U3NoNHY4UTAtSTFOeFd6NGJodUFQTVpkT0ZNb3Jtd2VnbzU4OUNZZklUenZBaWEtdWlwWENUU1F6d1d1MWxKc2NFQVZpam1CSUpsT2VacFNDNVowT1V4aE9ub1NXcVpXeDhqM1RqYlFnRlFQb2RDb0NBVEh6aUJGaEJGRlNINmFZbnlPVThIRUFCNmZ0aWpDZk1UQjJLUmxoLTJlMExtNlZ2eHdtQ01BeWU4ZE15TlpvRjlTTW9hQWdRV2VVSWF1NXc?oc=5\" target=\"_blank\">Georgia Power, Alabama Power and Mississippi Power Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-13T08:49:30+00:00"
+        "collected_at": "2026-10-14T09:12:11+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 964,
+      "count": 965,
       "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "ec6b51e326186f99",
-        "title": "An inside look at how Georgia Power keeps the lights on - WRDW",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZUQ3ZFN2X1czX2xFaDZzZ2pFU2pvdEg3Qmh0bUN4ZmdJT2pGRXFwT1VuTUxGSmluTDVsaFJlYTJsek9FcjN6RlVwc0xCMnZLQ1VkU3pjRlVwalRyNVhvS0c5TEJJa2VIRV9PYjVVRE5OWm92amgtLUZfNFgzYVNzY3FQMFRZb1oyUEtCcQ?oc=5",
+        "id": "e57962e38d182097",
+        "title": "Georgia Power, Alabama Power and Mississippi Power Data - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOSFZ4bzhkQ2RrUVFZZkhYLTlhaE1sSzdOWjFoUWZ2UHZvU1B0QmJ2Q0ZGeUMzbWZBWVlRaWswdkNwTG9SQ2NPRm14ZzJwYy1iS18yRzNoTGNVNHBXZmVQNVZnY04ydG1pbG9GbGF6U3NoNHY4UTAtSTFOeFd6NGJodUFQTVpkT0ZNb3Jtd2VnbzU4OUNZZklUenZBaWEtdWlwWENUU1F6d1d1MWxKc2NFQVZpam1CSUpsT2VacFNDNVowT1V4aE9ub1NXcVpXeDhqM1RqYlFnRlFQb2RDb0NBVEh6aUJGaEJGRlNINmFZbnlPVThIRUFCNmZ0aWpDZk1UQjJLUmxoLTJlMExtNlZ2eHdtQ01BeWU4ZE15TlpvRjlTTW9hQWdRV2VVSWF1NXc?oc=5",
         "domain": "news.google.com",
-        "source": "WRDW",
+        "source": "GlobeNewswire",
         "language": "English",
-        "published_at": "2026-10-13T21:51:00+00:00",
-        "summary": "An inside look at how Georgia Power keeps the lights on WRDW",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZUQ3ZFN2X1czX2xFaDZzZ2pFU2pvdEg3Qmh0bUN4ZmdJT2pGRXFwT1VuTUxGSmluTDVsaFJlYTJsek9FcjN6RlVwc0xCMnZLQ1VkU3pjRlVwalRyNVhvS0c5TEJJa2VIRV9PYjVVRE5OWm92amgtLUZfNFgzYVNzY3FQMFRZb1oyUEtCcQ?oc=5\" target=\"_blank\">An inside look at how Georgia Power keeps the lights on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+        "published_at": "2026-10-14T04:58:36+00:00",
+        "summary": "Georgia Power, Alabama Power and Mississippi Power Data GlobeNewswire",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxOSFZ4bzhkQ2RrUVFZZkhYLTlhaE1sSzdOWjFoUWZ2UHZvU1B0QmJ2Q0ZGeUMzbWZBWVlRaWswdkNwTG9SQ2NPRm14ZzJwYy1iS18yRzNoTGNVNHBXZmVQNVZnY04ydG1pbG9GbGF6U3NoNHY4UTAtSTFOeFd6NGJodUFQTVpkT0ZNb3Jtd2VnbzU4OUNZZklUenZBaWEtdWlwWENUU1F6d1d1MWxKc2NFQVZpam1CSUpsT2VacFNDNVowT1V4aE9ub1NXcVpXeDhqM1RqYlFnRlFQb2RDb0NBVEh6aUJGaEJGRlNINmFZbnlPVThIRUFCNmZ0aWpDZk1UQjJLUmxoLTJlMExtNlZ2eHdtQ01BeWU4ZE15TlpvRjlTTW9hQWdRV2VVSWF1NXc?oc=5\" target=\"_blank\">Georgia Power, Alabama Power and Mississippi Power Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-13T22:10:42+00:00"
+        "collected_at": "2026-10-14T09:12:28+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",

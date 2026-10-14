@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-14T03:05:37+00:00",
+  "last_updated": "2026-10-14T09:12:11+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 555,
+  "count": 556,
   "mentions": [
+    {
+      "id": "e57962e38d182097",
+      "title": "Georgia Power, Alabama Power and Mississippi Power Data - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOSFZ4bzhkQ2RrUVFZZkhYLTlhaE1sSzdOWjFoUWZ2UHZvU1B0QmJ2Q0ZGeUMzbWZBWVlRaWswdkNwTG9SQ2NPRm14ZzJwYy1iS18yRzNoTGNVNHBXZmVQNVZnY04ydG1pbG9GbGF6U3NoNHY4UTAtSTFOeFd6NGJodUFQTVpkT0ZNb3Jtd2VnbzU4OUNZZklUenZBaWEtdWlwWENUU1F6d1d1MWxKc2NFQVZpam1CSUpsT2VacFNDNVowT1V4aE9ub1NXcVpXeDhqM1RqYlFnRlFQb2RDb0NBVEh6aUJGaEJGRlNINmFZbnlPVThIRUFCNmZ0aWpDZk1UQjJLUmxoLTJlMExtNlZ2eHdtQ01BeWU4ZE15TlpvRjlTTW9hQWdRV2VVSWF1NXc?oc=5",
+      "domain": "news.google.com",
+      "source": "GlobeNewswire",
+      "language": "English",
+      "published_at": "2026-10-14T04:58:36+00:00",
+      "summary": "Georgia Power, Alabama Power and Mississippi Power Data GlobeNewswire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxOSFZ4bzhkQ2RrUVFZZkhYLTlhaE1sSzdOWjFoUWZ2UHZvU1B0QmJ2Q0ZGeUMzbWZBWVlRaWswdkNwTG9SQ2NPRm14ZzJwYy1iS18yRzNoTGNVNHBXZmVQNVZnY04ydG1pbG9GbGF6U3NoNHY4UTAtSTFOeFd6NGJodUFQTVpkT0ZNb3Jtd2VnbzU4OUNZZklUenZBaWEtdWlwWENUU1F6d1d1MWxKc2NFQVZpam1CSUpsT2VacFNDNVowT1V4aE9ub1NXcVpXeDhqM1RqYlFnRlFQb2RDb0NBVEh6aUJGaEJGRlNINmFZbnlPVThIRUFCNmZ0aWpDZk1UQjJLUmxoLTJlMExtNlZ2eHdtQ01BeWU4ZE15TlpvRjlTTW9hQWdRV2VVSWF1NXc?oc=5\" target=\"_blank\">Georgia Power, Alabama Power and Mississippi Power Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-14T09:12:11+00:00"
+    },
     {
       "id": "aa92a78294b2b987",
       "title": "Alabama Power outage update - fox10tv.com",
