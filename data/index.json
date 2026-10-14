@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-14T09:12:38+00:00",
+  "last_updated": "2026-10-14T14:49:35+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 110,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "bb732da69d683116",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - tradingview.com",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 556,
+      "count": 557,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "e57962e38d182097",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 965,
-      "new_mentions_this_run": 23,
+      "count": 966,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "e57962e38d182097",
         "title": "Georgia Power, Alabama Power and Mississippi Power Data - GlobeNewswire",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",

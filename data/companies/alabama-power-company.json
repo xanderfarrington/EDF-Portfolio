@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-14T09:12:11+00:00",
+  "last_updated": "2026-10-14T14:49:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 556,
+  "count": 557,
   "mentions": [
     {
       "id": "e57962e38d182097",
@@ -299,6 +299,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-11T08:08:04+00:00"
+    },
+    {
+      "id": "174d2f4d5b19af43",
+      "title": "More than 267,000 Alabama Power customers lose electricity during Isaias - KTUL",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTGJTeXhKaHFDcFJDMmx2VWF0ajY2dmRHeVhSUFBNd0x2UmlZdi1zZXFfZ3Jyak1HVzlOYTlTSXFxRGVUWE9FRFBLM2RhbUNIUERwUHZfcUljSW5ENUkwR25EYXpZNEtjVk1GdzFQSDRiSDFkVHRfQXQtYzNkOU5Ua2ZEUXoyUGNzU2NCQl9wV181QjRlVi1QNU40NVFBaWJmbkVHaWxqby1HeGNFTjJ6eXgzUzVZc05RNDByR1NyY2R6Yk9kSEx5XzRWdHhDajg?oc=5",
+      "domain": "news.google.com",
+      "source": "KTUL",
+      "language": "English",
+      "published_at": "2026-10-10T16:40:14+00:00",
+      "summary": "More than 267,000 Alabama Power customers lose electricity during Isaias KTUL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNTGJTeXhKaHFDcFJDMmx2VWF0ajY2dmRHeVhSUFBNd0x2UmlZdi1zZXFfZ3Jyak1HVzlOYTlTSXFxRGVUWE9FRFBLM2RhbUNIUERwUHZfcUljSW5ENUkwR25EYXpZNEtjVk1GdzFQSDRiSDFkVHRfQXQtYzNkOU5Ua2ZEUXoyUGNzU2NCQl9wV181QjRlVi1QNU40NVFBaWJmbkVHaWxqby1HeGNFTjJ6eXgzUzVZc05RNDByR1NyY2R6Yk9kSEx5XzRWdHhDajg?oc=5\" target=\"_blank\">More than 267,000 Alabama Power customers lose electricity during Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTUL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-14T14:49:07+00:00"
     },
     {
       "id": "aa1bcfaaac55e1ab",
