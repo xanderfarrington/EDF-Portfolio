@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T19:55:37+00:00",
+  "last_updated": "2026-10-14T22:56:07+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 558,
+      "count": 559,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "923c3b1238b44594",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 966,
+      "count": 967,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "e57962e38d182097",
-        "title": "Georgia Power, Alabama Power and Mississippi Power Data - GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOSFZ4bzhkQ2RrUVFZZkhYLTlhaE1sSzdOWjFoUWZ2UHZvU1B0QmJ2Q0ZGeUMzbWZBWVlRaWswdkNwTG9SQ2NPRm14ZzJwYy1iS18yRzNoTGNVNHBXZmVQNVZnY04ydG1pbG9GbGF6U3NoNHY4UTAtSTFOeFd6NGJodUFQTVpkT0ZNb3Jtd2VnbzU4OUNZZklUenZBaWEtdWlwWENUU1F6d1d1MWxKc2NFQVZpam1CSUpsT2VacFNDNVowT1V4aE9ub1NXcVpXeDhqM1RqYlFnRlFQb2RDb0NBVEh6aUJGaEJGRlNINmFZbnlPVThIRUFCNmZ0aWpDZk1UQjJLUmxoLTJlMExtNlZ2eHdtQ01BeWU4ZE15TlpvRjlTTW9hQWdRV2VVSWF1NXc?oc=5",
+        "id": "ed26f185ad509710",
+        "title": "Oglethorpe Power gets $3.3 billion loan to boost rural energy reliability - WSB-TV",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTllDWjc4OVFlVi16Z00tbFVzVER3RUgzTlhqVDh3MF94dkpSSlBTS3RiSVhUbzVKMkZVRlRxYjcydXdEMzRtbmZEd2hsRkZ6YTZ0TFFqR3RCVFNPUU52QkRIaHliYXF3ak53dzM3S2V5UE9Gc2Q2eXNyZmV3cnI1Z2w2eXc2YWhrNThIa3pXcEIyOEFnOVQyUHFQc0FEQV9xS2huOG5wbWQ0aEhJR3V1NXNMNzdyX09VMnF2ZnBHNkRETFh1bWdtbNIB3AFBVV95cUxOVUJwZ2NWbFdUUHFneFN1WnhnTGQxTHFidHc0SEhxRTNaUW1LSE1yV2pwRkdWdXFlbWRENEpva0hCTkZxbkQ1dElGSFhuNTZFQ2lrMV95d1JocnNUNW5IRUtmTGE1aUxLc01wd0ppeGpiTk1wdkJmVk5oZTROLVVkcUFzYkVBNXY5cTFhUXBRM0Z6aE9hWFhsMUhmY0xlVTNMUmZUWjZhYXNkb1pabU9pNzVwbW9sMVFrT185VzBaSTZOMUlkbG5ZQ1BTeHFSRFJ1a1hDbUd5RUxyZ1RT?oc=5",
         "domain": "news.google.com",
-        "source": "GlobeNewswire",
+        "source": "WSB-TV",
         "language": "English",
-        "published_at": "2026-10-14T04:58:36+00:00",
-        "summary": "Georgia Power, Alabama Power and Mississippi Power Data GlobeNewswire",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxOSFZ4bzhkQ2RrUVFZZkhYLTlhaE1sSzdOWjFoUWZ2UHZvU1B0QmJ2Q0ZGeUMzbWZBWVlRaWswdkNwTG9SQ2NPRm14ZzJwYy1iS18yRzNoTGNVNHBXZmVQNVZnY04ydG1pbG9GbGF6U3NoNHY4UTAtSTFOeFd6NGJodUFQTVpkT0ZNb3Jtd2VnbzU4OUNZZklUenZBaWEtdWlwWENUU1F6d1d1MWxKc2NFQVZpam1CSUpsT2VacFNDNVowT1V4aE9ub1NXcVpXeDhqM1RqYlFnRlFQb2RDb0NBVEh6aUJGaEJGRlNINmFZbnlPVThIRUFCNmZ0aWpDZk1UQjJLUmxoLTJlMExtNlZ2eHdtQ01BeWU4ZE15TlpvRjlTTW9hQWdRV2VVSWF1NXc?oc=5\" target=\"_blank\">Georgia Power, Alabama Power and Mississippi Power Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+        "published_at": "2026-10-14T19:57:18+00:00",
+        "summary": "Oglethorpe Power gets $3.3 billion loan to boost rural energy reliability WSB-TV",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTllDWjc4OVFlVi16Z00tbFVzVER3RUgzTlhqVDh3MF94dkpSSlBTS3RiSVhUbzVKMkZVRlRxYjcydXdEMzRtbmZEd2hsRkZ6YTZ0TFFqR3RCVFNPUU52QkRIaHliYXF3ak53dzM3S2V5UE9Gc2Q2eXNyZmV3cnI1Z2w2eXc2YWhrNThIa3pXcEIyOEFnOVQyUHFQc0FEQV9xS2huOG5wbWQ0aEhJR3V1NXNMNzdyX09VMnF2ZnBHNkRETFh1bWdtbNIB3AFBVV95cUxOVUJwZ2NWbFdUUHFneFN1WnhnTGQxTHFidHc0SEhxRTNaUW1LSE1yV2pwRkdWdXFlbWRENEpva0hCTkZxbkQ1dElGSFhuNTZFQ2lrMV95d1JocnNUNW5IRUtmTGE1aUxLc01wd0ppeGpiTk1wdkJmVk5oZTROLVVkcUFzYkVBNXY5cTFhUXBRM0Z6aE9hWFhsMUhmY0xlVTNMUmZUWjZhYXNkb1pabU9pNzVwbW9sMVFrT185VzBaSTZOMUlkbG5ZQ1BTeHFSRFJ1a1hDbUd5RUxyZ1RT?oc=5\" target=\"_blank\">Oglethorpe Power gets $3.3 billion loan to boost rural energy reliability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-14T09:12:28+00:00"
+        "collected_at": "2026-10-14T22:55:56+00:00"
       }
     },
     {

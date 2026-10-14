@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-14T19:55:09+00:00",
+  "last_updated": "2026-10-14T22:55:39+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 558,
+  "count": 559,
   "mentions": [
     {
       "id": "923c3b1238b44594",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-14T09:12:11+00:00"
+    },
+    {
+      "id": "34fdcf7efca38e9f",
+      "title": "Georgia Power, Alabama Power and Mississippi Power Data - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQWE5ub0JtR3VhMHFicTZJa1ZvUjJtSnZZUnpVY0Z5c0FwYmJwMkppU3lCc1E5YTdfS3VjOXhnNnlpUlN3YnZqelFwbV9VdFhXc00zeDRkeUdUa0NTTThDRXZIOHYzSFIxd3FtMUd2WXlBM01ZUzRXX3hQRUhHbHJLdnlzOWV0VFFXbVE5Vl9YNEIxOVhKUGdWUzFwS0N6cC1UcHNvWVBCeXdheGdOWmtvX0FOZ1dCMms0dTJaa0JOUTV5Y29mRlZXZ2pvOHYydnMxcVhpa0lydDZNeEdFaFhNZDBucE1oOHNOV0ZGUE9jaTBMRU5Gd3ppamdwdi1nenZ3NG5yZ3F3RE5sUy1veXQtVVZhN2NiMFhMVU9LeTBMZDhuVC11VS1tclVjdU9fVEY0WEE0?oc=5",
+      "domain": "news.google.com",
+      "source": "GlobeNewswire",
+      "language": "English",
+      "published_at": "2026-10-14T04:58:36+00:00",
+      "summary": "Georgia Power, Alabama Power and Mississippi Power Data GlobeNewswire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxQWE5ub0JtR3VhMHFicTZJa1ZvUjJtSnZZUnpVY0Z5c0FwYmJwMkppU3lCc1E5YTdfS3VjOXhnNnlpUlN3YnZqelFwbV9VdFhXc00zeDRkeUdUa0NTTThDRXZIOHYzSFIxd3FtMUd2WXlBM01ZUzRXX3hQRUhHbHJLdnlzOWV0VFFXbVE5Vl9YNEIxOVhKUGdWUzFwS0N6cC1UcHNvWVBCeXdheGdOWmtvX0FOZ1dCMms0dTJaa0JOUTV5Y29mRlZXZ2pvOHYydnMxcVhpa0lydDZNeEdFaFhNZDBucE1oOHNOV0ZGUE9jaTBMRU5Gd3ppamdwdi1nenZ3NG5yZ3F3RE5sUy1veXQtVVZhN2NiMFhMVU9LeTBMZDhuVC11VS1tclVjdU9fVEY0WEE0?oc=5\" target=\"_blank\">Georgia Power, Alabama Power and Mississippi Power Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-14T22:55:39+00:00"
     },
     {
       "id": "aa92a78294b2b987",
