@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T14:49:35+00:00",
+  "last_updated": "2026-10-14T19:55:37+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 557,
+      "count": 558,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "e57962e38d182097",
-        "title": "Georgia Power, Alabama Power and Mississippi Power Data - GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOSFZ4bzhkQ2RrUVFZZkhYLTlhaE1sSzdOWjFoUWZ2UHZvU1B0QmJ2Q0ZGeUMzbWZBWVlRaWswdkNwTG9SQ2NPRm14ZzJwYy1iS18yRzNoTGNVNHBXZmVQNVZnY04ydG1pbG9GbGF6U3NoNHY4UTAtSTFOeFd6NGJodUFQTVpkT0ZNb3Jtd2VnbzU4OUNZZklUenZBaWEtdWlwWENUU1F6d1d1MWxKc2NFQVZpam1CSUpsT2VacFNDNVowT1V4aE9ub1NXcVpXeDhqM1RqYlFnRlFQb2RDb0NBVEh6aUJGaEJGRlNINmFZbnlPVThIRUFCNmZ0aWpDZk1UQjJLUmxoLTJlMExtNlZ2eHdtQ01BeWU4ZE15TlpvRjlTTW9hQWdRV2VVSWF1NXc?oc=5",
+        "id": "923c3b1238b44594",
+        "title": "Former Alabama Power executive named to C-suite at Gridco - The Business Journals",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSDJsRERoM1B0b3RCNF95Vi1MbHFQVGN5ZVhNeXpscXkyei1FdVhYb0xXSkNBM0FLclRqc201VnFaUnFid0piVVlodmlwdFVUd1JpcGtXemIyS2pwQTdkWFJyLXlHMG9VcFMyWVBsMjVudzN5aC1pNFdCZFhoaVduLVd3N1djbjdhaGc3bk8xN0N2M1BhU09ZOEttSmU1d1dwcXJBeklGMW9kRUxSUWRJ?oc=5",
         "domain": "news.google.com",
-        "source": "GlobeNewswire",
+        "source": "The Business Journals",
         "language": "English",
-        "published_at": "2026-10-14T04:58:36+00:00",
-        "summary": "Georgia Power, Alabama Power and Mississippi Power Data GlobeNewswire",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxOSFZ4bzhkQ2RrUVFZZkhYLTlhaE1sSzdOWjFoUWZ2UHZvU1B0QmJ2Q0ZGeUMzbWZBWVlRaWswdkNwTG9SQ2NPRm14ZzJwYy1iS18yRzNoTGNVNHBXZmVQNVZnY04ydG1pbG9GbGF6U3NoNHY4UTAtSTFOeFd6NGJodUFQTVpkT0ZNb3Jtd2VnbzU4OUNZZklUenZBaWEtdWlwWENUU1F6d1d1MWxKc2NFQVZpam1CSUpsT2VacFNDNVowT1V4aE9ub1NXcVpXeDhqM1RqYlFnRlFQb2RDb0NBVEh6aUJGaEJGRlNINmFZbnlPVThIRUFCNmZ0aWpDZk1UQjJLUmxoLTJlMExtNlZ2eHdtQ01BeWU4ZE15TlpvRjlTTW9hQWdRV2VVSWF1NXc?oc=5\" target=\"_blank\">Georgia Power, Alabama Power and Mississippi Power Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+        "published_at": "2026-10-14T18:55:00+00:00",
+        "summary": "Former Alabama Power executive named to C-suite at Gridco The Business Journals",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNSDJsRERoM1B0b3RCNF95Vi1MbHFQVGN5ZVhNeXpscXkyei1FdVhYb0xXSkNBM0FLclRqc201VnFaUnFid0piVVlodmlwdFVUd1JpcGtXemIyS2pwQTdkWFJyLXlHMG9VcFMyWVBsMjVudzN5aC1pNFdCZFhoaVduLVd3N1djbjdhaGc3bk8xN0N2M1BhU09ZOEttSmU1d1dwcXJBeklGMW9kRUxSUWRJ?oc=5\" target=\"_blank\">Former Alabama Power executive named to C-suite at Gridco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-14T09:12:11+00:00"
+        "collected_at": "2026-10-14T19:55:09+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 966,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "e57962e38d182097",
         "title": "Georgia Power, Alabama Power and Mississippi Power Data - GlobeNewswire",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",

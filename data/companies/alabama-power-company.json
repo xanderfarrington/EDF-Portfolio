@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-14T14:49:07+00:00",
+  "last_updated": "2026-10-14T19:55:09+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 557,
+  "count": 558,
   "mentions": [
+    {
+      "id": "923c3b1238b44594",
+      "title": "Former Alabama Power executive named to C-suite at Gridco - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSDJsRERoM1B0b3RCNF95Vi1MbHFQVGN5ZVhNeXpscXkyei1FdVhYb0xXSkNBM0FLclRqc201VnFaUnFid0piVVlodmlwdFVUd1JpcGtXemIyS2pwQTdkWFJyLXlHMG9VcFMyWVBsMjVudzN5aC1pNFdCZFhoaVduLVd3N1djbjdhaGc3bk8xN0N2M1BhU09ZOEttSmU1d1dwcXJBeklGMW9kRUxSUWRJ?oc=5",
+      "domain": "news.google.com",
+      "source": "The Business Journals",
+      "language": "English",
+      "published_at": "2026-10-14T18:55:00+00:00",
+      "summary": "Former Alabama Power executive named to C-suite at Gridco The Business Journals",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNSDJsRERoM1B0b3RCNF95Vi1MbHFQVGN5ZVhNeXpscXkyei1FdVhYb0xXSkNBM0FLclRqc201VnFaUnFid0piVVlodmlwdFVUd1JpcGtXemIyS2pwQTdkWFJyLXlHMG9VcFMyWVBsMjVudzN5aC1pNFdCZFhoaVduLVd3N1djbjdhaGc3bk8xN0N2M1BhU09ZOEttSmU1d1dwcXJBeklGMW9kRUxSUWRJ?oc=5\" target=\"_blank\">Former Alabama Power executive named to C-suite at Gridco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-14T19:55:09+00:00"
+    },
     {
       "id": "e57962e38d182097",
       "title": "Georgia Power, Alabama Power and Mississippi Power Data - GlobeNewswire",
