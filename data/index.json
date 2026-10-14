@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T22:10:53+00:00",
+  "last_updated": "2026-10-14T03:06:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 963,
+      "count": 964,
       "new_mentions_this_run": 23,
       "latest_mention": {
         "id": "ec6b51e326186f99",

@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-13T22:10:42+00:00",
+  "last_updated": "2026-10-14T03:05:53+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 963,
+  "count": 964,
   "mentions": [
     {
       "id": "ec6b51e326186f99",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-13T22:10:42+00:00"
+    },
+    {
+      "id": "1bf03a8a910553e9",
+      "title": "Your Georgia Power bill Is on the ballot: The Public Service Commission races, explained in plain English - Atlanta Community Press Collective",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPckYtclN6dThVX2JUdUg3ZUY0ZVJPVzY5ZzRISGl4cjFVRDNxU0lXRUt0Y3pjUzdQa2J3eXU0YjVxaWRZY1ZfQjkwSkhzeUtyTlVnZ2RpNW55VGU3c1llaUozT3RoTDhTWnVFZkQ1cUd4cVRMYmVEUy1JeHZDTUdSeXlFLUUxU1hQUlBrZ1ZaekJFRFhQbzhF?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta Community Press Collective",
+      "language": "English",
+      "published_at": "2026-10-13T19:19:01+00:00",
+      "summary": "Your Georgia Power bill Is on the ballot: The Public Service Commission races, explained in plain English Atlanta Community Press Collective",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPckYtclN6dThVX2JUdUg3ZUY0ZVJPVzY5ZzRISGl4cjFVRDNxU0lXRUt0Y3pjUzdQa2J3eXU0YjVxaWRZY1ZfQjkwSkhzeUtyTlVnZ2RpNW55VGU3c1llaUozT3RoTDhTWnVFZkQ1cUd4cVRMYmVEUy1JeHZDTUdSeXlFLUUxU1hQUlBrZ1ZaekJFRFhQbzhF?oc=5\" target=\"_blank\">Your Georgia Power bill Is on the ballot: The Public Service Commission races, explained in plain English</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta Community Press Collective</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-14T03:05:53+00:00"
     },
     {
       "id": "b78cb3653b91c60b",
