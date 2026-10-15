@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-15T19:37:27+00:00",
+  "last_updated": "2026-10-15T22:49:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 561,
+  "count": 562,
   "mentions": [
     {
       "id": "1f1054267a9d0d4d",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-15T19:37:27+00:00"
+    },
+    {
+      "id": "887e78b5ba57923e",
+      "title": "Alabama Power completes restoration following Hurricane Isaias - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEVCR1NlamZlSnJzWGpuaDFBOEw1djA1OHVLQkUteGNJZmpZVjhucVBWc0VSaktGVFRGemRQQXZLenEtVjh4Z3BxYlNJTGt1bE93UVpuZXRwN3RhUDdJU2M2Szd0ZEVCaXhud0ZBODdibFlsQ3ZmOUJFNmVlRGNmSjBMMU5ZckxmTkNPX3cwaUUtR0xqU0Zoemg3R0JtYVVqd0l0WWVnc09ObVd2RHg4QjY0b2hKYnRrZHc?oc=5",
+      "domain": "news.google.com",
+      "source": "PR Newswire",
+      "language": "English",
+      "published_at": "2026-10-15T18:05:00+00:00",
+      "summary": "Alabama Power completes restoration following Hurricane Isaias PR Newswire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEVCR1NlamZlSnJzWGpuaDFBOEw1djA1OHVLQkUteGNJZmpZVjhucVBWc0VSaktGVFRGemRQQXZLenEtVjh4Z3BxYlNJTGt1bE93UVpuZXRwN3RhUDdJU2M2Szd0ZEVCaXhud0ZBODdibFlsQ3ZmOUJFNmVlRGNmSjBMMU5ZckxmTkNPX3cwaUUtR0xqU0Zoemg3R0JtYVVqd0l0WWVnc09ObVd2RHg4QjY0b2hKYnRrZHc?oc=5\" target=\"_blank\">Alabama Power completes restoration following Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-15T22:49:56+00:00"
     },
     {
       "id": "923c3b1238b44594",

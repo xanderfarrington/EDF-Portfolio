@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T19:37:55+00:00",
+  "last_updated": "2026-10-15T22:50:24+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 561,
-      "new_mentions_this_run": 24,
+      "count": 562,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "1f1054267a9d0d4d",
         "title": "Alabama Power completes restoration following Hurricane Isaias - GuruFocus",
