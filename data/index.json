@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T14:36:22+00:00",
+  "last_updated": "2026-10-15T19:37:55+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 559,
-      "new_mentions_this_run": 25,
+      "count": 561,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "923c3b1238b44594",
-        "title": "Former Alabama Power executive named to C-suite at Gridco - The Business Journals",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSDJsRERoM1B0b3RCNF95Vi1MbHFQVGN5ZVhNeXpscXkyei1FdVhYb0xXSkNBM0FLclRqc201VnFaUnFid0piVVlodmlwdFVUd1JpcGtXemIyS2pwQTdkWFJyLXlHMG9VcFMyWVBsMjVudzN5aC1pNFdCZFhoaVduLVd3N1djbjdhaGc3bk8xN0N2M1BhU09ZOEttSmU1d1dwcXJBeklGMW9kRUxSUWRJ?oc=5",
+        "id": "1f1054267a9d0d4d",
+        "title": "Alabama Power completes restoration following Hurricane Isaias - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWdNRU1oUjFFMmFJZy1vNzlkZ3F4ZHdISFQyNFNuN1k1aW1DLVRfT0pySHA2YlBrem9pU0xrY2dvWm9UZUlwQmczWWJTOThJaG9WYTlOVjFtbXJ3ZnhtS09ORGM2T2owZzlOSGhMSjZ5Y3YyYjBDWEhTQnFsZ0ZSbFN4Nm5MelFGd2VLZ3lYYVNseEQzQnp2OFV4ZlNTTlN0bnRN?oc=5",
         "domain": "news.google.com",
-        "source": "The Business Journals",
+        "source": "GuruFocus",
         "language": "English",
-        "published_at": "2026-10-14T18:55:00+00:00",
-        "summary": "Former Alabama Power executive named to C-suite at Gridco The Business Journals",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNSDJsRERoM1B0b3RCNF95Vi1MbHFQVGN5ZVhNeXpscXkyei1FdVhYb0xXSkNBM0FLclRqc201VnFaUnFid0piVVlodmlwdFVUd1JpcGtXemIyS2pwQTdkWFJyLXlHMG9VcFMyWVBsMjVudzN5aC1pNFdCZFhoaVduLVd3N1djbjdhaGc3bk8xN0N2M1BhU09ZOEttSmU1d1dwcXJBeklGMW9kRUxSUWRJ?oc=5\" target=\"_blank\">Former Alabama Power executive named to C-suite at Gridco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "published_at": "2026-10-15T19:32:40+00:00",
+        "summary": "Alabama Power completes restoration following Hurricane Isaias GuruFocus",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWdNRU1oUjFFMmFJZy1vNzlkZ3F4ZHdISFQyNFNuN1k1aW1DLVRfT0pySHA2YlBrem9pU0xrY2dvWm9UZUlwQmczWWJTOThJaG9WYTlOVjFtbXJ3ZnhtS09ORGM2T2owZzlOSGhMSjZ5Y3YyYjBDWEhTQnFsZ0ZSbFN4Nm5MelFGd2VLZ3lYYVNseEQzQnp2OFV4ZlNTTlN0bnRN?oc=5\" target=\"_blank\">Alabama Power completes restoration following Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-14T19:55:09+00:00"
+        "collected_at": "2026-10-15T19:37:27+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 967,
+      "count": 971,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "ed26f185ad509710",
-        "title": "Oglethorpe Power gets $3.3 billion loan to boost rural energy reliability - WSB-TV",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTllDWjc4OVFlVi16Z00tbFVzVER3RUgzTlhqVDh3MF94dkpSSlBTS3RiSVhUbzVKMkZVRlRxYjcydXdEMzRtbmZEd2hsRkZ6YTZ0TFFqR3RCVFNPUU52QkRIaHliYXF3ak53dzM3S2V5UE9Gc2Q2eXNyZmV3cnI1Z2w2eXc2YWhrNThIa3pXcEIyOEFnOVQyUHFQc0FEQV9xS2huOG5wbWQ0aEhJR3V1NXNMNzdyX09VMnF2ZnBHNkRETFh1bWdtbNIB3AFBVV95cUxOVUJwZ2NWbFdUUHFneFN1WnhnTGQxTHFidHc0SEhxRTNaUW1LSE1yV2pwRkdWdXFlbWRENEpva0hCTkZxbkQ1dElGSFhuNTZFQ2lrMV95d1JocnNUNW5IRUtmTGE1aUxLc01wd0ppeGpiTk1wdkJmVk5oZTROLVVkcUFzYkVBNXY5cTFhUXBRM0Z6aE9hWFhsMUhmY0xlVTNMUmZUWjZhYXNkb1pabU9pNzVwbW9sMVFrT185VzBaSTZOMUlkbG5ZQ1BTeHFSRFJ1a1hDbUd5RUxyZ1RT?oc=5",
+        "id": "1a4f2a4d8e6ddcf4",
+        "title": "Georgia Power offers energy saving tips - 11Alive.com",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZTRsNWNnSmJiVGlBTVU2NkRTWTBGTk1ZYnBQSkVBMTR1VlFZazFUQ05iWHJ4ZnEzdGxkOGlsMGZ4NEt0MmJXNjg4N1ZVT2JIV2lQZXVvcU51X2JybS1Dd0dHbTY2emhROWJNWk04OC13UnJCaElIM0Z4Nkw0cENrbkdJLTlRLUsxRERjWWpDSVJQYk9tdzJ1NlFMN2V0VDlWV2Z1UU1mVlBlZE9XQjJiWFJCc1p0bEN6Z1o4bzNuN2hGRzFLZkhxUlBmdVZEQ3BIWFlMM3lCb2N4cDc5MmxlUldPWHA3ckU5dVpsdmNDbGk2WTJGalE?oc=5",
         "domain": "news.google.com",
-        "source": "WSB-TV",
+        "source": "11Alive.com",
         "language": "English",
-        "published_at": "2026-10-14T19:57:18+00:00",
-        "summary": "Oglethorpe Power gets $3.3 billion loan to boost rural energy reliability WSB-TV",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTllDWjc4OVFlVi16Z00tbFVzVER3RUgzTlhqVDh3MF94dkpSSlBTS3RiSVhUbzVKMkZVRlRxYjcydXdEMzRtbmZEd2hsRkZ6YTZ0TFFqR3RCVFNPUU52QkRIaHliYXF3ak53dzM3S2V5UE9Gc2Q2eXNyZmV3cnI1Z2w2eXc2YWhrNThIa3pXcEIyOEFnOVQyUHFQc0FEQV9xS2huOG5wbWQ0aEhJR3V1NXNMNzdyX09VMnF2ZnBHNkRETFh1bWdtbNIB3AFBVV95cUxOVUJwZ2NWbFdUUHFneFN1WnhnTGQxTHFidHc0SEhxRTNaUW1LSE1yV2pwRkdWdXFlbWRENEpva0hCTkZxbkQ1dElGSFhuNTZFQ2lrMV95d1JocnNUNW5IRUtmTGE1aUxLc01wd0ppeGpiTk1wdkJmVk5oZTROLVVkcUFzYkVBNXY5cTFhUXBRM0Z6aE9hWFhsMUhmY0xlVTNMUmZUWjZhYXNkb1pabU9pNzVwbW9sMVFrT185VzBaSTZOMUlkbG5ZQ1BTeHFSRFJ1a1hDbUd5RUxyZ1RT?oc=5\" target=\"_blank\">Oglethorpe Power gets $3.3 billion loan to boost rural energy reliability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "published_at": "2026-10-15T19:25:00+00:00",
+        "summary": "Georgia Power offers energy saving tips 11Alive.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZTRsNWNnSmJiVGlBTVU2NkRTWTBGTk1ZYnBQSkVBMTR1VlFZazFUQ05iWHJ4ZnEzdGxkOGlsMGZ4NEt0MmJXNjg4N1ZVT2JIV2lQZXVvcU51X2JybS1Dd0dHbTY2emhROWJNWk04OC13UnJCaElIM0Z4Nkw0cENrbkdJLTlRLUsxRERjWWpDSVJQYk9tdzJ1NlFMN2V0VDlWV2Z1UU1mVlBlZE9XQjJiWFJCc1p0bEN6Z1o4bzNuN2hGRzFLZkhxUlBmdVZEQ3BIWFlMM3lCb2N4cDc5MmxlUldPWHA3ckU5dVpsdmNDbGk2WTJGalE?oc=5\" target=\"_blank\">Georgia Power offers energy saving tips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-14T22:55:56+00:00"
+        "collected_at": "2026-10-15T19:37:44+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",
