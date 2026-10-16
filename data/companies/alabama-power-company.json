@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-16T19:11:41+00:00",
+  "last_updated": "2026-10-16T22:23:43+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 563,
+  "count": 564,
   "mentions": [
     {
       "id": "1f1054267a9d0d4d",
@@ -1853,6 +1853,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-03T07:26:01+00:00"
+    },
+    {
+      "id": "ec36441b86076547",
+      "title": "Alabama Power appeals order blocking entry onto Shelby County man's property - wvtm",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSU1FQUVfb2xjRllrNWlIRHlTVDRGMzd3Y29HcGlZNFpDSTNSdjNwRlBVbUl0aEFwdUplNzlBa2JUSElIM1FxS2dMU051ZEtfMTRucmcxZDhNcVBBcGVLZ3BuMzFaV3hfeDJ5WVJzX0o4MU9CQ3lMVi1RR1pDNkRzckRJYnpuWDViVzFmd0lR?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm",
+      "language": "English",
+      "published_at": "2026-10-01T07:00:00+00:00",
+      "summary": "Alabama Power appeals order blocking entry onto Shelby County man's property wvtm",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSU1FQUVfb2xjRllrNWlIRHlTVDRGMzd3Y29HcGlZNFpDSTNSdjNwRlBVbUl0aEFwdUplNzlBa2JUSElIM1FxS2dMU051ZEtfMTRucmcxZDhNcVBBcGVLZ3BuMzFaV3hfeDJ5WVJzX0o4MU9CQ3lMVi1RR1pDNkRzckRJYnpuWDViVzFmd0lR?oc=5\" target=\"_blank\">Alabama Power appeals order blocking entry onto Shelby County man's property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-16T22:23:43+00:00"
     },
     {
       "id": "0f488d80de98eabd",

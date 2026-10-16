@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T19:12:08+00:00",
+  "last_updated": "2026-10-16T22:24:10+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 563,
+      "count": 564,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "1f1054267a9d0d4d",
@@ -47,42 +47,42 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 31,
-      "new_mentions_this_run": 0,
+      "count": 33,
+      "new_mentions_this_run": 2,
       "latest_mention": {
-        "id": "85749d5f807b1946",
-        "title": "2026 Chrysalis Awards: Commercial Remodel - Qualified Remodeler",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeUNfd0J2TFhyOXYtcWJid08tT3lUVFZBWnRIRi1EcUdKVXczc2ZqeG5vVUhUTmNuSlE0TlVDTFg0Z2xYcy01RWMta0ZhY2VVMXBHY0p1Y2oxQ25vQlA0eFIxSS01MFJOZXY0RzY5T290WWdndEtSaFQzemt1ZnMxdnJn?oc=5",
+        "id": "991942913a3485be",
+        "title": "SOWI_261017_PHOTO_JVG_SHINE1 - GazetteXtra",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3FRMUZiVDh4eTBYVzdGaVBNeS0xVkpyT0puOGlyN18tOTJKYWFZbWwzaWpEVDVqMS1CUmkybHlpV3ktUG1ZT3ZudTExSnVDVGZHT3djQ1hGVjhFcFF1V2F4T2xNRTFyUDJQRTRibnFqNkZiVzFrYmxUTGdoZE1feTRqWFBWR3hkWEM3UzFWUlZtU292QXhTSlM0U0dXYmtkQVN2QmlCRQ?oc=5",
         "domain": "news.google.com",
-        "source": "Qualified Remodeler",
+        "source": "GazetteXtra",
         "language": "English",
-        "published_at": "2026-10-08T21:23:30+00:00",
-        "summary": "2026 Chrysalis Awards: Commercial Remodel Qualified Remodeler",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOeUNfd0J2TFhyOXYtcWJid08tT3lUVFZBWnRIRi1EcUdKVXczc2ZqeG5vVUhUTmNuSlE0TlVDTFg0Z2xYcy01RWMta0ZhY2VVMXBHY0p1Y2oxQ25vQlA0eFIxSS01MFJOZXY0RzY5T290WWdndEtSaFQzemt1ZnMxdnJn?oc=5\" target=\"_blank\">2026 Chrysalis Awards: Commercial Remodel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Qualified Remodeler</font>",
+        "published_at": "2026-10-16T20:20:00+00:00",
+        "summary": "SOWI_261017_PHOTO_JVG_SHINE1 GazetteXtra",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3FRMUZiVDh4eTBYVzdGaVBNeS0xVkpyT0puOGlyN18tOTJKYWFZbWwzaWpEVDVqMS1CUmkybHlpV3ktUG1ZT3ZudTExSnVDVGZHT3djQ1hGVjhFcFF1V2F4T2xNRTFyUDJQRTRibnFqNkZiVzFrYmxUTGdoZE1feTRqWFBWR3hkWEM3UzFWUlZtU292QXhTSlM0U0dXYmtkQVN2QmlCRQ?oc=5\" target=\"_blank\">SOWI_261017_PHOTO_JVG_SHINE1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GazetteXtra</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-09T08:18:32+00:00"
+        "collected_at": "2026-10-16T22:23:48+00:00"
       }
     },
     {
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 106,
+      "count": 107,
       "new_mentions_this_run": 2,
       "latest_mention": {
-        "id": "df9e7d235a971285",
-        "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers - FOX2548 & WIProud",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTVJMVJKckZOTVBlM0QwalpZRlhxVFp1anpVS3R4V0pXQk96cllMX1V2WTB0TVQxM1duR1YtWW9ERU85S205NmNkR0xMd2twWjNLYVdrdjRhdGFvYTRPQnRJR245WEJMTWRaa0pFcXBpRlZKcF9FMXJWSEtPTlJpeVZvdTFBbDAyR3dLbEVlZWl0bG9RQWhkYTI4NVhFWndJT094VmpseVlfMGxITldxY1ZkRlFuTDR1cmEtSkNtcXBycWl1XzI2cHBmUjUtQWllcjA1RXpOeVQ1QdIB3wFBVV95cUxNMDhEeXlvSDVnelJLLWNtVk03VXNHU0czeXBHdWIzMFdfWERBaHpqLWh0SU45VzVZY2VkQjdPMHdqa1hsREZ5TF80TGNpYTBrRTNDQ3d0QnRFcFZ3WjR0Vld3U05GQm5KQkE2REdyc001Ti1TbFFPR2I0TDNJWnFSQlR3TWtUR1V3ckpZaW5HblI5LWJobjY0c0dFNEoxUEVqV2o1dXhjX2hJd3F2S1VzNDJ4ZTFVaUZPVGFzZkdKcC1tb1dRV0o3dlZQY2R0ZUl6dTRWRlBLWnZ2bUw4cC1j?oc=5",
+        "id": "3b15f9bce88c7470",
+        "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers - Huron Daily Tribune",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWXdHMERsLUJVREROdkt0UWVHZnhLa0FIbmxTcGR5b0hkcmRpODJ0OGtpRWVvc0tJbXVBTmkwdHUxMkZnV19vWnBIXzZKVFFuLVptdGxPclkwaGJkLW1wZjBmeVRZWnBQUWEwQnpXVFJLT3ZKcmRUcUx3X2lTT0hGVExIWmYxZ2IyelJaRVU5MUJIRHRnQW1GX1h6cXlRb3VmSS1MaVE2QQ?oc=5",
         "domain": "news.google.com",
-        "source": "FOX2548 & WIProud",
+        "source": "Huron Daily Tribune",
         "language": "English",
-        "published_at": "2026-10-16T12:59:16+00:00",
-        "summary": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers FOX2548 & WIProud",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTVJMVJKckZOTVBlM0QwalpZRlhxVFp1anpVS3R4V0pXQk96cllMX1V2WTB0TVQxM1duR1YtWW9ERU85S205NmNkR0xMd2twWjNLYVdrdjRhdGFvYTRPQnRJR245WEJMTWRaa0pFcXBpRlZKcF9FMXJWSEtPTlJpeVZvdTFBbDAyR3dLbEVlZWl0bG9RQWhkYTI4NVhFWndJT094VmpseVlfMGxITldxY1ZkRlFuTDR1cmEtSkNtcXBycWl1XzI2cHBmUjUtQWllcjA1RXpOeVQ1QdIB3wFBVV95cUxNMDhEeXlvSDVnelJLLWNtVk03VXNHU0czeXBHdWIzMFdfWERBaHpqLWh0SU45VzVZY2VkQjdPMHdqa1hsREZ5TF80TGNpYTBrRTNDQ3d0QnRFcFZ3WjR0Vld3U05GQm5KQkE2REdyc001Ti1TbFFPR2I0TDNJWnFSQlR3TWtUR1V3ckpZaW5HblI5LWJobjY0c0dFNEoxUEVqV2o1dXhjX2hJd3F2S1VzNDJ4ZTFVaUZPVGFzZkdKcC1tb1dRV0o3dlZQY2R0ZUl6dTRWRlBLWnZ2bUw4cC1j?oc=5\" target=\"_blank\">US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX2548 & WIProud</font>",
+        "published_at": "2026-10-16T13:18:30+00:00",
+        "summary": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers Huron Daily Tribune",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOWXdHMERsLUJVREROdkt0UWVHZnhLa0FIbmxTcGR5b0hkcmRpODJ0OGtpRWVvc0tJbXVBTmkwdHUxMkZnV19vWnBIXzZKVFFuLVptdGxPclkwaGJkLW1wZjBmeVRZWnBQUWEwQnpXVFJLT3ZKcmRUcUx3X2lTT0hGVExIWmYxZ2IyelJaRVU5MUJIRHRnQW1GX1h6cXlRb3VmSS1MaVE2QQ?oc=5\" target=\"_blank\">US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huron Daily Tribune</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-16T19:11:52+00:00"
+        "collected_at": "2026-10-16T22:23:54+00:00"
       }
     },
     {
