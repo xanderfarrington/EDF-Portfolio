@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-16T02:41:52+00:00",
+  "last_updated": "2026-10-16T08:40:37+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 110,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "bb732da69d683116",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - tradingview.com",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",
