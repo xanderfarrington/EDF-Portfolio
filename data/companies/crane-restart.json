@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-10-16T14:27:17+00:00",
+  "last_updated": "2026-10-16T19:11:52+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 105,
+  "count": 106,
   "mentions": [
+    {
+      "id": "df9e7d235a971285",
+      "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers - FOX2548 & WIProud",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTVJMVJKckZOTVBlM0QwalpZRlhxVFp1anpVS3R4V0pXQk96cllMX1V2WTB0TVQxM1duR1YtWW9ERU85S205NmNkR0xMd2twWjNLYVdrdjRhdGFvYTRPQnRJR245WEJMTWRaa0pFcXBpRlZKcF9FMXJWSEtPTlJpeVZvdTFBbDAyR3dLbEVlZWl0bG9RQWhkYTI4NVhFWndJT094VmpseVlfMGxITldxY1ZkRlFuTDR1cmEtSkNtcXBycWl1XzI2cHBmUjUtQWllcjA1RXpOeVQ1QdIB3wFBVV95cUxNMDhEeXlvSDVnelJLLWNtVk03VXNHU0czeXBHdWIzMFdfWERBaHpqLWh0SU45VzVZY2VkQjdPMHdqa1hsREZ5TF80TGNpYTBrRTNDQ3d0QnRFcFZ3WjR0Vld3U05GQm5KQkE2REdyc001Ti1TbFFPR2I0TDNJWnFSQlR3TWtUR1V3ckpZaW5HblI5LWJobjY0c0dFNEoxUEVqV2o1dXhjX2hJd3F2S1VzNDJ4ZTFVaUZPVGFzZkdKcC1tb1dRV0o3dlZQY2R0ZUl6dTRWRlBLWnZ2bUw4cC1j?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX2548 & WIProud",
+      "language": "English",
+      "published_at": "2026-10-16T12:59:16+00:00",
+      "summary": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers FOX2548 & WIProud",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTVJMVJKckZOTVBlM0QwalpZRlhxVFp1anpVS3R4V0pXQk96cllMX1V2WTB0TVQxM1duR1YtWW9ERU85S205NmNkR0xMd2twWjNLYVdrdjRhdGFvYTRPQnRJR245WEJMTWRaa0pFcXBpRlZKcF9FMXJWSEtPTlJpeVZvdTFBbDAyR3dLbEVlZWl0bG9RQWhkYTI4NVhFWndJT094VmpseVlfMGxITldxY1ZkRlFuTDR1cmEtSkNtcXBycWl1XzI2cHBmUjUtQWllcjA1RXpOeVQ1QdIB3wFBVV95cUxNMDhEeXlvSDVnelJLLWNtVk03VXNHU0czeXBHdWIzMFdfWERBaHpqLWh0SU45VzVZY2VkQjdPMHdqa1hsREZ5TF80TGNpYTBrRTNDQ3d0QnRFcFZ3WjR0Vld3U05GQm5KQkE2REdyc001Ti1TbFFPR2I0TDNJWnFSQlR3TWtUR1V3ckpZaW5HblI5LWJobjY0c0dFNEoxUEVqV2o1dXhjX2hJd3F2S1VzNDJ4ZTFVaUZPVGFzZkdKcC1tb1dRV0o3dlZQY2R0ZUl6dTRWRlBLWnZ2bUw4cC1j?oc=5\" target=\"_blank\">US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX2548 & WIProud</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-16T19:11:52+00:00"
+    },
     {
       "id": "35b2735a6c611205",
       "title": "Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand - Kalkine Media",

@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-16T14:27:23+00:00",
+  "last_updated": "2026-10-16T19:11:57+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 971,
+  "count": 972,
   "mentions": [
+    {
+      "id": "96a61694c5817cd9",
+      "title": "Birmingham company acquires Georgia power plant - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUlzMEVvNE9oRmE5ZFFhdVVjR1hfVkp5c0lDM2hxRldIQmxEdnZpcG14YzhOYVhfSHg4cUg4SzJfVUlTVDdzNkt1ZnJTdUFMd0lRaVhfTTBVWjJGMkxFYnBCVTU2QVh6Wm5IdGFEN3Q3MWVoTXVOSllJckxYZ2hMOVM3ZVRRbkRwVXpzX3JkNWN5QQ?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-10-16T17:15:00+00:00",
+      "summary": "Birmingham company acquires Georgia power plant AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUlzMEVvNE9oRmE5ZFFhdVVjR1hfVkp5c0lDM2hxRldIQmxEdnZpcG14YzhOYVhfSHg4cUg4SzJfVUlTVDdzNkt1ZnJTdUFMd0lRaVhfTTBVWjJGMkxFYnBCVTU2QVh6Wm5IdGFEN3Q3MWVoTXVOSllJckxYZ2hMOVM3ZVRRbkRwVXpzX3JkNWN5QQ?oc=5\" target=\"_blank\">Birmingham company acquires Georgia power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-16T19:11:57+00:00"
+    },
     {
       "id": "1a4f2a4d8e6ddcf4",
       "title": "Georgia Power offers energy saving tips - 11Alive.com",

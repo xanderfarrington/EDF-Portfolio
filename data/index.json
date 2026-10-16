@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T14:27:34+00:00",
+  "last_updated": "2026-10-16T19:12:08+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 562,
+      "count": 563,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "1f1054267a9d0d4d",
@@ -68,42 +68,42 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 105,
-      "new_mentions_this_run": 1,
+      "count": 106,
+      "new_mentions_this_run": 2,
       "latest_mention": {
-        "id": "35b2735a6c611205",
-        "title": "Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand - Kalkine Media",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjFEVHNOc2hGYk13U0tqSG14UjgwRjkxTF9zVTdaOWZIVVFrY2o1b3FkNk5rN2ZIaHBwMlYxOUd2S0xjZ2RxQWJrcWdJcXlnUHpTNE9zdXdHckJuV2JfR0xWRnB6akw3QTdmOFE2UDZVNHpvRE9jcHhrVkt2UHhNT2Q3WXlVdGJyQV9aUHJYR3MxYmIwLTF6b0RiRkVaQ0hrb1FaQWlNV1hDVUxsLVo0YzVYbks?oc=5",
+        "id": "df9e7d235a971285",
+        "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers - FOX2548 & WIProud",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTVJMVJKckZOTVBlM0QwalpZRlhxVFp1anpVS3R4V0pXQk96cllMX1V2WTB0TVQxM1duR1YtWW9ERU85S205NmNkR0xMd2twWjNLYVdrdjRhdGFvYTRPQnRJR245WEJMTWRaa0pFcXBpRlZKcF9FMXJWSEtPTlJpeVZvdTFBbDAyR3dLbEVlZWl0bG9RQWhkYTI4NVhFWndJT094VmpseVlfMGxITldxY1ZkRlFuTDR1cmEtSkNtcXBycWl1XzI2cHBmUjUtQWllcjA1RXpOeVQ1QdIB3wFBVV95cUxNMDhEeXlvSDVnelJLLWNtVk03VXNHU0czeXBHdWIzMFdfWERBaHpqLWh0SU45VzVZY2VkQjdPMHdqa1hsREZ5TF80TGNpYTBrRTNDQ3d0QnRFcFZ3WjR0Vld3U05GQm5KQkE2REdyc001Ti1TbFFPR2I0TDNJWnFSQlR3TWtUR1V3ckpZaW5HblI5LWJobjY0c0dFNEoxUEVqV2o1dXhjX2hJd3F2S1VzNDJ4ZTFVaUZPVGFzZkdKcC1tb1dRV0o3dlZQY2R0ZUl6dTRWRlBLWnZ2bUw4cC1j?oc=5",
         "domain": "news.google.com",
-        "source": "Kalkine Media",
+        "source": "FOX2548 & WIProud",
         "language": "English",
-        "published_at": "2026-09-29T16:02:00+00:00",
-        "summary": "Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand Kalkine Media",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjFEVHNOc2hGYk13U0tqSG14UjgwRjkxTF9zVTdaOWZIVVFrY2o1b3FkNk5rN2ZIaHBwMlYxOUd2S0xjZ2RxQWJrcWdJcXlnUHpTNE9zdXdHckJuV2JfR0xWRnB6akw3QTdmOFE2UDZVNHpvRE9jcHhrVkt2UHhNT2Q3WXlVdGJyQV9aUHJYR3MxYmIwLTF6b0RiRkVaQ0hrb1FaQWlNV1hDVUxsLVo0YzVYbks?oc=5\" target=\"_blank\">Constellation Energy (NASDAQ:CEG) Advances Crane Restart on AI Power Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
+        "published_at": "2026-10-16T12:59:16+00:00",
+        "summary": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers FOX2548 & WIProud",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTVJMVJKckZOTVBlM0QwalpZRlhxVFp1anpVS3R4V0pXQk96cllMX1V2WTB0TVQxM1duR1YtWW9ERU85S205NmNkR0xMd2twWjNLYVdrdjRhdGFvYTRPQnRJR245WEJMTWRaa0pFcXBpRlZKcF9FMXJWSEtPTlJpeVZvdTFBbDAyR3dLbEVlZWl0bG9RQWhkYTI4NVhFWndJT094VmpseVlfMGxITldxY1ZkRlFuTDR1cmEtSkNtcXBycWl1XzI2cHBmUjUtQWllcjA1RXpOeVQ1QdIB3wFBVV95cUxNMDhEeXlvSDVnelJLLWNtVk03VXNHU0czeXBHdWIzMFdfWERBaHpqLWh0SU45VzVZY2VkQjdPMHdqa1hsREZ5TF80TGNpYTBrRTNDQ3d0QnRFcFZ3WjR0Vld3U05GQm5KQkE2REdyc001Ti1TbFFPR2I0TDNJWnFSQlR3TWtUR1V3ckpZaW5HblI5LWJobjY0c0dFNEoxUEVqV2o1dXhjX2hJd3F2S1VzNDJ4ZTFVaUZPVGFzZkdKcC1tb1dRV0o3dlZQY2R0ZUl6dTRWRlBLWnZ2bUw4cC1j?oc=5\" target=\"_blank\">US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX2548 & WIProud</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-09-29T20:23:13+00:00"
+        "collected_at": "2026-10-16T19:11:52+00:00"
       }
     },
     {
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 971,
+      "count": 972,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "1a4f2a4d8e6ddcf4",
-        "title": "Georgia Power offers energy saving tips - 11Alive.com",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZTRsNWNnSmJiVGlBTVU2NkRTWTBGTk1ZYnBQSkVBMTR1VlFZazFUQ05iWHJ4ZnEzdGxkOGlsMGZ4NEt0MmJXNjg4N1ZVT2JIV2lQZXVvcU51X2JybS1Dd0dHbTY2emhROWJNWk04OC13UnJCaElIM0Z4Nkw0cENrbkdJLTlRLUsxRERjWWpDSVJQYk9tdzJ1NlFMN2V0VDlWV2Z1UU1mVlBlZE9XQjJiWFJCc1p0bEN6Z1o4bzNuN2hGRzFLZkhxUlBmdVZEQ3BIWFlMM3lCb2N4cDc5MmxlUldPWHA3ckU5dVpsdmNDbGk2WTJGalE?oc=5",
+        "id": "96a61694c5817cd9",
+        "title": "Birmingham company acquires Georgia power plant - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUlzMEVvNE9oRmE5ZFFhdVVjR1hfVkp5c0lDM2hxRldIQmxEdnZpcG14YzhOYVhfSHg4cUg4SzJfVUlTVDdzNkt1ZnJTdUFMd0lRaVhfTTBVWjJGMkxFYnBCVTU2QVh6Wm5IdGFEN3Q3MWVoTXVOSllJckxYZ2hMOVM3ZVRRbkRwVXpzX3JkNWN5QQ?oc=5",
         "domain": "news.google.com",
-        "source": "11Alive.com",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-10-15T19:25:00+00:00",
-        "summary": "Georgia Power offers energy saving tips 11Alive.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZTRsNWNnSmJiVGlBTVU2NkRTWTBGTk1ZYnBQSkVBMTR1VlFZazFUQ05iWHJ4ZnEzdGxkOGlsMGZ4NEt0MmJXNjg4N1ZVT2JIV2lQZXVvcU51X2JybS1Dd0dHbTY2emhROWJNWk04OC13UnJCaElIM0Z4Nkw0cENrbkdJLTlRLUsxRERjWWpDSVJQYk9tdzJ1NlFMN2V0VDlWV2Z1UU1mVlBlZE9XQjJiWFJCc1p0bEN6Z1o4bzNuN2hGRzFLZkhxUlBmdVZEQ3BIWFlMM3lCb2N4cDc5MmxlUldPWHA3ckU5dVpsdmNDbGk2WTJGalE?oc=5\" target=\"_blank\">Georgia Power offers energy saving tips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+        "published_at": "2026-10-16T17:15:00+00:00",
+        "summary": "Birmingham company acquires Georgia power plant AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUlzMEVvNE9oRmE5ZFFhdVVjR1hfVkp5c0lDM2hxRldIQmxEdnZpcG14YzhOYVhfSHg4cUg4SzJfVUlTVDdzNkt1ZnJTdUFMd0lRaVhfTTBVWjJGMkxFYnBCVTU2QVh6Wm5IdGFEN3Q3MWVoTXVOSllJckxYZ2hMOVM3ZVRRbkRwVXpzX3JkNWN5QQ?oc=5\" target=\"_blank\">Birmingham company acquires Georgia power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-15T19:37:44+00:00"
+        "collected_at": "2026-10-16T19:11:57+00:00"
       }
     },
     {
