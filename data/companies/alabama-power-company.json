@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-17T19:57:15+00:00",
+  "last_updated": "2026-10-17T21:58:09+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 565,
+  "count": 566,
   "mentions": [
     {
       "id": "1f1054267a9d0d4d",
@@ -1279,6 +1279,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-07T10:46:01+00:00"
+    },
+    {
+      "id": "22728e945963bd5b",
+      "title": "Alabama power companies prepare for possible outages as Hurricane Isaias approaches - WTVM.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmxfUi0yYmNkVWZOS1l0amhUUnRXSGVWWmJaWTlkcV91d0c4dE1QUUVaRElnOFo0d1o2Qng4UVp0S1ZwWWdtS0hNOUdHYU5NajFoSzdvUXhYNG9ndGJOaUhnZlk2RHUxdnhqQkNnVXRxOVVIcWUxQVAzbGVkM0Q5bUZqS1E2RmZOd3R1R1JwQjI4YTVfWl82Nl9Qb2QzLW4wSkNLOVBaTnVWRlBXZWfSAcIBQVVfeXFMUERTdXU4QzBydEFzSFN0RWEyaWtIWXZYTV9xOGhGd0UyMUJmckFQWkhXN2tBbTlvVG04LU41MlJhcVR5UnJCejUzZVcwcUJQVzBGUTd3TFo1TGdZTE5pNTFfTS1haFlBckFQV2s4Z3ZQT19INi1EMjNpMS1jWFJQcjNYbUthbGYwMUdWM1d4RWtiejdPR3VYV1NtaUpOU0lwdjZxTG1jUi1ETk5XMHdiNnV3cUpxTEo4UWo4a1hubm9sQmc?oc=5",
+      "domain": "news.google.com",
+      "source": "WTVM.com",
+      "language": "English",
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "summary": "Alabama power companies prepare for possible outages as Hurricane Isaias approaches WTVM.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmxfUi0yYmNkVWZOS1l0amhUUnRXSGVWWmJaWTlkcV91d0c4dE1QUUVaRElnOFo0d1o2Qng4UVp0S1ZwWWdtS0hNOUdHYU5NajFoSzdvUXhYNG9ndGJOaUhnZlk2RHUxdnhqQkNnVXRxOVVIcWUxQVAzbGVkM0Q5bUZqS1E2RmZOd3R1R1JwQjI4YTVfWl82Nl9Qb2QzLW4wSkNLOVBaTnVWRlBXZWfSAcIBQVVfeXFMUERTdXU4QzBydEFzSFN0RWEyaWtIWXZYTV9xOGhGd0UyMUJmckFQWkhXN2tBbTlvVG04LU41MlJhcVR5UnJCejUzZVcwcUJQVzBGUTd3TFo1TGdZTE5pNTFfTS1haFlBckFQV2s4Z3ZQT19INi1EMjNpMS1jWFJQcjNYbUthbGYwMUdWM1d4RWtiejdPR3VYV1NtaUpOU0lwdjZxTG1jUi1ETk5XMHdiNnV3cUpxTEo4UWo4a1hubm9sQmc?oc=5\" target=\"_blank\">Alabama power companies prepare for possible outages as Hurricane Isaias approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-17T21:58:09+00:00"
     },
     {
       "id": "de1bd8e2b73edf9b",
