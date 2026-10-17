@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-10-17T02:33:35+00:00",
+  "last_updated": "2026-10-17T08:11:33+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 108,
+  "count": 109,
   "mentions": [
     {
       "id": "3b15f9bce88c7470",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-16T19:11:52+00:00"
+    },
+    {
+      "id": "0c4287ef732b681a",
+      "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers - ClickOnDetroit | WDIV Local 4",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYS0tZl9rNGhmXzJXaU5DNG1iN2lCZUhoN2ozeVRvMG9jeHU4N3ZGRWRHTmduUDR0bUhxeVMxd0cxOGt1VWZ0VUE5dzdBcWRySEZqeDhpbnVJRkpVa1ZXOGhNUjNZQi1GR29JTnR0S0t3VUZiMkR2ZzBMWGpHRzFZbkVUaHJueUdMN0RWejRfelFhUll1OEdpaTd0ZTBhNEdFdTRlYTNZSFpTM3lONlQ5b1luZUJTSmxNQ2kxSFJiZWVBbUpVb256Ry14dGFnelBVdEJvaWc0QkxzVkQ2Vm83dTZ5V3RQVFRmYmxKODF3?oc=5",
+      "domain": "news.google.com",
+      "source": "ClickOnDetroit | WDIV Local 4",
+      "language": "English",
+      "published_at": "2026-10-16T12:59:16+00:00",
+      "summary": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers ClickOnDetroit | WDIV Local 4",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYS0tZl9rNGhmXzJXaU5DNG1iN2lCZUhoN2ozeVRvMG9jeHU4N3ZGRWRHTmduUDR0bUhxeVMxd0cxOGt1VWZ0VUE5dzdBcWRySEZqeDhpbnVJRkpVa1ZXOGhNUjNZQi1GR29JTnR0S0t3VUZiMkR2ZzBMWGpHRzFZbkVUaHJueUdMN0RWejRfelFhUll1OEdpaTd0ZTBhNEdFdTRlYTNZSFpTM3lONlQ5b1luZUJTSmxNQ2kxSFJiZWVBbUpVb256Ry14dGFnelBVdEJvaWc0QkxzVkQ2Vm83dTZ5V3RQVFRmYmxKODF3?oc=5\" target=\"_blank\">US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ClickOnDetroit | WDIV Local 4</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-17T08:11:33+00:00"
     },
     {
       "id": "35b2735a6c611205",

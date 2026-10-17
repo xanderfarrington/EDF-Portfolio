@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-17T02:33:24+00:00",
+  "last_updated": "2026-10-17T08:11:22+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 564,
+  "count": 565,
   "mentions": [
     {
       "id": "1f1054267a9d0d4d",
@@ -1979,6 +1979,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-09-29T00:06:49+00:00"
+    },
+    {
+      "id": "fe443e7dccebc40d",
+      "title": "Alabama Power Leaders Meet Some of Tuskegee’s Best and Brightest - Tuskegee University",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLUNQX3pXdGQwXzBBTGlhUTJsZWNWQ0N6dmhxSF85R0FNQTRKQWFpYVhCSnk2NG92SFpUSDFnYTRYd1hZNmIycURwYklaU0hiYjc4X2U3YmFvNl9RNWpUZGdFbWhZQXVaYV9ybmhIOHVhTHBwa0lSZkxWTHRDLUpvU21pTnBvaEVBT3N2M2hjYkI0Zy1ORUtGWXRpVVVYTEdPb2lNVDJaZ3R4MGRJb0RfMU5n?oc=5",
+      "domain": "news.google.com",
+      "source": "Tuskegee University",
+      "language": "English",
+      "published_at": "2026-09-28T21:25:50+00:00",
+      "summary": "Alabama Power Leaders Meet Some of Tuskegee’s Best and Brightest Tuskegee University",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPLUNQX3pXdGQwXzBBTGlhUTJsZWNWQ0N6dmhxSF85R0FNQTRKQWFpYVhCSnk2NG92SFpUSDFnYTRYd1hZNmIycURwYklaU0hiYjc4X2U3YmFvNl9RNWpUZGdFbWhZQXVaYV9ybmhIOHVhTHBwa0lSZkxWTHRDLUpvU21pTnBvaEVBT3N2M2hjYkI0Zy1ORUtGWXRpVVVYTEdPb2lNVDJaZ3R4MGRJb0RfMU5n?oc=5\" target=\"_blank\">Alabama Power Leaders Meet Some of Tuskegee’s Best and Brightest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tuskegee University</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-17T08:11:22+00:00"
     },
     {
       "id": "c5016e3d6f41fad8",
