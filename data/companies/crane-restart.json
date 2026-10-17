@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-10-16T22:23:54+00:00",
+  "last_updated": "2026-10-17T02:33:35+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 107,
+  "count": 108,
   "mentions": [
     {
       "id": "3b15f9bce88c7470",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-16T22:23:54+00:00"
+    },
+    {
+      "id": "0cf27cc454fed8df",
+      "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers - Manistee News Advocate",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2U1QWlPZzlFNnlzX1EwV1NrVkRZWXZhdHFoUVhXdkRaSmEybENGV2g1azEtSzA5VnJQVkFsNTJrV3NuelpHQ0VidTR4YzNyc3FFeUNvR3hMX1ROTDVnSlhsOUlGa3o2V0YtVTF5dHFDRm5pSjNpc1p2NnVnZHpaVWtETWJ3c1dZQnJDLVRxNkpIWkR2WkNGdmNfYjlmWTFkVldaNw?oc=5",
+      "domain": "news.google.com",
+      "source": "Manistee News Advocate",
+      "language": "English",
+      "published_at": "2026-10-16T13:10:35+00:00",
+      "summary": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers Manistee News Advocate",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2U1QWlPZzlFNnlzX1EwV1NrVkRZWXZhdHFoUVhXdkRaSmEybENGV2g1azEtSzA5VnJQVkFsNTJrV3NuelpHQ0VidTR4YzNyc3FFeUNvR3hMX1ROTDVnSlhsOUlGa3o2V0YtVTF5dHFDRm5pSjNpc1p2NnVnZHpaVWtETWJ3c1dZQnJDLVRxNkpIWkR2WkNGdmNfYjlmWTFkVldaNw?oc=5\" target=\"_blank\">US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Manistee News Advocate</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-17T02:33:35+00:00"
     },
     {
       "id": "df9e7d235a971285",

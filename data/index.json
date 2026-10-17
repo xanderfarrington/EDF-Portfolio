@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T22:24:10+00:00",
+  "last_updated": "2026-10-17T02:33:51+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -47,28 +47,28 @@
       "name": "Chrysalis",
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
-      "count": 33,
-      "new_mentions_this_run": 2,
+      "count": 34,
+      "new_mentions_this_run": 3,
       "latest_mention": {
-        "id": "991942913a3485be",
-        "title": "SOWI_261017_PHOTO_JVG_SHINE1 - GazetteXtra",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3FRMUZiVDh4eTBYVzdGaVBNeS0xVkpyT0puOGlyN18tOTJKYWFZbWwzaWpEVDVqMS1CUmkybHlpV3ktUG1ZT3ZudTExSnVDVGZHT3djQ1hGVjhFcFF1V2F4T2xNRTFyUDJQRTRibnFqNkZiVzFrYmxUTGdoZE1feTRqWFBWR3hkWEM3UzFWUlZtU292QXhTSlM0U0dXYmtkQVN2QmlCRQ?oc=5",
+        "id": "6eff840e36264da9",
+        "title": "Federal loan for Janesville’s SHINE facility finalized at $263 million - WSAW",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQemc5UW9iWXFmclJZSzBiMTN0dDBXTDRDak1NX2pGZ09PSVRnRTZ5dGlFX25VX3J3T0VaY0xiWnZRSDE0ZUZKVHU5M2VQejlxWGtscnJqVGxuTVN3VEdhQjBEWmg1Y3JGOWdOVlBEZkcwbHRITWt2RjJmWEZVcGRIN2ZTMzhkZnpWd0I4RkszT1hYekV4UlR6ZFBKaVZaY0VpQmc?oc=5",
         "domain": "news.google.com",
-        "source": "GazetteXtra",
+        "source": "WSAW",
         "language": "English",
-        "published_at": "2026-10-16T20:20:00+00:00",
-        "summary": "SOWI_261017_PHOTO_JVG_SHINE1 GazetteXtra",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3FRMUZiVDh4eTBYVzdGaVBNeS0xVkpyT0puOGlyN18tOTJKYWFZbWwzaWpEVDVqMS1CUmkybHlpV3ktUG1ZT3ZudTExSnVDVGZHT3djQ1hGVjhFcFF1V2F4T2xNRTFyUDJQRTRibnFqNkZiVzFrYmxUTGdoZE1feTRqWFBWR3hkWEM3UzFWUlZtU292QXhTSlM0U0dXYmtkQVN2QmlCRQ?oc=5\" target=\"_blank\">SOWI_261017_PHOTO_JVG_SHINE1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GazetteXtra</font>",
+        "published_at": "2026-10-16T22:32:00+00:00",
+        "summary": "Federal loan for Janesville’s SHINE facility finalized at $263 million WSAW",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQemc5UW9iWXFmclJZSzBiMTN0dDBXTDRDak1NX2pGZ09PSVRnRTZ5dGlFX25VX3J3T0VaY0xiWnZRSDE0ZUZKVHU5M2VQejlxWGtscnJqVGxuTVN3VEdhQjBEWmg1Y3JGOWdOVlBEZkcwbHRITWt2RjJmWEZVcGRIN2ZTMzhkZnpWd0I4RkszT1hYekV4UlR6ZFBKaVZaY0VpQmc?oc=5\" target=\"_blank\">Federal loan for Janesville’s SHINE facility finalized at $263 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAW</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-16T22:23:48+00:00"
+        "collected_at": "2026-10-17T02:33:29+00:00"
       }
     },
     {
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 107,
+      "count": 108,
       "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "3b15f9bce88c7470",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 972,
+      "count": 973,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "96a61694c5817cd9",
