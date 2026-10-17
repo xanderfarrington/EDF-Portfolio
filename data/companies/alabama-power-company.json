@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-17T21:58:09+00:00",
+  "last_updated": "2026-10-17T23:49:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 566,
+  "count": 567,
   "mentions": [
     {
       "id": "1f1054267a9d0d4d",
@@ -215,6 +215,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-11T21:21:22+00:00"
+    },
+    {
+      "id": "2663f841b220aa91",
+      "title": "More than 267,000 Alabama Power customers lose electricity during Isaias - WCHS",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUFZrZHlOZFYzMzhPX0t5WWZCNjhvcDE3LTVyYTNNTlNqZkUya1pPbVhCR1BXSnRnUHVyUmluTWpHb2h3SW8zNHp5Z0ZwUGl6UnZhODBOMVVDUFZsclZ3T0FLenNzV0NwN0ducmVoUWZKcG03UGtYcWVDbEh3UHFwdXZ5MURzaXFpTXJBWjNXek1oaHhrSl9NX2Uxejk1MDdEb3dpT2ppVTV1UnFta0tGc00wTGNKejhjYjc0X29NXzUzZThQMktTWnN0cldRZ2d0a0E?oc=5",
+      "domain": "news.google.com",
+      "source": "WCHS",
+      "language": "English",
+      "published_at": "2026-10-11T09:19:29+00:00",
+      "summary": "More than 267,000 Alabama Power customers lose electricity during Isaias WCHS",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUFZrZHlOZFYzMzhPX0t5WWZCNjhvcDE3LTVyYTNNTlNqZkUya1pPbVhCR1BXSnRnUHVyUmluTWpHb2h3SW8zNHp5Z0ZwUGl6UnZhODBOMVVDUFZsclZ3T0FLenNzV0NwN0ducmVoUWZKcG03UGtYcWVDbEh3UHFwdXZ5MURzaXFpTXJBWjNXek1oaHhrSl9NX2Uxejk1MDdEb3dpT2ppVTV1UnFta0tGc00wTGNKejhjYjc0X29NXzUzZThQMktTWnN0cldRZ2d0a0E?oc=5\" target=\"_blank\">More than 267,000 Alabama Power customers lose electricity during Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCHS</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-17T23:49:34+00:00"
     },
     {
       "id": "a6f635f6c96d3a5e",

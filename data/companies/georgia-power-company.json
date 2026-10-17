@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-17T21:58:26+00:00",
+  "last_updated": "2026-10-17T23:49:51+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 974,
+  "count": 975,
   "mentions": [
     {
       "id": "96a61694c5817cd9",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-16T19:11:57+00:00"
+    },
+    {
+      "id": "663d502299dc19d7",
+      "title": "USDA loan to Georgia power plant may support data center-driven demand - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnFZWlRMd3RwM0lXaTJleEJ0bnQwMFFFWjl3V3RLR1J5cHRsajkxTDVnNDFlRHpTNGxaeXZ1SmwxdmVaRi1ZQ1loRG5iUkRpWnBhVXFnOUtXWldsZTBCYzY1ZmM0T2J1SjFrdV9yZHJ0ZncxSjFtRVo5TGdTRVNaR3BvQkVWS3l0VjFuT0U3Vk4wNzA?oc=5",
+      "domain": "news.google.com",
+      "source": "Traders Union",
+      "language": "English",
+      "published_at": "2026-10-16T15:39:42+00:00",
+      "summary": "USDA loan to Georgia power plant may support data center-driven demand Traders Union",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnFZWlRMd3RwM0lXaTJleEJ0bnQwMFFFWjl3V3RLR1J5cHRsajkxTDVnNDFlRHpTNGxaeXZ1SmwxdmVaRi1ZQ1loRG5iUkRpWnBhVXFnOUtXWldsZTBCYzY1ZmM0T2J1SjFrdV9yZHJ0ZncxSjFtRVo5TGdTRVNaR3BvQkVWS3l0VjFuT0U3Vk4wNzA?oc=5\" target=\"_blank\">USDA loan to Georgia power plant may support data center-driven demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-17T23:49:51+00:00"
     },
     {
       "id": "1a4f2a4d8e6ddcf4",
