@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-17T08:11:38+00:00",
+  "last_updated": "2026-10-17T13:24:35+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 973,
+  "count": 974,
   "mentions": [
     {
       "id": "96a61694c5817cd9",
@@ -411,6 +411,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-12T00:53:53+00:00"
+    },
+    {
+      "id": "0a30ecd59692323c",
+      "title": "Georgia Power restores power to 80,000 customers after Isaias brings high winds, fallen trees - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYnVGUHh3aHpyWm9vNUtVUkVKVzVDZzA5Uzk0TDlINms5OG1hb2hmYUxZanlOVk5CUk5sUVQtSkNtWGFkMjlMZXluZnI4UlVBd05lSlhFSUozYlV2OU1scWlHZm90b3NIS3Nwc09EcW5yZmZMNDZRMktTU1RzOFI5bzBaaXNTQ200U2YyVncwRlR2LUN0LUZhdWpsVFpBZDI4MEp3RE0xZXlhYlJEZG5qYWtDdV9RdEc3SllSckJR0gHSAUFVX3lxTFBVai1rV2FSLXpCSXFGR2Qwa0RoT2IxV0l5QkEzQkVzV3U0YmZlVEJnQjhZLUhKbGp1b0VVcmRlRUpYdUlvalh4Z0RPRms4YlljaThFZDFCeHdFMUZRX1M2Rm5xNTE2Z05qMzdZYjFpbHR4VjhZd19RaE9faGtRa0s4VTNYT0xaaUJmd1RGdlBZODZBT1BMVUdKOXhIMnRHRV84SFVIaVZ1anVKNld5NUIyTEc0UkxIRUM1YXY1SFFuUm1XaDVvM2tvRkI4ZlJ1LTVnQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-10-11T01:36:00+00:00",
+      "summary": "Georgia Power restores power to 80,000 customers after Isaias brings high winds, fallen trees WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPYnVGUHh3aHpyWm9vNUtVUkVKVzVDZzA5Uzk0TDlINms5OG1hb2hmYUxZanlOVk5CUk5sUVQtSkNtWGFkMjlMZXluZnI4UlVBd05lSlhFSUozYlV2OU1scWlHZm90b3NIS3Nwc09EcW5yZmZMNDZRMktTU1RzOFI5bzBaaXNTQ200U2YyVncwRlR2LUN0LUZhdWpsVFpBZDI4MEp3RE0xZXlhYlJEZG5qYWtDdV9RdEc3SllSckJR0gHSAUFVX3lxTFBVai1rV2FSLXpCSXFGR2Qwa0RoT2IxV0l5QkEzQkVzV3U0YmZlVEJnQjhZLUhKbGp1b0VVcmRlRUpYdUlvalh4Z0RPRms4YlljaThFZDFCeHdFMUZRX1M2Rm5xNTE2Z05qMzdZYjFpbHR4VjhZd19RaE9faGtRa0s4VTNYT0xaaUJmd1RGdlBZODZBT1BMVUdKOXhIMnRHRV84SFVIaVZ1anVKNld5NUIyTEc0UkxIRUM1YXY1SFFuUm1XaDVvM2tvRkI4ZlJ1LTVnQQ?oc=5\" target=\"_blank\">Georgia Power restores power to 80,000 customers after Isaias brings high winds, fallen trees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-17T13:24:35+00:00"
     },
     {
       "id": "eb1a23633ccfff6b",
