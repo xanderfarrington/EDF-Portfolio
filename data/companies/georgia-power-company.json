@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-18T17:02:18+00:00",
+  "last_updated": "2026-10-18T19:57:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 976,
+  "count": 977,
   "mentions": [
     {
       "id": "773cd5fbd014db45",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-18T17:02:18+00:00"
+    },
+    {
+      "id": "efbbec9c1fa31599",
+      "title": "Georgia Power continues coastal grid enhancement work with upgrade to Tybee Island infrastructure - Grice Connect",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSFZUb3VpMV9WMFpsWnR3M19zb2ZfSVVuUHE5a3hpY3Z2T0FLNnhFMTlrUnRucGJhZFlMZ0RCdHB0RUl0Q1MwcGNlbEpwOWgtUV9KT29JMFBLTjUzT0lkNlI4VVZxQm1DVUpOTFJVbWFPTFFsX1JmcHhhalVHNG1SdVVPQlktakFvTklPekNuc2xhRTRha2NEWVlkWEhwWHVqUjd2YmNfRHFSUTV3MDREcFVYQy1PLThFNF85NU9lYUlHcm5ReVlKOWxVQWoxXzV3WWZRWG90UmRuLWR5YU5kTFBzSWvSAeQBQVVfeXFMUEhWVG91aTFfVjBabFp0dzNfc29mX0lVblBxOWt4aWN2dk9BSzZ4RTE5a1J0bnBiYWRZTGdEQnRwdEVJdENTMHBjZWxKcDloLVFfSk9vSTBQS041M09JZDZSOFVWcUJtQ1VKTkxSVW1hT0xRbF9SZnB4YWpVRzRtUnVVT0JZLWpBb05JT3pDbnNsYUU0YWtjRFlZZFhIcFh1alI3dmJjX0RxUlE1dzA0RHBVWEMtTy04RTRfOTVPZWFJR3JuUXlZSjlsVUFqMV81d1lmUVhvdFJkbi1keWFOZExQc0lr?oc=5",
+      "domain": "news.google.com",
+      "source": "Grice Connect",
+      "language": "English",
+      "published_at": "2026-10-18T14:05:00+00:00",
+      "summary": "Georgia Power continues coastal grid enhancement work with upgrade to Tybee Island infrastructure Grice Connect",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSFZUb3VpMV9WMFpsWnR3M19zb2ZfSVVuUHE5a3hpY3Z2T0FLNnhFMTlrUnRucGJhZFlMZ0RCdHB0RUl0Q1MwcGNlbEpwOWgtUV9KT29JMFBLTjUzT0lkNlI4VVZxQm1DVUpOTFJVbWFPTFFsX1JmcHhhalVHNG1SdVVPQlktakFvTklPekNuc2xhRTRha2NEWVlkWEhwWHVqUjd2YmNfRHFSUTV3MDREcFVYQy1PLThFNF85NU9lYUlHcm5ReVlKOWxVQWoxXzV3WWZRWG90UmRuLWR5YU5kTFBzSWvSAeQBQVVfeXFMUEhWVG91aTFfVjBabFp0dzNfc29mX0lVblBxOWt4aWN2dk9BSzZ4RTE5a1J0bnBiYWRZTGdEQnRwdEVJdENTMHBjZWxKcDloLVFfSk9vSTBQS041M09JZDZSOFVWcUJtQ1VKTkxSVW1hT0xRbF9SZnB4YWpVRzRtUnVVT0JZLWpBb05JT3pDbnNsYUU0YWtjRFlZZFhIcFh1alI3dmJjX0RxUlE1dzA0RHBVWEMtTy04RTRfOTVPZWFJR3JuUXlZSjlsVUFqMV81d1lmUVhvdFJkbi1keWFOZExQc0lr?oc=5\" target=\"_blank\">Georgia Power continues coastal grid enhancement work with upgrade to Tybee Island infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-18T19:57:36+00:00"
     },
     {
       "id": "96a61694c5817cd9",
