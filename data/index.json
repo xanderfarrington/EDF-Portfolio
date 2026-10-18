@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T13:43:15+00:00",
+  "last_updated": "2026-10-18T17:02:29+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 975,
+      "count": 976,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "96a61694c5817cd9",
-        "title": "Birmingham company acquires Georgia power plant - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUlzMEVvNE9oRmE5ZFFhdVVjR1hfVkp5c0lDM2hxRldIQmxEdnZpcG14YzhOYVhfSHg4cUg4SzJfVUlTVDdzNkt1ZnJTdUFMd0lRaVhfTTBVWjJGMkxFYnBCVTU2QVh6Wm5IdGFEN3Q3MWVoTXVOSllJckxYZ2hMOVM3ZVRRbkRwVXpzX3JkNWN5QQ?oc=5",
+        "id": "773cd5fbd014db45",
+        "title": "Georgia Power continues coastal grid enhancement work with upgrade to Tybee Island infrastructure - Grice Connect",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdEhLS0FMNHhva2NxLTlBbHJqRVZCM1FZT3pqdUVrY2dScEZkTC1xd2Nud3pBY3FqMzhNYXdGWjc1UUVWZnM0YWExWjFPTmpxMjlOdWJoWWZVb3BPeWhfQWstNW01bXZOMDVCMm5OUHR1TnVRMWhTdmNFdFA2bzJJckN1d3FQNXoxMUVnVXh5aHlwODJweDh4djh0MUFmZTJNbmxOUkxrSWpGQ3hLcXNzZThhTk1rRTlNbEpFd3B2cF9RaHpNb0J6dUhxYkVFc1ZQSkYxMjB0RE9xNmdNZFpR0gHkAUFVX3lxTFBIVlRvdWkxX1YwWmxadHczX3NvZl9JVW5QcTlreGljdnZPQUs2eEUxOWtSdG5wYmFkWUxnREJ0cHRFSXRDUzBwY2VsSnA5aC1RX0pPb0kwUEtONTNPSWQ2UjhVVnFCbUNVSk5MUlVtYU9MUWxfUmZweGFqVUc0bVJ1VU9CWS1qQW9OSU96Q25zbGFFNGFrY0RZWWRYSHBYdWpSN3ZiY19EcVJRNXcwNERwVVhDLU8tOEU0Xzk1T2VhSUdyblF5WUo5bFVBajFfNXdZZlFYb3RSZG4tZHlhTmRMUHNJaw?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "Grice Connect",
         "language": "English",
-        "published_at": "2026-10-16T17:15:00+00:00",
-        "summary": "Birmingham company acquires Georgia power plant AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUlzMEVvNE9oRmE5ZFFhdVVjR1hfVkp5c0lDM2hxRldIQmxEdnZpcG14YzhOYVhfSHg4cUg4SzJfVUlTVDdzNkt1ZnJTdUFMd0lRaVhfTTBVWjJGMkxFYnBCVTU2QVh6Wm5IdGFEN3Q3MWVoTXVOSllJckxYZ2hMOVM3ZVRRbkRwVXpzX3JkNWN5QQ?oc=5\" target=\"_blank\">Birmingham company acquires Georgia power plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-10-18T14:05:00+00:00",
+        "summary": "Georgia Power continues coastal grid enhancement work with upgrade to Tybee Island infrastructure Grice Connect",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdEhLS0FMNHhva2NxLTlBbHJqRVZCM1FZT3pqdUVrY2dScEZkTC1xd2Nud3pBY3FqMzhNYXdGWjc1UUVWZnM0YWExWjFPTmpxMjlOdWJoWWZVb3BPeWhfQWstNW01bXZOMDVCMm5OUHR1TnVRMWhTdmNFdFA2bzJJckN1d3FQNXoxMUVnVXh5aHlwODJweDh4djh0MUFmZTJNbmxOUkxrSWpGQ3hLcXNzZThhTk1rRTlNbEpFd3B2cF9RaHpNb0J6dUhxYkVFc1ZQSkYxMjB0RE9xNmdNZFpR0gHkAUFVX3lxTFBIVlRvdWkxX1YwWmxadHczX3NvZl9JVW5QcTlreGljdnZPQUs2eEUxOWtSdG5wYmFkWUxnREJ0cHRFSXRDUzBwY2VsSnA5aC1RX0pPb0kwUEtONTNPSWQ2UjhVVnFCbUNVSk5MUlVtYU9MUWxfUmZweGFqVUc0bVJ1VU9CWS1qQW9OSU96Q25zbGFFNGFrY0RZWWRYSHBYdWpSN3ZiY19EcVJRNXcwNERwVVhDLU8tOEU0Xzk1T2VhSUdyblF5WUo5bFVBajFfNXdZZlFYb3RSZG4tZHlhTmRMUHNJaw?oc=5\" target=\"_blank\">Georgia Power continues coastal grid enhancement work with upgrade to Tybee Island infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-16T19:11:57+00:00"
+        "collected_at": "2026-10-18T17:02:18+00:00"
       }
     },
     {
