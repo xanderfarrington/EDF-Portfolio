@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-18T02:35:14+00:00",
+  "last_updated": "2026-10-18T08:28:45+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 110,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "bb732da69d683116",
         "title": "AEP4961682 Bond Profile: Coupon and Redemption - tradingview.com",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 567,
-      "new_mentions_this_run": 0,
+      "count": 568,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "1f1054267a9d0d4d",
         "title": "Alabama Power completes restoration following Hurricane Isaias - GuruFocus",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 34,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "6eff840e36264da9",
         "title": "Federal loan for Janesville’s SHINE facility finalized at $263 million - WSAW",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 109,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "3b15f9bce88c7470",
         "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers - Huron Daily Tribune",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 975,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "96a61694c5817cd9",
         "title": "Birmingham company acquires Georgia power plant - AL.com",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",

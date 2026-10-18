@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-18T02:34:24+00:00",
+  "last_updated": "2026-10-18T08:28:18+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 567,
+  "count": 568,
   "mentions": [
     {
       "id": "1f1054267a9d0d4d",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-15T22:49:56+00:00"
+    },
+    {
+      "id": "83b23a2007d712df",
+      "title": "Alabama Power completes restoration following Hurricane Isaias - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUTJ1Y0JvRFB5a3FrTk9VZnRRNGVaWlhTT053S1ctazdiTzdqNTNxWXAtTXBMVU1Vc1JWbmYzV3NvMEVpMC1oNmVjRktfQWZQeURkc2ZEZkxrMER4alhaQUxLWGlCZHFKVUhtTzNFaHpqMUVieEprRXZYMFdIWTIwTWdyV0c0WURLRTd1TmNGNWRxeENpNklxVWhaV05neEZZNXBvOQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-10-15T18:05:00+00:00",
+      "summary": "Alabama Power completes restoration following Hurricane Isaias Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUTJ1Y0JvRFB5a3FrTk9VZnRRNGVaWlhTT053S1ctazdiTzdqNTNxWXAtTXBMVU1Vc1JWbmYzV3NvMEVpMC1oNmVjRktfQWZQeURkc2ZEZkxrMER4alhaQUxLWGlCZHFKVUhtTzNFaHpqMUVieEprRXZYMFdIWTIwTWdyV0c0WURLRTd1TmNGNWRxeENpNklxVWhaV05neEZZNXBvOQ?oc=5\" target=\"_blank\">Alabama Power completes restoration following Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-18T08:28:18+00:00"
     },
     {
       "id": "923c3b1238b44594",
