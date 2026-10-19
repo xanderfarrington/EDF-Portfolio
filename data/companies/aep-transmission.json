@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-10-19T09:29:40+00:00",
+  "last_updated": "2026-10-19T16:44:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 111,
+  "count": 112,
   "mentions": [
     {
       "id": "b23b63aef10066af",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-19T09:29:40+00:00"
+    },
+    {
+      "id": "ea17d34cd560729a",
+      "title": "Residents asked to weigh on on AEP's transmission project in four counties - Centre Daily Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXYwU1F2UE50RnBQaWpwU3RaVXl6akNfWDEybkgzYjJsVWk4MEJmbVF1YU9WWlZYUGhFSWQzOE82RzE3S256OC1ETEV5eWZ1Y1NGd1Bsa2UxcW5TekpQUC1zQkpwdDNfUnU0Q2FmVFFZb1BEZUlydkhkNlh1cXhtbzZ3?oc=5",
+      "domain": "news.google.com",
+      "source": "Centre Daily Times",
+      "language": "English",
+      "published_at": "2026-10-19T09:12:00+00:00",
+      "summary": "Residents asked to weigh on on AEP's transmission project in four counties Centre Daily Times",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXYwU1F2UE50RnBQaWpwU3RaVXl6akNfWDEybkgzYjJsVWk4MEJmbVF1YU9WWlZYUGhFSWQzOE82RzE3S256OC1ETEV5eWZ1Y1NGd1Bsa2UxcW5TekpQUC1zQkpwdDNfUnU0Q2FmVFFZb1BEZUlydkhkNlh1cXhtbzZ3?oc=5\" target=\"_blank\">Residents asked to weigh on on AEP's transmission project in four counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Centre Daily Times</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-19T16:44:31+00:00"
     },
     {
       "id": "bb732da69d683116",
