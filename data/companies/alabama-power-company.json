@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-19T16:44:37+00:00",
+  "last_updated": "2026-10-19T21:55:11+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 569,
+  "count": 570,
   "mentions": [
+    {
+      "id": "7727d02ad177883c",
+      "title": "Alabama Power crews headed to Texas to help restore power - alabamas42.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXhpM1ZuZE5RYVk2YXBzQ0p0bzlmRjhsVUxDWFkxYXNzYnYzN3RBb0d2eEQySkZORlUtM0lWbHBBTTRaVEl1MlAzWnEwYUVxNlFESm5KQnN2ZDdoOUdzUF9TTnhTNnpleEpuYXA5OHJTaVdMYjdFMUF1TDNYQ0h0aDZUaWhJdTFPcmZEdnBxVWszTktXZU5rTHhQVmYxRG9u?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamas42.com",
+      "language": "English",
+      "published_at": "2026-10-16T12:34:51+00:00",
+      "summary": "Alabama Power crews headed to Texas to help restore power alabamas42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXhpM1ZuZE5RYVk2YXBzQ0p0bzlmRjhsVUxDWFkxYXNzYnYzN3RBb0d2eEQySkZORlUtM0lWbHBBTTRaVEl1MlAzWnEwYUVxNlFESm5KQnN2ZDdoOUdzUF9TTnhTNnpleEpuYXA5OHJTaVdMYjdFMUF1TDNYQ0h0aDZUaWhJdTFPcmZEdnBxVWszTktXZU5rTHhQVmYxRG9u?oc=5\" target=\"_blank\">Alabama Power crews headed to Texas to help restore power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamas42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-19T21:55:11+00:00"
+    },
     {
       "id": "1f1054267a9d0d4d",
       "title": "Alabama Power completes restoration following Hurricane Isaias - GuruFocus",

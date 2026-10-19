@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T16:45:04+00:00",
+  "last_updated": "2026-10-19T21:55:38+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 569,
+      "count": 570,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "1f1054267a9d0d4d",
-        "title": "Alabama Power completes restoration following Hurricane Isaias - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWdNRU1oUjFFMmFJZy1vNzlkZ3F4ZHdISFQyNFNuN1k1aW1DLVRfT0pySHA2YlBrem9pU0xrY2dvWm9UZUlwQmczWWJTOThJaG9WYTlOVjFtbXJ3ZnhtS09ORGM2T2owZzlOSGhMSjZ5Y3YyYjBDWEhTQnFsZ0ZSbFN4Nm5MelFGd2VLZ3lYYVNseEQzQnp2OFV4ZlNTTlN0bnRN?oc=5",
+        "id": "7727d02ad177883c",
+        "title": "Alabama Power crews headed to Texas to help restore power - alabamas42.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXhpM1ZuZE5RYVk2YXBzQ0p0bzlmRjhsVUxDWFkxYXNzYnYzN3RBb0d2eEQySkZORlUtM0lWbHBBTTRaVEl1MlAzWnEwYUVxNlFESm5KQnN2ZDdoOUdzUF9TTnhTNnpleEpuYXA5OHJTaVdMYjdFMUF1TDNYQ0h0aDZUaWhJdTFPcmZEdnBxVWszTktXZU5rTHhQVmYxRG9u?oc=5",
         "domain": "news.google.com",
-        "source": "GuruFocus",
+        "source": "alabamas42.com",
         "language": "English",
-        "published_at": "2026-10-15T19:32:40+00:00",
-        "summary": "Alabama Power completes restoration following Hurricane Isaias GuruFocus",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWdNRU1oUjFFMmFJZy1vNzlkZ3F4ZHdISFQyNFNuN1k1aW1DLVRfT0pySHA2YlBrem9pU0xrY2dvWm9UZUlwQmczWWJTOThJaG9WYTlOVjFtbXJ3ZnhtS09ORGM2T2owZzlOSGhMSjZ5Y3YyYjBDWEhTQnFsZ0ZSbFN4Nm5MelFGd2VLZ3lYYVNseEQzQnp2OFV4ZlNTTlN0bnRN?oc=5\" target=\"_blank\">Alabama Power completes restoration following Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+        "published_at": "2026-10-16T12:34:51+00:00",
+        "summary": "Alabama Power crews headed to Texas to help restore power alabamas42.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXhpM1ZuZE5RYVk2YXBzQ0p0bzlmRjhsVUxDWFkxYXNzYnYzN3RBb0d2eEQySkZORlUtM0lWbHBBTTRaVEl1MlAzWnEwYUVxNlFESm5KQnN2ZDdoOUdzUF9TTnhTNnpleEpuYXA5OHJTaVdMYjdFMUF1TDNYQ0h0aDZUaWhJdTFPcmZEdnBxVWszTktXZU5rTHhQVmYxRG9u?oc=5\" target=\"_blank\">Alabama Power crews headed to Texas to help restore power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamas42.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-15T19:37:27+00:00"
+        "collected_at": "2026-10-19T21:55:11+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",
