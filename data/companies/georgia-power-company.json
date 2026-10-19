@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-19T02:48:08+00:00",
+  "last_updated": "2026-10-19T09:30:02+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 977,
+  "count": 978,
   "mentions": [
+    {
+      "id": "e63dbfe2a7cddfa0",
+      "title": "Georgia Power highlights energy aid and Southern Company stock costs EUR 81.00 - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHIwYmw0TEVBendpVmNNS0VtTGZmUjlHVkFMS0RBQlFTV21ybzFsRFRsMU04M3M3YVV3UW1YR3dkQk9xN2lSZFFaTGxTcEZIRFNRdGI0NlZKVm80TmxmRFM3UExSN25RaURTMC13eWxyUmxCeWw4VU95VGFGRmk1WDNxQkllbHJxSWZqM2NiNzN2ME9kd01PaWpXQTQ0cTBxX21qRU9ZTXU1VzFVazN5QkpkZlRHaGFlelYwemllT2pBc0pyVjZNVEEyOXR3RjFj?oc=5",
+      "domain": "news.google.com",
+      "source": "ad-hoc-news.de",
+      "language": "English",
+      "published_at": "2026-10-19T07:15:19+00:00",
+      "summary": "Georgia Power highlights energy aid and Southern Company stock costs EUR 81.00 ad-hoc-news.de",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHIwYmw0TEVBendpVmNNS0VtTGZmUjlHVkFMS0RBQlFTV21ybzFsRFRsMU04M3M3YVV3UW1YR3dkQk9xN2lSZFFaTGxTcEZIRFNRdGI0NlZKVm80TmxmRFM3UExSN25RaURTMC13eWxyUmxCeWw4VU95VGFGRmk1WDNxQkllbHJxSWZqM2NiNzN2ME9kd01PaWpXQTQ0cTBxX21qRU9ZTXU1VzFVazN5QkpkZlRHaGFlelYwemllT2pBc0pyVjZNVEEyOXR3RjFj?oc=5\" target=\"_blank\">Georgia Power highlights energy aid and Southern Company stock costs EUR 81.00</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-19T09:30:02+00:00"
+    },
     {
       "id": "773cd5fbd014db45",
       "title": "Georgia Power continues coastal grid enhancement work with upgrade to Tybee Island infrastructure - Grice Connect",

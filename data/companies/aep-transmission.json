@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-10-19T02:47:45+00:00",
+  "last_updated": "2026-10-19T09:29:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 110,
+  "count": 111,
   "mentions": [
+    {
+      "id": "b23b63aef10066af",
+      "title": "Residents asked to weigh on on AEP's transmission project in four counties - Coshocton Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUVVYklTT1o1UlZMM3lyZ2Zyb0cxZ2JZZEpUUUk1dTlZUUVqc2FUM1VkSkQ1TEZTdjZFVmdoX2FGbEZId0pCM0xKSWVpNTFPb2tDdUJLZVpySDRWSUF2WEtheVRHODJtSmxNRWlkTk94SjBkQVNxemM0dXNhcDRDTjhCMUhfbzdxMl9sLUdKVE1uYzF6WkwyZGQ2djJvc0VublVRdEpXaEprNFREMUdSSnpNcS1iaG5oRUpUVlpPQlkwSHJQbW9GVHk5YVlQQlY2VlJkbzh0MG1QZ3MtSUl1YW5YbWQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Coshocton Tribune",
+      "language": "English",
+      "published_at": "2026-10-19T09:12:00+00:00",
+      "summary": "Residents asked to weigh on on AEP's transmission project in four counties Coshocton Tribune",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUVVYklTT1o1UlZMM3lyZ2Zyb0cxZ2JZZEpUUUk1dTlZUUVqc2FUM1VkSkQ1TEZTdjZFVmdoX2FGbEZId0pCM0xKSWVpNTFPb2tDdUJLZVpySDRWSUF2WEtheVRHODJtSmxNRWlkTk94SjBkQVNxemM0dXNhcDRDTjhCMUhfbzdxMl9sLUdKVE1uYzF6WkwyZGQ2djJvc0VublVRdEpXaEprNFREMUdSSnpNcS1iaG5oRUpUVlpPQlkwSHJQbW9GVHk5YVlQQlY2VlJkbzh0MG1QZ3MtSUl1YW5YbWQ?oc=5\" target=\"_blank\">Residents asked to weigh on on AEP's transmission project in four counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coshocton Tribune</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-19T09:29:40+00:00"
+    },
     {
       "id": "bb732da69d683116",
       "title": "AEP4961682 Bond Profile: Coupon and Redemption - tradingview.com",
