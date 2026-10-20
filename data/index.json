@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T00:52:34+00:00",
+  "last_updated": "2026-10-20T07:00:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 570,
+      "count": 571,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "7727d02ad177883c",
-        "title": "Alabama Power crews headed to Texas to help restore power - alabamas42.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXhpM1ZuZE5RYVk2YXBzQ0p0bzlmRjhsVUxDWFkxYXNzYnYzN3RBb0d2eEQySkZORlUtM0lWbHBBTTRaVEl1MlAzWnEwYUVxNlFESm5KQnN2ZDdoOUdzUF9TTnhTNnpleEpuYXA5OHJTaVdMYjdFMUF1TDNYQ0h0aDZUaWhJdTFPcmZEdnBxVWszTktXZU5rTHhQVmYxRG9u?oc=5",
+        "id": "bc10811a06cf7d66",
+        "title": "Retired Southern Co. executive tapped for BBJ CEO Awards Hall of Fame - The Business Journals",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHVMZk5iN3g3OEdiRi0wVTJnVGxjaDc5MnhvY1l1Rkk0ZEtXTG9mUlBXelQ5R2hHaWVqS0RWeWN3WmZTWVZOZ2JKSmg5dWNORUg0d0l3cmVDcEVtSjBoNDQzalZJanM2YUZjeDNnWDU3d283NndWcE1SdjkwTTdSTk1Cd054UjdxTmRqUGZnRQ?oc=5",
         "domain": "news.google.com",
-        "source": "alabamas42.com",
+        "source": "The Business Journals",
         "language": "English",
-        "published_at": "2026-10-16T12:34:51+00:00",
-        "summary": "Alabama Power crews headed to Texas to help restore power alabamas42.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXhpM1ZuZE5RYVk2YXBzQ0p0bzlmRjhsVUxDWFkxYXNzYnYzN3RBb0d2eEQySkZORlUtM0lWbHBBTTRaVEl1MlAzWnEwYUVxNlFESm5KQnN2ZDdoOUdzUF9TTnhTNnpleEpuYXA5OHJTaVdMYjdFMUF1TDNYQ0h0aDZUaWhJdTFPcmZEdnBxVWszTktXZU5rTHhQVmYxRG9u?oc=5\" target=\"_blank\">Alabama Power crews headed to Texas to help restore power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamas42.com</font>",
+        "published_at": "2026-10-19T22:48:00+00:00",
+        "summary": "Retired Southern Co. executive tapped for BBJ CEO Awards Hall of Fame The Business Journals",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHVMZk5iN3g3OEdiRi0wVTJnVGxjaDc5MnhvY1l1Rkk0ZEtXTG9mUlBXelQ5R2hHaWVqS0RWeWN3WmZTWVZOZ2JKSmg5dWNORUg0d0l3cmVDcEVtSjBoNDQzalZJanM2YUZjeDNnWDU3d283NndWcE1SdjkwTTdSTk1Cd054UjdxTmRqUGZnRQ?oc=5\" target=\"_blank\">Retired Southern Co. executive tapped for BBJ CEO Awards Hall of Fame</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-19T21:55:11+00:00"
+        "collected_at": "2026-10-20T06:59:37+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 109,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "3b15f9bce88c7470",
         "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers - Huron Daily Tribune",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",

@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-20T00:52:07+00:00",
+  "last_updated": "2026-10-20T06:59:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 570,
+  "count": 571,
   "mentions": [
+    {
+      "id": "bc10811a06cf7d66",
+      "title": "Retired Southern Co. executive tapped for BBJ CEO Awards Hall of Fame - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHVMZk5iN3g3OEdiRi0wVTJnVGxjaDc5MnhvY1l1Rkk0ZEtXTG9mUlBXelQ5R2hHaWVqS0RWeWN3WmZTWVZOZ2JKSmg5dWNORUg0d0l3cmVDcEVtSjBoNDQzalZJanM2YUZjeDNnWDU3d283NndWcE1SdjkwTTdSTk1Cd054UjdxTmRqUGZnRQ?oc=5",
+      "domain": "news.google.com",
+      "source": "The Business Journals",
+      "language": "English",
+      "published_at": "2026-10-19T22:48:00+00:00",
+      "summary": "Retired Southern Co. executive tapped for BBJ CEO Awards Hall of Fame The Business Journals",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHVMZk5iN3g3OEdiRi0wVTJnVGxjaDc5MnhvY1l1Rkk0ZEtXTG9mUlBXelQ5R2hHaWVqS0RWeWN3WmZTWVZOZ2JKSmg5dWNORUg0d0l3cmVDcEVtSjBoNDQzalZJanM2YUZjeDNnWDU3d283NndWcE1SdjkwTTdSTk1Cd054UjdxTmRqUGZnRQ?oc=5\" target=\"_blank\">Retired Southern Co. executive tapped for BBJ CEO Awards Hall of Fame</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-20T06:59:37+00:00"
+    },
     {
       "id": "7727d02ad177883c",
       "title": "Alabama Power crews headed to Texas to help restore power - alabamas42.com",
