@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-20T18:14:03+00:00",
+  "last_updated": "2026-10-20T22:53:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 981,
+  "count": 982,
   "mentions": [
     {
       "id": "92c3ca8b53ec09b0",
@@ -817,6 +817,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-10T10:21:54+00:00"
+    },
+    {
+      "id": "24bac90b6b865b58",
+      "title": "Georgia power outages hit 45,000 in storm - FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZlhTSHBJRExLU1g4U2Y5TDg2RHVjOXUyRW93Z1Rqc2pyR2NScXAtSExRRGFDS3VDOVRrdGprWExFanVxRkNaX1R1OWlaTmgyamJqby1WQ0U4R29fS1Rmb2NJMnY?oc=5",
+      "domain": "news.google.com",
+      "source": "FOX 5 Atlanta",
+      "language": "English",
+      "published_at": "2026-10-10T07:00:00+00:00",
+      "summary": "Georgia power outages hit 45,000 in storm FOX 5 Atlanta",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZlhTSHBJRExLU1g4U2Y5TDg2RHVjOXUyRW93Z1Rqc2pyR2NScXAtSExRRGFDS3VDOVRrdGprWExFanVxRkNaX1R1OWlaTmgyamJqby1WQ0U4R29fS1Rmb2NJMnY?oc=5\" target=\"_blank\">Georgia power outages hit 45,000 in storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-20T22:53:07+00:00"
     },
     {
       "id": "c8e4ef508b3f122a",

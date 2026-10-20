@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T18:14:13+00:00",
+  "last_updated": "2026-10-20T22:53:18+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 572,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "a25088595d91fb5a",
         "title": "Alabama Power completes power restoration after storm - The Brewton Standard",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 981,
+      "count": 982,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "92c3ca8b53ec09b0",
