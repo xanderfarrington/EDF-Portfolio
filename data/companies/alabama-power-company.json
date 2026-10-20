@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-20T13:11:58+00:00",
+  "last_updated": "2026-10-20T18:13:46+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 571,
+  "count": 572,
   "mentions": [
+    {
+      "id": "a25088595d91fb5a",
+      "title": "Alabama Power completes power restoration after storm - The Brewton Standard",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEx1ZkQ0LUlJS0gzaE9nTl9icG80a2c0NG1jc0RLcmQxTnNkeDFfUGdTZkZXaDZ2Y2UyY0wyOWttazk1OVl0ZW9nUnFiejFQR1huRW0xZTBrd0JRVXRUdUJzbGNoTEVXYThFNnlvdlVMSU4tbEZDUlFYeW9GY0V3bDN5bmdrWVctNzlaN2ZDOUJvUmZGZkx1M2JmWXIwUHhZ?oc=5",
+      "domain": "news.google.com",
+      "source": "The Brewton Standard",
+      "language": "English",
+      "published_at": "2026-10-20T16:00:24+00:00",
+      "summary": "Alabama Power completes power restoration after storm The Brewton Standard",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEx1ZkQ0LUlJS0gzaE9nTl9icG80a2c0NG1jc0RLcmQxTnNkeDFfUGdTZkZXaDZ2Y2UyY0wyOWttazk1OVl0ZW9nUnFiejFQR1huRW0xZTBrd0JRVXRUdUJzbGNoTEVXYThFNnlvdlVMSU4tbEZDUlFYeW9GY0V3bDN5bmdrWVctNzlaN2ZDOUJvUmZGZkx1M2JmWXIwUHhZ?oc=5\" target=\"_blank\">Alabama Power completes power restoration after storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brewton Standard</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-20T18:13:46+00:00"
+    },
     {
       "id": "bc10811a06cf7d66",
       "title": "Retired Southern Co. executive tapped for BBJ CEO Awards Hall of Fame - The Business Journals",

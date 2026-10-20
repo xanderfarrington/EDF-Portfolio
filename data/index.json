@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T13:12:26+00:00",
+  "last_updated": "2026-10-20T18:14:13+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 571,
-      "new_mentions_this_run": 25,
+      "count": 572,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "bc10811a06cf7d66",
-        "title": "Retired Southern Co. executive tapped for BBJ CEO Awards Hall of Fame - The Business Journals",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHVMZk5iN3g3OEdiRi0wVTJnVGxjaDc5MnhvY1l1Rkk0ZEtXTG9mUlBXelQ5R2hHaWVqS0RWeWN3WmZTWVZOZ2JKSmg5dWNORUg0d0l3cmVDcEVtSjBoNDQzalZJanM2YUZjeDNnWDU3d283NndWcE1SdjkwTTdSTk1Cd054UjdxTmRqUGZnRQ?oc=5",
+        "id": "a25088595d91fb5a",
+        "title": "Alabama Power completes power restoration after storm - The Brewton Standard",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEx1ZkQ0LUlJS0gzaE9nTl9icG80a2c0NG1jc0RLcmQxTnNkeDFfUGdTZkZXaDZ2Y2UyY0wyOWttazk1OVl0ZW9nUnFiejFQR1huRW0xZTBrd0JRVXRUdUJzbGNoTEVXYThFNnlvdlVMSU4tbEZDUlFYeW9GY0V3bDN5bmdrWVctNzlaN2ZDOUJvUmZGZkx1M2JmWXIwUHhZ?oc=5",
         "domain": "news.google.com",
-        "source": "The Business Journals",
+        "source": "The Brewton Standard",
         "language": "English",
-        "published_at": "2026-10-19T22:48:00+00:00",
-        "summary": "Retired Southern Co. executive tapped for BBJ CEO Awards Hall of Fame The Business Journals",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHVMZk5iN3g3OEdiRi0wVTJnVGxjaDc5MnhvY1l1Rkk0ZEtXTG9mUlBXelQ5R2hHaWVqS0RWeWN3WmZTWVZOZ2JKSmg5dWNORUg0d0l3cmVDcEVtSjBoNDQzalZJanM2YUZjeDNnWDU3d283NndWcE1SdjkwTTdSTk1Cd054UjdxTmRqUGZnRQ?oc=5\" target=\"_blank\">Retired Southern Co. executive tapped for BBJ CEO Awards Hall of Fame</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "published_at": "2026-10-20T16:00:24+00:00",
+        "summary": "Alabama Power completes power restoration after storm The Brewton Standard",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEx1ZkQ0LUlJS0gzaE9nTl9icG80a2c0NG1jc0RLcmQxTnNkeDFfUGdTZkZXaDZ2Y2UyY0wyOWttazk1OVl0ZW9nUnFiejFQR1huRW0xZTBrd0JRVXRUdUJzbGNoTEVXYThFNnlvdlVMSU4tbEZDUlFYeW9GY0V3bDN5bmdrWVctNzlaN2ZDOUJvUmZGZkx1M2JmWXIwUHhZ?oc=5\" target=\"_blank\">Alabama Power completes power restoration after storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brewton Standard</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-20T06:59:37+00:00"
+        "collected_at": "2026-10-20T18:13:46+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 979,
+      "count": 981,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "e63dbfe2a7cddfa0",
-        "title": "Georgia Power highlights energy aid and Southern Company stock costs EUR 81.00 - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHIwYmw0TEVBendpVmNNS0VtTGZmUjlHVkFMS0RBQlFTV21ybzFsRFRsMU04M3M3YVV3UW1YR3dkQk9xN2lSZFFaTGxTcEZIRFNRdGI0NlZKVm80TmxmRFM3UExSN25RaURTMC13eWxyUmxCeWw4VU95VGFGRmk1WDNxQkllbHJxSWZqM2NiNzN2ME9kd01PaWpXQTQ0cTBxX21qRU9ZTXU1VzFVazN5QkpkZlRHaGFlelYwemllT2pBc0pyVjZNVEEyOXR3RjFj?oc=5",
+        "id": "92c3ca8b53ec09b0",
+        "title": "Georgia Power highlights customer assistance and energy-saving resources during Energy Efficiency Month - Grice Connect",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTnZMR1RKS0poTUh6NnFpY2wyREhsTnRZelNCeU1YRkV2VzZnR2QwT0JtQjk4N0l3bEQ2cXJfdTFrZk0weF9OTVNBWmlLeTJXb0otSTduWlNVYVVQZldmdzBOU282d3B0RmJvMHhzd0QtbGhjU1V0VnliQXJSR1hQMExoZ2M5U0Y3M0JwWnlCNmhqSTVHY1VfX1FnRjFqNUFUcWM1R0hPekxtc0tRbnVjOWxncG9CWUZsZmpVUElqZlFZdXotbGREWlRuM1NER2VRajdvTEJSdVQtOU42UWtZREFXTTBRZW9BMVFlUg?oc=5",
         "domain": "news.google.com",
-        "source": "ad-hoc-news.de",
+        "source": "Grice Connect",
         "language": "English",
-        "published_at": "2026-10-19T07:15:19+00:00",
-        "summary": "Georgia Power highlights energy aid and Southern Company stock costs EUR 81.00 ad-hoc-news.de",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHIwYmw0TEVBendpVmNNS0VtTGZmUjlHVkFMS0RBQlFTV21ybzFsRFRsMU04M3M3YVV3UW1YR3dkQk9xN2lSZFFaTGxTcEZIRFNRdGI0NlZKVm80TmxmRFM3UExSN25RaURTMC13eWxyUmxCeWw4VU95VGFGRmk1WDNxQkllbHJxSWZqM2NiNzN2ME9kd01PaWpXQTQ0cTBxX21qRU9ZTXU1VzFVazN5QkpkZlRHaGFlelYwemllT2pBc0pyVjZNVEEyOXR3RjFj?oc=5\" target=\"_blank\">Georgia Power highlights energy aid and Southern Company stock costs EUR 81.00</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+        "published_at": "2026-10-20T16:22:00+00:00",
+        "summary": "Georgia Power highlights customer assistance and energy-saving resources during Energy Efficiency Month Grice Connect",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTnZMR1RKS0poTUh6NnFpY2wyREhsTnRZelNCeU1YRkV2VzZnR2QwT0JtQjk4N0l3bEQ2cXJfdTFrZk0weF9OTVNBWmlLeTJXb0otSTduWlNVYVVQZldmdzBOU282d3B0RmJvMHhzd0QtbGhjU1V0VnliQXJSR1hQMExoZ2M5U0Y3M0JwWnlCNmhqSTVHY1VfX1FnRjFqNUFUcWM1R0hPekxtc0tRbnVjOWxncG9CWUZsZmpVUElqZlFZdXotbGREWlRuM1NER2VRajdvTEJSdVQtOU42UWtZREFXTTBRZW9BMVFlUg?oc=5\" target=\"_blank\">Georgia Power highlights customer assistance and energy-saving resources during Energy Efficiency Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-19T09:30:02+00:00"
+        "collected_at": "2026-10-20T18:14:03+00:00"
       }
     },
     {
