@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-21T09:02:22+00:00",
+  "last_updated": "2026-10-21T14:47:43+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 573,
+  "count": 574,
   "mentions": [
+    {
+      "id": "cd5ec527ffd16bdb",
+      "title": "SO's Alabama Power Completes Hurricane Isaias Restoration Efforts - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXV6OXU2d0hlbElmYV8xZjF0dW8wMTh6cU1KOHNQOFNJeXR6OFJRb21YQTB2alhaR1lLVlFNZzRSTU9wSldBNHhCQmlwTW9YUVBaRzVfRWVrb2o3b0pWSnBzYi1yVWMtdFNTYUEydFVhTnFEVVdSSGJoZ0pWOUo5Zkg5M0p0Szl0Z2FNOGxmZTl2TjRVRlpiSFhn?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-10-21T12:20:00+00:00",
+      "summary": "SO's Alabama Power Completes Hurricane Isaias Restoration Efforts Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXV6OXU2d0hlbElmYV8xZjF0dW8wMTh6cU1KOHNQOFNJeXR6OFJRb21YQTB2alhaR1lLVlFNZzRSTU9wSldBNHhCQmlwTW9YUVBaRzVfRWVrb2o3b0pWSnBzYi1yVWMtdFNTYUEydFVhTnFEVVdSSGJoZ0pWOUo5Zkg5M0p0Szl0Z2FNOGxmZTl2TjRVRlpiSFhn?oc=5\" target=\"_blank\">SO's Alabama Power Completes Hurricane Isaias Restoration Efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-21T14:47:43+00:00"
+    },
     {
       "id": "a25088595d91fb5a",
       "title": "Alabama Power completes power restoration after storm - The Brewton Standard",

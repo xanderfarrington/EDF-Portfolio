@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-10-21T09:02:16+00:00",
+  "last_updated": "2026-10-21T14:47:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 112,
+  "count": 113,
   "mentions": [
+    {
+      "id": "95f50f30cb1d4a25",
+      "title": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October - Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRlBKQ05RSnJudFAxeTMyc0NvYjRxRDFEdDlJSUtzQ2k3Y0o4QmlNNndLR3ZvNzVLWFBCX3BtQnBpVk4zd1ZpT2tiQ1d3bXk3UmE0RnFGU19RMlpReFpod2ZWdDNzejU1V2pXS3RBaFQ4R2pZR2ZJOVJyUVdGWXRySnltVlJjMFBJWXZEaU1JRjlrOFc4TGtSWWY4QXFCTE9GbWJFTUdITHNXLTJseEVPMkRNeWhGQW9SMGZRNERvcTBtdWRtbWFKbjE4QUNxcUlGYnBBRjgzdFRsR3ExLV9OV1Z5eFZIRFlGQ2lGOXRQYjVtLVBl?oc=5",
+      "domain": "news.google.com",
+      "source": "Investing.com UK",
+      "language": "English",
+      "published_at": "2026-10-21T14:02:00+00:00",
+      "summary": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October Investing.com UK",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRlBKQ05RSnJudFAxeTMyc0NvYjRxRDFEdDlJSUtzQ2k3Y0o4QmlNNndLR3ZvNzVLWFBCX3BtQnBpVk4zd1ZpT2tiQ1d3bXk3UmE0RnFGU19RMlpReFpod2ZWdDNzejU1V2pXS3RBaFQ4R2pZR2ZJOVJyUVdGWXRySnltVlJjMFBJWXZEaU1JRjlrOFc4TGtSWWY4QXFCTE9GbWJFTUdITHNXLTJseEVPMkRNeWhGQW9SMGZRNERvcTBtdWRtbWFKbjE4QUNxcUlGYnBBRjgzdFRsR3ExLV9OV1Z5eFZIRFlGQ2lGOXRQYjVtLVBl?oc=5\" target=\"_blank\">Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-21T14:47:37+00:00"
+    },
     {
       "id": "b23b63aef10066af",
       "title": "Residents asked to weigh on on AEP's transmission project in four counties - Coshocton Tribune",

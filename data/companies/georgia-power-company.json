@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-21T09:02:38+00:00",
+  "last_updated": "2026-10-21T14:48:00+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 982,
+  "count": 983,
   "mentions": [
+    {
+      "id": "bf2d2450c37a951e",
+      "title": "Georgia utility commission's balance of power at stake in midterm election - WABE",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVptREthRGJ4Z0VhSFgxNFlMZVdQdUNINy14TFZ0U1M1amxhZFIxMVZ1bHAxZWF4YWVYaXFuR1RuTktFTXphc1hwWXhpQ1FsTW9VZ2lhd20wNUZKYmI1S3k3TlJ4S3RLeTNZckdOUldWd3dvWUl5dlpsWkdiZlc3UXpZRDdmS01Ba1YyWTloSEVKeGowdTFMem1Ebw?oc=5",
+      "domain": "news.google.com",
+      "source": "WABE",
+      "language": "English",
+      "published_at": "2026-10-21T11:02:52+00:00",
+      "summary": "Georgia utility commission's balance of power at stake in midterm election WABE",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVptREthRGJ4Z0VhSFgxNFlMZVdQdUNINy14TFZ0U1M1amxhZFIxMVZ1bHAxZWF4YWVYaXFuR1RuTktFTXphc1hwWXhpQ1FsTW9VZ2lhd20wNUZKYmI1S3k3TlJ4S3RLeTNZckdOUldWd3dvWUl5dlpsWkdiZlc3UXpZRDdmS01Ba1YyWTloSEVKeGowdTFMem1Ebw?oc=5\" target=\"_blank\">Georgia utility commission's balance of power at stake in midterm election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-21T14:48:00+00:00"
+    },
     {
       "id": "92c3ca8b53ec09b0",
       "title": "Georgia Power highlights customer assistance and energy-saving resources during Energy Efficiency Month - Grice Connect",
