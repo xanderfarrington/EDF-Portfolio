@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T19:52:21+00:00",
+  "last_updated": "2026-10-21T22:58:08+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 575,
-      "new_mentions_this_run": 10,
+      "count": 578,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "b741ae6251f2088c",
-        "title": "SO's Alabama Power Completes Hurricane Isaias Restoration Efforts - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOXZlbGtaNWM5WHhpbHQwNVEtY0ZZMmlkNXp2LXdBRzZUaVZwUHZmZ05iRVlTMDdqQ1dHckZUWGx3a3Nld2ViOTJlRVlTTEcwVWcyLXFYamVsVTRPeWpkalFjaDNKZXNKcnVsRlFxNWg4V3lZOWJuSVo0UEpjcnVsbXNYb0Q5YVdHbGRKTG9YMWhOUG1DTlp2V3FCNDI1YkdLLVhudlRuSHFOY0Fad3NZOWdPWnd4R29jeW8tQVdSWHl1TW43OU5sUkxYckQ1T0J0NEtyZnE0RjEtZVhobnBuaWxR?oc=5",
+        "id": "b31e1200383926c6",
+        "title": "Alabama Power gets go-ahead to resume work on disputed transmission line in Shelby County - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMHlZZ3pfcUE0b1ZnaEhLb0w1bVVVVHdNVmJHLXBZTDU1S3NobEdzYU9fWVY3S19DZEtxTUx4SURXOUZHZDg3dGx1MzZodXB5bGlpN001WGVvMVNmRVZIbV95VGg0Rnh2X1AxSUNJNHNoLWRjY1pvN3lPNTJXbHViUDhlaV91d21hZlFweWs1SjBkVy1JNDhzRmRsQXE?oc=5",
         "domain": "news.google.com",
-        "source": "The Globe and Mail",
+        "source": "wvtm",
         "language": "English",
-        "published_at": "2026-10-21T14:47:58+00:00",
-        "summary": "SO's Alabama Power Completes Hurricane Isaias Restoration Efforts The Globe and Mail",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOXZlbGtaNWM5WHhpbHQwNVEtY0ZZMmlkNXp2LXdBRzZUaVZwUHZmZ05iRVlTMDdqQ1dHckZUWGx3a3Nld2ViOTJlRVlTTEcwVWcyLXFYamVsVTRPeWpkalFjaDNKZXNKcnVsRlFxNWg4V3lZOWJuSVo0UEpjcnVsbXNYb0Q5YVdHbGRKTG9YMWhOUG1DTlp2V3FCNDI1YkdLLVhudlRuSHFOY0Fad3NZOWdPWnd4R29jeW8tQVdSWHl1TW43OU5sUkxYckQ1T0J0NEtyZnE0RjEtZVhobnBuaWxR?oc=5\" target=\"_blank\">SO's Alabama Power Completes Hurricane Isaias Restoration Efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+        "published_at": "2026-10-21T20:42:36+00:00",
+        "summary": "Alabama Power gets go-ahead to resume work on disputed transmission line in Shelby County wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMHlZZ3pfcUE0b1ZnaEhLb0w1bVVVVHdNVmJHLXBZTDU1S3NobEdzYU9fWVY3S19DZEtxTUx4SURXOUZHZDg3dGx1MzZodXB5bGlpN001WGVvMVNmRVZIbV95VGg0Rnh2X1AxSUNJNHNoLWRjY1pvN3lPNTJXbHViUDhlaV91d21hZlFweWs1SjBkVy1JNDhzRmRsQXE?oc=5\" target=\"_blank\">Alabama Power gets go-ahead to resume work on disputed transmission line in Shelby County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-21T19:51:54+00:00"
+        "collected_at": "2026-10-21T22:57:41+00:00"
       }
     },
     {
