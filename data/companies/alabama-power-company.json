@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-21T02:53:00+00:00",
+  "last_updated": "2026-10-21T09:02:22+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 572,
+  "count": 573,
   "mentions": [
     {
       "id": "a25088595d91fb5a",
@@ -915,6 +915,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-09T16:45:10+00:00"
+    },
+    {
+      "id": "5107f63d186310bf",
+      "title": "Alabama Power crews prepare ahead of Hurricane Isaias - WBRC 6 News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzgtdjVDWTIyV2k4Mk1RaVdHeEdwM196andEOUt6bmxkZ043NW1PMTEtSkMwWTVROW9QRk53aWppQVV5N3lHVFhxNVZTcFkzWXZvMzJQbnpLYXZNS3FLT0RCQzNtbDNldC04MnZJRmxDdExrUEh4dmlSaUY2b3NtWEhpb09LZ0V3S01B0gGfAUFVX3lxTE0wbjBLaUJybjZKQ0Jwb18zUkhiejFpR3dOdVgwYkhtczhsWjcwSzVWcFNFQ3FhODRjU0VhQlRrcDlka2xmeHFBZlVDTjZocmJFVjAyM1hRVEtqc1Vnd2IzSnFYRVByNnlzUlBKeFZBNEM2ZW13eXNsMmJFRjJpZmQwdjQySWpKUW85QlI2OVk1Mkp2YXI5M2hEZWdDYU92aw?oc=5",
+      "domain": "news.google.com",
+      "source": "WBRC 6 News",
+      "language": "English",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "summary": "Alabama Power crews prepare ahead of Hurricane Isaias WBRC 6 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzgtdjVDWTIyV2k4Mk1RaVdHeEdwM196andEOUt6bmxkZ043NW1PMTEtSkMwWTVROW9QRk53aWppQVV5N3lHVFhxNVZTcFkzWXZvMzJQbnpLYXZNS3FLT0RCQzNtbDNldC04MnZJRmxDdExrUEh4dmlSaUY2b3NtWEhpb09LZ0V3S01B0gGfAUFVX3lxTE0wbjBLaUJybjZKQ0Jwb18zUkhiejFpR3dOdVgwYkhtczhsWjcwSzVWcFNFQ3FhODRjU0VhQlRrcDlka2xmeHFBZlVDTjZocmJFVjAyM1hRVEtqc1Vnd2IzSnFYRVByNnlzUlBKeFZBNEM2ZW13eXNsMmJFRjJpZmQwdjQySWpKUW85QlI2OVk1Mkp2YXI5M2hEZWdDYU92aw?oc=5\" target=\"_blank\">Alabama Power crews prepare ahead of Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC 6 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-21T09:02:22+00:00"
     },
     {
       "id": "04aa18d0aa2a49f8",

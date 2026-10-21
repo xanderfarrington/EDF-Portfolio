@@ -2,10 +2,24 @@
   "company": "Chrysalis",
   "slug": "chrysalis",
   "query": "\"Chrysalis\" energy",
-  "last_updated": "2026-10-21T02:53:05+00:00",
+  "last_updated": "2026-10-21T09:02:27+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 34,
+  "count": 35,
   "mentions": [
+    {
+      "id": "e827381350527f38",
+      "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSEJZRjFDZ1JhUm5sT21CcUdsYVpSWW9TNU1qaGJMUTBFWDAzSVpkRUFGQzFpM3VCRHZXS0NlVm9YdWFBbERGejRDZkVDZTgxalRzTEFoME1XZEcza2RvS25saG5KdHRXY1NGNnJ6Y0FMYlZFYkota29fYWd3a2EtZThDRWRRWFkyQjNPb1lCUTBETkNkcG9zRXJyVnR2NXJWQzFLRV9qdjZnMFNlSEZOT01UdnpSanNORll3aHh4NThVUGFoUkloMHhQZjZjdHh4YmtPLUkyZlFQVkJKQ1ZJQVZwbWNPazcw?oc=5",
+      "domain": "news.google.com",
+      "source": "Beloit Daily News",
+      "language": "English",
+      "published_at": "2026-10-20T19:45:00+00:00",
+      "summary": "SHINE Technologies gets $263 million conditional loan Beloit Daily News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSEJZRjFDZ1JhUm5sT21CcUdsYVpSWW9TNU1qaGJMUTBFWDAzSVpkRUFGQzFpM3VCRHZXS0NlVm9YdWFBbERGejRDZkVDZTgxalRzTEFoME1XZEcza2RvS25saG5KdHRXY1NGNnJ6Y0FMYlZFYkota29fYWd3a2EtZThDRWRRWFkyQjNPb1lCUTBETkNkcG9zRXJyVnR2NXJWQzFLRV9qdjZnMFNlSEZOT01UdnpSanNORll3aHh4NThVUGFoUkloMHhQZjZjdHh4YmtPLUkyZlFQVkJKQ1ZJQVZwbWNPazcw?oc=5\" target=\"_blank\">SHINE Technologies gets $263 million conditional loan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beloit Daily News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-21T09:02:27+00:00"
+    },
     {
       "id": "6eff840e36264da9",
       "title": "Federal loan for Janesville’s SHINE facility finalized at $263 million - WSAW",
