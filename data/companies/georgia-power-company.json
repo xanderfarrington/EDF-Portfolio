@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-21T14:48:00+00:00",
+  "last_updated": "2026-10-21T19:52:10+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 983,
+  "count": 984,
   "mentions": [
     {
       "id": "bf2d2450c37a951e",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-20T18:14:03+00:00"
+    },
+    {
+      "id": "c2a71302537349cd",
+      "title": "Georgia utility commission’s balance of power at stake in midterm election - Cobb Courier",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUsyWUowMGxBYm1VVVlZSUpBci1vVnZNYXJTcWc5aEdXUlBDdGwtbWRsclF4WGdJelM3S3BCVDhhakFIZnpJNUJyTmZZNHVfaTBzbVlBWXl1eFhGeWFqSkJYcnE5d1RNUXRIYldHSW1vcS12aElkM204dkdGY1A4OUQzSzRFVGU4bHdsTTZ4M2RVOEdmVHAwQUJhTURuSDlERktaVWFDMmR4SjVmTXBiUE1R?oc=5",
+      "domain": "news.google.com",
+      "source": "Cobb Courier",
+      "language": "English",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "summary": "Georgia utility commission’s balance of power at stake in midterm election Cobb Courier",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUsyWUowMGxBYm1VVVlZSUpBci1vVnZNYXJTcWc5aEdXUlBDdGwtbWRsclF4WGdJelM3S3BCVDhhakFIZnpJNUJyTmZZNHVfaTBzbVlBWXl1eFhGeWFqSkJYcnE5d1RNUXRIYldHSW1vcS12aElkM204dkdGY1A4OUQzSzRFVGU4bHdsTTZ4M2RVOEdmVHAwQUJhTURuSDlERktaVWFDMmR4SjVmTXBiUE1R?oc=5\" target=\"_blank\">Georgia utility commission’s balance of power at stake in midterm election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cobb Courier</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-21T19:52:10+00:00"
     },
     {
       "id": "e63dbfe2a7cddfa0",

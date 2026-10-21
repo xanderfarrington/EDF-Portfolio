@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T14:48:11+00:00",
+  "last_updated": "2026-10-21T19:52:21+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 574,
-      "new_mentions_this_run": 25,
+      "count": 575,
+      "new_mentions_this_run": 10,
       "latest_mention": {
-        "id": "cd5ec527ffd16bdb",
-        "title": "SO's Alabama Power Completes Hurricane Isaias Restoration Efforts - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXV6OXU2d0hlbElmYV8xZjF0dW8wMTh6cU1KOHNQOFNJeXR6OFJRb21YQTB2alhaR1lLVlFNZzRSTU9wSldBNHhCQmlwTW9YUVBaRzVfRWVrb2o3b0pWSnBzYi1yVWMtdFNTYUEydFVhTnFEVVdSSGJoZ0pWOUo5Zkg5M0p0Szl0Z2FNOGxmZTl2TjRVRlpiSFhn?oc=5",
+        "id": "b741ae6251f2088c",
+        "title": "SO's Alabama Power Completes Hurricane Isaias Restoration Efforts - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOXZlbGtaNWM5WHhpbHQwNVEtY0ZZMmlkNXp2LXdBRzZUaVZwUHZmZ05iRVlTMDdqQ1dHckZUWGx3a3Nld2ViOTJlRVlTTEcwVWcyLXFYamVsVTRPeWpkalFjaDNKZXNKcnVsRlFxNWg4V3lZOWJuSVo0UEpjcnVsbXNYb0Q5YVdHbGRKTG9YMWhOUG1DTlp2V3FCNDI1YkdLLVhudlRuSHFOY0Fad3NZOWdPWnd4R29jeW8tQVdSWHl1TW43OU5sUkxYckQ1T0J0NEtyZnE0RjEtZVhobnBuaWxR?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo Finance",
+        "source": "The Globe and Mail",
         "language": "English",
-        "published_at": "2026-10-21T12:20:00+00:00",
-        "summary": "SO's Alabama Power Completes Hurricane Isaias Restoration Efforts Yahoo Finance",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXV6OXU2d0hlbElmYV8xZjF0dW8wMTh6cU1KOHNQOFNJeXR6OFJRb21YQTB2alhaR1lLVlFNZzRSTU9wSldBNHhCQmlwTW9YUVBaRzVfRWVrb2o3b0pWSnBzYi1yVWMtdFNTYUEydFVhTnFEVVdSSGJoZ0pWOUo5Zkg5M0p0Szl0Z2FNOGxmZTl2TjRVRlpiSFhn?oc=5\" target=\"_blank\">SO's Alabama Power Completes Hurricane Isaias Restoration Efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "published_at": "2026-10-21T14:47:58+00:00",
+        "summary": "SO's Alabama Power Completes Hurricane Isaias Restoration Efforts The Globe and Mail",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOXZlbGtaNWM5WHhpbHQwNVEtY0ZZMmlkNXp2LXdBRzZUaVZwUHZmZ05iRVlTMDdqQ1dHckZUWGx3a3Nld2ViOTJlRVlTTEcwVWcyLXFYamVsVTRPeWpkalFjaDNKZXNKcnVsRlFxNWg4V3lZOWJuSVo0UEpjcnVsbXNYb0Q5YVdHbGRKTG9YMWhOUG1DTlp2V3FCNDI1YkdLLVhudlRuSHFOY0Fad3NZOWdPWnd4R29jeW8tQVdSWHl1TW43OU5sUkxYckQ1T0J0NEtyZnE0RjEtZVhobnBuaWxR?oc=5\" target=\"_blank\">SO's Alabama Power Completes Hurricane Isaias Restoration Efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-21T14:47:43+00:00"
+        "collected_at": "2026-10-21T19:51:54+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 983,
+      "count": 984,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "bf2d2450c37a951e",
