@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-20T22:53:18+00:00",
+  "last_updated": "2026-10-21T02:53:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 112,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "b23b63aef10066af",
         "title": "Residents asked to weigh on on AEP's transmission project in four counties - Coshocton Tribune",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 982,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "92c3ca8b53ec09b0",
         "title": "Georgia Power highlights customer assistance and energy-saving resources during Energy Efficiency Month - Grice Connect",
