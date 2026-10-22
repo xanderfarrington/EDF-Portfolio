@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-10-22T02:52:18+00:00",
+  "last_updated": "2026-10-22T09:05:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 115,
-      "new_mentions_this_run": 3,
+      "count": 116,
+      "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "7578b9909cc730f3",
-        "title": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October - Investing.com Canada",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY1ZwdnpqeDFPamVNeVJBY3Q1Y19HaExfRlFNSjhhZ2RSUzMtdnlOYXBWOHdiUWNfQlczeXIyWjFuMzZTX1RQWXFLVHVwS3V0MmRmQm9RSHMwTlEyZXF2THBkWE1EajF1SEx0czlTWXpTMGhGOTkzWHhnTXNPV3JSMjZkcEN5UUF0NkxSNTNrRVgxRWN2Q3FCT3kxdzZITFdIM29DUkI4RmhLbDhTYzFLM1l1cWpib05IY3puZzF4RVd1RHJLVFFkZWpFRjZRUUpUZG9kb213RFVIay04UzlwOGE4UWcxS29HZ3JiME5aQm1SVVJB?oc=5",
+        "id": "3700236f5765123e",
+        "title": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October - Investing.com Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSmJmaTBWQmM1bmh4V3pFMnhMWlVLRWZ5YTZCSkUzYS15bkVhdjQyVkUwNWhlYVJPNWNicnJXNWYwN1NOTW82QVpCclh5U0RkVU5DU2ZLZGxacldMMTFoaUlvTWIxclR0WGdUYVl1WVFDOUdXVFdoLVlzRzhLNUprOHVFZllYZk1kY1Itclp0ekdHR2d6SEJnMXhFR0NxTlNQNmpQSlItTURPYXB2bEROeE93NWU1X0E4UWl2cmhNV2c4RnJDeXpFZUt0SVpRa0FwR0hwck5KUWNkLUR6SWxpd2kwVGtsZHRHUGdna0lqYjZjMEZa?oc=5",
         "domain": "news.google.com",
-        "source": "Investing.com Canada",
+        "source": "Investing.com Nigeria",
         "language": "English",
-        "published_at": "2026-10-21T14:16:57+00:00",
-        "summary": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October Investing.com Canada",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY1ZwdnpqeDFPamVNeVJBY3Q1Y19HaExfRlFNSjhhZ2RSUzMtdnlOYXBWOHdiUWNfQlczeXIyWjFuMzZTX1RQWXFLVHVwS3V0MmRmQm9RSHMwTlEyZXF2THBkWE1EajF1SEx0czlTWXpTMGhGOTkzWHhnTXNPV3JSMjZkcEN5UUF0NkxSNTNrRVgxRWN2Q3FCT3kxdzZITFdIM29DUkI4RmhLbDhTYzFLM1l1cWpib05IY3puZzF4RVd1RHJLVFFkZWpFRjZRUUpUZG9kb213RFVIay04UzlwOGE4UWcxS29HZ3JiME5aQm1SVVJB?oc=5\" target=\"_blank\">Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+        "published_at": "2026-10-21T15:59:26+00:00",
+        "summary": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October Investing.com Nigeria",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSmJmaTBWQmM1bmh4V3pFMnhMWlVLRWZ5YTZCSkUzYS15bkVhdjQyVkUwNWhlYVJPNWNicnJXNWYwN1NOTW82QVpCclh5U0RkVU5DU2ZLZGxacldMMTFoaUlvTWIxclR0WGdUYVl1WVFDOUdXVFdoLVlzRzhLNUprOHVFZllYZk1kY1Itclp0ekdHR2d6SEJnMXhFR0NxTlNQNmpQSlItTURPYXB2bEROeE93NWU1X0E4UWl2cmhNV2c4RnJDeXpFZUt0SVpRa0FwR0hwck5KUWNkLUR6SWxpd2kwVGtsZHRHUGdna0lqYjZjMEZa?oc=5\" target=\"_blank\">Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-22T02:51:46+00:00"
+        "collected_at": "2026-10-22T09:04:45+00:00"
       }
     },
     {
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 984,
-      "new_mentions_this_run": 24,
+      "count": 987,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "bf2d2450c37a951e",
         "title": "Georgia utility commission's balance of power at stake in midterm election - WABE",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",

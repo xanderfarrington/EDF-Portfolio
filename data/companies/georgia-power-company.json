@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-22T02:52:08+00:00",
+  "last_updated": "2026-10-22T09:05:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 984,
+  "count": 987,
   "mentions": [
     {
       "id": "bf2d2450c37a951e",
@@ -33,6 +33,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-20T18:14:03+00:00"
+    },
+    {
+      "id": "93f17857e11fce78",
+      "title": "Georgia Power highlights customer assistance and energy-saving resources during Energy Efficiency Month - Grice Connect",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMHg0QlBSdGZNajdxMlJkY2tRa0hUcHNiT05QWVhsRWh2VDd4aG9Ydk9ESUlVYnFZdFJ0TmQxekNWMjhIaVJkcXNCQnBwVHRPVTQtTUF3Y1Z2Z3pZbkxwMUJIdUFfQXZhUmVGbFQ2SFhCM0FJZi15RHZOQkZEaUMzeVNNODV6dUZuelI5eEo0Z2k1OFFrX3djcllkei1nTEtNZW1jX1BsMkx0U0szcTBoLU9OQ19INVgweFFlYmNaOFpqZDk1NFNuUjI3cUQ2VTNJZlJIcUtDNk1TUThQd1JnOEo4RzRMdjA?oc=5",
+      "domain": "news.google.com",
+      "source": "Grice Connect",
+      "language": "English",
+      "published_at": "2026-10-20T16:22:00+00:00",
+      "summary": "Georgia Power highlights customer assistance and energy-saving resources during Energy Efficiency Month Grice Connect",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMHg0QlBSdGZNajdxMlJkY2tRa0hUcHNiT05QWVhsRWh2VDd4aG9Ydk9ESUlVYnFZdFJ0TmQxekNWMjhIaVJkcXNCQnBwVHRPVTQtTUF3Y1Z2Z3pZbkxwMUJIdUFfQXZhUmVGbFQ2SFhCM0FJZi15RHZOQkZEaUMzeVNNODV6dUZuelI5eEo0Z2k1OFFrX3djcllkei1nTEtNZW1jX1BsMkx0U0szcTBoLU9OQ19INVgweFFlYmNaOFpqZDk1NFNuUjI3cUQ2VTNJZlJIcUtDNk1TUThQd1JnOEo4RzRMdjA?oc=5\" target=\"_blank\">Georgia Power highlights customer assistance and energy-saving resources during Energy Efficiency Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-22T09:05:07+00:00"
+    },
+    {
+      "id": "c1771d68ff400ba8",
+      "title": "Georgia, It’s Time to Vote for Lower Energy Bills - Southern Alliance for Clean Energy (SACE)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU0pPUW9jaVh5bDlhMHlxajhqU0pjUV8wT0ZadGU4bkFpdERLaU5yWTJ0OVd0ckQ2c2N3dUVqdEhzR093a1dRNjFUOEFaUmRIa1JLZmFtdnM1UTUzTmNtWjJpQV9YeDhjMFpCcUFWbzRwZGZHX2RFSHpEc0ZuWmY1UWYyZw?oc=5",
+      "domain": "news.google.com",
+      "source": "Southern Alliance for Clean Energy (SACE)",
+      "language": "English",
+      "published_at": "2026-10-20T14:42:32+00:00",
+      "summary": "Georgia, It’s Time to Vote for Lower Energy Bills Southern Alliance for Clean Energy (SACE)",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNU0pPUW9jaVh5bDlhMHlxajhqU0pjUV8wT0ZadGU4bkFpdERLaU5yWTJ0OVd0ckQ2c2N3dUVqdEhzR093a1dRNjFUOEFaUmRIa1JLZmFtdnM1UTUzTmNtWjJpQV9YeDhjMFpCcUFWbzRwZGZHX2RFSHpEc0ZuWmY1UWYyZw?oc=5\" target=\"_blank\">Georgia, It’s Time to Vote for Lower Energy Bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southern Alliance for Clean Energy (SACE)</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-22T09:05:07+00:00"
     },
     {
       "id": "a6517f7db03f435b",
@@ -341,6 +369,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-13T17:17:51+00:00"
+    },
+    {
+      "id": "4cb80634d653514e",
+      "title": "An inside look at how Georgia Power keeps the lights on - WRDW",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDBDX2c0d0FTdFZtczRsWjF6X0hTZXFjeXg2Qms2anlWbENhNXZUSld5NUM5d082WGZMU3lwSmp6aEhGbk1WbnpvRDZuMUtWY3p3cldjR2F2a1I0Ry1saWUtNFJLdkwyYWU0RTJtbVVLak5LWkNteTZrTElrY3VGYkw3UHHSAZgBQVVfeXFMUHZHa3psV0xtTm5GQ0tZdXZsRzNnZ3V1aE5iOThSTmN6cnd0eUM3QW5sZXYzSGVEQ3FpdnhJYm03YjRyV0xhY21GanJka0xaZ1ZHam9FM1h4cVRfX0RXejBpOFk4ZEd3U2lwTjZ6WnU4R1dVNjJIZElRSnAxTVAtNjczZkpPY1RFcWxYUlhHeWM2NlZwLTNLcHg?oc=5",
+      "domain": "news.google.com",
+      "source": "WRDW",
+      "language": "English",
+      "published_at": "2026-10-13T07:00:00+00:00",
+      "summary": "An inside look at how Georgia Power keeps the lights on WRDW",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDBDX2c0d0FTdFZtczRsWjF6X0hTZXFjeXg2Qms2anlWbENhNXZUSld5NUM5d082WGZMU3lwSmp6aEhGbk1WbnpvRDZuMUtWY3p3cldjR2F2a1I0Ry1saWUtNFJLdkwyYWU0RTJtbVVLak5LWkNteTZrTElrY3VGYkw3UHHSAZgBQVVfeXFMUHZHa3psV0xtTm5GQ0tZdXZsRzNnZ3V1aE5iOThSTmN6cnd0eUM3QW5sZXYzSGVEQ3FpdnhJYm03YjRyV0xhY21GanJka0xaZ1ZHam9FM1h4cVRfX0RXejBpOFk4ZEd3U2lwTjZ6WnU4R1dVNjJIZElRSnAxTVAtNjczZkpPY1RFcWxYUlhHeWM2NlZwLTNLcHg?oc=5\" target=\"_blank\">An inside look at how Georgia Power keeps the lights on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-22T09:05:07+00:00"
     },
     {
       "id": "c28b2b1920663cc7",
