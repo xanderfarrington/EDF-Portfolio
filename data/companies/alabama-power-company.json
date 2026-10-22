@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-22T19:40:28+00:00",
+  "last_updated": "2026-10-22T22:54:38+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 584,
+  "count": 585,
   "mentions": [
     {
       "id": "e763ef18f543d280",
@@ -159,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-21T14:47:43+00:00"
+    },
+    {
+      "id": "2b82e9924109a368",
+      "title": "Alabama Power allowed to enter Shelby County homeowner’s property after emergency motion granted - alabamas42.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMzg0cV9RSnBQTlNUMFlwNnZkVWJqbjlqNGdqZnJnSmszYUJKRjRYYUdkRGd1MjVtZGp1UllfRG5IOHMtaV83aHZWa3B0Q3F3d3FDdWwtc0NvVW4ydUNvWS1QazBPaGZ5Z0lDQWEwanU0ajlVSTlMdlJPeWZUSC1nTXBtNVAwQmkwb2pJdzE5d2xxQVBiS1dtQktfd1kwS0FyYUVDem1ha1NTNkZNRlFTdVYwVFo5ZW5wMkh2dmNGSDBOa1ltSUlidUtmSFF4TDhxY0FYdVA2OXE4Zk1iamNLcg?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamas42.com",
+      "language": "English",
+      "published_at": "2026-10-21T10:39:10+00:00",
+      "summary": "Alabama Power allowed to enter Shelby County homeowner’s property after emergency motion granted alabamas42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMzg0cV9RSnBQTlNUMFlwNnZkVWJqbjlqNGdqZnJnSmszYUJKRjRYYUdkRGd1MjVtZGp1UllfRG5IOHMtaV83aHZWa3B0Q3F3d3FDdWwtc0NvVW4ydUNvWS1QazBPaGZ5Z0lDQWEwanU0ajlVSTlMdlJPeWZUSC1nTXBtNVAwQmkwb2pJdzE5d2xxQVBiS1dtQktfd1kwS0FyYUVDem1ha1NTNkZNRlFTdVYwVFo5ZW5wMkh2dmNGSDBOa1ltSUlidUtmSFF4TDhxY0FYdVA2OXE4Zk1iamNLcg?oc=5\" target=\"_blank\">Alabama Power allowed to enter Shelby County homeowner’s property after emergency motion granted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamas42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-22T22:54:38+00:00"
     },
     {
       "id": "a25088595d91fb5a",

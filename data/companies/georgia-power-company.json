@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-22T19:40:44+00:00",
+  "last_updated": "2026-10-22T22:54:55+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 989,
+  "count": 990,
   "mentions": [
+    {
+      "id": "cda92dd37673ac32",
+      "title": "Georgia Power crews clear scene near Elm Drive and Macon Road - WTVM.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJjeWFNYmJpMUxEaVVxVU9zUHd4alEwUTB1dnpzY1ZKc0FQcmNjSmZpWE5TR3VfZ01tRnpVTVZabjNQbVkycF9QUXZTemZneXFZaHhIQlEwYWM1MW9JQ0Vmd2I1WWVOci1YSFFPOVRHaFdZX3FJUkw0alFEbmxJWmJqUkFGVmdPN2tvU19QcGlaNVJI0gGoAUFVX3lxTE04NlUxdy1kc3N5aFZMMXBwbTFjUFg3RlFQeDZYY0g2TXc2VU5QNDZtVTVDUGJlSkJhOVlLa2hTem44NHFDc2JFc2dEdFB0YjVIV0l2OHN6akdSYkEtdzhXRkktUTI2QWhINU1PaWFXcm1QSjAtazdGUnMxNjhPYjktUGJkdlpzYWFsb0gtUUdVRXdEeE5zLUxEbVdMVDJBN2NXdkx5X2o4Tg?oc=5",
+      "domain": "news.google.com",
+      "source": "WTVM.com",
+      "language": "English",
+      "published_at": "2026-10-22T21:28:00+00:00",
+      "summary": "Georgia Power crews clear scene near Elm Drive and Macon Road WTVM.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJjeWFNYmJpMUxEaVVxVU9zUHd4alEwUTB1dnpzY1ZKc0FQcmNjSmZpWE5TR3VfZ01tRnpVTVZabjNQbVkycF9QUXZTemZneXFZaHhIQlEwYWM1MW9JQ0Vmd2I1WWVOci1YSFFPOVRHaFdZX3FJUkw0alFEbmxJWmJqUkFGVmdPN2tvU19QcGlaNVJI0gGoAUFVX3lxTE04NlUxdy1kc3N5aFZMMXBwbTFjUFg3RlFQeDZYY0g2TXc2VU5QNDZtVTVDUGJlSkJhOVlLa2hTem44NHFDc2JFc2dEdFB0YjVIV0l2OHN6akdSYkEtdzhXRkktUTI2QWhINU1PaWFXcm1QSjAtazdGUnMxNjhPYjktUGJkdlpzYWFsb0gtUUdVRXdEeE5zLUxEbVdMVDJBN2NXdkx5X2o4Tg?oc=5\" target=\"_blank\">Georgia Power crews clear scene near Elm Drive and Macon Road</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-22T22:54:55+00:00"
+    },
     {
       "id": "bf2d2450c37a951e",
       "title": "Georgia utility commission's balance of power at stake in midterm election - WABE",

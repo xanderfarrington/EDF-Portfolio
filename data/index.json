@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T19:40:55+00:00",
+  "last_updated": "2026-10-22T22:55:05+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 584,
-      "new_mentions_this_run": 16,
+      "count": 585,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "e763ef18f543d280",
         "title": "Alabama Power 'slips onto' and begins work at Fenn Church property,… - 1819 News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 989,
+      "count": 990,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "bf2d2450c37a951e",
-        "title": "Georgia utility commission's balance of power at stake in midterm election - WABE",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVptREthRGJ4Z0VhSFgxNFlMZVdQdUNINy14TFZ0U1M1amxhZFIxMVZ1bHAxZWF4YWVYaXFuR1RuTktFTXphc1hwWXhpQ1FsTW9VZ2lhd20wNUZKYmI1S3k3TlJ4S3RLeTNZckdOUldWd3dvWUl5dlpsWkdiZlc3UXpZRDdmS01Ba1YyWTloSEVKeGowdTFMem1Ebw?oc=5",
+        "id": "cda92dd37673ac32",
+        "title": "Georgia Power crews clear scene near Elm Drive and Macon Road - WTVM.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJjeWFNYmJpMUxEaVVxVU9zUHd4alEwUTB1dnpzY1ZKc0FQcmNjSmZpWE5TR3VfZ01tRnpVTVZabjNQbVkycF9QUXZTemZneXFZaHhIQlEwYWM1MW9JQ0Vmd2I1WWVOci1YSFFPOVRHaFdZX3FJUkw0alFEbmxJWmJqUkFGVmdPN2tvU19QcGlaNVJI0gGoAUFVX3lxTE04NlUxdy1kc3N5aFZMMXBwbTFjUFg3RlFQeDZYY0g2TXc2VU5QNDZtVTVDUGJlSkJhOVlLa2hTem44NHFDc2JFc2dEdFB0YjVIV0l2OHN6akdSYkEtdzhXRkktUTI2QWhINU1PaWFXcm1QSjAtazdGUnMxNjhPYjktUGJkdlpzYWFsb0gtUUdVRXdEeE5zLUxEbVdMVDJBN2NXdkx5X2o4Tg?oc=5",
         "domain": "news.google.com",
-        "source": "WABE",
+        "source": "WTVM.com",
         "language": "English",
-        "published_at": "2026-10-21T11:02:52+00:00",
-        "summary": "Georgia utility commission's balance of power at stake in midterm election WABE",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVptREthRGJ4Z0VhSFgxNFlMZVdQdUNINy14TFZ0U1M1amxhZFIxMVZ1bHAxZWF4YWVYaXFuR1RuTktFTXphc1hwWXhpQ1FsTW9VZ2lhd20wNUZKYmI1S3k3TlJ4S3RLeTNZckdOUldWd3dvWUl5dlpsWkdiZlc3UXpZRDdmS01Ba1YyWTloSEVKeGowdTFMem1Ebw?oc=5\" target=\"_blank\">Georgia utility commission's balance of power at stake in midterm election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
+        "published_at": "2026-10-22T21:28:00+00:00",
+        "summary": "Georgia Power crews clear scene near Elm Drive and Macon Road WTVM.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJjeWFNYmJpMUxEaVVxVU9zUHd4alEwUTB1dnpzY1ZKc0FQcmNjSmZpWE5TR3VfZ01tRnpVTVZabjNQbVkycF9QUXZTemZneXFZaHhIQlEwYWM1MW9JQ0Vmd2I1WWVOci1YSFFPOVRHaFdZX3FJUkw0alFEbmxJWmJqUkFGVmdPN2tvU19QcGlaNVJI0gGoAUFVX3lxTE04NlUxdy1kc3N5aFZMMXBwbTFjUFg3RlFQeDZYY0g2TXc2VU5QNDZtVTVDUGJlSkJhOVlLa2hTem44NHFDc2JFc2dEdFB0YjVIV0l2OHN6akdSYkEtdzhXRkktUTI2QWhINU1PaWFXcm1QSjAtazdGUnMxNjhPYjktUGJkdlpzYWFsb0gtUUdVRXdEeE5zLUxEbVdMVDJBN2NXdkx5X2o4Tg?oc=5\" target=\"_blank\">Georgia Power crews clear scene near Elm Drive and Macon Road</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-21T14:48:00+00:00"
+        "collected_at": "2026-10-22T22:54:55+00:00"
       }
     },
     {
