@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T14:48:55+00:00",
+  "last_updated": "2026-10-22T19:40:55+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 582,
-      "new_mentions_this_run": 15,
+      "count": 584,
+      "new_mentions_this_run": 16,
       "latest_mention": {
-        "id": "f2ef28e66f9b2eb5",
-        "title": "Homeowner continues fight against Alabama Power over power line planned across his property - wvtm",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQckJvM2QweEN6V3pLSGwxSE9IY1hGSWVVRXJwcGNFRDZTMmo0OExOV0NleS1iRl9sQWlZYnZ2eXM4VXN6MExhWmV5ZVZYZWxyd1JBNWFoZDhiTjRzZlg3cldLUF9DNnk2OVFvUjRLb1Vwa0REMUp0eUZOb21pLXhBbEd0WGxIRDBPODMyOWRxZElpLUNBc2c?oc=5",
+        "id": "e763ef18f543d280",
+        "title": "Alabama Power 'slips onto' and begins work at Fenn Church property,… - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRV9BSE45UWNWQUJhbHJQS29oZjFDblE3LVlKR25TMFZ4cWZEVGthci1fLWZEWThvQkNrTjByMjJKQjZwb0RleEFnS2FodXpFN0NQZXFNcl9mWDRKSEVVZFdDRXg3Zy1HdVBuU3JTdXpHbFI4bzJDN3dMaE92anZvaHZQVWU3bEpYUGg2V3czTzBpUzVibUpNR21lSjg3VmlIb3VYQUItOWt6T0NpdFA1YmV0VUFISDVJazdmb3pIMGpCRE9qRndkS3BYOHpiTjNVanNMQXItUEVoUHdpc3A3RlJRbw?oc=5",
         "domain": "news.google.com",
-        "source": "wvtm",
+        "source": "1819 News",
         "language": "English",
-        "published_at": "2026-10-22T12:41:00+00:00",
-        "summary": "Homeowner continues fight against Alabama Power over power line planned across his property wvtm",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQckJvM2QweEN6V3pLSGwxSE9IY1hGSWVVRXJwcGNFRDZTMmo0OExOV0NleS1iRl9sQWlZYnZ2eXM4VXN6MExhWmV5ZVZYZWxyd1JBNWFoZDhiTjRzZlg3cldLUF9DNnk2OVFvUjRLb1Vwa0REMUp0eUZOb21pLXhBbEd0WGxIRDBPODMyOWRxZElpLUNBc2c?oc=5\" target=\"_blank\">Homeowner continues fight against Alabama Power over power line planned across his property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+        "published_at": "2026-10-22T19:06:36+00:00",
+        "summary": "Alabama Power 'slips onto' and begins work at Fenn Church property,… 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRV9BSE45UWNWQUJhbHJQS29oZjFDblE3LVlKR25TMFZ4cWZEVGthci1fLWZEWThvQkNrTjByMjJKQjZwb0RleEFnS2FodXpFN0NQZXFNcl9mWDRKSEVVZFdDRXg3Zy1HdVBuU3JTdXpHbFI4bzJDN3dMaE92anZvaHZQVWU3bEpYUGg2V3czTzBpUzVibUpNR21lSjg3VmlIb3VYQUItOWt6T0NpdFA1YmV0VUFISDVJazdmb3pIMGpCRE9qRndkS3BYOHpiTjNVanNMQXItUEVoUHdpc3A3RlJRbw?oc=5\" target=\"_blank\">Alabama Power 'slips onto' and begins work at Fenn Church property,…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-22T14:48:28+00:00"
+        "collected_at": "2026-10-22T19:40:28+00:00"
       }
     },
     {
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 988,
+      "count": 989,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "bf2d2450c37a951e",
