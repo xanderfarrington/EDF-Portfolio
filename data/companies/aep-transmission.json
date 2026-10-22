@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-10-21T22:57:35+00:00",
+  "last_updated": "2026-10-22T02:51:46+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 113,
+  "count": 115,
   "mentions": [
+    {
+      "id": "7578b9909cc730f3",
+      "title": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October - Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY1ZwdnpqeDFPamVNeVJBY3Q1Y19HaExfRlFNSjhhZ2RSUzMtdnlOYXBWOHdiUWNfQlczeXIyWjFuMzZTX1RQWXFLVHVwS3V0MmRmQm9RSHMwTlEyZXF2THBkWE1EajF1SEx0czlTWXpTMGhGOTkzWHhnTXNPV3JSMjZkcEN5UUF0NkxSNTNrRVgxRWN2Q3FCT3kxdzZITFdIM29DUkI4RmhLbDhTYzFLM1l1cWpib05IY3puZzF4RVd1RHJLVFFkZWpFRjZRUUpUZG9kb213RFVIay04UzlwOGE4UWcxS29HZ3JiME5aQm1SVVJB?oc=5",
+      "domain": "news.google.com",
+      "source": "Investing.com Canada",
+      "language": "English",
+      "published_at": "2026-10-21T14:16:57+00:00",
+      "summary": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October Investing.com Canada",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY1ZwdnpqeDFPamVNeVJBY3Q1Y19HaExfRlFNSjhhZ2RSUzMtdnlOYXBWOHdiUWNfQlczeXIyWjFuMzZTX1RQWXFLVHVwS3V0MmRmQm9RSHMwTlEyZXF2THBkWE1EajF1SEx0czlTWXpTMGhGOTkzWHhnTXNPV3JSMjZkcEN5UUF0NkxSNTNrRVgxRWN2Q3FCT3kxdzZITFdIM29DUkI4RmhLbDhTYzFLM1l1cWpib05IY3puZzF4RVd1RHJLVFFkZWpFRjZRUUpUZG9kb213RFVIay04UzlwOGE4UWcxS29HZ3JiME5aQm1SVVJB?oc=5\" target=\"_blank\">Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-22T02:51:46+00:00"
+    },
     {
       "id": "95f50f30cb1d4a25",
       "title": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October - Investing.com UK",
@@ -47,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-19T16:44:31+00:00"
+    },
+    {
+      "id": "a87c411554f4ea55",
+      "title": "Residents asked to weigh on on AEP's transmission project in four counties - Lexington Herald Leader",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GTFd6dlNPS2VmZ2JGRmtod3N3a1pzZUlaUWpuRFZZczlJdGU0Vjh1dmJSZzBDRTl2MUxwNmtJWU1PWGs0cS15TzJJSmFFUjlrRUY2c0hFZXpKbEI2anloRGUzT1prdmFWODRPZVo3WmoxMkFsbFFHdHBRSkg2Zw?oc=5",
+      "domain": "news.google.com",
+      "source": "Lexington Herald Leader",
+      "language": "English",
+      "published_at": "2026-10-19T09:12:00+00:00",
+      "summary": "Residents asked to weigh on on AEP's transmission project in four counties Lexington Herald Leader",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9GTFd6dlNPS2VmZ2JGRmtod3N3a1pzZUlaUWpuRFZZczlJdGU0Vjh1dmJSZzBDRTl2MUxwNmtJWU1PWGs0cS15TzJJSmFFUjlrRUY2c0hFZXpKbEI2anloRGUzT1prdmFWODRPZVo3WmoxMkFsbFFHdHBRSkg2Zw?oc=5\" target=\"_blank\">Residents asked to weigh on on AEP's transmission project in four counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-22T02:51:46+00:00"
     },
     {
       "id": "bb732da69d683116",

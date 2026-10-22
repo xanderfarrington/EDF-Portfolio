@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-10-21T22:58:08+00:00",
+  "last_updated": "2026-10-22T02:52:18+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 113,
-      "new_mentions_this_run": 5,
+      "count": 115,
+      "new_mentions_this_run": 3,
       "latest_mention": {
-        "id": "95f50f30cb1d4a25",
-        "title": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October - Investing.com UK",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRlBKQ05RSnJudFAxeTMyc0NvYjRxRDFEdDlJSUtzQ2k3Y0o4QmlNNndLR3ZvNzVLWFBCX3BtQnBpVk4zd1ZpT2tiQ1d3bXk3UmE0RnFGU19RMlpReFpod2ZWdDNzejU1V2pXS3RBaFQ4R2pZR2ZJOVJyUVdGWXRySnltVlJjMFBJWXZEaU1JRjlrOFc4TGtSWWY4QXFCTE9GbWJFTUdITHNXLTJseEVPMkRNeWhGQW9SMGZRNERvcTBtdWRtbWFKbjE4QUNxcUlGYnBBRjgzdFRsR3ExLV9OV1Z5eFZIRFlGQ2lGOXRQYjVtLVBl?oc=5",
+        "id": "7578b9909cc730f3",
+        "title": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October - Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY1ZwdnpqeDFPamVNeVJBY3Q1Y19HaExfRlFNSjhhZ2RSUzMtdnlOYXBWOHdiUWNfQlczeXIyWjFuMzZTX1RQWXFLVHVwS3V0MmRmQm9RSHMwTlEyZXF2THBkWE1EajF1SEx0czlTWXpTMGhGOTkzWHhnTXNPV3JSMjZkcEN5UUF0NkxSNTNrRVgxRWN2Q3FCT3kxdzZITFdIM29DUkI4RmhLbDhTYzFLM1l1cWpib05IY3puZzF4RVd1RHJLVFFkZWpFRjZRUUpUZG9kb213RFVIay04UzlwOGE4UWcxS29HZ3JiME5aQm1SVVJB?oc=5",
         "domain": "news.google.com",
-        "source": "Investing.com UK",
+        "source": "Investing.com Canada",
         "language": "English",
-        "published_at": "2026-10-21T14:02:00+00:00",
-        "summary": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October Investing.com UK",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRlBKQ05RSnJudFAxeTMyc0NvYjRxRDFEdDlJSUtzQ2k3Y0o4QmlNNndLR3ZvNzVLWFBCX3BtQnBpVk4zd1ZpT2tiQ1d3bXk3UmE0RnFGU19RMlpReFpod2ZWdDNzejU1V2pXS3RBaFQ4R2pZR2ZJOVJyUVdGWXRySnltVlJjMFBJWXZEaU1JRjlrOFc4TGtSWWY4QXFCTE9GbWJFTUdITHNXLTJseEVPMkRNeWhGQW9SMGZRNERvcTBtdWRtbWFKbjE4QUNxcUlGYnBBRjgzdFRsR3ExLV9OV1Z5eFZIRFlGQ2lGOXRQYjVtLVBl?oc=5\" target=\"_blank\">Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
+        "published_at": "2026-10-21T14:16:57+00:00",
+        "summary": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October Investing.com Canada",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY1ZwdnpqeDFPamVNeVJBY3Q1Y19HaExfRlFNSjhhZ2RSUzMtdnlOYXBWOHdiUWNfQlczeXIyWjFuMzZTX1RQWXFLVHVwS3V0MmRmQm9RSHMwTlEyZXF2THBkWE1EajF1SEx0czlTWXpTMGhGOTkzWHhnTXNPV3JSMjZkcEN5UUF0NkxSNTNrRVgxRWN2Q3FCT3kxdzZITFdIM29DUkI4RmhLbDhTYzFLM1l1cWpib05IY3puZzF4RVd1RHJLVFFkZWpFRjZRUUpUZG9kb213RFVIay04UzlwOGE4UWcxS29HZ3JiME5aQm1SVVJB?oc=5\" target=\"_blank\">Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-21T14:47:37+00:00"
+        "collected_at": "2026-10-22T02:51:46+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 578,
+      "count": 580,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "b31e1200383926c6",
-        "title": "Alabama Power gets go-ahead to resume work on disputed transmission line in Shelby County - wvtm",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMHlZZ3pfcUE0b1ZnaEhLb0w1bVVVVHdNVmJHLXBZTDU1S3NobEdzYU9fWVY3S19DZEtxTUx4SURXOUZHZDg3dGx1MzZodXB5bGlpN001WGVvMVNmRVZIbV95VGg0Rnh2X1AxSUNJNHNoLWRjY1pvN3lPNTJXbHViUDhlaV91d21hZlFweWs1SjBkVy1JNDhzRmRsQXE?oc=5",
+        "id": "2d44e4a662dff6df",
+        "title": "State Supreme Court hands Alabama Power big victory in fight that drew attention of country star, politician - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekFaandITlM5VG5QS2FyMWJ4M3UtWkdJSDVYa0kzR0V2T0h4QjM0NFU2ZHNqb1dXTHZTajZRNmtiNFJCcnE2aU5YTU9qUWdfRk1oRG5QNld5QVQtYnNvSWVZMUoydnpWbnpSbmtod3k1Ny1oSFFVUFpCNkNCTDdaR3hjeTYyYk1VRUJkRkRiTTJnNWV3WGp0MmU1eWZQMVB3dFdES0R2NTBYN3R6WVZEYTVWcVV1dUlZNmdzQVYyS0NVV3RPRGpvZlhISTdpdlRuV2ZVQzVKM0lnSHB40gHwAUFVX3lxTE9BSTVSeDNLNWotblRWV05Yc1JNR0dyNFBoSlctNkNPUHAxTUVhSl9vWHoyOGRWUTNwaF9nRl9GUURoZ2F4eGxfRG1Od1pFUWhjYncyYy1qQ3lPWEd2bVVmZUhEMmZubmRUVWlEMk1BOHZzRUdyZ1Q5X2lWa0hveHltNnR4UFFrako0a2xubFNFb2JlS1BvRXlOUE44TndnelJSanRSTTFSQmtIS0hkMnVkdE9fZ3Y1Y3k2SHpNdTVjS0hHN1N3V3pHWEk0cXlha0ZUb0k4ZVNZX1NnTzNYV21XX2QtYUhCS3NBelZZZVprUg?oc=5",
         "domain": "news.google.com",
-        "source": "wvtm",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-10-21T20:42:36+00:00",
-        "summary": "Alabama Power gets go-ahead to resume work on disputed transmission line in Shelby County wvtm",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMHlZZ3pfcUE0b1ZnaEhLb0w1bVVVVHdNVmJHLXBZTDU1S3NobEdzYU9fWVY3S19DZEtxTUx4SURXOUZHZDg3dGx1MzZodXB5bGlpN001WGVvMVNmRVZIbV95VGg0Rnh2X1AxSUNJNHNoLWRjY1pvN3lPNTJXbHViUDhlaV91d21hZlFweWs1SjBkVy1JNDhzRmRsQXE?oc=5\" target=\"_blank\">Alabama Power gets go-ahead to resume work on disputed transmission line in Shelby County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+        "published_at": "2026-10-22T00:15:00+00:00",
+        "summary": "State Supreme Court hands Alabama Power big victory in fight that drew attention of country star, politician AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekFaandITlM5VG5QS2FyMWJ4M3UtWkdJSDVYa0kzR0V2T0h4QjM0NFU2ZHNqb1dXTHZTajZRNmtiNFJCcnE2aU5YTU9qUWdfRk1oRG5QNld5QVQtYnNvSWVZMUoydnpWbnpSbmtod3k1Ny1oSFFVUFpCNkNCTDdaR3hjeTYyYk1VRUJkRkRiTTJnNWV3WGp0MmU1eWZQMVB3dFdES0R2NTBYN3R6WVZEYTVWcVV1dUlZNmdzQVYyS0NVV3RPRGpvZlhISTdpdlRuV2ZVQzVKM0lnSHB40gHwAUFVX3lxTE9BSTVSeDNLNWotblRWV05Yc1JNR0dyNFBoSlctNkNPUHAxTUVhSl9vWHoyOGRWUTNwaF9nRl9GUURoZ2F4eGxfRG1Od1pFUWhjYncyYy1qQ3lPWEd2bVVmZUhEMmZubmRUVWlEMk1BOHZzRUdyZ1Q5X2lWa0hveHltNnR4UFFrako0a2xubFNFb2JlS1BvRXlOUE44TndnelJSanRSTTFSQmtIS0hkMnVkdE9fZ3Y1Y3k2SHpNdTVjS0hHN1N3V3pHWEk0cXlha0ZUb0k4ZVNZX1NnTzNYV21XX2QtYUhCS3NBelZZZVprUg?oc=5\" target=\"_blank\">State Supreme Court hands Alabama Power big victory in fight that drew attention of country star, politician</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-21T22:57:41+00:00"
+        "collected_at": "2026-10-22T02:51:52+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 984,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "bf2d2450c37a951e",
         "title": "Georgia utility commission's balance of power at stake in midterm election - WABE",
