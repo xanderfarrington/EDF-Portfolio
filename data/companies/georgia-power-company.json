@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-22T09:05:07+00:00",
+  "last_updated": "2026-10-22T14:48:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 987,
+  "count": 988,
   "mentions": [
     {
       "id": "bf2d2450c37a951e",
@@ -75,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-20T18:14:03+00:00"
+    },
+    {
+      "id": "dcf4b9222cb894bd",
+      "title": "Community Corner: As cooler temperatures move in Georgia Power says now is the time to prepare for winter weather - WSAV-TV",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeEJqWThRNFUzLVNlUmgxZk4tNTItcHl5QUU2UHdIc3BhWjVHY0tTMjRSeExLTkZ3RWV6RHhySUh5c3dJeDVQNEFJeWl4bTRjdlZZOUhRb0ViZy0tODM4dk9FM2lMYWlfbVNMSU42bVpNRUx1SlhYY3A1bjBTdXF0Y0NhMko0ZEZzZ0RnZE9qclVuZ3RUeXhiczRNdmVpMWx0ZUVKcC1NUTVfbjJMQUhTY0JBQ1RaZnNTSlNkWmFld2RwVjRKcHprMnlkS2hlQnpGd2lmMTdnX0RmdGhPNW4zbHkzT0ZRVnRIR1c2ZmRYcFhPWEXSAfgBQVVfeXFMUHE2UWNuSldpTkxlTGpLaU1WdEF6V0Z2YlRYUGplTV96NC10MUdsQ1ZoQVZNYVV6SVJRNGxjbHRKR1ltdDBhdXZtU3preUgzZ1ZrM3BLNGw0NWJLM3FpX0ZCZmhIS0pFOFZ4d0d0OTVoZFhDQjh1bGlRRWx6LVNCXzNMTU1XdHFQT2IyZWlVUWtFZnZOMmJXbG51RjJJa2h4dzBGX2ZWckJaS2pkdV9Zb2toTkE1OEVZOV9sVFUxeFFOc2ZhYkVSX3ktUmV1T1lTZHZkTUpEZ24wQkJCM3hvRUVPSHRwdG1EU3FGOExER0tIREk0Wlc3UVg?oc=5",
+      "domain": "news.google.com",
+      "source": "WSAV-TV",
+      "language": "English",
+      "published_at": "2026-10-20T13:52:34+00:00",
+      "summary": "Community Corner: As cooler temperatures move in Georgia Power says now is the time to prepare for winter weather WSAV-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeEJqWThRNFUzLVNlUmgxZk4tNTItcHl5QUU2UHdIc3BhWjVHY0tTMjRSeExLTkZ3RWV6RHhySUh5c3dJeDVQNEFJeWl4bTRjdlZZOUhRb0ViZy0tODM4dk9FM2lMYWlfbVNMSU42bVpNRUx1SlhYY3A1bjBTdXF0Y0NhMko0ZEZzZ0RnZE9qclVuZ3RUeXhiczRNdmVpMWx0ZUVKcC1NUTVfbjJMQUhTY0JBQ1RaZnNTSlNkWmFld2RwVjRKcHprMnlkS2hlQnpGd2lmMTdnX0RmdGhPNW4zbHkzT0ZRVnRIR1c2ZmRYcFhPWEXSAfgBQVVfeXFMUHE2UWNuSldpTkxlTGpLaU1WdEF6V0Z2YlRYUGplTV96NC10MUdsQ1ZoQVZNYVV6SVJRNGxjbHRKR1ltdDBhdXZtU3preUgzZ1ZrM3BLNGw0NWJLM3FpX0ZCZmhIS0pFOFZ4d0d0OTVoZFhDQjh1bGlRRWx6LVNCXzNMTU1XdHFQT2IyZWlVUWtFZnZOMmJXbG51RjJJa2h4dzBGX2ZWckJaS2pkdV9Zb2toTkE1OEVZOV9sVFUxeFFOc2ZhYkVSX3ktUmV1T1lTZHZkTUpEZ24wQkJCM3hvRUVPSHRwdG1EU3FGOExER0tIREk0Wlc3UVg?oc=5\" target=\"_blank\">Community Corner: As cooler temperatures move in Georgia Power says now is the time to prepare for winter weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAV-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-22T14:48:45+00:00"
     },
     {
       "id": "c2a71302537349cd",

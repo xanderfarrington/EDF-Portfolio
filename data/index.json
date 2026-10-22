@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T09:05:17+00:00",
+  "last_updated": "2026-10-22T14:48:55+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 580,
-      "new_mentions_this_run": 25,
+      "count": 582,
+      "new_mentions_this_run": 15,
       "latest_mention": {
-        "id": "2d44e4a662dff6df",
-        "title": "State Supreme Court hands Alabama Power big victory in fight that drew attention of country star, politician - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekFaandITlM5VG5QS2FyMWJ4M3UtWkdJSDVYa0kzR0V2T0h4QjM0NFU2ZHNqb1dXTHZTajZRNmtiNFJCcnE2aU5YTU9qUWdfRk1oRG5QNld5QVQtYnNvSWVZMUoydnpWbnpSbmtod3k1Ny1oSFFVUFpCNkNCTDdaR3hjeTYyYk1VRUJkRkRiTTJnNWV3WGp0MmU1eWZQMVB3dFdES0R2NTBYN3R6WVZEYTVWcVV1dUlZNmdzQVYyS0NVV3RPRGpvZlhISTdpdlRuV2ZVQzVKM0lnSHB40gHwAUFVX3lxTE9BSTVSeDNLNWotblRWV05Yc1JNR0dyNFBoSlctNkNPUHAxTUVhSl9vWHoyOGRWUTNwaF9nRl9GUURoZ2F4eGxfRG1Od1pFUWhjYncyYy1qQ3lPWEd2bVVmZUhEMmZubmRUVWlEMk1BOHZzRUdyZ1Q5X2lWa0hveHltNnR4UFFrako0a2xubFNFb2JlS1BvRXlOUE44TndnelJSanRSTTFSQmtIS0hkMnVkdE9fZ3Y1Y3k2SHpNdTVjS0hHN1N3V3pHWEk0cXlha0ZUb0k4ZVNZX1NnTzNYV21XX2QtYUhCS3NBelZZZVprUg?oc=5",
+        "id": "f2ef28e66f9b2eb5",
+        "title": "Homeowner continues fight against Alabama Power over power line planned across his property - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQckJvM2QweEN6V3pLSGwxSE9IY1hGSWVVRXJwcGNFRDZTMmo0OExOV0NleS1iRl9sQWlZYnZ2eXM4VXN6MExhWmV5ZVZYZWxyd1JBNWFoZDhiTjRzZlg3cldLUF9DNnk2OVFvUjRLb1Vwa0REMUp0eUZOb21pLXhBbEd0WGxIRDBPODMyOWRxZElpLUNBc2c?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "wvtm",
         "language": "English",
-        "published_at": "2026-10-22T00:15:00+00:00",
-        "summary": "State Supreme Court hands Alabama Power big victory in fight that drew attention of country star, politician AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekFaandITlM5VG5QS2FyMWJ4M3UtWkdJSDVYa0kzR0V2T0h4QjM0NFU2ZHNqb1dXTHZTajZRNmtiNFJCcnE2aU5YTU9qUWdfRk1oRG5QNld5QVQtYnNvSWVZMUoydnpWbnpSbmtod3k1Ny1oSFFVUFpCNkNCTDdaR3hjeTYyYk1VRUJkRkRiTTJnNWV3WGp0MmU1eWZQMVB3dFdES0R2NTBYN3R6WVZEYTVWcVV1dUlZNmdzQVYyS0NVV3RPRGpvZlhISTdpdlRuV2ZVQzVKM0lnSHB40gHwAUFVX3lxTE9BSTVSeDNLNWotblRWV05Yc1JNR0dyNFBoSlctNkNPUHAxTUVhSl9vWHoyOGRWUTNwaF9nRl9GUURoZ2F4eGxfRG1Od1pFUWhjYncyYy1qQ3lPWEd2bVVmZUhEMmZubmRUVWlEMk1BOHZzRUdyZ1Q5X2lWa0hveHltNnR4UFFrako0a2xubFNFb2JlS1BvRXlOUE44TndnelJSanRSTTFSQmtIS0hkMnVkdE9fZ3Y1Y3k2SHpNdTVjS0hHN1N3V3pHWEk0cXlha0ZUb0k4ZVNZX1NnTzNYV21XX2QtYUhCS3NBelZZZVprUg?oc=5\" target=\"_blank\">State Supreme Court hands Alabama Power big victory in fight that drew attention of country star, politician</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-10-22T12:41:00+00:00",
+        "summary": "Homeowner continues fight against Alabama Power over power line planned across his property wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQckJvM2QweEN6V3pLSGwxSE9IY1hGSWVVRXJwcGNFRDZTMmo0OExOV0NleS1iRl9sQWlZYnZ2eXM4VXN6MExhWmV5ZVZYZWxyd1JBNWFoZDhiTjRzZlg3cldLUF9DNnk2OVFvUjRLb1Vwa0REMUp0eUZOb21pLXhBbEd0WGxIRDBPODMyOWRxZElpLUNBc2c?oc=5\" target=\"_blank\">Homeowner continues fight against Alabama Power over power line planned across his property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-22T02:51:52+00:00"
+        "collected_at": "2026-10-22T14:48:28+00:00"
       }
     },
     {
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 987,
-      "new_mentions_this_run": 8,
+      "count": 988,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "bf2d2450c37a951e",
         "title": "Georgia utility commission's balance of power at stake in midterm election - WABE",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",
