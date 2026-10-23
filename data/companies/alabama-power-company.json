@@ -2,10 +2,38 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-22T22:54:38+00:00",
+  "last_updated": "2026-10-23T02:55:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 585,
+  "count": 589,
   "mentions": [
+    {
+      "id": "2246914746cf405a",
+      "title": "Court ruling brings crews to contested Calera land - wvtm",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaNXVKZUlHRmpyRUpGTG1NUlhwUEs2WXBEVk5iaXpBSWNnLUFRaFRnWVRkZFBjVks0NWo0ZmtzTWl4anFnY1JoWXExMUtKY1BSXzVaWDlwOW4xSHpsR3RZTEFQcDZ5S1BKNGlIQWRNOEM5aU5PZF9uTEV5RjJXQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm",
+      "language": "English",
+      "published_at": "2026-10-22T23:21:00+00:00",
+      "summary": "Court ruling brings crews to contested Calera land wvtm",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBaNXVKZUlHRmpyRUpGTG1NUlhwUEs2WXBEVk5iaXpBSWNnLUFRaFRnWVRkZFBjVks0NWo0ZmtzTWl4anFnY1JoWXExMUtKY1BSXzVaWDlwOW4xSHpsR3RZTEFQcDZ5S1BKNGlIQWRNOEM5aU5PZF9uTEV5RjJXQQ?oc=5\" target=\"_blank\">Court ruling brings crews to contested Calera land</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-23T02:55:37+00:00"
+    },
+    {
+      "id": "2a257ddad112c9ff",
+      "title": "Alabama Power starting work on Shelby County homeowner’s property after emergency motion granted - Alabama's 42",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTVFkSmI4SFRKLUF0SDluWlo4MUtGVDJQalRERC1aYkIxXzd5WGt1X285czRvcUxTd014Rm9qemI1aWJaZ25EUGZfS29pUGttcHVBMGlsYTd6U2hWdFBqS3hQZ00xbXd6N2I3LVRVei1fTmVpLXRBMlNaOXIxc3A5c3ZrZ2w4Z2NpcTc2WEdaU0JpQnhkTllIYmJMUFFDSERqckdyalY0WF9iRW1FZmkyYVA4WGZDOG1NcUVnazExOTlBZEpVM3EtbWdmU0EyVVXSAdQBQVVfeXFMTUl4UXJIMFZvS1VGYTF3bGRESk9ackx3WGNYVGMtSXhxWjc2TlFxYzhRUUFlb2RxeEVuT3U4TlBvT3lKaU5FWVNmN3ZOd0s1dzNtUmtNMWF1NFJDeU45UTg2X2t6djJuLWp2alRNR2lIVGNxcGUydFNyY3FaLUVDRmQ4OWczZ0JnaGJuTmtzX3V5dEpjbWJhNVZzMEtQbWhSd1MwMkQtR0JXZlJVNG9ZX2NUU09VMXdNbnAzc0VMc2NRMFBEYVlHVnRKeVc3Y2psNUZ4Nk4?oc=5",
+      "domain": "news.google.com",
+      "source": "Alabama's 42",
+      "language": "English",
+      "published_at": "2026-10-22T23:06:03+00:00",
+      "summary": "Alabama Power starting work on Shelby County homeowner’s property after emergency motion granted Alabama's 42",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNTVFkSmI4SFRKLUF0SDluWlo4MUtGVDJQalRERC1aYkIxXzd5WGt1X285czRvcUxTd014Rm9qemI1aWJaZ25EUGZfS29pUGttcHVBMGlsYTd6U2hWdFBqS3hQZ00xbXd6N2I3LVRVei1fTmVpLXRBMlNaOXIxc3A5c3ZrZ2w4Z2NpcTc2WEdaU0JpQnhkTllIYmJMUFFDSERqckdyalY0WF9iRW1FZmkyYVA4WGZDOG1NcUVnazExOTlBZEpVM3EtbWdmU0EyVVXSAdQBQVVfeXFMTUl4UXJIMFZvS1VGYTF3bGRESk9ackx3WGNYVGMtSXhxWjc2TlFxYzhRUUFlb2RxeEVuT3U4TlBvT3lKaU5FWVNmN3ZOd0s1dzNtUmtNMWF1NFJDeU45UTg2X2t6djJuLWp2alRNR2lIVGNxcGUydFNyY3FaLUVDRmQ4OWczZ0JnaGJuTmtzX3V5dEpjbWJhNVZzMEtQbWhSd1MwMkQtR0JXZlJVNG9ZX2NUU09VMXdNbnAzc0VMc2NRMFBEYVlHVnRKeVc3Y2psNUZ4Nk4?oc=5\" target=\"_blank\">Alabama Power starting work on Shelby County homeowner’s property after emergency motion granted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama's 42</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-23T02:55:37+00:00"
+    },
     {
       "id": "e763ef18f543d280",
       "title": "Alabama Power 'slips onto' and begins work at Fenn Church property,… - 1819 News",
@@ -49,6 +77,20 @@
       "collected_at": "2026-10-22T14:48:28+00:00"
     },
     {
+      "id": "299878f5125e8cb4",
+      "title": "Last Man Standing: Alabama Landowner Fights Power Company in Monster Eminent Domain Battle - AgWeb",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQUtQMHJjekMzQ2xzYlRwNXJ4aUkwNkx4eUEtcFQtUnpqaE0yT3cwemlWWm01b1VvazBpN0U0azZ3RXBacTFWdkpaeXhzbk1rUGJ6NUVXa0dOOEI3dUQyZ1d3Q3pDQkpacFgyNTFlbUhjS0dQUWd2V0xoTG8tMFVHSGEwWXZuYXA2LWVqMmY1NFZSZnpkQWdyMGFFU0taaHNtQkE0a3JES1dCeUpZenRCdHdMci1sR3BDZVUwbA?oc=5",
+      "domain": "news.google.com",
+      "source": "AgWeb",
+      "language": "English",
+      "published_at": "2026-10-22T11:36:00+00:00",
+      "summary": "Last Man Standing: Alabama Landowner Fights Power Company in Monster Eminent Domain Battle AgWeb",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPQUtQMHJjekMzQ2xzYlRwNXJ4aUkwNkx4eUEtcFQtUnpqaE0yT3cwemlWWm01b1VvazBpN0U0azZ3RXBacTFWdkpaeXhzbk1rUGJ6NUVXa0dOOEI3dUQyZ1d3Q3pDQkpacFgyNTFlbUhjS0dQUWd2V0xoTG8tMFVHSGEwWXZuYXA2LWVqMmY1NFZSZnpkQWdyMGFFU0taaHNtQkE0a3JES1dCeUpZenRCdHdMci1sR3BDZVUwbA?oc=5\" target=\"_blank\">Last Man Standing: Alabama Landowner Fights Power Company in Monster Eminent Domain Battle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgWeb</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-23T02:55:37+00:00"
+    },
+    {
       "id": "ff9a93cd12fe0155",
       "title": "'Alabama Power crushed him': State Supreme Court reverses TPO in Fenn… - 1819 News",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdk1rSVZaSFJVNFJVYi0tTXJETVlLT2N2Q2lhSHZOMjgzOFQ0b0dfMkdDSU9lRXFEZ3VENE1tTFVDNFE5NnVqMEhSdTZsb1lhQXZoRWZhWkZLbmhKdnVtclEtb3VVV2J2LXdPbDY5S1c5Ykh2MjhCcS0wNjVLRDJhSXJFcWlXZmpMTDh3VzNmNGE4WjBZMzl0ZEJxcUsybjJyWDAzMXFPNzk2M2tnTWZLdEVyM0k1YmZoYzd3OFFJMDdTcFE2dDRrTHlZT0YxbGp1Q2hsdlZYRTlNX1NzSWppOW94ckg1cjZZN0lWZA?oc=5",
@@ -75,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-22T02:51:52+00:00"
+    },
+    {
+      "id": "5ecc09fd0b2fbd0e",
+      "title": "State Supreme Court hands Alabama Power big victory in fight that drew attention of country star, politician - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQUk1UngzSzVqLW5UVldOWHNSTUdHcjRQaEpXLTZDT1BwMU1FYUpfb1h6MjhkVlEzcGhfZ0ZfRlFEaGdheHhsX0RtTndaRVFoY2J3MmMtakN5T1hHdm1VZmVIRDJmbm5kVFVpRDJNQTh2c0VHcmdUOV9pVmtIb3h5bTZ0eFBRa2pKNGtsbmxTRW9iZUtQb0V5TlBOOE53Z3pSUmp0Uk0xUkJrSEtIZDJ1ZHRPX2d2NWN5Nkh6TXU1Y0tIRzdTd1d6R1hJNHF5YWtGVG9JOGVTWV9TZ08zWFdtV19kLWFIQktzQXpWWWVaa1LSAfABQVVfeXFMT0FJNVJ4M0s1ai1uVFZXTlhzUk1HR3I0UGhKVy02Q09QcDFNRWFKX29YejI4ZFZRM3BoX2dGX0ZRRGhnYXh4bF9EbU53WkVRaGNidzJjLWpDeU9YR3ZtVWZlSEQyZm5uZFRVaUQyTUE4dnNFR3JnVDlfaVZrSG94eW02dHhQUWtqSjRrbG5sU0VvYmVLUG9FeU5QTjhOd2d6UlJqdFJNMVJCa0hLSGQydWR0T19ndjVjeTZIek11NWNLSEc3U3dXekdYSTRxeWFrRlRvSThlU1lfU2dPM1hXbVdfZC1hSEJLc0F6VlllWmtS?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-10-22T00:15:00+00:00",
+      "summary": "State Supreme Court hands Alabama Power big victory in fight that drew attention of country star, politician AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQUk1UngzSzVqLW5UVldOWHNSTUdHcjRQaEpXLTZDT1BwMU1FYUpfb1h6MjhkVlEzcGhfZ0ZfRlFEaGdheHhsX0RtTndaRVFoY2J3MmMtakN5T1hHdm1VZmVIRDJmbm5kVFVpRDJNQTh2c0VHcmdUOV9pVmtIb3h5bTZ0eFBRa2pKNGtsbmxTRW9iZUtQb0V5TlBOOE53Z3pSUmp0Uk0xUkJrSEtIZDJ1ZHRPX2d2NWN5Nkh6TXU1Y0tIRzdTd1d6R1hJNHF5YWtGVG9JOGVTWV9TZ08zWFdtV19kLWFIQktzQXpWWWVaa1LSAfABQVVfeXFMT0FJNVJ4M0s1ai1uVFZXTlhzUk1HR3I0UGhKVy02Q09QcDFNRWFKX29YejI4ZFZRM3BoX2dGX0ZRRGhnYXh4bF9EbU53WkVRaGNidzJjLWpDeU9YR3ZtVWZlSEQyZm5uZFRVaUQyTUE4dnNFR3JnVDlfaVZrSG94eW02dHhQUWtqSjRrbG5sU0VvYmVLUG9FeU5QTjhOd2d6UlJqdFJNMVJCa0hLSGQydWR0T19ndjVjeTZIek11NWNLSEc3U3dXekdYSTRxeWFrRlRvSThlU1lfU2dPM1hXbVdfZC1hSEJLc0F6VlllWmtS?oc=5\" target=\"_blank\">State Supreme Court hands Alabama Power big victory in fight that drew attention of country star, politician</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-23T02:55:37+00:00"
     },
     {
       "id": "b31e1200383926c6",

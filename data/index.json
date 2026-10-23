@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T22:55:05+00:00",
+  "last_updated": "2026-10-23T02:56:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 585,
+      "count": 589,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "e763ef18f543d280",
-        "title": "Alabama Power 'slips onto' and begins work at Fenn Church property,… - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRV9BSE45UWNWQUJhbHJQS29oZjFDblE3LVlKR25TMFZ4cWZEVGthci1fLWZEWThvQkNrTjByMjJKQjZwb0RleEFnS2FodXpFN0NQZXFNcl9mWDRKSEVVZFdDRXg3Zy1HdVBuU3JTdXpHbFI4bzJDN3dMaE92anZvaHZQVWU3bEpYUGg2V3czTzBpUzVibUpNR21lSjg3VmlIb3VYQUItOWt6T0NpdFA1YmV0VUFISDVJazdmb3pIMGpCRE9qRndkS3BYOHpiTjNVanNMQXItUEVoUHdpc3A3RlJRbw?oc=5",
+        "id": "2246914746cf405a",
+        "title": "Court ruling brings crews to contested Calera land - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaNXVKZUlHRmpyRUpGTG1NUlhwUEs2WXBEVk5iaXpBSWNnLUFRaFRnWVRkZFBjVks0NWo0ZmtzTWl4anFnY1JoWXExMUtKY1BSXzVaWDlwOW4xSHpsR3RZTEFQcDZ5S1BKNGlIQWRNOEM5aU5PZF9uTEV5RjJXQQ?oc=5",
         "domain": "news.google.com",
-        "source": "1819 News",
+        "source": "wvtm",
         "language": "English",
-        "published_at": "2026-10-22T19:06:36+00:00",
-        "summary": "Alabama Power 'slips onto' and begins work at Fenn Church property,… 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRV9BSE45UWNWQUJhbHJQS29oZjFDblE3LVlKR25TMFZ4cWZEVGthci1fLWZEWThvQkNrTjByMjJKQjZwb0RleEFnS2FodXpFN0NQZXFNcl9mWDRKSEVVZFdDRXg3Zy1HdVBuU3JTdXpHbFI4bzJDN3dMaE92anZvaHZQVWU3bEpYUGg2V3czTzBpUzVibUpNR21lSjg3VmlIb3VYQUItOWt6T0NpdFA1YmV0VUFISDVJazdmb3pIMGpCRE9qRndkS3BYOHpiTjNVanNMQXItUEVoUHdpc3A3RlJRbw?oc=5\" target=\"_blank\">Alabama Power 'slips onto' and begins work at Fenn Church property,…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-10-22T23:21:00+00:00",
+        "summary": "Court ruling brings crews to contested Calera land wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBaNXVKZUlHRmpyRUpGTG1NUlhwUEs2WXBEVk5iaXpBSWNnLUFRaFRnWVRkZFBjVks0NWo0ZmtzTWl4anFnY1JoWXExMUtKY1BSXzVaWDlwOW4xSHpsR3RZTEFQcDZ5S1BKNGlIQWRNOEM5aU5PZF9uTEV5RjJXQQ?oc=5\" target=\"_blank\">Court ruling brings crews to contested Calera land</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-22T19:40:28+00:00"
+        "collected_at": "2026-10-23T02:55:37+00:00"
       }
     },
     {
