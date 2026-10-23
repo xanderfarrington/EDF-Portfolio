@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-23T02:55:53+00:00",
+  "last_updated": "2026-10-23T08:59:44+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 990,
+  "count": 991,
   "mentions": [
     {
       "id": "cda92dd37673ac32",
@@ -1489,6 +1489,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-07T10:46:18+00:00"
+    },
+    {
+      "id": "71c11f56cc3a001b",
+      "title": "Georgia Power's data breach affects hundreds of thousands - The Atlanta Journal-Constitution",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZnlVR3JOZmNfWWI2aXpDeUhMUkRldDBaS29uZ3NSeVRKeGh2WGwyOGhaMnMtcVp4TGhZTHB0UFNnZVdkaXJadXRPNXphS0x0TWt0d2JwRC1QZThadExKbWlxQ0g5NkEzOEpvU240SzU?oc=5",
+      "domain": "news.google.com",
+      "source": "The Atlanta Journal-Constitution",
+      "language": "English",
+      "published_at": "2026-10-06T07:00:00+00:00",
+      "summary": "Georgia Power's data breach affects hundreds of thousands The Atlanta Journal-Constitution",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZnlVR3JOZmNfWWI2aXpDeUhMUkRldDBaS29uZ3NSeVRKeGh2WGwyOGhaMnMtcVp4TGhZTHB0UFNnZVdkaXJadXRPNXphS0x0TWt0d2JwRC1QZThadExKbWlxQ0g5NkEzOEpvU240SzU?oc=5\" target=\"_blank\">Georgia Power's data breach affects hundreds of thousands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Journal-Constitution</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-23T08:59:44+00:00"
     },
     {
       "id": "10d3c9d497d85171",

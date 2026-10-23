@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-23T02:55:37+00:00",
+  "last_updated": "2026-10-23T08:59:28+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 589,
+  "count": 590,
   "mentions": [
     {
       "id": "2246914746cf405a",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-23T02:55:37+00:00"
+    },
+    {
+      "id": "cc5e38fe17f89251",
+      "title": "Alabama Power crews return to Fenn Church’s Calera property - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeFh3WjBNVk4tWmk2ZExuTC1xNV8xUnlPTjNyS0lBRmg0VC0tTDFmN1ZsaDl1bXh4b002T1ZSRHhwck1GZjFIV2d5SlkxcHFNcV9IVmFEX3ZZd2RvWllpRmdodzRfWWJ6aElON0hVS3pkeXctUFgzNVBBN1NvMExrVTZuSG51MExwcDNZZjR3MVZCaUk?oc=5",
+      "domain": "news.google.com",
+      "source": "WBMA",
+      "language": "English",
+      "published_at": "2026-10-22T19:52:35+00:00",
+      "summary": "Alabama Power crews return to Fenn Church’s Calera property WBMA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQeFh3WjBNVk4tWmk2ZExuTC1xNV8xUnlPTjNyS0lBRmg0VC0tTDFmN1ZsaDl1bXh4b002T1ZSRHhwck1GZjFIV2d5SlkxcHFNcV9IVmFEX3ZZd2RvWllpRmdodzRfWWJ6aElON0hVS3pkeXctUFgzNVBBN1NvMExrVTZuSG51MExwcDNZZjR3MVZCaUk?oc=5\" target=\"_blank\">Alabama Power crews return to Fenn Church’s Calera property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-23T08:59:28+00:00"
     },
     {
       "id": "e763ef18f543d280",
