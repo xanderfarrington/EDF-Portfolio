@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-23T19:42:44+00:00",
+  "last_updated": "2026-10-23T22:49:29+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 591,
+  "count": 592,
   "mentions": [
+    {
+      "id": "55e34e2a6fc2dd8b",
+      "title": "A Homeowner’s Last Stand Against Alabama Power - Inside Climate News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGQzX3JlT1JVZFBtUEIyemR6SlNfSUQwNDhKRE15ZlgySTY5RTI0UEYzS254UGtpNU51ZXlEb29tLWQ0RHluQU9yVWs1dWh4dGJBN1JocnpfRmg4YXloTjhBbXE1LVFLWTVLTFk1aEZIV3AxVnRHSDJFSnFhdnR6R2hXVlRXVDJWYVpIV054NEJXVVg5?oc=5",
+      "domain": "news.google.com",
+      "source": "Inside Climate News",
+      "language": "English",
+      "published_at": "2026-10-23T21:25:04+00:00",
+      "summary": "A Homeowner’s Last Stand Against Alabama Power Inside Climate News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGQzX3JlT1JVZFBtUEIyemR6SlNfSUQwNDhKRE15ZlgySTY5RTI0UEYzS254UGtpNU51ZXlEb29tLWQ0RHluQU9yVWs1dWh4dGJBN1JocnpfRmg4YXloTjhBbXE1LVFLWTVLTFk1aEZIV3AxVnRHSDJFSnFhdnR6R2hXVlRXVDJWYVpIV054NEJXVVg5?oc=5\" target=\"_blank\">A Homeowner’s Last Stand Against Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-23T22:49:29+00:00"
+    },
     {
       "id": "ef8e8b70da2fd232",
       "title": "Alabama Power, USO host Career Exposure Day for Phenix City students - WTVM.com",

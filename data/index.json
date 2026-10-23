@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T19:43:11+00:00",
+  "last_updated": "2026-10-23T22:49:56+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 591,
+      "count": 592,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "ef8e8b70da2fd232",
-        "title": "Alabama Power, USO host Career Exposure Day for Phenix City students - WTVM.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUdvME5CUXRRZV9GMEdlMlBZR0R1ZXNrNVVGNjRCbUxib3RLWXZkeGVrZmJBX3VTX1F3cVphSHpxMmpNS00xSTQ1RDJpby0zU3JockJuNkp2d1hYLTd4RUpVUzNrWk1sVGRVZC1ObTJtWGF3dFlTaHFLSjVjcXNlWVpJYUdQSG95di10REoteUdzMW8tTE9JY1JZN1Y?oc=5",
+        "id": "55e34e2a6fc2dd8b",
+        "title": "A Homeowner’s Last Stand Against Alabama Power - Inside Climate News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGQzX3JlT1JVZFBtUEIyemR6SlNfSUQwNDhKRE15ZlgySTY5RTI0UEYzS254UGtpNU51ZXlEb29tLWQ0RHluQU9yVWs1dWh4dGJBN1JocnpfRmg4YXloTjhBbXE1LVFLWTVLTFk1aEZIV3AxVnRHSDJFSnFhdnR6R2hXVlRXVDJWYVpIV054NEJXVVg5?oc=5",
         "domain": "news.google.com",
-        "source": "WTVM.com",
+        "source": "Inside Climate News",
         "language": "English",
-        "published_at": "2026-10-23T14:34:00+00:00",
-        "summary": "Alabama Power, USO host Career Exposure Day for Phenix City students WTVM.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUdvME5CUXRRZV9GMEdlMlBZR0R1ZXNrNVVGNjRCbUxib3RLWXZkeGVrZmJBX3VTX1F3cVphSHpxMmpNS00xSTQ1RDJpby0zU3JockJuNkp2d1hYLTd4RUpVUzNrWk1sVGRVZC1ObTJtWGF3dFlTaHFLSjVjcXNlWVpJYUdQSG95di10REoteUdzMW8tTE9JY1JZN1Y?oc=5\" target=\"_blank\">Alabama Power, USO host Career Exposure Day for Phenix City students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
+        "published_at": "2026-10-23T21:25:04+00:00",
+        "summary": "A Homeowner’s Last Stand Against Alabama Power Inside Climate News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGQzX3JlT1JVZFBtUEIyemR6SlNfSUQwNDhKRE15ZlgySTY5RTI0UEYzS254UGtpNU51ZXlEb29tLWQ0RHluQU9yVWs1dWh4dGJBN1JocnpfRmg4YXloTjhBbXE1LVFLWTVLTFk1aEZIV3AxVnRHSDJFSnFhdnR6R2hXVlRXVDJWYVpIV054NEJXVVg5?oc=5\" target=\"_blank\">A Homeowner’s Last Stand Against Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-23T19:42:44+00:00"
+        "collected_at": "2026-10-23T22:49:29+00:00"
       }
     },
     {
