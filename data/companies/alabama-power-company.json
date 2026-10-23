@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-23T14:34:34+00:00",
+  "last_updated": "2026-10-23T19:42:44+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 590,
+  "count": 591,
   "mentions": [
+    {
+      "id": "ef8e8b70da2fd232",
+      "title": "Alabama Power, USO host Career Exposure Day for Phenix City students - WTVM.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUdvME5CUXRRZV9GMEdlMlBZR0R1ZXNrNVVGNjRCbUxib3RLWXZkeGVrZmJBX3VTX1F3cVphSHpxMmpNS00xSTQ1RDJpby0zU3JockJuNkp2d1hYLTd4RUpVUzNrWk1sVGRVZC1ObTJtWGF3dFlTaHFLSjVjcXNlWVpJYUdQSG95di10REoteUdzMW8tTE9JY1JZN1Y?oc=5",
+      "domain": "news.google.com",
+      "source": "WTVM.com",
+      "language": "English",
+      "published_at": "2026-10-23T14:34:00+00:00",
+      "summary": "Alabama Power, USO host Career Exposure Day for Phenix City students WTVM.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUdvME5CUXRRZV9GMEdlMlBZR0R1ZXNrNVVGNjRCbUxib3RLWXZkeGVrZmJBX3VTX1F3cVphSHpxMmpNS00xSTQ1RDJpby0zU3JockJuNkp2d1hYLTd4RUpVUzNrWk1sVGRVZC1ObTJtWGF3dFlTaHFLSjVjcXNlWVpJYUdQSG95di10REoteUdzMW8tTE9JY1JZN1Y?oc=5\" target=\"_blank\">Alabama Power, USO host Career Exposure Day for Phenix City students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-23T19:42:44+00:00"
+    },
     {
       "id": "2246914746cf405a",
       "title": "Court ruling brings crews to contested Calera land - wvtm",

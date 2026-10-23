@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T14:35:01+00:00",
+  "last_updated": "2026-10-23T19:43:11+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 590,
+      "count": 591,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "2246914746cf405a",
-        "title": "Court ruling brings crews to contested Calera land - wvtm",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaNXVKZUlHRmpyRUpGTG1NUlhwUEs2WXBEVk5iaXpBSWNnLUFRaFRnWVRkZFBjVks0NWo0ZmtzTWl4anFnY1JoWXExMUtKY1BSXzVaWDlwOW4xSHpsR3RZTEFQcDZ5S1BKNGlIQWRNOEM5aU5PZF9uTEV5RjJXQQ?oc=5",
+        "id": "ef8e8b70da2fd232",
+        "title": "Alabama Power, USO host Career Exposure Day for Phenix City students - WTVM.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUdvME5CUXRRZV9GMEdlMlBZR0R1ZXNrNVVGNjRCbUxib3RLWXZkeGVrZmJBX3VTX1F3cVphSHpxMmpNS00xSTQ1RDJpby0zU3JockJuNkp2d1hYLTd4RUpVUzNrWk1sVGRVZC1ObTJtWGF3dFlTaHFLSjVjcXNlWVpJYUdQSG95di10REoteUdzMW8tTE9JY1JZN1Y?oc=5",
         "domain": "news.google.com",
-        "source": "wvtm",
+        "source": "WTVM.com",
         "language": "English",
-        "published_at": "2026-10-22T23:21:00+00:00",
-        "summary": "Court ruling brings crews to contested Calera land wvtm",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBaNXVKZUlHRmpyRUpGTG1NUlhwUEs2WXBEVk5iaXpBSWNnLUFRaFRnWVRkZFBjVks0NWo0ZmtzTWl4anFnY1JoWXExMUtKY1BSXzVaWDlwOW4xSHpsR3RZTEFQcDZ5S1BKNGlIQWRNOEM5aU5PZF9uTEV5RjJXQQ?oc=5\" target=\"_blank\">Court ruling brings crews to contested Calera land</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+        "published_at": "2026-10-23T14:34:00+00:00",
+        "summary": "Alabama Power, USO host Career Exposure Day for Phenix City students WTVM.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUdvME5CUXRRZV9GMEdlMlBZR0R1ZXNrNVVGNjRCbUxib3RLWXZkeGVrZmJBX3VTX1F3cVphSHpxMmpNS00xSTQ1RDJpby0zU3JockJuNkp2d1hYLTd4RUpVUzNrWk1sVGRVZC1ObTJtWGF3dFlTaHFLSjVjcXNlWVpJYUdQSG95di10REoteUdzMW8tTE9JY1JZN1Y?oc=5\" target=\"_blank\">Alabama Power, USO host Career Exposure Day for Phenix City students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-23T02:55:37+00:00"
+        "collected_at": "2026-10-23T19:42:44+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",
