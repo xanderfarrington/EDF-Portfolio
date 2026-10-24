@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T08:33:44+00:00",
+  "last_updated": "2026-10-24T13:47:08+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -68,8 +68,8 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 110,
-      "new_mentions_this_run": 3,
+      "count": 112,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "ffe29226a510360b",
         "title": "Nuclear power could more than triple by 2060, UN agency says - WOWK 13 News",

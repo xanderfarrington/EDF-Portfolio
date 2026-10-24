@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-10-24T08:33:28+00:00",
+  "last_updated": "2026-10-24T13:46:52+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 110,
+  "count": 112,
   "mentions": [
     {
       "id": "ffe29226a510360b",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-24T02:52:29+00:00"
+    },
+    {
+      "id": "ec71a2bf41452e6f",
+      "title": "Nuclear power could more than triple by 2060, UN agency says - WGNO",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYllPNy1pY1UwWHZaLUxhUW5qNjBZMlhnUFBGcWFIOGpRSW9xTGJESzBSWm5JTXdLVTl0eFVlTmNjUzJOclQzU1pnZXg3emVJTlpNTm9zT3h2VzFHbU5ieEpVSnZKTFBMcjFFQTdBUWpOd2h5Rk96RXFqM1NSMEZwSGFDelBNOU5Rdk5YZUU3ZVpCLThfMnhyYTdQNldWUWhidExFYThkMWhwUk9yb1hfbNIBtgFBVV95cUxNVUJrZ1hkUEpQVTN4bTBIcEl0LTRKYlBjX0ZQeWJkTDNSZ0dlNkxfWGxZZENuajI5amZUYURKTDFuZENORHlCM21reUJQVXA3WjVQcm11bHQ4VG1vZGlGeDB4cDk0V3hINF9qZV9OUTNhNTNEN184cEQ5SC1hNWtVNnpfdmVnT0xFWVFnaVdZTnRQR2V3OTFBVTRLYUQxWmVrX0VjeFRoOE5lQURwSWpEbDJrMTB4dw?oc=5",
+      "domain": "news.google.com",
+      "source": "WGNO",
+      "language": "English",
+      "published_at": "2026-10-23T22:21:53+00:00",
+      "summary": "Nuclear power could more than triple by 2060, UN agency says WGNO",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNYllPNy1pY1UwWHZaLUxhUW5qNjBZMlhnUFBGcWFIOGpRSW9xTGJESzBSWm5JTXdLVTl0eFVlTmNjUzJOclQzU1pnZXg3emVJTlpNTm9zT3h2VzFHbU5ieEpVSnZKTFBMcjFFQTdBUWpOd2h5Rk96RXFqM1NSMEZwSGFDelBNOU5Rdk5YZUU3ZVpCLThfMnhyYTdQNldWUWhidExFYThkMWhwUk9yb1hfbNIBtgFBVV95cUxNVUJrZ1hkUEpQVTN4bTBIcEl0LTRKYlBjX0ZQeWJkTDNSZ0dlNkxfWGxZZENuajI5amZUYURKTDFuZENORHlCM21reUJQVXA3WjVQcm11bHQ4VG1vZGlGeDB4cDk0V3hINF9qZV9OUTNhNTNEN184cEQ5SC1hNWtVNnpfdmVnT0xFWVFnaVdZTnRQR2V3OTFBVTRLYUQxWmVrX0VjeFRoOE5lQURwSWpEbDJrMTB4dw?oc=5\" target=\"_blank\">Nuclear power could more than triple by 2060, UN agency says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGNO</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-24T13:46:52+00:00"
     },
     {
       "id": "3b15f9bce88c7470",
@@ -75,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-17T08:11:33+00:00"
+    },
+    {
+      "id": "15154bb5af1dce7b",
+      "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers - YourBigSky.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN3lXeS14NmxTN19hSm5tTVZ1ZWVuTVQ3Q05IY1lzMnljMG1rSVBGM2w4LVUxNkxKNm1sZ1hMRUVpLTJvZDVMM3VYWHZ5ODlPcnRocERVMGJETndRcFktaFZOS0FINThhYjBSUXVhVEQydnVSVXJvemYtVUdQT19lYnVTTEhSOERUWTFCOFIycFpBZ2F0MGNjUGYtbi1mdXhSQXA1N2pSZTNMckxrS2Z2aTI2Vnhzc1VxZ0R0b3N5RFZWbHVfZjNET1JuS1lYVXZVaUU4Y1lnUWJONUZ0MjNkQ0g1enHSAeoBQVVfeXFMT290UWM0VWhLR1FZZmFmbS05T042SU9qUEdSR3JmcUpCTWt5eFpXZ2lqSlFna2ZfREd1R1hha0JrUEFycXhrUkNFOGZSejFmaEl2WVBFN054WXlkMmVWNHl3Ykpsc08zeTVuVERla0JFZ3NyRll6SzdTa3V5eDFtYmtqLWdiM1pJZkVPbzVNQjBXOHNBVlhuODc4WWd3d3B1a1FENEhfd2xCNVlGUHY3emVTZ05vN2s5RW1GMjdLYVBVUG1hTVJXX1JNandEVEpIRWFaRUlyQS1Ob2NES0xKOTZMQXNxZE9teWZ3?oc=5",
+      "domain": "news.google.com",
+      "source": "YourBigSky.com",
+      "language": "English",
+      "published_at": "2026-10-16T12:59:16+00:00",
+      "summary": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers YourBigSky.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN3lXeS14NmxTN19hSm5tTVZ1ZWVuTVQ3Q05IY1lzMnljMG1rSVBGM2w4LVUxNkxKNm1sZ1hMRUVpLTJvZDVMM3VYWHZ5ODlPcnRocERVMGJETndRcFktaFZOS0FINThhYjBSUXVhVEQydnVSVXJvemYtVUdQT19lYnVTTEhSOERUWTFCOFIycFpBZ2F0MGNjUGYtbi1mdXhSQXA1N2pSZTNMckxrS2Z2aTI2Vnhzc1VxZ0R0b3N5RFZWbHVfZjNET1JuS1lYVXZVaUU4Y1lnUWJONUZ0MjNkQ0g1enHSAeoBQVVfeXFMT290UWM0VWhLR1FZZmFmbS05T042SU9qUEdSR3JmcUpCTWt5eFpXZ2lqSlFna2ZfREd1R1hha0JrUEFycXhrUkNFOGZSejFmaEl2WVBFN054WXlkMmVWNHl3Ykpsc08zeTVuVERla0JFZ3NyRll6SzdTa3V5eDFtYmtqLWdiM1pJZkVPbzVNQjBXOHNBVlhuODc4WWd3d3B1a1FENEhfd2xCNVlGUHY3emVTZ05vN2s5RW1GMjdLYVBVUG1hTVJXX1JNandEVEpIRWFaRUlyQS1Ob2NES0xKOTZMQXNxZE9teWZ3?oc=5\" target=\"_blank\">US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YourBigSky.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-24T13:46:52+00:00"
     },
     {
       "id": "35b2735a6c611205",
