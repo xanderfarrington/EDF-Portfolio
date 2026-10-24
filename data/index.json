@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T02:52:45+00:00",
+  "last_updated": "2026-10-24T08:33:44+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 592,
+      "count": 594,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "55e34e2a6fc2dd8b",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 110,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "ffe29226a510360b",
         "title": "Nuclear power could more than triple by 2060, UN agency says - WOWK 13 News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 992,
+      "count": 993,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "cda92dd37673ac32",
-        "title": "Georgia Power crews clear scene near Elm Drive and Macon Road - WTVM.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJjeWFNYmJpMUxEaVVxVU9zUHd4alEwUTB1dnpzY1ZKc0FQcmNjSmZpWE5TR3VfZ01tRnpVTVZabjNQbVkycF9QUXZTemZneXFZaHhIQlEwYWM1MW9JQ0Vmd2I1WWVOci1YSFFPOVRHaFdZX3FJUkw0alFEbmxJWmJqUkFGVmdPN2tvU19QcGlaNVJI0gGoAUFVX3lxTE04NlUxdy1kc3N5aFZMMXBwbTFjUFg3RlFQeDZYY0g2TXc2VU5QNDZtVTVDUGJlSkJhOVlLa2hTem44NHFDc2JFc2dEdFB0YjVIV0l2OHN6akdSYkEtdzhXRkktUTI2QWhINU1PaWFXcm1QSjAtazdGUnMxNjhPYjktUGJkdlpzYWFsb0gtUUdVRXdEeE5zLUxEbVdMVDJBN2NXdkx5X2o4Tg?oc=5",
+        "id": "d2e48fdecca68468",
+        "title": "Georgia Power unveils battery storage facility at Plant Hammond - The Rome News-Tribune",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObldxRmQwd29EOFVDZlBIV0FCbzIzUWVaOXJoOFR4U1JhVWxPblo4MGphRHZObmFnMDEyUUNId1JXZjRJSXBubFd2YlRGUzVoc0dLV2pZZ0F6OEdvVmtsY0dWN21CRGJvb3I4S2o1QVgyY0JWRHNTb0lZX1JwQlhvdXpHcEZJQTBqWU1KcFpoTnNWeUdvV3JuZUxGVDJ6ZVpnS1BTNWxWOTVNbnl3RlpQM0g5MU5HZHMzeUZwMFV6bzRObjhCUXZBUkEzakh0d25PODdhUGpiaE9XVUczZmI3NF8takJDcFVVOFhrWEk4NDJKSkhJTGVUSWNR?oc=5",
         "domain": "news.google.com",
-        "source": "WTVM.com",
+        "source": "The Rome News-Tribune",
         "language": "English",
-        "published_at": "2026-10-22T21:28:00+00:00",
-        "summary": "Georgia Power crews clear scene near Elm Drive and Macon Road WTVM.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJjeWFNYmJpMUxEaVVxVU9zUHd4alEwUTB1dnpzY1ZKc0FQcmNjSmZpWE5TR3VfZ01tRnpVTVZabjNQbVkycF9QUXZTemZneXFZaHhIQlEwYWM1MW9JQ0Vmd2I1WWVOci1YSFFPOVRHaFdZX3FJUkw0alFEbmxJWmJqUkFGVmdPN2tvU19QcGlaNVJI0gGoAUFVX3lxTE04NlUxdy1kc3N5aFZMMXBwbTFjUFg3RlFQeDZYY0g2TXc2VU5QNDZtVTVDUGJlSkJhOVlLa2hTem44NHFDc2JFc2dEdFB0YjVIV0l2OHN6akdSYkEtdzhXRkktUTI2QWhINU1PaWFXcm1QSjAtazdGUnMxNjhPYjktUGJkdlpzYWFsb0gtUUdVRXdEeE5zLUxEbVdMVDJBN2NXdkx5X2o4Tg?oc=5\" target=\"_blank\">Georgia Power crews clear scene near Elm Drive and Macon Road</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
+        "published_at": "2026-10-24T07:30:00+00:00",
+        "summary": "Georgia Power unveils battery storage facility at Plant Hammond The Rome News-Tribune",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxObldxRmQwd29EOFVDZlBIV0FCbzIzUWVaOXJoOFR4U1JhVWxPblo4MGphRHZObmFnMDEyUUNId1JXZjRJSXBubFd2YlRGUzVoc0dLV2pZZ0F6OEdvVmtsY0dWN21CRGJvb3I4S2o1QVgyY0JWRHNTb0lZX1JwQlhvdXpHcEZJQTBqWU1KcFpoTnNWeUdvV3JuZUxGVDJ6ZVpnS1BTNWxWOTVNbnl3RlpQM0g5MU5HZHMzeUZwMFV6bzRObjhCUXZBUkEzakh0d25PODdhUGpiaE9XVUczZmI3NF8takJDcFVVOFhrWEk4NDJKSkhJTGVUSWNR?oc=5\" target=\"_blank\">Georgia Power unveils battery storage facility at Plant Hammond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-22T22:54:55+00:00"
+        "collected_at": "2026-10-24T08:33:34+00:00"
       }
     },
     {

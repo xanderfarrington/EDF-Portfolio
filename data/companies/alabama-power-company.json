@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-24T02:52:17+00:00",
+  "last_updated": "2026-10-24T08:33:17+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 592,
+  "count": 594,
   "mentions": [
     {
       "id": "55e34e2a6fc2dd8b",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-23T02:55:37+00:00"
+    },
+    {
+      "id": "407a778a1b8fb401",
+      "title": "Alabama Power starting work on Shelby County homeowner’s property after emergency motion granted - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHQzME4xcl9UdVFIdHdfWmt1RzJXSnY4TDFIVzhzaGMxWExXRGkyNVJrdlBzWHNES2UyMWNlZXNoYldWTGZuOTRXTHR3U3Q2a1ZnM1VLQm5jWUxOTTFCWlJpa05XcHlfS2xHVUIwNlZmRDNkRFkwS0IwYm1qX29GZWQxTU5RR3M?oc=5",
+      "domain": "news.google.com",
+      "source": "AOL.com",
+      "language": "English",
+      "published_at": "2026-10-22T23:06:09+00:00",
+      "summary": "Alabama Power starting work on Shelby County homeowner’s property after emergency motion granted AOL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHQzME4xcl9UdVFIdHdfWmt1RzJXSnY4TDFIVzhzaGMxWExXRGkyNVJrdlBzWHNES2UyMWNlZXNoYldWTGZuOTRXTHR3U3Q2a1ZnM1VLQm5jWUxOTTFCWlJpa05XcHlfS2xHVUIwNlZmRDNkRFkwS0IwYm1qX29GZWQxTU5RR3M?oc=5\" target=\"_blank\">Alabama Power starting work on Shelby County homeowner’s property after emergency motion granted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-24T08:33:17+00:00"
     },
     {
       "id": "2a257ddad112c9ff",
@@ -103,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-22T19:40:28+00:00"
+    },
+    {
+      "id": "a930a08212f96ca2",
+      "title": "Alabama Power allowed to enter Shelby County homeowner’s property after emergency motion granted - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUDc3NFJXMnFxcjdOVzZBeXZ2eFlyZ0hhZ1RFRmRwbW42ZXNEeVhNMHNJMkJjOXltQ2FUdFdGSTRCT0d5ZTVWYlNuenNaenYtSFAyVWxnQm5oUWg1Tl9tWjBTRkU1dnBJQWFuLUJ6TU53Mll5Nmt3WXRsZG9GLXhkQ24zNk1BWDVKQ2tF?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-10-22T16:00:40+00:00",
+      "summary": "Alabama Power allowed to enter Shelby County homeowner’s property after emergency motion granted Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUDc3NFJXMnFxcjdOVzZBeXZ2eFlyZ0hhZ1RFRmRwbW42ZXNEeVhNMHNJMkJjOXltQ2FUdFdGSTRCT0d5ZTVWYlNuenNaenYtSFAyVWxnQm5oUWg1Tl9tWjBTRkU1dnBJQWFuLUJ6TU53Mll5Nmt3WXRsZG9GLXhkQ24zNk1BWDVKQ2tF?oc=5\" target=\"_blank\">Alabama Power allowed to enter Shelby County homeowner’s property after emergency motion granted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-24T08:33:17+00:00"
     },
     {
       "id": "f2ef28e66f9b2eb5",
