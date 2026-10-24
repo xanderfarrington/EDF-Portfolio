@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-24T13:46:41+00:00",
+  "last_updated": "2026-10-24T17:08:39+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 594,
+  "count": 595,
   "mentions": [
     {
       "id": "55e34e2a6fc2dd8b",
@@ -173,6 +173,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-22T14:48:28+00:00"
+    },
+    {
+      "id": "b29ed78f53bf4b49",
+      "title": "State Supreme Court hands Alabama Power big victory in fight that drew attention of country star, politician - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaURBeHlmZEc4MTduZV9ydnBPbTdUQTI5UUVfLTJoaVpaMWRCUGFzczI0RlFic0IxbHgxUmladHVNYzUtQkNZTkVUZUZOMm9DcUtaSFRWS3A5Ml8zRU5zYzVwbllBbENmbE9CMUJIN3hpRDZRck1VdjRGV2xFcVd3NnlwS3Y3MFZVOTJsVmZqM1E?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-10-22T02:07:00+00:00",
+      "summary": "State Supreme Court hands Alabama Power big victory in fight that drew attention of country star, politician Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNaURBeHlmZEc4MTduZV9ydnBPbTdUQTI5UUVfLTJoaVpaMWRCUGFzczI0RlFic0IxbHgxUmladHVNYzUtQkNZTkVUZUZOMm9DcUtaSFRWS3A5Ml8zRU5zYzVwbllBbENmbE9CMUJIN3hpRDZRck1VdjRGV2xFcVd3NnlwS3Y3MFZVOTJsVmZqM1E?oc=5\" target=\"_blank\">State Supreme Court hands Alabama Power big victory in fight that drew attention of country star, politician</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-24T17:08:39+00:00"
     },
     {
       "id": "2d44e4a662dff6df",
