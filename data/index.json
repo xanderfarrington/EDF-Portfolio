@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-25T14:03:12+00:00",
+  "last_updated": "2026-10-25T18:40:26+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 116,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "3700236f5765123e",
         "title": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October - Investing.com Nigeria",
