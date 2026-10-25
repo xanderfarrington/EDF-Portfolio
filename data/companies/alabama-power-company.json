@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-25T08:52:22+00:00",
+  "last_updated": "2026-10-25T14:02:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 595,
+  "count": 596,
   "mentions": [
     {
       "id": "55e34e2a6fc2dd8b",
@@ -75,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-23T02:55:37+00:00"
+    },
+    {
+      "id": "ff9a5f7b7ccedf24",
+      "title": "Alabama Power starting work on Shelby County homeowner's property after emergency motion granted - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY3QyTEp1VWlqdFZqYUtfcEZtVXAzbFoxeDZldkNsRnU3Zk1KLTl5V1E3ejJVNldBY0Nfb04zdmRqVm94czh0RFl4blpnTnRlWlhrcWJfR1hEMWNmN2JsM0xITlhaRC1kRTRVUG1EbFdLeVhvdWQ0V1RpMkM2RGc2UTd5Z1RneGtXLVdSODNn?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-10-22T22:55:57+00:00",
+      "summary": "Alabama Power starting work on Shelby County homeowner's property after emergency motion granted Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPY3QyTEp1VWlqdFZqYUtfcEZtVXAzbFoxeDZldkNsRnU3Zk1KLTl5V1E3ejJVNldBY0Nfb04zdmRqVm94czh0RFl4blpnTnRlWlhrcWJfR1hEMWNmN2JsM0xITlhaRC1kRTRVUG1EbFdLeVhvdWQ0V1RpMkM2RGc2UTd5Z1RneGtXLVdSODNn?oc=5\" target=\"_blank\">Alabama Power starting work on Shelby County homeowner's property after emergency motion granted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-25T14:02:45+00:00"
     },
     {
       "id": "cc5e38fe17f89251",
