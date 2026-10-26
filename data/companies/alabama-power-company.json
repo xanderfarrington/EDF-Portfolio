@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-26T16:24:51+00:00",
+  "last_updated": "2026-10-26T22:10:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 597,
+  "count": 598,
   "mentions": [
+    {
+      "id": "feff1be4353f4ba2",
+      "title": "Alabama Power parent company sued over data breach - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQnhzZlg3ajhKU1ZJZkZPanFNbjhoTUVVZjUteDN5R1BvRVYxY1RiRW91aldaT2pDdzVVeWQwZ0xrZVhjck1TaldpSDNMQmZWeUk1MUJ6TjI2aXlVbk5BSWdBWG5GVkxpLTJBc2duTXRDZFdhMTU4NFJnQ0NCZG50LWtvZFl4R3lXYm1mUGpyUi0?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-10-26T14:08:27+00:00",
+      "summary": "Alabama Power parent company sued over data breach Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPQnhzZlg3ajhKU1ZJZkZPanFNbjhoTUVVZjUteDN5R1BvRVYxY1RiRW91aldaT2pDdzVVeWQwZ0xrZVhjck1TaldpSDNMQmZWeUk1MUJ6TjI2aXlVbk5BSWdBWG5GVkxpLTJBc2duTXRDZFdhMTU4NFJnQ0NCZG50LWtvZFl4R3lXYm1mUGpyUi0?oc=5\" target=\"_blank\">Alabama Power parent company sued over data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-26T22:10:34+00:00"
+    },
     {
       "id": "7c0a101a99e6aa0f",
       "title": "Alabama Power parent company sued over data breach - AL.com",

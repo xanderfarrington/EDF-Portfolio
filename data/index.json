@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T16:25:18+00:00",
+  "last_updated": "2026-10-26T22:11:02+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 597,
-      "new_mentions_this_run": 25,
+      "count": 598,
+      "new_mentions_this_run": 13,
       "latest_mention": {
-        "id": "7c0a101a99e6aa0f",
-        "title": "Alabama Power parent company sued over data breach - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlBtS1dnTnFSVWlVRDd5bHNVbHdLeWtWNWFydF9iTy1qN2pLaFQwOE9JLVFpZ3FRdjRaeXhKTXNQeHRnMzhuUUZuRHN1cmhiZlpkNEduNXo3QWZ2aXNVdGhvenRVaUgtNF8zekVmaDYxMVk2cGx0eGVZS25IUE5UR2ZoZzVRUERwdlllYzNNQznSAaQBQVVfeXFMTUZiaFZjNFFVTHFPYVVMTlFaM2lDOEREQWY1Y01RUEltSFJJaldUaS1IZ3U4SnZxdXJVRkhMSHZxdzZrZndBVHVDOEZ4ZlBKX3JOVmZyZUtSaGVmNlBqRXltNE9kRDZ3RHFhRGJ3SFdLUWpIeXZoNEw5SDRjSWVTWUJ3ODhiamJsc2RlaVhaSVpTc3drMUJLYlRfRTNvRlNaeWk1Y2Y?oc=5",
+        "id": "feff1be4353f4ba2",
+        "title": "Alabama Power parent company sued over data breach - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQnhzZlg3ajhKU1ZJZkZPanFNbjhoTUVVZjUteDN5R1BvRVYxY1RiRW91aldaT2pDdzVVeWQwZ0xrZVhjck1TaldpSDNMQmZWeUk1MUJ6TjI2aXlVbk5BSWdBWG5GVkxpLTJBc2duTXRDZFdhMTU4NFJnQ0NCZG50LWtvZFl4R3lXYm1mUGpyUi0?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "Yahoo",
         "language": "English",
-        "published_at": "2026-10-26T14:07:00+00:00",
-        "summary": "Alabama Power parent company sued over data breach AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlBtS1dnTnFSVWlVRDd5bHNVbHdLeWtWNWFydF9iTy1qN2pLaFQwOE9JLVFpZ3FRdjRaeXhKTXNQeHRnMzhuUUZuRHN1cmhiZlpkNEduNXo3QWZ2aXNVdGhvenRVaUgtNF8zekVmaDYxMVk2cGx0eGVZS25IUE5UR2ZoZzVRUERwdlllYzNNQznSAaQBQVVfeXFMTUZiaFZjNFFVTHFPYVVMTlFaM2lDOEREQWY1Y01RUEltSFJJaldUaS1IZ3U4SnZxdXJVRkhMSHZxdzZrZndBVHVDOEZ4ZlBKX3JOVmZyZUtSaGVmNlBqRXltNE9kRDZ3RHFhRGJ3SFdLUWpIeXZoNEw5SDRjSWVTWUJ3ODhiamJsc2RlaVhaSVpTc3drMUJLYlRfRTNvRlNaeWk1Y2Y?oc=5\" target=\"_blank\">Alabama Power parent company sued over data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-10-26T14:08:27+00:00",
+        "summary": "Alabama Power parent company sued over data breach Yahoo",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPQnhzZlg3ajhKU1ZJZkZPanFNbjhoTUVVZjUteDN5R1BvRVYxY1RiRW91aldaT2pDdzVVeWQwZ0xrZVhjck1TaldpSDNMQmZWeUk1MUJ6TjI2aXlVbk5BSWdBWG5GVkxpLTJBc2duTXRDZFdhMTU4NFJnQ0NCZG50LWtvZFl4R3lXYm1mUGpyUi0?oc=5\" target=\"_blank\">Alabama Power parent company sued over data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-26T16:24:51+00:00"
+        "collected_at": "2026-10-26T22:10:34+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",
