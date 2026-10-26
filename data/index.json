@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T09:34:21+00:00",
+  "last_updated": "2026-10-26T16:25:18+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 596,
+      "count": 597,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "55e34e2a6fc2dd8b",
-        "title": "A Homeowner’s Last Stand Against Alabama Power - Inside Climate News",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGQzX3JlT1JVZFBtUEIyemR6SlNfSUQwNDhKRE15ZlgySTY5RTI0UEYzS254UGtpNU51ZXlEb29tLWQ0RHluQU9yVWs1dWh4dGJBN1JocnpfRmg4YXloTjhBbXE1LVFLWTVLTFk1aEZIV3AxVnRHSDJFSnFhdnR6R2hXVlRXVDJWYVpIV054NEJXVVg5?oc=5",
+        "id": "7c0a101a99e6aa0f",
+        "title": "Alabama Power parent company sued over data breach - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlBtS1dnTnFSVWlVRDd5bHNVbHdLeWtWNWFydF9iTy1qN2pLaFQwOE9JLVFpZ3FRdjRaeXhKTXNQeHRnMzhuUUZuRHN1cmhiZlpkNEduNXo3QWZ2aXNVdGhvenRVaUgtNF8zekVmaDYxMVk2cGx0eGVZS25IUE5UR2ZoZzVRUERwdlllYzNNQznSAaQBQVVfeXFMTUZiaFZjNFFVTHFPYVVMTlFaM2lDOEREQWY1Y01RUEltSFJJaldUaS1IZ3U4SnZxdXJVRkhMSHZxdzZrZndBVHVDOEZ4ZlBKX3JOVmZyZUtSaGVmNlBqRXltNE9kRDZ3RHFhRGJ3SFdLUWpIeXZoNEw5SDRjSWVTWUJ3ODhiamJsc2RlaVhaSVpTc3drMUJLYlRfRTNvRlNaeWk1Y2Y?oc=5",
         "domain": "news.google.com",
-        "source": "Inside Climate News",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-10-23T21:25:04+00:00",
-        "summary": "A Homeowner’s Last Stand Against Alabama Power Inside Climate News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGQzX3JlT1JVZFBtUEIyemR6SlNfSUQwNDhKRE15ZlgySTY5RTI0UEYzS254UGtpNU51ZXlEb29tLWQ0RHluQU9yVWs1dWh4dGJBN1JocnpfRmg4YXloTjhBbXE1LVFLWTVLTFk1aEZIV3AxVnRHSDJFSnFhdnR6R2hXVlRXVDJWYVpIV054NEJXVVg5?oc=5\" target=\"_blank\">A Homeowner’s Last Stand Against Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
+        "published_at": "2026-10-26T14:07:00+00:00",
+        "summary": "Alabama Power parent company sued over data breach AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlBtS1dnTnFSVWlVRDd5bHNVbHdLeWtWNWFydF9iTy1qN2pLaFQwOE9JLVFpZ3FRdjRaeXhKTXNQeHRnMzhuUUZuRHN1cmhiZlpkNEduNXo3QWZ2aXNVdGhvenRVaUgtNF8zekVmaDYxMVk2cGx0eGVZS25IUE5UR2ZoZzVRUERwdlllYzNNQznSAaQBQVVfeXFMTUZiaFZjNFFVTHFPYVVMTlFaM2lDOEREQWY1Y01RUEltSFJJaldUaS1IZ3U4SnZxdXJVRkhMSHZxdzZrZndBVHVDOEZ4ZlBKX3JOVmZyZUtSaGVmNlBqRXltNE9kRDZ3RHFhRGJ3SFdLUWpIeXZoNEw5SDRjSWVTWUJ3ODhiamJsc2RlaVhaSVpTc3drMUJLYlRfRTNvRlNaeWk1Y2Y?oc=5\" target=\"_blank\">Alabama Power parent company sued over data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-23T22:49:29+00:00"
+        "collected_at": "2026-10-26T16:24:51+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 995,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "31b82ec04013cc8d",
         "title": "Georgia Power parent company sued over data breach with 400,000 customers exposed - Yahoo",
