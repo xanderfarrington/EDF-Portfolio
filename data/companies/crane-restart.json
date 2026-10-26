@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-10-26T02:42:41+00:00",
+  "last_updated": "2026-10-26T09:34:05+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 112,
+  "count": 113,
   "mentions": [
+    {
+      "id": "f5a84c3afee1bb1b",
+      "title": "Nuclear power could more than triple by 2060, UN agency says - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zcF8wUkNiVm5mQWpUc1pWd3NLX1RPemkwaE03dVVQczhSaTNMVlR3UFpsSXFoTWZaV1lHWEpXSGs5UDVYN2M2My1tNlUxRVZqSzlWQVRia3lIZXZrdy1MZzkyQW9WYllEajlrQ3ZieGktRUQzLWRyNA?oc=5",
+      "domain": "news.google.com",
+      "source": "Boston Herald",
+      "language": "English",
+      "published_at": "2026-10-23T23:40:23+00:00",
+      "summary": "Nuclear power could more than triple by 2060, UN agency says Boston Herald",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5zcF8wUkNiVm5mQWpUc1pWd3NLX1RPemkwaE03dVVQczhSaTNMVlR3UFpsSXFoTWZaV1lHWEpXSGs5UDVYN2M2My1tNlUxRVZqSzlWQVRia3lIZXZrdy1MZzkyQW9WYllEajlrQ3ZieGktRUQzLWRyNA?oc=5\" target=\"_blank\">Nuclear power could more than triple by 2060, UN agency says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boston Herald</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-26T09:34:05+00:00"
+    },
     {
       "id": "ffe29226a510360b",
       "title": "Nuclear power could more than triple by 2060, UN agency says - WOWK 13 News",

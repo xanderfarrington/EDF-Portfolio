@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T02:42:57+00:00",
+  "last_updated": "2026-10-26T09:34:21+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -68,21 +68,21 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 112,
+      "count": 113,
       "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "ffe29226a510360b",
-        "title": "Nuclear power could more than triple by 2060, UN agency says - WOWK 13 News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeGJ0WWdsUHY1ZXllQ3RlSkZKSzl1NG8zdzNSdG9WTldzV1lxS0RYRDNXTmhkb1hmMUdsTU1OeEdZZ2JVVWNMbXZoc0pKMkdFTVpHb1BGcHotSkkxQ2VMN19fa3dQdm5fTHFhMnp5S3ZmZmpMMGtqRHQ0WHl2X0ktOGEyZXRkNzd5N25scENtTElpbkNsOVpJdnFfWG10NTBRZjVJ0gGoAUFVX3lxTFB1dDd5SFFlV0NzOFgtQVZtS1pwM0hSelVVRUpIRVRiN0Z1OEE0eTRmbXljeGlhaXBoWEItR3Q3YzNJNGw3YkNUZVZFOURUUlBpS3Bzemlwdm5tUjBmcURWMjBCZENhemJNNUducnk5ekY0NHlUVllLcUdMRy04UWNDSWpWXzd4dE5IbFdBTU5tM2pvNTFsbnJhTVFlSWZrSWxMLTR3LVRLbQ?oc=5",
+        "id": "f5a84c3afee1bb1b",
+        "title": "Nuclear power could more than triple by 2060, UN agency says - Boston Herald",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zcF8wUkNiVm5mQWpUc1pWd3NLX1RPemkwaE03dVVQczhSaTNMVlR3UFpsSXFoTWZaV1lHWEpXSGs5UDVYN2M2My1tNlUxRVZqSzlWQVRia3lIZXZrdy1MZzkyQW9WYllEajlrQ3ZieGktRUQzLWRyNA?oc=5",
         "domain": "news.google.com",
-        "source": "WOWK 13 News",
+        "source": "Boston Herald",
         "language": "English",
-        "published_at": "2026-10-23T22:21:53+00:00",
-        "summary": "Nuclear power could more than triple by 2060, UN agency says WOWK 13 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeGJ0WWdsUHY1ZXllQ3RlSkZKSzl1NG8zdzNSdG9WTldzV1lxS0RYRDNXTmhkb1hmMUdsTU1OeEdZZ2JVVWNMbXZoc0pKMkdFTVpHb1BGcHotSkkxQ2VMN19fa3dQdm5fTHFhMnp5S3ZmZmpMMGtqRHQ0WHl2X0ktOGEyZXRkNzd5N25scENtTElpbkNsOVpJdnFfWG10NTBRZjVJ0gGoAUFVX3lxTFB1dDd5SFFlV0NzOFgtQVZtS1pwM0hSelVVRUpIRVRiN0Z1OEE0eTRmbXljeGlhaXBoWEItR3Q3YzNJNGw3YkNUZVZFOURUUlBpS3Bzemlwdm5tUjBmcURWMjBCZENhemJNNUducnk5ekY0NHlUVllLcUdMRy04UWNDSWpWXzd4dE5IbFdBTU5tM2pvNTFsbnJhTVFlSWZrSWxMLTR3LVRLbQ?oc=5\" target=\"_blank\">Nuclear power could more than triple by 2060, UN agency says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOWK 13 News</font>",
+        "published_at": "2026-10-23T23:40:23+00:00",
+        "summary": "Nuclear power could more than triple by 2060, UN agency says Boston Herald",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5zcF8wUkNiVm5mQWpUc1pWd3NLX1RPemkwaE03dVVQczhSaTNMVlR3UFpsSXFoTWZaV1lHWEpXSGs5UDVYN2M2My1tNlUxRVZqSzlWQVRia3lIZXZrdy1MZzkyQW9WYllEajlrQ3ZieGktRUQzLWRyNA?oc=5\" target=\"_blank\">Nuclear power could more than triple by 2060, UN agency says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boston Herald</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-24T02:52:29+00:00"
+        "collected_at": "2026-10-26T09:34:05+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 995,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "31b82ec04013cc8d",
         "title": "Georgia Power parent company sued over data breach with 400,000 customers exposed - Yahoo",
