@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T22:13:54+00:00",
+  "last_updated": "2026-10-26T02:42:57+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 994,
-      "new_mentions_this_run": 6,
+      "count": 995,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "31b82ec04013cc8d",
         "title": "Georgia Power parent company sued over data breach with 400,000 customers exposed - Yahoo",
