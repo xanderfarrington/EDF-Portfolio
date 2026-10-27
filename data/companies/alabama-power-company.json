@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-27T03:17:01+00:00",
+  "last_updated": "2026-10-27T09:30:37+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 600,
+  "count": 601,
   "mentions": [
+    {
+      "id": "eb777a777897e0db",
+      "title": "Shelby County homeowner turns to Sen. Tommy Tuberville as Alabama Power crews near his property - wvtm",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUFZKNjg0T18xeW9SV3JodV9OdWVoMkZ3VFF0ZEdmODlOT3V3TWR1UXJzWmlfSTlBRGQ1NU0wR0JlaTVEZS1sMkEtTDlZMFBzcVpPMnJRSmpFcHZyOWRFZDRWVy1BSXlQckNGbXYzMmxGQV9TTEZQYk1ZeGZ5QmZrV1MwSTUzeFNTUGlITXpiX0E3VExud0hwbjFoSTdmb3R1NXYtag?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm",
+      "language": "English",
+      "published_at": "2026-10-27T03:51:00+00:00",
+      "summary": "Shelby County homeowner turns to Sen. Tommy Tuberville as Alabama Power crews near his property wvtm",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOUFZKNjg0T18xeW9SV3JodV9OdWVoMkZ3VFF0ZEdmODlOT3V3TWR1UXJzWmlfSTlBRGQ1NU0wR0JlaTVEZS1sMkEtTDlZMFBzcVpPMnJRSmpFcHZyOWRFZDRWVy1BSXlQckNGbXYzMmxGQV9TTEZQYk1ZeGZ5QmZrV1MwSTUzeFNTUGlITXpiX0E3VExud0hwbjFoSTdmb3R1NXYtag?oc=5\" target=\"_blank\">Shelby County homeowner turns to Sen. Tommy Tuberville as Alabama Power crews near his property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-27T09:30:37+00:00"
+    },
     {
       "id": "a6454518dd2af278",
       "title": "Calera property owner says crews are 50 yards from his land - wvtm",
