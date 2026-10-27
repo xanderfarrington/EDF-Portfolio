@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T22:11:02+00:00",
+  "last_updated": "2026-10-27T03:17:28+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 598,
-      "new_mentions_this_run": 13,
+      "count": 600,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "feff1be4353f4ba2",
-        "title": "Alabama Power parent company sued over data breach - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQnhzZlg3ajhKU1ZJZkZPanFNbjhoTUVVZjUteDN5R1BvRVYxY1RiRW91aldaT2pDdzVVeWQwZ0xrZVhjck1TaldpSDNMQmZWeUk1MUJ6TjI2aXlVbk5BSWdBWG5GVkxpLTJBc2duTXRDZFdhMTU4NFJnQ0NCZG50LWtvZFl4R3lXYm1mUGpyUi0?oc=5",
+        "id": "a6454518dd2af278",
+        "title": "Calera property owner says crews are 50 yards from his land - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnZNZU1ZWnVwSm5nYUdBaEpiczdrSGZReXdiNnN2YWE3aDdoUmZueGZNSTRCRVU2cWo0QUVLNHpqOHgzVVVKbVN6RWpxeFdpbm9QTi03YU1OdEtQbC1nOTV2UHFjelF6ZnFUYmtSMlZtYXRpVjNZS3NERzEyVkhzOU80TVg2OTRyYnMzSmdSOG1tVUMx?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo",
+        "source": "wvtm",
         "language": "English",
-        "published_at": "2026-10-26T14:08:27+00:00",
-        "summary": "Alabama Power parent company sued over data breach Yahoo",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPQnhzZlg3ajhKU1ZJZkZPanFNbjhoTUVVZjUteDN5R1BvRVYxY1RiRW91aldaT2pDdzVVeWQwZ0xrZVhjck1TaldpSDNMQmZWeUk1MUJ6TjI2aXlVbk5BSWdBWG5GVkxpLTJBc2duTXRDZFdhMTU4NFJnQ0NCZG50LWtvZFl4R3lXYm1mUGpyUi0?oc=5\" target=\"_blank\">Alabama Power parent company sued over data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "published_at": "2026-10-27T00:22:00+00:00",
+        "summary": "Calera property owner says crews are 50 yards from his land wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnZNZU1ZWnVwSm5nYUdBaEpiczdrSGZReXdiNnN2YWE3aDdoUmZueGZNSTRCRVU2cWo0QUVLNHpqOHgzVVVKbVN6RWpxeFdpbm9QTi03YU1OdEtQbC1nOTV2UHFjelF6ZnFUYmtSMlZtYXRpVjNZS3NERzEyVkhzOU80TVg2OTRyYnMzSmdSOG1tVUMx?oc=5\" target=\"_blank\">Calera property owner says crews are 50 yards from his land</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-26T22:10:34+00:00"
+        "collected_at": "2026-10-27T03:17:01+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -68,7 +68,7 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 113,
+      "count": 114,
       "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "f5a84c3afee1bb1b",

@@ -2,9 +2,9 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-10-26T22:10:45+00:00",
+  "last_updated": "2026-10-27T03:17:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 113,
+  "count": 114,
   "mentions": [
     {
       "id": "f5a84c3afee1bb1b",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-24T13:46:52+00:00"
+    },
+    {
+      "id": "149c91e8f5a73816",
+      "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers - KWKT - FOX 44",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNam5FekVvZEhYTHFSRkx0c2Jza2J3ZGdYMloydmJYOWN0OWZaZmJpdXUyUk1fdkhsUFkxUUVWRW9WTHZ1WXN2SWN0a2QtaU5WSEZjYzVIUzhxcm5BQTc3UFlKbFNXbEMtTVZ0djBvNHdZQndGNnFCLXl3cjU1UU14ZWhKc3lKOGEyV3ctMjJzTDdqazZwc3FhT3d4UG1xUXE5aVJpbmFrM2x3VjZPSDdvUnFHak1XRHA4RUI1blJ3YUNZd3VZbzJzcF9FSmZ2bngxcjVNVkpaMl9BVGV3dUlnR21wQVBoUDlXTXZB0gHwAUFVX3lxTE1YQ29nRzFNN09RSkdkTlhqNFhkbjdoRnBOZzhEaXcwejZqR08wNVFLT2FSSVFtYWxnQzU0ZHRsa1gxMWpzV2lHV0Nzd2VLdVphdzBkUDE4a2xZY1huMTlSUWk2UUVoOWZHUzdaUUZYQm9yMmhuWTVuZEh6LVY3bjctMWtLTnpGYjQwZGVBR1QySmFIeG5GZzNTYjNwS3lGTi1MazlqTDFRNzhGcHZfSzhIclRPbU91X0ZVMmZXSV9ROVJuZmNJa08wWGV1Y3dndFJFSElMd2RYNE1tR013UFQtWTNnWGZEZ21IUThBT2U2Nw?oc=5",
+      "domain": "news.google.com",
+      "source": "KWKT - FOX 44",
+      "language": "English",
+      "published_at": "2026-10-16T20:15:11+00:00",
+      "summary": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers KWKT - FOX 44",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNam5FekVvZEhYTHFSRkx0c2Jza2J3ZGdYMloydmJYOWN0OWZaZmJpdXUyUk1fdkhsUFkxUUVWRW9WTHZ1WXN2SWN0a2QtaU5WSEZjYzVIUzhxcm5BQTc3UFlKbFNXbEMtTVZ0djBvNHdZQndGNnFCLXl3cjU1UU14ZWhKc3lKOGEyV3ctMjJzTDdqazZwc3FhT3d4UG1xUXE5aVJpbmFrM2x3VjZPSDdvUnFHak1XRHA4RUI1blJ3YUNZd3VZbzJzcF9FSmZ2bngxcjVNVkpaMl9BVGV3dUlnR21wQVBoUDlXTXZB0gHwAUFVX3lxTE1YQ29nRzFNN09RSkdkTlhqNFhkbjdoRnBOZzhEaXcwejZqR08wNVFLT2FSSVFtYWxnQzU0ZHRsa1gxMWpzV2lHV0Nzd2VLdVphdzBkUDE4a2xZY1huMTlSUWk2UUVoOWZHUzdaUUZYQm9yMmhuWTVuZEh6LVY3bjctMWtLTnpGYjQwZGVBR1QySmFIeG5GZzNTYjNwS3lGTi1MazlqTDFRNzhGcHZfSzhIclRPbU91X0ZVMmZXSV9ROVJuZmNJa08wWGV1Y3dndFJFSElMd2RYNE1tR013UFQtWTNnWGZEZ21IUThBT2U2Nw?oc=5\" target=\"_blank\">US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KWKT - FOX 44</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-27T03:17:12+00:00"
     },
     {
       "id": "3b15f9bce88c7470",
