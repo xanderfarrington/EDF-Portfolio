@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T15:40:00+00:00",
+  "last_updated": "2026-10-27T20:22:09+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 602,
-      "new_mentions_this_run": 19,
+      "count": 603,
+      "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "b5efbdecda112dd8",
-        "title": "Fenn Church takes case directly to Tuberville on eve of expected tree clearing - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZVhiMXpGSzMxczY2OV9QcDNETy0wd3AxZGNqU19XOHotZEE1TTIyVHdVQk1sVFg5bldMSV9vT00zR283UWpMYk9GRUticVltUzRkQWxIZnp5TFJqeG02VHVRZG9NU0oySVdCY1JpNFQ3a2Vfa25PQ0gtenBFZnhDWHFxX1pvNktqWGxCbmRZM3l1YzlGdFVTbTZNUXlMUXpOaUxlOUE0T0VoQUpqTkE?oc=5",
+        "id": "8144cc43e1ca188a",
+        "title": "Southern Company, parent company of Alabama Power, sued after data breach - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1IydnVWMEhnMWRNNTk1d1NEV1JkQkMxMFRfbjJwVllSXzd6bTl4andJYUM2Uy1mQUplRVVTaEROZkRiS09Lb2NNVnVKRXdwRkowUkJidERvcXdnai1QOUl1Y1gwcFo4VHM4aE1sRU1LLUI0czgta1cyVklRclBqdDNuY1J6cmNSWkd1QjdwbmZtRTJm?oc=5",
         "domain": "news.google.com",
-        "source": "1819 News",
+        "source": "wvtm",
         "language": "English",
-        "published_at": "2026-10-27T10:05:43+00:00",
-        "summary": "Fenn Church takes case directly to Tuberville on eve of expected tree clearing 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQZVhiMXpGSzMxczY2OV9QcDNETy0wd3AxZGNqU19XOHotZEE1TTIyVHdVQk1sVFg5bldMSV9vT00zR283UWpMYk9GRUticVltUzRkQWxIZnp5TFJqeG02VHVRZG9NU0oySVdCY1JpNFQ3a2Vfa25PQ0gtenBFZnhDWHFxX1pvNktqWGxCbmRZM3l1YzlGdFVTbTZNUXlMUXpOaUxlOUE0T0VoQUpqTkE?oc=5\" target=\"_blank\">Fenn Church takes case directly to Tuberville on eve of expected tree clearing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-10-27T16:07:00+00:00",
+        "summary": "Southern Company, parent company of Alabama Power, sued after data breach wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1IydnVWMEhnMWRNNTk1d1NEV1JkQkMxMFRfbjJwVllSXzd6bTl4andJYUM2Uy1mQUplRVVTaEROZkRiS09Lb2NNVnVKRXdwRkowUkJidERvcXdnai1QOUl1Y1gwcFo4VHM4aE1sRU1LLUI0czgta1cyVklRclBqdDNuY1J6cmNSWkd1QjdwbmZtRTJm?oc=5\" target=\"_blank\">Southern Company, parent company of Alabama Power, sued after data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-27T15:39:33+00:00"
+        "collected_at": "2026-10-27T20:21:42+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",

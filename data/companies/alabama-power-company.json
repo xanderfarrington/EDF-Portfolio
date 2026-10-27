@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-27T15:39:33+00:00",
+  "last_updated": "2026-10-27T20:21:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 602,
+  "count": 603,
   "mentions": [
+    {
+      "id": "8144cc43e1ca188a",
+      "title": "Southern Company, parent company of Alabama Power, sued after data breach - wvtm",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1IydnVWMEhnMWRNNTk1d1NEV1JkQkMxMFRfbjJwVllSXzd6bTl4andJYUM2Uy1mQUplRVVTaEROZkRiS09Lb2NNVnVKRXdwRkowUkJidERvcXdnai1QOUl1Y1gwcFo4VHM4aE1sRU1LLUI0czgta1cyVklRclBqdDNuY1J6cmNSWkd1QjdwbmZtRTJm?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm",
+      "language": "English",
+      "published_at": "2026-10-27T16:07:00+00:00",
+      "summary": "Southern Company, parent company of Alabama Power, sued after data breach wvtm",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1IydnVWMEhnMWRNNTk1d1NEV1JkQkMxMFRfbjJwVllSXzd6bTl4andJYUM2Uy1mQUplRVVTaEROZkRiS09Lb2NNVnVKRXdwRkowUkJidERvcXdnai1QOUl1Y1gwcFo4VHM4aE1sRU1LLUI0czgta1cyVklRclBqdDNuY1J6cmNSWkd1QjdwbmZtRTJm?oc=5\" target=\"_blank\">Southern Company, parent company of Alabama Power, sued after data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-27T20:21:42+00:00"
+    },
     {
       "id": "b5efbdecda112dd8",
       "title": "Fenn Church takes case directly to Tuberville on eve of expected tree clearing - 1819 News",
