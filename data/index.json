@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T20:22:09+00:00",
+  "last_updated": "2026-10-28T00:52:57+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 603,
-      "new_mentions_this_run": 20,
+      "count": 606,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "8144cc43e1ca188a",
-        "title": "Southern Company, parent company of Alabama Power, sued after data breach - wvtm",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1IydnVWMEhnMWRNNTk1d1NEV1JkQkMxMFRfbjJwVllSXzd6bTl4andJYUM2Uy1mQUplRVVTaEROZkRiS09Lb2NNVnVKRXdwRkowUkJidERvcXdnai1QOUl1Y1gwcFo4VHM4aE1sRU1LLUI0czgta1cyVklRclBqdDNuY1J6cmNSWkd1QjdwbmZtRTJm?oc=5",
+        "id": "3862d11e585030b4",
+        "title": "Alabama Power crews move closer to Fenn Church's property as legal battle continues - WBMA",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcGlxalVLU01pZkpmTExYeklSaFZKT09ycDN3bm9qZThVejN6Q0FtT29kUEtnUlo2b05HTml2RUhQQ3VNYzdJaTd4bWVJNEZTYjRkU1RtQlJwMTZ2TE82bTdacmFDQktkTDI0cE1RMnd5VUZfRjhPbXEyUzVLY3pHbG1YbGFDcTlJcDZQM192d2pQVkZFRi1LUEhrN0VLcVQtQnpEeWNNQXhqWmdiazg0RVBuZzVFcGJnYVlPS1NHXzlTOHJMYl9hOVV0TlhMSTdwOVZvZTBPYkthTlk5MEFYZ29UY3FiV3pvODQ0Z2FGbGhqMDN1NXQ3aG5xbFh6TGVw?oc=5",
         "domain": "news.google.com",
-        "source": "wvtm",
+        "source": "WBMA",
         "language": "English",
-        "published_at": "2026-10-27T16:07:00+00:00",
-        "summary": "Southern Company, parent company of Alabama Power, sued after data breach wvtm",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1IydnVWMEhnMWRNNTk1d1NEV1JkQkMxMFRfbjJwVllSXzd6bTl4andJYUM2Uy1mQUplRVVTaEROZkRiS09Lb2NNVnVKRXdwRkowUkJidERvcXdnai1QOUl1Y1gwcFo4VHM4aE1sRU1LLUI0czgta1cyVklRclBqdDNuY1J6cmNSWkd1QjdwbmZtRTJm?oc=5\" target=\"_blank\">Southern Company, parent company of Alabama Power, sued after data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+        "published_at": "2026-10-27T23:40:33+00:00",
+        "summary": "Alabama Power crews move closer to Fenn Church's property as legal battle continues WBMA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNcGlxalVLU01pZkpmTExYeklSaFZKT09ycDN3bm9qZThVejN6Q0FtT29kUEtnUlo2b05HTml2RUhQQ3VNYzdJaTd4bWVJNEZTYjRkU1RtQlJwMTZ2TE82bTdacmFDQktkTDI0cE1RMnd5VUZfRjhPbXEyUzVLY3pHbG1YbGFDcTlJcDZQM192d2pQVkZFRi1LUEhrN0VLcVQtQnpEeWNNQXhqWmdiazg0RVBuZzVFcGJnYVlPS1NHXzlTOHJMYl9hOVV0TlhMSTdwOVZvZTBPYkthTlk5MEFYZ29UY3FiV3pvODQ0Z2FGbGhqMDN1NXQ3aG5xbFh6TGVw?oc=5\" target=\"_blank\">Alabama Power crews move closer to Fenn Church's property as legal battle continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-27T20:21:42+00:00"
+        "collected_at": "2026-10-28T00:52:30+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 114,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "f5a84c3afee1bb1b",
         "title": "Nuclear power could more than triple by 2060, UN agency says - Boston Herald",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 996,
-      "new_mentions_this_run": 4,
+      "count": 997,
+      "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "31b82ec04013cc8d",
-        "title": "Georgia Power parent company sued over data breach with 400,000 customers exposed - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUk0tVlNDeGg4Y1k5QklLdXF3VjZlTkU2bDQySWxLUkphOEJWS3lxSDRIYTFvZm8wSVl5RzhmTzEwT2lhZVMtalZqZ09tVlFkY0hhMFZxYkdIUVUtdmdpSE5KQmQyUkNEckt5YTNzUWFlNWFSMWF0eDQ5RTBZclV5T1pNRHpLVWI2cHVKYkFGclM?oc=5",
+        "id": "643e7e6838fc3c86",
+        "title": "Georgia Power faces questions as data center demand surges - WABE",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXVXUGV6UEdEQkRmSDFVWUJJWi1jV2E3WHplQ2JYMTRsVkg5THFzaDAtM3dfTWNsbXJ5VUVETUVlM01NOE8td05uNkN4b1FtTFNicXQ4bTJRZ0t2ektscnFyWUlWUVJoZnItd3FaZXExb1V4Y3JTbFlpU1l6RldiN2E0YTJIYVE?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo",
+        "source": "WABE",
         "language": "English",
-        "published_at": "2026-10-25T19:22:39+00:00",
-        "summary": "Georgia Power parent company sued over data breach with 400,000 customers exposed Yahoo",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPUk0tVlNDeGg4Y1k5QklLdXF3VjZlTkU2bDQySWxLUkphOEJWS3lxSDRIYTFvZm8wSVl5RzhmTzEwT2lhZVMtalZqZ09tVlFkY0hhMFZxYkdIUVUtdmdpSE5KQmQyUkNEckt5YTNzUWFlNWFSMWF0eDQ5RTBZclV5T1pNRHpLVWI2cHVKYkFGclM?oc=5\" target=\"_blank\">Georgia Power parent company sued over data breach with 400,000 customers exposed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "published_at": "2026-10-27T20:59:14+00:00",
+        "summary": "Georgia Power faces questions as data center demand surges WABE",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXVXUGV6UEdEQkRmSDFVWUJJWi1jV2E3WHplQ2JYMTRsVkg5THFzaDAtM3dfTWNsbXJ5VUVETUVlM01NOE8td05uNkN4b1FtTFNicXQ4bTJRZ0t2ektscnFyWUlWUVJoZnItd3FaZXExb1V4Y3JTbFlpU1l6RldiN2E0YTJIYVE?oc=5\" target=\"_blank\">Georgia Power faces questions as data center demand surges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-25T22:13:44+00:00"
+        "collected_at": "2026-10-28T00:52:47+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 67,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "9c5a579ff3ec7231",
         "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",

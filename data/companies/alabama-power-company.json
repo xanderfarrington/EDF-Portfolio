@@ -2,10 +2,38 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-27T20:21:42+00:00",
+  "last_updated": "2026-10-28T00:52:30+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 603,
+  "count": 606,
   "mentions": [
+    {
+      "id": "3862d11e585030b4",
+      "title": "Alabama Power crews move closer to Fenn Church's property as legal battle continues - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcGlxalVLU01pZkpmTExYeklSaFZKT09ycDN3bm9qZThVejN6Q0FtT29kUEtnUlo2b05HTml2RUhQQ3VNYzdJaTd4bWVJNEZTYjRkU1RtQlJwMTZ2TE82bTdacmFDQktkTDI0cE1RMnd5VUZfRjhPbXEyUzVLY3pHbG1YbGFDcTlJcDZQM192d2pQVkZFRi1LUEhrN0VLcVQtQnpEeWNNQXhqWmdiazg0RVBuZzVFcGJnYVlPS1NHXzlTOHJMYl9hOVV0TlhMSTdwOVZvZTBPYkthTlk5MEFYZ29UY3FiV3pvODQ0Z2FGbGhqMDN1NXQ3aG5xbFh6TGVw?oc=5",
+      "domain": "news.google.com",
+      "source": "WBMA",
+      "language": "English",
+      "published_at": "2026-10-27T23:40:33+00:00",
+      "summary": "Alabama Power crews move closer to Fenn Church's property as legal battle continues WBMA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNcGlxalVLU01pZkpmTExYeklSaFZKT09ycDN3bm9qZThVejN6Q0FtT29kUEtnUlo2b05HTml2RUhQQ3VNYzdJaTd4bWVJNEZTYjRkU1RtQlJwMTZ2TE82bTdacmFDQktkTDI0cE1RMnd5VUZfRjhPbXEyUzVLY3pHbG1YbGFDcTlJcDZQM192d2pQVkZFRi1LUEhrN0VLcVQtQnpEeWNNQXhqWmdiazg0RVBuZzVFcGJnYVlPS1NHXzlTOHJMYl9hOVV0TlhMSTdwOVZvZTBPYkthTlk5MEFYZ29UY3FiV3pvODQ0Z2FGbGhqMDN1NXQ3aG5xbFh6TGVw?oc=5\" target=\"_blank\">Alabama Power crews move closer to Fenn Church's property as legal battle continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-28T00:52:30+00:00"
+    },
+    {
+      "id": "1bc640d0da24018a",
+      "title": "Alabama Power crews move closer to Fenn Church's property as legal battle continues - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVmthRnZieDJ1c1RtU3RKczVvemN1cTluUTBZRDBUU2x2a0NIdmRqZFdPSGNTYldqTzU2NU1LNW5SdW5vTFhWQjhZU0x0NUozZnJYbk9rekxGcUlJMGRWZlhZT1hHeUI4dHc5T3duQ0VzcEdXaDF1Z0Z4MGpYWkE5NE1ndUg4MDN4Wlotakw2MmZJdWpOR3VRanpzNkFJZkVweGZRTHg0Vl81aTllSlZPWXJid1QzX3UzMjYzRzljcGx2cFJwVEJSdUZRN2FkOVJaMndVSVFVcFJIODJwVHhXaS0tX0FIc3VoRDZvZkx4RWxDYmh2SHc?oc=5",
+      "domain": "news.google.com",
+      "source": "WBMA",
+      "language": "English",
+      "published_at": "2026-10-27T22:48:09+00:00",
+      "summary": "Alabama Power crews move closer to Fenn Church's property as legal battle continues WBMA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVmthRnZieDJ1c1RtU3RKczVvemN1cTluUTBZRDBUU2x2a0NIdmRqZFdPSGNTYldqTzU2NU1LNW5SdW5vTFhWQjhZU0x0NUozZnJYbk9rekxGcUlJMGRWZlhZT1hHeUI4dHc5T3duQ0VzcEdXaDF1Z0Z4MGpYWkE5NE1ndUg4MDN4Wlotakw2MmZJdWpOR3VRanpzNkFJZkVweGZRTHg0Vl81aTllSlZPWXJid1QzX3UzMjYzRzljcGx2cFJwVEJSdUZRN2FkOVJaMndVSVFVcFJIODJwVHhXaS0tX0FIc3VoRDZvZkx4RWxDYmh2SHc?oc=5\" target=\"_blank\">Alabama Power crews move closer to Fenn Church's property as legal battle continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-28T00:52:30+00:00"
+    },
     {
       "id": "8144cc43e1ca188a",
       "title": "Southern Company, parent company of Alabama Power, sued after data breach - wvtm",
@@ -103,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-26T16:24:51+00:00"
+    },
+    {
+      "id": "808fafd3c5d5f91d",
+      "title": "Case against Alabama Power goes to court - alabamas42.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmtYcWZZZkZwZE5OakRRSko0dmFxd1hMZkRFM2dPRzM5Zm1hbHNfS1JKNjBOMEJWNnhPUzF3MnRjbDNvOW0wM0hmRFVaMFJmNmp4UEs5RVdsdE5BTGVBTWVaeVQ2a3hpMUdFOXJJZzdQTzc1MlQycU5IX2VoUFFPMjRfY1FqSHhsOHo4?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamas42.com",
+      "language": "English",
+      "published_at": "2026-10-25T11:49:36+00:00",
+      "summary": "Case against Alabama Power goes to court alabamas42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmtYcWZZZkZwZE5OakRRSko0dmFxd1hMZkRFM2dPRzM5Zm1hbHNfS1JKNjBOMEJWNnhPUzF3MnRjbDNvOW0wM0hmRFVaMFJmNmp4UEs5RVdsdE5BTGVBTWVaeVQ2a3hpMUdFOXJJZzdQTzc1MlQycU5IX2VoUFFPMjRfY1FqSHhsOHo4?oc=5\" target=\"_blank\">Case against Alabama Power goes to court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamas42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-28T00:52:30+00:00"
     },
     {
       "id": "55e34e2a6fc2dd8b",

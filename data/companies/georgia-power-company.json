@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-27T20:21:59+00:00",
+  "last_updated": "2026-10-28T00:52:47+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 996,
+  "count": 997,
   "mentions": [
+    {
+      "id": "643e7e6838fc3c86",
+      "title": "Georgia Power faces questions as data center demand surges - WABE",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXVXUGV6UEdEQkRmSDFVWUJJWi1jV2E3WHplQ2JYMTRsVkg5THFzaDAtM3dfTWNsbXJ5VUVETUVlM01NOE8td05uNkN4b1FtTFNicXQ4bTJRZ0t2ektscnFyWUlWUVJoZnItd3FaZXExb1V4Y3JTbFlpU1l6RldiN2E0YTJIYVE?oc=5",
+      "domain": "news.google.com",
+      "source": "WABE",
+      "language": "English",
+      "published_at": "2026-10-27T20:59:14+00:00",
+      "summary": "Georgia Power faces questions as data center demand surges WABE",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXVXUGV6UEdEQkRmSDFVWUJJWi1jV2E3WHplQ2JYMTRsVkg5THFzaDAtM3dfTWNsbXJ5VUVETUVlM01NOE8td05uNkN4b1FtTFNicXQ4bTJRZ0t2ektscnFyWUlWUVJoZnItd3FaZXExb1V4Y3JTbFlpU1l6RldiN2E0YTJIYVE?oc=5\" target=\"_blank\">Georgia Power faces questions as data center demand surges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-28T00:52:47+00:00"
+    },
     {
       "id": "31b82ec04013cc8d",
       "title": "Georgia Power parent company sued over data breach with 400,000 customers exposed - Yahoo",
