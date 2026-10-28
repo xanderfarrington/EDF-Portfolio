@@ -2,10 +2,38 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-10-28T07:48:51+00:00",
+  "last_updated": "2026-10-28T14:45:38+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 116,
+  "count": 119,
   "mentions": [
+    {
+      "id": "6b6c5670c39cc1d3",
+      "title": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYW9relF1VGU4aTlmYjZsVjVhRTZPY3otc2tybUpsek1NdTRFRjBTbHVhMzh5TU9HZWlZWExYcDNhek0xWko4SUE0N0g1T2xBNUtMemRpd3RZV0tXN1E1dlc1WUxQUFdaZlg3ZWduRUs3SzQ5ai0tQUU3aDZjdjhpcXlsWUxKZDJqZW85OHV0NklNdW1XYWJvX2VnSUdZdjJTWXN5dDFIYnIxbFF6emxHSDZzYWJBWVZZVkZlS2V1WQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Investing.com India",
+      "language": "English",
+      "published_at": "2026-10-28T14:34:22+00:00",
+      "summary": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook Investing.com India",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQYW9relF1VGU4aTlmYjZsVjVhRTZPY3otc2tybUpsek1NdTRFRjBTbHVhMzh5TU9HZWlZWExYcDNhek0xWko4SUE0N0g1T2xBNUtMemRpd3RZV0tXN1E1dlc1WUxQUFdaZlg3ZWduRUs3SzQ5ai0tQUU3aDZjdjhpcXlsWUxKZDJqZW85OHV0NklNdW1XYWJvX2VnSUdZdjJTWXN5dDFIYnIxbFF6emxHSDZzYWJBWVZZVkZlS2V1WQ?oc=5\" target=\"_blank\">AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-28T14:45:38+00:00"
+    },
+    {
+      "id": "46748d1c8b086aa0",
+      "title": "AEP Reports Third-Quarter 2026 Earnings, Expands Capital Plan and Increases Growth Outlook - AEP.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JR1Q2Z00xUUdDUnYtYlF6MlZhVl9IS3dib1Z1NUFxb0g3MlJZckJ1MTZ5SzNEbVIxdXpNbUxWLWNtdjlQVWVmWkpBRkFyT0VNa3UwYWVYbw?oc=5",
+      "domain": "news.google.com",
+      "source": "AEP.com",
+      "language": "English",
+      "published_at": "2026-10-28T11:13:46+00:00",
+      "summary": "AEP Reports Third-Quarter 2026 Earnings, Expands Capital Plan and Increases Growth Outlook AEP.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JR1Q2Z00xUUdDUnYtYlF6MlZhVl9IS3dib1Z1NUFxb0g3MlJZckJ1MTZ5SzNEbVIxdXpNbUxWLWNtdjlQVWVmWkpBRkFyT0VNa3UwYWVYbw?oc=5\" target=\"_blank\">AEP Reports Third-Quarter 2026 Earnings, Expands Capital Plan and Increases Growth Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AEP.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-28T14:45:38+00:00"
+    },
     {
       "id": "3700236f5765123e",
       "title": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October - Investing.com Nigeria",
@@ -89,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-22T02:51:46+00:00"
+    },
+    {
+      "id": "2fdcb5dc76351c46",
+      "title": "What we learned about why Ohio electric bills can rise despite cheaper supply rates - Cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUW5RUENiaVZRMi1DdnUxZ1RPMzc2dDMtR0p1Q1poSHRLWHlVSWoxT0VuNmlpU3RDMERELVFud3Jkc2JvSFJxMjFfdkdKcnA1ZFQ2U3FQdEZFSXY1a09iTEpNVk1xVXgtWWJnQVRIajFyTmVXM202aEFXRzJSXzdWbExVS2lTdmVMY2dlT3IzM2tvdmVIYndMT29jUEJuYVBpdGRZM1V1RzF2MmRxd3l3blh2OG9YR1FsOWwzUHVueXZ6SmhZUWtF?oc=5",
+      "domain": "news.google.com",
+      "source": "Cleveland.com",
+      "language": "English",
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "summary": "What we learned about why Ohio electric bills can rise despite cheaper supply rates Cleveland.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPUW5RUENiaVZRMi1DdnUxZ1RPMzc2dDMtR0p1Q1poSHRLWHlVSWoxT0VuNmlpU3RDMERELVFud3Jkc2JvSFJxMjFfdkdKcnA1ZFQ2U3FQdEZFSXY1a09iTEpNVk1xVXgtWWJnQVRIajFyTmVXM202aEFXRzJSXzdWbExVS2lTdmVMY2dlT3IzM2tvdmVIYndMT29jUEJuYVBpdGRZM1V1RzF2MmRxd3l3blh2OG9YR1FsOWwzUHVueXZ6SmhZUWtF?oc=5\" target=\"_blank\">What we learned about why Ohio electric bills can rise despite cheaper supply rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cleveland.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-28T14:45:38+00:00"
     },
     {
       "id": "bb732da69d683116",

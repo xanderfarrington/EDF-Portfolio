@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-10-28T07:49:18+00:00",
+  "last_updated": "2026-10-28T14:46:05+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 67,
+  "count": 68,
   "mentions": [
+    {
+      "id": "d777e294ce88a2b9",
+      "title": "Alliant Energy: U.S. Department Of Energy Closes $5.1 Billion Loan Package - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWlTTzhpTmVDVC00Nmp0c2huSnMzeUw3eTBjQXIxY1U0TDNkVTNNTF9CVnltZ0tOcjlzOEIwc0RsQlNYUFIxN21SMnpnY0M4NDFKMGVEQmtYeHVRTDBFQ3FwU2ZDTWo5dzMxQ0F2T2tDRGt1YlN5b0xhYXZnaHdjbDRmME43QjBRYTBLNEtKNkxtQ25QT2c?oc=5",
+      "domain": "news.google.com",
+      "source": "Pulse 2.0",
+      "language": "English",
+      "published_at": "2026-10-28T12:58:18+00:00",
+      "summary": "Alliant Energy: U.S. Department Of Energy Closes $5.1 Billion Loan Package Pulse 2.0",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWlTTzhpTmVDVC00Nmp0c2huSnMzeUw3eTBjQXIxY1U0TDNkVTNNTF9CVnltZ0tOcjlzOEIwc0RsQlNYUFIxN21SMnpnY0M4NDFKMGVEQmtYeHVRTDBFQ3FwU2ZDTWo5dzMxQ0F2T2tDRGt1YlN5b0xhYXZnaHdjbDRmME43QjBRYTBLNEtKNkxtQ25QT2c?oc=5\" target=\"_blank\">Alliant Energy: U.S. Department Of Energy Closes $5.1 Billion Loan Package</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-28T14:46:05+00:00"
+    },
     {
       "id": "9c5a579ff3ec7231",
       "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",

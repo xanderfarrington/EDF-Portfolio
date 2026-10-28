@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-10-28T07:49:23+00:00",
+  "last_updated": "2026-10-28T14:46:10+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 116,
-      "new_mentions_this_run": 2,
+      "count": 119,
+      "new_mentions_this_run": 6,
       "latest_mention": {
-        "id": "3700236f5765123e",
-        "title": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October - Investing.com Nigeria",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSmJmaTBWQmM1bmh4V3pFMnhMWlVLRWZ5YTZCSkUzYS15bkVhdjQyVkUwNWhlYVJPNWNicnJXNWYwN1NOTW82QVpCclh5U0RkVU5DU2ZLZGxacldMMTFoaUlvTWIxclR0WGdUYVl1WVFDOUdXVFdoLVlzRzhLNUprOHVFZllYZk1kY1Itclp0ekdHR2d6SEJnMXhFR0NxTlNQNmpQSlItTURPYXB2bEROeE93NWU1X0E4UWl2cmhNV2c4RnJDeXpFZUt0SVpRa0FwR0hwck5KUWNkLUR6SWxpd2kwVGtsZHRHUGdna0lqYjZjMEZa?oc=5",
+        "id": "6b6c5670c39cc1d3",
+        "title": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYW9relF1VGU4aTlmYjZsVjVhRTZPY3otc2tybUpsek1NdTRFRjBTbHVhMzh5TU9HZWlZWExYcDNhek0xWko4SUE0N0g1T2xBNUtMemRpd3RZV0tXN1E1dlc1WUxQUFdaZlg3ZWduRUs3SzQ5ai0tQUU3aDZjdjhpcXlsWUxKZDJqZW85OHV0NklNdW1XYWJvX2VnSUdZdjJTWXN5dDFIYnIxbFF6emxHSDZzYWJBWVZZVkZlS2V1WQ?oc=5",
         "domain": "news.google.com",
-        "source": "Investing.com Nigeria",
+        "source": "Investing.com India",
         "language": "English",
-        "published_at": "2026-10-21T15:59:26+00:00",
-        "summary": "Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October Investing.com Nigeria",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSmJmaTBWQmM1bmh4V3pFMnhMWlVLRWZ5YTZCSkUzYS15bkVhdjQyVkUwNWhlYVJPNWNicnJXNWYwN1NOTW82QVpCclh5U0RkVU5DU2ZLZGxacldMMTFoaUlvTWIxclR0WGdUYVl1WVFDOUdXVFdoLVlzRzhLNUprOHVFZllYZk1kY1Itclp0ekdHR2d6SEJnMXhFR0NxTlNQNmpQSlItTURPYXB2bEROeE93NWU1X0E4UWl2cmhNV2c4RnJDeXpFZUt0SVpRa0FwR0hwck5KUWNkLUR6SWxpd2kwVGtsZHRHUGdna0lqYjZjMEZa?oc=5\" target=\"_blank\">Form 4 American Electric Power Company Inc: Douglas A. Cannon (President AEP Transmission) For: 19 October</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font>",
+        "published_at": "2026-10-28T14:34:22+00:00",
+        "summary": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook Investing.com India",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQYW9relF1VGU4aTlmYjZsVjVhRTZPY3otc2tybUpsek1NdTRFRjBTbHVhMzh5TU9HZWlZWExYcDNhek0xWko4SUE0N0g1T2xBNUtMemRpd3RZV0tXN1E1dlc1WUxQUFdaZlg3ZWduRUs3SzQ5ai0tQUU3aDZjdjhpcXlsWUxKZDJqZW85OHV0NklNdW1XYWJvX2VnSUdZdjJTWXN5dDFIYnIxbFF6emxHSDZzYWJBWVZZVkZlS2V1WQ?oc=5\" target=\"_blank\">AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-22T09:04:45+00:00"
+        "collected_at": "2026-10-28T14:45:38+00:00"
       }
     },
     {
@@ -110,21 +110,21 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 67,
-      "new_mentions_this_run": 1,
+      "count": 68,
+      "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "9c5a579ff3ec7231",
-        "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output - energytech.com",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON3VzUlBxY3AwZ2s4bTJrcEw0ZzNlS0xCZThIUkpTcjRSY0U1UFZ3NXZCY0d4V3NucE1vLXZUS3JSYTBYZ0QtY043WWJLR1UtMm9WbDVNRzRaOWJ3MUFPMG1mcUZ3SVdCNDRPZjNXdVFHSUhyWEk5eTRKODBsZ3NqQmNKclNGb2pENjFQNW5oX3VOdW1GMzZpcHVSZkRVOVRvMUZTbGFPRGd0dVdtNmRNRWNVRXhVLU15VXlRQU1XQ1pxU2EwMGx5UzhHd3g?oc=5",
+        "id": "d777e294ce88a2b9",
+        "title": "Alliant Energy: U.S. Department Of Energy Closes $5.1 Billion Loan Package - Pulse 2.0",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWlTTzhpTmVDVC00Nmp0c2huSnMzeUw3eTBjQXIxY1U0TDNkVTNNTF9CVnltZ0tOcjlzOEIwc0RsQlNYUFIxN21SMnpnY0M4NDFKMGVEQmtYeHVRTDBFQ3FwU2ZDTWo5dzMxQ0F2T2tDRGt1YlN5b0xhYXZnaHdjbDRmME43QjBRYTBLNEtKNkxtQ25QT2c?oc=5",
         "domain": "news.google.com",
-        "source": "energytech.com",
+        "source": "Pulse 2.0",
         "language": "English",
-        "published_at": "2026-10-06T01:30:35+00:00",
-        "summary": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output energytech.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxON3VzUlBxY3AwZ2s4bTJrcEw0ZzNlS0xCZThIUkpTcjRSY0U1UFZ3NXZCY0d4V3NucE1vLXZUS3JSYTBYZ0QtY043WWJLR1UtMm9WbDVNRzRaOWJ3MUFPMG1mcUZ3SVdCNDRPZjNXdVFHSUhyWEk5eTRKODBsZ3NqQmNKclNGb2pENjFQNW5oX3VOdW1GMzZpcHVSZkRVOVRvMUZTbGFPRGd0dVdtNmRNRWNVRXhVLU15VXlRQU1XQ1pxU2EwMGx5UzhHd3g?oc=5\" target=\"_blank\">DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energytech.com</font>",
+        "published_at": "2026-10-28T12:58:18+00:00",
+        "summary": "Alliant Energy: U.S. Department Of Energy Closes $5.1 Billion Loan Package Pulse 2.0",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWlTTzhpTmVDVC00Nmp0c2huSnMzeUw3eTBjQXIxY1U0TDNkVTNNTF9CVnltZ0tOcjlzOEIwc0RsQlNYUFIxN21SMnpnY0M4NDFKMGVEQmtYeHVRTDBFQ3FwU2ZDTWo5dzMxQ0F2T2tDRGt1YlN5b0xhYXZnaHdjbDRmME43QjBRYTBLNEtKNkxtQ25QT2c?oc=5\" target=\"_blank\">Alliant Energy: U.S. Department Of Energy Closes $5.1 Billion Loan Package</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-06T08:26:26+00:00"
+        "collected_at": "2026-10-28T14:46:05+00:00"
       }
     }
   ]
