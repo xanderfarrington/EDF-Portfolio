@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-10-28T14:45:38+00:00",
+  "last_updated": "2026-10-28T20:43:03+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 119,
+  "count": 120,
   "mentions": [
+    {
+      "id": "c14ce299f66a0b9c",
+      "title": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkhMYnRtQXFvaHM2M1hEcTF3ckdubU5jZURvaUswbVRIVnZraWp5LWI0V19BVnFRZzBIWnhJQ2xMQWF0TlkxNkRjSmhZdzhybFdkNjJMbDZKZlN2d3RISWZlWTJhbzFIY2Q4UjhwRU5DQ2d6UjJCbkluS2JFNGlsSjVvZ0xTZjRIeEhjSGpCaHlqM19QNkNGbmY2S2Rlalc0TFJxdWVKQmZlcDc2bDRNM0xJUHRnRU1Qa3c?oc=5",
+      "domain": "news.google.com",
+      "source": "Investing.com",
+      "language": "English",
+      "published_at": "2026-10-28T14:38:45+00:00",
+      "summary": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook Investing.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkhMYnRtQXFvaHM2M1hEcTF3ckdubU5jZURvaUswbVRIVnZraWp5LWI0V19BVnFRZzBIWnhJQ2xMQWF0TlkxNkRjSmhZdzhybFdkNjJMbDZKZlN2d3RISWZlWTJhbzFIY2Q4UjhwRU5DQ2d6UjJCbkluS2JFNGlsSjVvZ0xTZjRIeEhjSGpCaHlqM19QNkNGbmY2S2Rlalc0TFJxdWVKQmZlcDc2bDRNM0xJUHRnRU1Qa3c?oc=5\" target=\"_blank\">AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-28T20:43:03+00:00"
+    },
     {
       "id": "6b6c5670c39cc1d3",
       "title": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook - Investing.com India",

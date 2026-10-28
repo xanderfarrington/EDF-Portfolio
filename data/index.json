@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-10-28T14:46:10+00:00",
+  "last_updated": "2026-10-28T20:43:36+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 119,
-      "new_mentions_this_run": 6,
+      "count": 120,
+      "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "6b6c5670c39cc1d3",
-        "title": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook - Investing.com India",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYW9relF1VGU4aTlmYjZsVjVhRTZPY3otc2tybUpsek1NdTRFRjBTbHVhMzh5TU9HZWlZWExYcDNhek0xWko4SUE0N0g1T2xBNUtMemRpd3RZV0tXN1E1dlc1WUxQUFdaZlg3ZWduRUs3SzQ5ai0tQUU3aDZjdjhpcXlsWUxKZDJqZW85OHV0NklNdW1XYWJvX2VnSUdZdjJTWXN5dDFIYnIxbFF6emxHSDZzYWJBWVZZVkZlS2V1WQ?oc=5",
+        "id": "c14ce299f66a0b9c",
+        "title": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkhMYnRtQXFvaHM2M1hEcTF3ckdubU5jZURvaUswbVRIVnZraWp5LWI0V19BVnFRZzBIWnhJQ2xMQWF0TlkxNkRjSmhZdzhybFdkNjJMbDZKZlN2d3RISWZlWTJhbzFIY2Q4UjhwRU5DQ2d6UjJCbkluS2JFNGlsSjVvZ0xTZjRIeEhjSGpCaHlqM19QNkNGbmY2S2Rlalc0TFJxdWVKQmZlcDc2bDRNM0xJUHRnRU1Qa3c?oc=5",
         "domain": "news.google.com",
-        "source": "Investing.com India",
+        "source": "Investing.com",
         "language": "English",
-        "published_at": "2026-10-28T14:34:22+00:00",
-        "summary": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook Investing.com India",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQYW9relF1VGU4aTlmYjZsVjVhRTZPY3otc2tybUpsek1NdTRFRjBTbHVhMzh5TU9HZWlZWExYcDNhek0xWko4SUE0N0g1T2xBNUtMemRpd3RZV0tXN1E1dlc1WUxQUFdaZlg3ZWduRUs3SzQ5ai0tQUU3aDZjdjhpcXlsWUxKZDJqZW85OHV0NklNdW1XYWJvX2VnSUdZdjJTWXN5dDFIYnIxbFF6emxHSDZzYWJBWVZZVkZlS2V1WQ?oc=5\" target=\"_blank\">AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font>",
+        "published_at": "2026-10-28T14:38:45+00:00",
+        "summary": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook Investing.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkhMYnRtQXFvaHM2M1hEcTF3ckdubU5jZURvaUswbVRIVnZraWp5LWI0V19BVnFRZzBIWnhJQ2xMQWF0TlkxNkRjSmhZdzhybFdkNjJMbDZKZlN2d3RISWZlWTJhbzFIY2Q4UjhwRU5DQ2d6UjJCbkluS2JFNGlsSjVvZ0xTZjRIeEhjSGpCaHlqM19QNkNGbmY2S2Rlalc0TFJxdWVKQmZlcDc2bDRNM0xJUHRnRU1Qa3c?oc=5\" target=\"_blank\">AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-28T14:45:38+00:00"
+        "collected_at": "2026-10-28T20:43:03+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 606,
-      "new_mentions_this_run": 20,
+      "count": 608,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "3862d11e585030b4",
-        "title": "Alabama Power crews move closer to Fenn Church's property as legal battle continues - WBMA",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcGlxalVLU01pZkpmTExYeklSaFZKT09ycDN3bm9qZThVejN6Q0FtT29kUEtnUlo2b05HTml2RUhQQ3VNYzdJaTd4bWVJNEZTYjRkU1RtQlJwMTZ2TE82bTdacmFDQktkTDI0cE1RMnd5VUZfRjhPbXEyUzVLY3pHbG1YbGFDcTlJcDZQM192d2pQVkZFRi1LUEhrN0VLcVQtQnpEeWNNQXhqWmdiazg0RVBuZzVFcGJnYVlPS1NHXzlTOHJMYl9hOVV0TlhMSTdwOVZvZTBPYkthTlk5MEFYZ29UY3FiV3pvODQ0Z2FGbGhqMDN1NXQ3aG5xbFh6TGVw?oc=5",
+        "id": "edce036753460af3",
+        "title": "VIDEO: Alabama Power continues work just outside Fenn Church property; Tuberville remains in contact - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFVpeE1JLVhkd2NReW43WFB0LXF2NnlvZllGcjAzMVNNSGZtaWZ5STNsVVkyZ2N2azlsaU5peUt4blBUQUVJUVNKVGJtUThMdUg4Ul9UeTJudEdzaTJudEZFVTU2QzBFemtVS1RCV3RCcFlmOTlJc0gtYmh5SXpaOEVVRFFVR0R2aUpLODhRRDRGRkNOemJONUFxT3hRMkpoUTdsOWtHYXo0U2U3U2wzNW15UTRqLXV0REkxYmJuMFRYTjVEYjk5eA?oc=5",
         "domain": "news.google.com",
-        "source": "WBMA",
+        "source": "1819 News",
         "language": "English",
-        "published_at": "2026-10-27T23:40:33+00:00",
-        "summary": "Alabama Power crews move closer to Fenn Church's property as legal battle continues WBMA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNcGlxalVLU01pZkpmTExYeklSaFZKT09ycDN3bm9qZThVejN6Q0FtT29kUEtnUlo2b05HTml2RUhQQ3VNYzdJaTd4bWVJNEZTYjRkU1RtQlJwMTZ2TE82bTdacmFDQktkTDI0cE1RMnd5VUZfRjhPbXEyUzVLY3pHbG1YbGFDcTlJcDZQM192d2pQVkZFRi1LUEhrN0VLcVQtQnpEeWNNQXhqWmdiazg0RVBuZzVFcGJnYVlPS1NHXzlTOHJMYl9hOVV0TlhMSTdwOVZvZTBPYkthTlk5MEFYZ29UY3FiV3pvODQ0Z2FGbGhqMDN1NXQ3aG5xbFh6TGVw?oc=5\" target=\"_blank\">Alabama Power crews move closer to Fenn Church's property as legal battle continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+        "published_at": "2026-10-28T19:09:17+00:00",
+        "summary": "VIDEO: Alabama Power continues work just outside Fenn Church property; Tuberville remains in contact 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFVpeE1JLVhkd2NReW43WFB0LXF2NnlvZllGcjAzMVNNSGZtaWZ5STNsVVkyZ2N2azlsaU5peUt4blBUQUVJUVNKVGJtUThMdUg4Ul9UeTJudEdzaTJudEZFVTU2QzBFemtVS1RCV3RCcFlmOTlJc0gtYmh5SXpaOEVVRFFVR0R2aUpLODhRRDRGRkNOemJONUFxT3hRMkpoUTdsOWtHYXo0U2U3U2wzNW15UTRqLXV0REkxYmJuMFRYTjVEYjk5eA?oc=5\" target=\"_blank\">VIDEO: Alabama Power continues work just outside Fenn Church property; Tuberville remains in contact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-28T00:52:30+00:00"
+        "collected_at": "2026-10-28T20:43:09+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 114,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "f5a84c3afee1bb1b",
         "title": "Nuclear power could more than triple by 2060, UN agency says - Boston Herald",
@@ -89,42 +89,42 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 997,
-      "new_mentions_this_run": 23,
+      "count": 998,
+      "new_mentions_this_run": 8,
       "latest_mention": {
-        "id": "643e7e6838fc3c86",
-        "title": "Georgia Power faces questions as data center demand surges - WABE",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXVXUGV6UEdEQkRmSDFVWUJJWi1jV2E3WHplQ2JYMTRsVkg5THFzaDAtM3dfTWNsbXJ5VUVETUVlM01NOE8td05uNkN4b1FtTFNicXQ4bTJRZ0t2ektscnFyWUlWUVJoZnItd3FaZXExb1V4Y3JTbFlpU1l6RldiN2E0YTJIYVE?oc=5",
+        "id": "02be64f65f0b5840",
+        "title": "Southwire, Georgia Power, The Ray create native habitat in Carrollton - Times-Georgian",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaEF3M2RCNzFCdlhHVTJGWHlHRldEMjBLaWpQbmVadmZwWnNhb0EycWtiUlNDbE9pVUNCdkdHSUJGeUFpdDZqUFpycEZYNVh1R0lRX3VlOVRBUml6Q3RMSjY3dVZndUNyc3gwblN0R0oxZEZvZVkwc2JGbVV1SklQUjJBX0I1NTZ4aGVmQ1l5cl9YWURUNVhnSkpMTnZNWXBsalNTa19lRVc3ZjA4SWxjenVhWTVqWkNPUE8tdGtGelRuWTVkSTRUNmZwSEtuU040LWdVc05EV1l4QmNyTUNfWUtxU3dVX1B6QW1mX0d3?oc=5",
         "domain": "news.google.com",
-        "source": "WABE",
+        "source": "Times-Georgian",
         "language": "English",
-        "published_at": "2026-10-27T20:59:14+00:00",
-        "summary": "Georgia Power faces questions as data center demand surges WABE",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXVXUGV6UEdEQkRmSDFVWUJJWi1jV2E3WHplQ2JYMTRsVkg5THFzaDAtM3dfTWNsbXJ5VUVETUVlM01NOE8td05uNkN4b1FtTFNicXQ4bTJRZ0t2ektscnFyWUlWUVJoZnItd3FaZXExb1V4Y3JTbFlpU1l6RldiN2E0YTJIYVE?oc=5\" target=\"_blank\">Georgia Power faces questions as data center demand surges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WABE</font>",
+        "published_at": "2026-10-28T16:07:00+00:00",
+        "summary": "Southwire, Georgia Power, The Ray create native habitat in Carrollton Times-Georgian",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaEF3M2RCNzFCdlhHVTJGWHlHRldEMjBLaWpQbmVadmZwWnNhb0EycWtiUlNDbE9pVUNCdkdHSUJGeUFpdDZqUFpycEZYNVh1R0lRX3VlOVRBUml6Q3RMSjY3dVZndUNyc3gwblN0R0oxZEZvZVkwc2JGbVV1SklQUjJBX0I1NTZ4aGVmQ1l5cl9YWURUNVhnSkpMTnZNWXBsalNTa19lRVc3ZjA4SWxjenVhWTVqWkNPUE8tdGtGelRuWTVkSTRUNmZwSEtuU040LWdVc05EV1l4QmNyTUNfWUtxU3dVX1B6QW1mX0d3?oc=5\" target=\"_blank\">Southwire, Georgia Power, The Ray create native habitat in Carrollton</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times-Georgian</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-28T00:52:47+00:00"
+        "collected_at": "2026-10-28T20:43:26+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 68,
-      "new_mentions_this_run": 4,
+      "count": 69,
+      "new_mentions_this_run": 5,
       "latest_mention": {
-        "id": "d777e294ce88a2b9",
-        "title": "Alliant Energy: U.S. Department Of Energy Closes $5.1 Billion Loan Package - Pulse 2.0",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWlTTzhpTmVDVC00Nmp0c2huSnMzeUw3eTBjQXIxY1U0TDNkVTNNTF9CVnltZ0tOcjlzOEIwc0RsQlNYUFIxN21SMnpnY0M4NDFKMGVEQmtYeHVRTDBFQ3FwU2ZDTWo5dzMxQ0F2T2tDRGt1YlN5b0xhYXZnaHdjbDRmME43QjBRYTBLNEtKNkxtQ25QT2c?oc=5",
+        "id": "e3bd4dfe2a8a3978",
+        "title": "The U.S. Department of Energy’s Office of Energy Dominance Financing finalized a $5.1 billion loan package for Alliant Energy - Civic Media",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZk5WdDN2cWs1RmtFekpiUF9XT2s1VlQ3ZVVMcFVldEFvR1AtVk5oMV9CSGNzcWZmZmF1Umlub2lRMkNKN3A5QlV3bjRWYmMxaENPdlRSSHpsTU5Gb3NQeVdZQ3FjNW4wX21PZU8tT1Z2eFZGWGlDenYwT3BCQVBvTU5obHNkNGtNenRWbm9RcUd4bHJwVFhfV3c4aWZKOHBPR1g2S3N1cTF3aGpRUkN3TkFfYnhkZ185c3ZLUWUwcVkwUDFTbzkydUkzaEFneXk4dDFna3dwUldaMktGZ0ZSSzFwS2NPVElzd2g4T05RSQ?oc=5",
         "domain": "news.google.com",
-        "source": "Pulse 2.0",
+        "source": "Civic Media",
         "language": "English",
-        "published_at": "2026-10-28T12:58:18+00:00",
-        "summary": "Alliant Energy: U.S. Department Of Energy Closes $5.1 Billion Loan Package Pulse 2.0",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWlTTzhpTmVDVC00Nmp0c2huSnMzeUw3eTBjQXIxY1U0TDNkVTNNTF9CVnltZ0tOcjlzOEIwc0RsQlNYUFIxN21SMnpnY0M4NDFKMGVEQmtYeHVRTDBFQ3FwU2ZDTWo5dzMxQ0F2T2tDRGt1YlN5b0xhYXZnaHdjbDRmME43QjBRYTBLNEtKNkxtQ25QT2c?oc=5\" target=\"_blank\">Alliant Energy: U.S. Department Of Energy Closes $5.1 Billion Loan Package</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "published_at": "2026-10-28T19:26:58+00:00",
+        "summary": "The U.S. Department of Energy’s Office of Energy Dominance Financing finalized a $5.1 billion loan package for Alliant Energy Civic Media",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZk5WdDN2cWs1RmtFekpiUF9XT2s1VlQ3ZVVMcFVldEFvR1AtVk5oMV9CSGNzcWZmZmF1Umlub2lRMkNKN3A5QlV3bjRWYmMxaENPdlRSSHpsTU5Gb3NQeVdZQ3FjNW4wX21PZU8tT1Z2eFZGWGlDenYwT3BCQVBvTU5obHNkNGtNenRWbm9RcUd4bHJwVFhfV3c4aWZKOHBPR1g2S3N1cTF3aGpRUkN3TkFfYnhkZ185c3ZLUWUwcVkwUDFTbzkydUkzaEFneXk4dDFna3dwUldaMktGZ0ZSSzFwS2NPVElzd2g4T05RSQ?oc=5\" target=\"_blank\">The U.S. Department of Energy’s Office of Energy Dominance Financing finalized a $5.1 billion loan package for Alliant Energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Civic Media</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-28T14:46:05+00:00"
+        "collected_at": "2026-10-28T20:43:31+00:00"
       }
     }
   ]
