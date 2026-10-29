@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-29T01:28:53+00:00",
+  "last_updated": "2026-10-29T07:55:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 998,
+  "count": 999,
   "mentions": [
     {
       "id": "02be64f65f0b5840",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-28T20:43:26+00:00"
+    },
+    {
+      "id": "199f38473f83b6b5",
+      "title": "Google, Georgia Power announce partnership to uprate plants - American Nuclear Society",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWTRhRjhaZVQ0RTVfYTZIQ2tJMFFvTDljRDBTMTBtbXVPc094c09IcVVpeWhrRTVwWVoyS3cwdDRlbjVsZ3NwTmZSZXd3Yy1DMXpZTzJXSDNCaWJwQl9hZ3hocEc1QWE2VS05WV90S3NlZzIwbVg1RGZ0cmZGVWpod1lFRjAyR1VkaE95VllHTFFDVG5KODB0ZXFMQ0RaUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "American Nuclear Society",
+      "language": "English",
+      "published_at": "2026-10-28T07:02:29+00:00",
+      "summary": "Google, Georgia Power announce partnership to uprate plants American Nuclear Society",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPWTRhRjhaZVQ0RTVfYTZIQ2tJMFFvTDljRDBTMTBtbXVPc094c09IcVVpeWhrRTVwWVoyS3cwdDRlbjVsZ3NwTmZSZXd3Yy1DMXpZTzJXSDNCaWJwQl9hZ3hocEc1QWE2VS05WV90S3NlZzIwbVg1RGZ0cmZGVWpod1lFRjAyR1VkaE95VllHTFFDVG5KODB0ZXFMQ0RaUQ?oc=5\" target=\"_blank\">Google, Georgia Power announce partnership to uprate plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Nuclear Society</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-29T07:55:01+00:00"
     },
     {
       "id": "643e7e6838fc3c86",

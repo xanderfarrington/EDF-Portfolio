@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T01:29:04+00:00",
+  "last_updated": "2026-10-29T07:55:12+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 608,
-      "new_mentions_this_run": 20,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "edce036753460af3",
         "title": "VIDEO: Alabama Power continues work just outside Fenn Church property; Tuberville remains in contact - 1819 News",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 998,
+      "count": 999,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "02be64f65f0b5840",
