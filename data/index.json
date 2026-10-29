@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-10-29T07:55:12+00:00",
+  "last_updated": "2026-10-29T14:52:59+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 121,
-      "new_mentions_this_run": 7,
+      "count": 123,
+      "new_mentions_this_run": 9,
       "latest_mention": {
-        "id": "b5b3273377134c2f",
-        "title": "Piketon Project Triggers Boost in AEP Transmission Spending - State Affairs Pro",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUnFVaDB2T0doZGJaZ3J3VDNndnJBWlEtYk03OExkako2cW9hOFVXWHFKZzJwRDhGaC1JbDdBQkhYek1oV1NqWUlVOWVVbDd0M1dIQl9pd2xQaWpiR3NuZWNaSXg5QUVaOW4xT0M2UnZRckM4RjhMYVRkRlk2QllidQ?oc=5",
+        "id": "e1f612995baefb34",
+        "title": "Jacobs Joins AEP’s $37B Transmission Expansion Across Seven States - Construction Review",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHM0QzBBajNuVWdBTF92Mm1tRW53QnNDZnBzU0d0V3Qyb2ZIR0pITGdvemZBS1RleFV6LWdLVl8wcS1OYmt4QW5xRUFHQnkzWGxKUGtHMy11ZFJSaEllX2lua2VyN1hma0N4WUlNTFdMZ3hOdVdQYmZwZF95c0l3SFlnTUttNnhoM2plT0g2R1gzaUZ2TEtjMkk4Tm1SSkV6UFRRRw?oc=5",
         "domain": "news.google.com",
-        "source": "State Affairs Pro",
+        "source": "Construction Review",
         "language": "English",
-        "published_at": "2026-10-28T22:36:21+00:00",
-        "summary": "Piketon Project Triggers Boost in AEP Transmission Spending State Affairs Pro",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUnFVaDB2T0doZGJaZ3J3VDNndnJBWlEtYk03OExkako2cW9hOFVXWHFKZzJwRDhGaC1JbDdBQkhYek1oV1NqWUlVOWVVbDd0M1dIQl9pd2xQaWpiR3NuZWNaSXg5QUVaOW4xT0M2UnZRckM4RjhMYVRkRlk2QllidQ?oc=5\" target=\"_blank\">Piketon Project Triggers Boost in AEP Transmission Spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">State Affairs Pro</font>",
+        "published_at": "2026-10-29T14:16:01+00:00",
+        "summary": "Jacobs Joins AEP’s $37B Transmission Expansion Across Seven States Construction Review",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHM0QzBBajNuVWdBTF92Mm1tRW53QnNDZnBzU0d0V3Qyb2ZIR0pITGdvemZBS1RleFV6LWdLVl8wcS1OYmt4QW5xRUFHQnkzWGxKUGtHMy11ZFJSaEllX2lua2VyN1hma0N4WUlNTFdMZ3hOdVdQYmZwZF95c0l3SFlnTUttNnhoM2plT0g2R1gzaUZ2TEtjMkk4Tm1SSkV6UFRRRw?oc=5\" target=\"_blank\">Jacobs Joins AEP’s $37B Transmission Expansion Across Seven States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Review</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-29T01:28:31+00:00"
+        "collected_at": "2026-10-29T14:52:26+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 608,
-      "new_mentions_this_run": 21,
+      "count": 609,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "edce036753460af3",
         "title": "VIDEO: Alabama Power continues work just outside Fenn Church property; Tuberville remains in contact - 1819 News",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -89,7 +89,7 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 999,
+      "count": 1000,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "02be64f65f0b5840",

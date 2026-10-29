@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-29T07:55:01+00:00",
+  "last_updated": "2026-10-29T14:52:48+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 999,
+  "count": 1000,
   "mentions": [
     {
       "id": "02be64f65f0b5840",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-28T00:52:47+00:00"
+    },
+    {
+      "id": "11255465f547d2c8",
+      "title": "Georgia Power Issues Sustainability Bond: First for a US Utility - Environmental Leader",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaW5GUkpsM01aU0hXeWtwdU9zVjFkV01yczlYUHN0R0JKbnk4UGhub21TRldtUXVfM0s0UDZDZ3h2U3ZMNkFHaDc5bk9hYnNwQkhiNC13R29xV01DZzBUSlY4NTk3ZHhFVVZXRExiMUtGSW1zMGlsaVlWQ203RUNlYV9BcHk3czBpRXdNaWMzMmtTc1h5QU5CY3NEYVpyTlVpelFiZkNyalo3eTd5cmtPSTJ1aUVzUmRWc2c?oc=5",
+      "domain": "news.google.com",
+      "source": "Environmental Leader",
+      "language": "English",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "summary": "Georgia Power Issues Sustainability Bond: First for a US Utility Environmental Leader",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOaW5GUkpsM01aU0hXeWtwdU9zVjFkV01yczlYUHN0R0JKbnk4UGhub21TRldtUXVfM0s0UDZDZ3h2U3ZMNkFHaDc5bk9hYnNwQkhiNC13R29xV01DZzBUSlY4NTk3ZHhFVVZXRExiMUtGSW1zMGlsaVlWQ203RUNlYV9BcHk3czBpRXdNaWMzMmtTc1h5QU5CY3NEYVpyTlVpelFiZkNyalo3eTd5cmtPSTJ1aUVzUmRWc2c?oc=5\" target=\"_blank\">Georgia Power Issues Sustainability Bond: First for a US Utility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Environmental Leader</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-29T14:52:48+00:00"
     },
     {
       "id": "31b82ec04013cc8d",
