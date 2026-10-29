@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-10-28T20:43:03+00:00",
+  "last_updated": "2026-10-29T01:28:31+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 120,
+  "count": 121,
   "mentions": [
+    {
+      "id": "b5b3273377134c2f",
+      "title": "Piketon Project Triggers Boost in AEP Transmission Spending - State Affairs Pro",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUnFVaDB2T0doZGJaZ3J3VDNndnJBWlEtYk03OExkako2cW9hOFVXWHFKZzJwRDhGaC1JbDdBQkhYek1oV1NqWUlVOWVVbDd0M1dIQl9pd2xQaWpiR3NuZWNaSXg5QUVaOW4xT0M2UnZRckM4RjhMYVRkRlk2QllidQ?oc=5",
+      "domain": "news.google.com",
+      "source": "State Affairs Pro",
+      "language": "English",
+      "published_at": "2026-10-28T22:36:21+00:00",
+      "summary": "Piketon Project Triggers Boost in AEP Transmission Spending State Affairs Pro",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUnFVaDB2T0doZGJaZ3J3VDNndnJBWlEtYk03OExkako2cW9hOFVXWHFKZzJwRDhGaC1JbDdBQkhYek1oV1NqWUlVOWVVbDd0M1dIQl9pd2xQaWpiR3NuZWNaSXg5QUVaOW4xT0M2UnZRckM4RjhMYVRkRlk2QllidQ?oc=5\" target=\"_blank\">Piketon Project Triggers Boost in AEP Transmission Spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">State Affairs Pro</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-29T01:28:31+00:00"
+    },
     {
       "id": "c14ce299f66a0b9c",
       "title": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook - Investing.com",

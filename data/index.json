@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-10-28T20:43:36+00:00",
+  "last_updated": "2026-10-29T01:29:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 120,
-      "new_mentions_this_run": 4,
+      "count": 121,
+      "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "c14ce299f66a0b9c",
-        "title": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkhMYnRtQXFvaHM2M1hEcTF3ckdubU5jZURvaUswbVRIVnZraWp5LWI0V19BVnFRZzBIWnhJQ2xMQWF0TlkxNkRjSmhZdzhybFdkNjJMbDZKZlN2d3RISWZlWTJhbzFIY2Q4UjhwRU5DQ2d6UjJCbkluS2JFNGlsSjVvZ0xTZjRIeEhjSGpCaHlqM19QNkNGbmY2S2Rlalc0TFJxdWVKQmZlcDc2bDRNM0xJUHRnRU1Qa3c?oc=5",
+        "id": "b5b3273377134c2f",
+        "title": "Piketon Project Triggers Boost in AEP Transmission Spending - State Affairs Pro",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUnFVaDB2T0doZGJaZ3J3VDNndnJBWlEtYk03OExkako2cW9hOFVXWHFKZzJwRDhGaC1JbDdBQkhYek1oV1NqWUlVOWVVbDd0M1dIQl9pd2xQaWpiR3NuZWNaSXg5QUVaOW4xT0M2UnZRckM4RjhMYVRkRlk2QllidQ?oc=5",
         "domain": "news.google.com",
-        "source": "Investing.com",
+        "source": "State Affairs Pro",
         "language": "English",
-        "published_at": "2026-10-28T14:38:45+00:00",
-        "summary": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook Investing.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkhMYnRtQXFvaHM2M1hEcTF3ckdubU5jZURvaUswbVRIVnZraWp5LWI0V19BVnFRZzBIWnhJQ2xMQWF0TlkxNkRjSmhZdzhybFdkNjJMbDZKZlN2d3RISWZlWTJhbzFIY2Q4UjhwRU5DQ2d6UjJCbkluS2JFNGlsSjVvZ0xTZjRIeEhjSGpCaHlqM19QNkNGbmY2S2Rlalc0TFJxdWVKQmZlcDc2bDRNM0xJUHRnRU1Qa3c?oc=5\" target=\"_blank\">AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+        "published_at": "2026-10-28T22:36:21+00:00",
+        "summary": "Piketon Project Triggers Boost in AEP Transmission Spending State Affairs Pro",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUnFVaDB2T0doZGJaZ3J3VDNndnJBWlEtYk03OExkako2cW9hOFVXWHFKZzJwRDhGaC1JbDdBQkhYek1oV1NqWUlVOWVVbDd0M1dIQl9pd2xQaWpiR3NuZWNaSXg5QUVaOW4xT0M2UnZRckM4RjhMYVRkRlk2QllidQ?oc=5\" target=\"_blank\">Piketon Project Triggers Boost in AEP Transmission Spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">State Affairs Pro</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-28T20:43:03+00:00"
+        "collected_at": "2026-10-29T01:28:31+00:00"
       }
     },
     {
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 608,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "edce036753460af3",
         "title": "VIDEO: Alabama Power continues work just outside Fenn Church property; Tuberville remains in contact - 1819 News",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 998,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "02be64f65f0b5840",
         "title": "Southwire, Georgia Power, The Ray create native habitat in Carrollton - Times-Georgian",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 69,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e3bd4dfe2a8a3978",
         "title": "The U.S. Department of Energy’s Office of Energy Dominance Financing finalized a $5.1 billion loan package for Alliant Energy - Civic Media",
