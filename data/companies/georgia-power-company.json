@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-29T14:52:48+00:00",
+  "last_updated": "2026-10-29T20:47:52+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1000,
+  "count": 1001,
   "mentions": [
+    {
+      "id": "793d173fc840ed99",
+      "title": "Building a Stronger, More Integrated Grid to Power Georgia - Grice Connect",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdHU4ZG54Tk5oczdycHhUSy1HOFlYd3RKenR4eEhfRHByaFdRUGNybi1DRlBMOWZYVl94WUlPcGpSYlpmSlZWcHVBczhiSlhLa3ZMck9WNHI4dmxfcXItOFNQOTFfb09sUUhjUXlOVHpsYTkzbnlrRExKSllndmRGdkdMd0tXeGZLeHlOOFFMVk5ZMk1QRld5N0N6aVNkWVR0QmlnWUVnSFM?oc=5",
+      "domain": "news.google.com",
+      "source": "Grice Connect",
+      "language": "English",
+      "published_at": "2026-10-29T18:25:00+00:00",
+      "summary": "Building a Stronger, More Integrated Grid to Power Georgia Grice Connect",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdHU4ZG54Tk5oczdycHhUSy1HOFlYd3RKenR4eEhfRHByaFdRUGNybi1DRlBMOWZYVl94WUlPcGpSYlpmSlZWcHVBczhiSlhLa3ZMck9WNHI4dmxfcXItOFNQOTFfb09sUUhjUXlOVHpsYTkzbnlrRExKSllndmRGdkdMd0tXeGZLeHlOOFFMVk5ZMk1QRld5N0N6aVNkWVR0QmlnWUVnSFM?oc=5\" target=\"_blank\">Building a Stronger, More Integrated Grid to Power Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-29T20:47:52+00:00"
+    },
     {
       "id": "02be64f65f0b5840",
       "title": "Southwire, Georgia Power, The Ray create native habitat in Carrollton - Times-Georgian",

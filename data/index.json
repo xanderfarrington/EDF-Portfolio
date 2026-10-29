@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-10-29T14:52:59+00:00",
+  "last_updated": "2026-10-29T20:48:02+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 123,
-      "new_mentions_this_run": 9,
+      "count": 124,
+      "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "e1f612995baefb34",
-        "title": "Jacobs Joins AEP’s $37B Transmission Expansion Across Seven States - Construction Review",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHM0QzBBajNuVWdBTF92Mm1tRW53QnNDZnBzU0d0V3Qyb2ZIR0pITGdvemZBS1RleFV6LWdLVl8wcS1OYmt4QW5xRUFHQnkzWGxKUGtHMy11ZFJSaEllX2lua2VyN1hma0N4WUlNTFdMZ3hOdVdQYmZwZF95c0l3SFlnTUttNnhoM2plT0g2R1gzaUZ2TEtjMkk4Tm1SSkV6UFRRRw?oc=5",
+        "id": "f071021f6fa72a4c",
+        "title": "AEP increases investment plan 30% to $100B on gen, transmission spending - Utility Dive",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEl4MHRFUmZvUlk5NUFWUEpDWS1WWUJobXF6TWotTjdmVGZydHpybEpzSkZNMmc1ZUlJWUJxMW55UGZLN2pFbkRqa1FtMlRKSk5IN1o1YnpnWDVZdTZpTXN4RlRTbVRJOUQza2VJTWpleC0tVGFVOEkzNG9YUWk5ZTl2aTI?oc=5",
         "domain": "news.google.com",
-        "source": "Construction Review",
+        "source": "Utility Dive",
         "language": "English",
-        "published_at": "2026-10-29T14:16:01+00:00",
-        "summary": "Jacobs Joins AEP’s $37B Transmission Expansion Across Seven States Construction Review",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHM0QzBBajNuVWdBTF92Mm1tRW53QnNDZnBzU0d0V3Qyb2ZIR0pITGdvemZBS1RleFV6LWdLVl8wcS1OYmt4QW5xRUFHQnkzWGxKUGtHMy11ZFJSaEllX2lua2VyN1hma0N4WUlNTFdMZ3hOdVdQYmZwZF95c0l3SFlnTUttNnhoM2plT0g2R1gzaUZ2TEtjMkk4Tm1SSkV6UFRRRw?oc=5\" target=\"_blank\">Jacobs Joins AEP’s $37B Transmission Expansion Across Seven States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Review</font>",
+        "published_at": "2026-10-29T16:17:08+00:00",
+        "summary": "AEP increases investment plan 30% to $100B on gen, transmission spending Utility Dive",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxONEl4MHRFUmZvUlk5NUFWUEpDWS1WWUJobXF6TWotTjdmVGZydHpybEpzSkZNMmc1ZUlJWUJxMW55UGZLN2pFbkRqa1FtMlRKSk5IN1o1YnpnWDVZdTZpTXN4RlRTbVRJOUQza2VJTWpleC0tVGFVOEkzNG9YUWk5ZTl2aTI?oc=5\" target=\"_blank\">AEP increases investment plan 30% to $100B on gen, transmission spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utility Dive</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-29T14:52:26+00:00"
+        "collected_at": "2026-10-29T20:47:30+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 114,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "f5a84c3afee1bb1b",
         "title": "Nuclear power could more than triple by 2060, UN agency says - Boston Herald",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1000,
-      "new_mentions_this_run": 25,
+      "count": 1001,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "02be64f65f0b5840",
-        "title": "Southwire, Georgia Power, The Ray create native habitat in Carrollton - Times-Georgian",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaEF3M2RCNzFCdlhHVTJGWHlHRldEMjBLaWpQbmVadmZwWnNhb0EycWtiUlNDbE9pVUNCdkdHSUJGeUFpdDZqUFpycEZYNVh1R0lRX3VlOVRBUml6Q3RMSjY3dVZndUNyc3gwblN0R0oxZEZvZVkwc2JGbVV1SklQUjJBX0I1NTZ4aGVmQ1l5cl9YWURUNVhnSkpMTnZNWXBsalNTa19lRVc3ZjA4SWxjenVhWTVqWkNPUE8tdGtGelRuWTVkSTRUNmZwSEtuU040LWdVc05EV1l4QmNyTUNfWUtxU3dVX1B6QW1mX0d3?oc=5",
+        "id": "793d173fc840ed99",
+        "title": "Building a Stronger, More Integrated Grid to Power Georgia - Grice Connect",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdHU4ZG54Tk5oczdycHhUSy1HOFlYd3RKenR4eEhfRHByaFdRUGNybi1DRlBMOWZYVl94WUlPcGpSYlpmSlZWcHVBczhiSlhLa3ZMck9WNHI4dmxfcXItOFNQOTFfb09sUUhjUXlOVHpsYTkzbnlrRExKSllndmRGdkdMd0tXeGZLeHlOOFFMVk5ZMk1QRld5N0N6aVNkWVR0QmlnWUVnSFM?oc=5",
         "domain": "news.google.com",
-        "source": "Times-Georgian",
+        "source": "Grice Connect",
         "language": "English",
-        "published_at": "2026-10-28T16:07:00+00:00",
-        "summary": "Southwire, Georgia Power, The Ray create native habitat in Carrollton Times-Georgian",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaEF3M2RCNzFCdlhHVTJGWHlHRldEMjBLaWpQbmVadmZwWnNhb0EycWtiUlNDbE9pVUNCdkdHSUJGeUFpdDZqUFpycEZYNVh1R0lRX3VlOVRBUml6Q3RMSjY3dVZndUNyc3gwblN0R0oxZEZvZVkwc2JGbVV1SklQUjJBX0I1NTZ4aGVmQ1l5cl9YWURUNVhnSkpMTnZNWXBsalNTa19lRVc3ZjA4SWxjenVhWTVqWkNPUE8tdGtGelRuWTVkSTRUNmZwSEtuU040LWdVc05EV1l4QmNyTUNfWUtxU3dVX1B6QW1mX0d3?oc=5\" target=\"_blank\">Southwire, Georgia Power, The Ray create native habitat in Carrollton</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times-Georgian</font>",
+        "published_at": "2026-10-29T18:25:00+00:00",
+        "summary": "Building a Stronger, More Integrated Grid to Power Georgia Grice Connect",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdHU4ZG54Tk5oczdycHhUSy1HOFlYd3RKenR4eEhfRHByaFdRUGNybi1DRlBMOWZYVl94WUlPcGpSYlpmSlZWcHVBczhiSlhLa3ZMck9WNHI4dmxfcXItOFNQOTFfb09sUUhjUXlOVHpsYTkzbnlrRExKSllndmRGdkdMd0tXeGZLeHlOOFFMVk5ZMk1QRld5N0N6aVNkWVR0QmlnWUVnSFM?oc=5\" target=\"_blank\">Building a Stronger, More Integrated Grid to Power Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-28T20:43:26+00:00"
+        "collected_at": "2026-10-29T20:47:52+00:00"
       }
     },
     {
