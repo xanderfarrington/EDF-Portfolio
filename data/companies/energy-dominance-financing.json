@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-10-30T01:29:55+00:00",
+  "last_updated": "2026-10-30T07:57:57+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 69,
+  "count": 70,
   "mentions": [
+    {
+      "id": "00e82ed3cff0cf56",
+      "title": "Trump hands a booming utility in Iowa and Wisconsin $5.1 billion in loans less than a week before the election - Reason Magazine",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFU0ZmRNbXBWUjJPVU9xcU1BLWFQSkNESFNfRElMMVVfaTJaS2M4VlowVEVDUU9maHN5MU03bzZTWkltVVAwTEQyZmZzbW10T1hCa1l1OEUzcGtWRkRRa3NtcnRjVE5TclgzVlcweUpPOEtoM0pESGoxRGlraHFHMU9NYlo5WWctdU1tbWZnX2NVNjBDdnRfckdSQ0EwcGJMUHp4VVlQVlNVeTRwMjcxN2xSbWFfbTRVU2E0RlpLamFPdlFnUEE?oc=5",
+      "domain": "news.google.com",
+      "source": "Reason Magazine",
+      "language": "English",
+      "published_at": "2026-10-28T21:35:50+00:00",
+      "summary": "Trump hands a booming utility in Iowa and Wisconsin $5.1 billion in loans less than a week before the election Reason Magazine",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORFU0ZmRNbXBWUjJPVU9xcU1BLWFQSkNESFNfRElMMVVfaTJaS2M4VlowVEVDUU9maHN5MU03bzZTWkltVVAwTEQyZmZzbW10T1hCa1l1OEUzcGtWRkRRa3NtcnRjVE5TclgzVlcweUpPOEtoM0pESGoxRGlraHFHMU9NYlo5WWctdU1tbWZnX2NVNjBDdnRfckdSQ0EwcGJMUHp4VVlQVlNVeTRwMjcxN2xSbWFfbTRVU2E0RlpLamFPdlFnUEE?oc=5\" target=\"_blank\">Trump hands a booming utility in Iowa and Wisconsin $5.1 billion in loans less than a week before the election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reason Magazine</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-30T07:57:57+00:00"
+    },
     {
       "id": "e3bd4dfe2a8a3978",
       "title": "The U.S. Department of Energy’s Office of Energy Dominance Financing finalized a $5.1 billion loan package for Alliant Energy - Civic Media",

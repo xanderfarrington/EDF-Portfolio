@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T01:30:00+00:00",
+  "last_updated": "2026-10-30T07:58:02+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 609,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 12,
       "latest_mention": {
         "id": "edce036753460af3",
         "title": "VIDEO: Alabama Power continues work just outside Fenn Church property; Tuberville remains in contact - 1819 News",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -110,21 +110,21 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 69,
-      "new_mentions_this_run": 4,
+      "count": 70,
+      "new_mentions_this_run": 6,
       "latest_mention": {
-        "id": "e3bd4dfe2a8a3978",
-        "title": "The U.S. Department of Energy’s Office of Energy Dominance Financing finalized a $5.1 billion loan package for Alliant Energy - Civic Media",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZk5WdDN2cWs1RmtFekpiUF9XT2s1VlQ3ZVVMcFVldEFvR1AtVk5oMV9CSGNzcWZmZmF1Umlub2lRMkNKN3A5QlV3bjRWYmMxaENPdlRSSHpsTU5Gb3NQeVdZQ3FjNW4wX21PZU8tT1Z2eFZGWGlDenYwT3BCQVBvTU5obHNkNGtNenRWbm9RcUd4bHJwVFhfV3c4aWZKOHBPR1g2S3N1cTF3aGpRUkN3TkFfYnhkZ185c3ZLUWUwcVkwUDFTbzkydUkzaEFneXk4dDFna3dwUldaMktGZ0ZSSzFwS2NPVElzd2g4T05RSQ?oc=5",
+        "id": "00e82ed3cff0cf56",
+        "title": "Trump hands a booming utility in Iowa and Wisconsin $5.1 billion in loans less than a week before the election - Reason Magazine",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFU0ZmRNbXBWUjJPVU9xcU1BLWFQSkNESFNfRElMMVVfaTJaS2M4VlowVEVDUU9maHN5MU03bzZTWkltVVAwTEQyZmZzbW10T1hCa1l1OEUzcGtWRkRRa3NtcnRjVE5TclgzVlcweUpPOEtoM0pESGoxRGlraHFHMU9NYlo5WWctdU1tbWZnX2NVNjBDdnRfckdSQ0EwcGJMUHp4VVlQVlNVeTRwMjcxN2xSbWFfbTRVU2E0RlpLamFPdlFnUEE?oc=5",
         "domain": "news.google.com",
-        "source": "Civic Media",
+        "source": "Reason Magazine",
         "language": "English",
-        "published_at": "2026-10-28T19:26:58+00:00",
-        "summary": "The U.S. Department of Energy’s Office of Energy Dominance Financing finalized a $5.1 billion loan package for Alliant Energy Civic Media",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZk5WdDN2cWs1RmtFekpiUF9XT2s1VlQ3ZVVMcFVldEFvR1AtVk5oMV9CSGNzcWZmZmF1Umlub2lRMkNKN3A5QlV3bjRWYmMxaENPdlRSSHpsTU5Gb3NQeVdZQ3FjNW4wX21PZU8tT1Z2eFZGWGlDenYwT3BCQVBvTU5obHNkNGtNenRWbm9RcUd4bHJwVFhfV3c4aWZKOHBPR1g2S3N1cTF3aGpRUkN3TkFfYnhkZ185c3ZLUWUwcVkwUDFTbzkydUkzaEFneXk4dDFna3dwUldaMktGZ0ZSSzFwS2NPVElzd2g4T05RSQ?oc=5\" target=\"_blank\">The U.S. Department of Energy’s Office of Energy Dominance Financing finalized a $5.1 billion loan package for Alliant Energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Civic Media</font>",
+        "published_at": "2026-10-28T21:35:50+00:00",
+        "summary": "Trump hands a booming utility in Iowa and Wisconsin $5.1 billion in loans less than a week before the election Reason Magazine",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORFU0ZmRNbXBWUjJPVU9xcU1BLWFQSkNESFNfRElMMVVfaTJaS2M4VlowVEVDUU9maHN5MU03bzZTWkltVVAwTEQyZmZzbW10T1hCa1l1OEUzcGtWRkRRa3NtcnRjVE5TclgzVlcweUpPOEtoM0pESGoxRGlraHFHMU9NYlo5WWctdU1tbWZnX2NVNjBDdnRfckdSQ0EwcGJMUHp4VVlQVlNVeTRwMjcxN2xSbWFfbTRVU2E0RlpLamFPdlFnUEE?oc=5\" target=\"_blank\">Trump hands a booming utility in Iowa and Wisconsin $5.1 billion in loans less than a week before the election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reason Magazine</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-28T20:43:31+00:00"
+        "collected_at": "2026-10-30T07:57:57+00:00"
       }
     }
   ]
