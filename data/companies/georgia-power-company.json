@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-30T07:57:51+00:00",
+  "last_updated": "2026-10-30T14:52:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1001,
+  "count": 1002,
   "mentions": [
+    {
+      "id": "70b0a01d2ce3095b",
+      "title": "Outside climate groups boost Georgia green group’s effort in PSC election - The Atlanta Journal-Constitution",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR2JKSW5vWGVLOTVfSHpNU0ZMQ2p0SUx1MUJJdEk4cVFEZ19KemV4MWxpZDA4bGxvOVRJdGpESGFmU19Qb1ZSUEJZMWR0NXowdEJwbWRyVl9FamozUjh6czJzYkxXQVVDbml1Z3dfNnZBbDREcXo2emZqdmRCMy1RbGk3OA?oc=5",
+      "domain": "news.google.com",
+      "source": "The Atlanta Journal-Constitution",
+      "language": "English",
+      "published_at": "2026-10-30T09:00:00+00:00",
+      "summary": "Outside climate groups boost Georgia green group’s effort in PSC election The Atlanta Journal-Constitution",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPR2JKSW5vWGVLOTVfSHpNU0ZMQ2p0SUx1MUJJdEk4cVFEZ19KemV4MWxpZDA4bGxvOVRJdGpESGFmU19Qb1ZSUEJZMWR0NXowdEJwbWRyVl9FamozUjh6czJzYkxXQVVDbml1Z3dfNnZBbDREcXo2emZqdmRCMy1RbGk3OA?oc=5\" target=\"_blank\">Outside climate groups boost Georgia green group’s effort in PSC election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Journal-Constitution</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-30T14:52:01+00:00"
+    },
     {
       "id": "793d173fc840ed99",
       "title": "Building a Stronger, More Integrated Grid to Power Georgia - Grice Connect",

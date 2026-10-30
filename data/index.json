@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-30T07:58:02+00:00",
+  "last_updated": "2026-10-30T14:52:12+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 125,
+      "count": 126,
       "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "f071021f6fa72a4c",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 609,
-      "new_mentions_this_run": 12,
+      "count": 610,
+      "new_mentions_this_run": 16,
       "latest_mention": {
-        "id": "edce036753460af3",
-        "title": "VIDEO: Alabama Power continues work just outside Fenn Church property; Tuberville remains in contact - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFVpeE1JLVhkd2NReW43WFB0LXF2NnlvZllGcjAzMVNNSGZtaWZ5STNsVVkyZ2N2azlsaU5peUt4blBUQUVJUVNKVGJtUThMdUg4Ul9UeTJudEdzaTJudEZFVTU2QzBFemtVS1RCV3RCcFlmOTlJc0gtYmh5SXpaOEVVRFFVR0R2aUpLODhRRDRGRkNOemJONUFxT3hRMkpoUTdsOWtHYXo0U2U3U2wzNW15UTRqLXV0REkxYmJuMFRYTjVEYjk5eA?oc=5",
+        "id": "b4cbde969c08fa5f",
+        "title": "State Supreme Court blocks advocates from challenging Alabama Power’s billing formula - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejVjWjI0enp4ZFNrZUppR3R5bXRKUzFvcnYtZzVCQm1KcGZKMEduWGVPc3hhRGpfOE10Um9xLUlSRzdqRXpTMUNHam95aGNONjhPZWRmTW1xUng3elI0NlZLQ2N4LVVOeU8weGpmaGV2dlJPTjVfa01HZFVBUzhYems0ZWhCeUs5Z25hTWExZ1NnM1FRT1FfZlp1RGZ2TUJGaXlOWmpjVnl5Z2YxQ1J2SUM4V3hzWU15QUsxLVVTdFpNdFU?oc=5",
         "domain": "news.google.com",
-        "source": "1819 News",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-10-28T19:09:17+00:00",
-        "summary": "VIDEO: Alabama Power continues work just outside Fenn Church property; Tuberville remains in contact 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFVpeE1JLVhkd2NReW43WFB0LXF2NnlvZllGcjAzMVNNSGZtaWZ5STNsVVkyZ2N2azlsaU5peUt4blBUQUVJUVNKVGJtUThMdUg4Ul9UeTJudEdzaTJudEZFVTU2QzBFemtVS1RCV3RCcFlmOTlJc0gtYmh5SXpaOEVVRFFVR0R2aUpLODhRRDRGRkNOemJONUFxT3hRMkpoUTdsOWtHYXo0U2U3U2wzNW15UTRqLXV0REkxYmJuMFRYTjVEYjk5eA?oc=5\" target=\"_blank\">VIDEO: Alabama Power continues work just outside Fenn Church property; Tuberville remains in contact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-10-30T14:40:00+00:00",
+        "summary": "State Supreme Court blocks advocates from challenging Alabama Power’s billing formula AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejVjWjI0enp4ZFNrZUppR3R5bXRKUzFvcnYtZzVCQm1KcGZKMEduWGVPc3hhRGpfOE10Um9xLUlSRzdqRXpTMUNHam95aGNONjhPZWRmTW1xUng3elI0NlZLQ2N4LVVOeU8weGpmaGV2dlJPTjVfa01HZFVBUzhYems0ZWhCeUs5Z25hTWExZ1NnM1FRT1FfZlp1RGZ2TUJGaXlOWmpjVnl5Z2YxQ1J2SUM4V3hzWU15QUsxLVVTdFpNdFU?oc=5\" target=\"_blank\">State Supreme Court blocks advocates from challenging Alabama Power’s billing formula</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-28T20:43:09+00:00"
+        "collected_at": "2026-10-30T14:51:45+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 114,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "f5a84c3afee1bb1b",
         "title": "Nuclear power could more than triple by 2060, UN agency says - Boston Herald",
@@ -89,29 +89,29 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1001,
+      "count": 1002,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "793d173fc840ed99",
-        "title": "Building a Stronger, More Integrated Grid to Power Georgia - Grice Connect",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdHU4ZG54Tk5oczdycHhUSy1HOFlYd3RKenR4eEhfRHByaFdRUGNybi1DRlBMOWZYVl94WUlPcGpSYlpmSlZWcHVBczhiSlhLa3ZMck9WNHI4dmxfcXItOFNQOTFfb09sUUhjUXlOVHpsYTkzbnlrRExKSllndmRGdkdMd0tXeGZLeHlOOFFMVk5ZMk1QRld5N0N6aVNkWVR0QmlnWUVnSFM?oc=5",
+        "id": "70b0a01d2ce3095b",
+        "title": "Outside climate groups boost Georgia green group’s effort in PSC election - The Atlanta Journal-Constitution",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR2JKSW5vWGVLOTVfSHpNU0ZMQ2p0SUx1MUJJdEk4cVFEZ19KemV4MWxpZDA4bGxvOVRJdGpESGFmU19Qb1ZSUEJZMWR0NXowdEJwbWRyVl9FamozUjh6czJzYkxXQVVDbml1Z3dfNnZBbDREcXo2emZqdmRCMy1RbGk3OA?oc=5",
         "domain": "news.google.com",
-        "source": "Grice Connect",
+        "source": "The Atlanta Journal-Constitution",
         "language": "English",
-        "published_at": "2026-10-29T18:25:00+00:00",
-        "summary": "Building a Stronger, More Integrated Grid to Power Georgia Grice Connect",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdHU4ZG54Tk5oczdycHhUSy1HOFlYd3RKenR4eEhfRHByaFdRUGNybi1DRlBMOWZYVl94WUlPcGpSYlpmSlZWcHVBczhiSlhLa3ZMck9WNHI4dmxfcXItOFNQOTFfb09sUUhjUXlOVHpsYTkzbnlrRExKSllndmRGdkdMd0tXeGZLeHlOOFFMVk5ZMk1QRld5N0N6aVNkWVR0QmlnWUVnSFM?oc=5\" target=\"_blank\">Building a Stronger, More Integrated Grid to Power Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+        "published_at": "2026-10-30T09:00:00+00:00",
+        "summary": "Outside climate groups boost Georgia green group’s effort in PSC election The Atlanta Journal-Constitution",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPR2JKSW5vWGVLOTVfSHpNU0ZMQ2p0SUx1MUJJdEk4cVFEZ19KemV4MWxpZDA4bGxvOVRJdGpESGFmU19Qb1ZSUEJZMWR0NXowdEJwbWRyVl9FamozUjh6czJzYkxXQVVDbml1Z3dfNnZBbDREcXo2emZqdmRCMy1RbGk3OA?oc=5\" target=\"_blank\">Outside climate groups boost Georgia green group’s effort in PSC election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Journal-Constitution</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-29T20:47:52+00:00"
+        "collected_at": "2026-10-30T14:52:01+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 70,
-      "new_mentions_this_run": 6,
+      "count": 71,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "00e82ed3cff0cf56",
         "title": "Trump hands a booming utility in Iowa and Wisconsin $5.1 billion in loans less than a week before the election - Reason Magazine",

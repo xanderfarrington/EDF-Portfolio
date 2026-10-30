@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-10-30T07:57:57+00:00",
+  "last_updated": "2026-10-30T14:52:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 70,
+  "count": 71,
   "mentions": [
     {
       "id": "00e82ed3cff0cf56",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-28T14:46:05+00:00"
+    },
+    {
+      "id": "9ad2ef081d20a7ad",
+      "title": "Energy Dominance Financing office calls the loan a \"common sense\" investment - citizenportal.ai",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNYl9ycUFtTTZGVmc2Njk1NG5uMXlsa25zb0U2Z0lEUU04VXdEdUpDX0xBV3R2T25XSUQ3Y1FoaEEwWHo2TnMwRHp0WEhSOWtRcjdJbWI3TmFqWnJnQkxFNGkxbnpyeVdka1Z2V0pzT0stbU5GdUp6LTdEbDlFSUQ1QkZrczY3ZE5oTU1RdzFMeFVJT3JwNHlmckNJZld1LURpSVhLVDMwd2d5MnFJTEVpQk5QaGNGUC1jY3RKa3FROUpSUnVJbzJmQWs0V29YUGpKVDJBT1ZhaWhKRlFIWWMxSV9vZGlKNE5vWU1FcUtqUWF1ZklQTWtkNEt0NnVNMVJOX0w0UVFJaXp5LW9EUE5sSHpiaGswTHpkVlNOZ2JYeHBMbW1CWTAtYjIxaVpPWkU1aFFhQXk3NlhMcVlpaGNCZDhibXI0Z091?oc=5",
+      "domain": "news.google.com",
+      "source": "citizenportal.ai",
+      "language": "English",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "summary": "Energy Dominance Financing office calls the loan a \"common sense\" investment citizenportal.ai",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxNYl9ycUFtTTZGVmc2Njk1NG5uMXlsa25zb0U2Z0lEUU04VXdEdUpDX0xBV3R2T25XSUQ3Y1FoaEEwWHo2TnMwRHp0WEhSOWtRcjdJbWI3TmFqWnJnQkxFNGkxbnpyeVdka1Z2V0pzT0stbU5GdUp6LTdEbDlFSUQ1QkZrczY3ZE5oTU1RdzFMeFVJT3JwNHlmckNJZld1LURpSVhLVDMwd2d5MnFJTEVpQk5QaGNGUC1jY3RKa3FROUpSUnVJbzJmQWs0V29YUGpKVDJBT1ZhaWhKRlFIWWMxSV9vZGlKNE5vWU1FcUtqUWF1ZklQTWtkNEt0NnVNMVJOX0w0UVFJaXp5LW9EUE5sSHpiaGswTHpkVlNOZ2JYeHBMbW1CWTAtYjIxaVpPWkU1aFFhQXk3NlhMcVlpaGNCZDhibXI0Z091?oc=5\" target=\"_blank\">Energy Dominance Financing office calls the loan a \"common sense\" investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citizenportal.ai</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-30T14:52:07+00:00"
     },
     {
       "id": "9c5a579ff3ec7231",
