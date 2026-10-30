@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-29T20:48:02+00:00",
+  "last_updated": "2026-10-30T01:30:00+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 124,
+      "count": 125,
       "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "f071021f6fa72a4c",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 114,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "f5a84c3afee1bb1b",
         "title": "Nuclear power could more than triple by 2060, UN agency says - Boston Herald",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1001,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "793d173fc840ed99",
         "title": "Building a Stronger, More Integrated Grid to Power Georgia - Grice Connect",
