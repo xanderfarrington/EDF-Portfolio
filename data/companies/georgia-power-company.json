@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-30T14:52:01+00:00",
+  "last_updated": "2026-10-30T20:18:17+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1002,
+  "count": 1003,
   "mentions": [
+    {
+      "id": "0837b69d1bd68126",
+      "title": "Georgia Power names new CEO as utility embarks on huge expansion - The Atlanta Journal-Constitution",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXcGhWa191WXlpWGhDeHV1VnNVSjFTblI0UFRYaHd1bnVRWWY0X0Y4eFNMQ0dfdlNIODNVc0twUmRYMWczOENWc2VlZXFnek9KZlAyOWtraWEtdTJOcXJZeWhDdzdpcTgwaHFzUGplT1hDTkE?oc=5",
+      "domain": "news.google.com",
+      "source": "The Atlanta Journal-Constitution",
+      "language": "English",
+      "published_at": "2026-10-30T15:52:43+00:00",
+      "summary": "Georgia Power names new CEO as utility embarks on huge expansion The Atlanta Journal-Constitution",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBXcGhWa191WXlpWGhDeHV1VnNVSjFTblI0UFRYaHd1bnVRWWY0X0Y4eFNMQ0dfdlNIODNVc0twUmRYMWczOENWc2VlZXFnek9KZlAyOWtraWEtdTJOcXJZeWhDdzdpcTgwaHFzUGplT1hDTkE?oc=5\" target=\"_blank\">Georgia Power names new CEO as utility embarks on huge expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Journal-Constitution</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-30T20:18:17+00:00"
+    },
     {
       "id": "70b0a01d2ce3095b",
       "title": "Outside climate groups boost Georgia green group’s effort in PSC election - The Atlanta Journal-Constitution",

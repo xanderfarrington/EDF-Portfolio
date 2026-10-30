@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-30T14:51:45+00:00",
+  "last_updated": "2026-10-30T20:18:00+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 610,
+  "count": 611,
   "mentions": [
+    {
+      "id": "8a99c698d1323f85",
+      "title": "Alabama Power measures timber as Fenn Church neighbor formally reaches out to utility - 1819 News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMnctdExXZ2dlOGRlZjFKamJCRVJrNUk3Y2stcVFjV2xDeS00Vi1icnFXcVVOdWRTajIzaG04Z09NQUYycnFFSWRObWdOX3NkLU1rbWZuZTRjNE9ITkRCbDhnOFlLSjNWWHJobnpsUVh2Yy1PRDZTUVdmU0ZMb0NGMTh3N1ZjbXVUek1mT0RZQWxtdkZvcm82NS05NXVPYXpITDFudklGNWdHOEt6d2F4ZTVHX0l3WUE?oc=5",
+      "domain": "news.google.com",
+      "source": "1819 News",
+      "language": "English",
+      "published_at": "2026-10-30T19:04:44+00:00",
+      "summary": "Alabama Power measures timber as Fenn Church neighbor formally reaches out to utility 1819 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOMnctdExXZ2dlOGRlZjFKamJCRVJrNUk3Y2stcVFjV2xDeS00Vi1icnFXcVVOdWRTajIzaG04Z09NQUYycnFFSWRObWdOX3NkLU1rbWZuZTRjNE9ITkRCbDhnOFlLSjNWWHJobnpsUVh2Yy1PRDZTUVdmU0ZMb0NGMTh3N1ZjbXVUek1mT0RZQWxtdkZvcm82NS05NXVPYXpITDFudklGNWdHOEt6d2F4ZTVHX0l3WUE?oc=5\" target=\"_blank\">Alabama Power measures timber as Fenn Church neighbor formally reaches out to utility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-30T20:18:00+00:00"
+    },
     {
       "id": "b4cbde969c08fa5f",
       "title": "State Supreme Court blocks advocates from challenging Alabama Power’s billing formula - AL.com",

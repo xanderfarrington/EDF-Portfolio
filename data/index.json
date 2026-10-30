@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-30T14:52:12+00:00",
+  "last_updated": "2026-10-30T20:18:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 126,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "f071021f6fa72a4c",
         "title": "AEP increases investment plan 30% to $100B on gen, transmission spending - Utility Dive",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 610,
-      "new_mentions_this_run": 16,
+      "count": 611,
+      "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "b4cbde969c08fa5f",
-        "title": "State Supreme Court blocks advocates from challenging Alabama Power’s billing formula - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejVjWjI0enp4ZFNrZUppR3R5bXRKUzFvcnYtZzVCQm1KcGZKMEduWGVPc3hhRGpfOE10Um9xLUlSRzdqRXpTMUNHam95aGNONjhPZWRmTW1xUng3elI0NlZLQ2N4LVVOeU8weGpmaGV2dlJPTjVfa01HZFVBUzhYems0ZWhCeUs5Z25hTWExZ1NnM1FRT1FfZlp1RGZ2TUJGaXlOWmpjVnl5Z2YxQ1J2SUM4V3hzWU15QUsxLVVTdFpNdFU?oc=5",
+        "id": "8a99c698d1323f85",
+        "title": "Alabama Power measures timber as Fenn Church neighbor formally reaches out to utility - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMnctdExXZ2dlOGRlZjFKamJCRVJrNUk3Y2stcVFjV2xDeS00Vi1icnFXcVVOdWRTajIzaG04Z09NQUYycnFFSWRObWdOX3NkLU1rbWZuZTRjNE9ITkRCbDhnOFlLSjNWWHJobnpsUVh2Yy1PRDZTUVdmU0ZMb0NGMTh3N1ZjbXVUek1mT0RZQWxtdkZvcm82NS05NXVPYXpITDFudklGNWdHOEt6d2F4ZTVHX0l3WUE?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "1819 News",
         "language": "English",
-        "published_at": "2026-10-30T14:40:00+00:00",
-        "summary": "State Supreme Court blocks advocates from challenging Alabama Power’s billing formula AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejVjWjI0enp4ZFNrZUppR3R5bXRKUzFvcnYtZzVCQm1KcGZKMEduWGVPc3hhRGpfOE10Um9xLUlSRzdqRXpTMUNHam95aGNONjhPZWRmTW1xUng3elI0NlZLQ2N4LVVOeU8weGpmaGV2dlJPTjVfa01HZFVBUzhYems0ZWhCeUs5Z25hTWExZ1NnM1FRT1FfZlp1RGZ2TUJGaXlOWmpjVnl5Z2YxQ1J2SUM4V3hzWU15QUsxLVVTdFpNdFU?oc=5\" target=\"_blank\">State Supreme Court blocks advocates from challenging Alabama Power’s billing formula</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-10-30T19:04:44+00:00",
+        "summary": "Alabama Power measures timber as Fenn Church neighbor formally reaches out to utility 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOMnctdExXZ2dlOGRlZjFKamJCRVJrNUk3Y2stcVFjV2xDeS00Vi1icnFXcVVOdWRTajIzaG04Z09NQUYycnFFSWRObWdOX3NkLU1rbWZuZTRjNE9ITkRCbDhnOFlLSjNWWHJobnpsUVh2Yy1PRDZTUVdmU0ZMb0NGMTh3N1ZjbXVUek1mT0RZQWxtdkZvcm82NS05NXVPYXpITDFudklGNWdHOEt6d2F4ZTVHX0l3WUE?oc=5\" target=\"_blank\">Alabama Power measures timber as Fenn Church neighbor formally reaches out to utility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-30T14:51:45+00:00"
+        "collected_at": "2026-10-30T20:18:00+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 114,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "f5a84c3afee1bb1b",
         "title": "Nuclear power could more than triple by 2060, UN agency says - Boston Herald",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1002,
-      "new_mentions_this_run": 25,
+      "count": 1003,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "70b0a01d2ce3095b",
-        "title": "Outside climate groups boost Georgia green group’s effort in PSC election - The Atlanta Journal-Constitution",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR2JKSW5vWGVLOTVfSHpNU0ZMQ2p0SUx1MUJJdEk4cVFEZ19KemV4MWxpZDA4bGxvOVRJdGpESGFmU19Qb1ZSUEJZMWR0NXowdEJwbWRyVl9FamozUjh6czJzYkxXQVVDbml1Z3dfNnZBbDREcXo2emZqdmRCMy1RbGk3OA?oc=5",
+        "id": "0837b69d1bd68126",
+        "title": "Georgia Power names new CEO as utility embarks on huge expansion - The Atlanta Journal-Constitution",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXcGhWa191WXlpWGhDeHV1VnNVSjFTblI0UFRYaHd1bnVRWWY0X0Y4eFNMQ0dfdlNIODNVc0twUmRYMWczOENWc2VlZXFnek9KZlAyOWtraWEtdTJOcXJZeWhDdzdpcTgwaHFzUGplT1hDTkE?oc=5",
         "domain": "news.google.com",
         "source": "The Atlanta Journal-Constitution",
         "language": "English",
-        "published_at": "2026-10-30T09:00:00+00:00",
-        "summary": "Outside climate groups boost Georgia green group’s effort in PSC election The Atlanta Journal-Constitution",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPR2JKSW5vWGVLOTVfSHpNU0ZMQ2p0SUx1MUJJdEk4cVFEZ19KemV4MWxpZDA4bGxvOVRJdGpESGFmU19Qb1ZSUEJZMWR0NXowdEJwbWRyVl9FamozUjh6czJzYkxXQVVDbml1Z3dfNnZBbDREcXo2emZqdmRCMy1RbGk3OA?oc=5\" target=\"_blank\">Outside climate groups boost Georgia green group’s effort in PSC election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Journal-Constitution</font>",
+        "published_at": "2026-10-30T15:52:43+00:00",
+        "summary": "Georgia Power names new CEO as utility embarks on huge expansion The Atlanta Journal-Constitution",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBXcGhWa191WXlpWGhDeHV1VnNVSjFTblI0UFRYaHd1bnVRWWY0X0Y4eFNMQ0dfdlNIODNVc0twUmRYMWczOENWc2VlZXFnek9KZlAyOWtraWEtdTJOcXJZeWhDdzdpcTgwaHFzUGplT1hDTkE?oc=5\" target=\"_blank\">Georgia Power names new CEO as utility embarks on huge expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Journal-Constitution</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-30T14:52:01+00:00"
+        "collected_at": "2026-10-30T20:18:17+00:00"
       }
     },
     {
