@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-31T19:39:59+00:00",
+  "last_updated": "2026-10-31T22:58:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 127,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "e492f2069ff5d83f",
         "title": "AEP Taps Jacobs, WSP for $37B Power Transmission Buildout - Engineering News-Record",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1004,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "0837b69d1bd68126",
         "title": "Georgia Power names new CEO as utility embarks on huge expansion - The Atlanta Journal-Constitution",
