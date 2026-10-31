@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-10-31T14:12:07+00:00",
+  "last_updated": "2026-10-31T19:39:49+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1003,
+  "count": 1004,
   "mentions": [
     {
       "id": "0837b69d1bd68126",
@@ -229,6 +229,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-22T09:05:07+00:00"
+    },
+    {
+      "id": "f7868d7ae4ec7b85",
+      "title": "Georgia, It’s Time to Vote for Lower Energy Bills - Southern Alliance for Clean Energy",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU0pPUW9jaVh5bDlhMHlxajhqU0pjUV8wT0ZadGU4bkFpdERLaU5yWTJ0OVd0ckQ2c2N3dUVqdEhzR093a1dRNjFUOEFaUmRIa1JLZmFtdnM1UTUzTmNtWjJpQV9YeDhjMFpCcUFWbzRwZGZHX2RFSHpEc0ZuWmY1UWYyZw?oc=5",
+      "domain": "news.google.com",
+      "source": "Southern Alliance for Clean Energy",
+      "language": "English",
+      "published_at": "2026-10-20T14:42:32+00:00",
+      "summary": "Georgia, It’s Time to Vote for Lower Energy Bills Southern Alliance for Clean Energy",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNU0pPUW9jaVh5bDlhMHlxajhqU0pjUV8wT0ZadGU4bkFpdERLaU5yWTJ0OVd0ckQ2c2N3dUVqdEhzR093a1dRNjFUOEFaUmRIa1JLZmFtdnM1UTUzTmNtWjJpQV9YeDhjMFpCcUFWbzRwZGZHX2RFSHpEc0ZuWmY1UWYyZw?oc=5\" target=\"_blank\">Georgia, It’s Time to Vote for Lower Energy Bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southern Alliance for Clean Energy</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-31T19:39:49+00:00"
     },
     {
       "id": "a6517f7db03f435b",

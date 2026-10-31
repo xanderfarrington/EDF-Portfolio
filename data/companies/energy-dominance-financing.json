@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-10-31T14:12:21+00:00",
+  "last_updated": "2026-10-31T19:39:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 71,
+  "count": 72,
   "mentions": [
     {
       "id": "00e82ed3cff0cf56",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-30T07:57:57+00:00"
+    },
+    {
+      "id": "51ff2dee2ca45a9b",
+      "title": "Trump Hands Alliant Energy $5.1 Billion in Loans Ahead of Key Midterm Races in Iowa and Wisconsin (opinion) - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWlsaWJ4VGlLck9mbkdDNWJHQXVYX095TmJ4RTVYdW9zYmp6MTViNGo5SnFic2pQLVpXaVhoaHJtSGlaLVNnd0RtNlE5NC1TZUJ0SktCODRfN3I3VjV2NG9TS0ZfMDNsMWhvdkRFTWowNEpUa3JGM0l3VFBXTG1FVUhlM2Jxck5tYlA0eDZmSi1wQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-10-28T21:35:50+00:00",
+      "summary": "Trump Hands Alliant Energy $5.1 Billion in Loans Ahead of Key Midterm Races in Iowa and Wisconsin (opinion) Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWlsaWJ4VGlLck9mbkdDNWJHQXVYX095TmJ4RTVYdW9zYmp6MTViNGo5SnFic2pQLVpXaVhoaHJtSGlaLVNnd0RtNlE5NC1TZUJ0SktCODRfN3I3VjV2NG9TS0ZfMDNsMWhvdkRFTWowNEpUa3JGM0l3VFBXTG1FVUhlM2Jxck5tYlA0eDZmSi1wQQ?oc=5\" target=\"_blank\">Trump Hands Alliant Energy $5.1 Billion in Loans Ahead of Key Midterm Races in Iowa and Wisconsin (opinion)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-31T19:39:54+00:00"
     },
     {
       "id": "e3bd4dfe2a8a3978",
