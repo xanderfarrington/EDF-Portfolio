@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-30T20:18:00+00:00",
+  "last_updated": "2026-10-31T01:20:24+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 611,
+  "count": 612,
   "mentions": [
     {
       "id": "8a99c698d1323f85",
@@ -159,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-27T03:17:01+00:00"
+    },
+    {
+      "id": "91d229158db9f622",
+      "title": "Calera property owner says crews are 50 yards from his land - WVTM Channel 13",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnZNZU1ZWnVwSm5nYUdBaEpiczdrSGZReXdiNnN2YWE3aDdoUmZueGZNSTRCRVU2cWo0QUVLNHpqOHgzVVVKbVN6RWpxeFdpbm9QTi03YU1OdEtQbC1nOTV2UHFjelF6ZnFUYmtSMlZtYXRpVjNZS3NERzEyVkhzOU80TVg2OTRyYnMzSmdSOG1tVUMx?oc=5",
+      "domain": "news.google.com",
+      "source": "WVTM Channel 13",
+      "language": "English",
+      "published_at": "2026-10-27T00:22:00+00:00",
+      "summary": "Calera property owner says crews are 50 yards from his land WVTM Channel 13",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnZNZU1ZWnVwSm5nYUdBaEpiczdrSGZReXdiNnN2YWE3aDdoUmZueGZNSTRCRVU2cWo0QUVLNHpqOHgzVVVKbVN6RWpxeFdpbm9QTi03YU1OdEtQbC1nOTV2UHFjelF6ZnFUYmtSMlZtYXRpVjNZS3NERzEyVkhzOU80TVg2OTRyYnMzSmdSOG1tVUMx?oc=5\" target=\"_blank\">Calera property owner says crews are 50 yards from his land</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM Channel 13</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-31T01:20:24+00:00"
     },
     {
       "id": "5fd27993ae01bc0d",

@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-10-30T20:17:55+00:00",
+  "last_updated": "2026-10-31T01:20:18+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 126,
+  "count": 127,
   "mentions": [
+    {
+      "id": "e492f2069ff5d83f",
+      "title": "AEP Taps Jacobs, WSP for $37B Power Transmission Buildout - Engineering News-Record",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORUhmdWlRSnYzaXVwdGFvZEdadkIzWGpydy1RS0Z4TFNCTVpfQi1tNnBGVHloRy1SYmMtTGtpWm9vT0tqaUxubDRQMTJ4VmFlZmNQNUd3eTBJeFBqTm9CeUxnb01MRzB5QkpZSTdKOXlCYzFVX2N2ZXpqVl9OQml0OEJRU0Z1a0xQQUhBZXE3VUJZZkd4?oc=5",
+      "domain": "news.google.com",
+      "source": "Engineering News-Record",
+      "language": "English",
+      "published_at": "2026-10-30T19:18:13+00:00",
+      "summary": "AEP Taps Jacobs, WSP for $37B Power Transmission Buildout Engineering News-Record",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORUhmdWlRSnYzaXVwdGFvZEdadkIzWGpydy1RS0Z4TFNCTVpfQi1tNnBGVHloRy1SYmMtTGtpWm9vT0tqaUxubDRQMTJ4VmFlZmNQNUd3eTBJeFBqTm9CeUxnb01MRzB5QkpZSTdKOXlCYzFVX2N2ZXpqVl9OQml0OEJRU0Z1a0xQQUhBZXE3VUJZZkd4?oc=5\" target=\"_blank\">AEP Taps Jacobs, WSP for $37B Power Transmission Buildout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engineering News-Record</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-10-31T01:20:18+00:00"
+    },
     {
       "id": "f071021f6fa72a4c",
       "title": "AEP increases investment plan 30% to $100B on gen, transmission spending - Utility Dive",
