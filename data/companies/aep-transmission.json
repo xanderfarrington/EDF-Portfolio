@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-01T10:57:27+00:00",
+  "last_updated": "2026-11-01T17:29:33+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 127,
+  "count": 128,
   "mentions": [
     {
       "id": "e492f2069ff5d83f",
@@ -145,6 +145,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-28T14:45:38+00:00"
+    },
+    {
+      "id": "63bbb4d6cf1c7187",
+      "title": "American Electric Power (AEP) Stock Price, News & Analysis - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91b1V1Y2FOWmc5WlNXdnVKZ3FLYnQzQmRfS2Y4QUZfZWg5M25BR1RuV2Z2ZlRCcVIzTkJMSVdXeVJWaGRKLXJlWWwwOHo?oc=5",
+      "domain": "news.google.com",
+      "source": "24/7 Wall St.",
+      "language": "English",
+      "published_at": "2026-10-28T10:59:45+00:00",
+      "summary": "American Electric Power (AEP) Stock Price, News & Analysis 24/7 Wall St.",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE91b1V1Y2FOWmc5WlNXdnVKZ3FLYnQzQmRfS2Y4QUZfZWg5M25BR1RuV2Z2ZlRCcVIzTkJMSVdXeVJWaGRKLXJlWWwwOHo?oc=5\" target=\"_blank\">American Electric Power (AEP) Stock Price, News & Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-01T17:29:33+00:00"
     },
     {
       "id": "3700236f5765123e",

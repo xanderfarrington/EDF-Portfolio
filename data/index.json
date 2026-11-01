@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-01T10:57:59+00:00",
+  "last_updated": "2026-11-01T17:30:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 127,
-      "new_mentions_this_run": 9,
+      "count": 128,
+      "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "e492f2069ff5d83f",
         "title": "AEP Taps Jacobs, WSP for $37B Power Transmission Buildout - Engineering News-Record",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 613,
-      "new_mentions_this_run": 15,
+      "count": 614,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "8a99c698d1323f85",
         "title": "Alabama Power measures timber as Fenn Church neighbor formally reaches out to utility - 1819 News",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 72,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "00e82ed3cff0cf56",
         "title": "Trump hands a booming utility in Iowa and Wisconsin $5.1 billion in loans less than a week before the election - Reason Magazine",

@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-01T10:57:32+00:00",
+  "last_updated": "2026-11-01T17:29:39+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 613,
+  "count": 614,
   "mentions": [
     {
       "id": "8a99c698d1323f85",
@@ -131,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-29T14:52:32+00:00"
+    },
+    {
+      "id": "92f77d1f95df25f5",
+      "title": "A homeowner’s last stand against Alabama Power - Alabama Reflector",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcC1xUGo5OEFYTDBrWGpuYkRSNFpIQmFleUVJSkZPTTBaQnN6N0JUMzlRSmhPQUZaS3VaQmFZLTJGa1Rpdy1XVkVsRWppTTBlXzJ4S2NUdEthT3dZdUpIdFlyX3JnazZFOEo5Z0tkanJLazRkT0p5MGdCb1FFQ2xrWHpXdGVDMDZrd3NxQXhjWQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Alabama Reflector",
+      "language": "English",
+      "published_at": "2026-10-27T10:38:42+00:00",
+      "summary": "A homeowner’s last stand against Alabama Power Alabama Reflector",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOcC1xUGo5OEFYTDBrWGpuYkRSNFpIQmFleUVJSkZPTTBaQnN6N0JUMzlRSmhPQUZaS3VaQmFZLTJGa1Rpdy1XVkVsRWppTTBlXzJ4S2NUdEthT3dZdUpIdFlyX3JnazZFOEo5Z0tkanJLazRkT0p5MGdCb1FFQ2xrWHpXdGVDMDZrd3NxQXhjWQ?oc=5\" target=\"_blank\">A homeowner’s last stand against Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Reflector</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-01T17:29:39+00:00"
     },
     {
       "id": "b5efbdecda112dd8",
