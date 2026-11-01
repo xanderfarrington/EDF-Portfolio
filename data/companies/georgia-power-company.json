@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-01T17:29:56+00:00",
+  "last_updated": "2026-11-01T21:35:04+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1004,
+  "count": 1005,
   "mentions": [
     {
       "id": "0837b69d1bd68126",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-30T20:18:17+00:00"
+    },
+    {
+      "id": "33741297bc7f5890",
+      "title": "$14 million program will fund energy efficiency repairs in metro Atlanta county - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNEZyQ0h4dzZjUktkcXNXUVNHV1ZQM1dhYmJPMzAzN3FUa2h0SmJUb0RhZkQxZUpQRFJQS1piazRlU0dfNDVHVjk4RFNudkNVd2k4TU5qdklTNU9SdDNGZGNOby1hdW1sVFM0UkJFZzdvMHZ5ODFYWkF2RWRFdXdkUS1veEUxc29YVXZEbVlzQ09feVFKRHhJakpLYTJEbzh6WDF5RzlvcHF6S2ZIcHhyZkNZV3FQMGJmdURsY25aTEdIaHA4WHpPb3JtdWxldmdXanR6WGZfSUNmLXo2bHdSRURUTFpSZ9IB-gFBVV95cUxQUkc5QzQ4VlRFblRxUHpqTTNfWkd0MHdyVzhOSjQxVFdTOXRFWlpSWGx5eDFxR2FlWjB5R0hlN09WdnJTNXB3QkpmVTZGS2h6b1k2dE5MaG1wMWNJMW1VRmZoU2FhcGIxRVdIX0J1Rlg1dzdUVTYxZm11U1pYTkRSRHNpWVJRbDk5d3NCcjFsZ2hsRTVHbFh6MHdfQzc4a2YxMlZ5LUl2TUh1bVc1Y2tMbFc1b1ZhMUU2X1dFLXRiMTAzRTVHS0VvWE9ZUUdGOVE5amljbERGQ3BzeDl1VmJXU2ZiME5CTVpHWDlFbDVTY0tCOU45aHJ1R0tn?oc=5",
+      "domain": "news.google.com",
+      "source": "WSB-TV",
+      "language": "English",
+      "published_at": "2026-10-30T13:56:31+00:00",
+      "summary": "$14 million program will fund energy efficiency repairs in metro Atlanta county WSB-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNEZyQ0h4dzZjUktkcXNXUVNHV1ZQM1dhYmJPMzAzN3FUa2h0SmJUb0RhZkQxZUpQRFJQS1piazRlU0dfNDVHVjk4RFNudkNVd2k4TU5qdklTNU9SdDNGZGNOby1hdW1sVFM0UkJFZzdvMHZ5ODFYWkF2RWRFdXdkUS1veEUxc29YVXZEbVlzQ09feVFKRHhJakpLYTJEbzh6WDF5RzlvcHF6S2ZIcHhyZkNZV3FQMGJmdURsY25aTEdIaHA4WHpPb3JtdWxldmdXanR6WGZfSUNmLXo2bHdSRURUTFpSZ9IB-gFBVV95cUxQUkc5QzQ4VlRFblRxUHpqTTNfWkd0MHdyVzhOSjQxVFdTOXRFWlpSWGx5eDFxR2FlWjB5R0hlN09WdnJTNXB3QkpmVTZGS2h6b1k2dE5MaG1wMWNJMW1VRmZoU2FhcGIxRVdIX0J1Rlg1dzdUVTYxZm11U1pYTkRSRHNpWVJRbDk5d3NCcjFsZ2hsRTVHbFh6MHdfQzc4a2YxMlZ5LUl2TUh1bVc1Y2tMbFc1b1ZhMUU2X1dFLXRiMTAzRTVHS0VvWE9ZUUdGOVE5amljbERGQ3BzeDl1VmJXU2ZiME5CTVpHWDlFbDVTY0tCOU45aHJ1R0tn?oc=5\" target=\"_blank\">$14 million program will fund energy efficiency repairs in metro Atlanta county</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-01T21:35:04+00:00"
     },
     {
       "id": "70b0a01d2ce3095b",
