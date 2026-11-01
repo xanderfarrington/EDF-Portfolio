@@ -2,10 +2,24 @@
   "company": "Crane Restart",
   "slug": "crane-restart",
   "query": "\"Crane Restart\" OR \"Crane Clean Energy Center\" OR \"Three Mile Island restart\"",
-  "last_updated": "2026-10-31T22:58:11+00:00",
+  "last_updated": "2026-11-01T03:47:05+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 114,
+  "count": 115,
   "mentions": [
+    {
+      "id": "1d933dde4be62af2",
+      "title": "Nuclear power could more than triple by 2060, UN agency says - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjNhelJSZmhIVkJoX09mdDlKUGdXZGpmR015UHZScnNnQ1ZoM09JdVh3cmtWdE9qcjY5U1NCblNwWG55T2wxWmJ6VlJNb3hlWGpqb1cxZ2VBMjgxck0wSGZ2M1I5QjhSd1M5VnhPT0ZFZ0FUUTBfSlRQS3NwWXRKUUZWZ3ZnNTF3czRyd0haMVBfLUlyV1d6M1d5YkpGNjNzQWZtd2xvZVRURHhBdlow0gG8AUFVX3lxTFBwMW9Tb2ZNTThQNUJNNHdlNFFZS1IxV09pbG5PLUxtN2piV0s1cXo2eHBLLUFjQTgtTlFJQ21YX2tyYkpDWVNDSUtCOXB5R1cxODhqU0t5cHBVTTVQR20xYWM5QzNLN1ljWERJVEgyc0U0eF93MWNtRTR5NXYtQW9GZEp6MktuR3NhRWF0SUZ6aV9sclBmUWRLTGIxNEt0WEhOelhjSmp5NjdQYlBRa05yX053QjNYZ2NRZUpt?oc=5",
+      "domain": "news.google.com",
+      "source": "The New Indian Express",
+      "language": "English",
+      "published_at": "2026-10-24T05:17:20+00:00",
+      "summary": "Nuclear power could more than triple by 2060, UN agency says The New Indian Express",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjNhelJSZmhIVkJoX09mdDlKUGdXZGpmR015UHZScnNnQ1ZoM09JdVh3cmtWdE9qcjY5U1NCblNwWG55T2wxWmJ6VlJNb3hlWGpqb1cxZ2VBMjgxck0wSGZ2M1I5QjhSd1M5VnhPT0ZFZ0FUUTBfSlRQS3NwWXRKUUZWZ3ZnNTF3czRyd0haMVBfLUlyV1d6M1d5YkpGNjNzQWZtd2xvZVRURHhBdlow0gG8AUFVX3lxTFBwMW9Tb2ZNTThQNUJNNHdlNFFZS1IxV09pbG5PLUxtN2piV0s1cXo2eHBLLUFjQTgtTlFJQ21YX2tyYkpDWVNDSUtCOXB5R1cxODhqU0t5cHBVTTVQR20xYWM5QzNLN1ljWERJVEgyc0U0eF93MWNtRTR5NXYtQW9GZEp6MktuR3NhRWF0SUZ6aV9sclBmUWRLTGIxNEt0WEhOelhjSmp5NjdQYlBRa05yX053QjNYZ2NRZUpt?oc=5\" target=\"_blank\">Nuclear power could more than triple by 2060, UN agency says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-01T03:47:05+00:00"
+    },
     {
       "id": "f5a84c3afee1bb1b",
       "title": "Nuclear power could more than triple by 2060, UN agency says - Boston Herald",

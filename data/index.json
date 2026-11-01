@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T22:58:27+00:00",
+  "last_updated": "2026-11-01T03:47:21+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 612,
-      "new_mentions_this_run": 16,
+      "count": 613,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "8a99c698d1323f85",
         "title": "Alabama Power measures timber as Fenn Church neighbor formally reaches out to utility - 1819 News",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -68,21 +68,21 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 114,
-      "new_mentions_this_run": 0,
+      "count": 115,
+      "new_mentions_this_run": 2,
       "latest_mention": {
-        "id": "f5a84c3afee1bb1b",
-        "title": "Nuclear power could more than triple by 2060, UN agency says - Boston Herald",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zcF8wUkNiVm5mQWpUc1pWd3NLX1RPemkwaE03dVVQczhSaTNMVlR3UFpsSXFoTWZaV1lHWEpXSGs5UDVYN2M2My1tNlUxRVZqSzlWQVRia3lIZXZrdy1MZzkyQW9WYllEajlrQ3ZieGktRUQzLWRyNA?oc=5",
+        "id": "1d933dde4be62af2",
+        "title": "Nuclear power could more than triple by 2060, UN agency says - The New Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjNhelJSZmhIVkJoX09mdDlKUGdXZGpmR015UHZScnNnQ1ZoM09JdVh3cmtWdE9qcjY5U1NCblNwWG55T2wxWmJ6VlJNb3hlWGpqb1cxZ2VBMjgxck0wSGZ2M1I5QjhSd1M5VnhPT0ZFZ0FUUTBfSlRQS3NwWXRKUUZWZ3ZnNTF3czRyd0haMVBfLUlyV1d6M1d5YkpGNjNzQWZtd2xvZVRURHhBdlow0gG8AUFVX3lxTFBwMW9Tb2ZNTThQNUJNNHdlNFFZS1IxV09pbG5PLUxtN2piV0s1cXo2eHBLLUFjQTgtTlFJQ21YX2tyYkpDWVNDSUtCOXB5R1cxODhqU0t5cHBVTTVQR20xYWM5QzNLN1ljWERJVEgyc0U0eF93MWNtRTR5NXYtQW9GZEp6MktuR3NhRWF0SUZ6aV9sclBmUWRLTGIxNEt0WEhOelhjSmp5NjdQYlBRa05yX053QjNYZ2NRZUpt?oc=5",
         "domain": "news.google.com",
-        "source": "Boston Herald",
+        "source": "The New Indian Express",
         "language": "English",
-        "published_at": "2026-10-23T23:40:23+00:00",
-        "summary": "Nuclear power could more than triple by 2060, UN agency says Boston Herald",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5zcF8wUkNiVm5mQWpUc1pWd3NLX1RPemkwaE03dVVQczhSaTNMVlR3UFpsSXFoTWZaV1lHWEpXSGs5UDVYN2M2My1tNlUxRVZqSzlWQVRia3lIZXZrdy1MZzkyQW9WYllEajlrQ3ZieGktRUQzLWRyNA?oc=5\" target=\"_blank\">Nuclear power could more than triple by 2060, UN agency says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boston Herald</font>",
+        "published_at": "2026-10-24T05:17:20+00:00",
+        "summary": "Nuclear power could more than triple by 2060, UN agency says The New Indian Express",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjNhelJSZmhIVkJoX09mdDlKUGdXZGpmR015UHZScnNnQ1ZoM09JdVh3cmtWdE9qcjY5U1NCblNwWG55T2wxWmJ6VlJNb3hlWGpqb1cxZ2VBMjgxck0wSGZ2M1I5QjhSd1M5VnhPT0ZFZ0FUUTBfSlRQS3NwWXRKUUZWZ3ZnNTF3czRyd0haMVBfLUlyV1d6M1d5YkpGNjNzQWZtd2xvZVRURHhBdlow0gG8AUFVX3lxTFBwMW9Tb2ZNTThQNUJNNHdlNFFZS1IxV09pbG5PLUxtN2piV0s1cXo2eHBLLUFjQTgtTlFJQ21YX2tyYkpDWVNDSUtCOXB5R1cxODhqU0t5cHBVTTVQR20xYWM5QzNLN1ljWERJVEgyc0U0eF93MWNtRTR5NXYtQW9GZEp6MktuR3NhRWF0SUZ6aV9sclBmUWRLTGIxNEt0WEhOelhjSmp5NjdQYlBRa05yX053QjNYZ2NRZUpt?oc=5\" target=\"_blank\">Nuclear power could more than triple by 2060, UN agency says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-26T09:34:05+00:00"
+        "collected_at": "2026-11-01T03:47:05+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1004,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "0837b69d1bd68126",
         "title": "Georgia Power names new CEO as utility embarks on huge expansion - The Atlanta Journal-Constitution",

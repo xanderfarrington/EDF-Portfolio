@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-10-31T22:58:00+00:00",
+  "last_updated": "2026-11-01T03:46:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 612,
+  "count": 613,
   "mentions": [
     {
       "id": "8a99c698d1323f85",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-30T14:51:45+00:00"
+    },
+    {
+      "id": "a3688f85453d3369",
+      "title": "Alabama Power continues work on man's property - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWTJzeFd1Z2FYbzJlMGstOVp2cEJBdWR5dG9ERHg2YmJYbjVTRWhoY2Z2Qi1STmZPc2ZfR3dWZ2RxWGNPNmNvYU5NUU0wQ3A1enU2b2NWVHRzdjJHVTV5eDduWFlGeDhQRTltNHB2ZGRpQVdwU2tzajFodjczSzc5T3VSSWJjNnZ1WjN5UnlZbw?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-10-28T22:16:30+00:00",
+      "summary": "Alabama Power continues work on man's property Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPWTJzeFd1Z2FYbzJlMGstOVp2cEJBdWR5dG9ERHg2YmJYbjVTRWhoY2Z2Qi1STmZPc2ZfR3dWZ2RxWGNPNmNvYU5NUU0wQ3A1enU2b2NWVHRzdjJHVTV5eDduWFlGeDhQRTltNHB2ZGRpQVdwU2tzajFodjczSzc5T3VSSWJjNnZ1WjN5UnlZbw?oc=5\" target=\"_blank\">Alabama Power continues work on man's property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-01T03:46:54+00:00"
     },
     {
       "id": "edce036753460af3",
