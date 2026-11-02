@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-01T21:34:47+00:00",
+  "last_updated": "2026-11-02T01:10:21+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 615,
+  "count": 616,
   "mentions": [
     {
       "id": "c69efefd752ad356",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-01T21:34:47+00:00"
+    },
+    {
+      "id": "a4c7830c3b4c7c43",
+      "title": "A homeowner’s last stand against Alabama Power - Chattanooga Times Free Press",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFQzdXBDOWRDb0tFVElNWjhnNExxMkpmbm5PcnhiQkNLdDlkOFIyM0hYN1MzdXpDc1VkXy1FOWJGeVh3aGhQSEdOZHJCQWp2RFllV1dXYXpxLVJfU3p6WGE4bTg0LUt1ejVEZko0VXQ4anpCc1RlQlh2T0w1WFk3WGttZjFwV0s4X3pDSHVGNkxBTlk3SkRkWTNB?oc=5",
+      "domain": "news.google.com",
+      "source": "Chattanooga Times Free Press",
+      "language": "English",
+      "published_at": "2026-11-01T16:50:22+00:00",
+      "summary": "A homeowner’s last stand against Alabama Power Chattanooga Times Free Press",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFQzdXBDOWRDb0tFVElNWjhnNExxMkpmbm5PcnhiQkNLdDlkOFIyM0hYN1MzdXpDc1VkXy1FOWJGeVh3aGhQSEdOZHJCQWp2RFllV1dXYXpxLVJfU3p6WGE4bTg0LUt1ejVEZko0VXQ4anpCc1RlQlh2T0w1WFk3WGttZjFwV0s4X3pDSHVGNkxBTlk3SkRkWTNB?oc=5\" target=\"_blank\">A homeowner’s last stand against Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chattanooga Times Free Press</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-02T01:10:20+00:00"
     },
     {
       "id": "8a99c698d1323f85",

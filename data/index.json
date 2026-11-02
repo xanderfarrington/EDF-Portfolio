@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T21:35:14+00:00",
+  "last_updated": "2026-11-02T01:10:47+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 615,
-      "new_mentions_this_run": 13,
+      "count": 616,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "c69efefd752ad356",
         "title": "A homeowner’s last stand against Alabama Power - Chattanooga Times Free Press",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 115,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "1d933dde4be62af2",
         "title": "Nuclear power could more than triple by 2060, UN agency says - The New Indian Express",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 72,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "00e82ed3cff0cf56",
         "title": "Trump hands a booming utility in Iowa and Wisconsin $5.1 billion in loans less than a week before the election - Reason Magazine",
