@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-11-02T08:44:19+00:00",
+  "last_updated": "2026-11-02T19:56:05+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 128,
-      "new_mentions_this_run": 7,
+      "count": 129,
+      "new_mentions_this_run": 11,
       "latest_mention": {
-        "id": "e492f2069ff5d83f",
-        "title": "AEP Taps Jacobs, WSP for $37B Power Transmission Buildout - Engineering News-Record",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORUhmdWlRSnYzaXVwdGFvZEdadkIzWGpydy1RS0Z4TFNCTVpfQi1tNnBGVHloRy1SYmMtTGtpWm9vT0tqaUxubDRQMTJ4VmFlZmNQNUd3eTBJeFBqTm9CeUxnb01MRzB5QkpZSTdKOXlCYzFVX2N2ZXpqVl9OQml0OEJRU0Z1a0xQQUhBZXE3VUJZZkd4?oc=5",
+        "id": "53b574e9d7e40c4b",
+        "title": "Jacobs Selected for AEP’s $37B Transmission Program - Construction Owners",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDhUdjdlR0NuczVpb3JoVzNONXhxckNnUEhxd01FZUZYdk45bDVlMG9WbUlqbXZ1U0p6YV9aNE5nbXFsZkJLZXl6QkVTMVhMMXl1VXYwaUZYcUl2OHF0WE8zTFNVSWF2Z1F2VE45aHBVbEpGRzhfTkctZTZzWWFPMmNjLUN2S0JxazkxcnE3WC1XX1d0dlNrQ0pGZWI5YUQ2dFNQYkJNR2I?oc=5",
         "domain": "news.google.com",
-        "source": "Engineering News-Record",
+        "source": "Construction Owners",
         "language": "English",
-        "published_at": "2026-10-30T19:18:13+00:00",
-        "summary": "AEP Taps Jacobs, WSP for $37B Power Transmission Buildout Engineering News-Record",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORUhmdWlRSnYzaXVwdGFvZEdadkIzWGpydy1RS0Z4TFNCTVpfQi1tNnBGVHloRy1SYmMtTGtpWm9vT0tqaUxubDRQMTJ4VmFlZmNQNUd3eTBJeFBqTm9CeUxnb01MRzB5QkpZSTdKOXlCYzFVX2N2ZXpqVl9OQml0OEJRU0Z1a0xQQUhBZXE3VUJZZkd4?oc=5\" target=\"_blank\">AEP Taps Jacobs, WSP for $37B Power Transmission Buildout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engineering News-Record</font>",
+        "published_at": "2026-11-02T10:31:59+00:00",
+        "summary": "Jacobs Selected for AEP’s $37B Transmission Program Construction Owners",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDhUdjdlR0NuczVpb3JoVzNONXhxckNnUEhxd01FZUZYdk45bDVlMG9WbUlqbXZ1U0p6YV9aNE5nbXFsZkJLZXl6QkVTMVhMMXl1VXYwaUZYcUl2OHF0WE8zTFNVSWF2Z1F2VE45aHBVbEpGRzhfTkctZTZzWWFPMmNjLUN2S0JxazkxcnE3WC1XX1d0dlNrQ0pGZWI5YUQ2dFNQYkJNR2I?oc=5\" target=\"_blank\">Jacobs Selected for AEP’s $37B Transmission Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Owners</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-31T01:20:18+00:00"
+        "collected_at": "2026-11-02T19:55:33+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 617,
-      "new_mentions_this_run": 23,
+      "count": 619,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "c3888cbfeeafce9d",
-        "title": "Alabama Power Co. (ALPPRO) Seasonal returns chart - Yahoo Finance Australia",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpNUVwNGNpMlNWSXBqbUNWMllydU5EOGFvQ01lZ0YtQWpBcXJoUFlhUGdES3RST1lScUpEOTJDX1NtN2stXzhrWkdKSWc3Z1lHMUVqRDkxT1BuVVB3MjVQdnVudWk?oc=5",
+        "id": "584f8e29a9a93b8b",
+        "title": "Alabama Power plan to demolish structure next to Powell Avenue substation stalls over wall design - BirminghamWatch",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRlNsNXNKWnJDVWlTUEJxelc2VEpuNlhqbkhvYTduYWt0Q204dFRfblBfaGpwazBkek8tcFlROXIzQUp4STZYN1U4d1k3QlNfbDZEWDV5UjJyd3UwMTRibnJQVkFUVDM5dWw5dFZkdDQtNTdOZkV4eFF4ajQ5SlFXSFlRUVpyY3A2ZWlfOVdueU9lZmZ6NWt3UGRFeHotUEZKM1FjSHdSd2FCQkxrT3JLVmNsSnVuZlk?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo Finance Australia",
+        "source": "BirminghamWatch",
         "language": "English",
-        "published_at": "2026-11-02T03:03:15+00:00",
-        "summary": "Alabama Power Co. (ALPPRO) Seasonal returns chart Yahoo Finance Australia",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpNUVwNGNpMlNWSXBqbUNWMllydU5EOGFvQ01lZ0YtQWpBcXJoUFlhUGdES3RST1lScUpEOTJDX1NtN2stXzhrWkdKSWc3Z1lHMUVqRDkxT1BuVVB3MjVQdnVudWk?oc=5\" target=\"_blank\">Alabama Power Co. (ALPPRO) Seasonal returns chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Australia</font>",
+        "published_at": "2026-11-02T08:30:14+00:00",
+        "summary": "Alabama Power plan to demolish structure next to Powell Avenue substation stalls over wall design BirminghamWatch",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRlNsNXNKWnJDVWlTUEJxelc2VEpuNlhqbkhvYTduYWt0Q204dFRfblBfaGpwazBkek8tcFlROXIzQUp4STZYN1U4d1k3QlNfbDZEWDV5UjJyd3UwMTRibnJQVkFUVDM5dWw5dFZkdDQtNTdOZkV4eFF4ajQ5SlFXSFlRUVpyY3A2ZWlfOVdueU9lZmZ6NWt3UGRFeHotUEZKM1FjSHdSd2FCQkxrT3JLVmNsSnVuZlk?oc=5\" target=\"_blank\">Alabama Power plan to demolish structure next to Powell Avenue substation stalls over wall design</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BirminghamWatch</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-02T08:43:52+00:00"
+        "collected_at": "2026-11-02T19:55:38+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1006,
-      "new_mentions_this_run": 24,
+      "count": 1008,
+      "new_mentions_this_run": 9,
       "latest_mention": {
-        "id": "55f4b059bf589d47",
-        "title": "Southern Company Reshapes Leadership As Kim Greene Moves To Operations And Stan Connally Becomes Georgia Power CEO - Pulse 2.0",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTjhGdXNpTXR2V0ZwM21ZWEtsUjEtc3ZyV3Zka2UyNGEwV0tGZlRKcmpDMEx5WklNX1JvNi02UDhTNUxjdXVlZHFwbkthTnNvbGVOME4yc2QtYTI5MWxQM1ByaFZvbndicmNOT3BaUE9Cd191NW82XzEyNUhaX2NBMDVqaDRUSl8tSlpnMGlyR2FxeF9USXFld0RLZkM0bzhGa0VuOTFBZi1tUGhpY2hxMS1scnlTNllfTTk2cE5NNjN0ak5xRUxqc2Q2MXowQ0E?oc=5",
+        "id": "33521edb776519b9",
+        "title": "Georgia Power's free upgrades could cut seniors' bills, but roof leaks and mold can block the work - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1JybzZBclFUUDg4RFIzd2hMNnU3akR4dmhaOXFRbFdmbXc3ZXNWZE9vUmNVSVJfdjBTVE5oSkZIU0Y0ajdUYkhaamx5VVVPRXZORldNOS03ZHlxSml0bHExQVR5QmcwOXZuZzM2QmJtd05adVhJTnVfbl83THJTaGsxcW56aE9kMTc1VUtLbVpuQQ?oc=5",
         "domain": "news.google.com",
-        "source": "Pulse 2.0",
+        "source": "Yahoo",
         "language": "English",
-        "published_at": "2026-11-02T01:55:52+00:00",
-        "summary": "Southern Company Reshapes Leadership As Kim Greene Moves To Operations And Stan Connally Becomes Georgia Power CEO Pulse 2.0",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNTjhGdXNpTXR2V0ZwM21ZWEtsUjEtc3ZyV3Zka2UyNGEwV0tGZlRKcmpDMEx5WklNX1JvNi02UDhTNUxjdXVlZHFwbkthTnNvbGVOME4yc2QtYTI5MWxQM1ByaFZvbndicmNOT3BaUE9Cd191NW82XzEyNUhaX2NBMDVqaDRUSl8tSlpnMGlyR2FxeF9USXFld0RLZkM0bzhGa0VuOTFBZi1tUGhpY2hxMS1scnlTNllfTTk2cE5NNjN0ak5xRUxqc2Q2MXowQ0E?oc=5\" target=\"_blank\">Southern Company Reshapes Leadership As Kim Greene Moves To Operations And Stan Connally Becomes Georgia Power CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "published_at": "2026-11-02T19:19:00+00:00",
+        "summary": "Georgia Power's free upgrades could cut seniors' bills, but roof leaks and mold can block the work Yahoo",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1JybzZBclFUUDg4RFIzd2hMNnU3akR4dmhaOXFRbFdmbXc3ZXNWZE9vUmNVSVJfdjBTVE5oSkZIU0Y0ajdUYkhaamx5VVVPRXZORldNOS03ZHlxSml0bHExQVR5QmcwOXZuZzM2QmJtd05adVhJTnVfbl83THJTaGsxcW56aE9kMTc1VUtLbVpuQQ?oc=5\" target=\"_blank\">Georgia Power's free upgrades could cut seniors' bills, but roof leaks and mold can block the work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-02T08:44:09+00:00"
+        "collected_at": "2026-11-02T19:55:54+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 72,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "00e82ed3cff0cf56",
         "title": "Trump hands a booming utility in Iowa and Wisconsin $5.1 billion in loans less than a week before the election - Reason Magazine",

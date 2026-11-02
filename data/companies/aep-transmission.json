@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-02T08:43:47+00:00",
+  "last_updated": "2026-11-02T19:55:33+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 128,
+  "count": 129,
   "mentions": [
+    {
+      "id": "53b574e9d7e40c4b",
+      "title": "Jacobs Selected for AEP’s $37B Transmission Program - Construction Owners",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDhUdjdlR0NuczVpb3JoVzNONXhxckNnUEhxd01FZUZYdk45bDVlMG9WbUlqbXZ1U0p6YV9aNE5nbXFsZkJLZXl6QkVTMVhMMXl1VXYwaUZYcUl2OHF0WE8zTFNVSWF2Z1F2VE45aHBVbEpGRzhfTkctZTZzWWFPMmNjLUN2S0JxazkxcnE3WC1XX1d0dlNrQ0pGZWI5YUQ2dFNQYkJNR2I?oc=5",
+      "domain": "news.google.com",
+      "source": "Construction Owners",
+      "language": "English",
+      "published_at": "2026-11-02T10:31:59+00:00",
+      "summary": "Jacobs Selected for AEP’s $37B Transmission Program Construction Owners",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDhUdjdlR0NuczVpb3JoVzNONXhxckNnUEhxd01FZUZYdk45bDVlMG9WbUlqbXZ1U0p6YV9aNE5nbXFsZkJLZXl6QkVTMVhMMXl1VXYwaUZYcUl2OHF0WE8zTFNVSWF2Z1F2VE45aHBVbEpGRzhfTkctZTZzWWFPMmNjLUN2S0JxazkxcnE3WC1XX1d0dlNrQ0pGZWI5YUQ2dFNQYkJNR2I?oc=5\" target=\"_blank\">Jacobs Selected for AEP’s $37B Transmission Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Owners</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-02T19:55:33+00:00"
+    },
     {
       "id": "e492f2069ff5d83f",
       "title": "AEP Taps Jacobs, WSP for $37B Power Transmission Buildout - Engineering News-Record",
