@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T01:10:47+00:00",
+  "last_updated": "2026-11-02T08:44:19+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 616,
-      "new_mentions_this_run": 25,
+      "count": 617,
+      "new_mentions_this_run": 23,
       "latest_mention": {
-        "id": "c69efefd752ad356",
-        "title": "A homeowner’s last stand against Alabama Power - Chattanooga Times Free Press",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ0FNTEljSWRGM2txVW5WMElPUy1HVzJBSm5QSmhBNFd1eG8xd0ZwZkNJTmU5X091TjNzRTY0S1VSZ0FQLU85ZWdaQ2RNZFVtSmVSam9CZmdCOWVFX2picmIyM2I3M0tEQlNqaDVjRkJrZmpCNldJQU1zTXR3ZHpGSU5iQTZ4b19pU3VXUWpWRWs4eElIenAwWnpia2cwQndZdVJIQkNaN2xTaDNoSW81MFFycFpIWWEx?oc=5",
+        "id": "c3888cbfeeafce9d",
+        "title": "Alabama Power Co. (ALPPRO) Seasonal returns chart - Yahoo Finance Australia",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpNUVwNGNpMlNWSXBqbUNWMllydU5EOGFvQ01lZ0YtQWpBcXJoUFlhUGdES3RST1lScUpEOTJDX1NtN2stXzhrWkdKSWc3Z1lHMUVqRDkxT1BuVVB3MjVQdnVudWk?oc=5",
         "domain": "news.google.com",
-        "source": "Chattanooga Times Free Press",
+        "source": "Yahoo Finance Australia",
         "language": "English",
-        "published_at": "2026-11-01T16:50:22+00:00",
-        "summary": "A homeowner’s last stand against Alabama Power Chattanooga Times Free Press",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ0FNTEljSWRGM2txVW5WMElPUy1HVzJBSm5QSmhBNFd1eG8xd0ZwZkNJTmU5X091TjNzRTY0S1VSZ0FQLU85ZWdaQ2RNZFVtSmVSam9CZmdCOWVFX2picmIyM2I3M0tEQlNqaDVjRkJrZmpCNldJQU1zTXR3ZHpGSU5iQTZ4b19pU3VXUWpWRWs4eElIenAwWnpia2cwQndZdVJIQkNaN2xTaDNoSW81MFFycFpIWWEx?oc=5\" target=\"_blank\">A homeowner’s last stand against Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chattanooga Times Free Press</font>",
+        "published_at": "2026-11-02T03:03:15+00:00",
+        "summary": "Alabama Power Co. (ALPPRO) Seasonal returns chart Yahoo Finance Australia",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpNUVwNGNpMlNWSXBqbUNWMllydU5EOGFvQ01lZ0YtQWpBcXJoUFlhUGdES3RST1lScUpEOTJDX1NtN2stXzhrWkdKSWc3Z1lHMUVqRDkxT1BuVVB3MjVQdnVudWk?oc=5\" target=\"_blank\">Alabama Power Co. (ALPPRO) Seasonal returns chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Australia</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-01T21:34:47+00:00"
+        "collected_at": "2026-11-02T08:43:52+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1005,
+      "count": 1006,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "0837b69d1bd68126",
-        "title": "Georgia Power names new CEO as utility embarks on huge expansion - The Atlanta Journal-Constitution",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXcGhWa191WXlpWGhDeHV1VnNVSjFTblI0UFRYaHd1bnVRWWY0X0Y4eFNMQ0dfdlNIODNVc0twUmRYMWczOENWc2VlZXFnek9KZlAyOWtraWEtdTJOcXJZeWhDdzdpcTgwaHFzUGplT1hDTkE?oc=5",
+        "id": "55f4b059bf589d47",
+        "title": "Southern Company Reshapes Leadership As Kim Greene Moves To Operations And Stan Connally Becomes Georgia Power CEO - Pulse 2.0",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTjhGdXNpTXR2V0ZwM21ZWEtsUjEtc3ZyV3Zka2UyNGEwV0tGZlRKcmpDMEx5WklNX1JvNi02UDhTNUxjdXVlZHFwbkthTnNvbGVOME4yc2QtYTI5MWxQM1ByaFZvbndicmNOT3BaUE9Cd191NW82XzEyNUhaX2NBMDVqaDRUSl8tSlpnMGlyR2FxeF9USXFld0RLZkM0bzhGa0VuOTFBZi1tUGhpY2hxMS1scnlTNllfTTk2cE5NNjN0ak5xRUxqc2Q2MXowQ0E?oc=5",
         "domain": "news.google.com",
-        "source": "The Atlanta Journal-Constitution",
+        "source": "Pulse 2.0",
         "language": "English",
-        "published_at": "2026-10-30T15:52:43+00:00",
-        "summary": "Georgia Power names new CEO as utility embarks on huge expansion The Atlanta Journal-Constitution",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBXcGhWa191WXlpWGhDeHV1VnNVSjFTblI0UFRYaHd1bnVRWWY0X0Y4eFNMQ0dfdlNIODNVc0twUmRYMWczOENWc2VlZXFnek9KZlAyOWtraWEtdTJOcXJZeWhDdzdpcTgwaHFzUGplT1hDTkE?oc=5\" target=\"_blank\">Georgia Power names new CEO as utility embarks on huge expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Journal-Constitution</font>",
+        "published_at": "2026-11-02T01:55:52+00:00",
+        "summary": "Southern Company Reshapes Leadership As Kim Greene Moves To Operations And Stan Connally Becomes Georgia Power CEO Pulse 2.0",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNTjhGdXNpTXR2V0ZwM21ZWEtsUjEtc3ZyV3Zka2UyNGEwV0tGZlRKcmpDMEx5WklNX1JvNi02UDhTNUxjdXVlZHFwbkthTnNvbGVOME4yc2QtYTI5MWxQM1ByaFZvbndicmNOT3BaUE9Cd191NW82XzEyNUhaX2NBMDVqaDRUSl8tSlpnMGlyR2FxeF9USXFld0RLZkM0bzhGa0VuOTFBZi1tUGhpY2hxMS1scnlTNllfTTk2cE5NNjN0ak5xRUxqc2Q2MXowQ0E?oc=5\" target=\"_blank\">Southern Company Reshapes Leadership As Kim Greene Moves To Operations And Stan Connally Becomes Georgia Power CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-10-30T20:18:17+00:00"
+        "collected_at": "2026-11-02T08:44:09+00:00"
       }
     },
     {

@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-02T01:10:21+00:00",
+  "last_updated": "2026-11-02T08:43:52+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 616,
+  "count": 617,
   "mentions": [
+    {
+      "id": "c3888cbfeeafce9d",
+      "title": "Alabama Power Co. (ALPPRO) Seasonal returns chart - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpNUVwNGNpMlNWSXBqbUNWMllydU5EOGFvQ01lZ0YtQWpBcXJoUFlhUGdES3RST1lScUpEOTJDX1NtN2stXzhrWkdKSWc3Z1lHMUVqRDkxT1BuVVB3MjVQdnVudWk?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance Australia",
+      "language": "English",
+      "published_at": "2026-11-02T03:03:15+00:00",
+      "summary": "Alabama Power Co. (ALPPRO) Seasonal returns chart Yahoo Finance Australia",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpNUVwNGNpMlNWSXBqbUNWMllydU5EOGFvQ01lZ0YtQWpBcXJoUFlhUGdES3RST1lScUpEOTJDX1NtN2stXzhrWkdKSWc3Z1lHMUVqRDkxT1BuVVB3MjVQdnVudWk?oc=5\" target=\"_blank\">Alabama Power Co. (ALPPRO) Seasonal returns chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Australia</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-02T08:43:52+00:00"
+    },
     {
       "id": "c69efefd752ad356",
       "title": "A homeowner’s last stand against Alabama Power - Chattanooga Times Free Press",

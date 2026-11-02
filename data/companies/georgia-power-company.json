@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-02T01:10:37+00:00",
+  "last_updated": "2026-11-02T08:44:09+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1005,
+  "count": 1006,
   "mentions": [
+    {
+      "id": "55f4b059bf589d47",
+      "title": "Southern Company Reshapes Leadership As Kim Greene Moves To Operations And Stan Connally Becomes Georgia Power CEO - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTjhGdXNpTXR2V0ZwM21ZWEtsUjEtc3ZyV3Zka2UyNGEwV0tGZlRKcmpDMEx5WklNX1JvNi02UDhTNUxjdXVlZHFwbkthTnNvbGVOME4yc2QtYTI5MWxQM1ByaFZvbndicmNOT3BaUE9Cd191NW82XzEyNUhaX2NBMDVqaDRUSl8tSlpnMGlyR2FxeF9USXFld0RLZkM0bzhGa0VuOTFBZi1tUGhpY2hxMS1scnlTNllfTTk2cE5NNjN0ak5xRUxqc2Q2MXowQ0E?oc=5",
+      "domain": "news.google.com",
+      "source": "Pulse 2.0",
+      "language": "English",
+      "published_at": "2026-11-02T01:55:52+00:00",
+      "summary": "Southern Company Reshapes Leadership As Kim Greene Moves To Operations And Stan Connally Becomes Georgia Power CEO Pulse 2.0",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNTjhGdXNpTXR2V0ZwM21ZWEtsUjEtc3ZyV3Zka2UyNGEwV0tGZlRKcmpDMEx5WklNX1JvNi02UDhTNUxjdXVlZHFwbkthTnNvbGVOME4yc2QtYTI5MWxQM1ByaFZvbndicmNOT3BaUE9Cd191NW82XzEyNUhaX2NBMDVqaDRUSl8tSlpnMGlyR2FxeF9USXFld0RLZkM0bzhGa0VuOTFBZi1tUGhpY2hxMS1scnlTNllfTTk2cE5NNjN0ak5xRUxqc2Q2MXowQ0E?oc=5\" target=\"_blank\">Southern Company Reshapes Leadership As Kim Greene Moves To Operations And Stan Connally Becomes Georgia Power CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-02T08:44:09+00:00"
+    },
     {
       "id": "0837b69d1bd68126",
       "title": "Georgia Power names new CEO as utility embarks on huge expansion - The Atlanta Journal-Constitution",
