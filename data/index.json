@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T09:01:49+00:00",
+  "last_updated": "2026-11-03T17:28:13+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 621,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 13,
       "latest_mention": {
         "id": "06ca9a55568f3490",
         "title": "A homeowner’s last stand against Alabama Power - Chattanooga Times Free Press",
@@ -68,21 +68,21 @@
       "name": "Crane Restart",
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
-      "count": 115,
-      "new_mentions_this_run": 1,
+      "count": 116,
+      "new_mentions_this_run": 2,
       "latest_mention": {
-        "id": "1d933dde4be62af2",
-        "title": "Nuclear power could more than triple by 2060, UN agency says - The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjNhelJSZmhIVkJoX09mdDlKUGdXZGpmR015UHZScnNnQ1ZoM09JdVh3cmtWdE9qcjY5U1NCblNwWG55T2wxWmJ6VlJNb3hlWGpqb1cxZ2VBMjgxck0wSGZ2M1I5QjhSd1M5VnhPT0ZFZ0FUUTBfSlRQS3NwWXRKUUZWZ3ZnNTF3czRyd0haMVBfLUlyV1d6M1d5YkpGNjNzQWZtd2xvZVRURHhBdlow0gG8AUFVX3lxTFBwMW9Tb2ZNTThQNUJNNHdlNFFZS1IxV09pbG5PLUxtN2piV0s1cXo2eHBLLUFjQTgtTlFJQ21YX2tyYkpDWVNDSUtCOXB5R1cxODhqU0t5cHBVTTVQR20xYWM5QzNLN1ljWERJVEgyc0U0eF93MWNtRTR5NXYtQW9GZEp6MktuR3NhRWF0SUZ6aV9sclBmUWRLTGIxNEt0WEhOelhjSmp5NjdQYlBRa05yX053QjNYZ2NRZUpt?oc=5",
+        "id": "44f9b7556d1eb3d0",
+        "title": "CEG Stock Gains On Reported $5B Nuclear Financing Offer – A Look At Some Key Highlights - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNTRGazhSNzBfRmZ3N1BkbHJOR25VdURBaFkwb0RLd1QyOURMblhNMWRDcXQtbWFrS1NHcDdSMFNYZTBoWWxtS0h1MUJCbTRSYjZtNFlLUmJTMGxlMjJuMXZUemdpeGxjZUxMS1NFY21DVkl5TWE1bjE4OXlxekFPMlZPWXBaTVlHVXhnbkZkSlFueXBPdFFVY0dLUVg5Y1VBMXRBUnFZazdGU0RjT0ZnZ2dLZlJEUGdNU0UtbE0tM0tKcXZ1WGVmOTllU2dTanh6Q2h4VWpMS2dnMlpYVlE?oc=5",
         "domain": "news.google.com",
-        "source": "The New Indian Express",
+        "source": "TradingView",
         "language": "English",
-        "published_at": "2026-10-24T05:17:20+00:00",
-        "summary": "Nuclear power could more than triple by 2060, UN agency says The New Indian Express",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjNhelJSZmhIVkJoX09mdDlKUGdXZGpmR015UHZScnNnQ1ZoM09JdVh3cmtWdE9qcjY5U1NCblNwWG55T2wxWmJ6VlJNb3hlWGpqb1cxZ2VBMjgxck0wSGZ2M1I5QjhSd1M5VnhPT0ZFZ0FUUTBfSlRQS3NwWXRKUUZWZ3ZnNTF3czRyd0haMVBfLUlyV1d6M1d5YkpGNjNzQWZtd2xvZVRURHhBdlow0gG8AUFVX3lxTFBwMW9Tb2ZNTThQNUJNNHdlNFFZS1IxV09pbG5PLUxtN2piV0s1cXo2eHBLLUFjQTgtTlFJQ21YX2tyYkpDWVNDSUtCOXB5R1cxODhqU0t5cHBVTTVQR20xYWM5QzNLN1ljWERJVEgyc0U0eF93MWNtRTR5NXYtQW9GZEp6MktuR3NhRWF0SUZ6aV9sclBmUWRLTGIxNEt0WEhOelhjSmp5NjdQYlBRa05yX053QjNYZ2NRZUpt?oc=5\" target=\"_blank\">Nuclear power could more than triple by 2060, UN agency says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+        "published_at": "2026-10-27T17:46:58+00:00",
+        "summary": "CEG Stock Gains On Reported $5B Nuclear Financing Offer – A Look At Some Key Highlights TradingView",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNTRGazhSNzBfRmZ3N1BkbHJOR25VdURBaFkwb0RLd1QyOURMblhNMWRDcXQtbWFrS1NHcDdSMFNYZTBoWWxtS0h1MUJCbTRSYjZtNFlLUmJTMGxlMjJuMXZUemdpeGxjZUxMS1NFY21DVkl5TWE1bjE4OXlxekFPMlZPWXBaTVlHVXhnbkZkSlFueXBPdFFVY0dLUVg5Y1VBMXRBUnFZazdGU0RjT0ZnZ2dLZlJEUGdNU0UtbE0tM0tKcXZ1WGVmOTllU2dTanh6Q2h4VWpMS2dnMlpYVlE?oc=5\" target=\"_blank\">CEG Stock Gains On Reported $5B Nuclear Financing Offer – A Look At Some Key Highlights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-01T03:47:05+00:00"
+        "collected_at": "2026-11-03T17:27:57+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1009,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "c425e4e36e146cd6",
         "title": "OpenAI Grid Protectors Program: Powerful 1 GW Demand-Response Plan Explained - Techgenyz",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 72,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "00e82ed3cff0cf56",
         "title": "Trump hands a booming utility in Iowa and Wisconsin $5.1 billion in loans less than a week before the election - Reason Magazine",
