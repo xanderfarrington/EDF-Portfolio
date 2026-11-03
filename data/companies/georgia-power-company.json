@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-03T01:57:19+00:00",
+  "last_updated": "2026-11-03T09:01:38+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1008,
+  "count": 1009,
   "mentions": [
+    {
+      "id": "c425e4e36e146cd6",
+      "title": "OpenAI Grid Protectors Program: Powerful 1 GW Demand-Response Plan Explained - Techgenyz",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53SGl3NWNYMERWV3RmMWRRalZyYVJJdDI3aVpJRXVYVGpSRjN2T3o1YXJQSl9rZERsb3lDeEkzVE95ZVVWYjIwenVFdUFRSmtYbDVucmlUNVB4eUxFR0pYZEI5NmdVMkUyVUhpM1dKYw?oc=5",
+      "domain": "news.google.com",
+      "source": "Techgenyz",
+      "language": "English",
+      "published_at": "2026-11-03T08:26:07+00:00",
+      "summary": "OpenAI Grid Protectors Program: Powerful 1 GW Demand-Response Plan Explained Techgenyz",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE53SGl3NWNYMERWV3RmMWRRalZyYVJJdDI3aVpJRXVYVGpSRjN2T3o1YXJQSl9rZERsb3lDeEkzVE95ZVVWYjIwenVFdUFRSmtYbDVucmlUNVB4eUxFR0pYZEI5NmdVMkUyVUhpM1dKYw?oc=5\" target=\"_blank\">OpenAI Grid Protectors Program: Powerful 1 GW Demand-Response Plan Explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Techgenyz</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-03T09:01:38+00:00"
+    },
     {
       "id": "33521edb776519b9",
       "title": "Georgia Power's free upgrades could cut seniors' bills, but roof leaks and mold can block the work - Yahoo",

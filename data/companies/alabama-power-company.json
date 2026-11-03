@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-03T01:57:02+00:00",
+  "last_updated": "2026-11-03T09:01:22+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 620,
+  "count": 621,
   "mentions": [
     {
       "id": "06ca9a55568f3490",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-03T01:57:02+00:00"
+    },
+    {
+      "id": "c56432c9cc75aaff",
+      "title": "Alabama Supreme Court upholds ruling keeping nonprofit out of PSC docket - Alabama Reflector",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVQxbUtCd05GTkI1bExWUGlfbjRNeWlPYVhOVjNzb1pKZ1J3M2JTQW5faTFHMFp2ZktFaU14QWpSaE56ak94X0pwZ2g1NTVOZ05UcGV0Q1pJVTdrVkZFQlhSVDB5Q3NRZ2t4WHN6SDIwTV9KV1JDaTJHS1dYb2JyMWRiM05BenhVUmhXUGN3UUM0X09sczlMT2FfQThCTWpDb0RLUk8wSWpLd1R2bzRsNElmWQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Alabama Reflector",
+      "language": "English",
+      "published_at": "2026-11-02T20:21:08+00:00",
+      "summary": "Alabama Supreme Court upholds ruling keeping nonprofit out of PSC docket Alabama Reflector",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVQxbUtCd05GTkI1bExWUGlfbjRNeWlPYVhOVjNzb1pKZ1J3M2JTQW5faTFHMFp2ZktFaU14QWpSaE56ak94X0pwZ2g1NTVOZ05UcGV0Q1pJVTdrVkZFQlhSVDB5Q3NRZ2t4WHN6SDIwTV9KV1JDaTJHS1dYb2JyMWRiM05BenhVUmhXUGN3UUM0X09sczlMT2FfQThCTWpDb0RLUk8wSWpLd1R2bzRsNElmWQ?oc=5\" target=\"_blank\">Alabama Supreme Court upholds ruling keeping nonprofit out of PSC docket</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Reflector</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-03T09:01:22+00:00"
     },
     {
       "id": "584f8e29a9a93b8b",
