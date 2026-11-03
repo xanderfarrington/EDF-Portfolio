@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-11-02T19:56:05+00:00",
+  "last_updated": "2026-11-03T01:57:29+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 129,
-      "new_mentions_this_run": 11,
+      "count": 130,
+      "new_mentions_this_run": 9,
       "latest_mention": {
-        "id": "53b574e9d7e40c4b",
-        "title": "Jacobs Selected for AEP’s $37B Transmission Program - Construction Owners",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDhUdjdlR0NuczVpb3JoVzNONXhxckNnUEhxd01FZUZYdk45bDVlMG9WbUlqbXZ1U0p6YV9aNE5nbXFsZkJLZXl6QkVTMVhMMXl1VXYwaUZYcUl2OHF0WE8zTFNVSWF2Z1F2VE45aHBVbEpGRzhfTkctZTZzWWFPMmNjLUN2S0JxazkxcnE3WC1XX1d0dlNrQ0pGZWI5YUQ2dFNQYkJNR2I?oc=5",
+        "id": "1b87c0673ec01ae5",
+        "title": "Informational session planned to discuss Lulu-Sorenson, Greentown-Sorenson projects - WPTA | 21Alive | Fort Wayne, IN",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnZoMmRzak1GQ2FJV1lla2NRQ1prendma3ZoOERUWU1HX2piSkFSbk9Qbmk3UW5ZdUwxRUdtTmc0Wmliemliel9LVzFaSGkyWk91MzlJUVRFVk5QOTJiQ1BZd0VLOEx4MDRWN2tEQzB3Tl8wR2tfeGVVejdJcFVvNmxHdk9xTTNuT0EwUGIyRzZxMzZIVDhxZ3g1Y1hWdkNtM2h0aUpIUW5tLU8zNlAtVUpGalpYUS01Nzlv?oc=5",
         "domain": "news.google.com",
-        "source": "Construction Owners",
+        "source": "WPTA | 21Alive | Fort Wayne, IN",
         "language": "English",
-        "published_at": "2026-11-02T10:31:59+00:00",
-        "summary": "Jacobs Selected for AEP’s $37B Transmission Program Construction Owners",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDhUdjdlR0NuczVpb3JoVzNONXhxckNnUEhxd01FZUZYdk45bDVlMG9WbUlqbXZ1U0p6YV9aNE5nbXFsZkJLZXl6QkVTMVhMMXl1VXYwaUZYcUl2OHF0WE8zTFNVSWF2Z1F2VE45aHBVbEpGRzhfTkctZTZzWWFPMmNjLUN2S0JxazkxcnE3WC1XX1d0dlNrQ0pGZWI5YUQ2dFNQYkJNR2I?oc=5\" target=\"_blank\">Jacobs Selected for AEP’s $37B Transmission Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Owners</font>",
+        "published_at": "2026-11-02T20:39:00+00:00",
+        "summary": "Informational session planned to discuss Lulu-Sorenson, Greentown-Sorenson projects WPTA | 21Alive | Fort Wayne, IN",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnZoMmRzak1GQ2FJV1lla2NRQ1prendma3ZoOERUWU1HX2piSkFSbk9Qbmk3UW5ZdUwxRUdtTmc0Wmliemliel9LVzFaSGkyWk91MzlJUVRFVk5QOTJiQ1BZd0VLOEx4MDRWN2tEQzB3Tl8wR2tfeGVVejdJcFVvNmxHdk9xTTNuT0EwUGIyRzZxMzZIVDhxZ3g1Y1hWdkNtM2h0aUpIUW5tLU8zNlAtVUpGalpYUS01Nzlv?oc=5\" target=\"_blank\">Informational session planned to discuss Lulu-Sorenson, Greentown-Sorenson projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPTA | 21Alive | Fort Wayne, IN</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-02T19:55:33+00:00"
+        "collected_at": "2026-11-03T01:56:57+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 619,
-      "new_mentions_this_run": 25,
+      "count": 620,
+      "new_mentions_this_run": 12,
       "latest_mention": {
-        "id": "584f8e29a9a93b8b",
-        "title": "Alabama Power plan to demolish structure next to Powell Avenue substation stalls over wall design - BirminghamWatch",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRlNsNXNKWnJDVWlTUEJxelc2VEpuNlhqbkhvYTduYWt0Q204dFRfblBfaGpwazBkek8tcFlROXIzQUp4STZYN1U4d1k3QlNfbDZEWDV5UjJyd3UwMTRibnJQVkFUVDM5dWw5dFZkdDQtNTdOZkV4eFF4ajQ5SlFXSFlRUVpyY3A2ZWlfOVdueU9lZmZ6NWt3UGRFeHotUEZKM1FjSHdSd2FCQkxrT3JLVmNsSnVuZlk?oc=5",
+        "id": "06ca9a55568f3490",
+        "title": "A homeowner’s last stand against Alabama Power - Chattanooga Times Free Press",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa25rQ2NwbGNIcnVHZmg0RE9yU0VhblVhZ2Yzc0tqVnRNWHhuYl93djZjR1k1S1d1VTBGZ0ZlWnhhNVdoSVhxT0NzRlpiZFhXX3V2aUt3cHctWXNXQkhmdG1SeFA0anpib25QNnJDUGlHcktFd2dsMllCMk9ZeXpCZlFKaGtEZ0RpNGpqWF9UbTdHbDhRdjF6ZV96MmQ?oc=5",
         "domain": "news.google.com",
-        "source": "BirminghamWatch",
+        "source": "Chattanooga Times Free Press",
         "language": "English",
-        "published_at": "2026-11-02T08:30:14+00:00",
-        "summary": "Alabama Power plan to demolish structure next to Powell Avenue substation stalls over wall design BirminghamWatch",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRlNsNXNKWnJDVWlTUEJxelc2VEpuNlhqbkhvYTduYWt0Q204dFRfblBfaGpwazBkek8tcFlROXIzQUp4STZYN1U4d1k3QlNfbDZEWDV5UjJyd3UwMTRibnJQVkFUVDM5dWw5dFZkdDQtNTdOZkV4eFF4ajQ5SlFXSFlRUVpyY3A2ZWlfOVdueU9lZmZ6NWt3UGRFeHotUEZKM1FjSHdSd2FCQkxrT3JLVmNsSnVuZlk?oc=5\" target=\"_blank\">Alabama Power plan to demolish structure next to Powell Avenue substation stalls over wall design</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BirminghamWatch</font>",
+        "published_at": "2026-11-02T22:22:56+00:00",
+        "summary": "A homeowner’s last stand against Alabama Power Chattanooga Times Free Press",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNa25rQ2NwbGNIcnVHZmg0RE9yU0VhblVhZ2Yzc0tqVnRNWHhuYl93djZjR1k1S1d1VTBGZ0ZlWnhhNVdoSVhxT0NzRlpiZFhXX3V2aUt3cHctWXNXQkhmdG1SeFA0anpib25QNnJDUGlHcktFd2dsMllCMk9ZeXpCZlFKaGtEZ0RpNGpqWF9UbTdHbDhRdjF6ZV96MmQ?oc=5\" target=\"_blank\">A homeowner’s last stand against Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chattanooga Times Free Press</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-02T19:55:38+00:00"
+        "collected_at": "2026-11-03T01:57:02+00:00"
       }
     },
     {
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1008,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "33521edb776519b9",
         "title": "Georgia Power's free upgrades could cut seniors' bills, but roof leaks and mold can block the work - Yahoo",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 72,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "00e82ed3cff0cf56",
         "title": "Trump hands a booming utility in Iowa and Wisconsin $5.1 billion in loans less than a week before the election - Reason Magazine",

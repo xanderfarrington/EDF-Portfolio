@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-02T19:55:33+00:00",
+  "last_updated": "2026-11-03T01:56:57+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 129,
+  "count": 130,
   "mentions": [
+    {
+      "id": "1b87c0673ec01ae5",
+      "title": "Informational session planned to discuss Lulu-Sorenson, Greentown-Sorenson projects - WPTA | 21Alive | Fort Wayne, IN",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnZoMmRzak1GQ2FJV1lla2NRQ1prendma3ZoOERUWU1HX2piSkFSbk9Qbmk3UW5ZdUwxRUdtTmc0Wmliemliel9LVzFaSGkyWk91MzlJUVRFVk5QOTJiQ1BZd0VLOEx4MDRWN2tEQzB3Tl8wR2tfeGVVejdJcFVvNmxHdk9xTTNuT0EwUGIyRzZxMzZIVDhxZ3g1Y1hWdkNtM2h0aUpIUW5tLU8zNlAtVUpGalpYUS01Nzlv?oc=5",
+      "domain": "news.google.com",
+      "source": "WPTA | 21Alive | Fort Wayne, IN",
+      "language": "English",
+      "published_at": "2026-11-02T20:39:00+00:00",
+      "summary": "Informational session planned to discuss Lulu-Sorenson, Greentown-Sorenson projects WPTA | 21Alive | Fort Wayne, IN",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnZoMmRzak1GQ2FJV1lla2NRQ1prendma3ZoOERUWU1HX2piSkFSbk9Qbmk3UW5ZdUwxRUdtTmc0Wmliemliel9LVzFaSGkyWk91MzlJUVRFVk5QOTJiQ1BZd0VLOEx4MDRWN2tEQzB3Tl8wR2tfeGVVejdJcFVvNmxHdk9xTTNuT0EwUGIyRzZxMzZIVDhxZ3g1Y1hWdkNtM2h0aUpIUW5tLU8zNlAtVUpGalpYUS01Nzlv?oc=5\" target=\"_blank\">Informational session planned to discuss Lulu-Sorenson, Greentown-Sorenson projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPTA | 21Alive | Fort Wayne, IN</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-03T01:56:57+00:00"
+    },
     {
       "id": "53b574e9d7e40c4b",
       "title": "Jacobs Selected for AEP’s $37B Transmission Program - Construction Owners",

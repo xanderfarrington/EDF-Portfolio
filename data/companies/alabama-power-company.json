@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-02T19:55:38+00:00",
+  "last_updated": "2026-11-03T01:57:02+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 619,
+  "count": 620,
   "mentions": [
+    {
+      "id": "06ca9a55568f3490",
+      "title": "A homeowner’s last stand against Alabama Power - Chattanooga Times Free Press",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa25rQ2NwbGNIcnVHZmg0RE9yU0VhblVhZ2Yzc0tqVnRNWHhuYl93djZjR1k1S1d1VTBGZ0ZlWnhhNVdoSVhxT0NzRlpiZFhXX3V2aUt3cHctWXNXQkhmdG1SeFA0anpib25QNnJDUGlHcktFd2dsMllCMk9ZeXpCZlFKaGtEZ0RpNGpqWF9UbTdHbDhRdjF6ZV96MmQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Chattanooga Times Free Press",
+      "language": "English",
+      "published_at": "2026-11-02T22:22:56+00:00",
+      "summary": "A homeowner’s last stand against Alabama Power Chattanooga Times Free Press",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNa25rQ2NwbGNIcnVHZmg0RE9yU0VhblVhZ2Yzc0tqVnRNWHhuYl93djZjR1k1S1d1VTBGZ0ZlWnhhNVdoSVhxT0NzRlpiZFhXX3V2aUt3cHctWXNXQkhmdG1SeFA0anpib25QNnJDUGlHcktFd2dsMllCMk9ZeXpCZlFKaGtEZ0RpNGpqWF9UbTdHbDhRdjF6ZV96MmQ?oc=5\" target=\"_blank\">A homeowner’s last stand against Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chattanooga Times Free Press</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-03T01:57:02+00:00"
+    },
     {
       "id": "584f8e29a9a93b8b",
       "title": "Alabama Power plan to demolish structure next to Powell Avenue substation stalls over wall design - BirminghamWatch",
