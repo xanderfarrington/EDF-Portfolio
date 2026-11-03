@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-03T17:27:46+00:00",
+  "last_updated": "2026-11-03T22:46:19+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 621,
+  "count": 622,
   "mentions": [
+    {
+      "id": "5c71bd5c9c16f277",
+      "title": "Shelby County man says Alabama Power threatens him with arrest in land dispute - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOHB6RXREVlBJRUlTVXpHaWJheHptVUd0QjN4X1dSQlRYdXNYdUtrdFo2aEJleWdFdlozVGRyYjg0NTlCZ19IemItX0RqaDlBUGJNR2ZvMU5qWkdIWk83NHdKNjhyUzBsOEc1SlMtZVcybnU5TVUzUE12SHh3UGhqTkkzYVZ4MkVTUm9ZX2JxUnpFOHFxRGt6YlJNdE9hVGF0MW9WSWxPOGctT0NFbF9kZ19XMllOdUZqLVByV0dTUW83U0ktT3NCMElR0gHKAUFVX3lxTFA4cHpFdERWUElFSVNVekdpYmF4em1VR3RCM3hfV1JCVFh1c1h1S2t0WjZoQmV5Z0V2WjNUZHJiODQ1OUJnX0h6Yi1fRGpoOUFQYk1HZm8xTmpaR0haTzc0d0o2OHJTMGw4RzVKUy1lVzJudTlNVTNQTXZIeHdQaGpOSTNhVngyRVNSb1lfYnFSekU4cXFEa3piUk10T2FUYXQxb1ZJbE84Zy1PQ0VsX2RnX1cyWU51RmotUHJXR1NRbzdTSS1Pc0IwSVE?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-11-03T20:04:00+00:00",
+      "summary": "Shelby County man says Alabama Power threatens him with arrest in land dispute AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQOHB6RXREVlBJRUlTVXpHaWJheHptVUd0QjN4X1dSQlRYdXNYdUtrdFo2aEJleWdFdlozVGRyYjg0NTlCZ19IemItX0RqaDlBUGJNR2ZvMU5qWkdIWk83NHdKNjhyUzBsOEc1SlMtZVcybnU5TVUzUE12SHh3UGhqTkkzYVZ4MkVTUm9ZX2JxUnpFOHFxRGt6YlJNdE9hVGF0MW9WSWxPOGctT0NFbF9kZ19XMllOdUZqLVByV0dTUW83U0ktT3NCMElR0gHKAUFVX3lxTFA4cHpFdERWUElFSVNVekdpYmF4em1VR3RCM3hfV1JCVFh1c1h1S2t0WjZoQmV5Z0V2WjNUZHJiODQ1OUJnX0h6Yi1fRGpoOUFQYk1HZm8xTmpaR0haTzc0d0o2OHJTMGw4RzVKUy1lVzJudTlNVTNQTXZIeHdQaGpOSTNhVngyRVNSb1lfYnFSekU4cXFEa3piUk10T2FUYXQxb1ZJbE84Zy1PQ0VsX2RnX1cyWU51RmotUHJXR1NRbzdTSS1Pc0IwSVE?oc=5\" target=\"_blank\">Shelby County man says Alabama Power threatens him with arrest in land dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-03T22:46:19+00:00"
+    },
     {
       "id": "06ca9a55568f3490",
       "title": "A homeowner’s last stand against Alabama Power - Chattanooga Times Free Press",

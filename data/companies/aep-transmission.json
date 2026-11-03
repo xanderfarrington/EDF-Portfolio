@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-03T17:27:41+00:00",
+  "last_updated": "2026-11-03T22:46:14+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 130,
+  "count": 131,
   "mentions": [
+    {
+      "id": "ab13bc7ad13b7aa4",
+      "title": "I&M, AEP Transmission to host information session on proposed northern Indiana projects - WOWO",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZThOVGZXV1pRTzlSbWgtaU10R1EyTUY0dTdkZjVlNXZ4T0R0NmdKUDJSVThmeG90LWJyNDdGTXNnMHFfMlR0aTQwdVZkTVdKcEFwMmR1MDltQWUwSjZoY3VVZHUzUUxYWlRWYkRVRDJKWllUS19iR0V5bmJjVnR6NF96RGh1VnA4VGlrQzJIcWVWanJma20xWVVXSXVDRlpDaXVLQUh3?oc=5",
+      "domain": "news.google.com",
+      "source": "WOWO",
+      "language": "English",
+      "published_at": "2026-11-03T21:21:09+00:00",
+      "summary": "I&M, AEP Transmission to host information session on proposed northern Indiana projects WOWO",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZThOVGZXV1pRTzlSbWgtaU10R1EyTUY0dTdkZjVlNXZ4T0R0NmdKUDJSVThmeG90LWJyNDdGTXNnMHFfMlR0aTQwdVZkTVdKcEFwMmR1MDltQWUwSjZoY3VVZHUzUUxYWlRWYkRVRDJKWllUS19iR0V5bmJjVnR6NF96RGh1VnA4VGlrQzJIcWVWanJma20xWVVXSXVDRlpDaXVLQUh3?oc=5\" target=\"_blank\">I&amp;M, AEP Transmission to host information session on proposed northern Indiana projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOWO</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-03T22:46:14+00:00"
+    },
     {
       "id": "1b87c0673ec01ae5",
       "title": "Informational session planned to discuss Lulu-Sorenson, Greentown-Sorenson projects - WPTA | 21Alive | Fort Wayne, IN",

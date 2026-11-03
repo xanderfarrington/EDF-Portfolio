@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-11-03T17:28:08+00:00",
+  "last_updated": "2026-11-03T22:46:42+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 72,
+  "count": 73,
   "mentions": [
+    {
+      "id": "e225f9b4f4f5b0a0",
+      "title": "Alliant Energy to receive $5.1B in federal loans for natural gas, energy storage projects - WPR",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcHpRMXVSdWxIQjlRQmsydVIyWlhRVEtDb3NaRzV1QU9hdU5aR25mRksxclY3VWdqbUJBeEpCTVdYeDF2ZlVtMmpGazNxOHhmSmtVcGI5aHYzVGVET1VNcGhLNnpwbFpsQXY5SlI3SzhnTnIxeE90eUx0SmpMMFNqdmxDVTM1eW5LUTBNcks5OWhDZDJlRmVvUmJFaXpIeUludlE?oc=5",
+      "domain": "news.google.com",
+      "source": "WPR",
+      "language": "English",
+      "published_at": "2026-11-03T11:00:00+00:00",
+      "summary": "Alliant Energy to receive $5.1B in federal loans for natural gas, energy storage projects WPR",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOcHpRMXVSdWxIQjlRQmsydVIyWlhRVEtDb3NaRzV1QU9hdU5aR25mRksxclY3VWdqbUJBeEpCTVdYeDF2ZlVtMmpGazNxOHhmSmtVcGI5aHYzVGVET1VNcGhLNnpwbFpsQXY5SlI3SzhnTnIxeE90eUx0SmpMMFNqdmxDVTM1eW5LUTBNcks5OWhDZDJlRmVvUmJFaXpIeUludlE?oc=5\" target=\"_blank\">Alliant Energy to receive $5.1B in federal loans for natural gas, energy storage projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPR</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-03T22:46:42+00:00"
+    },
     {
       "id": "00e82ed3cff0cf56",
       "title": "Trump hands a booming utility in Iowa and Wisconsin $5.1 billion in loans less than a week before the election - Reason Magazine",
