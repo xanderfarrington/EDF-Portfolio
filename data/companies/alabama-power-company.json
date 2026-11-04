@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-03T22:46:19+00:00",
+  "last_updated": "2026-11-04T04:24:18+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 622,
+  "count": 624,
   "mentions": [
+    {
+      "id": "c94c4c0ecb0e8267",
+      "title": "Brewton Linemen from Alabama Power Put Community First - Alabama Weather Network",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN2lLVENpRGM5U0IyNnVpR19FSk8tYzJrZ0t5aWZsb0tRQ0lWZS1qdEs4RlA1MjRKMmtsNlVrVWdPMDVUeFRDZXBZeVJjZ0NWXzNiT2hSYWhLRDQwby1wTDhmTmFqTVZlZWhUXzFBTmpPMnJMeXdKcEZyeDJuUmgzaW45NVBndmNtUWdUbENZS1ZyQUE?oc=5",
+      "domain": "news.google.com",
+      "source": "Alabama Weather Network",
+      "language": "English",
+      "published_at": "2026-11-04T02:48:28+00:00",
+      "summary": "Brewton Linemen from Alabama Power Put Community First Alabama Weather Network",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPN2lLVENpRGM5U0IyNnVpR19FSk8tYzJrZ0t5aWZsb0tRQ0lWZS1qdEs4RlA1MjRKMmtsNlVrVWdPMDVUeFRDZXBZeVJjZ0NWXzNiT2hSYWhLRDQwby1wTDhmTmFqTVZlZWhUXzFBTmpPMnJMeXdKcEZyeDJuUmgzaW45NVBndmNtUWdUbENZS1ZyQUE?oc=5\" target=\"_blank\">Brewton Linemen from Alabama Power Put Community First</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Weather Network</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-04T04:24:18+00:00"
+    },
     {
       "id": "5c71bd5c9c16f277",
       "title": "Shelby County man says Alabama Power threatens him with arrest in land dispute - AL.com",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-03T22:46:19+00:00"
+    },
+    {
+      "id": "5d076ff4be15c437",
+      "title": "Shelby County man says Alabama Power is clearing land at heart of heated legal battle - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ2xrcHFITnZKVGRnNmF6YmtNX2IyQzRjNC1lRXBGbl9uck1aNEhFSWpJM0tPS1k4NkZMd2RIRlE5cHNHTmxIT0FHZV85U3lkS0lIdllSWC1jMmZpNW44eEtMdUdRNDJIbDF0M3NyRVNkRGU0TU5ZZ1RYRXd1S3owUy1yN2FUNkRiOGsxNnE0Rko2bGpJdDRyYlBVLTczX3NObGdJblVLNkc4TXBTYVZNbUc5R2lPUdIBygFBVV95cUxQOHB6RXREVlBJRUlTVXpHaWJheHptVUd0QjN4X1dSQlRYdXNYdUtrdFo2aEJleWdFdlozVGRyYjg0NTlCZ19IemItX0RqaDlBUGJNR2ZvMU5qWkdIWk83NHdKNjhyUzBsOEc1SlMtZVcybnU5TVUzUE12SHh3UGhqTkkzYVZ4MkVTUm9ZX2JxUnpFOHFxRGt6YlJNdE9hVGF0MW9WSWxPOGctT0NFbF9kZ19XMllOdUZqLVByV0dTUW83U0ktT3NCMElR?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-11-03T20:04:00+00:00",
+      "summary": "Shelby County man says Alabama Power is clearing land at heart of heated legal battle AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ2xrcHFITnZKVGRnNmF6YmtNX2IyQzRjNC1lRXBGbl9uck1aNEhFSWpJM0tPS1k4NkZMd2RIRlE5cHNHTmxIT0FHZV85U3lkS0lIdllSWC1jMmZpNW44eEtMdUdRNDJIbDF0M3NyRVNkRGU0TU5ZZ1RYRXd1S3owUy1yN2FUNkRiOGsxNnE0Rko2bGpJdDRyYlBVLTczX3NObGdJblVLNkc4TXBTYVZNbUc5R2lPUdIBygFBVV95cUxQOHB6RXREVlBJRUlTVXpHaWJheHptVUd0QjN4X1dSQlRYdXNYdUtrdFo2aEJleWdFdlozVGRyYjg0NTlCZ19IemItX0RqaDlBUGJNR2ZvMU5qWkdIWk83NHdKNjhyUzBsOEc1SlMtZVcybnU5TVUzUE12SHh3UGhqTkkzYVZ4MkVTUm9ZX2JxUnpFOHFxRGt6YlJNdE9hVGF0MW9WSWxPOGctT0NFbF9kZ19XMllOdUZqLVByV0dTUW83U0ktT3NCMElR?oc=5\" target=\"_blank\">Shelby County man says Alabama Power is clearing land at heart of heated legal battle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-04T04:24:18+00:00"
     },
     {
       "id": "06ca9a55568f3490",

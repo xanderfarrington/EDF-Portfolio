@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-03T22:46:47+00:00",
+  "last_updated": "2026-11-04T04:24:45+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 131,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 14,
       "latest_mention": {
         "id": "ab13bc7ad13b7aa4",
         "title": "I&M, AEP Transmission to host information session on proposed northern Indiana projects - WOWO",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 622,
-      "new_mentions_this_run": 25,
+      "count": 624,
+      "new_mentions_this_run": 11,
       "latest_mention": {
-        "id": "5c71bd5c9c16f277",
-        "title": "Shelby County man says Alabama Power threatens him with arrest in land dispute - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOHB6RXREVlBJRUlTVXpHaWJheHptVUd0QjN4X1dSQlRYdXNYdUtrdFo2aEJleWdFdlozVGRyYjg0NTlCZ19IemItX0RqaDlBUGJNR2ZvMU5qWkdIWk83NHdKNjhyUzBsOEc1SlMtZVcybnU5TVUzUE12SHh3UGhqTkkzYVZ4MkVTUm9ZX2JxUnpFOHFxRGt6YlJNdE9hVGF0MW9WSWxPOGctT0NFbF9kZ19XMllOdUZqLVByV0dTUW83U0ktT3NCMElR0gHKAUFVX3lxTFA4cHpFdERWUElFSVNVekdpYmF4em1VR3RCM3hfV1JCVFh1c1h1S2t0WjZoQmV5Z0V2WjNUZHJiODQ1OUJnX0h6Yi1fRGpoOUFQYk1HZm8xTmpaR0haTzc0d0o2OHJTMGw4RzVKUy1lVzJudTlNVTNQTXZIeHdQaGpOSTNhVngyRVNSb1lfYnFSekU4cXFEa3piUk10T2FUYXQxb1ZJbE84Zy1PQ0VsX2RnX1cyWU51RmotUHJXR1NRbzdTSS1Pc0IwSVE?oc=5",
+        "id": "c94c4c0ecb0e8267",
+        "title": "Brewton Linemen from Alabama Power Put Community First - Alabama Weather Network",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN2lLVENpRGM5U0IyNnVpR19FSk8tYzJrZ0t5aWZsb0tRQ0lWZS1qdEs4RlA1MjRKMmtsNlVrVWdPMDVUeFRDZXBZeVJjZ0NWXzNiT2hSYWhLRDQwby1wTDhmTmFqTVZlZWhUXzFBTmpPMnJMeXdKcEZyeDJuUmgzaW45NVBndmNtUWdUbENZS1ZyQUE?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "Alabama Weather Network",
         "language": "English",
-        "published_at": "2026-11-03T20:04:00+00:00",
-        "summary": "Shelby County man says Alabama Power threatens him with arrest in land dispute AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQOHB6RXREVlBJRUlTVXpHaWJheHptVUd0QjN4X1dSQlRYdXNYdUtrdFo2aEJleWdFdlozVGRyYjg0NTlCZ19IemItX0RqaDlBUGJNR2ZvMU5qWkdIWk83NHdKNjhyUzBsOEc1SlMtZVcybnU5TVUzUE12SHh3UGhqTkkzYVZ4MkVTUm9ZX2JxUnpFOHFxRGt6YlJNdE9hVGF0MW9WSWxPOGctT0NFbF9kZ19XMllOdUZqLVByV0dTUW83U0ktT3NCMElR0gHKAUFVX3lxTFA4cHpFdERWUElFSVNVekdpYmF4em1VR3RCM3hfV1JCVFh1c1h1S2t0WjZoQmV5Z0V2WjNUZHJiODQ1OUJnX0h6Yi1fRGpoOUFQYk1HZm8xTmpaR0haTzc0d0o2OHJTMGw4RzVKUy1lVzJudTlNVTNQTXZIeHdQaGpOSTNhVngyRVNSb1lfYnFSekU4cXFEa3piUk10T2FUYXQxb1ZJbE84Zy1PQ0VsX2RnX1cyWU51RmotUHJXR1NRbzdTSS1Pc0IwSVE?oc=5\" target=\"_blank\">Shelby County man says Alabama Power threatens him with arrest in land dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-11-04T02:48:28+00:00",
+        "summary": "Brewton Linemen from Alabama Power Put Community First Alabama Weather Network",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPN2lLVENpRGM5U0IyNnVpR19FSk8tYzJrZ0t5aWZsb0tRQ0lWZS1qdEs4RlA1MjRKMmtsNlVrVWdPMDVUeFRDZXBZeVJjZ0NWXzNiT2hSYWhLRDQwby1wTDhmTmFqTVZlZWhUXzFBTmpPMnJMeXdKcEZyeDJuUmgzaW45NVBndmNtUWdUbENZS1ZyQUE?oc=5\" target=\"_blank\">Brewton Linemen from Alabama Power Put Community First</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Weather Network</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-03T22:46:19+00:00"
+        "collected_at": "2026-11-04T04:24:18+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 116,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "44f9b7556d1eb3d0",
         "title": "CEG Stock Gains On Reported $5B Nuclear Financing Offer – A Look At Some Key Highlights - TradingView",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 73,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "e225f9b4f4f5b0a0",
         "title": "Alliant Energy to receive $5.1B in federal loans for natural gas, energy storage projects - WPR",
