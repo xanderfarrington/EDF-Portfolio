@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-04T04:24:13+00:00",
+  "last_updated": "2026-11-04T13:37:51+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 131,
+  "count": 132,
   "mentions": [
     {
       "id": "ab13bc7ad13b7aa4",
@@ -173,6 +173,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-30T14:51:40+00:00"
+    },
+    {
+      "id": "7ab2027169316fb3",
+      "title": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook - Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmxma1hPdGM3U2d2cXRtMm5vNW5STjNwaEVJZjFBd0h4TXBpNVl3MUZpMEJrUU9YdnJhdDkyMkdXSmlER0t2ejdaSmRKel92Wm5idWl5Y3ZtYkR2U2I1M3lkZXlfOGxqT1RNdW1EZlNkbTk2NkYyZXRfSW9kbWN6X1hxejVheWlxZVNrZzZ6TktVSXQ2RXVrcmZUcjB4d1hsUkhJQlRQaXd5YnFiSmZwczhPdWd3OHZlZ2xMeHR6Yw?oc=5",
+      "domain": "news.google.com",
+      "source": "Investing.com UK",
+      "language": "English",
+      "published_at": "2026-10-28T14:26:00+00:00",
+      "summary": "AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook Investing.com UK",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmxma1hPdGM3U2d2cXRtMm5vNW5STjNwaEVJZjFBd0h4TXBpNVl3MUZpMEJrUU9YdnJhdDkyMkdXSmlER0t2ejdaSmRKel92Wm5idWl5Y3ZtYkR2U2I1M3lkZXlfOGxqT1RNdW1EZlNkbTk2NkYyZXRfSW9kbWN6X1hxejVheWlxZVNrZzZ6TktVSXQ2RXVrcmZUcjB4d1hsUkhJQlRQaXd5YnFiSmZwczhPdWd3OHZlZ2xMeHR6Yw?oc=5\" target=\"_blank\">AEP Q3 2026 slides: $100B capital plan drives 10%+ growth outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-04T13:37:51+00:00"
     },
     {
       "id": "46748d1c8b086aa0",

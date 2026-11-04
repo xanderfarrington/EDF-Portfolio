@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-04T04:24:45+00:00",
+  "last_updated": "2026-11-04T13:38:24+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 131,
-      "new_mentions_this_run": 14,
+      "count": 132,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "ab13bc7ad13b7aa4",
         "title": "I&M, AEP Transmission to host information session on proposed northern Indiana projects - WOWO",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 624,
-      "new_mentions_this_run": 11,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "c94c4c0ecb0e8267",
         "title": "Brewton Linemen from Alabama Power Put Community First - Alabama Weather Network",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 116,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "44f9b7556d1eb3d0",
         "title": "CEG Stock Gains On Reported $5B Nuclear Financing Offer – A Look At Some Key Highlights - TradingView",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1009,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "c425e4e36e146cd6",
         "title": "OpenAI Grid Protectors Program: Powerful 1 GW Demand-Response Plan Explained - Techgenyz",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 73,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e225f9b4f4f5b0a0",
         "title": "Alliant Energy to receive $5.1B in federal loans for natural gas, energy storage projects - WPR",
