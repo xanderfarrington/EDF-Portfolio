@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-11-04T13:38:24+00:00",
+  "last_updated": "2026-11-04T20:38:35+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 132,
-      "new_mentions_this_run": 9,
+      "count": 134,
+      "new_mentions_this_run": 10,
       "latest_mention": {
-        "id": "ab13bc7ad13b7aa4",
-        "title": "I&M, AEP Transmission to host information session on proposed northern Indiana projects - WOWO",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZThOVGZXV1pRTzlSbWgtaU10R1EyTUY0dTdkZjVlNXZ4T0R0NmdKUDJSVThmeG90LWJyNDdGTXNnMHFfMlR0aTQwdVZkTVdKcEFwMmR1MDltQWUwSjZoY3VVZHUzUUxYWlRWYkRVRDJKWllUS19iR0V5bmJjVnR6NF96RGh1VnA4VGlrQzJIcWVWanJma20xWVVXSXVDRlpDaXVLQUh3?oc=5",
+        "id": "aadc689ed5614290",
+        "title": "AEP Transmission Company announces $550 million senior notes offering By Investing.com - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXpNQnVjTEx0Yy1rQnJzaGc4bWNaandUU2JUcEpxcnpxbmlHVEtSTUFfbmRDSFhYRHlfRm5hcnNGZEpydUwxMklPSldIcnRFRDBSdGVMcWNCcTdWa19Dc0tsaVlMeFo4djlhdFgtcVJySlRmWWRMSEdLSDQ0dHJNeno0WWszcm5rZ0F3YnR2dmpFb0o0c3RsYnNTZUxIREZhZEhUOE9fNmc0SWs0V2FsbnR2eGdIRHl3QkluYkQwbVlGaUgtRHNfNw?oc=5",
         "domain": "news.google.com",
-        "source": "WOWO",
+        "source": "Investing.com India",
         "language": "English",
-        "published_at": "2026-11-03T21:21:09+00:00",
-        "summary": "I&M, AEP Transmission to host information session on proposed northern Indiana projects WOWO",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZThOVGZXV1pRTzlSbWgtaU10R1EyTUY0dTdkZjVlNXZ4T0R0NmdKUDJSVThmeG90LWJyNDdGTXNnMHFfMlR0aTQwdVZkTVdKcEFwMmR1MDltQWUwSjZoY3VVZHUzUUxYWlRWYkRVRDJKWllUS19iR0V5bmJjVnR6NF96RGh1VnA4VGlrQzJIcWVWanJma20xWVVXSXVDRlpDaXVLQUh3?oc=5\" target=\"_blank\">I&amp;M, AEP Transmission to host information session on proposed northern Indiana projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOWO</font>",
+        "published_at": "2026-11-04T16:22:04+00:00",
+        "summary": "AEP Transmission Company announces $550 million senior notes offering By Investing.com Investing.com India",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXpNQnVjTEx0Yy1rQnJzaGc4bWNaandUU2JUcEpxcnpxbmlHVEtSTUFfbmRDSFhYRHlfRm5hcnNGZEpydUwxMklPSldIcnRFRDBSdGVMcWNCcTdWa19Dc0tsaVlMeFo4djlhdFgtcVJySlRmWWRMSEdLSDQ0dHJNeno0WWszcm5rZ0F3YnR2dmpFb0o0c3RsYnNTZUxIREZhZEhUOE9fNmc0SWs0V2FsbnR2eGdIRHl3QkluYkQwbVlGaUgtRHNfNw?oc=5\" target=\"_blank\">AEP Transmission Company announces $550 million senior notes offering By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-03T22:46:14+00:00"
+        "collected_at": "2026-11-04T20:38:03+00:00"
       }
     },
     {
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 624,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "c94c4c0ecb0e8267",
         "title": "Brewton Linemen from Alabama Power Put Community First - Alabama Weather Network",
@@ -48,7 +48,7 @@
       "slug": "chrysalis",
       "file": "data/companies/chrysalis.json",
       "count": 35,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "e827381350527f38",
         "title": "SHINE Technologies gets $263 million conditional loan - Beloit Daily News",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 116,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "44f9b7556d1eb3d0",
         "title": "CEG Stock Gains On Reported $5B Nuclear Financing Offer – A Look At Some Key Highlights - TradingView",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1009,
-      "new_mentions_this_run": 6,
+      "count": 1012,
+      "new_mentions_this_run": 10,
       "latest_mention": {
-        "id": "c425e4e36e146cd6",
-        "title": "OpenAI Grid Protectors Program: Powerful 1 GW Demand-Response Plan Explained - Techgenyz",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53SGl3NWNYMERWV3RmMWRRalZyYVJJdDI3aVpJRXVYVGpSRjN2T3o1YXJQSl9rZERsb3lDeEkzVE95ZVVWYjIwenVFdUFRSmtYbDVucmlUNVB4eUxFR0pYZEI5NmdVMkUyVUhpM1dKYw?oc=5",
+        "id": "6c0f474544fe180f",
+        "title": "Southern Company stock falls after Democrats win majority on Georgia utility regulator - The Business Journals",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTTBoNk00MWJ3LVVZZ1R0RTBMV3JPNmh3aE9JYm52Z1dLcDFPMDRDVlFHa0l6RkhvQ0FxX2RNZG92UFdPU2hvR25TMy14YWNyTHFSQ2ZIWXdwTkgtWHlXeWd3Ym8wREJVRm5IXzdLLWRCeVNVNGNqY181cjdVQkRqdEFVd0tjUGdRMkZRV3FsSTBVVEdEWGVIbTV5WmZycG9kd2xn?oc=5",
         "domain": "news.google.com",
-        "source": "Techgenyz",
+        "source": "The Business Journals",
         "language": "English",
-        "published_at": "2026-11-03T08:26:07+00:00",
-        "summary": "OpenAI Grid Protectors Program: Powerful 1 GW Demand-Response Plan Explained Techgenyz",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE53SGl3NWNYMERWV3RmMWRRalZyYVJJdDI3aVpJRXVYVGpSRjN2T3o1YXJQSl9rZERsb3lDeEkzVE95ZVVWYjIwenVFdUFRSmtYbDVucmlUNVB4eUxFR0pYZEI5NmdVMkUyVUhpM1dKYw?oc=5\" target=\"_blank\">OpenAI Grid Protectors Program: Powerful 1 GW Demand-Response Plan Explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Techgenyz</font>",
+        "published_at": "2026-11-04T18:05:00+00:00",
+        "summary": "Southern Company stock falls after Democrats win majority on Georgia utility regulator The Business Journals",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTTBoNk00MWJ3LVVZZ1R0RTBMV3JPNmh3aE9JYm52Z1dLcDFPMDRDVlFHa0l6RkhvQ0FxX2RNZG92UFdPU2hvR25TMy14YWNyTHFSQ2ZIWXdwTkgtWHlXeWd3Ym8wREJVRm5IXzdLLWRCeVNVNGNqY181cjdVQkRqdEFVd0tjUGdRMkZRV3FsSTBVVEdEWGVIbTV5WmZycG9kd2xn?oc=5\" target=\"_blank\">Southern Company stock falls after Democrats win majority on Georgia utility regulator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-03T09:01:38+00:00"
+        "collected_at": "2026-11-04T20:38:25+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 73,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "e225f9b4f4f5b0a0",
         "title": "Alliant Energy to receive $5.1B in federal loans for natural gas, energy storage projects - WPR",
