@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-04T20:38:25+00:00",
+  "last_updated": "2026-11-05T01:56:38+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1012,
+  "count": 1013,
   "mentions": [
+    {
+      "id": "e6d90c5a557cd945",
+      "title": "Getting ready for cold weather | Prepping with Georgia Power - 11Alive.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnNucFBnVmRQS0lLdzU4bUlOMldxOThvazEwS0pzdHF0YnJ4OUxJOFdsWlIyTkxadEZvXzNZazZKTGJyc1dWR0F3bk5VM000cS11RkpWZEs0cXBTWE5XcG5PdF9HUkRzMUlwVkpDZU5aVHNiLXd4Y016S3B5RTBhcFdrSThlb2FsMUV1aTVQWXkyaFVoUjF5WjhkcnU3bkgyNXZldUZ1c1lWOE5uZS1uRlpiQTJlSzc3UTQ3RWhLSlZhay1qWlRnQ194Q1NuVEpQcjVLMXBR?oc=5",
+      "domain": "news.google.com",
+      "source": "11Alive.com",
+      "language": "English",
+      "published_at": "2026-11-04T23:13:00+00:00",
+      "summary": "Getting ready for cold weather | Prepping with Georgia Power 11Alive.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnNucFBnVmRQS0lLdzU4bUlOMldxOThvazEwS0pzdHF0YnJ4OUxJOFdsWlIyTkxadEZvXzNZazZKTGJyc1dWR0F3bk5VM000cS11RkpWZEs0cXBTWE5XcG5PdF9HUkRzMUlwVkpDZU5aVHNiLXd4Y016S3B5RTBhcFdrSThlb2FsMUV1aTVQWXkyaFVoUjF5WjhkcnU3bkgyNXZldUZ1c1lWOE5uZS1uRlpiQTJlSzc3UTQ3RWhLSlZhay1qWlRnQ194Q1NuVEpQcjVLMXBR?oc=5\" target=\"_blank\">Getting ready for cold weather | Prepping with Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-05T01:56:38+00:00"
+    },
     {
       "id": "6c0f474544fe180f",
       "title": "Southern Company stock falls after Democrats win majority on Georgia utility regulator - The Business Journals",

@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-11-04T20:38:35+00:00",
+  "last_updated": "2026-11-05T01:56:48+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 134,
-      "new_mentions_this_run": 10,
+      "count": 136,
+      "new_mentions_this_run": 12,
       "latest_mention": {
-        "id": "aadc689ed5614290",
-        "title": "AEP Transmission Company announces $550 million senior notes offering By Investing.com - Investing.com India",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXpNQnVjTEx0Yy1rQnJzaGc4bWNaandUU2JUcEpxcnpxbmlHVEtSTUFfbmRDSFhYRHlfRm5hcnNGZEpydUwxMklPSldIcnRFRDBSdGVMcWNCcTdWa19Dc0tsaVlMeFo4djlhdFgtcVJySlRmWWRMSEdLSDQ0dHJNeno0WWszcm5rZ0F3YnR2dmpFb0o0c3RsYnNTZUxIREZhZEhUOE9fNmc0SWs0V2FsbnR2eGdIRHl3QkluYkQwbVlGaUgtRHNfNw?oc=5",
+        "id": "6ef8cabecd03e7ff",
+        "title": "Hunton Advises on AEP Transmission Company, LLC’s $550M Senior Notes Offering - Hunton Andrews Kurth LLP",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY3Njb2g1QXZ5UU5wWUR4eUVLNlNSYmM5dE5pUC1zb1NfUDhIRGhIMGN2VlVSX0JsREtjSFZ3bmMtb3dRUzYxVVB5SGZjQVVlZnR1QXdEUHVfbFFlMXRSVTFkNHN5WlB0MVpSR0NNRjNsOUhDa0RLRnBDLXBrWWNBbGpVbTFwQ29rREdYMVluTHFkVjJBQmQzRU4wNTVKdEZzUFZJRw?oc=5",
         "domain": "news.google.com",
-        "source": "Investing.com India",
+        "source": "Hunton Andrews Kurth LLP",
         "language": "English",
-        "published_at": "2026-11-04T16:22:04+00:00",
-        "summary": "AEP Transmission Company announces $550 million senior notes offering By Investing.com Investing.com India",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXpNQnVjTEx0Yy1rQnJzaGc4bWNaandUU2JUcEpxcnpxbmlHVEtSTUFfbmRDSFhYRHlfRm5hcnNGZEpydUwxMklPSldIcnRFRDBSdGVMcWNCcTdWa19Dc0tsaVlMeFo4djlhdFgtcVJySlRmWWRMSEdLSDQ0dHJNeno0WWszcm5rZ0F3YnR2dmpFb0o0c3RsYnNTZUxIREZhZEhUOE9fNmc0SWs0V2FsbnR2eGdIRHl3QkluYkQwbVlGaUgtRHNfNw?oc=5\" target=\"_blank\">AEP Transmission Company announces $550 million senior notes offering By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font>",
+        "published_at": "2026-11-04T23:30:57+00:00",
+        "summary": "Hunton Advises on AEP Transmission Company, LLC’s $550M Senior Notes Offering Hunton Andrews Kurth LLP",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPY3Njb2g1QXZ5UU5wWUR4eUVLNlNSYmM5dE5pUC1zb1NfUDhIRGhIMGN2VlVSX0JsREtjSFZ3bmMtb3dRUzYxVVB5SGZjQVVlZnR1QXdEUHVfbFFlMXRSVTFkNHN5WlB0MVpSR0NNRjNsOUhDa0RLRnBDLXBrWWNBbGpVbTFwQ29rREdYMVluTHFkVjJBQmQzRU4wNTVKdEZzUFZJRw?oc=5\" target=\"_blank\">Hunton Advises on AEP Transmission Company, LLC’s $550M Senior Notes Offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hunton Andrews Kurth LLP</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-04T20:38:03+00:00"
+        "collected_at": "2026-11-05T01:56:15+00:00"
       }
     },
     {
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 624,
-      "new_mentions_this_run": 11,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "c94c4c0ecb0e8267",
         "title": "Brewton Linemen from Alabama Power Put Community First - Alabama Weather Network",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 116,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 1,
       "latest_mention": {
         "id": "44f9b7556d1eb3d0",
         "title": "CEG Stock Gains On Reported $5B Nuclear Financing Offer – A Look At Some Key Highlights - TradingView",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1012,
-      "new_mentions_this_run": 10,
+      "count": 1013,
+      "new_mentions_this_run": 12,
       "latest_mention": {
-        "id": "6c0f474544fe180f",
-        "title": "Southern Company stock falls after Democrats win majority on Georgia utility regulator - The Business Journals",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTTBoNk00MWJ3LVVZZ1R0RTBMV3JPNmh3aE9JYm52Z1dLcDFPMDRDVlFHa0l6RkhvQ0FxX2RNZG92UFdPU2hvR25TMy14YWNyTHFSQ2ZIWXdwTkgtWHlXeWd3Ym8wREJVRm5IXzdLLWRCeVNVNGNqY181cjdVQkRqdEFVd0tjUGdRMkZRV3FsSTBVVEdEWGVIbTV5WmZycG9kd2xn?oc=5",
+        "id": "e6d90c5a557cd945",
+        "title": "Getting ready for cold weather | Prepping with Georgia Power - 11Alive.com",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnNucFBnVmRQS0lLdzU4bUlOMldxOThvazEwS0pzdHF0YnJ4OUxJOFdsWlIyTkxadEZvXzNZazZKTGJyc1dWR0F3bk5VM000cS11RkpWZEs0cXBTWE5XcG5PdF9HUkRzMUlwVkpDZU5aVHNiLXd4Y016S3B5RTBhcFdrSThlb2FsMUV1aTVQWXkyaFVoUjF5WjhkcnU3bkgyNXZldUZ1c1lWOE5uZS1uRlpiQTJlSzc3UTQ3RWhLSlZhay1qWlRnQ194Q1NuVEpQcjVLMXBR?oc=5",
         "domain": "news.google.com",
-        "source": "The Business Journals",
+        "source": "11Alive.com",
         "language": "English",
-        "published_at": "2026-11-04T18:05:00+00:00",
-        "summary": "Southern Company stock falls after Democrats win majority on Georgia utility regulator The Business Journals",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTTBoNk00MWJ3LVVZZ1R0RTBMV3JPNmh3aE9JYm52Z1dLcDFPMDRDVlFHa0l6RkhvQ0FxX2RNZG92UFdPU2hvR25TMy14YWNyTHFSQ2ZIWXdwTkgtWHlXeWd3Ym8wREJVRm5IXzdLLWRCeVNVNGNqY181cjdVQkRqdEFVd0tjUGdRMkZRV3FsSTBVVEdEWGVIbTV5WmZycG9kd2xn?oc=5\" target=\"_blank\">Southern Company stock falls after Democrats win majority on Georgia utility regulator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "published_at": "2026-11-04T23:13:00+00:00",
+        "summary": "Getting ready for cold weather | Prepping with Georgia Power 11Alive.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnNucFBnVmRQS0lLdzU4bUlOMldxOThvazEwS0pzdHF0YnJ4OUxJOFdsWlIyTkxadEZvXzNZazZKTGJyc1dWR0F3bk5VM000cS11RkpWZEs0cXBTWE5XcG5PdF9HUkRzMUlwVkpDZU5aVHNiLXd4Y016S3B5RTBhcFdrSThlb2FsMUV1aTVQWXkyaFVoUjF5WjhkcnU3bkgyNXZldUZ1c1lWOE5uZS1uRlpiQTJlSzc3UTQ3RWhLSlZhay1qWlRnQ194Q1NuVEpQcjVLMXBR?oc=5\" target=\"_blank\">Getting ready for cold weather | Prepping with Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-04T20:38:25+00:00"
+        "collected_at": "2026-11-05T01:56:38+00:00"
       }
     },
     {
