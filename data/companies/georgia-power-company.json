@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-05T08:55:30+00:00",
+  "last_updated": "2026-11-05T17:48:00+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1013,
+  "count": 1015,
   "mentions": [
+    {
+      "id": "4305248d325c91bc",
+      "title": "Democrats flip Georgia utility commission after 30 years - Savannah Morning News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORVJ5QU5Qdm5kQ3FQSEhkTzBmdGtPWVc1WERtVXEwZlY0V0k3RDYxZ241dlljMmFDYlJjRUtjNEhzUkdvNXhUZDZQRUNPU1dySDhlM09ZRUhUUkFKUGJCT0tYdUdGT2U1dlp1M2dYZzJBcDRSTHBJYzdwT2hZc2dNcERkdGpDTVFVV193dWlJeWs1ZzctbUQ5U1FJTFZFdXU3a0Z5QmdMMEViSmRwVEJ5YUc0VmhsbWs?oc=5",
+      "domain": "news.google.com",
+      "source": "Savannah Morning News",
+      "language": "English",
+      "published_at": "2026-11-05T10:05:00+00:00",
+      "summary": "Democrats flip Georgia utility commission after 30 years Savannah Morning News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxORVJ5QU5Qdm5kQ3FQSEhkTzBmdGtPWVc1WERtVXEwZlY0V0k3RDYxZ241dlljMmFDYlJjRUtjNEhzUkdvNXhUZDZQRUNPU1dySDhlM09ZRUhUUkFKUGJCT0tYdUdGT2U1dlp1M2dYZzJBcDRSTHBJYzdwT2hZc2dNcERkdGpDTVFVV193dWlJeWs1ZzctbUQ5U1FJTFZFdXU3a0Z5QmdMMEViSmRwVEJ5YUc0VmhsbWs?oc=5\" target=\"_blank\">Democrats flip Georgia utility commission after 30 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-05T17:48:00+00:00"
+    },
     {
       "id": "e6d90c5a557cd945",
       "title": "Getting ready for cold weather | Prepping with Georgia Power - 11Alive.com",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-05T01:56:38+00:00"
+    },
+    {
+      "id": "47d13161d8eeb534",
+      "title": "Democrats Win Control of Georgia’s Energy Regulator - Inside Climate News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdV9CWURFTkxSUXo4cWk0S3VjWUFCMlZRU203T2RkSExVOUlERE0xYzJ3bFNHOXJDMzZsM2dPZFJDM0U1Ni1kcDRhYmRLMTJ4TnRaMF95dXdtX29yVDR6V1dwMG1TMEJwYm1LRm4xTXRXN2xwUUtRZWRMNEh5Y0w3OVhsckNDVTYwUUhlelJNbE9KdG9aN3JNeXN6MUg?oc=5",
+      "domain": "news.google.com",
+      "source": "Inside Climate News",
+      "language": "English",
+      "published_at": "2026-11-04T22:40:34+00:00",
+      "summary": "Democrats Win Control of Georgia’s Energy Regulator Inside Climate News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdV9CWURFTkxSUXo4cWk0S3VjWUFCMlZRU203T2RkSExVOUlERE0xYzJ3bFNHOXJDMzZsM2dPZFJDM0U1Ni1kcDRhYmRLMTJ4TnRaMF95dXdtX29yVDR6V1dwMG1TMEJwYm1LRm4xTXRXN2xwUUtRZWRMNEh5Y0w3OVhsckNDVTYwUUhlelJNbE9KdG9aN3JNeXN6MUg?oc=5\" target=\"_blank\">Democrats Win Control of Georgia’s Energy Regulator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-05T17:48:00+00:00"
     },
     {
       "id": "6c0f474544fe180f",

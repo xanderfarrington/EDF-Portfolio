@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-05T08:55:14+00:00",
+  "last_updated": "2026-11-05T17:47:44+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 628,
+  "count": 629,
   "mentions": [
+    {
+      "id": "a83edcba818af928",
+      "title": "'I'm not going to be arrested today': Alabama Power seeks restraining order against Fenn Church and his supporters - 1819 News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEQwbV9FaFo4V0hFRGJkZUxTM1N6SDEtd1Vhc3VNVHhpcHVJZE5qZWpHbUl2MnBhNjd2eFJTMTktMWh4SmN5bERkX25CTGptSXI2UXZxNGR5VHFGQnRQS0xLZHJqaGdVNmlhNWpZVVJfY1dMWW5vMTVmbGN2Tm8wQjZWZlpHblpHVl9XOFA3ZklfRzJMVXpXdGY3OW9YbFVxOUw2Q1Jwcjhrdk0?oc=5",
+      "domain": "news.google.com",
+      "source": "1819 News",
+      "language": "English",
+      "published_at": "2026-11-05T11:05:26+00:00",
+      "summary": "'I'm not going to be arrested today': Alabama Power seeks restraining order against Fenn Church and his supporters 1819 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEQwbV9FaFo4V0hFRGJkZUxTM1N6SDEtd1Vhc3VNVHhpcHVJZE5qZWpHbUl2MnBhNjd2eFJTMTktMWh4SmN5bERkX25CTGptSXI2UXZxNGR5VHFGQnRQS0xLZHJqaGdVNmlhNWpZVVJfY1dMWW5vMTVmbGN2Tm8wQjZWZlpHblpHVl9XOFA3ZklfRzJMVXpXdGY3OW9YbFVxOUw2Q1Jwcjhrdk0?oc=5\" target=\"_blank\">'I'm not going to be arrested today': Alabama Power seeks restraining order against Fenn Church and his supporters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-05T17:47:44+00:00"
+    },
     {
       "id": "2b59fb0112d0d2b6",
       "title": "Alabama Power wants judge to keep Fenn Church 300 feet from land clearing crews - AL.com",

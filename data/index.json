@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-05T08:55:40+00:00",
+  "last_updated": "2026-11-05T17:48:11+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 136,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "6ef8cabecd03e7ff",
         "title": "Hunton Advises on AEP Transmission Company, LLC’s $550M Senior Notes Offering - Hunton Andrews Kurth LLP",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 628,
-      "new_mentions_this_run": 11,
+      "count": 629,
+      "new_mentions_this_run": 10,
       "latest_mention": {
-        "id": "2b59fb0112d0d2b6",
-        "title": "Alabama Power wants judge to keep Fenn Church 300 feet from land clearing crews - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWZpTEpHbU43eFJDR3lvejZGVlotMDVYMWNaUTB3Y1ZaM2xnVE5Xeld3LUUyVGhqWTJ5TUxVQ1BHUUNYTjFjUjJPdkRYdFQyZHFOMk5aTWZCNkhLWng1TTlKUXNiR0Jfcmx4UzBzYjNWWVo1OXY5TkFoS3FkdjlUd1h0M0x5dVFoY3hvSDVwSVh0SFZxSnFfM1p4Ui1tMkxiUk5oaVFBWGdnWXBpb2NLbXc3REgweTTSAcsBQVVfeXFMT01RSWdZRkFOX0N1SXotb0xMdmVMbTJwUm9DZGtJMkdIeHluQzFIZG81alZ2UHl0T0VibWFYeWhBVGowZUljNGNBSmE5b3FndWlkbUZWc2F3UGw1MnFfcU05Yl8zbGpMWDZ4bDhZZUNkT1dxRkVlS2xjX2UzM2xKcTNnN1dVblphWThiVS1mUzFRZ0FoQ29jcldUMkhaMVRwSXpqMXZwX2J4d1RkRTZXS3FKZnlnczZ1UUJDWS1hRkt5NkRxY0U3THR0WEk?oc=5",
+        "id": "a83edcba818af928",
+        "title": "'I'm not going to be arrested today': Alabama Power seeks restraining order against Fenn Church and his supporters - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEQwbV9FaFo4V0hFRGJkZUxTM1N6SDEtd1Vhc3VNVHhpcHVJZE5qZWpHbUl2MnBhNjd2eFJTMTktMWh4SmN5bERkX25CTGptSXI2UXZxNGR5VHFGQnRQS0xLZHJqaGdVNmlhNWpZVVJfY1dMWW5vMTVmbGN2Tm8wQjZWZlpHblpHVl9XOFA3ZklfRzJMVXpXdGY3OW9YbFVxOUw2Q1Jwcjhrdk0?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "1819 News",
         "language": "English",
-        "published_at": "2026-11-05T02:04:00+00:00",
-        "summary": "Alabama Power wants judge to keep Fenn Church 300 feet from land clearing crews AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWZpTEpHbU43eFJDR3lvejZGVlotMDVYMWNaUTB3Y1ZaM2xnVE5Xeld3LUUyVGhqWTJ5TUxVQ1BHUUNYTjFjUjJPdkRYdFQyZHFOMk5aTWZCNkhLWng1TTlKUXNiR0Jfcmx4UzBzYjNWWVo1OXY5TkFoS3FkdjlUd1h0M0x5dVFoY3hvSDVwSVh0SFZxSnFfM1p4Ui1tMkxiUk5oaVFBWGdnWXBpb2NLbXc3REgweTTSAcsBQVVfeXFMT01RSWdZRkFOX0N1SXotb0xMdmVMbTJwUm9DZGtJMkdIeHluQzFIZG81alZ2UHl0T0VibWFYeWhBVGowZUljNGNBSmE5b3FndWlkbUZWc2F3UGw1MnFfcU05Yl8zbGpMWDZ4bDhZZUNkT1dxRkVlS2xjX2UzM2xKcTNnN1dVblphWThiVS1mUzFRZ0FoQ29jcldUMkhaMVRwSXpqMXZwX2J4d1RkRTZXS3FKZnlnczZ1UUJDWS1hRkt5NkRxY0U3THR0WEk?oc=5\" target=\"_blank\">Alabama Power wants judge to keep Fenn Church 300 feet from land clearing crews</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-11-05T11:05:26+00:00",
+        "summary": "'I'm not going to be arrested today': Alabama Power seeks restraining order against Fenn Church and his supporters 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEQwbV9FaFo4V0hFRGJkZUxTM1N6SDEtd1Vhc3VNVHhpcHVJZE5qZWpHbUl2MnBhNjd2eFJTMTktMWh4SmN5bERkX25CTGptSXI2UXZxNGR5VHFGQnRQS0xLZHJqaGdVNmlhNWpZVVJfY1dMWW5vMTVmbGN2Tm8wQjZWZlpHblpHVl9XOFA3ZklfRzJMVXpXdGY3OW9YbFVxOUw2Q1Jwcjhrdk0?oc=5\" target=\"_blank\">'I'm not going to be arrested today': Alabama Power seeks restraining order against Fenn Church and his supporters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-05T08:55:14+00:00"
+        "collected_at": "2026-11-05T17:47:44+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1013,
+      "count": 1015,
       "new_mentions_this_run": 12,
       "latest_mention": {
-        "id": "e6d90c5a557cd945",
-        "title": "Getting ready for cold weather | Prepping with Georgia Power - 11Alive.com",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnNucFBnVmRQS0lLdzU4bUlOMldxOThvazEwS0pzdHF0YnJ4OUxJOFdsWlIyTkxadEZvXzNZazZKTGJyc1dWR0F3bk5VM000cS11RkpWZEs0cXBTWE5XcG5PdF9HUkRzMUlwVkpDZU5aVHNiLXd4Y016S3B5RTBhcFdrSThlb2FsMUV1aTVQWXkyaFVoUjF5WjhkcnU3bkgyNXZldUZ1c1lWOE5uZS1uRlpiQTJlSzc3UTQ3RWhLSlZhay1qWlRnQ194Q1NuVEpQcjVLMXBR?oc=5",
+        "id": "4305248d325c91bc",
+        "title": "Democrats flip Georgia utility commission after 30 years - Savannah Morning News",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORVJ5QU5Qdm5kQ3FQSEhkTzBmdGtPWVc1WERtVXEwZlY0V0k3RDYxZ241dlljMmFDYlJjRUtjNEhzUkdvNXhUZDZQRUNPU1dySDhlM09ZRUhUUkFKUGJCT0tYdUdGT2U1dlp1M2dYZzJBcDRSTHBJYzdwT2hZc2dNcERkdGpDTVFVV193dWlJeWs1ZzctbUQ5U1FJTFZFdXU3a0Z5QmdMMEViSmRwVEJ5YUc0VmhsbWs?oc=5",
         "domain": "news.google.com",
-        "source": "11Alive.com",
+        "source": "Savannah Morning News",
         "language": "English",
-        "published_at": "2026-11-04T23:13:00+00:00",
-        "summary": "Getting ready for cold weather | Prepping with Georgia Power 11Alive.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnNucFBnVmRQS0lLdzU4bUlOMldxOThvazEwS0pzdHF0YnJ4OUxJOFdsWlIyTkxadEZvXzNZazZKTGJyc1dWR0F3bk5VM000cS11RkpWZEs0cXBTWE5XcG5PdF9HUkRzMUlwVkpDZU5aVHNiLXd4Y016S3B5RTBhcFdrSThlb2FsMUV1aTVQWXkyaFVoUjF5WjhkcnU3bkgyNXZldUZ1c1lWOE5uZS1uRlpiQTJlSzc3UTQ3RWhLSlZhay1qWlRnQ194Q1NuVEpQcjVLMXBR?oc=5\" target=\"_blank\">Getting ready for cold weather | Prepping with Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+        "published_at": "2026-11-05T10:05:00+00:00",
+        "summary": "Democrats flip Georgia utility commission after 30 years Savannah Morning News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxORVJ5QU5Qdm5kQ3FQSEhkTzBmdGtPWVc1WERtVXEwZlY0V0k3RDYxZ241dlljMmFDYlJjRUtjNEhzUkdvNXhUZDZQRUNPU1dySDhlM09ZRUhUUkFKUGJCT0tYdUdGT2U1dlp1M2dYZzJBcDRSTHBJYzdwT2hZc2dNcERkdGpDTVFVV193dWlJeWs1ZzctbUQ5U1FJTFZFdXU3a0Z5QmdMMEViSmRwVEJ5YUc0VmhsbWs?oc=5\" target=\"_blank\">Democrats flip Georgia utility commission after 30 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-05T01:56:38+00:00"
+        "collected_at": "2026-11-05T17:48:00+00:00"
       }
     },
     {
