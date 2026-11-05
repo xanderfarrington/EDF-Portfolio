@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-05T01:56:48+00:00",
+  "last_updated": "2026-11-05T08:55:40+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 136,
-      "new_mentions_this_run": 12,
+      "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "6ef8cabecd03e7ff",
         "title": "Hunton Advises on AEP Transmission Company, LLC’s $550M Senior Notes Offering - Hunton Andrews Kurth LLP",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 624,
-      "new_mentions_this_run": 0,
+      "count": 628,
+      "new_mentions_this_run": 11,
       "latest_mention": {
-        "id": "c94c4c0ecb0e8267",
-        "title": "Brewton Linemen from Alabama Power Put Community First - Alabama Weather Network",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN2lLVENpRGM5U0IyNnVpR19FSk8tYzJrZ0t5aWZsb0tRQ0lWZS1qdEs4RlA1MjRKMmtsNlVrVWdPMDVUeFRDZXBZeVJjZ0NWXzNiT2hSYWhLRDQwby1wTDhmTmFqTVZlZWhUXzFBTmpPMnJMeXdKcEZyeDJuUmgzaW45NVBndmNtUWdUbENZS1ZyQUE?oc=5",
+        "id": "2b59fb0112d0d2b6",
+        "title": "Alabama Power wants judge to keep Fenn Church 300 feet from land clearing crews - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWZpTEpHbU43eFJDR3lvejZGVlotMDVYMWNaUTB3Y1ZaM2xnVE5Xeld3LUUyVGhqWTJ5TUxVQ1BHUUNYTjFjUjJPdkRYdFQyZHFOMk5aTWZCNkhLWng1TTlKUXNiR0Jfcmx4UzBzYjNWWVo1OXY5TkFoS3FkdjlUd1h0M0x5dVFoY3hvSDVwSVh0SFZxSnFfM1p4Ui1tMkxiUk5oaVFBWGdnWXBpb2NLbXc3REgweTTSAcsBQVVfeXFMT01RSWdZRkFOX0N1SXotb0xMdmVMbTJwUm9DZGtJMkdIeHluQzFIZG81alZ2UHl0T0VibWFYeWhBVGowZUljNGNBSmE5b3FndWlkbUZWc2F3UGw1MnFfcU05Yl8zbGpMWDZ4bDhZZUNkT1dxRkVlS2xjX2UzM2xKcTNnN1dVblphWThiVS1mUzFRZ0FoQ29jcldUMkhaMVRwSXpqMXZwX2J4d1RkRTZXS3FKZnlnczZ1UUJDWS1hRkt5NkRxY0U3THR0WEk?oc=5",
         "domain": "news.google.com",
-        "source": "Alabama Weather Network",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-11-04T02:48:28+00:00",
-        "summary": "Brewton Linemen from Alabama Power Put Community First Alabama Weather Network",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPN2lLVENpRGM5U0IyNnVpR19FSk8tYzJrZ0t5aWZsb0tRQ0lWZS1qdEs4RlA1MjRKMmtsNlVrVWdPMDVUeFRDZXBZeVJjZ0NWXzNiT2hSYWhLRDQwby1wTDhmTmFqTVZlZWhUXzFBTmpPMnJMeXdKcEZyeDJuUmgzaW45NVBndmNtUWdUbENZS1ZyQUE?oc=5\" target=\"_blank\">Brewton Linemen from Alabama Power Put Community First</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Weather Network</font>",
+        "published_at": "2026-11-05T02:04:00+00:00",
+        "summary": "Alabama Power wants judge to keep Fenn Church 300 feet from land clearing crews AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWZpTEpHbU43eFJDR3lvejZGVlotMDVYMWNaUTB3Y1ZaM2xnVE5Xeld3LUUyVGhqWTJ5TUxVQ1BHUUNYTjFjUjJPdkRYdFQyZHFOMk5aTWZCNkhLWng1TTlKUXNiR0Jfcmx4UzBzYjNWWVo1OXY5TkFoS3FkdjlUd1h0M0x5dVFoY3hvSDVwSVh0SFZxSnFfM1p4Ui1tMkxiUk5oaVFBWGdnWXBpb2NLbXc3REgweTTSAcsBQVVfeXFMT01RSWdZRkFOX0N1SXotb0xMdmVMbTJwUm9DZGtJMkdIeHluQzFIZG81alZ2UHl0T0VibWFYeWhBVGowZUljNGNBSmE5b3FndWlkbUZWc2F3UGw1MnFfcU05Yl8zbGpMWDZ4bDhZZUNkT1dxRkVlS2xjX2UzM2xKcTNnN1dVblphWThiVS1mUzFRZ0FoQ29jcldUMkhaMVRwSXpqMXZwX2J4d1RkRTZXS3FKZnlnczZ1UUJDWS1hRkt5NkRxY0U3THR0WEk?oc=5\" target=\"_blank\">Alabama Power wants judge to keep Fenn Church 300 feet from land clearing crews</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-04T04:24:18+00:00"
+        "collected_at": "2026-11-05T08:55:14+00:00"
       }
     },
     {
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 116,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "44f9b7556d1eb3d0",
         "title": "CEG Stock Gains On Reported $5B Nuclear Financing Offer – A Look At Some Key Highlights - TradingView",
