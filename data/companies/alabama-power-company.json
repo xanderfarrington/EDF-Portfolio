@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-05T17:47:44+00:00",
+  "last_updated": "2026-11-05T23:08:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 629,
+  "count": 631,
   "mentions": [
+    {
+      "id": "d2194fdebdc55aeb",
+      "title": "Alabama Power asks judge to keep Calera property owner 300 feet from crews - wvtm",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDhVaFlPUmpDMG5JamZXTW5Nb2lwN1hkdXNGSWtUbDgzSE80ZGdHa1NBLW90emxNRktjYUd5TWtmejBoU01TdFRPcXhxY2VOczZNcmpjVmVlQVNDVnZWaFllRTV3ZFBvazlsOV85NUNUaDZ1a3g4NHZBN2d3T0ZmLUFDNzJGV0VaS0JZ?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm",
+      "language": "English",
+      "published_at": "2026-11-05T19:23:00+00:00",
+      "summary": "Alabama Power asks judge to keep Calera property owner 300 feet from crews wvtm",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDhVaFlPUmpDMG5JamZXTW5Nb2lwN1hkdXNGSWtUbDgzSE80ZGdHa1NBLW90emxNRktjYUd5TWtmejBoU01TdFRPcXhxY2VOczZNcmpjVmVlQVNDVnZWaFllRTV3ZFBvazlsOV85NUNUaDZ1a3g4NHZBN2d3T0ZmLUFDNzJGV0VaS0JZ?oc=5\" target=\"_blank\">Alabama Power asks judge to keep Calera property owner 300 feet from crews</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-05T23:08:12+00:00"
+    },
     {
       "id": "a83edcba818af928",
       "title": "'I'm not going to be arrested today': Alabama Power seeks restraining order against Fenn Church and his supporters - 1819 News",
@@ -19,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-05T17:47:44+00:00"
+    },
+    {
+      "id": "474ecb1af1b3a18a",
+      "title": "Alabama Power wants judge to keep Fenn Church 300 feet from land clearing crews - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWoySXpDb3hNWFVBRHRzcnFFR2ppUDZfV1A5RXJ3UHFqWFgzeUM1LVoxdXBiT3FjQ3Ytb2xYSlhSNDRpYU10b0tXZmQtRlFRSm5vb1VjYW9lXzJfb3d1b3ZvZlpaV2k2RUhiaWQxTGk1c01pbExBd25qcThLWXN3TUJXa3Z3QW5pQlNZdw?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-11-05T02:05:00+00:00",
+      "summary": "Alabama Power wants judge to keep Fenn Church 300 feet from land clearing crews Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONWoySXpDb3hNWFVBRHRzcnFFR2ppUDZfV1A5RXJ3UHFqWFgzeUM1LVoxdXBiT3FjQ3Ytb2xYSlhSNDRpYU10b0tXZmQtRlFRSm5vb1VjYW9lXzJfb3d1b3ZvZlpaV2k2RUhiaWQxTGk1c01pbExBd25qcThLWXN3TUJXa3Z3QW5pQlNZdw?oc=5\" target=\"_blank\">Alabama Power wants judge to keep Fenn Church 300 feet from land clearing crews</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-05T23:08:12+00:00"
     },
     {
       "id": "2b59fb0112d0d2b6",
