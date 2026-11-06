@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T13:35:44+00:00",
+  "last_updated": "2026-11-06T20:12:25+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 634,
-      "new_mentions_this_run": 12,
+      "count": 636,
+      "new_mentions_this_run": 11,
       "latest_mention": {
-        "id": "acdf52c1d7221a76",
-        "title": "Man says Alabama Power cut 200 yards of oak trees on his property without his knowledge - wvtm",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0NRZlpJRjM2QUhTQV8xMUQtbXE3bjBGT0FyMC1TdU5mdkhQdV9tUWhYaWRNVzNvNXJ6RGZSOTBwZnhYQURkSFJ0UDZBcFlLYzVpejlZODMyengteTVxOFRtREZKaHBTWDBTUnRJZXEtNW04bVU3NGJ2Y2ZkdER2SDc1UWx4eG42R1k1N1pOWnJFOXJvb2t0RVFzNlo?oc=5",
+        "id": "42d0372aa8fbd4b7",
+        "title": "Alabama Power Cut Down His Old-Growth Oaks While the Condemnation Lawsuit Was Still in Court! - Gadget Review",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaFJDMzhuSENHMHoyR1ZNNndjU3B0VEE3NTJRSURUTGk5VGRpMDZKZXNWczZmS2VhZExNbDNPM0NUeThZWjRaOGJzMDBaa1JScHJEMzVtOXlWRThJaV8zRmFMdGE5V1cxc2w3dUtNMVU1aGtwTXhHYVRIV2JhYTFudEtrZVFZcVhGQzRJSm52Mi1LLXN3Z1QzejB0b0hNNlVVUDVUSHdoX29pUFFKTl83R2ZRT0phNjNuSXU4YUtR?oc=5",
         "domain": "news.google.com",
-        "source": "wvtm",
+        "source": "Gadget Review",
         "language": "English",
-        "published_at": "2026-11-05T23:25:00+00:00",
-        "summary": "Man says Alabama Power cut 200 yards of oak trees on his property without his knowledge wvtm",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0NRZlpJRjM2QUhTQV8xMUQtbXE3bjBGT0FyMC1TdU5mdkhQdV9tUWhYaWRNVzNvNXJ6RGZSOTBwZnhYQURkSFJ0UDZBcFlLYzVpejlZODMyengteTVxOFRtREZKaHBTWDBTUnRJZXEtNW04bVU3NGJ2Y2ZkdER2SDc1UWx4eG42R1k1N1pOWnJFOXJvb2t0RVFzNlo?oc=5\" target=\"_blank\">Man says Alabama Power cut 200 yards of oak trees on his property without his knowledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+        "published_at": "2026-11-06T16:54:24+00:00",
+        "summary": "Alabama Power Cut Down His Old-Growth Oaks While the Condemnation Lawsuit Was Still in Court! Gadget Review",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNaFJDMzhuSENHMHoyR1ZNNndjU3B0VEE3NTJRSURUTGk5VGRpMDZKZXNWczZmS2VhZExNbDNPM0NUeThZWjRaOGJzMDBaa1JScHJEMzVtOXlWRThJaV8zRmFMdGE5V1cxc2w3dUtNMVU1aGtwTXhHYVRIV2JhYTFudEtrZVFZcVhGQzRJSm52Mi1LLXN3Z1QzejB0b0hNNlVVUDVUSHdoX29pUFFKTl83R2ZRT0phNjNuSXU4YUtR?oc=5\" target=\"_blank\">Alabama Power Cut Down His Old-Growth Oaks While the Condemnation Lawsuit Was Still in Court!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gadget Review</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-06T04:40:33+00:00"
+        "collected_at": "2026-11-06T20:11:58+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1015,
+      "count": 1017,
       "new_mentions_this_run": 6,
       "latest_mention": {
-        "id": "4305248d325c91bc",
-        "title": "Democrats flip Georgia utility commission after 30 years - Savannah Morning News",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORVJ5QU5Qdm5kQ3FQSEhkTzBmdGtPWVc1WERtVXEwZlY0V0k3RDYxZ241dlljMmFDYlJjRUtjNEhzUkdvNXhUZDZQRUNPU1dySDhlM09ZRUhUUkFKUGJCT0tYdUdGT2U1dlp1M2dYZzJBcDRSTHBJYzdwT2hZc2dNcERkdGpDTVFVV193dWlJeWs1ZzctbUQ5U1FJTFZFdXU3a0Z5QmdMMEViSmRwVEJ5YUc0VmhsbWs?oc=5",
+        "id": "7ff071f4cbe71a4d",
+        "title": "Democrats take control of Georgia’s powerful utility regulator - Grist",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2hRT2YzbEhPYzlLX2pHZW5sNkl6dnlJNHZLSFQ1cWp4SlRONTZuUkZmVW1SVFJZcW1pMDE3STduNkNodDluQmFMbC11VkFJR1FJRC1xTkZhQ3N0Mkg3R3J6RmxMcnJRaVJaVk5XQWh5b3JCVEpQNy1RNlk5ZVpoaWRGT09mUEJSVEs0blFXSXFkRnEydXNr?oc=5",
         "domain": "news.google.com",
-        "source": "Savannah Morning News",
+        "source": "Grist",
         "language": "English",
-        "published_at": "2026-11-05T10:05:00+00:00",
-        "summary": "Democrats flip Georgia utility commission after 30 years Savannah Morning News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxORVJ5QU5Qdm5kQ3FQSEhkTzBmdGtPWVc1WERtVXEwZlY0V0k3RDYxZ241dlljMmFDYlJjRUtjNEhzUkdvNXhUZDZQRUNPU1dySDhlM09ZRUhUUkFKUGJCT0tYdUdGT2U1dlp1M2dYZzJBcDRSTHBJYzdwT2hZc2dNcERkdGpDTVFVV193dWlJeWs1ZzctbUQ5U1FJTFZFdXU3a0Z5QmdMMEViSmRwVEJ5YUc0VmhsbWs?oc=5\" target=\"_blank\">Democrats flip Georgia utility commission after 30 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+        "published_at": "2026-11-06T18:57:12+00:00",
+        "summary": "Democrats take control of Georgia’s powerful utility regulator Grist",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2hRT2YzbEhPYzlLX2pHZW5sNkl6dnlJNHZLSFQ1cWp4SlRONTZuUkZmVW1SVFJZcW1pMDE3STduNkNodDluQmFMbC11VkFJR1FJRC1xTkZhQ3N0Mkg3R3J6RmxMcnJRaVJaVk5XQWh5b3JCVEpQNy1RNlk5ZVpoaWRGT09mUEJSVEs0blFXSXFkRnEydXNr?oc=5\" target=\"_blank\">Democrats take control of Georgia’s powerful utility regulator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grist</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-05T17:48:00+00:00"
+        "collected_at": "2026-11-06T20:12:14+00:00"
       }
     },
     {
