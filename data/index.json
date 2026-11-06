@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-11-06T04:41:00+00:00",
+  "last_updated": "2026-11-06T13:35:44+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 136,
-      "new_mentions_this_run": 7,
+      "count": 137,
+      "new_mentions_this_run": 6,
       "latest_mention": {
-        "id": "6ef8cabecd03e7ff",
-        "title": "Hunton Advises on AEP Transmission Company, LLC’s $550M Senior Notes Offering - Hunton Andrews Kurth LLP",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY3Njb2g1QXZ5UU5wWUR4eUVLNlNSYmM5dE5pUC1zb1NfUDhIRGhIMGN2VlVSX0JsREtjSFZ3bmMtb3dRUzYxVVB5SGZjQVVlZnR1QXdEUHVfbFFlMXRSVTFkNHN5WlB0MVpSR0NNRjNsOUhDa0RLRnBDLXBrWWNBbGpVbTFwQ29rREdYMVluTHFkVjJBQmQzRU4wNTVKdEZzUFZJRw?oc=5",
+        "id": "04e383525049365c",
+        "title": "AEP plans 25 miles of new transmission lines - Marysville Journal Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1dDUHVvNDJpTlJwbEhmUllNN0lQbFpxNC1jbEx6Q2c4VWlPX25DN0ZKcWRWQ2NHX05iUmlBS1V3elZPUHViNS1HQTRQM2dob2htUklLZ0UyZmhURHdyNDBWUlgyVHhOdDR5c0lzeVBkQ0JiRFV4REl6SU0zOWppekVWTXp4M0NMclE?oc=5",
         "domain": "news.google.com",
-        "source": "Hunton Andrews Kurth LLP",
+        "source": "Marysville Journal Tribune",
         "language": "English",
-        "published_at": "2026-11-04T23:30:57+00:00",
-        "summary": "Hunton Advises on AEP Transmission Company, LLC’s $550M Senior Notes Offering Hunton Andrews Kurth LLP",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPY3Njb2g1QXZ5UU5wWUR4eUVLNlNSYmM5dE5pUC1zb1NfUDhIRGhIMGN2VlVSX0JsREtjSFZ3bmMtb3dRUzYxVVB5SGZjQVVlZnR1QXdEUHVfbFFlMXRSVTFkNHN5WlB0MVpSR0NNRjNsOUhDa0RLRnBDLXBrWWNBbGpVbTFwQ29rREdYMVluTHFkVjJBQmQzRU4wNTVKdEZzUFZJRw?oc=5\" target=\"_blank\">Hunton Advises on AEP Transmission Company, LLC’s $550M Senior Notes Offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hunton Andrews Kurth LLP</font>",
+        "published_at": "2026-11-06T11:03:30+00:00",
+        "summary": "AEP plans 25 miles of new transmission lines Marysville Journal Tribune",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1dDUHVvNDJpTlJwbEhmUllNN0lQbFpxNC1jbEx6Q2c4VWlPX25DN0ZKcWRWQ2NHX05iUmlBS1V3elZPUHViNS1HQTRQM2dob2htUklLZ0UyZmhURHdyNDBWUlgyVHhOdDR5c0lzeVBkQ0JiRFV4REl6SU0zOWppekVWTXp4M0NMclE?oc=5\" target=\"_blank\">AEP plans 25 miles of new transmission lines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marysville Journal Tribune</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-05T01:56:15+00:00"
+        "collected_at": "2026-11-06T13:35:12+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 633,
-      "new_mentions_this_run": 13,
+      "count": 634,
+      "new_mentions_this_run": 12,
       "latest_mention": {
         "id": "acdf52c1d7221a76",
         "title": "Man says Alabama Power cut 200 yards of oak trees on his property without his knowledge - wvtm",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1015,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "4305248d325c91bc",
         "title": "Democrats flip Georgia utility commission after 30 years - Savannah Morning News",

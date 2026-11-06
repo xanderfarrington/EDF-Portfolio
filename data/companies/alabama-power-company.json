@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-06T04:40:33+00:00",
+  "last_updated": "2026-11-06T13:35:18+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 633,
+  "count": 634,
   "mentions": [
     {
       "id": "acdf52c1d7221a76",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-06T04:40:33+00:00"
+    },
+    {
+      "id": "b6928ac8beabede2",
+      "title": "Alabama Power seeking restraining order against landowner Fenn Church - Alabama's 42",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWt0Znd0c05nMDhIWEJsTUNvcGxKa0kyemlMODlmd0lkbkpkVDhySkkyRTBEZTNHY1F1cmNxZ3lRM09MVTExUi1YY19yNENJYThLbUJvbDhuUHJFVHlzc3dCcVZFNTBacGJUdnczbmN4elFUQ2U3OFZGQUtBVGFkOHdvZzJ5bmdUYlpnUDdfWlpjZ2RibEZYUE9aWkdncjRhU29haNIBqgFBVV95cUxPR3RlN0pfZmVSTTV5ZVU2WEhaUFduZkN2X0g2UGdhekc5VlAtTDRhMDg0YWRlX2o5QmhaWTBidmlpdVc4X21Gd0F0ajlPRW5NLUNWZFd4S0RmNXBwS2d2VFF6aDRsLW9sR0pDMUl6SnRyLUhYdzV3b29FajAxWWwyb1N0Q1VHb240SWYweDV5bzIyaXZRTjB5dVE1Y1NUTnlGaVhqZ0ZHZHFRdw?oc=5",
+      "domain": "news.google.com",
+      "source": "Alabama's 42",
+      "language": "English",
+      "published_at": "2026-11-05T22:32:55+00:00",
+      "summary": "Alabama Power seeking restraining order against landowner Fenn Church Alabama's 42",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWt0Znd0c05nMDhIWEJsTUNvcGxKa0kyemlMODlmd0lkbkpkVDhySkkyRTBEZTNHY1F1cmNxZ3lRM09MVTExUi1YY19yNENJYThLbUJvbDhuUHJFVHlzc3dCcVZFNTBacGJUdnczbmN4elFUQ2U3OFZGQUtBVGFkOHdvZzJ5bmdUYlpnUDdfWlpjZ2RibEZYUE9aWkdncjRhU29haNIBqgFBVV95cUxPR3RlN0pfZmVSTTV5ZVU2WEhaUFduZkN2X0g2UGdhekc5VlAtTDRhMDg0YWRlX2o5QmhaWTBidmlpdVc4X21Gd0F0ajlPRW5NLUNWZFd4S0RmNXBwS2d2VFF6aDRsLW9sR0pDMUl6SnRyLUhYdzV3b29FajAxWWwyb1N0Q1VHb240SWYweDV5bzIyaXZRTjB5dVE1Y1NUTnlGaVhqZ0ZHZHFRdw?oc=5\" target=\"_blank\">Alabama Power seeking restraining order against landowner Fenn Church</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama's 42</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-06T13:35:18+00:00"
     },
     {
       "id": "d2194fdebdc55aeb",

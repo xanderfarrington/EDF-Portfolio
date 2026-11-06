@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-06T04:40:27+00:00",
+  "last_updated": "2026-11-06T13:35:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 136,
+  "count": 137,
   "mentions": [
+    {
+      "id": "04e383525049365c",
+      "title": "AEP plans 25 miles of new transmission lines - Marysville Journal Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1dDUHVvNDJpTlJwbEhmUllNN0lQbFpxNC1jbEx6Q2c4VWlPX25DN0ZKcWRWQ2NHX05iUmlBS1V3elZPUHViNS1HQTRQM2dob2htUklLZ0UyZmhURHdyNDBWUlgyVHhOdDR5c0lzeVBkQ0JiRFV4REl6SU0zOWppekVWTXp4M0NMclE?oc=5",
+      "domain": "news.google.com",
+      "source": "Marysville Journal Tribune",
+      "language": "English",
+      "published_at": "2026-11-06T11:03:30+00:00",
+      "summary": "AEP plans 25 miles of new transmission lines Marysville Journal Tribune",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1dDUHVvNDJpTlJwbEhmUllNN0lQbFpxNC1jbEx6Q2c4VWlPX25DN0ZKcWRWQ2NHX05iUmlBS1V3elZPUHViNS1HQTRQM2dob2htUklLZ0UyZmhURHdyNDBWUlgyVHhOdDR5c0lzeVBkQ0JiRFV4REl6SU0zOWppekVWTXp4M0NMclE?oc=5\" target=\"_blank\">AEP plans 25 miles of new transmission lines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marysville Journal Tribune</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-06T13:35:12+00:00"
+    },
     {
       "id": "6ef8cabecd03e7ff",
       "title": "Hunton Advises on AEP Transmission Company, LLC’s $550M Senior Notes Offering - Hunton Andrews Kurth LLP",
