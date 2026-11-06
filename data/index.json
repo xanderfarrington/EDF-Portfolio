@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T23:08:39+00:00",
+  "last_updated": "2026-11-06T04:41:00+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 631,
-      "new_mentions_this_run": 10,
+      "count": 633,
+      "new_mentions_this_run": 13,
       "latest_mention": {
-        "id": "d2194fdebdc55aeb",
-        "title": "Alabama Power asks judge to keep Calera property owner 300 feet from crews - wvtm",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDhVaFlPUmpDMG5JamZXTW5Nb2lwN1hkdXNGSWtUbDgzSE80ZGdHa1NBLW90emxNRktjYUd5TWtmejBoU01TdFRPcXhxY2VOczZNcmpjVmVlQVNDVnZWaFllRTV3ZFBvazlsOV85NUNUaDZ1a3g4NHZBN2d3T0ZmLUFDNzJGV0VaS0JZ?oc=5",
+        "id": "acdf52c1d7221a76",
+        "title": "Man says Alabama Power cut 200 yards of oak trees on his property without his knowledge - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0NRZlpJRjM2QUhTQV8xMUQtbXE3bjBGT0FyMC1TdU5mdkhQdV9tUWhYaWRNVzNvNXJ6RGZSOTBwZnhYQURkSFJ0UDZBcFlLYzVpejlZODMyengteTVxOFRtREZKaHBTWDBTUnRJZXEtNW04bVU3NGJ2Y2ZkdER2SDc1UWx4eG42R1k1N1pOWnJFOXJvb2t0RVFzNlo?oc=5",
         "domain": "news.google.com",
         "source": "wvtm",
         "language": "English",
-        "published_at": "2026-11-05T19:23:00+00:00",
-        "summary": "Alabama Power asks judge to keep Calera property owner 300 feet from crews wvtm",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDhVaFlPUmpDMG5JamZXTW5Nb2lwN1hkdXNGSWtUbDgzSE80ZGdHa1NBLW90emxNRktjYUd5TWtmejBoU01TdFRPcXhxY2VOczZNcmpjVmVlQVNDVnZWaFllRTV3ZFBvazlsOV85NUNUaDZ1a3g4NHZBN2d3T0ZmLUFDNzJGV0VaS0JZ?oc=5\" target=\"_blank\">Alabama Power asks judge to keep Calera property owner 300 feet from crews</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+        "published_at": "2026-11-05T23:25:00+00:00",
+        "summary": "Man says Alabama Power cut 200 yards of oak trees on his property without his knowledge wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0NRZlpJRjM2QUhTQV8xMUQtbXE3bjBGT0FyMC1TdU5mdkhQdV9tUWhYaWRNVzNvNXJ6RGZSOTBwZnhYQURkSFJ0UDZBcFlLYzVpejlZODMyengteTVxOFRtREZKaHBTWDBTUnRJZXEtNW04bVU3NGJ2Y2ZkdER2SDc1UWx4eG42R1k1N1pOWnJFOXJvb2t0RVFzNlo?oc=5\" target=\"_blank\">Man says Alabama Power cut 200 yards of oak trees on his property without his knowledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-05T23:08:12+00:00"
+        "collected_at": "2026-11-06T04:40:33+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1015,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "4305248d325c91bc",
         "title": "Democrats flip Georgia utility commission after 30 years - Savannah Morning News",
