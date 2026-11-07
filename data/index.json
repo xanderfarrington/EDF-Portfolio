@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-07T08:08:10+00:00",
+  "last_updated": "2026-11-07T16:01:17+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 138,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "04e383525049365c",
         "title": "AEP plans 25 miles of new transmission lines - Marysville Journal Tribune",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 642,
-      "new_mentions_this_run": 15,
+      "count": 646,
+      "new_mentions_this_run": 19,
       "latest_mention": {
-        "id": "5c0e1ec263fb5c3e",
-        "title": "Calera landowner continues to block Alabama Power crews ahead of restraining order hearing - Alabama's 42",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXNQc1owMEhDaWxyNzA5ZUNLcUFNbkpIOExaeXpPcV8tRTlCZ2lfckc2RkcyZ1p5bG9kZ3ptMzEyVkpXZXBqSE44MjJyOHNyOXJzLTZudU0taURGOENMQktSZG5MWG9XR0l3a2dCNXRxQVFpSHdqdlM3cjJKR3otX1lhd3BxQnlhMmI3WnBJV0xGY1lDSEl5UHRabnRjMG1mc2FUenh6VlJQRE5sLWZZaTV0Wmk3dk1pLXRnUFZpcWXSAcYBQVVfeXFMTTlwOG8wOGMzUHFrZDRHcXVpdUtLUFBhbUxsYjJ5d2l1cHRtMDRIWi1HazZtRkppT2RURHpqa1dJS0NYajNQaks4eGJZT1lfNTBQNVhObHlsSnVTdXd4Ulhnc3FzaU14am15cGMzd1kwTVhCYnUtLTZJTVNiRFFKb0MtOEFTRGIzNmpIUWpJS1BwbEFKbGNjTHZTVXpvVHFFWFN5amZtdVNqaEcxTUxhYzEyMDhQSnUtVm82XzRUMXZsWWtMdmVn?oc=5",
+        "id": "3a2003a1bbb2dfb6",
+        "title": "Alabama Power Service Organization's 35th annual Angel Tree Golf Tournament raises $100,000 - Yellowhammer News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGlvNDJXMWF1S0QzQjc3VkVVUHhNR1o1R2paN0hucGVkbi1KMGF3Q0twUnFjeUxqbHVkYW1MNmFhalMyWXlna2t1SGZ2Y1I2X2tzOXRRWk5tU3lrRXdHOGlFdVlSYVdqNG5sREpiclpOdl9BRDFBdC0teDlXM2p5TUlERE0ya01GcWpPc2NzT2RsVW9EdXZBOWpnOVEyMEZZN0ExRDA1TjZuVmYwZUhhcEFtNndVYW5oOUE?oc=5",
         "domain": "news.google.com",
-        "source": "Alabama's 42",
+        "source": "Yellowhammer News",
         "language": "English",
-        "published_at": "2026-11-07T01:26:56+00:00",
-        "summary": "Calera landowner continues to block Alabama Power crews ahead of restraining order hearing Alabama's 42",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXNQc1owMEhDaWxyNzA5ZUNLcUFNbkpIOExaeXpPcV8tRTlCZ2lfckc2RkcyZ1p5bG9kZ3ptMzEyVkpXZXBqSE44MjJyOHNyOXJzLTZudU0taURGOENMQktSZG5MWG9XR0l3a2dCNXRxQVFpSHdqdlM3cjJKR3otX1lhd3BxQnlhMmI3WnBJV0xGY1lDSEl5UHRabnRjMG1mc2FUenh6VlJQRE5sLWZZaTV0Wmk3dk1pLXRnUFZpcWXSAcYBQVVfeXFMTTlwOG8wOGMzUHFrZDRHcXVpdUtLUFBhbUxsYjJ5d2l1cHRtMDRIWi1HazZtRkppT2RURHpqa1dJS0NYajNQaks4eGJZT1lfNTBQNVhObHlsSnVTdXd4Ulhnc3FzaU14am15cGMzd1kwTVhCYnUtLTZJTVNiRFFKb0MtOEFTRGIzNmpIUWpJS1BwbEFKbGNjTHZTVXpvVHFFWFN5amZtdVNqaEcxTUxhYzEyMDhQSnUtVm82XzRUMXZsWWtMdmVn?oc=5\" target=\"_blank\">Calera landowner continues to block Alabama Power crews ahead of restraining order hearing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama's 42</font>",
+        "published_at": "2026-11-07T15:00:58+00:00",
+        "summary": "Alabama Power Service Organization's 35th annual Angel Tree Golf Tournament raises $100,000 Yellowhammer News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGlvNDJXMWF1S0QzQjc3VkVVUHhNR1o1R2paN0hucGVkbi1KMGF3Q0twUnFjeUxqbHVkYW1MNmFhalMyWXlna2t1SGZ2Y1I2X2tzOXRRWk5tU3lrRXdHOGlFdVlSYVdqNG5sREpiclpOdl9BRDFBdC0teDlXM2p5TUlERE0ya01GcWpPc2NzT2RsVW9EdXZBOWpnOVEyMEZZN0ExRDA1TjZuVmYwZUhhcEFtNndVYW5oOUE?oc=5\" target=\"_blank\">Alabama Power Service Organization's 35th annual Angel Tree Golf Tournament raises $100,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellowhammer News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-07T08:07:44+00:00"
+        "collected_at": "2026-11-07T16:00:50+00:00"
       }
     },
     {
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1026,
-      "new_mentions_this_run": 15,
+      "count": 1027,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "b6381d21a9e9645c",
         "title": "Georgia's largest battery storage facility unveiled in Ball Ground as backup for power system - CBS News",

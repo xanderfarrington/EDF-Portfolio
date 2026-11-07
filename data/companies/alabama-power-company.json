@@ -2,10 +2,38 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-07T08:07:44+00:00",
+  "last_updated": "2026-11-07T16:00:50+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 642,
+  "count": 646,
   "mentions": [
+    {
+      "id": "3a2003a1bbb2dfb6",
+      "title": "Alabama Power Service Organization's 35th annual Angel Tree Golf Tournament raises $100,000 - Yellowhammer News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGlvNDJXMWF1S0QzQjc3VkVVUHhNR1o1R2paN0hucGVkbi1KMGF3Q0twUnFjeUxqbHVkYW1MNmFhalMyWXlna2t1SGZ2Y1I2X2tzOXRRWk5tU3lrRXdHOGlFdVlSYVdqNG5sREpiclpOdl9BRDFBdC0teDlXM2p5TUlERE0ya01GcWpPc2NzT2RsVW9EdXZBOWpnOVEyMEZZN0ExRDA1TjZuVmYwZUhhcEFtNndVYW5oOUE?oc=5",
+      "domain": "news.google.com",
+      "source": "Yellowhammer News",
+      "language": "English",
+      "published_at": "2026-11-07T15:00:58+00:00",
+      "summary": "Alabama Power Service Organization's 35th annual Angel Tree Golf Tournament raises $100,000 Yellowhammer News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGlvNDJXMWF1S0QzQjc3VkVVUHhNR1o1R2paN0hucGVkbi1KMGF3Q0twUnFjeUxqbHVkYW1MNmFhalMyWXlna2t1SGZ2Y1I2X2tzOXRRWk5tU3lrRXdHOGlFdVlSYVdqNG5sREpiclpOdl9BRDFBdC0teDlXM2p5TUlERE0ya01GcWpPc2NzT2RsVW9EdXZBOWpnOVEyMEZZN0ExRDA1TjZuVmYwZUhhcEFtNndVYW5oOUE?oc=5\" target=\"_blank\">Alabama Power Service Organization's 35th annual Angel Tree Golf Tournament raises $100,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellowhammer News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-07T16:00:50+00:00"
+    },
+    {
+      "id": "b08789591bef39f7",
+      "title": "Alabama Power’s parent company reports $2 billion earnings in single quarter - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2xpQkZJZ2tvbzZwR3g4UFV0SEVRSHBJamhZT0hHY09aemFBa0NSazgxWEk5ZnBvWTB5QTM2MFAwTGRDRjlwTHlFXzdsSjk0bm9MX0xDd3E5SjA5RFU4a2hUc29RMUVYMkp2dHMyMTVLdzhQZFAtQmx5VWRGcU1CYnZVOXVzVDJZMEZuOXpkWkE5dGk2cGpua20wM0lpMURSWWdhTVVlcTltTllRcjFfZjlmd3ltQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-11-07T14:00:00+00:00",
+      "summary": "Alabama Power’s parent company reports $2 billion earnings in single quarter AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2xpQkZJZ2tvbzZwR3g4UFV0SEVRSHBJamhZT0hHY09aemFBa0NSazgxWEk5ZnBvWTB5QTM2MFAwTGRDRjlwTHlFXzdsSjk0bm9MX0xDd3E5SjA5RFU4a2hUc29RMUVYMkp2dHMyMTVLdzhQZFAtQmx5VWRGcU1CYnZVOXVzVDJZMEZuOXpkWkE5dGk2cGpua20wM0lpMURSWWdhTVVlcTltTllRcjFfZjlmd3ltQQ?oc=5\" target=\"_blank\">Alabama Power’s parent company reports $2 billion earnings in single quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-07T16:00:50+00:00"
+    },
     {
       "id": "5c0e1ec263fb5c3e",
       "title": "Calera landowner continues to block Alabama Power crews ahead of restraining order hearing - Alabama's 42",
@@ -133,6 +161,20 @@
       "collected_at": "2026-11-06T04:40:33+00:00"
     },
     {
+      "id": "9b70b285c400b704",
+      "title": "Calera landowner continues to block Alabama Power crews ahead of restraining order hearing - alabamas42.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNHJyWWp5TmxYU2RkS0NaS2lnaDlWdUdpd3VsV2g3NUxjVTRjSUN2YkNyWmZzYmdVLUJSNWk3RWs5WHQ5QWRqX0g2VGVyV1RweDFka3A0NGZQdzJUamFuSmJBck14TFlDaW5pMEU5b2JqX3JBNS1wQTFXckx6ZmFJa2MwT1JzMzViM29oY1E1ZlRlUlV4Tk9GOFlSanpUejZTeV9fNXR4Ym5lWkpiUzZ2bTJCNXBhX21EU3ZmdjNlVjEzUml2V3V6TzdzaFlNdw?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamas42.com",
+      "language": "English",
+      "published_at": "2026-11-05T22:52:44+00:00",
+      "summary": "Calera landowner continues to block Alabama Power crews ahead of restraining order hearing alabamas42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPNHJyWWp5TmxYU2RkS0NaS2lnaDlWdUdpd3VsV2g3NUxjVTRjSUN2YkNyWmZzYmdVLUJSNWk3RWs5WHQ5QWRqX0g2VGVyV1RweDFka3A0NGZQdzJUamFuSmJBck14TFlDaW5pMEU5b2JqX3JBNS1wQTFXckx6ZmFJa2MwT1JzMzViM29oY1E1ZlRlUlV4Tk9GOFlSanpUejZTeV9fNXR4Ym5lWkpiUzZ2bTJCNXBhX21EU3ZmdjNlVjEzUml2V3V6TzdzaFlNdw?oc=5\" target=\"_blank\">Calera landowner continues to block Alabama Power crews ahead of restraining order hearing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamas42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-07T16:00:50+00:00"
+    },
+    {
       "id": "627809f37f00c1eb",
       "title": "Alabama Power seeking restraining order against landowner Fenn Church - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeTlGTS1Xd3dQU0JSQ1VQcWlIM245ZHU5MXFPTXM1NktieWw2OFhnN2owMzNscFpLZGVjb3pCT1VqQ19wSU9MRjFCcjlvdGowR01tckV5eHVybWNKN2ZSUEtUcDg1dTRVSFdIUjRBSEtOYTloZ0FJRHczcmgwODJQZHE5M1ktaGxhMlh6Z2h4cVk0YVNEQ0lCMw?oc=5",
@@ -159,6 +201,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-06T13:35:18+00:00"
+    },
+    {
+      "id": "e67d424f07e8c55f",
+      "title": "Alabama Power seeking restraining order against Fenn Church - alabamas42.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORm5NSEQzRVlBa3BRclNuMmNLSGhFUGd6LU04SU42MzNNMW5lQ3FpUWlWLWhZZzd1X19kUXhEQ1JoNkNnNWZvNzJWS21qdzV0WlV6UWk1VDREUGtLejVmR0JzOG9hNzJNYnc3T1JTb0FjNThlYy1Fc3kyVGtHR1F3WHhmdElkSGNHR3JJWmZEM2NBV2tONDlxdUo3czlPYnN2TjFvWg?oc=5",
+      "domain": "news.google.com",
+      "source": "alabamas42.com",
+      "language": "English",
+      "published_at": "2026-11-05T22:25:23+00:00",
+      "summary": "Alabama Power seeking restraining order against Fenn Church alabamas42.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxORm5NSEQzRVlBa3BRclNuMmNLSGhFUGd6LU04SU42MzNNMW5lQ3FpUWlWLWhZZzd1X19kUXhEQ1JoNkNnNWZvNzJWS21qdzV0WlV6UWk1VDREUGtLejVmR0JzOG9hNzJNYnc3T1JTb0FjNThlYy1Fc3kyVGtHR1F3WHhmdElkSGNHR3JJWmZEM2NBV2tONDlxdUo3czlPYnN2TjFvWg?oc=5\" target=\"_blank\">Alabama Power seeking restraining order against Fenn Church</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamas42.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-07T16:00:50+00:00"
     },
     {
       "id": "d2194fdebdc55aeb",
