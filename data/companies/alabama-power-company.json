@@ -2,10 +2,52 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-06T20:11:58+00:00",
+  "last_updated": "2026-11-07T01:30:07+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 636,
+  "count": 641,
   "mentions": [
+    {
+      "id": "736b08dab1ba6baf",
+      "title": "Viral videos spark support for Calera man’s fight against Alabama Power - wvtm",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjF6czRCbDVkaE1EQlE3a2w3bEVOYjRRSUJPS1VBOFBra2JlQzJvdzZxSUw1ekFBblR4SEVIRGxUTGJsSUFNYnRzQVJULWMydUxlRHM3SXNUQm9vemxid2t0TEhuYk9pQlNkanltbk1wLU0yMnZfWkpKOFhKS0lZT2k1WlNJNmwyVnB6Mw?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm",
+      "language": "English",
+      "published_at": "2026-11-07T01:01:00+00:00",
+      "summary": "Viral videos spark support for Calera man’s fight against Alabama Power wvtm",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjF6czRCbDVkaE1EQlE3a2w3bEVOYjRRSUJPS1VBOFBra2JlQzJvdzZxSUw1ekFBblR4SEVIRGxUTGJsSUFNYnRzQVJULWMydUxlRHM3SXNUQm9vemxid2t0TEhuYk9pQlNkanltbk1wLU0yMnZfWkpKOFhKS0lZT2k1WlNJNmwyVnB6Mw?oc=5\" target=\"_blank\">Viral videos spark support for Calera man’s fight against Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-07T01:30:07+00:00"
+    },
+    {
+      "id": "a2582bb7ff6e1fe1",
+      "title": "Alabama Power Ad Billing: PSC Wants It Stopped Now - Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXFtZGF6VWhDcXhsRG9tZV9xOUgtRG5SekZwbXFtWFdnd3pQc0l2UmMwcnRCNWd5anc4RkV6UVEzZlBMeThYN0tTTHY5aXpBWXJDM2x3WHZwb3BsMlEwekNBWGZsb0dRd25IRUE5RW9IWk1kWXVIbENWUWllTGdCN2tWT3ZhVHIzaHdkRHVpTHJYX1BXR3FrQ1VXdUdpT0diY1RJX2QyTXI1VG04WVE?oc=5",
+      "domain": "news.google.com",
+      "source": "Hoodline",
+      "language": "English",
+      "published_at": "2026-11-07T00:49:13+00:00",
+      "summary": "Alabama Power Ad Billing: PSC Wants It Stopped Now Hoodline",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXFtZGF6VWhDcXhsRG9tZV9xOUgtRG5SekZwbXFtWFdnd3pQc0l2UmMwcnRCNWd5anc4RkV6UVEzZlBMeThYN0tTTHY5aXpBWXJDM2x3WHZwb3BsMlEwekNBWGZsb0dRd25IRUE5RW9IWk1kWXVIbENWUWllTGdCN2tWT3ZhVHIzaHdkRHVpTHJYX1BXR3FrQ1VXdUdpT0diY1RJX2QyTXI1VG04WVE?oc=5\" target=\"_blank\">Alabama Power Ad Billing: PSC Wants It Stopped Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-07T01:30:07+00:00"
+    },
+    {
+      "id": "a6ce506bf24d6e9c",
+      "title": "Alabama Power’s parent company reports $2 billion profit as customers watch costs - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0hUTE9nazI1VVBTLXNEa0tocG9rU3h5SENlZEVOZUZBNEhhTTVnSG91RVdJUGR5TmJOaXQza1RCd1BOcTA4ZGU3Sk93V0Fwc2o0VmFkb2ViQlZySUw5czBSTWhnOG5JdUtEbGlFQTJGMkowSHp0d2R2VGFrXzZTRVNoT25IdjVBUFo4eDFGNEkwNzVxVm1UZnl0b1VJc014cTA1SHlMSDBVRnhNRVhV?oc=5",
+      "domain": "news.google.com",
+      "source": "WBMA",
+      "language": "English",
+      "published_at": "2026-11-06T20:25:59+00:00",
+      "summary": "Alabama Power’s parent company reports $2 billion profit as customers watch costs WBMA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0hUTE9nazI1VVBTLXNEa0tocG9rU3h5SENlZEVOZUZBNEhhTTVnSG91RVdJUGR5TmJOaXQza1RCd1BOcTA4ZGU3Sk93V0Fwc2o0VmFkb2ViQlZySUw5czBSTWhnOG5JdUtEbGlFQTJGMkowSHp0d2R2VGFrXzZTRVNoT25IdjVBUFo4eDFGNEkwNzVxVm1UZnl0b1VJc014cTA1SHlMSDBVRnhNRVhV?oc=5\" target=\"_blank\">Alabama Power’s parent company reports $2 billion profit as customers watch costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-07T01:30:07+00:00"
+    },
     {
       "id": "42d0372aa8fbd4b7",
       "title": "Alabama Power Cut Down His Old-Growth Oaks While the Condemnation Lawsuit Was Still in Court! - Gadget Review",
@@ -21,6 +63,20 @@
       "collected_at": "2026-11-06T20:11:58+00:00"
     },
     {
+      "id": "a5f9a26cfb5f56da",
+      "title": "Alabama Power Cut Down His Old-Growth Oaks While the Condemnation Lawsuit Was Still in Court! - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLVJ1YUxtMGJMRlZxMXFPb2Z5aDdhYjJVaEswR3JyMkZKZW8zcFFOV0VVMEx2QmN6LUxodFRDMEVWLUFzYnFRcmZITTlFcmUzUUM3cjE2WTJQSEhtNjVvaTNLSy1VV2FHMFFxNUx0bWptNEFiWmFEbFdZczgzVVBlTkRKQ1YwZzg?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-11-06T16:54:24+00:00",
+      "summary": "Alabama Power Cut Down His Old-Growth Oaks While the Condemnation Lawsuit Was Still in Court! Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOLVJ1YUxtMGJMRlZxMXFPb2Z5aDdhYjJVaEswR3JyMkZKZW8zcFFOV0VVMEx2QmN6LUxodFRDMEVWLUFzYnFRcmZITTlFcmUzUUM3cjE2WTJQSEhtNjVvaTNLSy1VV2FHMFFxNUx0bWptNEFiWmFEbFdZczgzVVBlTkRKQ1YwZzg?oc=5\" target=\"_blank\">Alabama Power Cut Down His Old-Growth Oaks While the Condemnation Lawsuit Was Still in Court!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-07T01:30:07+00:00"
+    },
+    {
       "id": "e1be1e295cfe29e4",
       "title": "Man says Alabama Power cut 200 yards of oak trees on his property without his knowledge - WVTM Channel 13",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0NRZlpJRjM2QUhTQV8xMUQtbXE3bjBGT0FyMC1TdU5mdkhQdV9tUWhYaWRNVzNvNXJ6RGZSOTBwZnhYQURkSFJ0UDZBcFlLYzVpejlZODMyengteTVxOFRtREZKaHBTWDBTUnRJZXEtNW04bVU3NGJ2Y2ZkdER2SDc1UWx4eG42R1k1N1pOWnJFOXJvb2t0RVFzNlo?oc=5",
@@ -33,6 +89,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-06T20:11:58+00:00"
+    },
+    {
+      "id": "bb47101cd2be2307",
+      "title": "Alabama Power routinely bills ratepayers for its ads. State regulators want that stopped - WBHM",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQjJrRUNTb2NMZTFtQzdQZ1B2QzdoUU1jSDJ2em9RRHYtd2NQYW53LUdhN18zR2NDNWc1aDZxd1NJeDhMUHpqcTRVNlprS0hKYzZvQ0o5VDAwaWx5YWxGeVl1TGJwTmg2N25VWWo2T0NIbHlMakxGSno5OFB5T3g1X211Mkk2RENyTlBfZGNJc3U5LXB5cHJMVjhMNHpueXgteEppV0hzdWNUZ0NpX1VfRThldXRiT25UTzc2ZFhJcVVnNWlWanhza1lR?oc=5",
+      "domain": "news.google.com",
+      "source": "WBHM",
+      "language": "English",
+      "published_at": "2026-11-06T11:01:08+00:00",
+      "summary": "Alabama Power routinely bills ratepayers for its ads. State regulators want that stopped WBHM",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNQjJrRUNTb2NMZTFtQzdQZ1B2QzdoUU1jSDJ2em9RRHYtd2NQYW53LUdhN18zR2NDNWc1aDZxd1NJeDhMUHpqcTRVNlprS0hKYzZvQ0o5VDAwaWx5YWxGeVl1TGJwTmg2N25VWWo2T0NIbHlMakxGSno5OFB5T3g1X211Mkk2RENyTlBfZGNJc3U5LXB5cHJMVjhMNHpueXgteEppV0hzdWNUZ0NpX1VfRThldXRiT25UTzc2ZFhJcVVnNWlWanhza1lR?oc=5\" target=\"_blank\">Alabama Power routinely bills ratepayers for its ads. State regulators want that stopped</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBHM</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-07T01:30:07+00:00"
     },
     {
       "id": "acdf52c1d7221a76",

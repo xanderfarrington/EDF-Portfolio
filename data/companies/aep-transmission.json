@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-06T20:11:53+00:00",
+  "last_updated": "2026-11-07T01:30:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 137,
+  "count": 138,
   "mentions": [
     {
       "id": "04e383525049365c",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-05T01:56:15+00:00"
+    },
+    {
+      "id": "30c9d593642b1f0f",
+      "title": "AEP Transmission Company announces $550 million senior notes offering - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXdKLXVrSDFfeWhkUXZiUmdKRmZyeC1yV0VIUEZTZ1R3aVR6V1U4c0ctVDJ5ZlFTcUtjbzh3bmhJNVl5d29MSVhkUVB5QkJCWmlfS2ZrX2EtNktvWmdRajdwa3NOUWNPVnY4Y1o1SlFScnBNUTk5MENncXJkOW51bEFFbDFiMkRraVFCMjdaMFRsTmpVNGtubXBXUm5QNWpBbjdrZVpUcXp5MzA1SERkX3h5MGhGbE9TdnpXYXgzT01MUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Investing.com",
+      "language": "English",
+      "published_at": "2026-11-04T16:50:11+00:00",
+      "summary": "AEP Transmission Company announces $550 million senior notes offering Investing.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXdKLXVrSDFfeWhkUXZiUmdKRmZyeC1yV0VIUEZTZ1R3aVR6V1U4c0ctVDJ5ZlFTcUtjbzh3bmhJNVl5d29MSVhkUVB5QkJCWmlfS2ZrX2EtNktvWmdRajdwa3NOUWNPVnY4Y1o1SlFScnBNUTk5MENncXJkOW51bEFFbDFiMkRraVFCMjdaMFRsTmpVNGtubXBXUm5QNWpBbjdrZVpUcXp5MzA1SERkX3h5MGhGbE9TdnpXYXgzT01MUQ?oc=5\" target=\"_blank\">AEP Transmission Company announces $550 million senior notes offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-07T01:30:01+00:00"
     },
     {
       "id": "aadc689ed5614290",
