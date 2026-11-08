@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-07T21:18:42+00:00",
+  "last_updated": "2026-11-08T00:59:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 646,
+  "count": 648,
   "mentions": [
+    {
+      "id": "6799025be06a3fc8",
+      "title": "Alabama Power spent more than $6 million on ads last year — and customers can be billed for half of them until 2029 - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45ZDhfNDVoZXZBMEUyYWlTdnVpWjVzYWx0bkFyTnhRTkNDZzk5QlRiMUliSlZjaG9zT1F2YnZoOXp4X1ZUU2VzY0F4WVVHMHdlYmM1dU5BSXVSeEo2RUFlVnVVVFB1WXZTRDJsYmhUeU84NzlRQTNPTktKdng?oc=5",
+      "domain": "news.google.com",
+      "source": "Fortune",
+      "language": "English",
+      "published_at": "2026-11-07T23:30:00+00:00",
+      "summary": "Alabama Power spent more than $6 million on ads last year — and customers can be billed for half of them until 2029 Fortune",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE45ZDhfNDVoZXZBMEUyYWlTdnVpWjVzYWx0bkFyTnhRTkNDZzk5QlRiMUliSlZjaG9zT1F2YnZoOXp4X1ZUU2VzY0F4WVVHMHdlYmM1dU5BSXVSeEo2RUFlVnVVVFB1WXZTRDJsYmhUeU84NzlRQTNPTktKdng?oc=5\" target=\"_blank\">Alabama Power spent more than $6 million on ads last year — and customers can be billed for half of them until 2029</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-08T00:59:56+00:00"
+    },
     {
       "id": "3a2003a1bbb2dfb6",
       "title": "Alabama Power Service Organization's 35th annual Angel Tree Golf Tournament raises $100,000 - Yellowhammer News",
@@ -61,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-07T01:30:07+00:00"
+    },
+    {
+      "id": "aa9494c9f46361ce",
+      "title": "Viral videos spark support for Calera man’s fight against Alabama Power - WVTM Channel 13",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjF6czRCbDVkaE1EQlE3a2w3bEVOYjRRSUJPS1VBOFBra2JlQzJvdzZxSUw1ekFBblR4SEVIRGxUTGJsSUFNYnRzQVJULWMydUxlRHM3SXNUQm9vemxid2t0TEhuYk9pQlNkanltbk1wLU0yMnZfWkpKOFhKS0lZT2k1WlNJNmwyVnB6Mw?oc=5",
+      "domain": "news.google.com",
+      "source": "WVTM Channel 13",
+      "language": "English",
+      "published_at": "2026-11-07T01:01:00+00:00",
+      "summary": "Viral videos spark support for Calera man’s fight against Alabama Power WVTM Channel 13",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjF6czRCbDVkaE1EQlE3a2w3bEVOYjRRSUJPS1VBOFBra2JlQzJvdzZxSUw1ekFBblR4SEVIRGxUTGJsSUFNYnRzQVJULWMydUxlRHM3SXNUQm9vemxid2t0TEhuYk9pQlNkanltbk1wLU0yMnZfWkpKOFhKS0lZT2k1WlNJNmwyVnB6Mw?oc=5\" target=\"_blank\">Viral videos spark support for Calera man’s fight against Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM Channel 13</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-08T00:59:56+00:00"
     },
     {
       "id": "a2582bb7ff6e1fe1",

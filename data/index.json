@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T21:19:08+00:00",
+  "last_updated": "2026-11-08T01:00:22+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 646,
-      "new_mentions_this_run": 18,
+      "count": 648,
+      "new_mentions_this_run": 19,
       "latest_mention": {
-        "id": "3a2003a1bbb2dfb6",
-        "title": "Alabama Power Service Organization's 35th annual Angel Tree Golf Tournament raises $100,000 - Yellowhammer News",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGlvNDJXMWF1S0QzQjc3VkVVUHhNR1o1R2paN0hucGVkbi1KMGF3Q0twUnFjeUxqbHVkYW1MNmFhalMyWXlna2t1SGZ2Y1I2X2tzOXRRWk5tU3lrRXdHOGlFdVlSYVdqNG5sREpiclpOdl9BRDFBdC0teDlXM2p5TUlERE0ya01GcWpPc2NzT2RsVW9EdXZBOWpnOVEyMEZZN0ExRDA1TjZuVmYwZUhhcEFtNndVYW5oOUE?oc=5",
+        "id": "6799025be06a3fc8",
+        "title": "Alabama Power spent more than $6 million on ads last year — and customers can be billed for half of them until 2029 - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45ZDhfNDVoZXZBMEUyYWlTdnVpWjVzYWx0bkFyTnhRTkNDZzk5QlRiMUliSlZjaG9zT1F2YnZoOXp4X1ZUU2VzY0F4WVVHMHdlYmM1dU5BSXVSeEo2RUFlVnVVVFB1WXZTRDJsYmhUeU84NzlRQTNPTktKdng?oc=5",
         "domain": "news.google.com",
-        "source": "Yellowhammer News",
+        "source": "Fortune",
         "language": "English",
-        "published_at": "2026-11-07T15:00:58+00:00",
-        "summary": "Alabama Power Service Organization's 35th annual Angel Tree Golf Tournament raises $100,000 Yellowhammer News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGlvNDJXMWF1S0QzQjc3VkVVUHhNR1o1R2paN0hucGVkbi1KMGF3Q0twUnFjeUxqbHVkYW1MNmFhalMyWXlna2t1SGZ2Y1I2X2tzOXRRWk5tU3lrRXdHOGlFdVlSYVdqNG5sREpiclpOdl9BRDFBdC0teDlXM2p5TUlERE0ya01GcWpPc2NzT2RsVW9EdXZBOWpnOVEyMEZZN0ExRDA1TjZuVmYwZUhhcEFtNndVYW5oOUE?oc=5\" target=\"_blank\">Alabama Power Service Organization's 35th annual Angel Tree Golf Tournament raises $100,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellowhammer News</font>",
+        "published_at": "2026-11-07T23:30:00+00:00",
+        "summary": "Alabama Power spent more than $6 million on ads last year — and customers can be billed for half of them until 2029 Fortune",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE45ZDhfNDVoZXZBMEUyYWlTdnVpWjVzYWx0bkFyTnhRTkNDZzk5QlRiMUliSlZjaG9zT1F2YnZoOXp4X1ZUU2VzY0F4WVVHMHdlYmM1dU5BSXVSeEo2RUFlVnVVVFB1WXZTRDJsYmhUeU84NzlRQTNPTktKdng?oc=5\" target=\"_blank\">Alabama Power spent more than $6 million on ads last year — and customers can be billed for half of them until 2029</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-07T16:00:50+00:00"
+        "collected_at": "2026-11-08T00:59:56+00:00"
       }
     },
     {
