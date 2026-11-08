@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T16:29:00+00:00",
+  "last_updated": "2026-11-08T21:33:42+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 648,
-      "new_mentions_this_run": 17,
+      "new_mentions_this_run": 14,
       "latest_mention": {
         "id": "6799025be06a3fc8",
         "title": "Alabama Power spent more than $6 million on ads last year — and customers can be billed for half of them until 2029 - Fortune",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1029,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "b6381d21a9e9645c",
         "title": "Georgia's largest battery storage facility unveiled in Ball Ground as backup for power system - CBS News",
