@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-11-09T08:57:01+00:00",
+  "last_updated": "2026-11-09T20:20:41+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 138,
-      "new_mentions_this_run": 5,
+      "count": 139,
+      "new_mentions_this_run": 6,
       "latest_mention": {
-        "id": "04e383525049365c",
-        "title": "AEP plans 25 miles of new transmission lines - Marysville Journal Tribune",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1dDUHVvNDJpTlJwbEhmUllNN0lQbFpxNC1jbEx6Q2c4VWlPX25DN0ZKcWRWQ2NHX05iUmlBS1V3elZPUHViNS1HQTRQM2dob2htUklLZ0UyZmhURHdyNDBWUlgyVHhOdDR5c0lzeVBkQ0JiRFV4REl6SU0zOWppekVWTXp4M0NMclE?oc=5",
+        "id": "11979f2f069a25b3",
+        "title": "Public comment sessions held for high-voltage transmission line project in Green Country - KOKI FOX 23",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV180RU5EVHZ2OWlCa0ZuX282b0NvWHprVFZTblVBUXZZY3ltVUVSTTBFbjZLZmUxeG4ySjJWSGJfOFVBcHpnQU9ueXVtY3NMRGNNYzBBSTVrTUJza294dFNVVnFBSXBFYnY0cldQdDNPaWlLamswbzM5NExvWUZYd3JnUTFTWWhGcWZTRzEwaXFVMzBFNlZmOEU0X3Q4RHE1cUM1VEpSczI5Mkp6aG9PWU5oZDMzRFNS?oc=5",
         "domain": "news.google.com",
-        "source": "Marysville Journal Tribune",
+        "source": "KOKI FOX 23",
         "language": "English",
-        "published_at": "2026-11-06T11:03:30+00:00",
-        "summary": "AEP plans 25 miles of new transmission lines Marysville Journal Tribune",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1dDUHVvNDJpTlJwbEhmUllNN0lQbFpxNC1jbEx6Q2c4VWlPX25DN0ZKcWRWQ2NHX05iUmlBS1V3elZPUHViNS1HQTRQM2dob2htUklLZ0UyZmhURHdyNDBWUlgyVHhOdDR5c0lzeVBkQ0JiRFV4REl6SU0zOWppekVWTXp4M0NMclE?oc=5\" target=\"_blank\">AEP plans 25 miles of new transmission lines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marysville Journal Tribune</font>",
+        "published_at": "2026-11-09T17:13:14+00:00",
+        "summary": "Public comment sessions held for high-voltage transmission line project in Green Country KOKI FOX 23",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV180RU5EVHZ2OWlCa0ZuX282b0NvWHprVFZTblVBUXZZY3ltVUVSTTBFbjZLZmUxeG4ySjJWSGJfOFVBcHpnQU9ueXVtY3NMRGNNYzBBSTVrTUJza294dFNVVnFBSXBFYnY0cldQdDNPaWlLamswbzM5NExvWUZYd3JnUTFTWWhGcWZTRzEwaXFVMzBFNlZmOEU0X3Q4RHE1cUM1VEpSczI5Mkp6aG9PWU5oZDMzRFNS?oc=5\" target=\"_blank\">Public comment sessions held for high-voltage transmission line project in Green Country</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOKI FOX 23</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-06T13:35:12+00:00"
+        "collected_at": "2026-11-09T20:20:09+00:00"
       }
     },
     {
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 648,
-      "new_mentions_this_run": 11,
+      "new_mentions_this_run": 13,
       "latest_mention": {
         "id": "6799025be06a3fc8",
         "title": "Alabama Power spent more than $6 million on ads last year — and customers can be billed for half of them until 2029 - Fortune",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1030,
-      "new_mentions_this_run": 14,
+      "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "b6381d21a9e9645c",
         "title": "Georgia's largest battery storage facility unveiled in Ball Ground as backup for power system - CBS News",

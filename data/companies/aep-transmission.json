@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-09T08:56:29+00:00",
+  "last_updated": "2026-11-09T20:20:09+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 138,
+  "count": 139,
   "mentions": [
+    {
+      "id": "11979f2f069a25b3",
+      "title": "Public comment sessions held for high-voltage transmission line project in Green Country - KOKI FOX 23",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV180RU5EVHZ2OWlCa0ZuX282b0NvWHprVFZTblVBUXZZY3ltVUVSTTBFbjZLZmUxeG4ySjJWSGJfOFVBcHpnQU9ueXVtY3NMRGNNYzBBSTVrTUJza294dFNVVnFBSXBFYnY0cldQdDNPaWlLamswbzM5NExvWUZYd3JnUTFTWWhGcWZTRzEwaXFVMzBFNlZmOEU0X3Q4RHE1cUM1VEpSczI5Mkp6aG9PWU5oZDMzRFNS?oc=5",
+      "domain": "news.google.com",
+      "source": "KOKI FOX 23",
+      "language": "English",
+      "published_at": "2026-11-09T17:13:14+00:00",
+      "summary": "Public comment sessions held for high-voltage transmission line project in Green Country KOKI FOX 23",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV180RU5EVHZ2OWlCa0ZuX282b0NvWHprVFZTblVBUXZZY3ltVUVSTTBFbjZLZmUxeG4ySjJWSGJfOFVBcHpnQU9ueXVtY3NMRGNNYzBBSTVrTUJza294dFNVVnFBSXBFYnY0cldQdDNPaWlLamswbzM5NExvWUZYd3JnUTFTWWhGcWZTRzEwaXFVMzBFNlZmOEU0X3Q4RHE1cUM1VEpSczI5Mkp6aG9PWU5oZDMzRFNS?oc=5\" target=\"_blank\">Public comment sessions held for high-voltage transmission line project in Green Country</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOKI FOX 23</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-09T20:20:09+00:00"
+    },
     {
       "id": "04e383525049365c",
       "title": "AEP plans 25 miles of new transmission lines - Marysville Journal Tribune",
