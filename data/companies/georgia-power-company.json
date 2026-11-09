@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-08T21:33:31+00:00",
+  "last_updated": "2026-11-09T01:21:09+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1029,
+  "count": 1030,
   "mentions": [
     {
       "id": "b6381d21a9e9645c",
@@ -285,6 +285,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-08T08:27:09+00:00"
+    },
+    {
+      "id": "3a4848dfbab629e5",
+      "title": "GPJA Grinds Higher to $18.31 as Georgia Power Junior Subordinated Notes Hold Their Range - Low Volume Node - https://www.dars.gov.et/",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMjkzUVhGbzZrNHQ3UkVhTzV5OXkyLVg3U3hTeFZsVU5QT2RvYm53TlVwSEszZUUzNnE2bC1GZlZCdXI2T241LVpmLTFKZFNHWk5pdjFueUs2ZFMwc2Zvd0R6S1FCVWpDd3o1cm56cmpIOXl3c1VaYmlOZVk0ZGljSW9FaDJ6THgxUWtHRWcwaHRoREU1ZFNBMTdEMFY4WXAzM2I5TWIwRTlfTXBHTFF1eTRCSTdqNFlmcXcyaGVLWUpRWG9kenJtRXdKdw?oc=5",
+      "domain": "news.google.com",
+      "source": "https://www.dars.gov.et/",
+      "language": "English",
+      "published_at": "2026-11-04T15:36:38+00:00",
+      "summary": "GPJA Grinds Higher to $18.31 as Georgia Power Junior Subordinated Notes Hold Their Range - Low Volume Node https://www.dars.gov.et/",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQMjkzUVhGbzZrNHQ3UkVhTzV5OXkyLVg3U3hTeFZsVU5QT2RvYm53TlVwSEszZUUzNnE2bC1GZlZCdXI2T241LVpmLTFKZFNHWk5pdjFueUs2ZFMwc2Zvd0R6S1FCVWpDd3o1cm56cmpIOXl3c1VaYmlOZVk0ZGljSW9FaDJ6THgxUWtHRWcwaHRoREU1ZFNBMTdEMFY4WXAzM2I5TWIwRTlfTXBHTFF1eTRCSTdqNFlmcXcyaGVLWUpRWG9kenJtRXdKdw?oc=5\" target=\"_blank\">GPJA Grinds Higher to $18.31 as Georgia Power Junior Subordinated Notes Hold Their Range - Low Volume Node</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://www.dars.gov.et/</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-09T01:21:09+00:00"
     },
     {
       "id": "c425e4e36e146cd6",

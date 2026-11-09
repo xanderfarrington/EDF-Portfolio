@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T21:33:42+00:00",
+  "last_updated": "2026-11-09T01:21:19+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1029,
-      "new_mentions_this_run": 15,
+      "count": 1030,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "b6381d21a9e9645c",
         "title": "Georgia's largest battery storage facility unveiled in Ball Ground as backup for power system - CBS News",
