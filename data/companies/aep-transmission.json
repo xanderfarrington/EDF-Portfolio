@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-09T20:20:09+00:00",
+  "last_updated": "2026-11-10T03:55:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 139,
+  "count": 140,
   "mentions": [
+    {
+      "id": "ae36baf33c19880e",
+      "title": "Public comment sessions held for high-voltage transmission line project in Green Country - KRMG",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWW9wV0hhWFBqaTltdXpRUGEyQWw2NlNlM0RNcEVPd3Z6dlRuaWp5MGF6c2NxNTg4dmpFZG45SmU2eTBvem5CX3B1c3JsVnJZMG45alBvU2dDUTFrckdpZW1UX2d5QngzdkU2X1ZNUk9CNUlsclNmLWRDcUtXVUFiSWxXSDNCcFhIMkI0YVBzMHo4WlFYeXItR0h4UnZoUTk1Qk40bV9RcXFGQXBZblBMamNnRFM1U3J3?oc=5",
+      "domain": "news.google.com",
+      "source": "KRMG",
+      "language": "English",
+      "published_at": "2026-11-09T17:43:48+00:00",
+      "summary": "Public comment sessions held for high-voltage transmission line project in Green Country KRMG",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWW9wV0hhWFBqaTltdXpRUGEyQWw2NlNlM0RNcEVPd3Z6dlRuaWp5MGF6c2NxNTg4dmpFZG45SmU2eTBvem5CX3B1c3JsVnJZMG45alBvU2dDUTFrckdpZW1UX2d5QngzdkU2X1ZNUk9CNUlsclNmLWRDcUtXVUFiSWxXSDNCcFhIMkI0YVBzMHo4WlFYeXItR0h4UnZoUTk1Qk40bV9RcXFGQXBZblBMamNnRFM1U3J3?oc=5\" target=\"_blank\">Public comment sessions held for high-voltage transmission line project in Green Country</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRMG</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-10T03:55:36+00:00"
+    },
     {
       "id": "11979f2f069a25b3",
       "title": "Public comment sessions held for high-voltage transmission line project in Green Country - KOKI FOX 23",
