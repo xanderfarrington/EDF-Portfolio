@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-10T12:01:07+00:00",
+  "last_updated": "2026-11-10T20:40:13+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 140,
+  "count": 141,
   "mentions": [
+    {
+      "id": "e6c1227e2d133a4b",
+      "title": "Public comment sessions held for high-voltage transmission line project in Green Country - KTUL",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONlRma1VVZzVHWUFpVFJmZ2VZWlZfRW11UE15bXJRUG5rTlh3YjlyYWFrUk9Md3BhZnp3YzdMTFI5d3dZX3I0aUpaRGZTMWlPU2QzaFFUV0FXZDFnanA4TEVBQmVBMlhadEdpbEJfRDZaVlJ1YUlGcHdPUlNoLUZRbWlBMGZxQTdOQTFwbUpxNjlOemxCcXpkTmVfbWpSVGJ5QXA5Rm5vMFlaakRPUk5oaWVxMEFDbFBpUlhNWW95cFRtem1nd2c?oc=5",
+      "domain": "news.google.com",
+      "source": "KTUL",
+      "language": "English",
+      "published_at": "2026-11-10T04:06:50+00:00",
+      "summary": "Public comment sessions held for high-voltage transmission line project in Green Country KTUL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxONlRma1VVZzVHWUFpVFJmZ2VZWlZfRW11UE15bXJRUG5rTlh3YjlyYWFrUk9Md3BhZnp3YzdMTFI5d3dZX3I0aUpaRGZTMWlPU2QzaFFUV0FXZDFnanA4TEVBQmVBMlhadEdpbEJfRDZaVlJ1YUlGcHdPUlNoLUZRbWlBMGZxQTdOQTFwbUpxNjlOemxCcXpkTmVfbWpSVGJ5QXA5Rm5vMFlaakRPUk5oaWVxMEFDbFBpUlhNWW95cFRtem1nd2c?oc=5\" target=\"_blank\">Public comment sessions held for high-voltage transmission line project in Green Country</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTUL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-10T20:40:13+00:00"
+    },
     {
       "id": "ae36baf33c19880e",
       "title": "Public comment sessions held for high-voltage transmission line project in Green Country - KRMG",

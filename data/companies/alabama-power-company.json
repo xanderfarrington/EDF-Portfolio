@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-10T12:01:13+00:00",
+  "last_updated": "2026-11-10T20:40:18+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 654,
+  "count": 655,
   "mentions": [
+    {
+      "id": "d1983f6689c3482f",
+      "title": "Fenn Church awaiting judges decision following hearing on Alabama Power seeks restraining order - 1819 News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdXc4bU5MUTF6RWliZXVIamRfb3cyNTloQTJKTHVfZHNFbkFzTUoxelA2Z2lqa0Nna3FoeGk2aW9scWtLZWFJdGJxSHlQOU10LUNUUldmcGIyOEV6Z1Y0Wjl4VmZkY0x2TU9TSHo4cjRZb0tPQWI2b2dBLXU5VU9sV1BwRExCYjl5OVM2RkMtYmdjWlpRU2ljU2ZKYmh0ZnIycjN2XzB6Uy1mQXhtR0hNTVpwSTMzekp1YTRva3Zzb1dvbUZO?oc=5",
+      "domain": "news.google.com",
+      "source": "1819 News",
+      "language": "English",
+      "published_at": "2026-11-10T20:06:36+00:00",
+      "summary": "Fenn Church awaiting judges decision following hearing on Alabama Power seeks restraining order 1819 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdXc4bU5MUTF6RWliZXVIamRfb3cyNTloQTJKTHVfZHNFbkFzTUoxelA2Z2lqa0Nna3FoeGk2aW9scWtLZWFJdGJxSHlQOU10LUNUUldmcGIyOEV6Z1Y0Wjl4VmZkY0x2TU9TSHo4cjRZb0tPQWI2b2dBLXU5VU9sV1BwRExCYjl5OVM2RkMtYmdjWlpRU2ljU2ZKYmh0ZnIycjN2XzB6Uy1mQXhtR0hNTVpwSTMzekp1YTRva3Zzb1dvbUZO?oc=5\" target=\"_blank\">Fenn Church awaiting judges decision following hearing on Alabama Power seeks restraining order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-10T20:40:18+00:00"
+    },
     {
       "id": "73f4e45e92920499",
       "title": "'A David vs. Goliath kind of situation': Explaining eminent domain amid Calera property owner's battle against Alabama Power - wvtm",

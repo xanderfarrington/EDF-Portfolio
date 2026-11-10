@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-11-10T12:01:39+00:00",
+  "last_updated": "2026-11-10T20:40:45+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 140,
+      "count": 141,
       "new_mentions_this_run": 5,
       "latest_mention": {
-        "id": "ae36baf33c19880e",
-        "title": "Public comment sessions held for high-voltage transmission line project in Green Country - KRMG",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWW9wV0hhWFBqaTltdXpRUGEyQWw2NlNlM0RNcEVPd3Z6dlRuaWp5MGF6c2NxNTg4dmpFZG45SmU2eTBvem5CX3B1c3JsVnJZMG45alBvU2dDUTFrckdpZW1UX2d5QngzdkU2X1ZNUk9CNUlsclNmLWRDcUtXVUFiSWxXSDNCcFhIMkI0YVBzMHo4WlFYeXItR0h4UnZoUTk1Qk40bV9RcXFGQXBZblBMamNnRFM1U3J3?oc=5",
+        "id": "e6c1227e2d133a4b",
+        "title": "Public comment sessions held for high-voltage transmission line project in Green Country - KTUL",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONlRma1VVZzVHWUFpVFJmZ2VZWlZfRW11UE15bXJRUG5rTlh3YjlyYWFrUk9Md3BhZnp3YzdMTFI5d3dZX3I0aUpaRGZTMWlPU2QzaFFUV0FXZDFnanA4TEVBQmVBMlhadEdpbEJfRDZaVlJ1YUlGcHdPUlNoLUZRbWlBMGZxQTdOQTFwbUpxNjlOemxCcXpkTmVfbWpSVGJ5QXA5Rm5vMFlaakRPUk5oaWVxMEFDbFBpUlhNWW95cFRtem1nd2c?oc=5",
         "domain": "news.google.com",
-        "source": "KRMG",
+        "source": "KTUL",
         "language": "English",
-        "published_at": "2026-11-09T17:43:48+00:00",
-        "summary": "Public comment sessions held for high-voltage transmission line project in Green Country KRMG",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWW9wV0hhWFBqaTltdXpRUGEyQWw2NlNlM0RNcEVPd3Z6dlRuaWp5MGF6c2NxNTg4dmpFZG45SmU2eTBvem5CX3B1c3JsVnJZMG45alBvU2dDUTFrckdpZW1UX2d5QngzdkU2X1ZNUk9CNUlsclNmLWRDcUtXVUFiSWxXSDNCcFhIMkI0YVBzMHo4WlFYeXItR0h4UnZoUTk1Qk40bV9RcXFGQXBZblBMamNnRFM1U3J3?oc=5\" target=\"_blank\">Public comment sessions held for high-voltage transmission line project in Green Country</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRMG</font>",
+        "published_at": "2026-11-10T04:06:50+00:00",
+        "summary": "Public comment sessions held for high-voltage transmission line project in Green Country KTUL",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxONlRma1VVZzVHWUFpVFJmZ2VZWlZfRW11UE15bXJRUG5rTlh3YjlyYWFrUk9Md3BhZnp3YzdMTFI5d3dZX3I0aUpaRGZTMWlPU2QzaFFUV0FXZDFnanA4TEVBQmVBMlhadEdpbEJfRDZaVlJ1YUlGcHdPUlNoLUZRbWlBMGZxQTdOQTFwbUpxNjlOemxCcXpkTmVfbWpSVGJ5QXA5Rm5vMFlaakRPUk5oaWVxMEFDbFBpUlhNWW95cFRtem1nd2c?oc=5\" target=\"_blank\">Public comment sessions held for high-voltage transmission line project in Green Country</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTUL</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-10T03:55:36+00:00"
+        "collected_at": "2026-11-10T20:40:13+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 654,
-      "new_mentions_this_run": 19,
+      "count": 655,
+      "new_mentions_this_run": 20,
       "latest_mention": {
-        "id": "73f4e45e92920499",
-        "title": "'A David vs. Goliath kind of situation': Explaining eminent domain amid Calera property owner's battle against Alabama Power - wvtm",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ0E4TUR3ZWIxaFMxeU0ycXBjNGp6YmJvUHNUUTZHZ2h6Wmk3dXNvLVV6aUFrRTR6ejA2QXBFVTAwU3NyM29fTXhnOGNqT0ZhODdtVXp0TDYyVHB1YVI2X1FJWkh1TTg1NkI5UldNZnFhS3hpMkw2SmdPUlZHcmdLTW5lRzVZUjlVM3VwelFlUHJzZEpkczNaRXFNT044ZXV4WXcyQy1nYXdNeXloS1RDcXh0YnJmZE96UWtxb0Vyamc3NmhQM1hQbDZZa3ZlUzNudTUyWVhTa3ZjM0RETnhSV1ZpTk44MHhEeHoyRnM3RmM?oc=5",
+        "id": "d1983f6689c3482f",
+        "title": "Fenn Church awaiting judges decision following hearing on Alabama Power seeks restraining order - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdXc4bU5MUTF6RWliZXVIamRfb3cyNTloQTJKTHVfZHNFbkFzTUoxelA2Z2lqa0Nna3FoeGk2aW9scWtLZWFJdGJxSHlQOU10LUNUUldmcGIyOEV6Z1Y0Wjl4VmZkY0x2TU9TSHo4cjRZb0tPQWI2b2dBLXU5VU9sV1BwRExCYjl5OVM2RkMtYmdjWlpRU2ljU2ZKYmh0ZnIycjN2XzB6Uy1mQXhtR0hNTVpwSTMzekp1YTRva3Zzb1dvbUZO?oc=5",
         "domain": "news.google.com",
-        "source": "wvtm",
+        "source": "1819 News",
         "language": "English",
-        "published_at": "2026-11-10T01:11:00+00:00",
-        "summary": "'A David vs. Goliath kind of situation': Explaining eminent domain amid Calera property owner's battle against Alabama Power wvtm",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ0E4TUR3ZWIxaFMxeU0ycXBjNGp6YmJvUHNUUTZHZ2h6Wmk3dXNvLVV6aUFrRTR6ejA2QXBFVTAwU3NyM29fTXhnOGNqT0ZhODdtVXp0TDYyVHB1YVI2X1FJWkh1TTg1NkI5UldNZnFhS3hpMkw2SmdPUlZHcmdLTW5lRzVZUjlVM3VwelFlUHJzZEpkczNaRXFNT044ZXV4WXcyQy1nYXdNeXloS1RDcXh0YnJmZE96UWtxb0Vyamc3NmhQM1hQbDZZa3ZlUzNudTUyWVhTa3ZjM0RETnhSV1ZpTk44MHhEeHoyRnM3RmM?oc=5\" target=\"_blank\">'A David vs. Goliath kind of situation': Explaining eminent domain amid Calera property owner's battle against Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+        "published_at": "2026-11-10T20:06:36+00:00",
+        "summary": "Fenn Church awaiting judges decision following hearing on Alabama Power seeks restraining order 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdXc4bU5MUTF6RWliZXVIamRfb3cyNTloQTJKTHVfZHNFbkFzTUoxelA2Z2lqa0Nna3FoeGk2aW9scWtLZWFJdGJxSHlQOU10LUNUUldmcGIyOEV6Z1Y0Wjl4VmZkY0x2TU9TSHo4cjRZb0tPQWI2b2dBLXU5VU9sV1BwRExCYjl5OVM2RkMtYmdjWlpRU2ljU2ZKYmh0ZnIycjN2XzB6Uy1mQXhtR0hNTVpwSTMzekp1YTRva3Zzb1dvbUZO?oc=5\" target=\"_blank\">Fenn Church awaiting judges decision following hearing on Alabama Power seeks restraining order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-10T03:55:41+00:00"
+        "collected_at": "2026-11-10T20:40:18+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1030,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "b6381d21a9e9645c",
         "title": "Georgia's largest battery storage facility unveiled in Ball Ground as backup for power system - CBS News",
