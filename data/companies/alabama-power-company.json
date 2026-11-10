@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-10T03:55:41+00:00",
+  "last_updated": "2026-11-10T12:01:13+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 653,
+  "count": 654,
   "mentions": [
     {
       "id": "73f4e45e92920499",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-10T03:55:41+00:00"
+    },
+    {
+      "id": "3df2b68e843c2514",
+      "title": "Power Company Threatens to Arrest Alabama Landowner for Protecting His Property - AgWeb",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTVZNM3hkc05EWnFsQWpKVzBoYmhFdWNMRDB3aHFsZlltMmplVmRQVGdxclVFMkJScng5SzUzdWRRYjRHYnRYTlhobUhnZDBUM0dISHV4Z3BSWml0SDEtTFh5VUFyeXl6bkl5YmRIYk9xbVVkUS1qRlFwUzNFaWtUVjlZR0o0LUxVR3FyY1JwWWNYMUs1UV9jYTV1YXlqMzhDZkRKeGFBcTc4cEJMdy01TUpzYWt2QUtr?oc=5",
+      "domain": "news.google.com",
+      "source": "AgWeb",
+      "language": "English",
+      "published_at": "2026-11-09T12:46:00+00:00",
+      "summary": "Power Company Threatens to Arrest Alabama Landowner for Protecting His Property AgWeb",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTVZNM3hkc05EWnFsQWpKVzBoYmhFdWNMRDB3aHFsZlltMmplVmRQVGdxclVFMkJScng5SzUzdWRRYjRHYnRYTlhobUhnZDBUM0dISHV4Z3BSWml0SDEtTFh5VUFyeXl6bkl5YmRIYk9xbVVkUS1qRlFwUzNFaWtUVjlZR0o0LUxVR3FyY1JwWWNYMUs1UV9jYTV1YXlqMzhDZkRKeGFBcTc4cEJMdy01TUpzYWt2QUtr?oc=5\" target=\"_blank\">Power Company Threatens to Arrest Alabama Landowner for Protecting His Property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgWeb</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-10T12:01:13+00:00"
     },
     {
       "id": "6799025be06a3fc8",
