@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T20:40:45+00:00",
+  "last_updated": "2026-11-11T01:39:58+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 655,
-      "new_mentions_this_run": 20,
+      "count": 662,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "d1983f6689c3482f",
-        "title": "Fenn Church awaiting judges decision following hearing on Alabama Power seeks restraining order - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdXc4bU5MUTF6RWliZXVIamRfb3cyNTloQTJKTHVfZHNFbkFzTUoxelA2Z2lqa0Nna3FoeGk2aW9scWtLZWFJdGJxSHlQOU10LUNUUldmcGIyOEV6Z1Y0Wjl4VmZkY0x2TU9TSHo4cjRZb0tPQWI2b2dBLXU5VU9sV1BwRExCYjl5OVM2RkMtYmdjWlpRU2ljU2ZKYmh0ZnIycjN2XzB6Uy1mQXhtR0hNTVpwSTMzekp1YTRva3Zzb1dvbUZO?oc=5",
+        "id": "9ea44328bed201f8",
+        "title": "'Denied': Shelby County Judge denies Alabama Power restraining order against Fenn Church - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWRjb3RoVG5jQTUwM0hMdk1Zb0lYd3g2ajVGRGdqdGMtaU11WWN3SjcwZks4eEd3MUx6ckFTLVFaRlk5RGk1N21QbWRLYXY1SmplWVlBMG80bEZDOERzNEVuSEt4bm5rTzJYZlZLc0lRNmk5RkJwNzNiTFNIbEhVMzcyVkstMGVUTVhweUl4RmZHb0xRWE83eW02blNuX25JbW1nenhib2FqME5fN0hkb0lmRlZPSWs?oc=5",
         "domain": "news.google.com",
         "source": "1819 News",
         "language": "English",
-        "published_at": "2026-11-10T20:06:36+00:00",
-        "summary": "Fenn Church awaiting judges decision following hearing on Alabama Power seeks restraining order 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdXc4bU5MUTF6RWliZXVIamRfb3cyNTloQTJKTHVfZHNFbkFzTUoxelA2Z2lqa0Nna3FoeGk2aW9scWtLZWFJdGJxSHlQOU10LUNUUldmcGIyOEV6Z1Y0Wjl4VmZkY0x2TU9TSHo4cjRZb0tPQWI2b2dBLXU5VU9sV1BwRExCYjl5OVM2RkMtYmdjWlpRU2ljU2ZKYmh0ZnIycjN2XzB6Uy1mQXhtR0hNTVpwSTMzekp1YTRva3Zzb1dvbUZO?oc=5\" target=\"_blank\">Fenn Church awaiting judges decision following hearing on Alabama Power seeks restraining order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-11-11T01:20:55+00:00",
+        "summary": "'Denied': Shelby County Judge denies Alabama Power restraining order against Fenn Church 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWRjb3RoVG5jQTUwM0hMdk1Zb0lYd3g2ajVGRGdqdGMtaU11WWN3SjcwZks4eEd3MUx6ckFTLVFaRlk5RGk1N21QbWRLYXY1SmplWVlBMG80bEZDOERzNEVuSEt4bm5rTzJYZlZLc0lRNmk5RkJwNzNiTFNIbEhVMzcyVkstMGVUTVhweUl4RmZHb0xRWE83eW02blNuX25JbW1nenhib2FqME5fN0hkb0lmRlZPSWs?oc=5\" target=\"_blank\">'Denied': Shelby County Judge denies Alabama Power restraining order against Fenn Church</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-10T20:40:18+00:00"
+        "collected_at": "2026-11-11T01:39:32+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1030,
-      "new_mentions_this_run": 11,
+      "count": 1033,
+      "new_mentions_this_run": 13,
       "latest_mention": {
-        "id": "b6381d21a9e9645c",
-        "title": "Georgia's largest battery storage facility unveiled in Ball Ground as backup for power system - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcXczSjhrcVFrYU5FaF8wRFJmcnV4WTZKZ182ODNlMVl5d1VVVVRYd2NyeFZWX1Fob0FRT1dZYXhpRW9yT2hUOE1ZMldNeVNwRndpeDg2ZklSRHM0ckxRVndmVEM5ZWs3VEV5QnFqMEt6MnZpcjVKcF9INl9IUFNZZVhlemxhckhRaGlKcFNaWEE2bWlpOVdudkZvY1pQNXotQ0NOMlFkMUF5d2NUSTNyeXo2OXVaZ2ExODhyNFpYOG1BaEQzeVVIbDJ3?oc=5",
+        "id": "59abdc8e48318edf",
+        "title": "Election shift could impact Georgia power bills - 11Alive.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYlZ4ckJsT0V2YWQtMFVvNTBHZmJyeWM3OC0yYjktWTZacFJKa2IzcG8wNnI1cm5qdXJIUVZDbzZOU2gzOHZIN0JGWEN4WWxaV1NCOVQ3ZHpySTJzWHpWdE5JX2d5YmlHR1BneUpjcjJkc0JncWxMclBYRW9BR2FRd1hvVFJEZUlUS1lZVHFwQ0o5WU5CalZrUUFxTjk1RGV4ZnlPV0VJLVMyVGNtUGVVNGl3Wm9ibENGdWFVajNFU215bnRTMU9z?oc=5",
         "domain": "news.google.com",
-        "source": "CBS News",
+        "source": "11Alive.com",
         "language": "English",
-        "published_at": "2026-11-06T22:26:54+00:00",
-        "summary": "Georgia's largest battery storage facility unveiled in Ball Ground as backup for power system CBS News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOcXczSjhrcVFrYU5FaF8wRFJmcnV4WTZKZ182ODNlMVl5d1VVVVRYd2NyeFZWX1Fob0FRT1dZYXhpRW9yT2hUOE1ZMldNeVNwRndpeDg2ZklSRHM0ckxRVndmVEM5ZWs3VEV5QnFqMEt6MnZpcjVKcF9INl9IUFNZZVhlemxhckhRaGlKcFNaWEE2bWlpOVdudkZvY1pQNXotQ0NOMlFkMUF5d2NUSTNyeXo2OXVaZ2ExODhyNFpYOG1BaEQzeVVIbDJ3?oc=5\" target=\"_blank\">Georgia's largest battery storage facility unveiled in Ball Ground as backup for power system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "published_at": "2026-11-10T23:35:00+00:00",
+        "summary": "Election shift could impact Georgia power bills 11Alive.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPYlZ4ckJsT0V2YWQtMFVvNTBHZmJyeWM3OC0yYjktWTZacFJKa2IzcG8wNnI1cm5qdXJIUVZDbzZOU2gzOHZIN0JGWEN4WWxaV1NCOVQ3ZHpySTJzWHpWdE5JX2d5YmlHR1BneUpjcjJkc0JncWxMclBYRW9BR2FRd1hvVFJEZUlUS1lZVHFwQ0o5WU5CalZrUUFxTjk1RGV4ZnlPV0VJLVMyVGNtUGVVNGl3Wm9ibENGdWFVajNFU215bnRTMU9z?oc=5\" target=\"_blank\">Election shift could impact Georgia power bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-07T01:30:23+00:00"
+        "collected_at": "2026-11-11T01:39:48+00:00"
       }
     },
     {
