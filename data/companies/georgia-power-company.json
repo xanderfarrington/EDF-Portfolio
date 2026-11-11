@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-11T17:37:50+00:00",
+  "last_updated": "2026-11-11T23:56:08+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1036,
+  "count": 1038,
   "mentions": [
+    {
+      "id": "7e541213bf4c37ef",
+      "title": "Precision Trading with Georgia Power Company Series 2017a 5.00% Junior Subordinated Notes Due October 1 2077 (GPJA) Risk Zones - Stock Traders Daily",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQcHl6R0NsMV9hN2N5Y1VxeXJhMmotRWdrbXdaQmcxbEJiTXhlTlVIOU1RSzRYZHZlM2ZMYThwN0dwX3NTb2lxX0ZsZGJZd2dRMHJBS0NLOEt0Uk5IOGpVekdCb0RHSTRXOExRX194TUs0MXlFRU9HRnNjWDcxTHNPT1FkV1JEX1laY001YUtUQVBBZldLX2c1RVpWUnB1SlI2NmVvdEc1SW5GZllEXy1oVnlxMERjaWZaRThlUENZOGRhYWstaG0zcFpNNzl0THR0N0tkd3lBOXlyTUtOdFRQSDNRZ0IyQkRWWTdGS2dwLXhwR2xIeG84Ml9FS0RuVFBraGtSbmtDMkpkd0FHenVpc3lxWVg3VG9yeE1nVHE1QmlYSUFBUUxBYTkyVQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Stock Traders Daily",
+      "language": "English",
+      "published_at": "2026-11-11T14:50:02+00:00",
+      "summary": "Precision Trading with Georgia Power Company Series 2017a 5.00% Junior Subordinated Notes Due October 1 2077 (GPJA) Risk Zones Stock Traders Daily",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxQcHl6R0NsMV9hN2N5Y1VxeXJhMmotRWdrbXdaQmcxbEJiTXhlTlVIOU1RSzRYZHZlM2ZMYThwN0dwX3NTb2lxX0ZsZGJZd2dRMHJBS0NLOEt0Uk5IOGpVekdCb0RHSTRXOExRX194TUs0MXlFRU9HRnNjWDcxTHNPT1FkV1JEX1laY001YUtUQVBBZldLX2c1RVpWUnB1SlI2NmVvdEc1SW5GZllEXy1oVnlxMERjaWZaRThlUENZOGRhYWstaG0zcFpNNzl0THR0N0tkd3lBOXlyTUtOdFRQSDNRZ0IyQkRWWTdGS2dwLXhwR2xIeG84Ml9FS0RuVFBraGtSbmtDMkpkd0FHenVpc3lxWVg3VG9yeE1nVHE1QmlYSUFBUUxBYTkyVQ?oc=5\" target=\"_blank\">Precision Trading with Georgia Power Company Series 2017a 5.00% Junior Subordinated Notes Due October 1 2077 (GPJA) Risk Zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Traders Daily</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-11T23:56:08+00:00"
+    },
     {
       "id": "c9c0c84666376dac",
       "title": "Georgia Power disputes Sierra Club report on fossil fuel plans - The Augusta Chronicle",
@@ -89,6 +103,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-11T01:39:48+00:00"
+    },
+    {
+      "id": "0f9b0082be519586",
+      "title": "Democrats take control of Georgia’s powerful utility regulator - Cobb Courier",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEtnaURkMmt2RXFFNkFSRXktcnJvYW81cG5XWmZEV2tRQ2YwWktBWDQwVjd4bzVoZXFacDR1am1EYU5TMDhpQ21PdllkN1hna2RwWENWaVZCM2lJSkJ5VVdkZDRDR2pyR0dqQ0laVFZiYTV4U0x3a1Q5M3lwaUc3Z3N4M2xUeXdMb3QwcXdMMjMyeGtIQ09ZS1pZOVVqemtQLVE?oc=5",
+      "domain": "news.google.com",
+      "source": "Cobb Courier",
+      "language": "English",
+      "published_at": "2026-11-09T16:28:09+00:00",
+      "summary": "Democrats take control of Georgia’s powerful utility regulator Cobb Courier",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEtnaURkMmt2RXFFNkFSRXktcnJvYW81cG5XWmZEV2tRQ2YwWktBWDQwVjd4bzVoZXFacDR1am1EYU5TMDhpQ21PdllkN1hna2RwWENWaVZCM2lJSkJ5VVdkZDRDR2pyR0dqQ0laVFZiYTV4U0x3a1Q5M3lwaUc3Z3N4M2xUeXdMb3QwcXdMMjMyeGtIQ09ZS1pZOVVqemtQLVE?oc=5\" target=\"_blank\">Democrats take control of Georgia’s powerful utility regulator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cobb Courier</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-11T23:56:08+00:00"
     },
     {
       "id": "b6381d21a9e9645c",
