@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T08:44:21+00:00",
+  "last_updated": "2026-11-11T17:38:00+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 666,
+      "count": 674,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "df5f419f0d86f5ec",
-        "title": "Alabama Power files appeal with Alabama Supreme Court in Fenn Church property dispute - WBMA",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHotakl1dFRDUTNPOGJsTnphVUdNckt6LWJNa2NyUGJxTzRfeFRsVWZpSEpDaG90ZWp3dXQyblcxV2tfRGR5azRORnlITkJBalhhLXNSMENpQXlEeHpxRGo4UUU3MlBpOXVqODMtNDlxYTdRZVRGZ182TjVpVlFaV2VzREppQUs2Wlk3enV3WFh3OURnQ2VlLWFBZFYxbnFrRUN3WjN5V0JhZUpGWUl3dldrOE9xTG14R3FSTlNucFdCMTRWWF9HRVBR?oc=5",
+        "id": "6c4ce46372d95106",
+        "title": "AL landowner Fenn Church battles Alabama Power over transmission line - Dothan Eagle",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaTk3Sm1xY0lpYkxUZkloeEIwTlJlOW44QWNrRzN3U2ltYjBFUUprcUFaYU1LcDNqX016RjExUXRSdW1hSmVqX1FxSmhhYlNiN1R0VFdJSWd1VmJzUlI2eE41QVlncHBKMDBsNDFiTkRzOVdNX285Q3YxODZtQzZGbmNCN0VsWGk1eG5yWi1VME90b0tJNElQSDFYTDZRdHVGTU40?oc=5",
         "domain": "news.google.com",
-        "source": "WBMA",
+        "source": "Dothan Eagle",
         "language": "English",
-        "published_at": "2026-11-11T05:22:22+00:00",
-        "summary": "Alabama Power files appeal with Alabama Supreme Court in Fenn Church property dispute WBMA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHotakl1dFRDUTNPOGJsTnphVUdNckt6LWJNa2NyUGJxTzRfeFRsVWZpSEpDaG90ZWp3dXQyblcxV2tfRGR5azRORnlITkJBalhhLXNSMENpQXlEeHpxRGo4UUU3MlBpOXVqODMtNDlxYTdRZVRGZ182TjVpVlFaV2VzREppQUs2Wlk3enV3WFh3OURnQ2VlLWFBZFYxbnFrRUN3WjN5V0JhZUpGWUl3dldrOE9xTG14R3FSTlNucFdCMTRWWF9HRVBR?oc=5\" target=\"_blank\">Alabama Power files appeal with Alabama Supreme Court in Fenn Church property dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+        "published_at": "2026-11-11T16:37:38+00:00",
+        "summary": "AL landowner Fenn Church battles Alabama Power over transmission line Dothan Eagle",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNaTk3Sm1xY0lpYkxUZkloeEIwTlJlOW44QWNrRzN3U2ltYjBFUUprcUFaYU1LcDNqX016RjExUXRSdW1hSmVqX1FxSmhhYlNiN1R0VFdJSWd1VmJzUlI2eE41QVlncHBKMDBsNDFiTkRzOVdNX285Q3YxODZtQzZGbmNCN0VsWGk1eG5yWi1VME90b0tJNElQSDFYTDZRdHVGTU40?oc=5\" target=\"_blank\">AL landowner Fenn Church battles Alabama Power over transmission line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dothan Eagle</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-11T08:43:54+00:00"
+        "collected_at": "2026-11-11T17:37:33+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1034,
-      "new_mentions_this_run": 14,
+      "count": 1036,
+      "new_mentions_this_run": 15,
       "latest_mention": {
-        "id": "13f85688f3bacc85",
-        "title": "Golden Isles Georgia Power Ambassadors visit CASA - The Brunswick News",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOWUzVFdLaGJJeXJWUnNhaTBISEc5MXNlNGd5V0tFMk8xQjhsaUZkdUhSTWo0N3hQNk9mSWpMVnJVbkRaeTZzVDRPMHlnTkhZbHQ4U0w1ekVtdG5mNnhtX3llZEE4eVYxbUtkdTFQOC1sZVNpYTBTUDh4Ri1UQjZfSlptSmNfbVY4b2k4cE1TN3pBTzVuY0VvUFdxM3E2YUxXbXlXSUI2dXN0VWUzLTZaWlJDMmhWLW5GTzlqV1NmTDNOQ1BwS2ItOW1kNnVmZk5ra1pLTGtXRHVKTW8?oc=5",
+        "id": "c9c0c84666376dac",
+        "title": "Georgia Power disputes Sierra Club report on fossil fuel plans - The Augusta Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSDBZeWdQd2J2T1p3RjQwRFNfblhVZlJhb1Z4MkI3SDNkU085cmFtSkw1VThNM0Z2aU85UGZLMG4xQ2ZRZjVDM09iU0hKS3FkSTQ2bVROeG81bkFZQXMxckIxRkJZVmZzRjdUSjFYYUk0VFl2NU05Y2RuTkNBYnRFbXlmM3JvSy1mcXhERC1SWWhSdUFuLUo0YU1KYVU3UTJzUmJTcTdJcFBueUg2NHNETHFMSkgyYnVBMGNHMFVFM1hoalNYWG5YZVdUbjFueThQTWFRNkNPUXpKT0dlZUpaYWRjenhzblRY?oc=5",
         "domain": "news.google.com",
-        "source": "The Brunswick News",
+        "source": "The Augusta Chronicle",
         "language": "English",
-        "published_at": "2026-11-11T05:00:00+00:00",
-        "summary": "Golden Isles Georgia Power Ambassadors visit CASA The Brunswick News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOWUzVFdLaGJJeXJWUnNhaTBISEc5MXNlNGd5V0tFMk8xQjhsaUZkdUhSTWo0N3hQNk9mSWpMVnJVbkRaeTZzVDRPMHlnTkhZbHQ4U0w1ekVtdG5mNnhtX3llZEE4eVYxbUtkdTFQOC1sZVNpYTBTUDh4Ri1UQjZfSlptSmNfbVY4b2k4cE1TN3pBTzVuY0VvUFdxM3E2YUxXbXlXSUI2dXN0VWUzLTZaWlJDMmhWLW5GTzlqV1NmTDNOQ1BwS2ItOW1kNnVmZk5ra1pLTGtXRHVKTW8?oc=5\" target=\"_blank\">Golden Isles Georgia Power Ambassadors visit CASA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brunswick News</font>",
+        "published_at": "2026-11-11T09:00:00+00:00",
+        "summary": "Georgia Power disputes Sierra Club report on fossil fuel plans The Augusta Chronicle",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSDBZeWdQd2J2T1p3RjQwRFNfblhVZlJhb1Z4MkI3SDNkU085cmFtSkw1VThNM0Z2aU85UGZLMG4xQ2ZRZjVDM09iU0hKS3FkSTQ2bVROeG81bkFZQXMxckIxRkJZVmZzRjdUSjFYYUk0VFl2NU05Y2RuTkNBYnRFbXlmM3JvSy1mcXhERC1SWWhSdUFuLUo0YU1KYVU3UTJzUmJTcTdJcFBueUg2NHNETHFMSkgyYnVBMGNHMFVFM1hoalNYWG5YZVdUbjFueThQTWFRNkNPUXpKT0dlZUpaYWRjenhzblRY?oc=5\" target=\"_blank\">Georgia Power disputes Sierra Club report on fossil fuel plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-11T08:44:11+00:00"
+        "collected_at": "2026-11-11T17:37:50+00:00"
       }
     },
     {
