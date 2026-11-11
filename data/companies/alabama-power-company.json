@@ -2,10 +2,38 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-11T01:39:32+00:00",
+  "last_updated": "2026-11-11T08:43:54+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 662,
+  "count": 666,
   "mentions": [
+    {
+      "id": "df5f419f0d86f5ec",
+      "title": "Alabama Power files appeal with Alabama Supreme Court in Fenn Church property dispute - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHotakl1dFRDUTNPOGJsTnphVUdNckt6LWJNa2NyUGJxTzRfeFRsVWZpSEpDaG90ZWp3dXQyblcxV2tfRGR5azRORnlITkJBalhhLXNSMENpQXlEeHpxRGo4UUU3MlBpOXVqODMtNDlxYTdRZVRGZ182TjVpVlFaV2VzREppQUs2Wlk3enV3WFh3OURnQ2VlLWFBZFYxbnFrRUN3WjN5V0JhZUpGWUl3dldrOE9xTG14R3FSTlNucFdCMTRWWF9HRVBR?oc=5",
+      "domain": "news.google.com",
+      "source": "WBMA",
+      "language": "English",
+      "published_at": "2026-11-11T05:22:22+00:00",
+      "summary": "Alabama Power files appeal with Alabama Supreme Court in Fenn Church property dispute WBMA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHotakl1dFRDUTNPOGJsTnphVUdNckt6LWJNa2NyUGJxTzRfeFRsVWZpSEpDaG90ZWp3dXQyblcxV2tfRGR5azRORnlITkJBalhhLXNSMENpQXlEeHpxRGo4UUU3MlBpOXVqODMtNDlxYTdRZVRGZ182TjVpVlFaV2VzREppQUs2Wlk3enV3WFh3OURnQ2VlLWFBZFYxbnFrRUN3WjN5V0JhZUpGWUl3dldrOE9xTG14R3FSTlNucFdCMTRWWF9HRVBR?oc=5\" target=\"_blank\">Alabama Power files appeal with Alabama Supreme Court in Fenn Church property dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-11T08:43:54+00:00"
+    },
+    {
+      "id": "b731891378568577",
+      "title": "Alabama Power files notice of appeal after judge’s ruling in Shelby County property dispute - WVTM Channel 13",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0RZNk9veEJCUUNrMWw0RXV5elhoNlZFU2VVZE1rdEFxN3FVLVAwY0hhdE10MU9kU1htRVNLUDNMS2h5WDdRQldWN1lvZnVyd09tQXJJSThSZC1odi0wSWVVMlllSURDdE5qSzNTenZGSGlOWWdZMFVvUi0zdnBDYXEyV2ozcDJfVGJWMTV4YnJINzNBSnJWV2c0S2ZLM0tqa012MmRqeEY5bEh2TUFmVURqZjRmSXVuLUtjT2xoT0xyZ25LakxXTHBn?oc=5",
+      "domain": "news.google.com",
+      "source": "WVTM Channel 13",
+      "language": "English",
+      "published_at": "2026-11-11T03:57:00+00:00",
+      "summary": "Alabama Power files notice of appeal after judge’s ruling in Shelby County property dispute WVTM Channel 13",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0RZNk9veEJCUUNrMWw0RXV5elhoNlZFU2VVZE1rdEFxN3FVLVAwY0hhdE10MU9kU1htRVNLUDNMS2h5WDdRQldWN1lvZnVyd09tQXJJSThSZC1odi0wSWVVMlllSURDdE5qSzNTenZGSGlOWWdZMFVvUi0zdnBDYXEyV2ozcDJfVGJWMTV4YnJINzNBSnJWV2c0S2ZLM0tqa012MmRqeEY5bEh2TUFmVURqZjRmSXVuLUtjT2xoT0xyZ25LakxXTHBn?oc=5\" target=\"_blank\">Alabama Power files notice of appeal after judge’s ruling in Shelby County property dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM Channel 13</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-11T08:43:54+00:00"
+    },
     {
       "id": "9ea44328bed201f8",
       "title": "'Denied': Shelby County Judge denies Alabama Power restraining order against Fenn Church - 1819 News",
@@ -49,6 +77,20 @@
       "collected_at": "2026-11-11T01:39:32+00:00"
     },
     {
+      "id": "601a00554da08c8e",
+      "title": "Ongoing legal battle leads judge to deny restraining order i... - Shelby County Reporter",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN3h4Tk54SG4xWU51ejRzTXVmSkNKV0xPRGliVG5sTDhwWGh0dW1wTjBNQ3pKY3VuLTZBOXQtSkhETVdfSHJOb3BBY3lEdGJPUnJaeno1MHZkeGpIY1NRZmlSTktTR2ZvVmc5ODhVTi1SQmlsTzI4MW1RamJuLVlOLWFlS2hfZ3NSakFQdXZseFgxQ21ZSlZGTk94RjU0UFFYYWFkcV9iMks3OW5WX0ltS2Vnbk4ycHRoaW5fU0JiV005eWcwd2xRVDJSVnI2U29fTlE?oc=5",
+      "domain": "news.google.com",
+      "source": "Shelby County Reporter",
+      "language": "English",
+      "published_at": "2026-11-10T22:33:11+00:00",
+      "summary": "Ongoing legal battle leads judge to deny restraining order i... Shelby County Reporter",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN3h4Tk54SG4xWU51ejRzTXVmSkNKV0xPRGliVG5sTDhwWGh0dW1wTjBNQ3pKY3VuLTZBOXQtSkhETVdfSHJOb3BBY3lEdGJPUnJaeno1MHZkeGpIY1NRZmlSTktTR2ZvVmc5ODhVTi1SQmlsTzI4MW1RamJuLVlOLWFlS2hfZ3NSakFQdXZseFgxQ21ZSlZGTk94RjU0UFFYYWFkcV9iMks3OW5WX0ltS2Vnbk4ycHRoaW5fU0JiV005eWcwd2xRVDJSVnI2U29fTlE?oc=5\" target=\"_blank\">Ongoing legal battle leads judge to deny restraining order i...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shelby County Reporter</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-11T08:43:54+00:00"
+    },
+    {
       "id": "5dc267cd8c36e028",
       "title": "Judge denies Alabama Power request to keep Fenn Church 300 feet from workers - AL.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZzNQSGZfa05RMTk5ZEVpbmtEU3NqalZxbHBNTWJObm1LeFJPZVB3alRvN1l5d0dPdzNpUzBoNWNtUm1KR0FnblNWTnRWX0lfSTFPSmdUOWpzUm9sWlhoeGVPeEZqaTd5MHNVQ3djakdKVFAzVDNuWkplQkRGVGF6NnlENVJHMVhuQ1lOekpRdU1lV3BNZG5EZzE0NXhDU2FlM0ZGYnBjZDB3RnhfSzhWbV9Xd9IBxwFBVV95cUxPX2RDZlhxbG9BUktaa0dGdTlxM0dnRlJkcUt2a25seGdjakJscTNZUnZVQUJ0UzdGQWJka3J5SllRLXl2dFZyRnVyd2dqVWlSWHRJVVJOXzJMZ2J3TGI5X1U0bUlKaGhQMTJETWpZcTZLS05wamk3bkU5UDdzeXM3bGFyOXBFOTkxdGZUUzQzbGE2M1BaUmRwZXk3d3AyMzE0Uy1tNjI3bVczWTNmQzJnUHgwSEtxSnFUdzd6UV90cm5oa1hxUFFN?oc=5",
@@ -89,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-11T01:39:32+00:00"
+    },
+    {
+      "id": "8ad0bae79eae4067",
+      "title": "Shelby County judge denies temporary restraining order requested by Alabama Power against landowner - Alabama's 42",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc3c4WkZrLWlqZ3BZU0s2ZlUweTJnVnUwT1ZxUlZXa19sSmpPZHhLODRDNGk1cmxCZlNDOTdyMDExX0VKWmljeDdZOGFhZFh4ZmJaaC0zSjVnSTBQamdlZm1OeTJTUFZlbTI3ZTBIejVxRHExOUFHcEVJcGhhdVFIV0lkcFpsS1BaWkE2YVBQUXlFMDNmcnlXTE1fbkZ0bm5nOS1fYWwxOUc3cXVQVXpwWU5zNE5HQTA1b0VNN01WT0R1MGhRTFhIREswZEfSAdIBQVVfeXFMTnl2WGtNMks4a1Fhc1RieGhoSVpVRFIxanZNUXhKQ2ppT0ZTcVJzUDJjYWJ1MklhbG9uQnFheFVoV2d4Y0N1TnlLd3doN0UwNFpRYnY4Smd5Q2x0WXJqNVlMeUpHLVN5SzMzNy1uNTFuX2RqVHpWMHJvV2VpNFBjR0pQZmVmVnBHMEZOeTZkOFhpUWh1V2ZscG9kbjVwRTMxQTVHZkNBQXdfSUh3MW00cFM3YTZXUm1TYWVnYnZLMS1qZU9VbGMzLXRidkQxX2JRcldB?oc=5",
+      "domain": "news.google.com",
+      "source": "Alabama's 42",
+      "language": "English",
+      "published_at": "2026-11-10T21:49:40+00:00",
+      "summary": "Shelby County judge denies temporary restraining order requested by Alabama Power against landowner Alabama's 42",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOc3c4WkZrLWlqZ3BZU0s2ZlUweTJnVnUwT1ZxUlZXa19sSmpPZHhLODRDNGk1cmxCZlNDOTdyMDExX0VKWmljeDdZOGFhZFh4ZmJaaC0zSjVnSTBQamdlZm1OeTJTUFZlbTI3ZTBIejVxRHExOUFHcEVJcGhhdVFIV0lkcFpsS1BaWkE2YVBQUXlFMDNmcnlXTE1fbkZ0bm5nOS1fYWwxOUc3cXVQVXpwWU5zNE5HQTA1b0VNN01WT0R1MGhRTFhIREswZEfSAdIBQVVfeXFMTnl2WGtNMks4a1Fhc1RieGhoSVpVRFIxanZNUXhKQ2ppT0ZTcVJzUDJjYWJ1MklhbG9uQnFheFVoV2d4Y0N1TnlLd3doN0UwNFpRYnY4Smd5Q2x0WXJqNVlMeUpHLVN5SzMzNy1uNTFuX2RqVHpWMHJvV2VpNFBjR0pQZmVmVnBHMEZOeTZkOFhpUWh1V2ZscG9kbjVwRTMxQTVHZkNBQXdfSUh3MW00cFM3YTZXUm1TYWVnYnZLMS1qZU9VbGMzLXRidkQxX2JRcldB?oc=5\" target=\"_blank\">Shelby County judge denies temporary restraining order requested by Alabama Power against landowner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama's 42</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-11T08:43:54+00:00"
     },
     {
       "id": "c15c4287845d0503",

@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-11T01:39:48+00:00",
+  "last_updated": "2026-11-11T08:44:11+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1033,
+  "count": 1034,
   "mentions": [
+    {
+      "id": "13f85688f3bacc85",
+      "title": "Golden Isles Georgia Power Ambassadors visit CASA - The Brunswick News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOWUzVFdLaGJJeXJWUnNhaTBISEc5MXNlNGd5V0tFMk8xQjhsaUZkdUhSTWo0N3hQNk9mSWpMVnJVbkRaeTZzVDRPMHlnTkhZbHQ4U0w1ekVtdG5mNnhtX3llZEE4eVYxbUtkdTFQOC1sZVNpYTBTUDh4Ri1UQjZfSlptSmNfbVY4b2k4cE1TN3pBTzVuY0VvUFdxM3E2YUxXbXlXSUI2dXN0VWUzLTZaWlJDMmhWLW5GTzlqV1NmTDNOQ1BwS2ItOW1kNnVmZk5ra1pLTGtXRHVKTW8?oc=5",
+      "domain": "news.google.com",
+      "source": "The Brunswick News",
+      "language": "English",
+      "published_at": "2026-11-11T05:00:00+00:00",
+      "summary": "Golden Isles Georgia Power Ambassadors visit CASA The Brunswick News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOWUzVFdLaGJJeXJWUnNhaTBISEc5MXNlNGd5V0tFMk8xQjhsaUZkdUhSTWo0N3hQNk9mSWpMVnJVbkRaeTZzVDRPMHlnTkhZbHQ4U0w1ekVtdG5mNnhtX3llZEE4eVYxbUtkdTFQOC1sZVNpYTBTUDh4Ri1UQjZfSlptSmNfbVY4b2k4cE1TN3pBTzVuY0VvUFdxM3E2YUxXbXlXSUI2dXN0VWUzLTZaWlJDMmhWLW5GTzlqV1NmTDNOQ1BwS2ItOW1kNnVmZk5ra1pLTGtXRHVKTW8?oc=5\" target=\"_blank\">Golden Isles Georgia Power Ambassadors visit CASA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brunswick News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-11T08:44:11+00:00"
+    },
     {
       "id": "59abdc8e48318edf",
       "title": "Election shift could impact Georgia power bills - 11Alive.com",
