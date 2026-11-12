@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-11-12T14:28:11+00:00",
+  "last_updated": "2026-11-12T22:00:07+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 141,
+      "count": 142,
       "new_mentions_this_run": 3,
       "latest_mention": {
-        "id": "e6c1227e2d133a4b",
-        "title": "Public comment sessions held for high-voltage transmission line project in Green Country - KTUL",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONlRma1VVZzVHWUFpVFJmZ2VZWlZfRW11UE15bXJRUG5rTlh3YjlyYWFrUk9Md3BhZnp3YzdMTFI5d3dZX3I0aUpaRGZTMWlPU2QzaFFUV0FXZDFnanA4TEVBQmVBMlhadEdpbEJfRDZaVlJ1YUlGcHdPUlNoLUZRbWlBMGZxQTdOQTFwbUpxNjlOemxCcXpkTmVfbWpSVGJ5QXA5Rm5vMFlaakRPUk5oaWVxMEFDbFBpUlhNWW95cFRtem1nd2c?oc=5",
+        "id": "e88468c6b03697c0",
+        "title": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme - Environment Analyst",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWZVZWpMYkgwSjJqbVh5ZFl0d0ROOGNYR0Z3aC16c3RscVFEWkFvTkhFbFZUV3pWSGcxbDA5VXBDVXRFSGctbDVjLVNsbDltUy1NTGhaTHVHUU1NNHJyajN1OUNsWFBOa1RkYVZ5dGNuVVh6NnEyYzBpZXlOUHU3NTViMGdqQU5ha3I5YW5aS1BJOENvZEpfSVkwbVZwWGhteVF2OVpBYVZoVTJ0cDVRdU1BNEpYRnM?oc=5",
         "domain": "news.google.com",
-        "source": "KTUL",
+        "source": "Environment Analyst",
         "language": "English",
-        "published_at": "2026-11-10T04:06:50+00:00",
-        "summary": "Public comment sessions held for high-voltage transmission line project in Green Country KTUL",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxONlRma1VVZzVHWUFpVFJmZ2VZWlZfRW11UE15bXJRUG5rTlh3YjlyYWFrUk9Md3BhZnp3YzdMTFI5d3dZX3I0aUpaRGZTMWlPU2QzaFFUV0FXZDFnanA4TEVBQmVBMlhadEdpbEJfRDZaVlJ1YUlGcHdPUlNoLUZRbWlBMGZxQTdOQTFwbUpxNjlOemxCcXpkTmVfbWpSVGJ5QXA5Rm5vMFlaakRPUk5oaWVxMEFDbFBpUlhNWW95cFRtem1nd2c?oc=5\" target=\"_blank\">Public comment sessions held for high-voltage transmission line project in Green Country</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTUL</font>",
+        "published_at": "2026-11-12T12:06:00+00:00",
+        "summary": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme Environment Analyst",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWZVZWpMYkgwSjJqbVh5ZFl0d0ROOGNYR0Z3aC16c3RscVFEWkFvTkhFbFZUV3pWSGcxbDA5VXBDVXRFSGctbDVjLVNsbDltUy1NTGhaTHVHUU1NNHJyajN1OUNsWFBOa1RkYVZ5dGNuVVh6NnEyYzBpZXlOUHU3NTViMGdqQU5ha3I5YW5aS1BJOENvZEpfSVkwbVZwWGhteVF2OVpBYVZoVTJ0cDVRdU1BNEpYRnM?oc=5\" target=\"_blank\">Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Environment Analyst</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-10T20:40:13+00:00"
+        "collected_at": "2026-11-12T21:59:35+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 681,
+      "count": 683,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "ea830c84bb92428d",
-        "title": "Alabama Power pushes back in Fenn Church case, highlights impact of delays on schools and churches - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEhmUmRBLVFFMHh0c01PXzFSNkpFMDVFM0cwTU1fdFZ1YUNQSUNCSkhNU1VLVFRyZzg5ZXRmVU55NTVxcWN0QjBnTjJQNXBQU25rdHVxTVBUbjVDbWhaNXd0aDNXNFFTcTNtcFpJU19tVEdubUhGVkhRYmhhRnozVy00NFBmak1Uel9LMm5OMGdJSUk5dlVwVEx2MThjY3ZORV9JbmtxU1FIZ3JrTWdXSGk3LWF4ZHFBYnJzbVpEN1o?oc=5",
+        "id": "1722437e834ca1ba",
+        "title": "VIDEO: John Rich details Fenn Church story; Questions 'timeline' defense by Alabama Power - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNamotTGRRTkFPM2pZZHdNSEJLS1pRUGsyWkhRY0cwMWFxaWdLN0NRQ2t6Skx3QzFmTUw2bWlPdTg2RXZuaTdaZmRMeUtfWmRlZVVETzl0TU1oNTBjcUZDbWVWazBtX2dTVHI5NXFzeTZOLUtfZDdzNnNIWUd5RDBEWC1DbEZQc0RSb2wyeDZHa3VqM0tmbXNjNWFvNUJiaGM3LTdqeGdGZWhjdDBtVmMya0lIM3ZhVXM?oc=5",
         "domain": "news.google.com",
         "source": "1819 News",
         "language": "English",
-        "published_at": "2026-11-12T01:59:47+00:00",
-        "summary": "Alabama Power pushes back in Fenn Church case, highlights impact of delays on schools and churches 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEhmUmRBLVFFMHh0c01PXzFSNkpFMDVFM0cwTU1fdFZ1YUNQSUNCSkhNU1VLVFRyZzg5ZXRmVU55NTVxcWN0QjBnTjJQNXBQU25rdHVxTVBUbjVDbWhaNXd0aDNXNFFTcTNtcFpJU19tVEdubUhGVkhRYmhhRnozVy00NFBmak1Uel9LMm5OMGdJSUk5dlVwVEx2MThjY3ZORV9JbmtxU1FIZ3JrTWdXSGk3LWF4ZHFBYnJzbVpEN1o?oc=5\" target=\"_blank\">Alabama Power pushes back in Fenn Church case, highlights impact of delays on schools and churches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-11-12T20:03:30+00:00",
+        "summary": "VIDEO: John Rich details Fenn Church story; Questions 'timeline' defense by Alabama Power 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNamotTGRRTkFPM2pZZHdNSEJLS1pRUGsyWkhRY0cwMWFxaWdLN0NRQ2t6Skx3QzFmTUw2bWlPdTg2RXZuaTdaZmRMeUtfWmRlZVVETzl0TU1oNTBjcUZDbWVWazBtX2dTVHI5NXFzeTZOLUtfZDdzNnNIWUd5RDBEWC1DbEZQc0RSb2wyeDZHa3VqM0tmbXNjNWFvNUJiaGM3LTdqeGdGZWhjdDBtVmMya0lIM3ZhVXM?oc=5\" target=\"_blank\">VIDEO: John Rich details Fenn Church story; Questions 'timeline' defense by Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-12T05:31:18+00:00"
+        "collected_at": "2026-11-12T21:59:40+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1040,
-      "new_mentions_this_run": 15,
+      "count": 1043,
+      "new_mentions_this_run": 16,
       "latest_mention": {
-        "id": "3ee8015a36deebb6",
-        "title": "Georgia Power disputes Sierra Club report on fossil fuel plans - The Augusta Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdVN4LUxGVGxUeUhKV1F3LU5YNDVlUzljcW10Y0ZuMkJRVG9qaVVwdTdMeVhVN3Y1SHZLT3JXVThOUVRwdFNqWU5qenpQOUJLdnBHZy1fd2Vjd3d0YlpvQ3ZYaDhpUmtCaFFpMmhzcjFXY3ZxYV9pcDVGUWR3eFB4M2JzaVNrZTY0c2R1WmpqdF9lbjY1Ri1vZ1RVQmZ0SWZsNUdrVGN5QVJTWUJaQi13RUVvalB6Tmh2Z1BIWEJheWt4TERWSDJUY1hhWlJhZGR2QkJtUUdLYVB3LUU?oc=5",
+        "id": "28f1a292fc25d0f6",
+        "title": "$100k grant awarded to Tifton Urban Redevelopment Agency to help people weatherize their homes - WALB.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEV6QTExeUZhcGRtcThYYk9mZkNFSWlOZ2xHQTg1dXRsdXdNNzFrcFQ3T1FaTzlsdU95bVVxVWk5RHBvTXRqU1pGYnJUaDZJSzAwelRHVjBZRkVVRWtGLVNWcXVGR2R2d2NlWm5nc1hueXRhZ0ZHakcwVlNfVzhqTUlrdm1xQWp1SVhOd2pXRE5PZE1Kdjh6dV9VUHB6MFREZi15eXRXR0U3OUY1NlRkNzVsczVRZ0Q0cFFLag?oc=5",
         "domain": "news.google.com",
-        "source": "The Augusta Chronicle",
+        "source": "WALB.com",
         "language": "English",
-        "published_at": "2026-11-12T09:01:49+00:00",
-        "summary": "Georgia Power disputes Sierra Club report on fossil fuel plans The Augusta Chronicle",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdVN4LUxGVGxUeUhKV1F3LU5YNDVlUzljcW10Y0ZuMkJRVG9qaVVwdTdMeVhVN3Y1SHZLT3JXVThOUVRwdFNqWU5qenpQOUJLdnBHZy1fd2Vjd3d0YlpvQ3ZYaDhpUmtCaFFpMmhzcjFXY3ZxYV9pcDVGUWR3eFB4M2JzaVNrZTY0c2R1WmpqdF9lbjY1Ri1vZ1RVQmZ0SWZsNUdrVGN5QVJTWUJaQi13RUVvalB6Tmh2Z1BIWEJheWt4TERWSDJUY1hhWlJhZGR2QkJtUUdLYVB3LUU?oc=5\" target=\"_blank\">Georgia Power disputes Sierra Club report on fossil fuel plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
+        "published_at": "2026-11-12T15:44:00+00:00",
+        "summary": "$100k grant awarded to Tifton Urban Redevelopment Agency to help people weatherize their homes WALB.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEV6QTExeUZhcGRtcThYYk9mZkNFSWlOZ2xHQTg1dXRsdXdNNzFrcFQ3T1FaTzlsdU95bVVxVWk5RHBvTXRqU1pGYnJUaDZJSzAwelRHVjBZRkVVRWtGLVNWcXVGR2R2d2NlWm5nc1hueXRhZ0ZHakcwVlNfVzhqTUlrdm1xQWp1SVhOd2pXRE5PZE1Kdjh6dV9VUHB6MFREZi15eXRXR0U3OUY1NlRkNzVsczVRZ0Q0cFFLag?oc=5\" target=\"_blank\">$100k grant awarded to Tifton Urban Redevelopment Agency to help people weatherize their homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WALB.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-12T14:28:00+00:00"
+        "collected_at": "2026-11-12T21:59:57+00:00"
       }
     },
     {

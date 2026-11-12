@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-12T14:27:39+00:00",
+  "last_updated": "2026-11-12T21:59:35+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 141,
+  "count": 142,
   "mentions": [
+    {
+      "id": "e88468c6b03697c0",
+      "title": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme - Environment Analyst",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWZVZWpMYkgwSjJqbVh5ZFl0d0ROOGNYR0Z3aC16c3RscVFEWkFvTkhFbFZUV3pWSGcxbDA5VXBDVXRFSGctbDVjLVNsbDltUy1NTGhaTHVHUU1NNHJyajN1OUNsWFBOa1RkYVZ5dGNuVVh6NnEyYzBpZXlOUHU3NTViMGdqQU5ha3I5YW5aS1BJOENvZEpfSVkwbVZwWGhteVF2OVpBYVZoVTJ0cDVRdU1BNEpYRnM?oc=5",
+      "domain": "news.google.com",
+      "source": "Environment Analyst",
+      "language": "English",
+      "published_at": "2026-11-12T12:06:00+00:00",
+      "summary": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme Environment Analyst",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWZVZWpMYkgwSjJqbVh5ZFl0d0ROOGNYR0Z3aC16c3RscVFEWkFvTkhFbFZUV3pWSGcxbDA5VXBDVXRFSGctbDVjLVNsbDltUy1NTGhaTHVHUU1NNHJyajN1OUNsWFBOa1RkYVZ5dGNuVVh6NnEyYzBpZXlOUHU3NTViMGdqQU5ha3I5YW5aS1BJOENvZEpfSVkwbVZwWGhteVF2OVpBYVZoVTJ0cDVRdU1BNEpYRnM?oc=5\" target=\"_blank\">Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Environment Analyst</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-12T21:59:35+00:00"
+    },
     {
       "id": "e6c1227e2d133a4b",
       "title": "Public comment sessions held for high-voltage transmission line project in Green Country - KTUL",

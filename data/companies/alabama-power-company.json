@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-12T14:27:44+00:00",
+  "last_updated": "2026-11-12T21:59:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 681,
+  "count": 683,
   "mentions": [
+    {
+      "id": "1722437e834ca1ba",
+      "title": "VIDEO: John Rich details Fenn Church story; Questions 'timeline' defense by Alabama Power - 1819 News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNamotTGRRTkFPM2pZZHdNSEJLS1pRUGsyWkhRY0cwMWFxaWdLN0NRQ2t6Skx3QzFmTUw2bWlPdTg2RXZuaTdaZmRMeUtfWmRlZVVETzl0TU1oNTBjcUZDbWVWazBtX2dTVHI5NXFzeTZOLUtfZDdzNnNIWUd5RDBEWC1DbEZQc0RSb2wyeDZHa3VqM0tmbXNjNWFvNUJiaGM3LTdqeGdGZWhjdDBtVmMya0lIM3ZhVXM?oc=5",
+      "domain": "news.google.com",
+      "source": "1819 News",
+      "language": "English",
+      "published_at": "2026-11-12T20:03:30+00:00",
+      "summary": "VIDEO: John Rich details Fenn Church story; Questions 'timeline' defense by Alabama Power 1819 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNamotTGRRTkFPM2pZZHdNSEJLS1pRUGsyWkhRY0cwMWFxaWdLN0NRQ2t6Skx3QzFmTUw2bWlPdTg2RXZuaTdaZmRMeUtfWmRlZVVETzl0TU1oNTBjcUZDbWVWazBtX2dTVHI5NXFzeTZOLUtfZDdzNnNIWUd5RDBEWC1DbEZQc0RSb2wyeDZHa3VqM0tmbXNjNWFvNUJiaGM3LTdqeGdGZWhjdDBtVmMya0lIM3ZhVXM?oc=5\" target=\"_blank\">VIDEO: John Rich details Fenn Church story; Questions 'timeline' defense by Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-12T21:59:40+00:00"
+    },
     {
       "id": "ea830c84bb92428d",
       "title": "Alabama Power pushes back in Fenn Church case, highlights impact of delays on schools and churches - 1819 News",
@@ -327,6 +341,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-11T01:39:32+00:00"
+    },
+    {
+      "id": "155c4f067b551d11",
+      "title": "Judge rejects Alabama Power restraining order request against property owner in land dispute - WVTM Channel 13",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0swR1pYRXZteGxPc1NLa0RQUllsRUlXVGUwXy1DNXhtS18yUGw3NmV0aVVpWDNER3hVZXVtMDNQbnUySlJXdVR1N3RzNzNsNHhrSl9DUUh3NkpvLXNPWkF5QXBITmNRc0Vod1prNkI0Um1GMWFDM0tYbkRnWHZtWnRpUHV2bFU2Zmx5OTNGU1FUdHRCSmo5S3pNNjBLN2FDdklaS1k0R3dhc19Q?oc=5",
+      "domain": "news.google.com",
+      "source": "WVTM Channel 13",
+      "language": "English",
+      "published_at": "2026-11-10T21:04:00+00:00",
+      "summary": "Judge rejects Alabama Power restraining order request against property owner in land dispute WVTM Channel 13",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0swR1pYRXZteGxPc1NLa0RQUllsRUlXVGUwXy1DNXhtS18yUGw3NmV0aVVpWDNER3hVZXVtMDNQbnUySlJXdVR1N3RzNzNsNHhrSl9DUUh3NkpvLXNPWkF5QXBITmNRc0Vod1prNkI0Um1GMWFDM0tYbkRnWHZtWnRpUHV2bFU2Zmx5OTNGU1FUdHRCSmo5S3pNNjBLN2FDdklaS1k0R3dhc19Q?oc=5\" target=\"_blank\">Judge rejects Alabama Power restraining order request against property owner in land dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM Channel 13</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-12T21:59:40+00:00"
     },
     {
       "id": "d1983f6689c3482f",
