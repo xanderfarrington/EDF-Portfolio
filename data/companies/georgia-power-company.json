@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-12T05:31:34+00:00",
+  "last_updated": "2026-11-12T14:28:00+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1039,
+  "count": 1040,
   "mentions": [
+    {
+      "id": "3ee8015a36deebb6",
+      "title": "Georgia Power disputes Sierra Club report on fossil fuel plans - The Augusta Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdVN4LUxGVGxUeUhKV1F3LU5YNDVlUzljcW10Y0ZuMkJRVG9qaVVwdTdMeVhVN3Y1SHZLT3JXVThOUVRwdFNqWU5qenpQOUJLdnBHZy1fd2Vjd3d0YlpvQ3ZYaDhpUmtCaFFpMmhzcjFXY3ZxYV9pcDVGUWR3eFB4M2JzaVNrZTY0c2R1WmpqdF9lbjY1Ri1vZ1RVQmZ0SWZsNUdrVGN5QVJTWUJaQi13RUVvalB6Tmh2Z1BIWEJheWt4TERWSDJUY1hhWlJhZGR2QkJtUUdLYVB3LUU?oc=5",
+      "domain": "news.google.com",
+      "source": "The Augusta Chronicle",
+      "language": "English",
+      "published_at": "2026-11-12T09:01:49+00:00",
+      "summary": "Georgia Power disputes Sierra Club report on fossil fuel plans The Augusta Chronicle",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdVN4LUxGVGxUeUhKV1F3LU5YNDVlUzljcW10Y0ZuMkJRVG9qaVVwdTdMeVhVN3Y1SHZLT3JXVThOUVRwdFNqWU5qenpQOUJLdnBHZy1fd2Vjd3d0YlpvQ3ZYaDhpUmtCaFFpMmhzcjFXY3ZxYV9pcDVGUWR3eFB4M2JzaVNrZTY0c2R1WmpqdF9lbjY1Ri1vZ1RVQmZ0SWZsNUdrVGN5QVJTWUJaQi13RUVvalB6Tmh2Z1BIWEJheWt4TERWSDJUY1hhWlJhZGR2QkJtUUdLYVB3LUU?oc=5\" target=\"_blank\">Georgia Power disputes Sierra Club report on fossil fuel plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Chronicle</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-12T14:28:00+00:00"
+    },
     {
       "id": "8f353a6065fbdfcd",
       "title": "Georgia Power shares ways to lower winter heating costs - Atlanta News First",
