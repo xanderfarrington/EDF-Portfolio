@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-11T23:56:08+00:00",
+  "last_updated": "2026-11-12T05:31:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1038,
+  "count": 1039,
   "mentions": [
+    {
+      "id": "8f353a6065fbdfcd",
+      "title": "Georgia Power shares ways to lower winter heating costs - Atlanta News First",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWThYLUVkWGxhbmtzUUdPNi01RWNSeElHN3pWaGxBNjhxbWIxV1VqT24xeVM5aS1TMHhGckE1LTdTSkZKRGo2ekF2U3htRFNlZEN6RTZ0RHdnS3VNelRQb0RiVHdxaTFlZWhHSHFmY0w5eExqZkZjMl9aQjhwSE43M0F0XzNvOUJqSXdoVVFURldQdWEyM01iQ0t1NzZpd9IBsgFBVV95cUxPeTd4SEh3RGpLVzFydFFwS3hVb1VZSzBDNE1RM1FrVEVSTV81c0dUOVdzMl9iclFQaUg1VkhpRFVsd0pVWlNKVTVHWTdsaktmWEx3b3FIaWYxWVZwaXdoVlgzWVN5TzFta3FwczhzWk84WDJRdTRvSVlLc2dwV2FGWHBMd1dUbHYwcGs0QlpNLTRSblRkUzhtTzZRZmNQLTRMQ3dxNVZKeHU5b2dibU5tekpB?oc=5",
+      "domain": "news.google.com",
+      "source": "Atlanta News First",
+      "language": "English",
+      "published_at": "2026-11-12T04:11:00+00:00",
+      "summary": "Georgia Power shares ways to lower winter heating costs Atlanta News First",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOWThYLUVkWGxhbmtzUUdPNi01RWNSeElHN3pWaGxBNjhxbWIxV1VqT24xeVM5aS1TMHhGckE1LTdTSkZKRGo2ekF2U3htRFNlZEN6RTZ0RHdnS3VNelRQb0RiVHdxaTFlZWhHSHFmY0w5eExqZkZjMl9aQjhwSE43M0F0XzNvOUJqSXdoVVFURldQdWEyM01iQ0t1NzZpd9IBsgFBVV95cUxPeTd4SEh3RGpLVzFydFFwS3hVb1VZSzBDNE1RM1FrVEVSTV81c0dUOVdzMl9iclFQaUg1VkhpRFVsd0pVWlNKVTVHWTdsaktmWEx3b3FIaWYxWVZwaXdoVlgzWVN5TzFta3FwczhzWk84WDJRdTRvSVlLc2dwV2FGWHBMd1dUbHYwcGs0QlpNLTRSblRkUzhtTzZRZmNQLTRMQ3dxNVZKeHU5b2dibU5tekpB?oc=5\" target=\"_blank\">Georgia Power shares ways to lower winter heating costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-12T05:31:34+00:00"
+    },
     {
       "id": "7e541213bf4c37ef",
       "title": "Precision Trading with Georgia Power Company Series 2017a 5.00% Junior Subordinated Notes Due October 1 2077 (GPJA) Risk Zones - Stock Traders Daily",
