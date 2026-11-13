@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-12T21:59:57+00:00",
+  "last_updated": "2026-11-13T02:29:49+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1043,
+  "count": 1044,
   "mentions": [
+    {
+      "id": "0b1d1c5aab75323c",
+      "title": "Perry's Go Fish Education Center highlights new upgrades Thursday after $150,000 gift - WGXA",
+      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPZHJrMUdtNGl2em5YWTd2Mk1ibE9tc0U2TFJrbFRJR1Bfdll5aXM1dkVJaC1UWm05OTdRdHBtVjlKWEVnOEsyYVFOYjhnRTBlb2VkdndKR1d5ZmhuV1RhMDZ5Ny0xQzdSUFhVYXVkMUt1cWcxdVNQZ3pyQ001R2VvdXRhVmdlTk9xWXpYWmNuSVEyaG0tLUphczd5bDJXak84d0ViMlJzZDlrdThrMHY4QlNJaU1nYnBOeEZ4LUVlU3RjNDdqeU82dDBaczZ6TDhaYkFzOG8wQ1M0UV8xSmRLYjVMSjJnS0FzMTFPaF9ySnY0c0cwYnFVUkRsVjBLZGJNTUYxdnVXZDZ0ZngtaGtEdEhIandQbzNJdU1jby0ydG50QnpiV1N5c0lLNVB3YzR2NFdYU3lKTldkNUI0X3dnbHA4cFExTW96elVZdTllUzRNYTNZZTJwMmRXOFpFcFluNTlRMGNwRHdheTJIRjlNYVlMcnh1eW4tY29WaC1xQ3hpYlBKbWVWWjMzUDh4WDZubGc?oc=5",
+      "domain": "news.google.com",
+      "source": "WGXA",
+      "language": "English",
+      "published_at": "2026-11-12T22:37:40+00:00",
+      "summary": "Perry's Go Fish Education Center highlights new upgrades Thursday after $150,000 gift WGXA",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxPZHJrMUdtNGl2em5YWTd2Mk1ibE9tc0U2TFJrbFRJR1Bfdll5aXM1dkVJaC1UWm05OTdRdHBtVjlKWEVnOEsyYVFOYjhnRTBlb2VkdndKR1d5ZmhuV1RhMDZ5Ny0xQzdSUFhVYXVkMUt1cWcxdVNQZ3pyQ001R2VvdXRhVmdlTk9xWXpYWmNuSVEyaG0tLUphczd5bDJXak84d0ViMlJzZDlrdThrMHY4QlNJaU1nYnBOeEZ4LUVlU3RjNDdqeU82dDBaczZ6TDhaYkFzOG8wQ1M0UV8xSmRLYjVMSjJnS0FzMTFPaF9ySnY0c0cwYnFVUkRsVjBLZGJNTUYxdnVXZDZ0ZngtaGtEdEhIandQbzNJdU1jby0ydG50QnpiV1N5c0lLNVB3YzR2NFdYU3lKTldkNUI0X3dnbHA4cFExTW96elVZdTllUzRNYTNZZTJwMmRXOFpFcFluNTlRMGNwRHdheTJIRjlNYVlMcnh1eW4tY29WaC1xQ3hpYlBKbWVWWjMzUDh4WDZubGc?oc=5\" target=\"_blank\">Perry's Go Fish Education Center highlights new upgrades Thursday after $150,000 gift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGXA</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-13T02:29:49+00:00"
+    },
     {
       "id": "28f1a292fc25d0f6",
       "title": "$100k grant awarded to Tifton Urban Redevelopment Agency to help people weatherize their homes - WALB.com",

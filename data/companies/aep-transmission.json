@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-12T21:59:35+00:00",
+  "last_updated": "2026-11-13T02:29:27+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 142,
+  "count": 143,
   "mentions": [
     {
       "id": "e88468c6b03697c0",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-12T21:59:35+00:00"
+    },
+    {
+      "id": "a1095da6dd1277d3",
+      "title": "American Electric Power Company, Inc. (AEP) stock price, news, quote and history - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42dWVGVGk2S05IdFdjSlRFR3E1RWFhcUJWLUtuYUVjZFVkRUVEYjJfVklfOWVWV3FNSjlZOERjZVkyWHk5c1NETHlIOUtCemdx?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance UK",
+      "language": "English",
+      "published_at": "2026-11-12T01:28:48+00:00",
+      "summary": "American Electric Power Company, Inc. (AEP) stock price, news, quote and history Yahoo Finance UK",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE42dWVGVGk2S05IdFdjSlRFR3E1RWFhcUJWLUtuYUVjZFVkRUVEYjJfVklfOWVWV3FNSjlZOERjZVkyWHk5c1NETHlIOUtCemdx?oc=5\" target=\"_blank\">American Electric Power Company, Inc. (AEP) stock price, news, quote and history</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-13T02:29:27+00:00"
     },
     {
       "id": "e6c1227e2d133a4b",

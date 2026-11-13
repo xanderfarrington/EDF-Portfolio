@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-12T22:00:07+00:00",
+  "last_updated": "2026-11-13T02:29:59+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 142,
-      "new_mentions_this_run": 3,
+      "count": 143,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e88468c6b03697c0",
         "title": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme - Environment Analyst",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1043,
-      "new_mentions_this_run": 16,
+      "count": 1044,
+      "new_mentions_this_run": 15,
       "latest_mention": {
-        "id": "28f1a292fc25d0f6",
-        "title": "$100k grant awarded to Tifton Urban Redevelopment Agency to help people weatherize their homes - WALB.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEV6QTExeUZhcGRtcThYYk9mZkNFSWlOZ2xHQTg1dXRsdXdNNzFrcFQ3T1FaTzlsdU95bVVxVWk5RHBvTXRqU1pGYnJUaDZJSzAwelRHVjBZRkVVRWtGLVNWcXVGR2R2d2NlWm5nc1hueXRhZ0ZHakcwVlNfVzhqTUlrdm1xQWp1SVhOd2pXRE5PZE1Kdjh6dV9VUHB6MFREZi15eXRXR0U3OUY1NlRkNzVsczVRZ0Q0cFFLag?oc=5",
+        "id": "0b1d1c5aab75323c",
+        "title": "Perry's Go Fish Education Center highlights new upgrades Thursday after $150,000 gift - WGXA",
+        "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPZHJrMUdtNGl2em5YWTd2Mk1ibE9tc0U2TFJrbFRJR1Bfdll5aXM1dkVJaC1UWm05OTdRdHBtVjlKWEVnOEsyYVFOYjhnRTBlb2VkdndKR1d5ZmhuV1RhMDZ5Ny0xQzdSUFhVYXVkMUt1cWcxdVNQZ3pyQ001R2VvdXRhVmdlTk9xWXpYWmNuSVEyaG0tLUphczd5bDJXak84d0ViMlJzZDlrdThrMHY4QlNJaU1nYnBOeEZ4LUVlU3RjNDdqeU82dDBaczZ6TDhaYkFzOG8wQ1M0UV8xSmRLYjVMSjJnS0FzMTFPaF9ySnY0c0cwYnFVUkRsVjBLZGJNTUYxdnVXZDZ0ZngtaGtEdEhIandQbzNJdU1jby0ydG50QnpiV1N5c0lLNVB3YzR2NFdYU3lKTldkNUI0X3dnbHA4cFExTW96elVZdTllUzRNYTNZZTJwMmRXOFpFcFluNTlRMGNwRHdheTJIRjlNYVlMcnh1eW4tY29WaC1xQ3hpYlBKbWVWWjMzUDh4WDZubGc?oc=5",
         "domain": "news.google.com",
-        "source": "WALB.com",
+        "source": "WGXA",
         "language": "English",
-        "published_at": "2026-11-12T15:44:00+00:00",
-        "summary": "$100k grant awarded to Tifton Urban Redevelopment Agency to help people weatherize their homes WALB.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEV6QTExeUZhcGRtcThYYk9mZkNFSWlOZ2xHQTg1dXRsdXdNNzFrcFQ3T1FaTzlsdU95bVVxVWk5RHBvTXRqU1pGYnJUaDZJSzAwelRHVjBZRkVVRWtGLVNWcXVGR2R2d2NlWm5nc1hueXRhZ0ZHakcwVlNfVzhqTUlrdm1xQWp1SVhOd2pXRE5PZE1Kdjh6dV9VUHB6MFREZi15eXRXR0U3OUY1NlRkNzVsczVRZ0Q0cFFLag?oc=5\" target=\"_blank\">$100k grant awarded to Tifton Urban Redevelopment Agency to help people weatherize their homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WALB.com</font>",
+        "published_at": "2026-11-12T22:37:40+00:00",
+        "summary": "Perry's Go Fish Education Center highlights new upgrades Thursday after $150,000 gift WGXA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxPZHJrMUdtNGl2em5YWTd2Mk1ibE9tc0U2TFJrbFRJR1Bfdll5aXM1dkVJaC1UWm05OTdRdHBtVjlKWEVnOEsyYVFOYjhnRTBlb2VkdndKR1d5ZmhuV1RhMDZ5Ny0xQzdSUFhVYXVkMUt1cWcxdVNQZ3pyQ001R2VvdXRhVmdlTk9xWXpYWmNuSVEyaG0tLUphczd5bDJXak84d0ViMlJzZDlrdThrMHY4QlNJaU1nYnBOeEZ4LUVlU3RjNDdqeU82dDBaczZ6TDhaYkFzOG8wQ1M0UV8xSmRLYjVMSjJnS0FzMTFPaF9ySnY0c0cwYnFVUkRsVjBLZGJNTUYxdnVXZDZ0ZngtaGtEdEhIandQbzNJdU1jby0ydG50QnpiV1N5c0lLNVB3YzR2NFdYU3lKTldkNUI0X3dnbHA4cFExTW96elVZdTllUzRNYTNZZTJwMmRXOFpFcFluNTlRMGNwRHdheTJIRjlNYVlMcnh1eW4tY29WaC1xQ3hpYlBKbWVWWjMzUDh4WDZubGc?oc=5\" target=\"_blank\">Perry's Go Fish Education Center highlights new upgrades Thursday after $150,000 gift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGXA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-12T21:59:57+00:00"
+        "collected_at": "2026-11-13T02:29:49+00:00"
       }
     },
     {
