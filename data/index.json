@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-13T11:47:25+00:00",
+  "last_updated": "2026-11-13T19:03:46+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 143,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "e88468c6b03697c0",
         "title": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme - Environment Analyst",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1046,
-      "new_mentions_this_run": 12,
+      "count": 1048,
+      "new_mentions_this_run": 15,
       "latest_mention": {
-        "id": "9cf4baa7537a86d7",
-        "title": "Scam Alert: Residents Warned About Fake Georgia Power Disconnection Calls - Discover Dade",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzF6cWNBYVBlLVY4UnRTRnd4MVVyWHAzY0IwbmZuaXcyV0RVR2xTcmhranlDMXdTdDdGUEdWelhlcjkzU01McU1zWV9GTDZkNm9hRGlFSTlldjlwbDRYN3gtT3dhbk5SRWF4Q1A3cHROTVBQZldvaEJNVXRhMnFuQ2ZBRkpVVExmekpGSVdvbEFIYnNFaG40WHpPa1VBNTQtLVpNVjNyRU5yNExR?oc=5",
+        "id": "87cbbf5a600c97f0",
+        "title": "Scammers impersonating Georgia Power to get your money - Local 3 News",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHpDRHZ5dDAxVUhSakxUVTFtek8zRkdrUENRR3k4NEg2cHdiaTBNLVROeG16WnlsYmdPXzAzWlJaSzZocGhmSVdrcWo1WFFnemxGSHRXZGVPVDI3VjJINkJTYllRWXpuNnNCbF9jVDU1d2xsSUs1STlJS0c4dFVTeldobXQ4UjJEQkExTExGdjRmalFMbGtQRGdwUWg2Yi0zbjNHTE10SVU2VHdFMktQejUwV0w2bmYxLXpOR043Sy1mdWQxMGFFcFRIS0FTcDQ5eTRR?oc=5",
         "domain": "news.google.com",
-        "source": "Discover Dade",
+        "source": "Local 3 News",
         "language": "English",
-        "published_at": "2026-11-13T03:51:45+00:00",
-        "summary": "Scam Alert: Residents Warned About Fake Georgia Power Disconnection Calls Discover Dade",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzF6cWNBYVBlLVY4UnRTRnd4MVVyWHAzY0IwbmZuaXcyV0RVR2xTcmhranlDMXdTdDdGUEdWelhlcjkzU01McU1zWV9GTDZkNm9hRGlFSTlldjlwbDRYN3gtT3dhbk5SRWF4Q1A3cHROTVBQZldvaEJNVXRhMnFuQ2ZBRkpVVExmekpGSVdvbEFIYnNFaG40WHpPa1VBNTQtLVpNVjNyRU5yNExR?oc=5\" target=\"_blank\">Scam Alert: Residents Warned About Fake Georgia Power Disconnection Calls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Discover Dade</font>",
+        "published_at": "2026-11-13T14:54:00+00:00",
+        "summary": "Scammers impersonating Georgia Power to get your money Local 3 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHpDRHZ5dDAxVUhSakxUVTFtek8zRkdrUENRR3k4NEg2cHdiaTBNLVROeG16WnlsYmdPXzAzWlJaSzZocGhmSVdrcWo1WFFnemxGSHRXZGVPVDI3VjJINkJTYllRWXpuNnNCbF9jVDU1d2xsSUs1STlJS0c4dFVTeldobXQ4UjJEQkExTExGdjRmalFMbGtQRGdwUWg2Yi0zbjNHTE10SVU2VHdFMktQejUwV0w2bmYxLXpOR043Sy1mdWQxMGFFcFRIS0FTcDQ5eTRR?oc=5\" target=\"_blank\">Scammers impersonating Georgia Power to get your money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Local 3 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-13T11:47:15+00:00"
+        "collected_at": "2026-11-13T19:03:36+00:00"
       }
     },
     {
