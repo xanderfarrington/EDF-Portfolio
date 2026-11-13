@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-13T02:29:49+00:00",
+  "last_updated": "2026-11-13T11:47:15+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1044,
+  "count": 1046,
   "mentions": [
+    {
+      "id": "9cf4baa7537a86d7",
+      "title": "Scam Alert: Residents Warned About Fake Georgia Power Disconnection Calls - Discover Dade",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzF6cWNBYVBlLVY4UnRTRnd4MVVyWHAzY0IwbmZuaXcyV0RVR2xTcmhranlDMXdTdDdGUEdWelhlcjkzU01McU1zWV9GTDZkNm9hRGlFSTlldjlwbDRYN3gtT3dhbk5SRWF4Q1A3cHROTVBQZldvaEJNVXRhMnFuQ2ZBRkpVVExmekpGSVdvbEFIYnNFaG40WHpPa1VBNTQtLVpNVjNyRU5yNExR?oc=5",
+      "domain": "news.google.com",
+      "source": "Discover Dade",
+      "language": "English",
+      "published_at": "2026-11-13T03:51:45+00:00",
+      "summary": "Scam Alert: Residents Warned About Fake Georgia Power Disconnection Calls Discover Dade",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzF6cWNBYVBlLVY4UnRTRnd4MVVyWHAzY0IwbmZuaXcyV0RVR2xTcmhranlDMXdTdDdGUEdWelhlcjkzU01McU1zWV9GTDZkNm9hRGlFSTlldjlwbDRYN3gtT3dhbk5SRWF4Q1A3cHROTVBQZldvaEJNVXRhMnFuQ2ZBRkpVVExmekpGSVdvbEFIYnNFaG40WHpPa1VBNTQtLVpNVjNyRU5yNExR?oc=5\" target=\"_blank\">Scam Alert: Residents Warned About Fake Georgia Power Disconnection Calls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Discover Dade</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-13T11:47:15+00:00"
+    },
     {
       "id": "0b1d1c5aab75323c",
       "title": "Perry's Go Fish Education Center highlights new upgrades Thursday after $150,000 gift - WGXA",
@@ -33,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-12T21:59:57+00:00"
+    },
+    {
+      "id": "077d6dbe73cae943",
+      "title": "$100k grant awarded to Tifton Urban Redevelopment Agency to help people weatherize their homes - WALB.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEV6QTExeUZhcGRtcThYYk9mZkNFSWlOZ2xHQTg1dXRsdXdNNzFrcFQ3T1FaTzlsdU95bVVxVWk5RHBvTXRqU1pGYnJUaDZJSzAwelRHVjBZRkVVRWtGLVNWcXVGR2R2d2NlWm5nc1hueXRhZ0ZHakcwVlNfVzhqTUlrdm1xQWp1SVhOd2pXRE5PZE1Kdjh6dV9VUHB6MFREZi15eXRXR0U3OUY1NlRkNzVsczVRZ0Q0cFFLatIB0AFBVV95cUxPbzlRd2VFdlRKalBKcnZOdEdzUk1MaE5mQVpBTktzcW9QNEVnWGRrRjY5RWRyQW15T1B1dVFyN2pGRVNFWW44bzdxREhmUDNLU3JjM2R3UUpwUVZJQXJJZF9YcnBiRXR2VUtMWm1uT3Rmam1QdWZjRi0wR3hISzktMkY0b2xFT0xDU0k0WFFTcTJEMXdrQXV5anlHX1FqY0FZRDF6Y215cl8xdWNpaHZJUzdzMENDcjdVMWs3cG5pbEJBUm1VV1JGcnMxR2pfcFdT?oc=5",
+      "domain": "news.google.com",
+      "source": "WALB.com",
+      "language": "English",
+      "published_at": "2026-11-12T15:44:00+00:00",
+      "summary": "$100k grant awarded to Tifton Urban Redevelopment Agency to help people weatherize their homes WALB.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEV6QTExeUZhcGRtcThYYk9mZkNFSWlOZ2xHQTg1dXRsdXdNNzFrcFQ3T1FaTzlsdU95bVVxVWk5RHBvTXRqU1pGYnJUaDZJSzAwelRHVjBZRkVVRWtGLVNWcXVGR2R2d2NlWm5nc1hueXRhZ0ZHakcwVlNfVzhqTUlrdm1xQWp1SVhOd2pXRE5PZE1Kdjh6dV9VUHB6MFREZi15eXRXR0U3OUY1NlRkNzVsczVRZ0Q0cFFLatIB0AFBVV95cUxPbzlRd2VFdlRKalBKcnZOdEdzUk1MaE5mQVpBTktzcW9QNEVnWGRrRjY5RWRyQW15T1B1dVFyN2pGRVNFWW44bzdxREhmUDNLU3JjM2R3UUpwUVZJQXJJZF9YcnBiRXR2VUtMWm1uT3Rmam1QdWZjRi0wR3hISzktMkY0b2xFT0xDU0k0WFFTcTJEMXdrQXV5anlHX1FqY0FZRDF6Y215cl8xdWNpaHZJUzdzMENDcjdVMWs3cG5pbEJBUm1VV1JGcnMxR2pfcFdT?oc=5\" target=\"_blank\">$100k grant awarded to Tifton Urban Redevelopment Agency to help people weatherize their homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WALB.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-13T11:47:15+00:00"
     },
     {
       "id": "5a1984471c2b169a",

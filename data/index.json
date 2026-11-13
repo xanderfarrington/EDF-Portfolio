@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-13T02:29:59+00:00",
+  "last_updated": "2026-11-13T11:47:25+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 143,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "e88468c6b03697c0",
         "title": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme - Environment Analyst",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 683,
+      "count": 686,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "1722437e834ca1ba",
-        "title": "VIDEO: John Rich details Fenn Church story; Questions 'timeline' defense by Alabama Power - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNamotTGRRTkFPM2pZZHdNSEJLS1pRUGsyWkhRY0cwMWFxaWdLN0NRQ2t6Skx3QzFmTUw2bWlPdTg2RXZuaTdaZmRMeUtfWmRlZVVETzl0TU1oNTBjcUZDbWVWazBtX2dTVHI5NXFzeTZOLUtfZDdzNnNIWUd5RDBEWC1DbEZQc0RSb2wyeDZHa3VqM0tmbXNjNWFvNUJiaGM3LTdqeGdGZWhjdDBtVmMya0lIM3ZhVXM?oc=5",
+        "id": "5666824000919ac5",
+        "title": "In 2025, Alabama Power offered a landowner $80,000 for an easement across his property; in 2026, he won a - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOWkpSX3hWalQ1VFlsT05uOElhbjhkbDRDNGhoY19kdjV0UGlIaWxleEtnMVBWWk9CNm5uYVdhNTAwT2FMczFteEcyUFQ4OUNsa1F3cjE4R2NqTDdIeF9nTGltZUJOT2h4czNQeDRDWWVsWXB4ODRRSVlhTG43dDNrNXJlRXJVaEdzeGVpY2RDWkhON3M3a1MyTTZFUjUtUEZLZnhncDR0WlJMRVlmdFRrVHBnc0RDVjQ5cU5HQXZZSjZTQndBckh5WnBQYmpKaWNFM3JiSWV5bUExRHU0VUdmVnpqOWhFTmdtM19XWVlEWW14RTQwa01PM2tLNnJybkxpaG5aaUdDT2lHUzAwSFFwOUVVT2NyTDZKdUhrTWFJbFhzVEh4dk11bHRiRVJXLVp1Y2pCcXRiT3JPTGY4aFNlaXFmYjN1YUNIMV9WOU56djRWSWpxNmUxMjFXc01Pb3JVSUwtcktQTC1EamZZUVpPTlV5SjQzZ9IB-wJBVV95cUxPZlMwWDVEeVZfNFVKSWlQampwS3BscmRZOTQ2aEEtMXF3UW10eU5DOUFMb0lSQ1RnZXJsZF9EQmY1UF9rdkhtcnJmbl9IZGFFb2R6eVJaZVJKQ3VxVk5BR3BZU1lFeDhGWVBIeUlZMUxqTEkta0ZrejhHVTBIa1BTeHo5bFFZbmlJY2hVOFJIbEt3c0l5Qkhua1JJemI2WTg3a1NsYjBzM3FXSGlMUjdvZFMyaDFrb2NpczV2SnpMeURLVURvczVOSWRNRzhQS1lRaTh6NnNGS25jN3dlTzNlWHo0dGRkTmNRc3J5QjlMaWNFWnRTS0tQNUdtTExlS1h0b3BlZkhIOXppTTJEUjNGT1VrbzN3NnlpYzg1aUtzNmhvY1prNTdHanp0TnJIODI5OXZuVGlKSDRadGt0R2FkVmExMk92WUhxN2djWGRtTGxVRDh5Ui1kOFZLS3NUd3I4aEc3a2dXOVVTTm1iSlphVGI0N1NFVl9pVlpB?oc=5",
         "domain": "news.google.com",
-        "source": "1819 News",
+        "source": "The Times of India",
         "language": "English",
-        "published_at": "2026-11-12T20:03:30+00:00",
-        "summary": "VIDEO: John Rich details Fenn Church story; Questions 'timeline' defense by Alabama Power 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNamotTGRRTkFPM2pZZHdNSEJLS1pRUGsyWkhRY0cwMWFxaWdLN0NRQ2t6Skx3QzFmTUw2bWlPdTg2RXZuaTdaZmRMeUtfWmRlZVVETzl0TU1oNTBjcUZDbWVWazBtX2dTVHI5NXFzeTZOLUtfZDdzNnNIWUd5RDBEWC1DbEZQc0RSb2wyeDZHa3VqM0tmbXNjNWFvNUJiaGM3LTdqeGdGZWhjdDBtVmMya0lIM3ZhVXM?oc=5\" target=\"_blank\">VIDEO: John Rich details Fenn Church story; Questions 'timeline' defense by Alabama Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-11-13T06:41:00+00:00",
+        "summary": "In 2025, Alabama Power offered a landowner $80,000 for an easement across his property; in 2026, he won a The Times of India",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gJBVV95cUxOWkpSX3hWalQ1VFlsT05uOElhbjhkbDRDNGhoY19kdjV0UGlIaWxleEtnMVBWWk9CNm5uYVdhNTAwT2FMczFteEcyUFQ4OUNsa1F3cjE4R2NqTDdIeF9nTGltZUJOT2h4czNQeDRDWWVsWXB4ODRRSVlhTG43dDNrNXJlRXJVaEdzeGVpY2RDWkhON3M3a1MyTTZFUjUtUEZLZnhncDR0WlJMRVlmdFRrVHBnc0RDVjQ5cU5HQXZZSjZTQndBckh5WnBQYmpKaWNFM3JiSWV5bUExRHU0VUdmVnpqOWhFTmdtM19XWVlEWW14RTQwa01PM2tLNnJybkxpaG5aaUdDT2lHUzAwSFFwOUVVT2NyTDZKdUhrTWFJbFhzVEh4dk11bHRiRVJXLVp1Y2pCcXRiT3JPTGY4aFNlaXFmYjN1YUNIMV9WOU56djRWSWpxNmUxMjFXc01Pb3JVSUwtcktQTC1EamZZUVpPTlV5SjQzZ9IB-wJBVV95cUxPZlMwWDVEeVZfNFVKSWlQampwS3BscmRZOTQ2aEEtMXF3UW10eU5DOUFMb0lSQ1RnZXJsZF9EQmY1UF9rdkhtcnJmbl9IZGFFb2R6eVJaZVJKQ3VxVk5BR3BZU1lFeDhGWVBIeUlZMUxqTEkta0ZrejhHVTBIa1BTeHo5bFFZbmlJY2hVOFJIbEt3c0l5Qkhua1JJemI2WTg3a1NsYjBzM3FXSGlMUjdvZFMyaDFrb2NpczV2SnpMeURLVURvczVOSWRNRzhQS1lRaTh6NnNGS25jN3dlTzNlWHo0dGRkTmNRc3J5QjlMaWNFWnRTS0tQNUdtTExlS1h0b3BlZkhIOXppTTJEUjNGT1VrbzN3NnlpYzg1aUtzNmhvY1prNTdHanp0TnJIODI5OXZuVGlKSDRadGt0R2FkVmExMk92WUhxN2djWGRtTGxVRDh5Ui1kOFZLS3NUd3I4aEc3a2dXOVVTTm1iSlphVGI0N1NFVl9pVlpB?oc=5\" target=\"_blank\">In 2025, Alabama Power offered a landowner $80,000 for an easement across his property; in 2026, he won a</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-12T21:59:40+00:00"
+        "collected_at": "2026-11-13T11:46:59+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1044,
-      "new_mentions_this_run": 15,
+      "count": 1046,
+      "new_mentions_this_run": 12,
       "latest_mention": {
-        "id": "0b1d1c5aab75323c",
-        "title": "Perry's Go Fish Education Center highlights new upgrades Thursday after $150,000 gift - WGXA",
-        "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPZHJrMUdtNGl2em5YWTd2Mk1ibE9tc0U2TFJrbFRJR1Bfdll5aXM1dkVJaC1UWm05OTdRdHBtVjlKWEVnOEsyYVFOYjhnRTBlb2VkdndKR1d5ZmhuV1RhMDZ5Ny0xQzdSUFhVYXVkMUt1cWcxdVNQZ3pyQ001R2VvdXRhVmdlTk9xWXpYWmNuSVEyaG0tLUphczd5bDJXak84d0ViMlJzZDlrdThrMHY4QlNJaU1nYnBOeEZ4LUVlU3RjNDdqeU82dDBaczZ6TDhaYkFzOG8wQ1M0UV8xSmRLYjVMSjJnS0FzMTFPaF9ySnY0c0cwYnFVUkRsVjBLZGJNTUYxdnVXZDZ0ZngtaGtEdEhIandQbzNJdU1jby0ydG50QnpiV1N5c0lLNVB3YzR2NFdYU3lKTldkNUI0X3dnbHA4cFExTW96elVZdTllUzRNYTNZZTJwMmRXOFpFcFluNTlRMGNwRHdheTJIRjlNYVlMcnh1eW4tY29WaC1xQ3hpYlBKbWVWWjMzUDh4WDZubGc?oc=5",
+        "id": "9cf4baa7537a86d7",
+        "title": "Scam Alert: Residents Warned About Fake Georgia Power Disconnection Calls - Discover Dade",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzF6cWNBYVBlLVY4UnRTRnd4MVVyWHAzY0IwbmZuaXcyV0RVR2xTcmhranlDMXdTdDdGUEdWelhlcjkzU01McU1zWV9GTDZkNm9hRGlFSTlldjlwbDRYN3gtT3dhbk5SRWF4Q1A3cHROTVBQZldvaEJNVXRhMnFuQ2ZBRkpVVExmekpGSVdvbEFIYnNFaG40WHpPa1VBNTQtLVpNVjNyRU5yNExR?oc=5",
         "domain": "news.google.com",
-        "source": "WGXA",
+        "source": "Discover Dade",
         "language": "English",
-        "published_at": "2026-11-12T22:37:40+00:00",
-        "summary": "Perry's Go Fish Education Center highlights new upgrades Thursday after $150,000 gift WGXA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxPZHJrMUdtNGl2em5YWTd2Mk1ibE9tc0U2TFJrbFRJR1Bfdll5aXM1dkVJaC1UWm05OTdRdHBtVjlKWEVnOEsyYVFOYjhnRTBlb2VkdndKR1d5ZmhuV1RhMDZ5Ny0xQzdSUFhVYXVkMUt1cWcxdVNQZ3pyQ001R2VvdXRhVmdlTk9xWXpYWmNuSVEyaG0tLUphczd5bDJXak84d0ViMlJzZDlrdThrMHY4QlNJaU1nYnBOeEZ4LUVlU3RjNDdqeU82dDBaczZ6TDhaYkFzOG8wQ1M0UV8xSmRLYjVMSjJnS0FzMTFPaF9ySnY0c0cwYnFVUkRsVjBLZGJNTUYxdnVXZDZ0ZngtaGtEdEhIandQbzNJdU1jby0ydG50QnpiV1N5c0lLNVB3YzR2NFdYU3lKTldkNUI0X3dnbHA4cFExTW96elVZdTllUzRNYTNZZTJwMmRXOFpFcFluNTlRMGNwRHdheTJIRjlNYVlMcnh1eW4tY29WaC1xQ3hpYlBKbWVWWjMzUDh4WDZubGc?oc=5\" target=\"_blank\">Perry's Go Fish Education Center highlights new upgrades Thursday after $150,000 gift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGXA</font>",
+        "published_at": "2026-11-13T03:51:45+00:00",
+        "summary": "Scam Alert: Residents Warned About Fake Georgia Power Disconnection Calls Discover Dade",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzF6cWNBYVBlLVY4UnRTRnd4MVVyWHAzY0IwbmZuaXcyV0RVR2xTcmhranlDMXdTdDdGUEdWelhlcjkzU01McU1zWV9GTDZkNm9hRGlFSTlldjlwbDRYN3gtT3dhbk5SRWF4Q1A3cHROTVBQZldvaEJNVXRhMnFuQ2ZBRkpVVExmekpGSVdvbEFIYnNFaG40WHpPa1VBNTQtLVpNVjNyRU5yNExR?oc=5\" target=\"_blank\">Scam Alert: Residents Warned About Fake Georgia Power Disconnection Calls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Discover Dade</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-13T02:29:49+00:00"
+        "collected_at": "2026-11-13T11:47:15+00:00"
       }
     },
     {
