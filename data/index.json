@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-13T19:03:46+00:00",
+  "last_updated": "2026-11-14T00:36:05+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 143,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e88468c6b03697c0",
         "title": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme - Environment Analyst",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1048,
-      "new_mentions_this_run": 15,
+      "count": 1050,
+      "new_mentions_this_run": 14,
       "latest_mention": {
         "id": "87cbbf5a600c97f0",
         "title": "Scammers impersonating Georgia Power to get your money - Local 3 News",

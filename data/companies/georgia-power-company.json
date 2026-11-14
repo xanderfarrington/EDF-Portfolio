@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-13T19:03:36+00:00",
+  "last_updated": "2026-11-14T00:35:55+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1048,
+  "count": 1050,
   "mentions": [
     {
       "id": "87cbbf5a600c97f0",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-13T19:03:36+00:00"
+    },
+    {
+      "id": "36ba9c86487ff608",
+      "title": "Scammers impersonating Georgia Power to get your money - Local 3 News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaEllZENFUHo3OER4YUZyVklZSGJrN2hfeTk3U1JvSFFWYmgwMEJTNUZxajhORnUxSWNUdFRqZ1B6RzZPalZIMmRjZWQ3a2RMRjEyTVpkVzdDeG9IU09ZaUVBdFZoS2VBd0E0MFVNZGEydHlobm1IMkFYMUlJU3RhLTVrWWtRTERyd25kSndIMkh3dW1kandjbW5UM0xGUlVnODdsTFlBVDlJRUhwTjlDdlZoTWlySHY0MGJ3UklOcGRsN1ZoOTFGNHNjOG9wOUJTbEotOXR6QjRpZw?oc=5",
+      "domain": "news.google.com",
+      "source": "Local 3 News",
+      "language": "English",
+      "published_at": "2026-11-13T14:54:00+00:00",
+      "summary": "Scammers impersonating Georgia Power to get your money Local 3 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaEllZENFUHo3OER4YUZyVklZSGJrN2hfeTk3U1JvSFFWYmgwMEJTNUZxajhORnUxSWNUdFRqZ1B6RzZPalZIMmRjZWQ3a2RMRjEyTVpkVzdDeG9IU09ZaUVBdFZoS2VBd0E0MFVNZGEydHlobm1IMkFYMUlJU3RhLTVrWWtRTERyd25kSndIMkh3dW1kandjbW5UM0xGUlVnODdsTFlBVDlJRUhwTjlDdlZoTWlySHY0MGJ3UklOcGRsN1ZoOTFGNHNjOG9wOUJTbEotOXR6QjRpZw?oc=5\" target=\"_blank\">Scammers impersonating Georgia Power to get your money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Local 3 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-14T00:35:55+00:00"
     },
     {
       "id": "1dd85e11346da1e8",
@@ -145,6 +159,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-12T05:31:34+00:00"
+    },
+    {
+      "id": "9eb52948db04b7cd",
+      "title": "Georgia Power shares ways to lower winter heating costs - WCTV",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWU9GOG9RUktvYkpuRDAyR2t1TEMzNWN6dFdlVnFxWGVpRXA1elBTLVd6cG1YMy1Gb1IzUFV3SE1ZdXN3bXJFTDRSaGQ2VncyaEx4UkNTQWtQS1RITmUzT0Z0c0JHRGpvb1JuRGNoODFodjZ5OExfanVGYmNTd3FNV24wMkRmXzUtVVgwTtIBoAFBVV95cUxQVTBCRlUtazg3UENyUk8wY2xHZkEwWkZzSWRyeW9YcWlPM2U2S0txUTBxSW5CcTZEcHBiTGFGM2hGYjdGYy1oQS00T3I4bXFLdmVucXlxNC1TSU95dTN1Q0phczd0TWRwY19SU1h6YXZuT1J1bWhnZVNkQkQzWEtyd2REcW41OXFINm1LQmVkeUp6X0FUNkFKV1hiLVFhLWlu?oc=5",
+      "domain": "news.google.com",
+      "source": "WCTV",
+      "language": "English",
+      "published_at": "2026-11-12T04:11:00+00:00",
+      "summary": "Georgia Power shares ways to lower winter heating costs WCTV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPWU9GOG9RUktvYkpuRDAyR2t1TEMzNWN6dFdlVnFxWGVpRXA1elBTLVd6cG1YMy1Gb1IzUFV3SE1ZdXN3bXJFTDRSaGQ2VncyaEx4UkNTQWtQS1RITmUzT0Z0c0JHRGpvb1JuRGNoODFodjZ5OExfanVGYmNTd3FNV24wMkRmXzUtVVgwTtIBoAFBVV95cUxQVTBCRlUtazg3UENyUk8wY2xHZkEwWkZzSWRyeW9YcWlPM2U2S0txUTBxSW5CcTZEcHBiTGFGM2hGYjdGYy1oQS00T3I4bXFLdmVucXlxNC1TSU95dTN1Q0phczd0TWRwY19SU1h6YXZuT1J1bWhnZVNkQkQzWEtyd2REcW41OXFINm1LQmVkeUp6X0FUNkFKV1hiLVFhLWlu?oc=5\" target=\"_blank\">Georgia Power shares ways to lower winter heating costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCTV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-14T00:35:55+00:00"
     },
     {
       "id": "7e541213bf4c37ef",
