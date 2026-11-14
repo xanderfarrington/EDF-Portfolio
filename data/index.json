@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-14T08:26:48+00:00",
+  "last_updated": "2026-11-14T16:18:14+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 144,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "e88468c6b03697c0",
         "title": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme - Environment Analyst",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 687,
+      "count": 688,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "5666824000919ac5",
-        "title": "In 2025, Alabama Power offered a landowner $80,000 for an easement across his property; in 2026, he won a - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOWkpSX3hWalQ1VFlsT05uOElhbjhkbDRDNGhoY19kdjV0UGlIaWxleEtnMVBWWk9CNm5uYVdhNTAwT2FMczFteEcyUFQ4OUNsa1F3cjE4R2NqTDdIeF9nTGltZUJOT2h4czNQeDRDWWVsWXB4ODRRSVlhTG43dDNrNXJlRXJVaEdzeGVpY2RDWkhON3M3a1MyTTZFUjUtUEZLZnhncDR0WlJMRVlmdFRrVHBnc0RDVjQ5cU5HQXZZSjZTQndBckh5WnBQYmpKaWNFM3JiSWV5bUExRHU0VUdmVnpqOWhFTmdtM19XWVlEWW14RTQwa01PM2tLNnJybkxpaG5aaUdDT2lHUzAwSFFwOUVVT2NyTDZKdUhrTWFJbFhzVEh4dk11bHRiRVJXLVp1Y2pCcXRiT3JPTGY4aFNlaXFmYjN1YUNIMV9WOU56djRWSWpxNmUxMjFXc01Pb3JVSUwtcktQTC1EamZZUVpPTlV5SjQzZ9IB-wJBVV95cUxPZlMwWDVEeVZfNFVKSWlQampwS3BscmRZOTQ2aEEtMXF3UW10eU5DOUFMb0lSQ1RnZXJsZF9EQmY1UF9rdkhtcnJmbl9IZGFFb2R6eVJaZVJKQ3VxVk5BR3BZU1lFeDhGWVBIeUlZMUxqTEkta0ZrejhHVTBIa1BTeHo5bFFZbmlJY2hVOFJIbEt3c0l5Qkhua1JJemI2WTg3a1NsYjBzM3FXSGlMUjdvZFMyaDFrb2NpczV2SnpMeURLVURvczVOSWRNRzhQS1lRaTh6NnNGS25jN3dlTzNlWHo0dGRkTmNRc3J5QjlMaWNFWnRTS0tQNUdtTExlS1h0b3BlZkhIOXppTTJEUjNGT1VrbzN3NnlpYzg1aUtzNmhvY1prNTdHanp0TnJIODI5OXZuVGlKSDRadGt0R2FkVmExMk92WUhxN2djWGRtTGxVRDh5Ui1kOFZLS3NUd3I4aEc3a2dXOVVTTm1iSlphVGI0N1NFVl9pVlpB?oc=5",
+        "id": "e6642907b798c88c",
+        "title": "Alabama Power Began Clearing Fenn Church's Land While His Challenge to the Taking Is Still Pending - The South Shore Press",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUJld05PNExOSjFOMjFYLTlkSFYzTUFuQm9rV2pqcGhXdFR0NnZVX2N0dmJiZWxoOTUyM1FfaEJaRVdWOVBSajF5TVFHZk1iT3V2Rk90MENWU2lTam5XMmhBXzlMTnNxd19KNm1CQ1pWckh1dHRweHoyQWJFQWxyUkFTUkZNNzRtYjdBdVotc2NyM01xZ2Z4b1B4clVTdnc0WXpodFlLQXJIMGRZRjRZYUdRY1RINW5WUXAxZWRsc1U2M0k?oc=5",
         "domain": "news.google.com",
-        "source": "The Times of India",
+        "source": "The South Shore Press",
         "language": "English",
-        "published_at": "2026-11-13T06:41:00+00:00",
-        "summary": "In 2025, Alabama Power offered a landowner $80,000 for an easement across his property; in 2026, he won a The Times of India",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gJBVV95cUxOWkpSX3hWalQ1VFlsT05uOElhbjhkbDRDNGhoY19kdjV0UGlIaWxleEtnMVBWWk9CNm5uYVdhNTAwT2FMczFteEcyUFQ4OUNsa1F3cjE4R2NqTDdIeF9nTGltZUJOT2h4czNQeDRDWWVsWXB4ODRRSVlhTG43dDNrNXJlRXJVaEdzeGVpY2RDWkhON3M3a1MyTTZFUjUtUEZLZnhncDR0WlJMRVlmdFRrVHBnc0RDVjQ5cU5HQXZZSjZTQndBckh5WnBQYmpKaWNFM3JiSWV5bUExRHU0VUdmVnpqOWhFTmdtM19XWVlEWW14RTQwa01PM2tLNnJybkxpaG5aaUdDT2lHUzAwSFFwOUVVT2NyTDZKdUhrTWFJbFhzVEh4dk11bHRiRVJXLVp1Y2pCcXRiT3JPTGY4aFNlaXFmYjN1YUNIMV9WOU56djRWSWpxNmUxMjFXc01Pb3JVSUwtcktQTC1EamZZUVpPTlV5SjQzZ9IB-wJBVV95cUxPZlMwWDVEeVZfNFVKSWlQampwS3BscmRZOTQ2aEEtMXF3UW10eU5DOUFMb0lSQ1RnZXJsZF9EQmY1UF9rdkhtcnJmbl9IZGFFb2R6eVJaZVJKQ3VxVk5BR3BZU1lFeDhGWVBIeUlZMUxqTEkta0ZrejhHVTBIa1BTeHo5bFFZbmlJY2hVOFJIbEt3c0l5Qkhua1JJemI2WTg3a1NsYjBzM3FXSGlMUjdvZFMyaDFrb2NpczV2SnpMeURLVURvczVOSWRNRzhQS1lRaTh6NnNGS25jN3dlTzNlWHo0dGRkTmNRc3J5QjlMaWNFWnRTS0tQNUdtTExlS1h0b3BlZkhIOXppTTJEUjNGT1VrbzN3NnlpYzg1aUtzNmhvY1prNTdHanp0TnJIODI5OXZuVGlKSDRadGt0R2FkVmExMk92WUhxN2djWGRtTGxVRDh5Ui1kOFZLS3NUd3I4aEc3a2dXOVVTTm1iSlphVGI0N1NFVl9pVlpB?oc=5\" target=\"_blank\">In 2025, Alabama Power offered a landowner $80,000 for an easement across his property; in 2026, he won a</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "published_at": "2026-11-14T14:43:52+00:00",
+        "summary": "Alabama Power Began Clearing Fenn Church's Land While His Challenge to the Taking Is Still Pending The South Shore Press",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUJld05PNExOSjFOMjFYLTlkSFYzTUFuQm9rV2pqcGhXdFR0NnZVX2N0dmJiZWxoOTUyM1FfaEJaRVdWOVBSajF5TVFHZk1iT3V2Rk90MENWU2lTam5XMmhBXzlMTnNxd19KNm1CQ1pWckh1dHRweHoyQWJFQWxyUkFTUkZNNzRtYjdBdVotc2NyM01xZ2Z4b1B4clVTdnc0WXpodFlLQXJIMGRZRjRZYUdRY1RINW5WUXAxZWRsc1U2M0k?oc=5\" target=\"_blank\">Alabama Power Began Clearing Fenn Church's Land While His Challenge to the Taking Is Still Pending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The South Shore Press</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-13T11:46:59+00:00"
+        "collected_at": "2026-11-14T16:17:48+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1050,
-      "new_mentions_this_run": 16,
+      "count": 1052,
+      "new_mentions_this_run": 15,
       "latest_mention": {
-        "id": "87cbbf5a600c97f0",
-        "title": "Scammers impersonating Georgia Power to get your money - Local 3 News",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHpDRHZ5dDAxVUhSakxUVTFtek8zRkdrUENRR3k4NEg2cHdiaTBNLVROeG16WnlsYmdPXzAzWlJaSzZocGhmSVdrcWo1WFFnemxGSHRXZGVPVDI3VjJINkJTYllRWXpuNnNCbF9jVDU1d2xsSUs1STlJS0c4dFVTeldobXQ4UjJEQkExTExGdjRmalFMbGtQRGdwUWg2Yi0zbjNHTE10SVU2VHdFMktQejUwV0w2bmYxLXpOR043Sy1mdWQxMGFFcFRIS0FTcDQ5eTRR?oc=5",
+        "id": "4e76adef540a1ea1",
+        "title": "An Obscure Utility Calculation Is Putting a Thumb on the Scale for Gas in Georgia - Inside Climate News",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbkVQeFl4UFYzQWRyUi1QWUhCc2FaeHd4NkxQdzV0Q3psQ3hOUG04bk9UZW54Qnk1bUNIdlljVkxpMWdKeHVuemVBc1hmVmdCYXROWDJIdFA1TG9vLU9WeEpWTVd4WUtPSV9xb0ZzTGxaazRTdnhSclZHWFBJNi0xc3Vibw?oc=5",
         "domain": "news.google.com",
-        "source": "Local 3 News",
+        "source": "Inside Climate News",
         "language": "English",
-        "published_at": "2026-11-13T14:54:00+00:00",
-        "summary": "Scammers impersonating Georgia Power to get your money Local 3 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHpDRHZ5dDAxVUhSakxUVTFtek8zRkdrUENRR3k4NEg2cHdiaTBNLVROeG16WnlsYmdPXzAzWlJaSzZocGhmSVdrcWo1WFFnemxGSHRXZGVPVDI3VjJINkJTYllRWXpuNnNCbF9jVDU1d2xsSUs1STlJS0c4dFVTeldobXQ4UjJEQkExTExGdjRmalFMbGtQRGdwUWg2Yi0zbjNHTE10SVU2VHdFMktQejUwV0w2bmYxLXpOR043Sy1mdWQxMGFFcFRIS0FTcDQ5eTRR?oc=5\" target=\"_blank\">Scammers impersonating Georgia Power to get your money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Local 3 News</font>",
+        "published_at": "2026-11-14T09:55:00+00:00",
+        "summary": "An Obscure Utility Calculation Is Putting a Thumb on the Scale for Gas in Georgia Inside Climate News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNbkVQeFl4UFYzQWRyUi1QWUhCc2FaeHd4NkxQdzV0Q3psQ3hOUG04bk9UZW54Qnk1bUNIdlljVkxpMWdKeHVuemVBc1hmVmdCYXROWDJIdFA1TG9vLU9WeEpWTVd4WUtPSV9xb0ZzTGxaazRTdnhSclZHWFBJNi0xc3Vibw?oc=5\" target=\"_blank\">An Obscure Utility Calculation Is Putting a Thumb on the Scale for Gas in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-13T19:03:36+00:00"
+        "collected_at": "2026-11-14T16:18:04+00:00"
       }
     },
     {

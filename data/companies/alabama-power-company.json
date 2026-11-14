@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-14T08:26:21+00:00",
+  "last_updated": "2026-11-14T16:17:48+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 687,
+  "count": 688,
   "mentions": [
+    {
+      "id": "e6642907b798c88c",
+      "title": "Alabama Power Began Clearing Fenn Church's Land While His Challenge to the Taking Is Still Pending - The South Shore Press",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUJld05PNExOSjFOMjFYLTlkSFYzTUFuQm9rV2pqcGhXdFR0NnZVX2N0dmJiZWxoOTUyM1FfaEJaRVdWOVBSajF5TVFHZk1iT3V2Rk90MENWU2lTam5XMmhBXzlMTnNxd19KNm1CQ1pWckh1dHRweHoyQWJFQWxyUkFTUkZNNzRtYjdBdVotc2NyM01xZ2Z4b1B4clVTdnc0WXpodFlLQXJIMGRZRjRZYUdRY1RINW5WUXAxZWRsc1U2M0k?oc=5",
+      "domain": "news.google.com",
+      "source": "The South Shore Press",
+      "language": "English",
+      "published_at": "2026-11-14T14:43:52+00:00",
+      "summary": "Alabama Power Began Clearing Fenn Church's Land While His Challenge to the Taking Is Still Pending The South Shore Press",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUJld05PNExOSjFOMjFYLTlkSFYzTUFuQm9rV2pqcGhXdFR0NnZVX2N0dmJiZWxoOTUyM1FfaEJaRVdWOVBSajF5TVFHZk1iT3V2Rk90MENWU2lTam5XMmhBXzlMTnNxd19KNm1CQ1pWckh1dHRweHoyQWJFQWxyUkFTUkZNNzRtYjdBdVotc2NyM01xZ2Z4b1B4clVTdnc0WXpodFlLQXJIMGRZRjRZYUdRY1RINW5WUXAxZWRsc1U2M0k?oc=5\" target=\"_blank\">Alabama Power Began Clearing Fenn Church's Land While His Challenge to the Taking Is Still Pending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The South Shore Press</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-14T16:17:48+00:00"
+    },
     {
       "id": "5666824000919ac5",
       "title": "In 2025, Alabama Power offered a landowner $80,000 for an easement across his property; in 2026, he won a - The Times of India",
