@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-14T16:18:14+00:00",
+  "last_updated": "2026-11-14T21:53:32+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 144,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "e88468c6b03697c0",
         "title": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme - Environment Analyst",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 688,
+      "count": 689,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "e6642907b798c88c",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1052,
-      "new_mentions_this_run": 15,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "4e76adef540a1ea1",
         "title": "An Obscure Utility Calculation Is Putting a Thumb on the Scale for Gas in Georgia - Inside Climate News",

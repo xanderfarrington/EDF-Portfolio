@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-14T16:17:48+00:00",
+  "last_updated": "2026-11-14T21:53:05+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 688,
+  "count": 689,
   "mentions": [
     {
       "id": "e6642907b798c88c",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-14T16:17:48+00:00"
+    },
+    {
+      "id": "5baa91f0865aaf18",
+      "title": "Alabama Power Began Clearing Fenn Church's Land While His Challenge to the Taking Is Still Pending - The South Shore Press",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeHNmY0VxUjMtVloydFVEUTQxNjUxVFhwajE1VlFlS3NrLVlvNXRKcjFvUl81QUsySnRMODh4a3VGQzRlb1VDS0g3LVE2eWRiRm9oQWZHSUNibHZyaVN3dzBSSmhHMnhFa2huYzNySkVkTURnOWpaWVQyQW1FaVgzU19ockRKX1RYY0xPWEhMX1lHN1VVSDlZU09WUVZRMFowVGxscDhMSlhMNGUwb3Bqb1hWZVdFb3RlT09QNldrREdjcUFQYlFwNg?oc=5",
+      "domain": "news.google.com",
+      "source": "The South Shore Press",
+      "language": "English",
+      "published_at": "2026-11-14T14:43:52+00:00",
+      "summary": "Alabama Power Began Clearing Fenn Church's Land While His Challenge to the Taking Is Still Pending The South Shore Press",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeHNmY0VxUjMtVloydFVEUTQxNjUxVFhwajE1VlFlS3NrLVlvNXRKcjFvUl81QUsySnRMODh4a3VGQzRlb1VDS0g3LVE2eWRiRm9oQWZHSUNibHZyaVN3dzBSSmhHMnhFa2huYzNySkVkTURnOWpaWVQyQW1FaVgzU19ockRKX1RYY0xPWEhMX1lHN1VVSDlZU09WUVZRMFowVGxscDhMSlhMNGUwb3Bqb1hWZVdFb3RlT09QNldrREdjcUFQYlFwNg?oc=5\" target=\"_blank\">Alabama Power Began Clearing Fenn Church's Land While His Challenge to the Taking Is Still Pending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The South Shore Press</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-14T21:53:05+00:00"
     },
     {
       "id": "5666824000919ac5",
