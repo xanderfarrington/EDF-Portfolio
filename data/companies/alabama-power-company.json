@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-14T00:35:38+00:00",
+  "last_updated": "2026-11-14T08:26:21+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 686,
+  "count": 687,
   "mentions": [
     {
       "id": "5666824000919ac5",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-13T11:46:59+00:00"
+    },
+    {
+      "id": "0bc5382eaae0a76f",
+      "title": "TIMELINE: Alabama Power and Shelby County landowner clash over property rights - wvtm",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWNGejR1ZE04aElncGtrdHh4SElZX1NwR0x5MWhac3o4M1lFc3ZIM0pGNmlDQTczNFNHOTNDbkpVTlJJRW5RWVF2TjBPLXpNcTNjNkxFZGtqMnBBT3AzWnJ5cE5EX3VTWWFuVkxGdmxIVUFWNFlaNm1vMzVITlpMUHRaclZtSHJzUXN3SUMyMFhEUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm",
+      "language": "English",
+      "published_at": "2026-11-13T03:34:00+00:00",
+      "summary": "TIMELINE: Alabama Power and Shelby County landowner clash over property rights wvtm",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWNGejR1ZE04aElncGtrdHh4SElZX1NwR0x5MWhac3o4M1lFc3ZIM0pGNmlDQTczNFNHOTNDbkpVTlJJRW5RWVF2TjBPLXpNcTNjNkxFZGtqMnBBT3AzWnJ5cE5EX3VTWWFuVkxGdmxIVUFWNFlaNm1vMzVITlpMUHRaclZtSHJzUXN3SUMyMFhEUQ?oc=5\" target=\"_blank\">TIMELINE: Alabama Power and Shelby County landowner clash over property rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-14T08:26:21+00:00"
     },
     {
       "id": "1722437e834ca1ba",
