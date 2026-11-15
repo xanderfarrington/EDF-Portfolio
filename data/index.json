@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T01:28:57+00:00",
+  "last_updated": "2026-11-15T08:43:13+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1052,
-      "new_mentions_this_run": 10,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "4e76adef540a1ea1",
         "title": "An Obscure Utility Calculation Is Putting a Thumb on the Scale for Gas in Georgia - Inside Climate News",
