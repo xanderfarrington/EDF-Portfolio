@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-15T16:45:00+00:00",
+  "last_updated": "2026-11-15T22:23:19+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 144,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e88468c6b03697c0",
         "title": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme - Environment Analyst",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1053,
-      "new_mentions_this_run": 12,
+      "new_mentions_this_run": 10,
       "latest_mention": {
         "id": "b8cc5ced96125eb8",
         "title": "Georgia Power CEO talks data centers - Marietta Daily Journal",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 73,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "e225f9b4f4f5b0a0",
         "title": "Alliant Energy to receive $5.1B in federal loans for natural gas, energy storage projects - WPR",
