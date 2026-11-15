@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T08:43:13+00:00",
+  "last_updated": "2026-11-15T16:45:00+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 689,
+      "count": 690,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "e6642907b798c88c",
-        "title": "Alabama Power Began Clearing Fenn Church's Land While His Challenge to the Taking Is Still Pending - The South Shore Press",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUJld05PNExOSjFOMjFYLTlkSFYzTUFuQm9rV2pqcGhXdFR0NnZVX2N0dmJiZWxoOTUyM1FfaEJaRVdWOVBSajF5TVFHZk1iT3V2Rk90MENWU2lTam5XMmhBXzlMTnNxd19KNm1CQ1pWckh1dHRweHoyQWJFQWxyUkFTUkZNNzRtYjdBdVotc2NyM01xZ2Z4b1B4clVTdnc0WXpodFlLQXJIMGRZRjRZYUdRY1RINW5WUXAxZWRsc1U2M0k?oc=5",
+        "id": "b7af33c360bf93de",
+        "title": "\"If it can happen to me, it can happen to anybody\" - Fenn Church holds his ground against Alabama Power through the weekend - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQk5kcFFZUXExTUdCZ2ppME05VjBRbEFaSHZhWG1lbWhUSE44TzFLMDk2UlBXSUVoaXNMNHFvejRCX292TU9USU4taTYxazQxVXBuYUNDMmV3Vmd0aXhlT2JGOEdWQlktYlhYbW45dTZOTE1NNS11SWdHdDY5UGI1X252RkJFX1licTl5bENtdXAyMHo5ck9iLTVpS0Y3VFBTOElDcDJoWTJsUGdMTHQzU2IzajhmQmZEMWZSZldSUlk1OVRReTkyTk90Y2lDQlROTElVZkQtVlNDS1FneWZ3MkJKbng3NDMzLXZydGkzUQ?oc=5",
         "domain": "news.google.com",
-        "source": "The South Shore Press",
+        "source": "wvtm",
         "language": "English",
-        "published_at": "2026-11-14T14:43:52+00:00",
-        "summary": "Alabama Power Began Clearing Fenn Church's Land While His Challenge to the Taking Is Still Pending The South Shore Press",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUJld05PNExOSjFOMjFYLTlkSFYzTUFuQm9rV2pqcGhXdFR0NnZVX2N0dmJiZWxoOTUyM1FfaEJaRVdWOVBSajF5TVFHZk1iT3V2Rk90MENWU2lTam5XMmhBXzlMTnNxd19KNm1CQ1pWckh1dHRweHoyQWJFQWxyUkFTUkZNNzRtYjdBdVotc2NyM01xZ2Z4b1B4clVTdnc0WXpodFlLQXJIMGRZRjRZYUdRY1RINW5WUXAxZWRsc1U2M0k?oc=5\" target=\"_blank\">Alabama Power Began Clearing Fenn Church's Land While His Challenge to the Taking Is Still Pending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The South Shore Press</font>",
+        "published_at": "2026-11-15T12:51:00+00:00",
+        "summary": "\"If it can happen to me, it can happen to anybody\" - Fenn Church holds his ground against Alabama Power through the weekend wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQk5kcFFZUXExTUdCZ2ppME05VjBRbEFaSHZhWG1lbWhUSE44TzFLMDk2UlBXSUVoaXNMNHFvejRCX292TU9USU4taTYxazQxVXBuYUNDMmV3Vmd0aXhlT2JGOEdWQlktYlhYbW45dTZOTE1NNS11SWdHdDY5UGI1X252RkJFX1licTl5bENtdXAyMHo5ck9iLTVpS0Y3VFBTOElDcDJoWTJsUGdMTHQzU2IzajhmQmZEMWZSZldSUlk1OVRReTkyTk90Y2lDQlROTElVZkQtVlNDS1FneWZ3MkJKbng3NDMzLXZydGkzUQ?oc=5\" target=\"_blank\">\"If it can happen to me, it can happen to anybody\" - Fenn Church holds his ground against Alabama Power through the weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-14T16:17:48+00:00"
+        "collected_at": "2026-11-15T16:44:34+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1052,
-      "new_mentions_this_run": 7,
+      "count": 1053,
+      "new_mentions_this_run": 12,
       "latest_mention": {
-        "id": "4e76adef540a1ea1",
-        "title": "An Obscure Utility Calculation Is Putting a Thumb on the Scale for Gas in Georgia - Inside Climate News",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbkVQeFl4UFYzQWRyUi1QWUhCc2FaeHd4NkxQdzV0Q3psQ3hOUG04bk9UZW54Qnk1bUNIdlljVkxpMWdKeHVuemVBc1hmVmdCYXROWDJIdFA1TG9vLU9WeEpWTVd4WUtPSV9xb0ZzTGxaazRTdnhSclZHWFBJNi0xc3Vibw?oc=5",
+        "id": "b8cc5ced96125eb8",
+        "title": "Georgia Power CEO talks data centers - Marietta Daily Journal",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWUxjWGMzOUVBQlFnQndVOUhIMFZaeDRiRHhzREdUYlFwYmRvWVFNWFkxc3FvbENLSEtnMUF6azhYbDFHeGN0SkVJcmNGQW02SnRFUWtDR0tUd0NjS1diTG5KbWN3S29ha1hkbUk5azY4enVmYm1RN2FhTUtlUFZEcDljTElNdGF2X1ppQzVUR3VONWk0WEgxRXF0cV8wTFR1UTZzLWQ0VzYweTNCcUhfMnVPUzlIZzFZOEJiaFNHbTc?oc=5",
         "domain": "news.google.com",
-        "source": "Inside Climate News",
+        "source": "Marietta Daily Journal",
         "language": "English",
-        "published_at": "2026-11-14T09:55:00+00:00",
-        "summary": "An Obscure Utility Calculation Is Putting a Thumb on the Scale for Gas in Georgia Inside Climate News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNbkVQeFl4UFYzQWRyUi1QWUhCc2FaeHd4NkxQdzV0Q3psQ3hOUG04bk9UZW54Qnk1bUNIdlljVkxpMWdKeHVuemVBc1hmVmdCYXROWDJIdFA1TG9vLU9WeEpWTVd4WUtPSV9xb0ZzTGxaazRTdnhSclZHWFBJNi0xc3Vibw?oc=5\" target=\"_blank\">An Obscure Utility Calculation Is Putting a Thumb on the Scale for Gas in Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
+        "published_at": "2026-11-15T12:00:00+00:00",
+        "summary": "Georgia Power CEO talks data centers Marietta Daily Journal",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWUxjWGMzOUVBQlFnQndVOUhIMFZaeDRiRHhzREdUYlFwYmRvWVFNWFkxc3FvbENLSEtnMUF6azhYbDFHeGN0SkVJcmNGQW02SnRFUWtDR0tUd0NjS1diTG5KbWN3S29ha1hkbUk5azY4enVmYm1RN2FhTUtlUFZEcDljTElNdGF2X1ppQzVUR3VONWk0WEgxRXF0cV8wTFR1UTZzLWQ0VzYweTNCcUhfMnVPUzlIZzFZOEJiaFNHbTc?oc=5\" target=\"_blank\">Georgia Power CEO talks data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marietta Daily Journal</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-14T16:18:04+00:00"
+        "collected_at": "2026-11-15T16:44:50+00:00"
       }
     },
     {

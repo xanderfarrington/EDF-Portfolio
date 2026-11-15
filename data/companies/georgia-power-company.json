@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-15T08:43:03+00:00",
+  "last_updated": "2026-11-15T16:44:50+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1052,
+  "count": 1053,
   "mentions": [
+    {
+      "id": "b8cc5ced96125eb8",
+      "title": "Georgia Power CEO talks data centers - Marietta Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWUxjWGMzOUVBQlFnQndVOUhIMFZaeDRiRHhzREdUYlFwYmRvWVFNWFkxc3FvbENLSEtnMUF6azhYbDFHeGN0SkVJcmNGQW02SnRFUWtDR0tUd0NjS1diTG5KbWN3S29ha1hkbUk5azY4enVmYm1RN2FhTUtlUFZEcDljTElNdGF2X1ppQzVUR3VONWk0WEgxRXF0cV8wTFR1UTZzLWQ0VzYweTNCcUhfMnVPUzlIZzFZOEJiaFNHbTc?oc=5",
+      "domain": "news.google.com",
+      "source": "Marietta Daily Journal",
+      "language": "English",
+      "published_at": "2026-11-15T12:00:00+00:00",
+      "summary": "Georgia Power CEO talks data centers Marietta Daily Journal",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWUxjWGMzOUVBQlFnQndVOUhIMFZaeDRiRHhzREdUYlFwYmRvWVFNWFkxc3FvbENLSEtnMUF6azhYbDFHeGN0SkVJcmNGQW02SnRFUWtDR0tUd0NjS1diTG5KbWN3S29ha1hkbUk5azY4enVmYm1RN2FhTUtlUFZEcDljTElNdGF2X1ppQzVUR3VONWk0WEgxRXF0cV8wTFR1UTZzLWQ0VzYweTNCcUhfMnVPUzlIZzFZOEJiaFNHbTc?oc=5\" target=\"_blank\">Georgia Power CEO talks data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marietta Daily Journal</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-15T16:44:50+00:00"
+    },
     {
       "id": "4e76adef540a1ea1",
       "title": "An Obscure Utility Calculation Is Putting a Thumb on the Scale for Gas in Georgia - Inside Climate News",

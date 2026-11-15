@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-15T08:42:47+00:00",
+  "last_updated": "2026-11-15T16:44:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 689,
+  "count": 690,
   "mentions": [
+    {
+      "id": "b7af33c360bf93de",
+      "title": "\"If it can happen to me, it can happen to anybody\" - Fenn Church holds his ground against Alabama Power through the weekend - wvtm",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQk5kcFFZUXExTUdCZ2ppME05VjBRbEFaSHZhWG1lbWhUSE44TzFLMDk2UlBXSUVoaXNMNHFvejRCX292TU9USU4taTYxazQxVXBuYUNDMmV3Vmd0aXhlT2JGOEdWQlktYlhYbW45dTZOTE1NNS11SWdHdDY5UGI1X252RkJFX1licTl5bENtdXAyMHo5ck9iLTVpS0Y3VFBTOElDcDJoWTJsUGdMTHQzU2IzajhmQmZEMWZSZldSUlk1OVRReTkyTk90Y2lDQlROTElVZkQtVlNDS1FneWZ3MkJKbng3NDMzLXZydGkzUQ?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm",
+      "language": "English",
+      "published_at": "2026-11-15T12:51:00+00:00",
+      "summary": "\"If it can happen to me, it can happen to anybody\" - Fenn Church holds his ground against Alabama Power through the weekend wvtm",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQk5kcFFZUXExTUdCZ2ppME05VjBRbEFaSHZhWG1lbWhUSE44TzFLMDk2UlBXSUVoaXNMNHFvejRCX292TU9USU4taTYxazQxVXBuYUNDMmV3Vmd0aXhlT2JGOEdWQlktYlhYbW45dTZOTE1NNS11SWdHdDY5UGI1X252RkJFX1licTl5bENtdXAyMHo5ck9iLTVpS0Y3VFBTOElDcDJoWTJsUGdMTHQzU2IzajhmQmZEMWZSZldSUlk1OVRReTkyTk90Y2lDQlROTElVZkQtVlNDS1FneWZ3MkJKbng3NDMzLXZydGkzUQ?oc=5\" target=\"_blank\">\"If it can happen to me, it can happen to anybody\" - Fenn Church holds his ground against Alabama Power through the weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-15T16:44:34+00:00"
+    },
     {
       "id": "e6642907b798c88c",
       "title": "Alabama Power Began Clearing Fenn Church's Land While His Challenge to the Taking Is Still Pending - The South Shore Press",
