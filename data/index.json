@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T04:17:50+00:00",
+  "last_updated": "2026-11-16T14:30:24+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 690,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "b7af33c360bf93de",
         "title": "\"If it can happen to me, it can happen to anybody\" - Fenn Church holds his ground against Alabama Power through the weekend - wvtm",
