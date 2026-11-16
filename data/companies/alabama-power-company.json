@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-16T14:29:57+00:00",
+  "last_updated": "2026-11-16T23:56:22+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 690,
+  "count": 691,
   "mentions": [
     {
       "id": "b7af33c360bf93de",
@@ -117,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-12T21:59:40+00:00"
+    },
+    {
+      "id": "47954af99cf0affb",
+      "title": "Alabama Power Cleared About 300 Yards of Trees on Fenn Church’s Land, Then a Judge Refused to Keep Him 300 Feet From the Crews - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaU1OVi1TRjZUcnpzU1dDeHNvNFZpLVhoa1dZY1NFUlFJMHQwcW1vVzl5Mkt2OTNPTk44UmJIWGI0WG1iUzhwaExCR2QxanVwR3lEeVVQRVlIaE1tNDFZZ3huX2xCQk0xQWc4QTV3S25ZRXlUbk9NbXVid0l2cDVHMw?oc=5",
+      "domain": "news.google.com",
+      "source": "AOL.com",
+      "language": "English",
+      "published_at": "2026-11-12T14:00:00+00:00",
+      "summary": "Alabama Power Cleared About 300 Yards of Trees on Fenn Church’s Land, Then a Judge Refused to Keep Him 300 Feet From the Crews AOL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPaU1OVi1TRjZUcnpzU1dDeHNvNFZpLVhoa1dZY1NFUlFJMHQwcW1vVzl5Mkt2OTNPTk44UmJIWGI0WG1iUzhwaExCR2QxanVwR3lEeVVQRVlIaE1tNDFZZ3huX2xCQk0xQWc4QTV3S25ZRXlUbk9NbXVid0l2cDVHMw?oc=5\" target=\"_blank\">Alabama Power Cleared About 300 Yards of Trees on Fenn Church’s Land, Then a Judge Refused to Keep Him 300 Feet From the Crews</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-16T23:56:22+00:00"
     },
     {
       "id": "ea830c84bb92428d",

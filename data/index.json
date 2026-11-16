@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-16T14:30:24+00:00",
+  "last_updated": "2026-11-16T23:56:48+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 144,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "e88468c6b03697c0",
         "title": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme - Environment Analyst",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 690,
-      "new_mentions_this_run": 15,
+      "count": 691,
+      "new_mentions_this_run": 22,
       "latest_mention": {
         "id": "b7af33c360bf93de",
         "title": "\"If it can happen to me, it can happen to anybody\" - Fenn Church holds his ground against Alabama Power through the weekend - wvtm",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1054,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "d586c397dfe5fd31",
         "title": "Summerville Police Warn of Georgia Power Phone Scam - WEIS | Local & Area News, Sports, & Weather - weisradio.com",
