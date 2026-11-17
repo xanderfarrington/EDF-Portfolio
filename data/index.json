@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-16T23:56:48+00:00",
+  "last_updated": "2026-11-17T06:23:47+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 144,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e88468c6b03697c0",
         "title": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme - Environment Analyst",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 73,
-      "new_mentions_this_run": 2,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "e225f9b4f4f5b0a0",
         "title": "Alliant Energy to receive $5.1B in federal loans for natural gas, energy storage projects - WPR",
