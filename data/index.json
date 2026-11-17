@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T06:23:47+00:00",
+  "last_updated": "2026-11-17T17:17:43+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 691,
-      "new_mentions_this_run": 22,
+      "new_mentions_this_run": 21,
       "latest_mention": {
         "id": "b7af33c360bf93de",
         "title": "\"If it can happen to me, it can happen to anybody\" - Fenn Church holds his ground against Alabama Power through the weekend - wvtm",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1054,
-      "new_mentions_this_run": 0,
+      "count": 1056,
+      "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "d586c397dfe5fd31",
-        "title": "Summerville Police Warn of Georgia Power Phone Scam - WEIS | Local & Area News, Sports, & Weather - weisradio.com",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WSG94dFBhX2xxaS1iaElHeVhlUjN0S1d0X3dKcVc0bTF6WDhLMU1rckctSWxCNWc4TG9qRnBxRHBMSEc5LVdXZ3BsZ0VsUkJpNUs3NFN3ZnZTM2VRVU5YMXlfRS05MjU0MkcyM1RNcjU3UnRpNVRHX1VB?oc=5",
+        "id": "22f8f94a21951bf1",
+        "title": "For Georgia Power, Large Load Growth Fuels Cost-shifting Scrutiny - RTO Insider",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTZiMlZlOVByLXRfaWRpOG9NQ1F1dExwZDdqOUd6Z29XTW55YVpDSV9nYzZtQjlVRExmRUZGM2NtZGhwZ2Z6UGE3Y0dKRkRuR29UT1dUV05uOXU0YUQ1N1lIUzBZSzh3SDVRMVpaU19EV2FueHVPT2RrcU0xUl9fa0VhVERmYmZsTzhHSEVReVNDbnpDbHVKTVN5SQ?oc=5",
         "domain": "news.google.com",
-        "source": "weisradio.com",
+        "source": "RTO Insider",
         "language": "English",
-        "published_at": "2026-11-16T00:32:30+00:00",
-        "summary": "Summerville Police Warn of Georgia Power Phone Scam - WEIS | Local & Area News, Sports, & Weather weisradio.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5WSG94dFBhX2xxaS1iaElHeVhlUjN0S1d0X3dKcVc0bTF6WDhLMU1rckctSWxCNWc4TG9qRnBxRHBMSEc5LVdXZ3BsZ0VsUkJpNUs3NFN3ZnZTM2VRVU5YMXlfRS05MjU0MkcyM1RNcjU3UnRpNVRHX1VB?oc=5\" target=\"_blank\">Summerville Police Warn of Georgia Power Phone Scam - WEIS | Local & Area News, Sports, & Weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">weisradio.com</font>",
+        "published_at": "2026-11-17T00:55:24+00:00",
+        "summary": "For Georgia Power, Large Load Growth Fuels Cost-shifting Scrutiny RTO Insider",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTZiMlZlOVByLXRfaWRpOG9NQ1F1dExwZDdqOUd6Z29XTW55YVpDSV9nYzZtQjlVRExmRUZGM2NtZGhwZ2Z6UGE3Y0dKRkRuR29UT1dUV05uOXU0YUQ1N1lIUzBZSzh3SDVRMVpaU19EV2FueHVPT2RrcU0xUl9fa0VhVERmYmZsTzhHSEVReVNDbnpDbHVKTVN5SQ?oc=5\" target=\"_blank\">For Georgia Power, Large Load Growth Fuels Cost-shifting Scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-16T04:17:40+00:00"
+        "collected_at": "2026-11-17T17:17:32+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 73,
-      "new_mentions_this_run": 0,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "e225f9b4f4f5b0a0",
         "title": "Alliant Energy to receive $5.1B in federal loans for natural gas, energy storage projects - WPR",
