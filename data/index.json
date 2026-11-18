@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T09:37:29+00:00",
+  "last_updated": "2026-11-18T18:34:25+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 697,
-      "new_mentions_this_run": 20,
+      "count": 699,
+      "new_mentions_this_run": 16,
       "latest_mention": {
-        "id": "803bbb14ee4e5ad6",
-        "title": "Alabama Power’s first utility-scale battery facility begins serving customers - WBMA",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmZ0ZUpLV1Bpc2lXS0NXeUo5Wk0wWjdzbEJQbWVsc1c1aURiR3dQOUUteFp5dzFUZWZOMVVzSTBWVldDUEQ5T3dhTFpqU2tpaS1YaENDaEJZbUxOQTdBMTltMjItd2phb0I4cy1pdEg5aTJWQU5iZ1RyR3hOWFlJajMza3BPMmJkOFpweHA2QzBPS3FacktZWEh6MWJfajdfMndnZWhwVWZmQUE?oc=5",
+        "id": "d77b30ac58eb199a",
+        "title": "Alabama Power Opens State’s First Grid Battery Facility - Wiregrass Daily News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjF4RVl5QURDRGd0NDZsd25LS0ZsNV9nSFJSZVl2VHJ1QUdlZTFraGpHZ2o1UG1SMDJrZEhMREtjTVo2cVExOFk2SzBlSnNKcFp0S0FQdG9FSzUzRXRDQ05kd3pSTkY1WE8wYVZyMHZIbThMMUZHSkhBY25nRDhlLXFVdUhReF9mUEJNMFl1ejhQaGZuZXRFTXpiNm9vWTQ0ejF6Nnl5SDZ5UWlvWGZF?oc=5",
         "domain": "news.google.com",
-        "source": "WBMA",
+        "source": "Wiregrass Daily News",
         "language": "English",
-        "published_at": "2026-11-17T23:33:15+00:00",
-        "summary": "Alabama Power’s first utility-scale battery facility begins serving customers WBMA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmZ0ZUpLV1Bpc2lXS0NXeUo5Wk0wWjdzbEJQbWVsc1c1aURiR3dQOUUteFp5dzFUZWZOMVVzSTBWVldDUEQ5T3dhTFpqU2tpaS1YaENDaEJZbUxOQTdBMTltMjItd2phb0I4cy1pdEg5aTJWQU5iZ1RyR3hOWFlJajMza3BPMmJkOFpweHA2QzBPS3FacktZWEh6MWJfajdfMndnZWhwVWZmQUE?oc=5\" target=\"_blank\">Alabama Power’s first utility-scale battery facility begins serving customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+        "published_at": "2026-11-18T17:18:12+00:00",
+        "summary": "Alabama Power Opens State’s First Grid Battery Facility Wiregrass Daily News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjF4RVl5QURDRGd0NDZsd25LS0ZsNV9nSFJSZVl2VHJ1QUdlZTFraGpHZ2o1UG1SMDJrZEhMREtjTVo2cVExOFk2SzBlSnNKcFp0S0FQdG9FSzUzRXRDQ05kd3pSTkY1WE8wYVZyMHZIbThMMUZHSkhBY25nRDhlLXFVdUhReF9mUEJNMFl1ejhQaGZuZXRFTXpiNm9vWTQ0ejF6Nnl5SDZ5UWlvWGZF?oc=5\" target=\"_blank\">Alabama Power Opens State’s First Grid Battery Facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiregrass Daily News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-18T00:21:34+00:00"
+        "collected_at": "2026-11-18T18:33:58+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1057,
-      "new_mentions_this_run": 7,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "3d99ca505478ab3d",
         "title": "Ronald McDonald House Coastal Empire receives $100,000 grant from Georgia Power Foundation to support ‘More Rooms, More Families’ campaign - Grice Connect",
