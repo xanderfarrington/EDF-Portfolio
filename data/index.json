@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T17:17:43+00:00",
+  "last_updated": "2026-11-18T00:22:01+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 691,
-      "new_mentions_this_run": 21,
+      "count": 696,
+      "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "b7af33c360bf93de",
-        "title": "\"If it can happen to me, it can happen to anybody\" - Fenn Church holds his ground against Alabama Power through the weekend - wvtm",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQk5kcFFZUXExTUdCZ2ppME05VjBRbEFaSHZhWG1lbWhUSE44TzFLMDk2UlBXSUVoaXNMNHFvejRCX292TU9USU4taTYxazQxVXBuYUNDMmV3Vmd0aXhlT2JGOEdWQlktYlhYbW45dTZOTE1NNS11SWdHdDY5UGI1X252RkJFX1licTl5bENtdXAyMHo5ck9iLTVpS0Y3VFBTOElDcDJoWTJsUGdMTHQzU2IzajhmQmZEMWZSZldSUlk1OVRReTkyTk90Y2lDQlROTElVZkQtVlNDS1FneWZ3MkJKbng3NDMzLXZydGkzUQ?oc=5",
+        "id": "803bbb14ee4e5ad6",
+        "title": "Alabama Power’s first utility-scale battery facility begins serving customers - WBMA",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmZ0ZUpLV1Bpc2lXS0NXeUo5Wk0wWjdzbEJQbWVsc1c1aURiR3dQOUUteFp5dzFUZWZOMVVzSTBWVldDUEQ5T3dhTFpqU2tpaS1YaENDaEJZbUxOQTdBMTltMjItd2phb0I4cy1pdEg5aTJWQU5iZ1RyR3hOWFlJajMza3BPMmJkOFpweHA2QzBPS3FacktZWEh6MWJfajdfMndnZWhwVWZmQUE?oc=5",
         "domain": "news.google.com",
-        "source": "wvtm",
+        "source": "WBMA",
         "language": "English",
-        "published_at": "2026-11-15T12:51:00+00:00",
-        "summary": "\"If it can happen to me, it can happen to anybody\" - Fenn Church holds his ground against Alabama Power through the weekend wvtm",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQk5kcFFZUXExTUdCZ2ppME05VjBRbEFaSHZhWG1lbWhUSE44TzFLMDk2UlBXSUVoaXNMNHFvejRCX292TU9USU4taTYxazQxVXBuYUNDMmV3Vmd0aXhlT2JGOEdWQlktYlhYbW45dTZOTE1NNS11SWdHdDY5UGI1X252RkJFX1licTl5bENtdXAyMHo5ck9iLTVpS0Y3VFBTOElDcDJoWTJsUGdMTHQzU2IzajhmQmZEMWZSZldSUlk1OVRReTkyTk90Y2lDQlROTElVZkQtVlNDS1FneWZ3MkJKbng3NDMzLXZydGkzUQ?oc=5\" target=\"_blank\">\"If it can happen to me, it can happen to anybody\" - Fenn Church holds his ground against Alabama Power through the weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+        "published_at": "2026-11-17T23:33:15+00:00",
+        "summary": "Alabama Power’s first utility-scale battery facility begins serving customers WBMA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmZ0ZUpLV1Bpc2lXS0NXeUo5Wk0wWjdzbEJQbWVsc1c1aURiR3dQOUUteFp5dzFUZWZOMVVzSTBWVldDUEQ5T3dhTFpqU2tpaS1YaENDaEJZbUxOQTdBMTltMjItd2phb0I4cy1pdEg5aTJWQU5iZ1RyR3hOWFlJajMza3BPMmJkOFpweHA2QzBPS3FacktZWEh6MWJfajdfMndnZWhwVWZmQUE?oc=5\" target=\"_blank\">Alabama Power’s first utility-scale battery facility begins serving customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-15T16:44:34+00:00"
+        "collected_at": "2026-11-18T00:21:34+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1056,
-      "new_mentions_this_run": 7,
+      "count": 1057,
+      "new_mentions_this_run": 9,
       "latest_mention": {
-        "id": "22f8f94a21951bf1",
-        "title": "For Georgia Power, Large Load Growth Fuels Cost-shifting Scrutiny - RTO Insider",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTZiMlZlOVByLXRfaWRpOG9NQ1F1dExwZDdqOUd6Z29XTW55YVpDSV9nYzZtQjlVRExmRUZGM2NtZGhwZ2Z6UGE3Y0dKRkRuR29UT1dUV05uOXU0YUQ1N1lIUzBZSzh3SDVRMVpaU19EV2FueHVPT2RrcU0xUl9fa0VhVERmYmZsTzhHSEVReVNDbnpDbHVKTVN5SQ?oc=5",
+        "id": "3d99ca505478ab3d",
+        "title": "Ronald McDonald House Coastal Empire receives $100,000 grant from Georgia Power Foundation to support ‘More Rooms, More Families’ campaign - Grice Connect",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZ3poYUMtd0xFZk9tNUsyb1d6UERORDRJbERTbUdoY3N2aS1saXVYbmlWOVM4bE1TU29pTzM5aV9rNms5eW5PQjhGNjA5dUJmYnVKQjdCRlNVVHg5NFlXbDlJQnhrZnktYlZCLXY1UUtmX3ZDbm92NFhHSHk1b3BPSzEzS21SbWM5X2NrOVNJeXZseHJYazhGbVQ0ajBSZTBnd08weFlNZ3BrZE1tNEVpSkFubm05bUlVM1B2UHEyWk1aNjV6anRhTk5KanB2WWtkQmg4UmQxc0dCZFdVYW1rLUpUNjhLS2xYR2VIV21qRVNmM1dfZHFJRUk0bXdiSEl5QUU2eFZxeTBCZG02UHo40gGUAkFVX3lxTE1CTnhJa1Nyd0Vpa3lhRWpoSEpxUmVYZ0xSSjcxbHRVb21HNUxlRGE5Q2RwTFZDZURWajlyRFBhR3pQeFNJcFYwNnpoVVphY1ZnZFlKZnlYXzNVYTJUSGhwSkRDZFVlWE43a1B1MHRjcmVWLWVsdl9jdkkzcFhmZm9MSmxZZTF5Yzhxakx4WDJzbFBBMF9fbkFNWkRVaDdldUZMeGZzMnVYZklaSVFVN2p4VjY1WTNnWnFkeTlNdTBSTVY5eDFja0N3RVAtWjFGajh3TmhucGtNOHRhem5JT083Q2RkMkZIbFBzN202N0F1X05EamhValN0Vkk5QlRVRUJjeTd1VGpQeFpQWkZUWDl0LWt2Vg?oc=5",
         "domain": "news.google.com",
-        "source": "RTO Insider",
+        "source": "Grice Connect",
         "language": "English",
-        "published_at": "2026-11-17T00:55:24+00:00",
-        "summary": "For Georgia Power, Large Load Growth Fuels Cost-shifting Scrutiny RTO Insider",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTZiMlZlOVByLXRfaWRpOG9NQ1F1dExwZDdqOUd6Z29XTW55YVpDSV9nYzZtQjlVRExmRUZGM2NtZGhwZ2Z6UGE3Y0dKRkRuR29UT1dUV05uOXU0YUQ1N1lIUzBZSzh3SDVRMVpaU19EV2FueHVPT2RrcU0xUl9fa0VhVERmYmZsTzhHSEVReVNDbnpDbHVKTVN5SQ?oc=5\" target=\"_blank\">For Georgia Power, Large Load Growth Fuels Cost-shifting Scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTO Insider</font>",
+        "published_at": "2026-11-17T19:05:00+00:00",
+        "summary": "Ronald McDonald House Coastal Empire receives $100,000 grant from Georgia Power Foundation to support ‘More Rooms, More Families’ campaign Grice Connect",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPZ3poYUMtd0xFZk9tNUsyb1d6UERORDRJbERTbUdoY3N2aS1saXVYbmlWOVM4bE1TU29pTzM5aV9rNms5eW5PQjhGNjA5dUJmYnVKQjdCRlNVVHg5NFlXbDlJQnhrZnktYlZCLXY1UUtmX3ZDbm92NFhHSHk1b3BPSzEzS21SbWM5X2NrOVNJeXZseHJYazhGbVQ0ajBSZTBnd08weFlNZ3BrZE1tNEVpSkFubm05bUlVM1B2UHEyWk1aNjV6anRhTk5KanB2WWtkQmg4UmQxc0dCZFdVYW1rLUpUNjhLS2xYR2VIV21qRVNmM1dfZHFJRUk0bXdiSEl5QUU2eFZxeTBCZG02UHo40gGUAkFVX3lxTE1CTnhJa1Nyd0Vpa3lhRWpoSEpxUmVYZ0xSSjcxbHRVb21HNUxlRGE5Q2RwTFZDZURWajlyRFBhR3pQeFNJcFYwNnpoVVphY1ZnZFlKZnlYXzNVYTJUSGhwSkRDZFVlWE43a1B1MHRjcmVWLWVsdl9jdkkzcFhmZm9MSmxZZTF5Yzhxakx4WDJzbFBBMF9fbkFNWkRVaDdldUZMeGZzMnVYZklaSVFVN2p4VjY1WTNnWnFkeTlNdTBSTVY5eDFja0N3RVAtWjFGajh3TmhucGtNOHRhem5JT083Q2RkMkZIbFBzN202N0F1X05EamhValN0Vkk5QlRVRUJjeTd1VGpQeFpQWkZUWDl0LWt2Vg?oc=5\" target=\"_blank\">Ronald McDonald House Coastal Empire receives $100,000 grant from Georgia Power Foundation to support ‘More Rooms, More Families’ campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-17T17:17:32+00:00"
+        "collected_at": "2026-11-18T00:21:50+00:00"
       }
     },
     {

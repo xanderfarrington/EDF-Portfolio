@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-17T17:17:32+00:00",
+  "last_updated": "2026-11-18T00:21:50+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1056,
+  "count": 1057,
   "mentions": [
+    {
+      "id": "3d99ca505478ab3d",
+      "title": "Ronald McDonald House Coastal Empire receives $100,000 grant from Georgia Power Foundation to support ‘More Rooms, More Families’ campaign - Grice Connect",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZ3poYUMtd0xFZk9tNUsyb1d6UERORDRJbERTbUdoY3N2aS1saXVYbmlWOVM4bE1TU29pTzM5aV9rNms5eW5PQjhGNjA5dUJmYnVKQjdCRlNVVHg5NFlXbDlJQnhrZnktYlZCLXY1UUtmX3ZDbm92NFhHSHk1b3BPSzEzS21SbWM5X2NrOVNJeXZseHJYazhGbVQ0ajBSZTBnd08weFlNZ3BrZE1tNEVpSkFubm05bUlVM1B2UHEyWk1aNjV6anRhTk5KanB2WWtkQmg4UmQxc0dCZFdVYW1rLUpUNjhLS2xYR2VIV21qRVNmM1dfZHFJRUk0bXdiSEl5QUU2eFZxeTBCZG02UHo40gGUAkFVX3lxTE1CTnhJa1Nyd0Vpa3lhRWpoSEpxUmVYZ0xSSjcxbHRVb21HNUxlRGE5Q2RwTFZDZURWajlyRFBhR3pQeFNJcFYwNnpoVVphY1ZnZFlKZnlYXzNVYTJUSGhwSkRDZFVlWE43a1B1MHRjcmVWLWVsdl9jdkkzcFhmZm9MSmxZZTF5Yzhxakx4WDJzbFBBMF9fbkFNWkRVaDdldUZMeGZzMnVYZklaSVFVN2p4VjY1WTNnWnFkeTlNdTBSTVY5eDFja0N3RVAtWjFGajh3TmhucGtNOHRhem5JT083Q2RkMkZIbFBzN202N0F1X05EamhValN0Vkk5QlRVRUJjeTd1VGpQeFpQWkZUWDl0LWt2Vg?oc=5",
+      "domain": "news.google.com",
+      "source": "Grice Connect",
+      "language": "English",
+      "published_at": "2026-11-17T19:05:00+00:00",
+      "summary": "Ronald McDonald House Coastal Empire receives $100,000 grant from Georgia Power Foundation to support ‘More Rooms, More Families’ campaign Grice Connect",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPZ3poYUMtd0xFZk9tNUsyb1d6UERORDRJbERTbUdoY3N2aS1saXVYbmlWOVM4bE1TU29pTzM5aV9rNms5eW5PQjhGNjA5dUJmYnVKQjdCRlNVVHg5NFlXbDlJQnhrZnktYlZCLXY1UUtmX3ZDbm92NFhHSHk1b3BPSzEzS21SbWM5X2NrOVNJeXZseHJYazhGbVQ0ajBSZTBnd08weFlNZ3BrZE1tNEVpSkFubm05bUlVM1B2UHEyWk1aNjV6anRhTk5KanB2WWtkQmg4UmQxc0dCZFdVYW1rLUpUNjhLS2xYR2VIV21qRVNmM1dfZHFJRUk0bXdiSEl5QUU2eFZxeTBCZG02UHo40gGUAkFVX3lxTE1CTnhJa1Nyd0Vpa3lhRWpoSEpxUmVYZ0xSSjcxbHRVb21HNUxlRGE5Q2RwTFZDZURWajlyRFBhR3pQeFNJcFYwNnpoVVphY1ZnZFlKZnlYXzNVYTJUSGhwSkRDZFVlWE43a1B1MHRjcmVWLWVsdl9jdkkzcFhmZm9MSmxZZTF5Yzhxakx4WDJzbFBBMF9fbkFNWkRVaDdldUZMeGZzMnVYZklaSVFVN2p4VjY1WTNnWnFkeTlNdTBSTVY5eDFja0N3RVAtWjFGajh3TmhucGtNOHRhem5JT083Q2RkMkZIbFBzN202N0F1X05EamhValN0Vkk5QlRVRUJjeTd1VGpQeFpQWkZUWDl0LWt2Vg?oc=5\" target=\"_blank\">Ronald McDonald House Coastal Empire receives $100,000 grant from Georgia Power Foundation to support ‘More Rooms, More Families’ campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-18T00:21:50+00:00"
+    },
     {
       "id": "22f8f94a21951bf1",
       "title": "For Georgia Power, Large Load Growth Fuels Cost-shifting Scrutiny - RTO Insider",
