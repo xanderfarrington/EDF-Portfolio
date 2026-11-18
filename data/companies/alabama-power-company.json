@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-18T00:21:34+00:00",
+  "last_updated": "2026-11-18T09:37:02+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 696,
+  "count": 697,
   "mentions": [
     {
       "id": "803bbb14ee4e5ad6",
@@ -75,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-18T00:21:34+00:00"
+    },
+    {
+      "id": "d69f4e4f05ccc59c",
+      "title": "New Alabama Power facility on site of old coal plant can provide stored battery power - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDk2eXFveVhVUzBReXhsOUNnQWFkRmJjdXBQZzRIeVBDQXlLaXIxV0JRXzBmejl2R2RrZnB2VVlwOThERlpHNTVjYi1jek56dlEtTndxMnJuaHVaT2VLZkhKX2dPbEhnMC0wQTVrT1RhekU5amE0azlfdDFyZlJleWlEZi04S3Nlalptb3RvQmU0NEpaeVZ6QmVrOUR4R052aGV6YVZSS1VFdTRpR1lDY3hTLTM5WVdZekFOQmJBRTBkRjFLS0pnQ1l4a1k4dw?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-11-17T17:16:00+00:00",
+      "summary": "New Alabama Power facility on site of old coal plant can provide stored battery power AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDk2eXFveVhVUzBReXhsOUNnQWFkRmJjdXBQZzRIeVBDQXlLaXIxV0JRXzBmejl2R2RrZnB2VVlwOThERlpHNTVjYi1jek56dlEtTndxMnJuaHVaT2VLZkhKX2dPbEhnMC0wQTVrT1RhekU5amE0azlfdDFyZlJleWlEZi04S3Nlalptb3RvQmU0NEpaeVZ6QmVrOUR4R052aGV6YVZSS1VFdTRpR1lDY3hTLTM5WVdZekFOQmJBRTBkRjFLS0pnQ1l4a1k4dw?oc=5\" target=\"_blank\">New Alabama Power facility on site of old coal plant can provide stored battery power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-18T09:37:02+00:00"
     },
     {
       "id": "b7af33c360bf93de",

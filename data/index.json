@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T00:22:01+00:00",
+  "last_updated": "2026-11-18T09:37:29+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 696,
-      "new_mentions_this_run": 22,
+      "count": 697,
+      "new_mentions_this_run": 20,
       "latest_mention": {
         "id": "803bbb14ee4e5ad6",
         "title": "Alabama Power’s first utility-scale battery facility begins serving customers - WBMA",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1057,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 7,
       "latest_mention": {
         "id": "3d99ca505478ab3d",
         "title": "Ronald McDonald House Coastal Empire receives $100,000 grant from Georgia Power Foundation to support ‘More Rooms, More Families’ campaign - Grice Connect",
