@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-19T09:44:20+00:00",
+  "last_updated": "2026-11-19T18:46:26+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 145,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "cf0210407ba1e50b",
         "title": "Steuben County commissioners urge AEP to address community concerns before Lulu-Sorenson project advances - WPTA | 21Alive | Fort Wayne, IN",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 702,
-      "new_mentions_this_run": 21,
+      "count": 704,
+      "new_mentions_this_run": 22,
       "latest_mention": {
-        "id": "0a0423a981d4c6b7",
-        "title": "'They have flanked him': Country star backs Alabama landowner in eminent domain fight - wvtm",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOENRM09zdEk5c2xSRE8wd2J5UFRWT2lrQmE0b1MtejQ5bk1nUEd5T1FVRHo4YzBEMlZ4Q2dsTEFpZTFmajJrZEo5NVBPNVdnMUYtRjczNHd5anN3NzlMX2NBQTRmNm1LdXBqQVlrUUZsc2FuR1F5M2VLNHB5LW8xbDhLdkNkTTdxY01MLVR3?oc=5",
+        "id": "064c401f7ecf2d06",
+        "title": "Alabama Power’s latest lawsuit against Calera property owner dismissed by judge - The Auburn Plainsman",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdVY1SUVKYlhyN2hnNE9RLU5DVmE0R2V3TU1zRnNFTkEwZXpJbHMzVXNNV1R2enNuRzNNV2lURE1JTzd1cS1RZnJvR1FMN0E2aVZtYmhmRHFJeDRkQlNZWWc2TnpUSmVNdkZhQklmRmVoWi1oWjlMSHp3RnNxeFJtUHJMRXdjNURvNUdlX28zdDJEY2NqMjVqTXBOSFJfWnBvSzExREg4ZTRyRnFlQjRPTmlQYVNOOG02eWhoMU93WjhVdw?oc=5",
         "domain": "news.google.com",
-        "source": "wvtm",
+        "source": "The Auburn Plainsman",
         "language": "English",
-        "published_at": "2026-11-19T00:13:00+00:00",
-        "summary": "'They have flanked him': Country star backs Alabama landowner in eminent domain fight wvtm",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQOENRM09zdEk5c2xSRE8wd2J5UFRWT2lrQmE0b1MtejQ5bk1nUEd5T1FVRHo4YzBEMlZ4Q2dsTEFpZTFmajJrZEo5NVBPNVdnMUYtRjczNHd5anN3NzlMX2NBQTRmNm1LdXBqQVlrUUZsc2FuR1F5M2VLNHB5LW8xbDhLdkNkTTdxY01MLVR3?oc=5\" target=\"_blank\">'They have flanked him': Country star backs Alabama landowner in eminent domain fight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+        "published_at": "2026-11-19T17:13:05+00:00",
+        "summary": "Alabama Power’s latest lawsuit against Calera property owner dismissed by judge The Auburn Plainsman",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdVY1SUVKYlhyN2hnNE9RLU5DVmE0R2V3TU1zRnNFTkEwZXpJbHMzVXNNV1R2enNuRzNNV2lURE1JTzd1cS1RZnJvR1FMN0E2aVZtYmhmRHFJeDRkQlNZWWc2TnpUSmVNdkZhQklmRmVoWi1oWjlMSHp3RnNxeFJtUHJMRXdjNURvNUdlX28zdDJEY2NqMjVqTXBOSFJfWnBvSzExREg4ZTRyRnFlQjRPTmlQYVNOOG02eWhoMU93WjhVdw?oc=5\" target=\"_blank\">Alabama Power’s latest lawsuit against Calera property owner dismissed by judge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Auburn Plainsman</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-19T01:36:10+00:00"
+        "collected_at": "2026-11-19T18:46:00+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1061,
-      "new_mentions_this_run": 8,
+      "count": 1063,
+      "new_mentions_this_run": 11,
       "latest_mention": {
-        "id": "cae1a03a29bfb724",
-        "title": "Georgia Power makes donation to Go Fish Education Center - Griffin Daily News",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLTA4RzlxaV8xZ2dyWlNJWmVkSWVFbmtndHZ3N3RGZ0dKYnBiMjJzbi1TeWVOdG4tTDZOSExlMXJrRGV3dWFyWUVlNHh3T2xjbFZhYUJuWUdxeHdlaXFvOEtHTmdiOTVDanluYm53NHRWRTk4eFBuc3lpQ3YzbEFZX2lNRXNoQUNYOTVSRlg2bXN6YmZ6Nkozb09BNmpuVlN6V2NTZHBnNEs5V2k1Y0t4X3ZZODZ2WlI5YjlWV1RaTW1fZ1Q1X1lJbWhBRlhLZVp3TEdmd3pnQTBja2RF?oc=5",
+        "id": "559f7c6e18093ad9",
+        "title": "Inside Georgia Power's emergency base camp - FOX 5 Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Qbzg3RGtTdHpSQzc0WlFHaWZKUkNxWjVISzczdkRqaFNhMDltdXAzOW5tM3c5cHV4NFAwdHZuVnF0d0tXMWQ5bWV2bG1mRDlaS21qaW9jbU80RF9yWWVaaGhYNjTSAWpBVV95cUxOMm85cWZOSXQ1clh1b3Q0M1dGbnZmTVpleDIyaU5BWWU3NVdQUUZKSW5YY0gtX0RaQW9pX3BlTGtYU0xQZkRYdHFuME5LZWFSeGtHUXBiTFBpa2NwOVp1V1hwcy03eFlTWFpn?oc=5",
         "domain": "news.google.com",
-        "source": "Griffin Daily News",
+        "source": "FOX 5 Atlanta",
         "language": "English",
-        "published_at": "2026-11-19T05:00:00+00:00",
-        "summary": "Georgia Power makes donation to Go Fish Education Center Griffin Daily News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLTA4RzlxaV8xZ2dyWlNJWmVkSWVFbmtndHZ3N3RGZ0dKYnBiMjJzbi1TeWVOdG4tTDZOSExlMXJrRGV3dWFyWUVlNHh3T2xjbFZhYUJuWUdxeHdlaXFvOEtHTmdiOTVDanluYm53NHRWRTk4eFBuc3lpQ3YzbEFZX2lNRXNoQUNYOTVSRlg2bXN6YmZ6Nkozb09BNmpuVlN6V2NTZHBnNEs5V2k1Y0t4X3ZZODZ2WlI5YjlWV1RaTW1fZ1Q1X1lJbWhBRlhLZVp3TEdmd3pnQTBja2RF?oc=5\" target=\"_blank\">Georgia Power makes donation to Go Fish Education Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Griffin Daily News</font>",
+        "published_at": "2026-11-19T17:11:05+00:00",
+        "summary": "Inside Georgia Power's emergency base camp FOX 5 Atlanta",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Qbzg3RGtTdHpSQzc0WlFHaWZKUkNxWjVISzczdkRqaFNhMDltdXAzOW5tM3c5cHV4NFAwdHZuVnF0d0tXMWQ5bWV2bG1mRDlaS21qaW9jbU80RF9yWWVaaGhYNjTSAWpBVV95cUxOMm85cWZOSXQ1clh1b3Q0M1dGbnZmTVpleDIyaU5BWWU3NVdQUUZKSW5YY0gtX0RaQW9pX3BlTGtYU0xQZkRYdHFuME5LZWFSeGtHUXBiTFBpa2NwOVp1V1hwcy03eFlTWFpn?oc=5\" target=\"_blank\">Inside Georgia Power's emergency base camp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-19T09:44:10+00:00"
+        "collected_at": "2026-11-19T18:46:16+00:00"
       }
     },
     {
