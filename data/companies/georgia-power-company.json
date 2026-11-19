@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-19T01:36:26+00:00",
+  "last_updated": "2026-11-19T09:44:10+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1059,
+  "count": 1061,
   "mentions": [
+    {
+      "id": "cae1a03a29bfb724",
+      "title": "Georgia Power makes donation to Go Fish Education Center - Griffin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLTA4RzlxaV8xZ2dyWlNJWmVkSWVFbmtndHZ3N3RGZ0dKYnBiMjJzbi1TeWVOdG4tTDZOSExlMXJrRGV3dWFyWUVlNHh3T2xjbFZhYUJuWUdxeHdlaXFvOEtHTmdiOTVDanluYm53NHRWRTk4eFBuc3lpQ3YzbEFZX2lNRXNoQUNYOTVSRlg2bXN6YmZ6Nkozb09BNmpuVlN6V2NTZHBnNEs5V2k1Y0t4X3ZZODZ2WlI5YjlWV1RaTW1fZ1Q1X1lJbWhBRlhLZVp3TEdmd3pnQTBja2RF?oc=5",
+      "domain": "news.google.com",
+      "source": "Griffin Daily News",
+      "language": "English",
+      "published_at": "2026-11-19T05:00:00+00:00",
+      "summary": "Georgia Power makes donation to Go Fish Education Center Griffin Daily News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLTA4RzlxaV8xZ2dyWlNJWmVkSWVFbmtndHZ3N3RGZ0dKYnBiMjJzbi1TeWVOdG4tTDZOSExlMXJrRGV3dWFyWUVlNHh3T2xjbFZhYUJuWUdxeHdlaXFvOEtHTmdiOTVDanluYm53NHRWRTk4eFBuc3lpQ3YzbEFZX2lNRXNoQUNYOTVSRlg2bXN6YmZ6Nkozb09BNmpuVlN6V2NTZHBnNEs5V2k1Y0t4X3ZZODZ2WlI5YjlWV1RaTW1fZ1Q1X1lJbWhBRlhLZVp3TEdmd3pnQTBja2RF?oc=5\" target=\"_blank\">Georgia Power makes donation to Go Fish Education Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Griffin Daily News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-19T09:44:10+00:00"
+    },
     {
       "id": "2b77e47f68faa554",
       "title": "Habersham recognizes airport employees, Georgia Power - Now Georgia",
@@ -47,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-18T00:21:50+00:00"
+    },
+    {
+      "id": "c335ed5f3cc73419",
+      "title": "US energy storage deployments for first nine months of 2026 up 20% from last year - Energy-Storage.News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWG1laF9Ya0RUVzlSMnZRM3lHNmtsOXNUS2JtUGExVGVILWZKRmtKXzFwUi1mSHRsTFNOM0NUNDlZeTV6U09JcUVhUDNqWkJ2M3pQNGhEVWtTMmhkMmhPYzF4M2ZiYUZ0VVN1eEJKTHFvbURwUkRSTTBHYWh5LUU1ZDM4OG1PcEJCRk02UUFBRkRsam5WTnlfbGlZc0xwOE56OEJoQWg3SkkyOVVvU3B6eWNxZw?oc=5",
+      "domain": "news.google.com",
+      "source": "Energy-Storage.News",
+      "language": "English",
+      "published_at": "2026-11-17T12:44:03+00:00",
+      "summary": "US energy storage deployments for first nine months of 2026 up 20% from last year Energy-Storage.News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPWG1laF9Ya0RUVzlSMnZRM3lHNmtsOXNUS2JtUGExVGVILWZKRmtKXzFwUi1mSHRsTFNOM0NUNDlZeTV6U09JcUVhUDNqWkJ2M3pQNGhEVWtTMmhkMmhPYzF4M2ZiYUZ0VVN1eEJKTHFvbURwUkRSTTBHYWh5LUU1ZDM4OG1PcEJCRk02UUFBRkRsam5WTnlfbGlZc0xwOE56OEJoQWg3SkkyOVVvU3B6eWNxZw?oc=5\" target=\"_blank\">US energy storage deployments for first nine months of 2026 up 20% from last year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy-Storage.News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-19T09:44:10+00:00"
     },
     {
       "id": "22f8f94a21951bf1",

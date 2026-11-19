@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T01:36:37+00:00",
+  "last_updated": "2026-11-19T09:44:20+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1059,
+      "count": 1061,
       "new_mentions_this_run": 8,
       "latest_mention": {
-        "id": "2b77e47f68faa554",
-        "title": "Habersham recognizes airport employees, Georgia Power - Now Georgia",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdXV5NFB6cUhaTXgyQ0ppaHprb1dGRkhqZDI0REd0NG5nVThCWVA1bkhGOElKcjgwQXNjSTZtVThKRXNYMUlfNVgyRFZGN3BKOERsREI1LXFPcVdCTVp4ZkpVdi1Ed1RYUFNjZzZDWVJFc19MQ3UwczV4LTZKQVd5QzNn?oc=5",
+        "id": "cae1a03a29bfb724",
+        "title": "Georgia Power makes donation to Go Fish Education Center - Griffin Daily News",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLTA4RzlxaV8xZ2dyWlNJWmVkSWVFbmtndHZ3N3RGZ0dKYnBiMjJzbi1TeWVOdG4tTDZOSExlMXJrRGV3dWFyWUVlNHh3T2xjbFZhYUJuWUdxeHdlaXFvOEtHTmdiOTVDanluYm53NHRWRTk4eFBuc3lpQ3YzbEFZX2lNRXNoQUNYOTVSRlg2bXN6YmZ6Nkozb09BNmpuVlN6V2NTZHBnNEs5V2k1Y0t4X3ZZODZ2WlI5YjlWV1RaTW1fZ1Q1X1lJbWhBRlhLZVp3TEdmd3pnQTBja2RF?oc=5",
         "domain": "news.google.com",
-        "source": "Now Georgia",
+        "source": "Griffin Daily News",
         "language": "English",
-        "published_at": "2026-11-19T01:30:11+00:00",
-        "summary": "Habersham recognizes airport employees, Georgia Power Now Georgia",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNdXV5NFB6cUhaTXgyQ0ppaHprb1dGRkhqZDI0REd0NG5nVThCWVA1bkhGOElKcjgwQXNjSTZtVThKRXNYMUlfNVgyRFZGN3BKOERsREI1LXFPcVdCTVp4ZkpVdi1Ed1RYUFNjZzZDWVJFc19MQ3UwczV4LTZKQVd5QzNn?oc=5\" target=\"_blank\">Habersham recognizes airport employees, Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Now Georgia</font>",
+        "published_at": "2026-11-19T05:00:00+00:00",
+        "summary": "Georgia Power makes donation to Go Fish Education Center Griffin Daily News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLTA4RzlxaV8xZ2dyWlNJWmVkSWVFbmtndHZ3N3RGZ0dKYnBiMjJzbi1TeWVOdG4tTDZOSExlMXJrRGV3dWFyWUVlNHh3T2xjbFZhYUJuWUdxeHdlaXFvOEtHTmdiOTVDanluYm53NHRWRTk4eFBuc3lpQ3YzbEFZX2lNRXNoQUNYOTVSRlg2bXN6YmZ6Nkozb09BNmpuVlN6V2NTZHBnNEs5V2k1Y0t4X3ZZODZ2WlI5YjlWV1RaTW1fZ1Q1X1lJbWhBRlhLZVp3TEdmd3pnQTBja2RF?oc=5\" target=\"_blank\">Georgia Power makes donation to Go Fish Education Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Griffin Daily News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-19T01:36:26+00:00"
+        "collected_at": "2026-11-19T09:44:10+00:00"
       }
     },
     {
