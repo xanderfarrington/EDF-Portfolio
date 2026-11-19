@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-18T18:33:53+00:00",
+  "last_updated": "2026-11-19T01:36:05+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 144,
+  "count": 145,
   "mentions": [
+    {
+      "id": "cf0210407ba1e50b",
+      "title": "Steuben County commissioners urge AEP to address community concerns before Lulu-Sorenson project advances - WPTA | 21Alive | Fort Wayne, IN",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHhCVnNFTTY5YVBoUFd3VUlISGd6V0tkWl9ISzBDV2xoZ2RGMjVxXzM2TUFCb3ZKS1FlU1lpMHBPQ19SWE1fNjRTYjNDaHkwY0M1Ni1RTHJhR2NZU0JjcXNfUnpoc1A4MVB0UVYtRUxKTFgxdHV6VklnUEhmMWNpbGpVMmEyd1l5bkl3Q1dWcmFTZ25BSWZVR3FlNmM1S3F0YWdiektjN2hHejcweWwwMmFvMnBpQUFBZ3BodE9SeTUzQnVrX29WR2ZjNTNvcFhxU0hMd2VUT3FSZ9IB7gFBVV95cUxQNnNIS1paSlJSY0x3M3JVMDE1UV8wdGNVbWpLMjlQWjExWHB1S3NKbHM5bktvT1E1SG52MmJlcmhHSmFmbjhmZGw2Z1NlNHhGWUFhZWtKZ0lwa29zTXd1S3hhTmRRX05qNEVlRTlzY1VNaVZyejJnVkVtS0hqY3RVTFZ0WUtsa2FRNjl0Q01RcDg0QlYwMG5PV3M5anUxZ3VxbVBPV2tNNm9FYk0xUS0ybEhRWnlLZE5JSTVGOGZQVXVhUkE3ZWxLcTdEZm1tbTNWWDJXYU1lTzFxYnRHNmdOOHhNd1AzSE5vWGI0cFdB?oc=5",
+      "domain": "news.google.com",
+      "source": "WPTA | 21Alive | Fort Wayne, IN",
+      "language": "English",
+      "published_at": "2026-11-18T16:04:00+00:00",
+      "summary": "Steuben County commissioners urge AEP to address community concerns before Lulu-Sorenson project advances WPTA | 21Alive | Fort Wayne, IN",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHhCVnNFTTY5YVBoUFd3VUlISGd6V0tkWl9ISzBDV2xoZ2RGMjVxXzM2TUFCb3ZKS1FlU1lpMHBPQ19SWE1fNjRTYjNDaHkwY0M1Ni1RTHJhR2NZU0JjcXNfUnpoc1A4MVB0UVYtRUxKTFgxdHV6VklnUEhmMWNpbGpVMmEyd1l5bkl3Q1dWcmFTZ25BSWZVR3FlNmM1S3F0YWdiektjN2hHejcweWwwMmFvMnBpQUFBZ3BodE9SeTUzQnVrX29WR2ZjNTNvcFhxU0hMd2VUT3FSZ9IB7gFBVV95cUxQNnNIS1paSlJSY0x3M3JVMDE1UV8wdGNVbWpLMjlQWjExWHB1S3NKbHM5bktvT1E1SG52MmJlcmhHSmFmbjhmZGw2Z1NlNHhGWUFhZWtKZ0lwa29zTXd1S3hhTmRRX05qNEVlRTlzY1VNaVZyejJnVkVtS0hqY3RVTFZ0WUtsa2FRNjl0Q01RcDg0QlYwMG5PV3M5anUxZ3VxbVBPV2tNNm9FYk0xUS0ybEhRWnlLZE5JSTVGOGZQVXVhUkE3ZWxLcTdEZm1tbTNWWDJXYU1lTzFxYnRHNmdOOHhNd1AzSE5vWGI0cFdB?oc=5\" target=\"_blank\">Steuben County commissioners urge AEP to address community concerns before Lulu-Sorenson project advances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPTA | 21Alive | Fort Wayne, IN</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-19T01:36:05+00:00"
+    },
     {
       "id": "e88468c6b03697c0",
       "title": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme - Environment Analyst",

@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-11-18T18:34:25+00:00",
+  "last_updated": "2026-11-19T01:36:37+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 144,
-      "new_mentions_this_run": 4,
+      "count": 145,
+      "new_mentions_this_run": 5,
       "latest_mention": {
-        "id": "e88468c6b03697c0",
-        "title": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme - Environment Analyst",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWZVZWpMYkgwSjJqbVh5ZFl0d0ROOGNYR0Z3aC16c3RscVFEWkFvTkhFbFZUV3pWSGcxbDA5VXBDVXRFSGctbDVjLVNsbDltUy1NTGhaTHVHUU1NNHJyajN1OUNsWFBOa1RkYVZ5dGNuVVh6NnEyYzBpZXlOUHU3NTViMGdqQU5ha3I5YW5aS1BJOENvZEpfSVkwbVZwWGhteVF2OVpBYVZoVTJ0cDVRdU1BNEpYRnM?oc=5",
+        "id": "cf0210407ba1e50b",
+        "title": "Steuben County commissioners urge AEP to address community concerns before Lulu-Sorenson project advances - WPTA | 21Alive | Fort Wayne, IN",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHhCVnNFTTY5YVBoUFd3VUlISGd6V0tkWl9ISzBDV2xoZ2RGMjVxXzM2TUFCb3ZKS1FlU1lpMHBPQ19SWE1fNjRTYjNDaHkwY0M1Ni1RTHJhR2NZU0JjcXNfUnpoc1A4MVB0UVYtRUxKTFgxdHV6VklnUEhmMWNpbGpVMmEyd1l5bkl3Q1dWcmFTZ25BSWZVR3FlNmM1S3F0YWdiektjN2hHejcweWwwMmFvMnBpQUFBZ3BodE9SeTUzQnVrX29WR2ZjNTNvcFhxU0hMd2VUT3FSZ9IB7gFBVV95cUxQNnNIS1paSlJSY0x3M3JVMDE1UV8wdGNVbWpLMjlQWjExWHB1S3NKbHM5bktvT1E1SG52MmJlcmhHSmFmbjhmZGw2Z1NlNHhGWUFhZWtKZ0lwa29zTXd1S3hhTmRRX05qNEVlRTlzY1VNaVZyejJnVkVtS0hqY3RVTFZ0WUtsa2FRNjl0Q01RcDg0QlYwMG5PV3M5anUxZ3VxbVBPV2tNNm9FYk0xUS0ybEhRWnlLZE5JSTVGOGZQVXVhUkE3ZWxLcTdEZm1tbTNWWDJXYU1lTzFxYnRHNmdOOHhNd1AzSE5vWGI0cFdB?oc=5",
         "domain": "news.google.com",
-        "source": "Environment Analyst",
+        "source": "WPTA | 21Alive | Fort Wayne, IN",
         "language": "English",
-        "published_at": "2026-11-12T12:06:00+00:00",
-        "summary": "Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme Environment Analyst",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWZVZWpMYkgwSjJqbVh5ZFl0d0ROOGNYR0Z3aC16c3RscVFEWkFvTkhFbFZUV3pWSGcxbDA5VXBDVXRFSGctbDVjLVNsbDltUy1NTGhaTHVHUU1NNHJyajN1OUNsWFBOa1RkYVZ5dGNuVVh6NnEyYzBpZXlOUHU3NTViMGdqQU5ha3I5YW5aS1BJOENvZEpfSVkwbVZwWGhteVF2OVpBYVZoVTJ0cDVRdU1BNEpYRnM?oc=5\" target=\"_blank\">Contracts roundup: Jacobs and WSP selected for AEP’s $37bn grid programme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Environment Analyst</font>",
+        "published_at": "2026-11-18T16:04:00+00:00",
+        "summary": "Steuben County commissioners urge AEP to address community concerns before Lulu-Sorenson project advances WPTA | 21Alive | Fort Wayne, IN",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHhCVnNFTTY5YVBoUFd3VUlISGd6V0tkWl9ISzBDV2xoZ2RGMjVxXzM2TUFCb3ZKS1FlU1lpMHBPQ19SWE1fNjRTYjNDaHkwY0M1Ni1RTHJhR2NZU0JjcXNfUnpoc1A4MVB0UVYtRUxKTFgxdHV6VklnUEhmMWNpbGpVMmEyd1l5bkl3Q1dWcmFTZ25BSWZVR3FlNmM1S3F0YWdiektjN2hHejcweWwwMmFvMnBpQUFBZ3BodE9SeTUzQnVrX29WR2ZjNTNvcFhxU0hMd2VUT3FSZ9IB7gFBVV95cUxQNnNIS1paSlJSY0x3M3JVMDE1UV8wdGNVbWpLMjlQWjExWHB1S3NKbHM5bktvT1E1SG52MmJlcmhHSmFmbjhmZGw2Z1NlNHhGWUFhZWtKZ0lwa29zTXd1S3hhTmRRX05qNEVlRTlzY1VNaVZyejJnVkVtS0hqY3RVTFZ0WUtsa2FRNjl0Q01RcDg0QlYwMG5PV3M5anUxZ3VxbVBPV2tNNm9FYk0xUS0ybEhRWnlLZE5JSTVGOGZQVXVhUkE3ZWxLcTdEZm1tbTNWWDJXYU1lTzFxYnRHNmdOOHhNd1AzSE5vWGI0cFdB?oc=5\" target=\"_blank\">Steuben County commissioners urge AEP to address community concerns before Lulu-Sorenson project advances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPTA | 21Alive | Fort Wayne, IN</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-12T21:59:35+00:00"
+        "collected_at": "2026-11-19T01:36:05+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 699,
-      "new_mentions_this_run": 16,
+      "count": 702,
+      "new_mentions_this_run": 21,
       "latest_mention": {
-        "id": "d77b30ac58eb199a",
-        "title": "Alabama Power Opens State’s First Grid Battery Facility - Wiregrass Daily News",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjF4RVl5QURDRGd0NDZsd25LS0ZsNV9nSFJSZVl2VHJ1QUdlZTFraGpHZ2o1UG1SMDJrZEhMREtjTVo2cVExOFk2SzBlSnNKcFp0S0FQdG9FSzUzRXRDQ05kd3pSTkY1WE8wYVZyMHZIbThMMUZHSkhBY25nRDhlLXFVdUhReF9mUEJNMFl1ejhQaGZuZXRFTXpiNm9vWTQ0ejF6Nnl5SDZ5UWlvWGZF?oc=5",
+        "id": "0a0423a981d4c6b7",
+        "title": "'They have flanked him': Country star backs Alabama landowner in eminent domain fight - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOENRM09zdEk5c2xSRE8wd2J5UFRWT2lrQmE0b1MtejQ5bk1nUEd5T1FVRHo4YzBEMlZ4Q2dsTEFpZTFmajJrZEo5NVBPNVdnMUYtRjczNHd5anN3NzlMX2NBQTRmNm1LdXBqQVlrUUZsc2FuR1F5M2VLNHB5LW8xbDhLdkNkTTdxY01MLVR3?oc=5",
         "domain": "news.google.com",
-        "source": "Wiregrass Daily News",
+        "source": "wvtm",
         "language": "English",
-        "published_at": "2026-11-18T17:18:12+00:00",
-        "summary": "Alabama Power Opens State’s First Grid Battery Facility Wiregrass Daily News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjF4RVl5QURDRGd0NDZsd25LS0ZsNV9nSFJSZVl2VHJ1QUdlZTFraGpHZ2o1UG1SMDJrZEhMREtjTVo2cVExOFk2SzBlSnNKcFp0S0FQdG9FSzUzRXRDQ05kd3pSTkY1WE8wYVZyMHZIbThMMUZHSkhBY25nRDhlLXFVdUhReF9mUEJNMFl1ejhQaGZuZXRFTXpiNm9vWTQ0ejF6Nnl5SDZ5UWlvWGZF?oc=5\" target=\"_blank\">Alabama Power Opens State’s First Grid Battery Facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiregrass Daily News</font>",
+        "published_at": "2026-11-19T00:13:00+00:00",
+        "summary": "'They have flanked him': Country star backs Alabama landowner in eminent domain fight wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQOENRM09zdEk5c2xSRE8wd2J5UFRWT2lrQmE0b1MtejQ5bk1nUEd5T1FVRHo4YzBEMlZ4Q2dsTEFpZTFmajJrZEo5NVBPNVdnMUYtRjczNHd5anN3NzlMX2NBQTRmNm1LdXBqQVlrUUZsc2FuR1F5M2VLNHB5LW8xbDhLdkNkTTdxY01MLVR3?oc=5\" target=\"_blank\">'They have flanked him': Country star backs Alabama landowner in eminent domain fight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-18T18:33:58+00:00"
+        "collected_at": "2026-11-19T01:36:10+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1057,
-      "new_mentions_this_run": 5,
+      "count": 1059,
+      "new_mentions_this_run": 8,
       "latest_mention": {
-        "id": "3d99ca505478ab3d",
-        "title": "Ronald McDonald House Coastal Empire receives $100,000 grant from Georgia Power Foundation to support ‘More Rooms, More Families’ campaign - Grice Connect",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZ3poYUMtd0xFZk9tNUsyb1d6UERORDRJbERTbUdoY3N2aS1saXVYbmlWOVM4bE1TU29pTzM5aV9rNms5eW5PQjhGNjA5dUJmYnVKQjdCRlNVVHg5NFlXbDlJQnhrZnktYlZCLXY1UUtmX3ZDbm92NFhHSHk1b3BPSzEzS21SbWM5X2NrOVNJeXZseHJYazhGbVQ0ajBSZTBnd08weFlNZ3BrZE1tNEVpSkFubm05bUlVM1B2UHEyWk1aNjV6anRhTk5KanB2WWtkQmg4UmQxc0dCZFdVYW1rLUpUNjhLS2xYR2VIV21qRVNmM1dfZHFJRUk0bXdiSEl5QUU2eFZxeTBCZG02UHo40gGUAkFVX3lxTE1CTnhJa1Nyd0Vpa3lhRWpoSEpxUmVYZ0xSSjcxbHRVb21HNUxlRGE5Q2RwTFZDZURWajlyRFBhR3pQeFNJcFYwNnpoVVphY1ZnZFlKZnlYXzNVYTJUSGhwSkRDZFVlWE43a1B1MHRjcmVWLWVsdl9jdkkzcFhmZm9MSmxZZTF5Yzhxakx4WDJzbFBBMF9fbkFNWkRVaDdldUZMeGZzMnVYZklaSVFVN2p4VjY1WTNnWnFkeTlNdTBSTVY5eDFja0N3RVAtWjFGajh3TmhucGtNOHRhem5JT083Q2RkMkZIbFBzN202N0F1X05EamhValN0Vkk5QlRVRUJjeTd1VGpQeFpQWkZUWDl0LWt2Vg?oc=5",
+        "id": "2b77e47f68faa554",
+        "title": "Habersham recognizes airport employees, Georgia Power - Now Georgia",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdXV5NFB6cUhaTXgyQ0ppaHprb1dGRkhqZDI0REd0NG5nVThCWVA1bkhGOElKcjgwQXNjSTZtVThKRXNYMUlfNVgyRFZGN3BKOERsREI1LXFPcVdCTVp4ZkpVdi1Ed1RYUFNjZzZDWVJFc19MQ3UwczV4LTZKQVd5QzNn?oc=5",
         "domain": "news.google.com",
-        "source": "Grice Connect",
+        "source": "Now Georgia",
         "language": "English",
-        "published_at": "2026-11-17T19:05:00+00:00",
-        "summary": "Ronald McDonald House Coastal Empire receives $100,000 grant from Georgia Power Foundation to support ‘More Rooms, More Families’ campaign Grice Connect",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPZ3poYUMtd0xFZk9tNUsyb1d6UERORDRJbERTbUdoY3N2aS1saXVYbmlWOVM4bE1TU29pTzM5aV9rNms5eW5PQjhGNjA5dUJmYnVKQjdCRlNVVHg5NFlXbDlJQnhrZnktYlZCLXY1UUtmX3ZDbm92NFhHSHk1b3BPSzEzS21SbWM5X2NrOVNJeXZseHJYazhGbVQ0ajBSZTBnd08weFlNZ3BrZE1tNEVpSkFubm05bUlVM1B2UHEyWk1aNjV6anRhTk5KanB2WWtkQmg4UmQxc0dCZFdVYW1rLUpUNjhLS2xYR2VIV21qRVNmM1dfZHFJRUk0bXdiSEl5QUU2eFZxeTBCZG02UHo40gGUAkFVX3lxTE1CTnhJa1Nyd0Vpa3lhRWpoSEpxUmVYZ0xSSjcxbHRVb21HNUxlRGE5Q2RwTFZDZURWajlyRFBhR3pQeFNJcFYwNnpoVVphY1ZnZFlKZnlYXzNVYTJUSGhwSkRDZFVlWE43a1B1MHRjcmVWLWVsdl9jdkkzcFhmZm9MSmxZZTF5Yzhxakx4WDJzbFBBMF9fbkFNWkRVaDdldUZMeGZzMnVYZklaSVFVN2p4VjY1WTNnWnFkeTlNdTBSTVY5eDFja0N3RVAtWjFGajh3TmhucGtNOHRhem5JT083Q2RkMkZIbFBzN202N0F1X05EamhValN0Vkk5QlRVRUJjeTd1VGpQeFpQWkZUWDl0LWt2Vg?oc=5\" target=\"_blank\">Ronald McDonald House Coastal Empire receives $100,000 grant from Georgia Power Foundation to support ‘More Rooms, More Families’ campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grice Connect</font>",
+        "published_at": "2026-11-19T01:30:11+00:00",
+        "summary": "Habersham recognizes airport employees, Georgia Power Now Georgia",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNdXV5NFB6cUhaTXgyQ0ppaHprb1dGRkhqZDI0REd0NG5nVThCWVA1bkhGOElKcjgwQXNjSTZtVThKRXNYMUlfNVgyRFZGN3BKOERsREI1LXFPcVdCTVp4ZkpVdi1Ed1RYUFNjZzZDWVJFc19MQ3UwczV4LTZKQVd5QzNn?oc=5\" target=\"_blank\">Habersham recognizes airport employees, Georgia Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Now Georgia</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-18T00:21:50+00:00"
+        "collected_at": "2026-11-19T01:36:26+00:00"
       }
     },
     {
