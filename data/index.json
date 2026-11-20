@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T18:46:26+00:00",
+  "last_updated": "2026-11-20T01:35:53+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,8 +26,8 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 704,
-      "new_mentions_this_run": 22,
+      "count": 705,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "064c401f7ecf2d06",
         "title": "Alabama Power’s latest lawsuit against Calera property owner dismissed by judge - The Auburn Plainsman",
@@ -69,7 +69,7 @@
       "slug": "crane-restart",
       "file": "data/companies/crane-restart.json",
       "count": 116,
-      "new_mentions_this_run": 1,
+      "new_mentions_this_run": 0,
       "latest_mention": {
         "id": "44f9b7556d1eb3d0",
         "title": "CEG Stock Gains On Reported $5B Nuclear Financing Offer – A Look At Some Key Highlights - TradingView",
@@ -89,42 +89,42 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1063,
-      "new_mentions_this_run": 11,
+      "count": 1066,
+      "new_mentions_this_run": 14,
       "latest_mention": {
-        "id": "559f7c6e18093ad9",
-        "title": "Inside Georgia Power's emergency base camp - FOX 5 Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Qbzg3RGtTdHpSQzc0WlFHaWZKUkNxWjVISzczdkRqaFNhMDltdXAzOW5tM3c5cHV4NFAwdHZuVnF0d0tXMWQ5bWV2bG1mRDlaS21qaW9jbU80RF9yWWVaaGhYNjTSAWpBVV95cUxOMm85cWZOSXQ1clh1b3Q0M1dGbnZmTVpleDIyaU5BWWU3NVdQUUZKSW5YY0gtX0RaQW9pX3BlTGtYU0xQZkRYdHFuME5LZWFSeGtHUXBiTFBpa2NwOVp1V1hwcy03eFlTWFpn?oc=5",
+        "id": "96a051c8d2ceacb4",
+        "title": "Georgia Power prepares for winter weather, urges customers to get storm-ready - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYlY5ZDFBN1plVU9JY2JWU0JIajZqWWE1Y21Lc1oyZmEtX3hzMS1xYTZHWVhMdkhPSmlZVXJOX25pTWgwR3p1UFFXejFCc3EzUl80Rng2TFdtQzVfUzZwOUQyS29ROVNGcXF2UVdmOG1VdXRrdFI5Ri1fZHppM0k5SjVSQTVqZkIz?oc=5",
         "domain": "news.google.com",
-        "source": "FOX 5 Atlanta",
+        "source": "AOL.com",
         "language": "English",
-        "published_at": "2026-11-19T17:11:05+00:00",
-        "summary": "Inside Georgia Power's emergency base camp FOX 5 Atlanta",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Qbzg3RGtTdHpSQzc0WlFHaWZKUkNxWjVISzczdkRqaFNhMDltdXAzOW5tM3c5cHV4NFAwdHZuVnF0d0tXMWQ5bWV2bG1mRDlaS21qaW9jbU80RF9yWWVaaGhYNjTSAWpBVV95cUxOMm85cWZOSXQ1clh1b3Q0M1dGbnZmTVpleDIyaU5BWWU3NVdQUUZKSW5YY0gtX0RaQW9pX3BlTGtYU0xQZkRYdHFuME5LZWFSeGtHUXBiTFBpa2NwOVp1V1hwcy03eFlTWFpn?oc=5\" target=\"_blank\">Inside Georgia Power's emergency base camp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+        "published_at": "2026-11-20T00:52:00+00:00",
+        "summary": "Georgia Power prepares for winter weather, urges customers to get storm-ready AOL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYlY5ZDFBN1plVU9JY2JWU0JIajZqWWE1Y21Lc1oyZmEtX3hzMS1xYTZHWVhMdkhPSmlZVXJOX25pTWgwR3p1UFFXejFCc3EzUl80Rng2TFdtQzVfUzZwOUQyS29ROVNGcXF2UVdmOG1VdXRrdFI5Ri1fZHppM0k5SjVSQTVqZkIz?oc=5\" target=\"_blank\">Georgia Power prepares for winter weather, urges customers to get storm-ready</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-19T18:46:16+00:00"
+        "collected_at": "2026-11-20T01:35:43+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 73,
-      "new_mentions_this_run": 2,
+      "count": 74,
+      "new_mentions_this_run": 4,
       "latest_mention": {
-        "id": "e225f9b4f4f5b0a0",
-        "title": "Alliant Energy to receive $5.1B in federal loans for natural gas, energy storage projects - WPR",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcHpRMXVSdWxIQjlRQmsydVIyWlhRVEtDb3NaRzV1QU9hdU5aR25mRksxclY3VWdqbUJBeEpCTVdYeDF2ZlVtMmpGazNxOHhmSmtVcGI5aHYzVGVET1VNcGhLNnpwbFpsQXY5SlI3SzhnTnIxeE90eUx0SmpMMFNqdmxDVTM1eW5LUTBNcks5OWhDZDJlRmVvUmJFaXpIeUludlE?oc=5",
+        "id": "6fafa278a3b282d6",
+        "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcnVIbFRIb3dBX0pIWW9WMDFtZzBIYkxOSUcxNTFBQkJQdDN1VGdSSkpwNUJpMks4ZV9vM0s1aUhsTWFwcXJoTHJseFdTaDhSUU9wQkpTeC1iV0tjWXlCSXRodkxoUDY4bVRJczUxTTYxSDc2cV9BdEd3OU45TkNBajBWTTMyNWpFdk9SeGN2VENlTk9wMU1QbE82bi1EOWJJUFFDX0RZWlJfcE5TLThWX2VWN2Y0Q3VEUmtpODZTZlhaSU9oUGp2bElLeXFwZWNXWjgzWWY4VUo5UFlSNmw0NjBqck1iMThGdXR3MTFZWG9aelhJaGR2S3ZiaVY0TTZVbmFsZGcxb3lwUG83Unc?oc=5",
         "domain": "news.google.com",
-        "source": "WPR",
+        "source": "TD World",
         "language": "English",
-        "published_at": "2026-11-03T11:00:00+00:00",
-        "summary": "Alliant Energy to receive $5.1B in federal loans for natural gas, energy storage projects WPR",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOcHpRMXVSdWxIQjlRQmsydVIyWlhRVEtDb3NaRzV1QU9hdU5aR25mRksxclY3VWdqbUJBeEpCTVdYeDF2ZlVtMmpGazNxOHhmSmtVcGI5aHYzVGVET1VNcGhLNnpwbFpsQXY5SlI3SzhnTnIxeE90eUx0SmpMMFNqdmxDVTM1eW5LUTBNcks5OWhDZDJlRmVvUmJFaXpIeUludlE?oc=5\" target=\"_blank\">Alliant Energy to receive $5.1B in federal loans for natural gas, energy storage projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPR</font>",
+        "published_at": "2026-11-19T21:47:01+00:00",
+        "summary": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project TD World",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOcnVIbFRIb3dBX0pIWW9WMDFtZzBIYkxOSUcxNTFBQkJQdDN1VGdSSkpwNUJpMks4ZV9vM0s1aUhsTWFwcXJoTHJseFdTaDhSUU9wQkpTeC1iV0tjWXlCSXRodkxoUDY4bVRJczUxTTYxSDc2cV9BdEd3OU45TkNBajBWTTMyNWpFdk9SeGN2VENlTk9wMU1QbE82bi1EOWJJUFFDX0RZWlJfcE5TLThWX2VWN2Y0Q3VEUmtpODZTZlhaSU9oUGp2bElLeXFwZWNXWjgzWWY4VUo5UFlSNmw0NjBqck1iMThGdXR3MTFZWG9aelhJaGR2S3ZiaVY0TTZVbmFsZGcxb3lwUG83Unc?oc=5\" target=\"_blank\">Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TD World</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-03T22:46:42+00:00"
+        "collected_at": "2026-11-20T01:35:48+00:00"
       }
     }
   ]

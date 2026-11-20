@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-19T18:46:00+00:00",
+  "last_updated": "2026-11-20T01:35:27+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 704,
+  "count": 705,
   "mentions": [
     {
       "id": "064c401f7ecf2d06",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-19T18:46:00+00:00"
+    },
+    {
+      "id": "2887a84f020845f2",
+      "title": "Katie Britt says Alabama Power rate freeze wasn’t enough: ‘More needed to be done’ - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSFB6OFJEOE5CVXRGNDdVNUdjdWlOTEpMc0x2Zkp5dEdSTXF1aVdQMEVHdkdnNFFEeUExRlEwZGdVN0RoRGNQNm9zMWpTcDFRMUpkejFXVlZUa29kdk1panJfbGtNYnlQWnduVVR6RFp4bVBSNmVsOVBWMDBYUjVEdFZTTGJPZHk3QXJHT2V2MXhhbHFzRVM5bW9vQmJTWHpzUmhUUk5GMG9HdnJsbzBGaU9waTQ0Z9IBygFBVV95cUxOcmZqV2c0MTQ4d3o1ckx4YWdHSHFVN2dFcDBfUXc4VDYwWkdnMUJZZHlaWkJISTRpNlNJaGE3cGFQZmd5TkU0WGxUNm1NNVlkMEMteFBYUVZvLWM0T1pPWGVfeTNJZGdTdnhHVEpEeWZ1S25XbVp2Zi1UZ2l4Vkg4NXI1NU1TZWZudWtJYmFsa3AzSl9EVURER19nczJ0TFVlNGxNWGFMM21rVDVNWFplUVRUbzRyaVZaV1o3bFZpSHlmZlhSRGd0d2RB?oc=5",
+      "domain": "news.google.com",
+      "source": "AL.com",
+      "language": "English",
+      "published_at": "2026-11-19T12:00:00+00:00",
+      "summary": "Katie Britt says Alabama Power rate freeze wasn’t enough: ‘More needed to be done’ AL.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOSFB6OFJEOE5CVXRGNDdVNUdjdWlOTEpMc0x2Zkp5dEdSTXF1aVdQMEVHdkdnNFFEeUExRlEwZGdVN0RoRGNQNm9zMWpTcDFRMUpkejFXVlZUa29kdk1panJfbGtNYnlQWnduVVR6RFp4bVBSNmVsOVBWMDBYUjVEdFZTTGJPZHk3QXJHT2V2MXhhbHFzRVM5bW9vQmJTWHpzUmhUUk5GMG9HdnJsbzBGaU9waTQ0Z9IBygFBVV95cUxOcmZqV2c0MTQ4d3o1ckx4YWdHSHFVN2dFcDBfUXc4VDYwWkdnMUJZZHlaWkJISTRpNlNJaGE3cGFQZmd5TkU0WGxUNm1NNVlkMEMteFBYUVZvLWM0T1pPWGVfeTNJZGdTdnhHVEpEeWZ1S25XbVp2Zi1UZ2l4Vkg4NXI1NU1TZWZudWtJYmFsa3AzSl9EVURER19nczJ0TFVlNGxNWGFMM21rVDVNWFplUVRUbzRyaVZaV1o3bFZpSHlmZlhSRGd0d2RB?oc=5\" target=\"_blank\">Katie Britt says Alabama Power rate freeze wasn’t enough: ‘More needed to be done’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-20T01:35:27+00:00"
     },
     {
       "id": "0a0423a981d4c6b7",

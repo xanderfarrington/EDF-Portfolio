@@ -2,10 +2,24 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-11-19T18:46:21+00:00",
+  "last_updated": "2026-11-20T01:35:48+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 73,
+  "count": 74,
   "mentions": [
+    {
+      "id": "6fafa278a3b282d6",
+      "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcnVIbFRIb3dBX0pIWW9WMDFtZzBIYkxOSUcxNTFBQkJQdDN1VGdSSkpwNUJpMks4ZV9vM0s1aUhsTWFwcXJoTHJseFdTaDhSUU9wQkpTeC1iV0tjWXlCSXRodkxoUDY4bVRJczUxTTYxSDc2cV9BdEd3OU45TkNBajBWTTMyNWpFdk9SeGN2VENlTk9wMU1QbE82bi1EOWJJUFFDX0RZWlJfcE5TLThWX2VWN2Y0Q3VEUmtpODZTZlhaSU9oUGp2bElLeXFwZWNXWjgzWWY4VUo5UFlSNmw0NjBqck1iMThGdXR3MTFZWG9aelhJaGR2S3ZiaVY0TTZVbmFsZGcxb3lwUG83Unc?oc=5",
+      "domain": "news.google.com",
+      "source": "TD World",
+      "language": "English",
+      "published_at": "2026-11-19T21:47:01+00:00",
+      "summary": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project TD World",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOcnVIbFRIb3dBX0pIWW9WMDFtZzBIYkxOSUcxNTFBQkJQdDN1VGdSSkpwNUJpMks4ZV9vM0s1aUhsTWFwcXJoTHJseFdTaDhSUU9wQkpTeC1iV0tjWXlCSXRodkxoUDY4bVRJczUxTTYxSDc2cV9BdEd3OU45TkNBajBWTTMyNWpFdk9SeGN2VENlTk9wMU1QbE82bi1EOWJJUFFDX0RZWlJfcE5TLThWX2VWN2Y0Q3VEUmtpODZTZlhaSU9oUGp2bElLeXFwZWNXWjgzWWY4VUo5UFlSNmw0NjBqck1iMThGdXR3MTFZWG9aelhJaGR2S3ZiaVY0TTZVbmFsZGcxb3lwUG83Unc?oc=5\" target=\"_blank\">Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TD World</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-20T01:35:48+00:00"
+    },
     {
       "id": "e225f9b4f4f5b0a0",
       "title": "Alliant Energy to receive $5.1B in federal loans for natural gas, energy storage projects - WPR",
