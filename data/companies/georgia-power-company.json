@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-20T09:31:12+00:00",
+  "last_updated": "2026-11-20T18:12:23+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1066,
+  "count": 1067,
   "mentions": [
+    {
+      "id": "eda81ca2cda9fa08",
+      "title": "Georgia Power Announces Generator Replacement at Tallulah Falls Hydroelectric Plant - energynews.pro",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHZmUlRaSzNlYlV6ekdOQjFZalBXX0xaRUFRd0hyTlZ4S2twWkNGNDJsVmx4TlBUQ1ZZWDlNUlUycWMwUEJJdzM1ZzlfQ2gtckRYR2s5SlVfQi1SV3MxQUdYZ0k5U2lIM1QtTVVHSjR1Z1R5ZURNRHF4clFlLTNSRlRPeElhNFlJOEtVdklHZkJOMlhOODhULTd4SEdzSEZKQVZsWWk1Y1QxWGRkMkE?oc=5",
+      "domain": "news.google.com",
+      "source": "energynews.pro",
+      "language": "English",
+      "published_at": "2026-11-20T02:03:26+00:00",
+      "summary": "Georgia Power Announces Generator Replacement at Tallulah Falls Hydroelectric Plant energynews.pro",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHZmUlRaSzNlYlV6ekdOQjFZalBXX0xaRUFRd0hyTlZ4S2twWkNGNDJsVmx4TlBUQ1ZZWDlNUlUycWMwUEJJdzM1ZzlfQ2gtckRYR2s5SlVfQi1SV3MxQUdYZ0k5U2lIM1QtTVVHSjR1Z1R5ZURNRHF4clFlLTNSRlRPeElhNFlJOEtVdklHZkJOMlhOODhULTd4SEdzSEZKQVZsWWk1Y1QxWGRkMkE?oc=5\" target=\"_blank\">Georgia Power Announces Generator Replacement at Tallulah Falls Hydroelectric Plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energynews.pro</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-20T18:12:23+00:00"
+    },
     {
       "id": "96a051c8d2ceacb4",
       "title": "Georgia Power prepares for winter weather, urges customers to get storm-ready - AOL.com",

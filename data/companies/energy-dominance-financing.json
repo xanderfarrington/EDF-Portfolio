@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-11-20T09:31:17+00:00",
+  "last_updated": "2026-11-20T18:12:28+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 74,
+  "count": 75,
   "mentions": [
     {
       "id": "6fafa278a3b282d6",
@@ -33,6 +33,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-03T22:46:42+00:00"
+    },
+    {
+      "id": "70b64e4eb73ad2a1",
+      "title": "DOE Issues Updated Guidance For Energy Dominance Financing Program - Legal 500",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX0dwbTFTa09zaTRkZGs0RlZRdE9YQUhhNTdUbWtUdEJNYzVWWkZZMUxITDY4WVVjSzlRNC13SW5ubnNfdzhuci1FUWpJYzNLRE9rTkdOZkhSbnk2OVNRSW9VS1d3YVpqazVuX3RrZjRwQTFNbXF6Uk1fR1Z0ZjE4OWpaUk45dTVmSWxRaENZV2lhWGY4NzhWQzJnNFRTaU1GWlc4MXJFSEs2X0tqMGRZZ2NLd1QtNkRjb2YzVm1zOVZSTHNUd1ZLN081V01NcDdqOUh0dm9QOXdidi1FUlhSMg?oc=5",
+      "domain": "news.google.com",
+      "source": "Legal 500",
+      "language": "English",
+      "published_at": "2026-11-02T21:58:22+00:00",
+      "summary": "DOE Issues Updated Guidance For Energy Dominance Financing Program Legal 500",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX0dwbTFTa09zaTRkZGs0RlZRdE9YQUhhNTdUbWtUdEJNYzVWWkZZMUxITDY4WVVjSzlRNC13SW5ubnNfdzhuci1FUWpJYzNLRE9rTkdOZkhSbnk2OVNRSW9VS1d3YVpqazVuX3RrZjRwQTFNbXF6Uk1fR1Z0ZjE4OWpaUk45dTVmSWxRaENZV2lhWGY4NzhWQzJnNFRTaU1GWlc4MXJFSEs2X0tqMGRZZ2NLd1QtNkRjb2YzVm1zOVZSTHNUd1ZLN081V01NcDdqOUh0dm9QOXdidi1FUlhSMg?oc=5\" target=\"_blank\">DOE Issues Updated Guidance For Energy Dominance Financing Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legal 500</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-20T18:12:28+00:00"
     },
     {
       "id": "00e82ed3cff0cf56",

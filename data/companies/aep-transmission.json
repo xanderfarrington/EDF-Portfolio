@@ -2,9 +2,9 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-20T09:30:50+00:00",
+  "last_updated": "2026-11-20T18:12:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 145,
+  "count": 146,
   "mentions": [
     {
       "id": "cf0210407ba1e50b",
@@ -131,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-05T01:56:15+00:00"
+    },
+    {
+      "id": "88e15f7a807df066",
+      "title": "Hunton Advises on AEP Texas Inc.’s $650M Senior Notes Offering - Hunton Andrews Kurth LLP",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWJESkZyNlg5ZndiV2lraXBXdUxwcExqaTZjUm1aVzRkODZ1NzBxSkZxRUp2M195RHFvM2xXS3BoNXVaMlZickVrNldOZGR2THFhX2QzdThhVkJ3bjhmUEZTRVMzeVpvRjdUUmRKcGxVbUZIY0hKZVlyUVJTQTRMaUhWSFgtenB0U3VlM2V6Z01pdw?oc=5",
+      "domain": "news.google.com",
+      "source": "Hunton Andrews Kurth LLP",
+      "language": "English",
+      "published_at": "2026-11-04T23:30:57+00:00",
+      "summary": "Hunton Advises on AEP Texas Inc.’s $650M Senior Notes Offering Hunton Andrews Kurth LLP",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWJESkZyNlg5ZndiV2lraXBXdUxwcExqaTZjUm1aVzRkODZ1NzBxSkZxRUp2M195RHFvM2xXS3BoNXVaMlZickVrNldOZGR2THFhX2QzdThhVkJ3bjhmUEZTRVMzeVpvRjdUUmRKcGxVbUZIY0hKZVlyUVJTQTRMaUhWSFgtenB0U3VlM2V6Z01pdw?oc=5\" target=\"_blank\">Hunton Advises on AEP Texas Inc.’s $650M Senior Notes Offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hunton Andrews Kurth LLP</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-20T18:12:01+00:00"
     },
     {
       "id": "0068c39e24523450",
