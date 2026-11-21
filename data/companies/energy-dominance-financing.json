@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-11-20T18:12:28+00:00",
+  "last_updated": "2026-11-21T01:00:56+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 75,
+  "count": 76,
   "mentions": [
     {
       "id": "6fafa278a3b282d6",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-20T18:12:28+00:00"
+    },
+    {
+      "id": "82e2d3070f5912ef",
+      "title": "Department Of Energy Releases Interim Final Rule For Energy Dominance Financing Program - Legal 500",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPc2tJTmNlQ1pDY1h1Z2JoN3NyLUZTeXlOeDN5WVhDRVdkTUtCeE5HLVlrSDJyamJsdFFjeURsd0IxZzFpSXhPUXEyMDhmWk1MbXhDTFdkZWpSaWtiSlZjakFGcjNvdi1SQjNjU3RvREdSV1locFRQUk81SmhqbEFfSkVGal9pQjFrN2Zfd0YweFpnMEx4OEd3bmltUkpWdkVIUWhNN0kzTGE4Y0tZckVIZURESHZXYW1YN29WSHFLWEtZaTViV3JJakxmek9lZlJVemVLZDNkMmd3Tnk4MU4tZklwbl9CSDFkWE1hekVndmZJVTJaenR1YTlacmU?oc=5",
+      "domain": "news.google.com",
+      "source": "Legal 500",
+      "language": "English",
+      "published_at": "2026-10-31T02:26:52+00:00",
+      "summary": "Department Of Energy Releases Interim Final Rule For Energy Dominance Financing Program Legal 500",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPc2tJTmNlQ1pDY1h1Z2JoN3NyLUZTeXlOeDN5WVhDRVdkTUtCeE5HLVlrSDJyamJsdFFjeURsd0IxZzFpSXhPUXEyMDhmWk1MbXhDTFdkZWpSaWtiSlZjakFGcjNvdi1SQjNjU3RvREdSV1locFRQUk81SmhqbEFfSkVGal9pQjFrN2Zfd0YweFpnMEx4OEd3bmltUkpWdkVIUWhNN0kzTGE4Y0tZckVIZURESHZXYW1YN29WSHFLWEtZaTViV3JJakxmek9lZlJVemVLZDNkMmd3Tnk4MU4tZklwbl9CSDFkWE1hekVndmZJVTJaenR1YTlacmU?oc=5\" target=\"_blank\">Department Of Energy Releases Interim Final Rule For Energy Dominance Financing Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legal 500</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-21T01:00:56+00:00"
     },
     {
       "id": "00e82ed3cff0cf56",

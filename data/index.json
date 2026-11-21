@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-20T18:12:33+00:00",
+  "last_updated": "2026-11-21T01:01:01+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 146,
-      "new_mentions_this_run": 14,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "cf0210407ba1e50b",
         "title": "Steuben County commissioners urge AEP to address community concerns before Lulu-Sorenson project advances - WPTA | 21Alive | Fort Wayne, IN",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 720,
+      "count": 730,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "e1b4f110876ba8fc",
-        "title": "Alabama Power proposes rate reduction; households using 1,000 kWh monthly could save $50 a year - WBRC 6 News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT3E5eXByMUV1anpvcWlVNTdJRmJ2SzAwUlFsQ0lnV1psNVZtZ2gtbEtIWFVvMUtwM09QcjRmTVhIWnE3VWJMMlBkSFRmVDJOb3A1SmJSV0FuRHUyVW5jMmxRMVZ4dUsxYVp3SmZmWk8tWUhHUmQ4SG1xMXJGbl9iRFJ6alFiclJOekpyRXRRckVDVFFIRDY1Wkc2YmNKaXp6OVpXUGxXeEt0RVBoTlJmY0pqZlpXaFZUZ3BWVHZjYXQ?oc=5",
+        "id": "c0d58f92fc61cc0d",
+        "title": "Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs - Inside Climate News",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nMU80V0hmQkw2Q1RRZEVFTDJaNEY1cFZwdFJMNFVmdVdDalpGQkRKaUdtaVBrbmJoQTFSWmJqVlBUUC1JTGFrT1lhb1MxNkNCQmxQVkc0b0JOanRlMlNpN09fZVhLQ1d2ZHZMcnU2UndIOTE0RzU4eW9JSV8?oc=5",
         "domain": "news.google.com",
-        "source": "WBRC 6 News",
+        "source": "Inside Climate News",
         "language": "English",
-        "published_at": "2026-11-20T18:09:00+00:00",
-        "summary": "Alabama Power proposes rate reduction; households using 1,000 kWh monthly could save $50 a year WBRC 6 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT3E5eXByMUV1anpvcWlVNTdJRmJ2SzAwUlFsQ0lnV1psNVZtZ2gtbEtIWFVvMUtwM09QcjRmTVhIWnE3VWJMMlBkSFRmVDJOb3A1SmJSV0FuRHUyVW5jMmxRMVZ4dUsxYVp3SmZmWk8tWUhHUmQ4SG1xMXJGbl9iRFJ6alFiclJOekpyRXRRckVDVFFIRDY1Wkc2YmNKaXp6OVpXUGxXeEt0RVBoTlJmY0pqZlpXaFZUZ3BWVHZjYXQ?oc=5\" target=\"_blank\">Alabama Power proposes rate reduction; households using 1,000 kWh monthly could save $50 a year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRC 6 News</font>",
+        "published_at": "2026-11-20T23:32:21+00:00",
+        "summary": "Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs Inside Climate News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1nMU80V0hmQkw2Q1RRZEVFTDJaNEY1cFZwdFJMNFVmdVdDalpGQkRKaUdtaVBrbmJoQTFSWmJqVlBUUC1JTGFrT1lhb1MxNkNCQmxQVkc0b0JOanRlMlNpN09fZVhLQ1d2ZHZMcnU2UndIOTE0RzU4eW9JSV8?oc=5\" target=\"_blank\">Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-20T18:12:07+00:00"
+        "collected_at": "2026-11-21T01:00:34+00:00"
       }
     },
     {
@@ -89,29 +89,29 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1067,
+      "count": 1069,
       "new_mentions_this_run": 12,
       "latest_mention": {
-        "id": "eda81ca2cda9fa08",
-        "title": "Georgia Power Announces Generator Replacement at Tallulah Falls Hydroelectric Plant - energynews.pro",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHZmUlRaSzNlYlV6ekdOQjFZalBXX0xaRUFRd0hyTlZ4S2twWkNGNDJsVmx4TlBUQ1ZZWDlNUlUycWMwUEJJdzM1ZzlfQ2gtckRYR2s5SlVfQi1SV3MxQUdYZ0k5U2lIM1QtTVVHSjR1Z1R5ZURNRHF4clFlLTNSRlRPeElhNFlJOEtVdklHZkJOMlhOODhULTd4SEdzSEZKQVZsWWk1Y1QxWGRkMkE?oc=5",
+        "id": "df490eba635c6617",
+        "title": "New commissioner wants Georgia Power to look at rates - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODBJUzAtSmxKcDdEek12Yk9iRGNfYnEwN0VlTmpoalFRTFhadl85UjJGelF4alpmbXZhUjczelExMUJCTGtYZTlLYVpxUU9CZ0JfcExPUzdtT0tTQjdidFlqeHFOcjBsbmh5VEFhZ2phTXZCc2F0eWQzZ2kxa2N1dV9Cd0V4Zm15bEpGMGFFMlhmNTJ2bUVXUDc5cXZZUQ?oc=5",
         "domain": "news.google.com",
-        "source": "energynews.pro",
+        "source": "Yahoo",
         "language": "English",
-        "published_at": "2026-11-20T02:03:26+00:00",
-        "summary": "Georgia Power Announces Generator Replacement at Tallulah Falls Hydroelectric Plant energynews.pro",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHZmUlRaSzNlYlV6ekdOQjFZalBXX0xaRUFRd0hyTlZ4S2twWkNGNDJsVmx4TlBUQ1ZZWDlNUlUycWMwUEJJdzM1ZzlfQ2gtckRYR2s5SlVfQi1SV3MxQUdYZ0k5U2lIM1QtTVVHSjR1Z1R5ZURNRHF4clFlLTNSRlRPeElhNFlJOEtVdklHZkJOMlhOODhULTd4SEdzSEZKQVZsWWk1Y1QxWGRkMkE?oc=5\" target=\"_blank\">Georgia Power Announces Generator Replacement at Tallulah Falls Hydroelectric Plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energynews.pro</font>",
+        "published_at": "2026-11-20T21:44:00+00:00",
+        "summary": "New commissioner wants Georgia Power to look at rates Yahoo",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOODBJUzAtSmxKcDdEek12Yk9iRGNfYnEwN0VlTmpoalFRTFhadl85UjJGelF4alpmbXZhUjczelExMUJCTGtYZTlLYVpxUU9CZ0JfcExPUzdtT0tTQjdidFlqeHFOcjBsbmh5VEFhZ2phTXZCc2F0eWQzZ2kxa2N1dV9Cd0V4Zm15bEpGMGFFMlhmNTJ2bUVXUDc5cXZZUQ?oc=5\" target=\"_blank\">New commissioner wants Georgia Power to look at rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-20T18:12:23+00:00"
+        "collected_at": "2026-11-21T01:00:50+00:00"
       }
     },
     {
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 75,
-      "new_mentions_this_run": 4,
+      "count": 76,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "6fafa278a3b282d6",
         "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",
