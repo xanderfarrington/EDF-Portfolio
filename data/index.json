@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T01:01:01+00:00",
+  "last_updated": "2026-11-21T09:03:58+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 730,
+      "count": 736,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "c0d58f92fc61cc0d",
-        "title": "Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs - Inside Climate News",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nMU80V0hmQkw2Q1RRZEVFTDJaNEY1cFZwdFJMNFVmdVdDalpGQkRKaUdtaVBrbmJoQTFSWmJqVlBUUC1JTGFrT1lhb1MxNkNCQmxQVkc0b0JOanRlMlNpN09fZVhLQ1d2ZHZMcnU2UndIOTE0RzU4eW9JSV8?oc=5",
+        "id": "3c70a21c790ebba7",
+        "title": "New babies, new homes, higher power bills; what Alabama Power’s rate cut means for two families - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzZDQXd3SVBsSlRqMjgtUm9nU05PVVlQLTEtbzE3cDhpWGYxRGZTVHNtbVQ3SDVMR05QcjVEV3U0WmNGTGN0Z3p6RERFSEZNcUQ1RnNrOFktbDNBTUV4SERxMXZXR3NzeWd3NXRJTkFzNHVGSEo0Ylpqc0RsTkNBeDlJTEU2andoZ054NVVsdjhLNXJ1YlJwcGdzb1RiS2RMUUlkNTN2cjdGcXJEWlhCV182Q3g?oc=5",
         "domain": "news.google.com",
-        "source": "Inside Climate News",
+        "source": "wvtm",
         "language": "English",
-        "published_at": "2026-11-20T23:32:21+00:00",
-        "summary": "Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs Inside Climate News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1nMU80V0hmQkw2Q1RRZEVFTDJaNEY1cFZwdFJMNFVmdVdDalpGQkRKaUdtaVBrbmJoQTFSWmJqVlBUUC1JTGFrT1lhb1MxNkNCQmxQVkc0b0JOanRlMlNpN09fZVhLQ1d2ZHZMcnU2UndIOTE0RzU4eW9JSV8?oc=5\" target=\"_blank\">Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>",
+        "published_at": "2026-11-21T04:37:00+00:00",
+        "summary": "New babies, new homes, higher power bills; what Alabama Power’s rate cut means for two families wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzZDQXd3SVBsSlRqMjgtUm9nU05PVVlQLTEtbzE3cDhpWGYxRGZTVHNtbVQ3SDVMR05QcjVEV3U0WmNGTGN0Z3p6RERFSEZNcUQ1RnNrOFktbDNBTUV4SERxMXZXR3NzeWd3NXRJTkFzNHVGSEo0Ylpqc0RsTkNBeDlJTEU2andoZ054NVVsdjhLNXJ1YlJwcGdzb1RiS2RMUUlkNTN2cjdGcXJEWlhCV182Q3g?oc=5\" target=\"_blank\">New babies, new homes, higher power bills; what Alabama Power’s rate cut means for two families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-21T01:00:34+00:00"
+        "collected_at": "2026-11-21T09:03:32+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1069,
+      "count": 1071,
       "new_mentions_this_run": 12,
       "latest_mention": {
-        "id": "df490eba635c6617",
-        "title": "New commissioner wants Georgia Power to look at rates - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODBJUzAtSmxKcDdEek12Yk9iRGNfYnEwN0VlTmpoalFRTFhadl85UjJGelF4alpmbXZhUjczelExMUJCTGtYZTlLYVpxUU9CZ0JfcExPUzdtT0tTQjdidFlqeHFOcjBsbmh5VEFhZ2phTXZCc2F0eWQzZ2kxa2N1dV9Cd0V4Zm15bEpGMGFFMlhmNTJ2bUVXUDc5cXZZUQ?oc=5",
+        "id": "97b6d5f9627cccc1",
+        "title": "New commissioner wants Georgia Power to look at rates - The Black Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjZic2VnOHVJbXV2OW0zYkI3US13VHdoZXZXN2NWcXRPbk9ZZjFHU18zVjhUY21LOF9QVGlKcjJFNWFiWDhDUFJsYXdHMWdPLS1KcnA2cm5UYVUtR0Y0SzZ6S0VQREk4eF9zUnFCT0tHUlZUaTFXNGswRzNiUk40Zm5PYTFBdXl4NzlPcVpGdHZwUQ?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo",
+        "source": "The Black Chronicle",
         "language": "English",
-        "published_at": "2026-11-20T21:44:00+00:00",
-        "summary": "New commissioner wants Georgia Power to look at rates Yahoo",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOODBJUzAtSmxKcDdEek12Yk9iRGNfYnEwN0VlTmpoalFRTFhadl85UjJGelF4alpmbXZhUjczelExMUJCTGtYZTlLYVpxUU9CZ0JfcExPUzdtT0tTQjdidFlqeHFOcjBsbmh5VEFhZ2phTXZCc2F0eWQzZ2kxa2N1dV9Cd0V4Zm15bEpGMGFFMlhmNTJ2bUVXUDc5cXZZUQ?oc=5\" target=\"_blank\">New commissioner wants Georgia Power to look at rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "published_at": "2026-11-21T08:45:18+00:00",
+        "summary": "New commissioner wants Georgia Power to look at rates The Black Chronicle",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONjZic2VnOHVJbXV2OW0zYkI3US13VHdoZXZXN2NWcXRPbk9ZZjFHU18zVjhUY21LOF9QVGlKcjJFNWFiWDhDUFJsYXdHMWdPLS1KcnA2cm5UYVUtR0Y0SzZ6S0VQREk4eF9zUnFCT0tHUlZUaTFXNGswRzNiUk40Zm5PYTFBdXl4NzlPcVpGdHZwUQ?oc=5\" target=\"_blank\">New commissioner wants Georgia Power to look at rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Black Chronicle</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-21T01:00:50+00:00"
+        "collected_at": "2026-11-21T09:03:48+00:00"
       }
     },
     {
