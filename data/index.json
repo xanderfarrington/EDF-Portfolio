@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T09:03:58+00:00",
+  "last_updated": "2026-11-21T17:03:04+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 736,
+      "count": 738,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "3c70a21c790ebba7",
-        "title": "New babies, new homes, higher power bills; what Alabama Power’s rate cut means for two families - wvtm",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzZDQXd3SVBsSlRqMjgtUm9nU05PVVlQLTEtbzE3cDhpWGYxRGZTVHNtbVQ3SDVMR05QcjVEV3U0WmNGTGN0Z3p6RERFSEZNcUQ1RnNrOFktbDNBTUV4SERxMXZXR3NzeWd3NXRJTkFzNHVGSEo0Ylpqc0RsTkNBeDlJTEU2andoZ054NVVsdjhLNXJ1YlJwcGdzb1RiS2RMUUlkNTN2cjdGcXJEWlhCV182Q3g?oc=5",
+        "id": "ac177871ac53203a",
+        "title": "‘A win for Alabamians’: Katie Britt says Alabama Power rate decrease… - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVW9sRFVMMjRUYl95QzZ6Tmp0bUNOclR4RXQ0cUNISkJTemJmajlUZVlSTnBaYjZNX09xSjhJWUtZOXVsX1hzaFltMFhELThDVnJwNi1JUks3bGtTX2VvaW16X2Z4VWtBaV94RzlqTTJrMDJxV01VcF9OS2hlV25HWkhCcXU4dHpOZzFOVnVSX29aSlJhS0NwbHZHckJnVU9xN0EyQVgycmpicnhxMVRQZklzcE5FNjg2c2ItdDVLQnlESWI3T1gtR1BnYm9VdE1seVVYTjZIaEduQjhzQ1pfeDF0X0FndUdjOGRj?oc=5",
         "domain": "news.google.com",
-        "source": "wvtm",
+        "source": "1819 News",
         "language": "English",
-        "published_at": "2026-11-21T04:37:00+00:00",
-        "summary": "New babies, new homes, higher power bills; what Alabama Power’s rate cut means for two families wvtm",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzZDQXd3SVBsSlRqMjgtUm9nU05PVVlQLTEtbzE3cDhpWGYxRGZTVHNtbVQ3SDVMR05QcjVEV3U0WmNGTGN0Z3p6RERFSEZNcUQ1RnNrOFktbDNBTUV4SERxMXZXR3NzeWd3NXRJTkFzNHVGSEo0Ylpqc0RsTkNBeDlJTEU2andoZ054NVVsdjhLNXJ1YlJwcGdzb1RiS2RMUUlkNTN2cjdGcXJEWlhCV182Q3g?oc=5\" target=\"_blank\">New babies, new homes, higher power bills; what Alabama Power’s rate cut means for two families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+        "published_at": "2026-11-21T11:05:27+00:00",
+        "summary": "‘A win for Alabamians’: Katie Britt says Alabama Power rate decrease… 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVW9sRFVMMjRUYl95QzZ6Tmp0bUNOclR4RXQ0cUNISkJTemJmajlUZVlSTnBaYjZNX09xSjhJWUtZOXVsX1hzaFltMFhELThDVnJwNi1JUks3bGtTX2VvaW16X2Z4VWtBaV94RzlqTTJrMDJxV01VcF9OS2hlV25HWkhCcXU4dHpOZzFOVnVSX29aSlJhS0NwbHZHckJnVU9xN0EyQVgycmpicnhxMVRQZklzcE5FNjg2c2ItdDVLQnlESWI3T1gtR1BnYm9VdE1seVVYTjZIaEduQjhzQ1pfeDF0X0FndUdjOGRj?oc=5\" target=\"_blank\">‘A win for Alabamians’: Katie Britt says Alabama Power rate decrease…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-21T09:03:32+00:00"
+        "collected_at": "2026-11-21T17:02:37+00:00"
       }
     },
     {
