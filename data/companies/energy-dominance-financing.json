@@ -2,9 +2,9 @@
   "company": "Energy Dominance Financing",
   "slug": "energy-dominance-financing",
   "query": "\"Energy Dominance Financing\" OR \"energy dominance financing\"",
-  "last_updated": "2026-11-21T17:02:59+00:00",
+  "last_updated": "2026-11-21T22:40:45+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 76,
+  "count": 77,
   "mentions": [
     {
       "id": "6fafa278a3b282d6",
@@ -47,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-20T18:12:28+00:00"
+    },
+    {
+      "id": "0acf9a596136f874",
+      "title": "DOE’s Office of Energy Dominance Financing: What Energy & Critical Minerals Developers Need to Know - Legal 500",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZEFZTU9GY25WXzFCbzN2S1VpTHhsdVVLYVNTeDg0Y2pyT2NoVGhZSWx0ZjdObDlDR0xuY01jTHpZbm1CX1Z1eHVWa01SbE9SdU9BdldVZXJGR25sVGh3Y0UzSmpoa05vMWx3dlJiaUl1bEFWeGwzcl90U29NbW5xRllZOEhVUUJRY1BXY2VfaWI1TjFqUVVNemN3UzA1V3hlS29KYkZjYUJkek1fQkFaYWZ0S2Y2YXRCR0lNYlJWWk10SUZPR2lIdzFxYWtMUkJ2N3prdk0zU2Y2dXdtMWF5UHFhUGpsNUlnNnlUdFhNQjZURmhtM2V4aVZpd3NxRlJlV0xSTW14VQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Legal 500",
+      "language": "English",
+      "published_at": "2026-11-02T05:28:33+00:00",
+      "summary": "DOE’s Office of Energy Dominance Financing: What Energy & Critical Minerals Developers Need to Know Legal 500",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQZEFZTU9GY25WXzFCbzN2S1VpTHhsdVVLYVNTeDg0Y2pyT2NoVGhZSWx0ZjdObDlDR0xuY01jTHpZbm1CX1Z1eHVWa01SbE9SdU9BdldVZXJGR25sVGh3Y0UzSmpoa05vMWx3dlJiaUl1bEFWeGwzcl90U29NbW5xRllZOEhVUUJRY1BXY2VfaWI1TjFqUVVNemN3UzA1V3hlS29KYkZjYUJkek1fQkFaYWZ0S2Y2YXRCR0lNYlJWWk10SUZPR2lIdzFxYWtMUkJ2N3prdk0zU2Y2dXdtMWF5UHFhUGpsNUlnNnlUdFhNQjZURmhtM2V4aVZpd3NxRlJlV0xSTW14VQ?oc=5\" target=\"_blank\">DOE’s Office of Energy Dominance Financing: What Energy & Critical Minerals Developers Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legal 500</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-21T22:40:45+00:00"
     },
     {
       "id": "82e2d3070f5912ef",

@@ -2,10 +2,52 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-21T17:02:37+00:00",
+  "last_updated": "2026-11-21T22:40:24+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 738,
+  "count": 743,
   "mentions": [
+    {
+      "id": "d85f6ed6caa58525",
+      "title": "‘Customers should not be fooled’: So-called clean energy group slams… - 1819 News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXpuTkdxNlpvVmpuQnpxaV81V2I4YzRic21OWXNGUnFoVlp1dEc1QVdqeW8tQ19rZm5qel9FclRlSVAwblZTUW9kSWszT1FCNUYwcmExOUNYS1NjZkgwSWROT3p2SHNnVDVkcE5ROW05UURTUjhDSTl6SDBxeFZ6WmxfMXE0QUl1VHZ2dTdFcDJzbFhqd1lnLXlhNmxJeEV2UXV0a05MVGZRaW5ud0tYUE5NSDRvZmhqOUtmTGhHakJiZGp6Z1R5elY0TGpPV3ZiSDFJNmxPSDN2Z3pU?oc=5",
+      "domain": "news.google.com",
+      "source": "1819 News",
+      "language": "English",
+      "published_at": "2026-11-21T20:05:29+00:00",
+      "summary": "‘Customers should not be fooled’: So-called clean energy group slams… 1819 News",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXpuTkdxNlpvVmpuQnpxaV81V2I4YzRic21OWXNGUnFoVlp1dEc1QVdqeW8tQ19rZm5qel9FclRlSVAwblZTUW9kSWszT1FCNUYwcmExOUNYS1NjZkgwSWROT3p2SHNnVDVkcE5ROW05UURTUjhDSTl6SDBxeFZ6WmxfMXE0QUl1VHZ2dTdFcDJzbFhqd1lnLXlhNmxJeEV2UXV0a05MVGZRaW5ud0tYUE5NSDRvZmhqOUtmTGhHakJiZGp6Z1R5elY0TGpPV3ZiSDFJNmxPSDN2Z3pU?oc=5\" target=\"_blank\">‘Customers should not be fooled’: So-called clean energy group slams…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-21T22:40:24+00:00"
+    },
+    {
+      "id": "978f8df87148d5fa",
+      "title": "Alabama Power says it will lower rates in 2027 - WAKA 8",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONnhQMDIwUkkyajNxZ25sM2JwWExFM0pSWXBLdVoxN3Y0TXpreFBHLTI2OFZxNnJLbzVOaVdaZEFQbUZ4aElaQW1HLTNxRFdERTZ5UWZjdDQ1NlBub3NpZGdQeklKdHA5eVBBVFZiMTdlT3UySE01aG9mMVF5SEVuSW1Yd215Zw?oc=5",
+      "domain": "news.google.com",
+      "source": "WAKA 8",
+      "language": "English",
+      "published_at": "2026-11-21T18:27:02+00:00",
+      "summary": "Alabama Power says it will lower rates in 2027 WAKA 8",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONnhQMDIwUkkyajNxZ25sM2JwWExFM0pSWXBLdVoxN3Y0TXpreFBHLTI2OFZxNnJLbzVOaVdaZEFQbUZ4aElaQW1HLTNxRFdERTZ5UWZjdDQ1NlBub3NpZGdQeklKdHA5eVBBVFZiMTdlT3UySE01aG9mMVF5SEVuSW1Yd215Zw?oc=5\" target=\"_blank\">Alabama Power says it will lower rates in 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAKA 8</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-21T22:40:24+00:00"
+    },
+    {
+      "id": "4f30adbb84c39718",
+      "title": "Alabama Power reports 2027 rate reduction - WHNT News 19",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeEZxQkQ2dWRsaXlRM3JPTzIwVjhaa2gtN2lnSEZhQm4zLVVqc3B5Uzk0T2FYMk4wMC1tbFJKVGNxWXVzd2NKaU5YWDZDTlZRVklzX1NaWEZ1OGktSUxBQzVVZEdzR3FiT0dodndEYkVSSnAyaTRZaTFMZ2dRdWw5b19BUdIBiAFBVV95cUxPdTROS2lDZkFYbW1PUjVBMmExTFVhcUhmVzNlVmRsSUhMVVVZZE02NGNVbjZPTTZQancwV0pQQ2lMLVQ3OWsyM20zTUJ1ZXpWMEp1dXpHTGxBdTBnM1kwNmkwS1RCQ2JYd0FEWTQ3UEVORE10cnVZZEZ5X2Exbk1NQ0tNYkFhdDlU?oc=5",
+      "domain": "news.google.com",
+      "source": "WHNT News 19",
+      "language": "English",
+      "published_at": "2026-11-21T17:05:32+00:00",
+      "summary": "Alabama Power reports 2027 rate reduction WHNT News 19",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOeEZxQkQ2dWRsaXlRM3JPTzIwVjhaa2gtN2lnSEZhQm4zLVVqc3B5Uzk0T2FYMk4wMC1tbFJKVGNxWXVzd2NKaU5YWDZDTlZRVklzX1NaWEZ1OGktSUxBQzVVZEdzR3FiT0dodndEYkVSSnAyaTRZaTFMZ2dRdWw5b19BUdIBiAFBVV95cUxPdTROS2lDZkFYbW1PUjVBMmExTFVhcUhmVzNlVmRsSUhMVVVZZE02NGNVbjZPTTZQancwV0pQQ2lMLVQ3OWsyM20zTUJ1ZXpWMEp1dXpHTGxBdTBnM1kwNmkwS1RCQ2JYd0FEWTQ3UEVORE10cnVZZEZ5X2Exbk1NQ0tNYkFhdDlU?oc=5\" target=\"_blank\">Alabama Power reports 2027 rate reduction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHNT News 19</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-21T22:40:24+00:00"
+    },
     {
       "id": "ac177871ac53203a",
       "title": "‘A win for Alabamians’: Katie Britt says Alabama Power rate decrease… - 1819 News",
@@ -63,6 +105,20 @@
       "collected_at": "2026-11-21T09:03:32+00:00"
     },
     {
+      "id": "3ff548996762c385",
+      "title": "Tuberville says new industry can help lower Alabama power bills - WTVM.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa25TRVExM1N6b3d6ZVBNLVRFelV4eUFqbHBmWjFaMm82cG1KS1I4bkhmbk9iZDJnT1hJblI0aDF1TW1DYS1rTlE1YXN6OWZCSEJWSXdEcDFrRXpfaGpVbFM2T0RUUi1DUGRydEMwVVFfY1F6SkNKSGtfR09uZWU3QkFwdjJLb3VSam5rSERuTGYwa3ZfVHhGb0VXcXfSAbABQVVfeXFMTkcyOVNzeGVjSE54QTFKcWVUMkl3QmlQM0hQMmRLZ3hVaGJxV0ZtdUF1MWpJUGlLV0Q2ZlNfTWZ3UkRnUEtHZXJPZEpZTTZZU0pZZ0JVd1RNeEpCRHhST01SVEozR2lDZ1pDbXk5Si0yZl9scDlxeTU5WkZyUnVvcTVnc0JpMVV3cVZ1cG96Sl9tNFJKNjg2M3dpZWZxQkU5NlRFdHB5N2R1U2wxSURIVVU?oc=5",
+      "domain": "news.google.com",
+      "source": "WTVM.com",
+      "language": "English",
+      "published_at": "2026-11-21T01:06:00+00:00",
+      "summary": "Tuberville says new industry can help lower Alabama power bills WTVM.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQa25TRVExM1N6b3d6ZVBNLVRFelV4eUFqbHBmWjFaMm82cG1KS1I4bkhmbk9iZDJnT1hJblI0aDF1TW1DYS1rTlE1YXN6OWZCSEJWSXdEcDFrRXpfaGpVbFM2T0RUUi1DUGRydEMwVVFfY1F6SkNKSGtfR09uZWU3QkFwdjJLb3VSam5rSERuTGYwa3ZfVHhGb0VXcXfSAbABQVVfeXFMTkcyOVNzeGVjSE54QTFKcWVUMkl3QmlQM0hQMmRLZ3hVaGJxV0ZtdUF1MWpJUGlLV0Q2ZlNfTWZ3UkRnUEtHZXJPZEpZTTZZU0pZZ0JVd1RNeEpCRHhST01SVEozR2lDZ1pDbXk5Si0yZl9scDlxeTU5WkZyUnVvcTVnc0JpMVV3cVZ1cG96Sl9tNFJKNjg2M3dpZWZxQkU5NlRFdHB5N2R1U2wxSURIVVU?oc=5\" target=\"_blank\">Tuberville says new industry can help lower Alabama power bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-21T22:40:24+00:00"
+    },
+    {
       "id": "20750dd11f170eca",
       "title": "Tuberville says new industry can help lower Alabama power bills - fox10tv.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEh4azRmVjNwQ3RiUlJaa3VkVzdlN1U4Y3gtaVBva3pwNk1QeTlWR05SNzZUVklPSkYxV21hMzIzVkZDcTlZTUFhVHdRYWxTaGx6ZUlyTkFCeF85aWtPLVlBQ19QYnNoRVlZZjRYQlRNQTNGOGxRQU1IVFhER044MDRUVFJ2X2Fha3FzaXA0UUMzd3IyZGR1dUFNcDdLTDZTeExqaTlaRno?oc=5",
@@ -75,6 +131,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-21T17:02:37+00:00"
+    },
+    {
+      "id": "048504b945017694",
+      "title": "Tuberville says new industry can help lower Alabama power bills - WTVY",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU196aFhNeE5SV0hlNGdGMzJ1cE1DM2V0YVBSNjZueUZ5dEwzdlMtTlluUTdfYlU3LUpkWExMUEtwUE5qQTlWVVlRVDg1LVprZ002MWdxNjJNNTNrVkx4c3hpVDhYS1hVWDdQdF9UUlk3djFEcC1fNnk3b2xMTmNpYzVtZEVwNGxlUC1CSXlKWnMzbmJaUkxnT045WU9VT2JLaG5GRw?oc=5",
+      "domain": "news.google.com",
+      "source": "WTVY",
+      "language": "English",
+      "published_at": "2026-11-21T00:32:00+00:00",
+      "summary": "Tuberville says new industry can help lower Alabama power bills WTVY",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNU196aFhNeE5SV0hlNGdGMzJ1cE1DM2V0YVBSNjZueUZ5dEwzdlMtTlluUTdfYlU3LUpkWExMUEtwUE5qQTlWVVlRVDg1LVprZ002MWdxNjJNNTNrVkx4c3hpVDhYS1hVWDdQdF9UUlk3djFEcC1fNnk3b2xMTmNpYzVtZEVwNGxlUC1CSXlKWnMzbmJaUkxnT045WU9VT2JLaG5GRw?oc=5\" target=\"_blank\">Tuberville says new industry can help lower Alabama power bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVY</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-21T22:40:24+00:00"
     },
     {
       "id": "7f4dce5b0e357a92",

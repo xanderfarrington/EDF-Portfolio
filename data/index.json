@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T17:03:04+00:00",
+  "last_updated": "2026-11-21T22:40:50+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 738,
+      "count": 743,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "ac177871ac53203a",
-        "title": "‘A win for Alabamians’: Katie Britt says Alabama Power rate decrease… - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVW9sRFVMMjRUYl95QzZ6Tmp0bUNOclR4RXQ0cUNISkJTemJmajlUZVlSTnBaYjZNX09xSjhJWUtZOXVsX1hzaFltMFhELThDVnJwNi1JUks3bGtTX2VvaW16X2Z4VWtBaV94RzlqTTJrMDJxV01VcF9OS2hlV25HWkhCcXU4dHpOZzFOVnVSX29aSlJhS0NwbHZHckJnVU9xN0EyQVgycmpicnhxMVRQZklzcE5FNjg2c2ItdDVLQnlESWI3T1gtR1BnYm9VdE1seVVYTjZIaEduQjhzQ1pfeDF0X0FndUdjOGRj?oc=5",
+        "id": "d85f6ed6caa58525",
+        "title": "‘Customers should not be fooled’: So-called clean energy group slams… - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXpuTkdxNlpvVmpuQnpxaV81V2I4YzRic21OWXNGUnFoVlp1dEc1QVdqeW8tQ19rZm5qel9FclRlSVAwblZTUW9kSWszT1FCNUYwcmExOUNYS1NjZkgwSWROT3p2SHNnVDVkcE5ROW05UURTUjhDSTl6SDBxeFZ6WmxfMXE0QUl1VHZ2dTdFcDJzbFhqd1lnLXlhNmxJeEV2UXV0a05MVGZRaW5ud0tYUE5NSDRvZmhqOUtmTGhHakJiZGp6Z1R5elY0TGpPV3ZiSDFJNmxPSDN2Z3pU?oc=5",
         "domain": "news.google.com",
         "source": "1819 News",
         "language": "English",
-        "published_at": "2026-11-21T11:05:27+00:00",
-        "summary": "‘A win for Alabamians’: Katie Britt says Alabama Power rate decrease… 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVW9sRFVMMjRUYl95QzZ6Tmp0bUNOclR4RXQ0cUNISkJTemJmajlUZVlSTnBaYjZNX09xSjhJWUtZOXVsX1hzaFltMFhELThDVnJwNi1JUks3bGtTX2VvaW16X2Z4VWtBaV94RzlqTTJrMDJxV01VcF9OS2hlV25HWkhCcXU4dHpOZzFOVnVSX29aSlJhS0NwbHZHckJnVU9xN0EyQVgycmpicnhxMVRQZklzcE5FNjg2c2ItdDVLQnlESWI3T1gtR1BnYm9VdE1seVVYTjZIaEduQjhzQ1pfeDF0X0FndUdjOGRj?oc=5\" target=\"_blank\">‘A win for Alabamians’: Katie Britt says Alabama Power rate decrease…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-11-21T20:05:29+00:00",
+        "summary": "‘Customers should not be fooled’: So-called clean energy group slams… 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXpuTkdxNlpvVmpuQnpxaV81V2I4YzRic21OWXNGUnFoVlp1dEc1QVdqeW8tQ19rZm5qel9FclRlSVAwblZTUW9kSWszT1FCNUYwcmExOUNYS1NjZkgwSWROT3p2SHNnVDVkcE5ROW05UURTUjhDSTl6SDBxeFZ6WmxfMXE0QUl1VHZ2dTdFcDJzbFhqd1lnLXlhNmxJeEV2UXV0a05MVGZRaW5ud0tYUE5NSDRvZmhqOUtmTGhHakJiZGp6Z1R5elY0TGpPV3ZiSDFJNmxPSDN2Z3pU?oc=5\" target=\"_blank\">‘Customers should not be fooled’: So-called clean energy group slams…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-21T17:02:37+00:00"
+        "collected_at": "2026-11-21T22:40:24+00:00"
       }
     },
     {
@@ -110,8 +110,8 @@
       "name": "Energy Dominance Financing",
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
-      "count": 76,
-      "new_mentions_this_run": 5,
+      "count": 77,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "6fafa278a3b282d6",
         "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",
