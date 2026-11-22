@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-21T22:40:50+00:00",
+  "last_updated": "2026-11-22T04:35:43+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 146,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "cf0210407ba1e50b",
         "title": "Steuben County commissioners urge AEP to address community concerns before Lulu-Sorenson project advances - WPTA | 21Alive | Fort Wayne, IN",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1071,
-      "new_mentions_this_run": 12,
+      "new_mentions_this_run": 13,
       "latest_mention": {
         "id": "97b6d5f9627cccc1",
         "title": "New commissioner wants Georgia Power to look at rates - The Black Chronicle",
