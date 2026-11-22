@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T04:35:43+00:00",
+  "last_updated": "2026-11-22T13:54:31+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 743,
+      "count": 744,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "d85f6ed6caa58525",
-        "title": "‘Customers should not be fooled’: So-called clean energy group slams… - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXpuTkdxNlpvVmpuQnpxaV81V2I4YzRic21OWXNGUnFoVlp1dEc1QVdqeW8tQ19rZm5qel9FclRlSVAwblZTUW9kSWszT1FCNUYwcmExOUNYS1NjZkgwSWROT3p2SHNnVDVkcE5ROW05UURTUjhDSTl6SDBxeFZ6WmxfMXE0QUl1VHZ2dTdFcDJzbFhqd1lnLXlhNmxJeEV2UXV0a05MVGZRaW5ud0tYUE5NSDRvZmhqOUtmTGhHakJiZGp6Z1R5elY0TGpPV3ZiSDFJNmxPSDN2Z3pU?oc=5",
+        "id": "30662774d1fa4235",
+        "title": "Pro-Tem Gudger credits Senate bill for 2027 Alabama Power rate cut |… - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWRTMmRfVW5mOG4zcUp0U0M3S2FfVW9IR2ZwWUxLUWJ2dzhjcUVDeEFteGYwcU9uWTBwNG5kZGxvWWJaYWZhV1FORkRkOHBBQkhEOW8tSk5GNXItdlZmVW5xNFhLUUUwWVAxZFVMbnk5T0ZzbVdFZGdzSEpQN1dscEZPRkRwYzVPQkVNX0MxdXMxSW9hSHp5RjVNS2FCZTZiTTlsbEVsbw?oc=5",
         "domain": "news.google.com",
         "source": "1819 News",
         "language": "English",
-        "published_at": "2026-11-21T20:05:29+00:00",
-        "summary": "‘Customers should not be fooled’: So-called clean energy group slams… 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXpuTkdxNlpvVmpuQnpxaV81V2I4YzRic21OWXNGUnFoVlp1dEc1QVdqeW8tQ19rZm5qel9FclRlSVAwblZTUW9kSWszT1FCNUYwcmExOUNYS1NjZkgwSWROT3p2SHNnVDVkcE5ROW05UURTUjhDSTl6SDBxeFZ6WmxfMXE0QUl1VHZ2dTdFcDJzbFhqd1lnLXlhNmxJeEV2UXV0a05MVGZRaW5ud0tYUE5NSDRvZmhqOUtmTGhHakJiZGp6Z1R5elY0TGpPV3ZiSDFJNmxPSDN2Z3pU?oc=5\" target=\"_blank\">‘Customers should not be fooled’: So-called clean energy group slams…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-11-22T11:05:30+00:00",
+        "summary": "Pro-Tem Gudger credits Senate bill for 2027 Alabama Power rate cut |… 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWRTMmRfVW5mOG4zcUp0U0M3S2FfVW9IR2ZwWUxLUWJ2dzhjcUVDeEFteGYwcU9uWTBwNG5kZGxvWWJaYWZhV1FORkRkOHBBQkhEOW8tSk5GNXItdlZmVW5xNFhLUUUwWVAxZFVMbnk5T0ZzbVdFZGdzSEpQN1dscEZPRkRwYzVPQkVNX0MxdXMxSW9hSHp5RjVNS2FCZTZiTTlsbEVsbw?oc=5\" target=\"_blank\">Pro-Tem Gudger credits Senate bill for 2027 Alabama Power rate cut |…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-21T22:40:24+00:00"
+        "collected_at": "2026-11-22T13:54:05+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1071,
-      "new_mentions_this_run": 13,
+      "new_mentions_this_run": 9,
       "latest_mention": {
         "id": "97b6d5f9627cccc1",
         "title": "New commissioner wants Georgia Power to look at rates - The Black Chronicle",
