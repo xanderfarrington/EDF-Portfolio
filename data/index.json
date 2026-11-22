@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T13:54:31+00:00",
+  "last_updated": "2026-11-22T20:32:55+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 744,
-      "new_mentions_this_run": 24,
+      "count": 746,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "30662774d1fa4235",
-        "title": "Pro-Tem Gudger credits Senate bill for 2027 Alabama Power rate cut |… - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWRTMmRfVW5mOG4zcUp0U0M3S2FfVW9IR2ZwWUxLUWJ2dzhjcUVDeEFteGYwcU9uWTBwNG5kZGxvWWJaYWZhV1FORkRkOHBBQkhEOW8tSk5GNXItdlZmVW5xNFhLUUUwWVAxZFVMbnk5T0ZzbVdFZGdzSEpQN1dscEZPRkRwYzVPQkVNX0MxdXMxSW9hSHp5RjVNS2FCZTZiTTlsbEVsbw?oc=5",
+        "id": "888b52d3292427cf",
+        "title": "ALDOT backs Alabama Power in Fenn Church standoff with brief in Supreme Court - 1819 News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMXQ1Y2ltNnk3Y0k2eEtpNmV2TVM1czdHRHE5UXV4N0hpcVdqQlVyV3N6TlNhbmhZOWw3MnRqYXcyZkZ3MmNBcm9yd1lYOTg4RTBzS2R1M1VpdTNqZmhCLXRxTkF4Q05uYW91cGxDVE9PdzVNU1hyM25LV1ZhY3Q1MU5mQkQ3Yk5SWXFpcS1LdFNvWHFSMnBxb1NNRTl2Nno2QVVMbFNaUU5oRjdk?oc=5",
         "domain": "news.google.com",
         "source": "1819 News",
         "language": "English",
-        "published_at": "2026-11-22T11:05:30+00:00",
-        "summary": "Pro-Tem Gudger credits Senate bill for 2027 Alabama Power rate cut |… 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWRTMmRfVW5mOG4zcUp0U0M3S2FfVW9IR2ZwWUxLUWJ2dzhjcUVDeEFteGYwcU9uWTBwNG5kZGxvWWJaYWZhV1FORkRkOHBBQkhEOW8tSk5GNXItdlZmVW5xNFhLUUUwWVAxZFVMbnk5T0ZzbVdFZGdzSEpQN1dscEZPRkRwYzVPQkVNX0MxdXMxSW9hSHp5RjVNS2FCZTZiTTlsbEVsbw?oc=5\" target=\"_blank\">Pro-Tem Gudger credits Senate bill for 2027 Alabama Power rate cut |…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-11-22T20:05:30+00:00",
+        "summary": "ALDOT backs Alabama Power in Fenn Church standoff with brief in Supreme Court 1819 News",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMXQ1Y2ltNnk3Y0k2eEtpNmV2TVM1czdHRHE5UXV4N0hpcVdqQlVyV3N6TlNhbmhZOWw3MnRqYXcyZkZ3MmNBcm9yd1lYOTg4RTBzS2R1M1VpdTNqZmhCLXRxTkF4Q05uYW91cGxDVE9PdzVNU1hyM25LV1ZhY3Q1MU5mQkQ3Yk5SWXFpcS1LdFNvWHFSMnBxb1NNRTl2Nno2QVVMbFNaUU5oRjdk?oc=5\" target=\"_blank\">ALDOT backs Alabama Power in Fenn Church standoff with brief in Supreme Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-22T13:54:05+00:00"
+        "collected_at": "2026-11-22T20:32:29+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1071,
-      "new_mentions_this_run": 9,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "97b6d5f9627cccc1",
         "title": "New commissioner wants Georgia Power to look at rates - The Black Chronicle",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 77,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "6fafa278a3b282d6",
         "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",
