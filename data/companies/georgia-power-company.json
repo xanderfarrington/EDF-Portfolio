@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-22T20:32:45+00:00",
+  "last_updated": "2026-11-23T02:07:44+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1071,
+  "count": 1075,
   "mentions": [
     {
       "id": "97b6d5f9627cccc1",
@@ -49,6 +49,34 @@
       "collected_at": "2026-11-21T01:00:50+00:00"
     },
     {
+      "id": "2289ccbba05478ae",
+      "title": "New commissioner wants Georgia Power to look at rates - The Center Square",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcVpzM1g3VTRzMi1NamNaZ2VBaWQ2N1ZqY3dvSEt4TjNXb0ZubFdlcEhLNzhJRzhUa28yREl3bVVmV25sZkdNZldHRjdQa19jLVdkemVFSXdIeERVaG8xcXA5ZUZ5VTEya3RMTWh1OWdCd1RFZ1hSdnRsaVdiX25LaXVLTWdVaG56cTdzZzM1bGRSd0XSAZgBQVVfeXFMUHF1cVFuNTBydnd1NFl2OUZCZWdrNDI2VjRyNE5FWkdFbGRqRDFPcmN5NUFtRktVWTJ1RFNOSFdLeTZoZWRHXzR5UDJFTXQ0ZzJPNlFMNEZpUXJDLTJUNFpqTHZGR0Q2Vy15OVZscldVc2VnMmlaal9ESEx0RWZMMHVMaDdTQUJYMzJpNmU4RktLSnFKdENUYlE?oc=5",
+      "domain": "news.google.com",
+      "source": "The Center Square",
+      "language": "English",
+      "published_at": "2026-11-20T21:44:00+00:00",
+      "summary": "New commissioner wants Georgia Power to look at rates The Center Square",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOcVpzM1g3VTRzMi1NamNaZ2VBaWQ2N1ZqY3dvSEt4TjNXb0ZubFdlcEhLNzhJRzhUa28yREl3bVVmV25sZkdNZldHRjdQa19jLVdkemVFSXdIeERVaG8xcXA5ZUZ5VTEya3RMTWh1OWdCd1RFZ1hSdnRsaVdiX25LaXVLTWdVaG56cTdzZzM1bGRSd0XSAZgBQVVfeXFMUHF1cVFuNTBydnd1NFl2OUZCZWdrNDI2VjRyNE5FWkdFbGRqRDFPcmN5NUFtRktVWTJ1RFNOSFdLeTZoZWRHXzR5UDJFTXQ0ZzJPNlFMNEZpUXJDLTJUNFpqTHZGR0Q2Vy15OVZscldVc2VnMmlaal9ESEx0RWZMMHVMaDdTQUJYMzJpNmU4RktLSnFKdENUYlE?oc=5\" target=\"_blank\">New commissioner wants Georgia Power to look at rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Center Square</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-23T02:07:44+00:00"
+    },
+    {
+      "id": "3c6094017332473e",
+      "title": "Georgia Power prepares for winter weather, urges customers to get storm-ready - WRBL",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdVp2bkZycTZZOEFqS0lHYTlJbXRQeGRndUFkdldrSFZ6MDZSRHRHVVlhR3ROUnVEMF9SX3BjWXRDVC15LWI5X0pRdklCMm54dzUzVXJ0TnJ3R2ptTzA1em96Q3pDTlhWd254MURmM1JSamRuSEptcHR5NTdVR3RBeVJpbEo2UjRrSXNTcmFvQmlKMlZISkhZSGN6Y1FuY0x6Z1dYTEl30gGrAUFVX3lxTFBUN0FMNXFYSHpDaGtyeEctN1loYUtnNXBfdER1QnZYSXUyVHE3OW5URHpWUFJDU19GX0VXeVp1aVNERjR2M0I4bWlhaGlIanB1cEN0bERUNUN4bFlTdW56Wmp4ZUg5U0VmR1RHMm5KeXpNTWdoc0NLeWw5bW9DaFVzTjh4OENObC12YWo0d21RNTBpc2Z5dDI3M0xHcW9tUFpOeVE2MjJWNmVjQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "WRBL",
+      "language": "English",
+      "published_at": "2026-11-20T14:18:28+00:00",
+      "summary": "Georgia Power prepares for winter weather, urges customers to get storm-ready WRBL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdVp2bkZycTZZOEFqS0lHYTlJbXRQeGRndUFkdldrSFZ6MDZSRHRHVVlhR3ROUnVEMF9SX3BjWXRDVC15LWI5X0pRdklCMm54dzUzVXJ0TnJ3R2ptTzA1em96Q3pDTlhWd254MURmM1JSamRuSEptcHR5NTdVR3RBeVJpbEo2UjRrSXNTcmFvQmlKMlZISkhZSGN6Y1FuY0x6Z1dYTEl30gGrAUFVX3lxTFBUN0FMNXFYSHpDaGtyeEctN1loYUtnNXBfdER1QnZYSXUyVHE3OW5URHpWUFJDU19GX0VXeVp1aVNERjR2M0I4bWlhaGlIanB1cEN0bERUNUN4bFlTdW56Wmp4ZUg5U0VmR1RHMm5KeXpNTWdoc0NLeWw5bW9DaFVzTjh4OENObC12YWo0d21RNTBpc2Z5dDI3M0xHcW9tUFpOeVE2MjJWNmVjQQ?oc=5\" target=\"_blank\">Georgia Power prepares for winter weather, urges customers to get storm-ready</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRBL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-23T02:07:44+00:00"
+    },
+    {
       "id": "eda81ca2cda9fa08",
       "title": "Georgia Power Announces Generator Replacement at Tallulah Falls Hydroelectric Plant - energynews.pro",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHZmUlRaSzNlYlV6ekdOQjFZalBXX0xaRUFRd0hyTlZ4S2twWkNGNDJsVmx4TlBUQ1ZZWDlNUlUycWMwUEJJdzM1ZzlfQ2gtckRYR2s5SlVfQi1SV3MxQUdYZ0k5U2lIM1QtTVVHSjR1Z1R5ZURNRHF4clFlLTNSRlRPeElhNFlJOEtVdklHZkJOMlhOODhULTd4SEdzSEZKQVZsWWk1Y1QxWGRkMkE?oc=5",
@@ -89,6 +117,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-21T01:00:50+00:00"
+    },
+    {
+      "id": "05cb8ec822ea2675",
+      "title": "Georgia Power prepares for winter weather, urges customers to get storm-ready - WRBL",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVkxZjZWVmwyOEo4SXZneElGMDlRbXBLYzdkN2pONmtjRW9ib1cxR3NqT2dMdkllTElFa1REQ2d0RHNwcjRpR1g5clhNZjdwd1c4eWN4ZnRsMWpZaGVNV2hNQWV2N2Q4Z0loVTFXMGo2U2ljWHEzN1VhMm5IdGk0Tmo2SUJZNE1JMTgzRnNlUFkzamY5YUM3aE13VFVkRnNGcEc2blRDdkUyZ2FvOGVxbWtScw?oc=5",
+      "domain": "news.google.com",
+      "source": "WRBL",
+      "language": "English",
+      "published_at": "2026-11-20T00:35:12+00:00",
+      "summary": "Georgia Power prepares for winter weather, urges customers to get storm-ready WRBL",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVkxZjZWVmwyOEo4SXZneElGMDlRbXBLYzdkN2pONmtjRW9ib1cxR3NqT2dMdkllTElFa1REQ2d0RHNwcjRpR1g5clhNZjdwd1c4eWN4ZnRsMWpZaGVNV2hNQWV2N2Q4Z0loVTFXMGo2U2ljWHEzN1VhMm5IdGk0Tmo2SUJZNE1JMTgzRnNlUFkzamY5YUM3aE13VFVkRnNGcEc2blRDdkUyZ2FvOGVxbWtScw?oc=5\" target=\"_blank\">Georgia Power prepares for winter weather, urges customers to get storm-ready</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRBL</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-23T02:07:44+00:00"
     },
     {
       "id": "cc3a81db4d1c207a",
@@ -425,6 +467,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-12T14:28:00+00:00"
+    },
+    {
+      "id": "20522e26127a3926",
+      "title": "Georgia Power Foundation gives $100,000 to Ronald McDonald House Coastal Empire - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYWZhQ25BWjgwQWhCYTJfdWRsUDl6TnBHVjF4OWhvd3ZxTHF4a2ZQQXFXOE5XcmtXU2F4YXh0M3RnbTBkU0RFX1lwaTBSU1lqOHFHQWcwTVlpNm52YXo1UzRITW56MHVmUjJaN3hoaUthMng5T3d3dDU2WUFTbkluSG1JM2J0bnF2UUlqV3ZiLVZNSDByOEhuS2Z1TmNCQzVHTkh3c2VETXF1a0XSAb8BQVVfeXFMT1RmejU2aG9YemF4OEVfSGJYTXMtelBuV3Y5MlRtMjZ4RDRGUWN5dlV4RmFKM0tJSHRsUURyaFl5S3hWVjZSUVFFejh4QTFHQkZvZzd3SEU1a0wxR29pMmptY2w5Nmp4YWV5YTd6bzBoc1FkdWx0MFJMak1RSEVzcW92Uktjc1lXbkNWRTdyZ1l6U3RBSk43R09QTjNkclMzZk5fRk1VYU1DNFNjeXRLQ191THo1SmpISTZjcGZLMmM?oc=5",
+      "domain": "news.google.com",
+      "source": "WTOC",
+      "language": "English",
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "summary": "Georgia Power Foundation gives $100,000 to Ronald McDonald House Coastal Empire WTOC",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYWZhQ25BWjgwQWhCYTJfdWRsUDl6TnBHVjF4OWhvd3ZxTHF4a2ZQQXFXOE5XcmtXU2F4YXh0M3RnbTBkU0RFX1lwaTBSU1lqOHFHQWcwTVlpNm52YXo1UzRITW56MHVmUjJaN3hoaUthMng5T3d3dDU2WUFTbkluSG1JM2J0bnF2UUlqV3ZiLVZNSDByOEhuS2Z1TmNCQzVHTkh3c2VETXF1a0XSAb8BQVVfeXFMT1RmejU2aG9YemF4OEVfSGJYTXMtelBuV3Y5MlRtMjZ4RDRGUWN5dlV4RmFKM0tJSHRsUURyaFl5S3hWVjZSUVFFejh4QTFHQkZvZzd3SEU1a0wxR29pMmptY2w5Nmp4YWV5YTd6bzBoc1FkdWx0MFJMak1RSEVzcW92Uktjc1lXbkNWRTdyZ1l6U3RBSk43R09QTjNkclMzZk5fRk1VYU1DNFNjeXRLQ191THo1SmpISTZjcGZLMmM?oc=5\" target=\"_blank\">Georgia Power Foundation gives $100,000 to Ronald McDonald House Coastal Empire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOC</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-23T02:07:44+00:00"
     },
     {
       "id": "8f353a6065fbdfcd",

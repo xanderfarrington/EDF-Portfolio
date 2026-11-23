@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T20:32:55+00:00",
+  "last_updated": "2026-11-23T02:07:54+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -27,7 +27,7 @@
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
       "count": 746,
-      "new_mentions_this_run": 25,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "888b52d3292427cf",
         "title": "ALDOT backs Alabama Power in Fenn Church standoff with brief in Supreme Court - 1819 News",
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1071,
-      "new_mentions_this_run": 8,
+      "count": 1075,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "97b6d5f9627cccc1",
         "title": "New commissioner wants Georgia Power to look at rates - The Black Chronicle",
