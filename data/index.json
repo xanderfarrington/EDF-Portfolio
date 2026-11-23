@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T02:07:54+00:00",
+  "last_updated": "2026-11-23T13:56:14+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 746,
+      "count": 750,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "888b52d3292427cf",
-        "title": "ALDOT backs Alabama Power in Fenn Church standoff with brief in Supreme Court - 1819 News",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMXQ1Y2ltNnk3Y0k2eEtpNmV2TVM1czdHRHE5UXV4N0hpcVdqQlVyV3N6TlNhbmhZOWw3MnRqYXcyZkZ3MmNBcm9yd1lYOTg4RTBzS2R1M1VpdTNqZmhCLXRxTkF4Q05uYW91cGxDVE9PdzVNU1hyM25LV1ZhY3Q1MU5mQkQ3Yk5SWXFpcS1LdFNvWHFSMnBxb1NNRTl2Nno2QVVMbFNaUU5oRjdk?oc=5",
+        "id": "3e014799c4f070ee",
+        "title": "Alabama Power: $4 monthly rate cut proves the ‘positive benefits’ of data centers - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdU9xMkVIWEw3elNsQ0p6bXExLTVxWmx5WjdVd3FWVzhEQ3hRQl82OWxFc2lUSWVMOFdRMDNWSTAwN05CX2JiNW9BWDFEUS1uVmQyaHZ4Z082cjhfUWg3enpWUjR2MC1KWlRYTnlHZFhYc2FteHlsdmppSmVZd0hWNzlJM0ZMb3BXVklsdWZNSlpJOUtVeVp2YlQtYXhrT1RaWHk4eXJsYUFQSVFQTnViVVVOZEXSAcgBQVVfeXFMTUtpWnlwYS1VRW43X0NsdnpaNWx0LUk5TU56aGZlRGkwUTZ0ZTM1WmFuNk5vcnFCMUJPMlR3M29BRUIxRlF1cmJqM3dGM293MkdpV2czWlpuYnlueW9sZTZrM3duWG1DdGp6MlFtano2Z09YZHJ4MHlnSUNHalNIbUM3UHpiNUxYbHo2MDdSdHdfVFdMeFdOQU1paG13WlJUSEhUTC1FOWl3d3lBUDhqTlpGY1ZuSW5LOGhVc1Q1dmFuNVBNVURWOWg?oc=5",
         "domain": "news.google.com",
-        "source": "1819 News",
+        "source": "AL.com",
         "language": "English",
-        "published_at": "2026-11-22T20:05:30+00:00",
-        "summary": "ALDOT backs Alabama Power in Fenn Church standoff with brief in Supreme Court 1819 News",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMXQ1Y2ltNnk3Y0k2eEtpNmV2TVM1czdHRHE5UXV4N0hpcVdqQlVyV3N6TlNhbmhZOWw3MnRqYXcyZkZ3MmNBcm9yd1lYOTg4RTBzS2R1M1VpdTNqZmhCLXRxTkF4Q05uYW91cGxDVE9PdzVNU1hyM25LV1ZhY3Q1MU5mQkQ3Yk5SWXFpcS1LdFNvWHFSMnBxb1NNRTl2Nno2QVVMbFNaUU5oRjdk?oc=5\" target=\"_blank\">ALDOT backs Alabama Power in Fenn Church standoff with brief in Supreme Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1819 News</font>",
+        "published_at": "2026-11-23T13:41:00+00:00",
+        "summary": "Alabama Power: $4 monthly rate cut proves the ‘positive benefits’ of data centers AL.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdU9xMkVIWEw3elNsQ0p6bXExLTVxWmx5WjdVd3FWVzhEQ3hRQl82OWxFc2lUSWVMOFdRMDNWSTAwN05CX2JiNW9BWDFEUS1uVmQyaHZ4Z082cjhfUWg3enpWUjR2MC1KWlRYTnlHZFhYc2FteHlsdmppSmVZd0hWNzlJM0ZMb3BXVklsdWZNSlpJOUtVeVp2YlQtYXhrT1RaWHk4eXJsYUFQSVFQTnViVVVOZEXSAcgBQVVfeXFMTUtpWnlwYS1VRW43X0NsdnpaNWx0LUk5TU56aGZlRGkwUTZ0ZTM1WmFuNk5vcnFCMUJPMlR3M29BRUIxRlF1cmJqM3dGM293MkdpV2czWlpuYnlueW9sZTZrM3duWG1DdGp6MlFtano2Z09YZHJ4MHlnSUNHalNIbUM3UHpiNUxYbHo2MDdSdHdfVFdMeFdOQU1paG13WlJUSEhUTC1FOWl3d3lBUDhqTlpGY1ZuSW5LOGhVc1Q1dmFuNVBNVURWOWg?oc=5\" target=\"_blank\">Alabama Power: $4 monthly rate cut proves the ‘positive benefits’ of data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-22T20:32:29+00:00"
+        "collected_at": "2026-11-23T13:55:47+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1075,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "97b6d5f9627cccc1",
         "title": "New commissioner wants Georgia Power to look at rates - The Black Chronicle",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 77,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "6fafa278a3b282d6",
         "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",
