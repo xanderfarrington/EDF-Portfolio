@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-24T11:54:46+00:00",
+  "last_updated": "2026-11-24T21:49:49+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 148,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 16,
       "latest_mention": {
         "id": "e04332a97328ab8f",
         "title": "American Electric Power Company (AEP) Stock Price, News & Analysis - Stock Titan",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 755,
+      "count": 760,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "dbcd901e39319d87",
-        "title": "Alabama landowner uses 18-wheelers to block power company access - wvtm",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1pTbV9jZmI3Vnptc0ExNUxpdE43Y1NQeUFHT0YyVDgtaEdzbElNaGVFbktycmZpblNQSDZpc2RQNDU0WTRmaXVjd2dmSW9CU3BDRWsyU0puT0lpNW05TkVvQVpOaVBBWEpVdjVLdGRsN2hYTTlGTDdieWNnckNCWnh6QnlHa2dYdzE4Q2RWcmJGTlpZUGthT2xEaDB3ZDVROTVzT0JmOA?oc=5",
+        "id": "f906b78db25aaaab",
+        "title": "ALDOT files motion to join Alabama Power in eminent domain dispute with Calera property owner - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONERteGsyN3BVMjExeVVHckVJbmZ3NHdWc3J0aWVFVGdOdTdFNnc3LXNDZkxhSnJabmNQNEpWbzhiZmRNT1FLVDFEYXo0dG1maHQ1ajg2dzZ1R2JXVG93VnZFSGhoQ2ZMVS1JQ3kwT3hBR1ZmR2hLTjdDMVFMSlVoTF9NVzA5XzlOX1h2Ul9OSjdRVENYNmVUY01n?oc=5",
         "domain": "news.google.com",
         "source": "wvtm",
         "language": "English",
-        "published_at": "2026-11-24T03:12:00+00:00",
-        "summary": "Alabama landowner uses 18-wheelers to block power company access wvtm",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1pTbV9jZmI3Vnptc0ExNUxpdE43Y1NQeUFHT0YyVDgtaEdzbElNaGVFbktycmZpblNQSDZpc2RQNDU0WTRmaXVjd2dmSW9CU3BDRWsyU0puT0lpNW05TkVvQVpOaVBBWEpVdjVLdGRsN2hYTTlGTDdieWNnckNCWnh6QnlHa2dYdzE4Q2RWcmJGTlpZUGthT2xEaDB3ZDVROTVzT0JmOA?oc=5\" target=\"_blank\">Alabama landowner uses 18-wheelers to block power company access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+        "published_at": "2026-11-24T21:06:00+00:00",
+        "summary": "ALDOT files motion to join Alabama Power in eminent domain dispute with Calera property owner wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONERteGsyN3BVMjExeVVHckVJbmZ3NHdWc3J0aWVFVGdOdTdFNnc3LXNDZkxhSnJabmNQNEpWbzhiZmRNT1FLVDFEYXo0dG1maHQ1ajg2dzZ1R2JXVG93VnZFSGhoQ2ZMVS1JQ3kwT3hBR1ZmR2hLTjdDMVFMSlVoTF9NVzA5XzlOX1h2Ul9OSjdRVENYNmVUY01n?oc=5\" target=\"_blank\">ALDOT files motion to join Alabama Power in eminent domain dispute with Calera property owner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-24T11:54:19+00:00"
+        "collected_at": "2026-11-24T21:49:22+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1077,
-      "new_mentions_this_run": 7,
+      "count": 1078,
+      "new_mentions_this_run": 10,
       "latest_mention": {
-        "id": "6369a72fc0b0bf40",
-        "title": "Be aware: scammers posing as Georgia Power in Brunswick - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGFiNDhyRkoyWExXVlBSSVFILWFlTnFnc0tCSE03UHFJZGdjVnd2RHhqbkI4aWVEaUdDZ1c0RHhVeG5mbTZCdnE5c01Ha1lKN1BjQ2FzTmxWUVNLVTJ6RnRLYzFXS0swaGRaTWpqYnlzSERlTC1OQl9qcFp2bnhnX0ROQnhqSWVpMmlSRnB3Yw?oc=5",
+        "id": "c9fff224d6a13d85",
+        "title": "Georgia Power celebrates 100 years of Network Underground service in communities across Georgia - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOGVXU05PNXlweWJSNGczeUdwcW52V2hlaDRKRDZQRlZwUkQwdUd6SVVxX2V3cUMycHFrZ05fNWxMZmRSTkRCVGQzeGpQNE84TW8zb0F4WjVTV2JwVWN0OC1sZG5abzZYbzIwTm45LVByTVB1ZXBSY1ZXZjhRNUZGdGQ0aWdZOF9FSVVtTGNBZHhNMHl6bjFHcVdCaHppNFktaGUtSENpSDZfTktxSmVEN0stdERJYm5oQkpRNnZJRVBZSlBXTXljTnZ1ZnJ2VHE5ajBxcUpOT2lrVURSUWpBeDNLM1I?oc=5",
         "domain": "news.google.com",
-        "source": "Yahoo",
+        "source": "StreetInsider",
         "language": "English",
-        "published_at": "2026-11-24T01:30:17+00:00",
-        "summary": "Be aware: scammers posing as Georgia Power in Brunswick Yahoo",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGFiNDhyRkoyWExXVlBSSVFILWFlTnFnc0tCSE03UHFJZGdjVnd2RHhqbkI4aWVEaUdDZ1c0RHhVeG5mbTZCdnE5c01Ha1lKN1BjQ2FzTmxWUVNLVTJ6RnRLYzFXS0swaGRaTWpqYnlzSERlTC1OQl9qcFp2bnhnX0ROQnhqSWVpMmlSRnB3Yw?oc=5\" target=\"_blank\">Be aware: scammers posing as Georgia Power in Brunswick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "published_at": "2026-11-24T17:58:38+00:00",
+        "summary": "Georgia Power celebrates 100 years of Network Underground service in communities across Georgia StreetInsider",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOGVXU05PNXlweWJSNGczeUdwcW52V2hlaDRKRDZQRlZwUkQwdUd6SVVxX2V3cUMycHFrZ05fNWxMZmRSTkRCVGQzeGpQNE84TW8zb0F4WjVTV2JwVWN0OC1sZG5abzZYbzIwTm45LVByTVB1ZXBSY1ZXZjhRNUZGdGQ0aWdZOF9FSVVtTGNBZHhNMHl6bjFHcVdCaHppNFktaGUtSENpSDZfTktxSmVEN0stdERJYm5oQkpRNnZJRVBZSlBXTXljTnZ1ZnJ2VHE5ajBxcUpOT2lrVURSUWpBeDNLM1I?oc=5\" target=\"_blank\">Georgia Power celebrates 100 years of Network Underground service in communities across Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-24T11:54:36+00:00"
+        "collected_at": "2026-11-24T21:49:38+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 77,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "6fafa278a3b282d6",
         "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",

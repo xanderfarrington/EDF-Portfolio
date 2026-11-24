@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-24T11:54:36+00:00",
+  "last_updated": "2026-11-24T21:49:38+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1077,
+  "count": 1078,
   "mentions": [
+    {
+      "id": "c9fff224d6a13d85",
+      "title": "Georgia Power celebrates 100 years of Network Underground service in communities across Georgia - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOGVXU05PNXlweWJSNGczeUdwcW52V2hlaDRKRDZQRlZwUkQwdUd6SVVxX2V3cUMycHFrZ05fNWxMZmRSTkRCVGQzeGpQNE84TW8zb0F4WjVTV2JwVWN0OC1sZG5abzZYbzIwTm45LVByTVB1ZXBSY1ZXZjhRNUZGdGQ0aWdZOF9FSVVtTGNBZHhNMHl6bjFHcVdCaHppNFktaGUtSENpSDZfTktxSmVEN0stdERJYm5oQkpRNnZJRVBZSlBXTXljTnZ1ZnJ2VHE5ajBxcUpOT2lrVURSUWpBeDNLM1I?oc=5",
+      "domain": "news.google.com",
+      "source": "StreetInsider",
+      "language": "English",
+      "published_at": "2026-11-24T17:58:38+00:00",
+      "summary": "Georgia Power celebrates 100 years of Network Underground service in communities across Georgia StreetInsider",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOGVXU05PNXlweWJSNGczeUdwcW52V2hlaDRKRDZQRlZwUkQwdUd6SVVxX2V3cUMycHFrZ05fNWxMZmRSTkRCVGQzeGpQNE84TW8zb0F4WjVTV2JwVWN0OC1sZG5abzZYbzIwTm45LVByTVB1ZXBSY1ZXZjhRNUZGdGQ0aWdZOF9FSVVtTGNBZHhNMHl6bjFHcVdCaHppNFktaGUtSENpSDZfTktxSmVEN0stdERJYm5oQkpRNnZJRVBZSlBXTXljTnZ1ZnJ2VHE5ajBxcUpOT2lrVURSUWpBeDNLM1I?oc=5\" target=\"_blank\">Georgia Power celebrates 100 years of Network Underground service in communities across Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-24T21:49:38+00:00"
+    },
     {
       "id": "6369a72fc0b0bf40",
       "title": "Be aware: scammers posing as Georgia Power in Brunswick - Yahoo",
