@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-24T01:27:17+00:00",
+  "last_updated": "2026-11-24T11:54:19+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 754,
+  "count": 755,
   "mentions": [
+    {
+      "id": "dbcd901e39319d87",
+      "title": "Alabama landowner uses 18-wheelers to block power company access - wvtm",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1pTbV9jZmI3Vnptc0ExNUxpdE43Y1NQeUFHT0YyVDgtaEdzbElNaGVFbktycmZpblNQSDZpc2RQNDU0WTRmaXVjd2dmSW9CU3BDRWsyU0puT0lpNW05TkVvQVpOaVBBWEpVdjVLdGRsN2hYTTlGTDdieWNnckNCWnh6QnlHa2dYdzE4Q2RWcmJGTlpZUGthT2xEaDB3ZDVROTVzT0JmOA?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm",
+      "language": "English",
+      "published_at": "2026-11-24T03:12:00+00:00",
+      "summary": "Alabama landowner uses 18-wheelers to block power company access wvtm",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1pTbV9jZmI3Vnptc0ExNUxpdE43Y1NQeUFHT0YyVDgtaEdzbElNaGVFbktycmZpblNQSDZpc2RQNDU0WTRmaXVjd2dmSW9CU3BDRWsyU0puT0lpNW05TkVvQVpOaVBBWEpVdjVLdGRsN2hYTTlGTDdieWNnckNCWnh6QnlHa2dYdzE4Q2RWcmJGTlpZUGthT2xEaDB3ZDVROTVzT0JmOA?oc=5\" target=\"_blank\">Alabama landowner uses 18-wheelers to block power company access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-24T11:54:19+00:00"
+    },
     {
       "id": "be528ef8e6f4c08f",
       "title": "What Alabama Power’s rate cut means for two families - wvtm",

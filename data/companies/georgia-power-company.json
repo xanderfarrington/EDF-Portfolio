@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-24T01:27:34+00:00",
+  "last_updated": "2026-11-24T11:54:36+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1076,
+  "count": 1077,
   "mentions": [
+    {
+      "id": "6369a72fc0b0bf40",
+      "title": "Be aware: scammers posing as Georgia Power in Brunswick - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGFiNDhyRkoyWExXVlBSSVFILWFlTnFnc0tCSE03UHFJZGdjVnd2RHhqbkI4aWVEaUdDZ1c0RHhVeG5mbTZCdnE5c01Ha1lKN1BjQ2FzTmxWUVNLVTJ6RnRLYzFXS0swaGRaTWpqYnlzSERlTC1OQl9qcFp2bnhnX0ROQnhqSWVpMmlSRnB3Yw?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-11-24T01:30:17+00:00",
+      "summary": "Be aware: scammers posing as Georgia Power in Brunswick Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGFiNDhyRkoyWExXVlBSSVFILWFlTnFnc0tCSE03UHFJZGdjVnd2RHhqbkI4aWVEaUdDZ1c0RHhVeG5mbTZCdnE5c01Ha1lKN1BjQ2FzTmxWUVNLVTJ6RnRLYzFXS0swaGRaTWpqYnlzSERlTC1OQl9qcFp2bnhnX0ROQnhqSWVpMmlSRnB3Yw?oc=5\" target=\"_blank\">Be aware: scammers posing as Georgia Power in Brunswick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-24T11:54:36+00:00"
+    },
     {
       "id": "3dc9e8e92b4b670d",
       "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO - Utility Dive",

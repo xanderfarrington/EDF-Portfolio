@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-24T01:27:44+00:00",
+  "last_updated": "2026-11-24T11:54:46+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 148,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e04332a97328ab8f",
         "title": "American Electric Power Company (AEP) Stock Price, News & Analysis - Stock Titan",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 754,
+      "count": 755,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "be528ef8e6f4c08f",
-        "title": "What Alabama Power’s rate cut means for two families - wvtm",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzZDQXd3SVBsSlRqMjgtUm9nU05PVVlQLTEtbzE3cDhpWGYxRGZTVHNtbVQ3SDVMR05QcjVEV3U0WmNGTGN0Z3p6RERFSEZNcUQ1RnNrOFktbDNBTUV4SERxMXZXR3NzeWd3NXRJTkFzNHVGSEo0Ylpqc0RsTkNBeDlJTEU2andoZ054NVVsdjhLNXJ1YlJwcGdzb1RiS2RMUUlkNTN2cjdGcXJEWlhCV182Q3g?oc=5",
+        "id": "dbcd901e39319d87",
+        "title": "Alabama landowner uses 18-wheelers to block power company access - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1pTbV9jZmI3Vnptc0ExNUxpdE43Y1NQeUFHT0YyVDgtaEdzbElNaGVFbktycmZpblNQSDZpc2RQNDU0WTRmaXVjd2dmSW9CU3BDRWsyU0puT0lpNW05TkVvQVpOaVBBWEpVdjVLdGRsN2hYTTlGTDdieWNnckNCWnh6QnlHa2dYdzE4Q2RWcmJGTlpZUGthT2xEaDB3ZDVROTVzT0JmOA?oc=5",
         "domain": "news.google.com",
         "source": "wvtm",
         "language": "English",
-        "published_at": "2026-11-23T21:18:00+00:00",
-        "summary": "What Alabama Power’s rate cut means for two families wvtm",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzZDQXd3SVBsSlRqMjgtUm9nU05PVVlQLTEtbzE3cDhpWGYxRGZTVHNtbVQ3SDVMR05QcjVEV3U0WmNGTGN0Z3p6RERFSEZNcUQ1RnNrOFktbDNBTUV4SERxMXZXR3NzeWd3NXRJTkFzNHVGSEo0Ylpqc0RsTkNBeDlJTEU2andoZ054NVVsdjhLNXJ1YlJwcGdzb1RiS2RMUUlkNTN2cjdGcXJEWlhCV182Q3g?oc=5\" target=\"_blank\">What Alabama Power’s rate cut means for two families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+        "published_at": "2026-11-24T03:12:00+00:00",
+        "summary": "Alabama landowner uses 18-wheelers to block power company access wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1pTbV9jZmI3Vnptc0ExNUxpdE43Y1NQeUFHT0YyVDgtaEdzbElNaGVFbktycmZpblNQSDZpc2RQNDU0WTRmaXVjd2dmSW9CU3BDRWsyU0puT0lpNW05TkVvQVpOaVBBWEpVdjVLdGRsN2hYTTlGTDdieWNnckNCWnh6QnlHa2dYdzE4Q2RWcmJGTlpZUGthT2xEaDB3ZDVROTVzT0JmOA?oc=5\" target=\"_blank\">Alabama landowner uses 18-wheelers to block power company access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-24T01:27:17+00:00"
+        "collected_at": "2026-11-24T11:54:19+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1076,
-      "new_mentions_this_run": 24,
+      "count": 1077,
+      "new_mentions_this_run": 7,
       "latest_mention": {
-        "id": "3dc9e8e92b4b670d",
-        "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO - Utility Dive",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2pfNE9YcFVOU0syWnpvQkNCbEwybW5IQm02WVd0M0pxVTZFdnJJUVhvMXBSQ2dsNVk5N3JGeXExTk5tMTJkY1NNY3Z0a2t4dUFXOGY2Ulk5ejlDS2oxeHFCcnVVTTV4Q2duUmlHTkN1SDluc203VUpiM3ZrRWs0WEZsVkkxU3VXODBLVm1yTQ?oc=5",
+        "id": "6369a72fc0b0bf40",
+        "title": "Be aware: scammers posing as Georgia Power in Brunswick - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGFiNDhyRkoyWExXVlBSSVFILWFlTnFnc0tCSE03UHFJZGdjVnd2RHhqbkI4aWVEaUdDZ1c0RHhVeG5mbTZCdnE5c01Ha1lKN1BjQ2FzTmxWUVNLVTJ6RnRLYzFXS0swaGRaTWpqYnlzSERlTC1OQl9qcFp2bnhnX0ROQnhqSWVpMmlSRnB3Yw?oc=5",
         "domain": "news.google.com",
-        "source": "Utility Dive",
+        "source": "Yahoo",
         "language": "English",
-        "published_at": "2026-11-23T18:19:27+00:00",
-        "summary": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO Utility Dive",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON2pfNE9YcFVOU0syWnpvQkNCbEwybW5IQm02WVd0M0pxVTZFdnJJUVhvMXBSQ2dsNVk5N3JGeXExTk5tMTJkY1NNY3Z0a2t4dUFXOGY2Ulk5ejlDS2oxeHFCcnVVTTV4Q2duUmlHTkN1SDluc203VUpiM3ZrRWs0WEZsVkkxU3VXODBLVm1yTQ?oc=5\" target=\"_blank\">Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utility Dive</font>",
+        "published_at": "2026-11-24T01:30:17+00:00",
+        "summary": "Be aware: scammers posing as Georgia Power in Brunswick Yahoo",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGFiNDhyRkoyWExXVlBSSVFILWFlTnFnc0tCSE03UHFJZGdjVnd2RHhqbkI4aWVEaUdDZ1c0RHhVeG5mbTZCdnE5c01Ha1lKN1BjQ2FzTmxWUVNLVTJ6RnRLYzFXS0swaGRaTWpqYnlzSERlTC1OQl9qcFp2bnhnX0ROQnhqSWVpMmlSRnB3Yw?oc=5\" target=\"_blank\">Be aware: scammers posing as Georgia Power in Brunswick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-24T01:27:34+00:00"
+        "collected_at": "2026-11-24T11:54:36+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 77,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "6fafa278a3b282d6",
         "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",
