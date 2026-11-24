@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-11-23T13:56:14+00:00",
+  "last_updated": "2026-11-24T01:27:44+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 146,
-      "new_mentions_this_run": 4,
+      "count": 148,
+      "new_mentions_this_run": 16,
       "latest_mention": {
-        "id": "cf0210407ba1e50b",
-        "title": "Steuben County commissioners urge AEP to address community concerns before Lulu-Sorenson project advances - WPTA | 21Alive | Fort Wayne, IN",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHhCVnNFTTY5YVBoUFd3VUlISGd6V0tkWl9ISzBDV2xoZ2RGMjVxXzM2TUFCb3ZKS1FlU1lpMHBPQ19SWE1fNjRTYjNDaHkwY0M1Ni1RTHJhR2NZU0JjcXNfUnpoc1A4MVB0UVYtRUxKTFgxdHV6VklnUEhmMWNpbGpVMmEyd1l5bkl3Q1dWcmFTZ25BSWZVR3FlNmM1S3F0YWdiektjN2hHejcweWwwMmFvMnBpQUFBZ3BodE9SeTUzQnVrX29WR2ZjNTNvcFhxU0hMd2VUT3FSZ9IB7gFBVV95cUxQNnNIS1paSlJSY0x3M3JVMDE1UV8wdGNVbWpLMjlQWjExWHB1S3NKbHM5bktvT1E1SG52MmJlcmhHSmFmbjhmZGw2Z1NlNHhGWUFhZWtKZ0lwa29zTXd1S3hhTmRRX05qNEVlRTlzY1VNaVZyejJnVkVtS0hqY3RVTFZ0WUtsa2FRNjl0Q01RcDg0QlYwMG5PV3M5anUxZ3VxbVBPV2tNNm9FYk0xUS0ybEhRWnlLZE5JSTVGOGZQVXVhUkE3ZWxLcTdEZm1tbTNWWDJXYU1lTzFxYnRHNmdOOHhNd1AzSE5vWGI0cFdB?oc=5",
+        "id": "e04332a97328ab8f",
+        "title": "American Electric Power Company (AEP) Stock Price, News & Analysis - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yYnZqQTZvNG14Rlg3TDRhRFM1NHBWTTl4MVBDMFBUSDd3ZWVBSldrMUp3blJ2T1JiQ21hTHFDc2I2RDhMZEpsbGIwbHNkamNHMHc?oc=5",
         "domain": "news.google.com",
-        "source": "WPTA | 21Alive | Fort Wayne, IN",
+        "source": "Stock Titan",
         "language": "English",
-        "published_at": "2026-11-18T16:04:00+00:00",
-        "summary": "Steuben County commissioners urge AEP to address community concerns before Lulu-Sorenson project advances WPTA | 21Alive | Fort Wayne, IN",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHhCVnNFTTY5YVBoUFd3VUlISGd6V0tkWl9ISzBDV2xoZ2RGMjVxXzM2TUFCb3ZKS1FlU1lpMHBPQ19SWE1fNjRTYjNDaHkwY0M1Ni1RTHJhR2NZU0JjcXNfUnpoc1A4MVB0UVYtRUxKTFgxdHV6VklnUEhmMWNpbGpVMmEyd1l5bkl3Q1dWcmFTZ25BSWZVR3FlNmM1S3F0YWdiektjN2hHejcweWwwMmFvMnBpQUFBZ3BodE9SeTUzQnVrX29WR2ZjNTNvcFhxU0hMd2VUT3FSZ9IB7gFBVV95cUxQNnNIS1paSlJSY0x3M3JVMDE1UV8wdGNVbWpLMjlQWjExWHB1S3NKbHM5bktvT1E1SG52MmJlcmhHSmFmbjhmZGw2Z1NlNHhGWUFhZWtKZ0lwa29zTXd1S3hhTmRRX05qNEVlRTlzY1VNaVZyejJnVkVtS0hqY3RVTFZ0WUtsa2FRNjl0Q01RcDg0QlYwMG5PV3M5anUxZ3VxbVBPV2tNNm9FYk0xUS0ybEhRWnlLZE5JSTVGOGZQVXVhUkE3ZWxLcTdEZm1tbTNWWDJXYU1lTzFxYnRHNmdOOHhNd1AzSE5vWGI0cFdB?oc=5\" target=\"_blank\">Steuben County commissioners urge AEP to address community concerns before Lulu-Sorenson project advances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPTA | 21Alive | Fort Wayne, IN</font>",
+        "published_at": "2026-11-20T08:00:00+00:00",
+        "summary": "American Electric Power Company (AEP) Stock Price, News & Analysis Stock Titan",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yYnZqQTZvNG14Rlg3TDRhRFM1NHBWTTl4MVBDMFBUSDd3ZWVBSldrMUp3blJ2T1JiQ21hTHFDc2I2RDhMZEpsbGIwbHNkamNHMHc?oc=5\" target=\"_blank\">American Electric Power Company (AEP) Stock Price, News & Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-19T01:36:05+00:00"
+        "collected_at": "2026-11-24T01:27:12+00:00"
       }
     },
     {
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 750,
+      "count": 754,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "3e014799c4f070ee",
-        "title": "Alabama Power: $4 monthly rate cut proves the ‘positive benefits’ of data centers - AL.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdU9xMkVIWEw3elNsQ0p6bXExLTVxWmx5WjdVd3FWVzhEQ3hRQl82OWxFc2lUSWVMOFdRMDNWSTAwN05CX2JiNW9BWDFEUS1uVmQyaHZ4Z082cjhfUWg3enpWUjR2MC1KWlRYTnlHZFhYc2FteHlsdmppSmVZd0hWNzlJM0ZMb3BXVklsdWZNSlpJOUtVeVp2YlQtYXhrT1RaWHk4eXJsYUFQSVFQTnViVVVOZEXSAcgBQVVfeXFMTUtpWnlwYS1VRW43X0NsdnpaNWx0LUk5TU56aGZlRGkwUTZ0ZTM1WmFuNk5vcnFCMUJPMlR3M29BRUIxRlF1cmJqM3dGM293MkdpV2czWlpuYnlueW9sZTZrM3duWG1DdGp6MlFtano2Z09YZHJ4MHlnSUNHalNIbUM3UHpiNUxYbHo2MDdSdHdfVFdMeFdOQU1paG13WlJUSEhUTC1FOWl3d3lBUDhqTlpGY1ZuSW5LOGhVc1Q1dmFuNVBNVURWOWg?oc=5",
+        "id": "be528ef8e6f4c08f",
+        "title": "What Alabama Power’s rate cut means for two families - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzZDQXd3SVBsSlRqMjgtUm9nU05PVVlQLTEtbzE3cDhpWGYxRGZTVHNtbVQ3SDVMR05QcjVEV3U0WmNGTGN0Z3p6RERFSEZNcUQ1RnNrOFktbDNBTUV4SERxMXZXR3NzeWd3NXRJTkFzNHVGSEo0Ylpqc0RsTkNBeDlJTEU2andoZ054NVVsdjhLNXJ1YlJwcGdzb1RiS2RMUUlkNTN2cjdGcXJEWlhCV182Q3g?oc=5",
         "domain": "news.google.com",
-        "source": "AL.com",
+        "source": "wvtm",
         "language": "English",
-        "published_at": "2026-11-23T13:41:00+00:00",
-        "summary": "Alabama Power: $4 monthly rate cut proves the ‘positive benefits’ of data centers AL.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdU9xMkVIWEw3elNsQ0p6bXExLTVxWmx5WjdVd3FWVzhEQ3hRQl82OWxFc2lUSWVMOFdRMDNWSTAwN05CX2JiNW9BWDFEUS1uVmQyaHZ4Z082cjhfUWg3enpWUjR2MC1KWlRYTnlHZFhYc2FteHlsdmppSmVZd0hWNzlJM0ZMb3BXVklsdWZNSlpJOUtVeVp2YlQtYXhrT1RaWHk4eXJsYUFQSVFQTnViVVVOZEXSAcgBQVVfeXFMTUtpWnlwYS1VRW43X0NsdnpaNWx0LUk5TU56aGZlRGkwUTZ0ZTM1WmFuNk5vcnFCMUJPMlR3M29BRUIxRlF1cmJqM3dGM293MkdpV2czWlpuYnlueW9sZTZrM3duWG1DdGp6MlFtano2Z09YZHJ4MHlnSUNHalNIbUM3UHpiNUxYbHo2MDdSdHdfVFdMeFdOQU1paG13WlJUSEhUTC1FOWl3d3lBUDhqTlpGY1ZuSW5LOGhVc1Q1dmFuNVBNVURWOWg?oc=5\" target=\"_blank\">Alabama Power: $4 monthly rate cut proves the ‘positive benefits’ of data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "published_at": "2026-11-23T21:18:00+00:00",
+        "summary": "What Alabama Power’s rate cut means for two families wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzZDQXd3SVBsSlRqMjgtUm9nU05PVVlQLTEtbzE3cDhpWGYxRGZTVHNtbVQ3SDVMR05QcjVEV3U0WmNGTGN0Z3p6RERFSEZNcUQ1RnNrOFktbDNBTUV4SERxMXZXR3NzeWd3NXRJTkFzNHVGSEo0Ylpqc0RsTkNBeDlJTEU2andoZ054NVVsdjhLNXJ1YlJwcGdzb1RiS2RMUUlkNTN2cjdGcXJEWlhCV182Q3g?oc=5\" target=\"_blank\">What Alabama Power’s rate cut means for two families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-23T13:55:47+00:00"
+        "collected_at": "2026-11-24T01:27:17+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1075,
-      "new_mentions_this_run": 6,
+      "count": 1076,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "97b6d5f9627cccc1",
-        "title": "New commissioner wants Georgia Power to look at rates - The Black Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjZic2VnOHVJbXV2OW0zYkI3US13VHdoZXZXN2NWcXRPbk9ZZjFHU18zVjhUY21LOF9QVGlKcjJFNWFiWDhDUFJsYXdHMWdPLS1KcnA2cm5UYVUtR0Y0SzZ6S0VQREk4eF9zUnFCT0tHUlZUaTFXNGswRzNiUk40Zm5PYTFBdXl4NzlPcVpGdHZwUQ?oc=5",
+        "id": "3dc9e8e92b4b670d",
+        "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO - Utility Dive",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2pfNE9YcFVOU0syWnpvQkNCbEwybW5IQm02WVd0M0pxVTZFdnJJUVhvMXBSQ2dsNVk5N3JGeXExTk5tMTJkY1NNY3Z0a2t4dUFXOGY2Ulk5ejlDS2oxeHFCcnVVTTV4Q2duUmlHTkN1SDluc203VUpiM3ZrRWs0WEZsVkkxU3VXODBLVm1yTQ?oc=5",
         "domain": "news.google.com",
-        "source": "The Black Chronicle",
+        "source": "Utility Dive",
         "language": "English",
-        "published_at": "2026-11-21T08:45:18+00:00",
-        "summary": "New commissioner wants Georgia Power to look at rates The Black Chronicle",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONjZic2VnOHVJbXV2OW0zYkI3US13VHdoZXZXN2NWcXRPbk9ZZjFHU18zVjhUY21LOF9QVGlKcjJFNWFiWDhDUFJsYXdHMWdPLS1KcnA2cm5UYVUtR0Y0SzZ6S0VQREk4eF9zUnFCT0tHUlZUaTFXNGswRzNiUk40Zm5PYTFBdXl4NzlPcVpGdHZwUQ?oc=5\" target=\"_blank\">New commissioner wants Georgia Power to look at rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Black Chronicle</font>",
+        "published_at": "2026-11-23T18:19:27+00:00",
+        "summary": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO Utility Dive",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON2pfNE9YcFVOU0syWnpvQkNCbEwybW5IQm02WVd0M0pxVTZFdnJJUVhvMXBSQ2dsNVk5N3JGeXExTk5tMTJkY1NNY3Z0a2t4dUFXOGY2Ulk5ejlDS2oxeHFCcnVVTTV4Q2duUmlHTkN1SDluc203VUpiM3ZrRWs0WEZsVkkxU3VXODBLVm1yTQ?oc=5\" target=\"_blank\">Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utility Dive</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-21T09:03:48+00:00"
+        "collected_at": "2026-11-24T01:27:34+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 77,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "6fafa278a3b282d6",
         "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",

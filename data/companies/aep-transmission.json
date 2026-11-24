@@ -2,10 +2,24 @@
   "company": "AEP Transmission",
   "slug": "aep-transmission",
   "query": "\"AEP Transmission\"",
-  "last_updated": "2026-11-23T13:55:42+00:00",
+  "last_updated": "2026-11-24T01:27:12+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 146,
+  "count": 148,
   "mentions": [
+    {
+      "id": "e04332a97328ab8f",
+      "title": "American Electric Power Company (AEP) Stock Price, News & Analysis - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yYnZqQTZvNG14Rlg3TDRhRFM1NHBWTTl4MVBDMFBUSDd3ZWVBSldrMUp3blJ2T1JiQ21hTHFDc2I2RDhMZEpsbGIwbHNkamNHMHc?oc=5",
+      "domain": "news.google.com",
+      "source": "Stock Titan",
+      "language": "English",
+      "published_at": "2026-11-20T08:00:00+00:00",
+      "summary": "American Electric Power Company (AEP) Stock Price, News & Analysis Stock Titan",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yYnZqQTZvNG14Rlg3TDRhRFM1NHBWTTl4MVBDMFBUSDd3ZWVBSldrMUp3blJ2T1JiQ21hTHFDc2I2RDhMZEpsbGIwbHNkamNHMHc?oc=5\" target=\"_blank\">American Electric Power Company (AEP) Stock Price, News & Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-24T01:27:12+00:00"
+    },
     {
       "id": "cf0210407ba1e50b",
       "title": "Steuben County commissioners urge AEP to address community concerns before Lulu-Sorenson project advances - WPTA | 21Alive | Fort Wayne, IN",
@@ -313,6 +327,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-10-29T14:52:26+00:00"
+    },
+    {
+      "id": "bb9a933279148fc0",
+      "title": "Jacobs Wins AEP Transmission Program Delivery Role Across Seven States - Securities.io",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTW9oanhUcjRjdV9GbHh0Ql9palBYN3VlSWZBb2p0QkE2cS1CMHFCWnpTU01TVDl1azMwbzhjWFh2cXBjaFpYMlZMRVRJLVZlVHFaMFVhWm1FTkFjRFJocjlQMExwRlBLU0hDZWctN0pYaFd6YzRyc3p0VEl4amZfWDBYeUZXN25oaUladXkzdFpYLXlEZHRZZEZiVThPQQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Securities.io",
+      "language": "English",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "summary": "Jacobs Wins AEP Transmission Program Delivery Role Across Seven States Securities.io",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTW9oanhUcjRjdV9GbHh0Ql9palBYN3VlSWZBb2p0QkE2cS1CMHFCWnpTU01TVDl1azMwbzhjWFh2cXBjaFpYMlZMRVRJLVZlVHFaMFVhWm1FTkFjRFJocjlQMExwRlBLU0hDZWctN0pYaFd6YzRyc3p0VEl4amZfWDBYeUZXN25oaUladXkzdFpYLXlEZHRZZEZiVThPQQ?oc=5\" target=\"_blank\">Jacobs Wins AEP Transmission Program Delivery Role Across Seven States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Securities.io</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-24T01:27:12+00:00"
     },
     {
       "id": "b5b3273377134c2f",

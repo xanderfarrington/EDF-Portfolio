@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-23T13:56:04+00:00",
+  "last_updated": "2026-11-24T01:27:34+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1075,
+  "count": 1076,
   "mentions": [
+    {
+      "id": "3dc9e8e92b4b670d",
+      "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO - Utility Dive",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2pfNE9YcFVOU0syWnpvQkNCbEwybW5IQm02WVd0M0pxVTZFdnJJUVhvMXBSQ2dsNVk5N3JGeXExTk5tMTJkY1NNY3Z0a2t4dUFXOGY2Ulk5ejlDS2oxeHFCcnVVTTV4Q2duUmlHTkN1SDluc203VUpiM3ZrRWs0WEZsVkkxU3VXODBLVm1yTQ?oc=5",
+      "domain": "news.google.com",
+      "source": "Utility Dive",
+      "language": "English",
+      "published_at": "2026-11-23T18:19:27+00:00",
+      "summary": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO Utility Dive",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON2pfNE9YcFVOU0syWnpvQkNCbEwybW5IQm02WVd0M0pxVTZFdnJJUVhvMXBSQ2dsNVk5N3JGeXExTk5tMTJkY1NNY3Z0a2t4dUFXOGY2Ulk5ejlDS2oxeHFCcnVVTTV4Q2duUmlHTkN1SDluc203VUpiM3ZrRWs0WEZsVkkxU3VXODBLVm1yTQ?oc=5\" target=\"_blank\">Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utility Dive</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-24T01:27:34+00:00"
+    },
     {
       "id": "97b6d5f9627cccc1",
       "title": "New commissioner wants Georgia Power to look at rates - The Black Chronicle",
