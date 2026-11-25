@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T04:44:31+00:00",
+  "last_updated": "2026-11-25T16:38:46+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 761,
+      "count": 762,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "b3ec42fd688e3940",
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1080,
-      "new_mentions_this_run": 25,
+      "count": 1081,
+      "new_mentions_this_run": 8,
       "latest_mention": {
-        "id": "c9fff224d6a13d85",
-        "title": "Georgia Power celebrates 100 years of Network Underground service in communities across Georgia - StreetInsider",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOGVXU05PNXlweWJSNGczeUdwcW52V2hlaDRKRDZQRlZwUkQwdUd6SVVxX2V3cUMycHFrZ05fNWxMZmRSTkRCVGQzeGpQNE84TW8zb0F4WjVTV2JwVWN0OC1sZG5abzZYbzIwTm45LVByTVB1ZXBSY1ZXZjhRNUZGdGQ0aWdZOF9FSVVtTGNBZHhNMHl6bjFHcVdCaHppNFktaGUtSENpSDZfTktxSmVEN0stdERJYm5oQkpRNnZJRVBZSlBXTXljTnZ1ZnJ2VHE5ajBxcUpOT2lrVURSUWpBeDNLM1I?oc=5",
+        "id": "b466202efb9f9768",
+        "title": "Georgia power tops Kamehameha - Honolulu Star-Advertiser",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2VONmJkVEQ4MEJ3aVh5c0hiRGdZSUdZUW5JR01vUVN6SFZJckRWSUpDc3NJMU9QajJacFk3MmRsYnhmM0VzaXhnRnZqQnVaZU96b2VGMDg0UGozZFQwWnpWSU9VYUpOdXl3TUxzVmJqVGFxajVIMVY5dEYtTkFGQ1JPTGpHUnZRLUtMNTZyNFlIS3dEQVMtZElQYW9EUQ?oc=5",
         "domain": "news.google.com",
-        "source": "StreetInsider",
+        "source": "Honolulu Star-Advertiser",
         "language": "English",
-        "published_at": "2026-11-24T17:58:38+00:00",
-        "summary": "Georgia Power celebrates 100 years of Network Underground service in communities across Georgia StreetInsider",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOGVXU05PNXlweWJSNGczeUdwcW52V2hlaDRKRDZQRlZwUkQwdUd6SVVxX2V3cUMycHFrZ05fNWxMZmRSTkRCVGQzeGpQNE84TW8zb0F4WjVTV2JwVWN0OC1sZG5abzZYbzIwTm45LVByTVB1ZXBSY1ZXZjhRNUZGdGQ0aWdZOF9FSVVtTGNBZHhNMHl6bjFHcVdCaHppNFktaGUtSENpSDZfTktxSmVEN0stdERJYm5oQkpRNnZJRVBZSlBXTXljTnZ1ZnJ2VHE5ajBxcUpOT2lrVURSUWpBeDNLM1I?oc=5\" target=\"_blank\">Georgia Power celebrates 100 years of Network Underground service in communities across Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
+        "published_at": "2026-11-25T10:19:38+00:00",
+        "summary": "Georgia power tops Kamehameha Honolulu Star-Advertiser",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPR2VONmJkVEQ4MEJ3aVh5c0hiRGdZSUdZUW5JR01vUVN6SFZJckRWSUpDc3NJMU9QajJacFk3MmRsYnhmM0VzaXhnRnZqQnVaZU96b2VGMDg0UGozZFQwWnpWSU9VYUpOdXl3TUxzVmJqVGFxajVIMVY5dEYtTkFGQ1JPTGpHUnZRLUtMNTZyNFlIS3dEQVMtZElQYW9EUQ?oc=5\" target=\"_blank\">Georgia power tops Kamehameha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-24T21:49:38+00:00"
+        "collected_at": "2026-11-25T16:38:36+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 77,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "6fafa278a3b282d6",
         "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",

@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-25T04:44:04+00:00",
+  "last_updated": "2026-11-25T16:38:20+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 761,
+  "count": 762,
   "mentions": [
     {
       "id": "b3ec42fd688e3940",
@@ -19,6 +19,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-25T04:44:04+00:00"
+    },
+    {
+      "id": "8a8ba4e37d293cb1",
+      "title": "ALDOT files motion supporting Alabama Power in eminent domain dispute with Calera property owner - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEIyTEM4TXZwc2phMWxuRkZvR3h6UEFrOTEtUUtXNnB1R2wzOEJwMkx0bHNya1hZZE9jRUV6U04zSjBVU0ZFTG1JcnM5bXJXX295Z09PYmdIMklJVVEwQUI0YWxsaWE4WTlsOEZBWGRMbE95M1d0S2JyNDdjcko1bFlrSnZvVWRTUzFfdmFHQTkxQmxRZkE?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo",
+      "language": "English",
+      "published_at": "2026-11-25T03:04:00+00:00",
+      "summary": "ALDOT files motion supporting Alabama Power in eminent domain dispute with Calera property owner Yahoo",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEIyTEM4TXZwc2phMWxuRkZvR3h6UEFrOTEtUUtXNnB1R2wzOEJwMkx0bHNya1hZZE9jRUV6U04zSjBVU0ZFTG1JcnM5bXJXX295Z09PYmdIMklJVVEwQUI0YWxsaWE4WTlsOEZBWGRMbE95M1d0S2JyNDdjcko1bFlrSnZvVWRTUzFfdmFHQTkxQmxRZkE?oc=5\" target=\"_blank\">ALDOT files motion supporting Alabama Power in eminent domain dispute with Calera property owner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-25T16:38:20+00:00"
     },
     {
       "id": "f906b78db25aaaab",
