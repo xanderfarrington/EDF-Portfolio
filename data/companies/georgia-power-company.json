@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-24T21:49:38+00:00",
+  "last_updated": "2026-11-25T04:44:20+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1078,
+  "count": 1080,
   "mentions": [
     {
       "id": "c9fff224d6a13d85",
@@ -21,6 +21,20 @@
       "collected_at": "2026-11-24T21:49:38+00:00"
     },
     {
+      "id": "97cdf873f03ad84c",
+      "title": "Be aware: scammers posing as Georgia Power in Brunswick - WSAV-TV",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTlRaTHVNeWNfVkluRWE0X0lkTmRiRlRUdVhQQ1RhaDk4MW41UEhlR0N4dFc5RUEwN2dfVVp4UG5wSWp0NXpqSmVMRGRQWHFTQ3pzY25fWVMwR2dnV1drYlB1OUlQcmJHT3pPUU1JZ05JdHlBYlVidlFJZU1qTkVqNHBpNDlSSklLX1dfT2tBcU9ibHVoSkE?oc=5",
+      "domain": "news.google.com",
+      "source": "WSAV-TV",
+      "language": "English",
+      "published_at": "2026-11-24T04:11:22+00:00",
+      "summary": "Be aware: scammers posing as Georgia Power in Brunswick WSAV-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPTlRaTHVNeWNfVkluRWE0X0lkTmRiRlRUdVhQQ1RhaDk4MW41UEhlR0N4dFc5RUEwN2dfVVp4UG5wSWp0NXpqSmVMRGRQWHFTQ3pzY25fWVMwR2dnV1drYlB1OUlQcmJHT3pPUU1JZ05JdHlBYlVidlFJZU1qTkVqNHBpNDlSSklLX1dfT2tBcU9ibHVoSkE?oc=5\" target=\"_blank\">Be aware: scammers posing as Georgia Power in Brunswick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAV-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-25T04:44:20+00:00"
+    },
+    {
       "id": "6369a72fc0b0bf40",
       "title": "Be aware: scammers posing as Georgia Power in Brunswick - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGFiNDhyRkoyWExXVlBSSVFILWFlTnFnc0tCSE03UHFJZGdjVnd2RHhqbkI4aWVEaUdDZ1c0RHhVeG5mbTZCdnE5c01Ha1lKN1BjQ2FzTmxWUVNLVTJ6RnRLYzFXS0swaGRaTWpqYnlzSERlTC1OQl9qcFp2bnhnX0ROQnhqSWVpMmlSRnB3Yw?oc=5",
@@ -33,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-24T11:54:36+00:00"
+    },
+    {
+      "id": "1bdb640842b32199",
+      "title": "Be aware: scammers posing as Georgia Power in Brunswick - WSAV-TV",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXp0N2Y2NHg1OGhPR1ExZVFodlZMYjVMZ3AtY1Q0WnpsSVNUMVIzRXJaLWRlZm0xUE5vcmFNUEMzUGtWLTluaG5LZ1RIakFzaWxrdXhmV1ZCUGNJU1RLRTRSRHNrOHVLUWpST3htVnBTQ0V2Y3ZJdEYwaHJuWUtpa2ZNRl9Ndllqbk1BXzY4clBKbWtXNUxv0gGcAUFVX3lxTE5rV0NKb0FkQWN4d0lUaTJ1N3hBTDRfYmg0MHE2N0p1QWFTS0NkeU85Wi1HNGJrTUp4Y2p3cElsOWJRMGFTbVVSbERiTVBtTldTd053aXBjdEJ1OXhvTlAwZ1FWckFaN1RWUVRyOHZXTEtpNVpGU0lGZDFwdXNrQWk4dzRId1pxVlRnSUJOR1ZoLTRCNFpWb0xqRzdHWg?oc=5",
+      "domain": "news.google.com",
+      "source": "WSAV-TV",
+      "language": "English",
+      "published_at": "2026-11-24T01:30:17+00:00",
+      "summary": "Be aware: scammers posing as Georgia Power in Brunswick WSAV-TV",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXp0N2Y2NHg1OGhPR1ExZVFodlZMYjVMZ3AtY1Q0WnpsSVNUMVIzRXJaLWRlZm0xUE5vcmFNUEMzUGtWLTluaG5LZ1RIakFzaWxrdXhmV1ZCUGNJU1RLRTRSRHNrOHVLUWpST3htVnBTQ0V2Y3ZJdEYwaHJuWUtpa2ZNRl9Ndllqbk1BXzY4clBKbWtXNUxv0gGcAUFVX3lxTE5rV0NKb0FkQWN4d0lUaTJ1N3hBTDRfYmg0MHE2N0p1QWFTS0NkeU85Wi1HNGJrTUp4Y2p3cElsOWJRMGFTbVVSbERiTVBtTldTd053aXBjdEJ1OXhvTlAwZ1FWckFaN1RWUVRyOHZXTEtpNVpGU0lGZDFwdXNrQWk4dzRId1pxVlRnSUJOR1ZoLTRCNFpWb0xqRzdHWg?oc=5\" target=\"_blank\">Be aware: scammers posing as Georgia Power in Brunswick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAV-TV</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-25T04:44:20+00:00"
     },
     {
       "id": "3dc9e8e92b4b670d",

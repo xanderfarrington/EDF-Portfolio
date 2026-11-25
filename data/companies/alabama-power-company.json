@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-24T21:49:22+00:00",
+  "last_updated": "2026-11-25T04:44:04+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 760,
+  "count": 761,
   "mentions": [
+    {
+      "id": "b3ec42fd688e3940",
+      "title": "ALDOT files motion to join Alabama Power in eminent domain dispute with property owner - wvtm",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONERteGsyN3BVMjExeVVHckVJbmZ3NHdWc3J0aWVFVGdOdTdFNnc3LXNDZkxhSnJabmNQNEpWbzhiZmRNT1FLVDFEYXo0dG1maHQ1ajg2dzZ1R2JXVG93VnZFSGhoQ2ZMVS1JQ3kwT3hBR1ZmR2hLTjdDMVFMSlVoTF9NVzA5XzlOX1h2Ul9OSjdRVENYNmVUY01n?oc=5",
+      "domain": "news.google.com",
+      "source": "wvtm",
+      "language": "English",
+      "published_at": "2026-11-25T03:49:00+00:00",
+      "summary": "ALDOT files motion to join Alabama Power in eminent domain dispute with property owner wvtm",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONERteGsyN3BVMjExeVVHckVJbmZ3NHdWc3J0aWVFVGdOdTdFNnc3LXNDZkxhSnJabmNQNEpWbzhiZmRNT1FLVDFEYXo0dG1maHQ1ajg2dzZ1R2JXVG93VnZFSGhoQ2ZMVS1JQ3kwT3hBR1ZmR2hLTjdDMVFMSlVoTF9NVzA5XzlOX1h2Ul9OSjdRVENYNmVUY01n?oc=5\" target=\"_blank\">ALDOT files motion to join Alabama Power in eminent domain dispute with property owner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-25T04:44:04+00:00"
+    },
     {
       "id": "f906b78db25aaaab",
       "title": "ALDOT files motion to join Alabama Power in eminent domain dispute with Calera property owner - wvtm",

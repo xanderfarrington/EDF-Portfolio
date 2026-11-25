@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-24T21:49:49+00:00",
+  "last_updated": "2026-11-25T04:44:31+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 148,
-      "new_mentions_this_run": 16,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "e04332a97328ab8f",
         "title": "American Electric Power Company (AEP) Stock Price, News & Analysis - Stock Titan",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 760,
-      "new_mentions_this_run": 24,
+      "count": 761,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "f906b78db25aaaab",
-        "title": "ALDOT files motion to join Alabama Power in eminent domain dispute with Calera property owner - wvtm",
+        "id": "b3ec42fd688e3940",
+        "title": "ALDOT files motion to join Alabama Power in eminent domain dispute with property owner - wvtm",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONERteGsyN3BVMjExeVVHckVJbmZ3NHdWc3J0aWVFVGdOdTdFNnc3LXNDZkxhSnJabmNQNEpWbzhiZmRNT1FLVDFEYXo0dG1maHQ1ajg2dzZ1R2JXVG93VnZFSGhoQ2ZMVS1JQ3kwT3hBR1ZmR2hLTjdDMVFMSlVoTF9NVzA5XzlOX1h2Ul9OSjdRVENYNmVUY01n?oc=5",
         "domain": "news.google.com",
         "source": "wvtm",
         "language": "English",
-        "published_at": "2026-11-24T21:06:00+00:00",
-        "summary": "ALDOT files motion to join Alabama Power in eminent domain dispute with Calera property owner wvtm",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONERteGsyN3BVMjExeVVHckVJbmZ3NHdWc3J0aWVFVGdOdTdFNnc3LXNDZkxhSnJabmNQNEpWbzhiZmRNT1FLVDFEYXo0dG1maHQ1ajg2dzZ1R2JXVG93VnZFSGhoQ2ZMVS1JQ3kwT3hBR1ZmR2hLTjdDMVFMSlVoTF9NVzA5XzlOX1h2Ul9OSjdRVENYNmVUY01n?oc=5\" target=\"_blank\">ALDOT files motion to join Alabama Power in eminent domain dispute with Calera property owner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+        "published_at": "2026-11-25T03:49:00+00:00",
+        "summary": "ALDOT files motion to join Alabama Power in eminent domain dispute with property owner wvtm",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONERteGsyN3BVMjExeVVHckVJbmZ3NHdWc3J0aWVFVGdOdTdFNnc3LXNDZkxhSnJabmNQNEpWbzhiZmRNT1FLVDFEYXo0dG1maHQ1ajg2dzZ1R2JXVG93VnZFSGhoQ2ZMVS1JQ3kwT3hBR1ZmR2hLTjdDMVFMSlVoTF9NVzA5XzlOX1h2Ul9OSjdRVENYNmVUY01n?oc=5\" target=\"_blank\">ALDOT files motion to join Alabama Power in eminent domain dispute with property owner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-24T21:49:22+00:00"
+        "collected_at": "2026-11-25T04:44:04+00:00"
       }
     },
     {
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1078,
-      "new_mentions_this_run": 10,
+      "count": 1080,
+      "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "c9fff224d6a13d85",
         "title": "Georgia Power celebrates 100 years of Network Underground service in communities across Georgia - StreetInsider",
