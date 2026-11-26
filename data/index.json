@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T01:26:38+00:00",
+  "last_updated": "2026-11-26T10:19:27+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 766,
+      "count": 769,
       "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "11d3b7fff0a875e4",
-        "title": "ALDOT backs Alabama Power in Fenn Church dispute, citing concerns for future road projects - WBMA",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNampDaXp4T2NvLWRmVDJBUUtxZW5qU25qdW1xamJZSWV5YmpyNTNuVzJCeFd5NmdWUGtKdHYySVoxQXlsQXpicWF4R3MxTVkyUlBqdDY0d2F0SzhuNjAtYnpSb2lSNHlyc2I2NnFfRlpDU1Y3ZkVlckNzTWJWSUplR3FaSzc1Q3AyOUxFVEtXNUQyWE1zbVVEUEhpYm96SUQ5N0hvbEluNW5FbXd2TUNpRWlzaFdPWkxHemVvVnNLZnNWNFdNcDgtOFlWd0cyU0k?oc=5",
+        "id": "5c236812698b037e",
+        "title": "Alabama Power proposes $160M rate cut, cites data center growth - The Black Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnJqU0lGaFBPWmRmTEtOZXRPd3h5OFlibS1pNGE1U1lBQVVUM0tKNVZ0TDljMVpPcmszcVBkdEdwMm1ORDliR1ZxR2t4dTk1Rjd1X1FxTlduQ2VIdVRYLVhHVUVhSzVhSlJLdGlTMFVmLWVldFFfSE9lQlhfdlFWT3g2bXE2cVE0S0pLUGR5bDJ1YXJSSXNYSmtqbDc?oc=5",
         "domain": "news.google.com",
-        "source": "WBMA",
+        "source": "The Black Chronicle",
         "language": "English",
-        "published_at": "2026-11-25T23:54:12+00:00",
-        "summary": "ALDOT backs Alabama Power in Fenn Church dispute, citing concerns for future road projects WBMA",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNampDaXp4T2NvLWRmVDJBUUtxZW5qU25qdW1xamJZSWV5YmpyNTNuVzJCeFd5NmdWUGtKdHYySVoxQXlsQXpicWF4R3MxTVkyUlBqdDY0d2F0SzhuNjAtYnpSb2lSNHlyc2I2NnFfRlpDU1Y3ZkVlckNzTWJWSUplR3FaSzc1Q3AyOUxFVEtXNUQyWE1zbVVEUEhpYm96SUQ5N0hvbEluNW5FbXd2TUNpRWlzaFdPWkxHemVvVnNLZnNWNFdNcDgtOFlWd0cyU0k?oc=5\" target=\"_blank\">ALDOT backs Alabama Power in Fenn Church dispute, citing concerns for future road projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+        "published_at": "2026-11-26T03:44:48+00:00",
+        "summary": "Alabama Power proposes $160M rate cut, cites data center growth The Black Chronicle",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnJqU0lGaFBPWmRmTEtOZXRPd3h5OFlibS1pNGE1U1lBQVVUM0tKNVZ0TDljMVpPcmszcVBkdEdwMm1ORDliR1ZxR2t4dTk1Rjd1X1FxTlduQ2VIdVRYLVhHVUVhSzVhSlJLdGlTMFVmLWVldFFfSE9lQlhfdlFWT3g2bXE2cVE0S0pLUGR5bDJ1YXJSSXNYSmtqbDc?oc=5\" target=\"_blank\">Alabama Power proposes $160M rate cut, cites data center growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Black Chronicle</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-26T01:26:12+00:00"
+        "collected_at": "2026-11-26T10:19:01+00:00"
       }
     },
     {
@@ -89,21 +89,21 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1081,
-      "new_mentions_this_run": 24,
+      "count": 1083,
+      "new_mentions_this_run": 9,
       "latest_mention": {
-        "id": "b466202efb9f9768",
-        "title": "Georgia power tops Kamehameha - Honolulu Star-Advertiser",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2VONmJkVEQ4MEJ3aVh5c0hiRGdZSUdZUW5JR01vUVN6SFZJckRWSUpDc3NJMU9QajJacFk3MmRsYnhmM0VzaXhnRnZqQnVaZU96b2VGMDg0UGozZFQwWnpWSU9VYUpOdXl3TUxzVmJqVGFxajVIMVY5dEYtTkFGQ1JPTGpHUnZRLUtMNTZyNFlIS3dEQVMtZElQYW9EUQ?oc=5",
+        "id": "55dd8bfce79820c0",
+        "title": "Advocates Call to End Georgia’s Reliance on Coal - Southern Alliance for Clean Energy",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUZabkFzNWdGNENHdHpGc2c4SlA5RC1NZDZfeGRBRDBTMVVDX1FmdGIxdTYtZzdIdnhDQVk3ODItN25WdXdERFRhbXJkR3VBUDJORTRwdGxORl8yYUFVSEdRR1hIcE5aRF9GZmozSnIxZHhLbkRITkhLVTNMWFV0M2V2aw?oc=5",
         "domain": "news.google.com",
-        "source": "Honolulu Star-Advertiser",
+        "source": "Southern Alliance for Clean Energy",
         "language": "English",
-        "published_at": "2026-11-25T10:19:38+00:00",
-        "summary": "Georgia power tops Kamehameha Honolulu Star-Advertiser",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPR2VONmJkVEQ4MEJ3aVh5c0hiRGdZSUdZUW5JR01vUVN6SFZJckRWSUpDc3NJMU9QajJacFk3MmRsYnhmM0VzaXhnRnZqQnVaZU96b2VGMDg0UGozZFQwWnpWSU9VYUpOdXl3TUxzVmJqVGFxajVIMVY5dEYtTkFGQ1JPTGpHUnZRLUtMNTZyNFlIS3dEQVMtZElQYW9EUQ?oc=5\" target=\"_blank\">Georgia power tops Kamehameha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
+        "published_at": "2026-11-25T21:59:50+00:00",
+        "summary": "Advocates Call to End Georgia’s Reliance on Coal Southern Alliance for Clean Energy",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUZabkFzNWdGNENHdHpGc2c4SlA5RC1NZDZfeGRBRDBTMVVDX1FmdGIxdTYtZzdIdnhDQVk3ODItN25WdXdERFRhbXJkR3VBUDJORTRwdGxORl8yYUFVSEdRR1hIcE5aRF9GZmozSnIxZHhLbkRITkhLVTNMWFV0M2V2aw?oc=5\" target=\"_blank\">Advocates Call to End Georgia’s Reliance on Coal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southern Alliance for Clean Energy</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-25T16:38:36+00:00"
+        "collected_at": "2026-11-26T10:19:17+00:00"
       }
     },
     {

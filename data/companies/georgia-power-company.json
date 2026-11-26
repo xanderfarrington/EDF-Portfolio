@@ -2,10 +2,24 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-26T01:26:28+00:00",
+  "last_updated": "2026-11-26T10:19:17+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1081,
+  "count": 1083,
   "mentions": [
+    {
+      "id": "55dd8bfce79820c0",
+      "title": "Advocates Call to End Georgia’s Reliance on Coal - Southern Alliance for Clean Energy",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUZabkFzNWdGNENHdHpGc2c4SlA5RC1NZDZfeGRBRDBTMVVDX1FmdGIxdTYtZzdIdnhDQVk3ODItN25WdXdERFRhbXJkR3VBUDJORTRwdGxORl8yYUFVSEdRR1hIcE5aRF9GZmozSnIxZHhLbkRITkhLVTNMWFV0M2V2aw?oc=5",
+      "domain": "news.google.com",
+      "source": "Southern Alliance for Clean Energy",
+      "language": "English",
+      "published_at": "2026-11-25T21:59:50+00:00",
+      "summary": "Advocates Call to End Georgia’s Reliance on Coal Southern Alliance for Clean Energy",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUZabkFzNWdGNENHdHpGc2c4SlA5RC1NZDZfeGRBRDBTMVVDX1FmdGIxdTYtZzdIdnhDQVk3ODItN25WdXdERFRhbXJkR3VBUDJORTRwdGxORl8yYUFVSEdRR1hIcE5aRF9GZmozSnIxZHhLbkRITkhLVTNMWFV0M2V2aw?oc=5\" target=\"_blank\">Advocates Call to End Georgia’s Reliance on Coal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southern Alliance for Clean Energy</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-26T10:19:17+00:00"
+    },
     {
       "id": "b466202efb9f9768",
       "title": "Georgia power tops Kamehameha - Honolulu Star-Advertiser",
@@ -33,6 +47,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-24T21:49:38+00:00"
+    },
+    {
+      "id": "6d7982e47656e2d7",
+      "title": "Georgia Power celebrates 100 years of Network Underground service in communities across Georgia - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaTRjTFpVMEpwUzFHSTBDaTZYVUNQX01NakZmTDNqM1Z5alRxTll0T3NTRkRrVWJySFBsc1NHcE5TWEQ3RV9VbnluckF4Q0NyNlk1NV9vLXZuRXBJaWpLOFFyU1hUd3Voa3VDVnpDRDJnZnJtU2RmRF93bWVBaWZ0TW5Zb1pBcTB0OTA1dlVqVU5SRUZtLUE?oc=5",
+      "domain": "news.google.com",
+      "source": "Yahoo Finance",
+      "language": "English",
+      "published_at": "2026-11-24T17:57:00+00:00",
+      "summary": "Georgia Power celebrates 100 years of Network Underground service in communities across Georgia Yahoo Finance",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPaTRjTFpVMEpwUzFHSTBDaTZYVUNQX01NakZmTDNqM1Z5alRxTll0T3NTRkRrVWJySFBsc1NHcE5TWEQ3RV9VbnluckF4Q0NyNlk1NV9vLXZuRXBJaWpLOFFyU1hUd3Voa3VDVnpDRDJnZnJtU2RmRF93bWVBaWZ0TW5Zb1pBcTB0OTA1dlVqVU5SRUZtLUE?oc=5\" target=\"_blank\">Georgia Power celebrates 100 years of Network Underground service in communities across Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-26T10:19:17+00:00"
     },
     {
       "id": "97cdf873f03ad84c",

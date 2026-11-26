@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-26T01:26:12+00:00",
+  "last_updated": "2026-11-26T10:19:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 766,
+  "count": 769,
   "mentions": [
+    {
+      "id": "5c236812698b037e",
+      "title": "Alabama Power proposes $160M rate cut, cites data center growth - The Black Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnJqU0lGaFBPWmRmTEtOZXRPd3h5OFlibS1pNGE1U1lBQVVUM0tKNVZ0TDljMVpPcmszcVBkdEdwMm1ORDliR1ZxR2t4dTk1Rjd1X1FxTlduQ2VIdVRYLVhHVUVhSzVhSlJLdGlTMFVmLWVldFFfSE9lQlhfdlFWT3g2bXE2cVE0S0pLUGR5bDJ1YXJSSXNYSmtqbDc?oc=5",
+      "domain": "news.google.com",
+      "source": "The Black Chronicle",
+      "language": "English",
+      "published_at": "2026-11-26T03:44:48+00:00",
+      "summary": "Alabama Power proposes $160M rate cut, cites data center growth The Black Chronicle",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnJqU0lGaFBPWmRmTEtOZXRPd3h5OFlibS1pNGE1U1lBQVVUM0tKNVZ0TDljMVpPcmszcVBkdEdwMm1ORDliR1ZxR2t4dTk1Rjd1X1FxTlduQ2VIdVRYLVhHVUVhSzVhSlJLdGlTMFVmLWVldFFfSE9lQlhfdlFWT3g2bXE2cVE0S0pLUGR5bDJ1YXJSSXNYSmtqbDc?oc=5\" target=\"_blank\">Alabama Power proposes $160M rate cut, cites data center growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Black Chronicle</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-26T10:19:01+00:00"
+    },
     {
       "id": "11d3b7fff0a875e4",
       "title": "ALDOT backs Alabama Power in Fenn Church dispute, citing concerns for future road projects - WBMA",
@@ -47,6 +61,34 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-26T01:26:12+00:00"
+    },
+    {
+      "id": "6ea6477d016bd04f",
+      "title": "Alabama Power proposes $160M rate cut, cites data center growth - The Center Square",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOEpDdUVsTE83VmFNQjBLZXRwZDBfbW9MX0gtZFVLMEFtRkFYZDdPUXpUeTJYVTZ2bmNJelZDSDFMX0hqalhEZE1DNXRUamRzZTNLeUdxaHJ5LXdXeTZxOTZRQVg4N2RfUVkxcldxMVBCc1hqS1dMc3BOa19QbUJpZUhqeVB3RTJzNWtoMkstbU9GNGfSAZgBQVVfeXFMTzJKSWdlT3ZFVDdHNzRkbjF4d3VKTmlyNkZaQi0yN2FZX2RWNXoxTDM0V2Q5NVJGOW8yNFRQeWdWMU9HNjVwNTNxTUczbERxdE9QZlhFRmRCUnhDZ1oyMW9jVTgzTVIxbm5FSUpWX1JPSHZRdkVUWWJzNlZrdWpBbUUyZFJKT3I1UGh5Y09udHFPeDVVTjUzVno?oc=5",
+      "domain": "news.google.com",
+      "source": "The Center Square",
+      "language": "English",
+      "published_at": "2026-11-25T22:35:00+00:00",
+      "summary": "Alabama Power proposes $160M rate cut, cites data center growth The Center Square",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNOEpDdUVsTE83VmFNQjBLZXRwZDBfbW9MX0gtZFVLMEFtRkFYZDdPUXpUeTJYVTZ2bmNJelZDSDFMX0hqalhEZE1DNXRUamRzZTNLeUdxaHJ5LXdXeTZxOTZRQVg4N2RfUVkxcldxMVBCc1hqS1dMc3BOa19QbUJpZUhqeVB3RTJzNWtoMkstbU9GNGfSAZgBQVVfeXFMTzJKSWdlT3ZFVDdHNzRkbjF4d3VKTmlyNkZaQi0yN2FZX2RWNXoxTDM0V2Q5NVJGOW8yNFRQeWdWMU9HNjVwNTNxTUczbERxdE9QZlhFRmRCUnhDZ1oyMW9jVTgzTVIxbm5FSUpWX1JPSHZRdkVUWWJzNlZrdWpBbUUyZFJKT3I1UGh5Y09udHFPeDVVTjUzVno?oc=5\" target=\"_blank\">Alabama Power proposes $160M rate cut, cites data center growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Center Square</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-26T10:19:01+00:00"
+    },
+    {
+      "id": "ec207970c894f6f7",
+      "title": "Alabama Power proposes $160M rate cut, cites data center growth - The Rome News-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOR19XLTlpaEVEa0Z0Z1BBZXlybk1KeVpmTVNnZUZDRjlxRjlTYUMxbTQtVjFmM2VqM2JmcjliVGpSQTlyaE1ZWnFzOVFKSDE3SGtRNnFFMTBtYzZqOWFlRGJuZ0h0NjZqa0lsYWtheFEtYUYwMTV3V3NzZDc3Z0xESktIU0g2WGdUbDNyQkQtT2s5WWJUTHJZWHh2cENCSFlvN1RSeERvX1R3TGZzckJzYUljMHg2U2o2dmFIZFNWYzBPN0FTckVGellxdWtkandjZG5TSWlxZDNuNFVUYlppVnB3?oc=5",
+      "domain": "news.google.com",
+      "source": "The Rome News-Tribune",
+      "language": "English",
+      "published_at": "2026-11-25T22:35:00+00:00",
+      "summary": "Alabama Power proposes $160M rate cut, cites data center growth The Rome News-Tribune",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOR19XLTlpaEVEa0Z0Z1BBZXlybk1KeVpmTVNnZUZDRjlxRjlTYUMxbTQtVjFmM2VqM2JmcjliVGpSQTlyaE1ZWnFzOVFKSDE3SGtRNnFFMTBtYzZqOWFlRGJuZ0h0NjZqa0lsYWtheFEtYUYwMTV3V3NzZDc3Z0xESktIU0g2WGdUbDNyQkQtT2s5WWJUTHJZWHh2cENCSFlvN1RSeERvX1R3TGZzckJzYUljMHg2U2o2dmFIZFNWYzBPN0FTckVGellxdWtkandjZG5TSWlxZDNuNFVUYlppVnB3?oc=5\" target=\"_blank\">Alabama Power proposes $160M rate cut, cites data center growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rome News-Tribune</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-26T10:19:01+00:00"
     },
     {
       "id": "648f9e9824e00cf0",
