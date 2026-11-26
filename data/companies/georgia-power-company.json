@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-26T10:19:17+00:00",
+  "last_updated": "2026-11-26T20:48:25+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1083,
+  "count": 1084,
   "mentions": [
     {
       "id": "55dd8bfce79820c0",
@@ -61,6 +61,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-26T10:19:17+00:00"
+    },
+    {
+      "id": "a79b8c5f02fe6d40",
+      "title": "Georgia Power celebrates 100 years of Network Underground service in communities across Georgia - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQXzliaGpsemVtZDhXaTlhYUhLVjBkQ01qNzRvbGtCbmdYSy1VdzJiUkMxeUhOQ0htaFJxdUo4RGt2LW9ENmdZMzRZa0xNSkc0N1hRVlpCLUpFXzVpZmZ5cm84aktNNG1zNTJLbE5Wal9vWVNVU3hpb0xHSkZYZzJwc0Z1WHJuSW1mSTdfdzVFYU5MWnBpbUVHYkFMaUNHaXVXRnNubWtOUi0zd0dfMnJtV1ZxRi05RFVsblNTbmQxQ0llTjR2LUk3S29GOE4zYWpBWTFxTVN6bEpYcHZnYVBiTkVXejJKdw?oc=5",
+      "domain": "news.google.com",
+      "source": "PR Newswire",
+      "language": "English",
+      "published_at": "2026-11-24T17:57:00+00:00",
+      "summary": "Georgia Power celebrates 100 years of Network Underground service in communities across Georgia PR Newswire",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQXzliaGpsemVtZDhXaTlhYUhLVjBkQ01qNzRvbGtCbmdYSy1VdzJiUkMxeUhOQ0htaFJxdUo4RGt2LW9ENmdZMzRZa0xNSkc0N1hRVlpCLUpFXzVpZmZ5cm84aktNNG1zNTJLbE5Wal9vWVNVU3hpb0xHSkZYZzJwc0Z1WHJuSW1mSTdfdzVFYU5MWnBpbUVHYkFMaUNHaXVXRnNubWtOUi0zd0dfMnJtV1ZxRi05RFVsblNTbmQxQ0llTjR2LUk3S29GOE4zYWpBWTFxTVN6bEpYcHZnYVBiTkVXejJKdw?oc=5\" target=\"_blank\">Georgia Power celebrates 100 years of Network Underground service in communities across Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-26T20:48:25+00:00"
     },
     {
       "id": "97cdf873f03ad84c",

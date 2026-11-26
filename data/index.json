@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-26T10:19:27+00:00",
+  "last_updated": "2026-11-26T20:48:35+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 149,
-      "new_mentions_this_run": 15,
+      "new_mentions_this_run": 12,
       "latest_mention": {
         "id": "e04332a97328ab8f",
         "title": "American Electric Power Company (AEP) Stock Price, News & Analysis - Stock Titan",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 769,
-      "new_mentions_this_run": 24,
+      "count": 773,
+      "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "5c236812698b037e",
-        "title": "Alabama Power proposes $160M rate cut, cites data center growth - The Black Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnJqU0lGaFBPWmRmTEtOZXRPd3h5OFlibS1pNGE1U1lBQVVUM0tKNVZ0TDljMVpPcmszcVBkdEdwMm1ORDliR1ZxR2t4dTk1Rjd1X1FxTlduQ2VIdVRYLVhHVUVhSzVhSlJLdGlTMFVmLWVldFFfSE9lQlhfdlFWT3g2bXE2cVE0S0pLUGR5bDJ1YXJSSXNYSmtqbDc?oc=5",
+        "id": "ed72564c3cef3283",
+        "title": "Alabama Power Rate Cut | Cullman Today Shorts - The Cullman Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1dIUGlIX05na09QZ2FmUVRDR01tak5lUVZZSGZTQjJQSU1DWGkxem1BRzVQblRldzN3aWEySG1jb21adFFuNDRsN3lOS2xiUlh2WUVWSkR3dVFkWEFjQmpqUl9BNzJDVFZBbmhUZGlJbkNwZENJZ1lLR3lhVXozUk5namM4Uk9GX1E?oc=5",
         "domain": "news.google.com",
-        "source": "The Black Chronicle",
+        "source": "The Cullman Tribune",
         "language": "English",
-        "published_at": "2026-11-26T03:44:48+00:00",
-        "summary": "Alabama Power proposes $160M rate cut, cites data center growth The Black Chronicle",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnJqU0lGaFBPWmRmTEtOZXRPd3h5OFlibS1pNGE1U1lBQVVUM0tKNVZ0TDljMVpPcmszcVBkdEdwMm1ORDliR1ZxR2t4dTk1Rjd1X1FxTlduQ2VIdVRYLVhHVUVhSzVhSlJLdGlTMFVmLWVldFFfSE9lQlhfdlFWT3g2bXE2cVE0S0pLUGR5bDJ1YXJSSXNYSmtqbDc?oc=5\" target=\"_blank\">Alabama Power proposes $160M rate cut, cites data center growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Black Chronicle</font>",
+        "published_at": "2026-11-26T18:00:00+00:00",
+        "summary": "Alabama Power Rate Cut | Cullman Today Shorts The Cullman Tribune",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1dIUGlIX05na09QZ2FmUVRDR01tak5lUVZZSGZTQjJQSU1DWGkxem1BRzVQblRldzN3aWEySG1jb21adFFuNDRsN3lOS2xiUlh2WUVWSkR3dVFkWEFjQmpqUl9BNzJDVFZBbmhUZGlJbkNwZENJZ1lLR3lhVXozUk5namM4Uk9GX1E?oc=5\" target=\"_blank\">Alabama Power Rate Cut | Cullman Today Shorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cullman Tribune</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-26T10:19:01+00:00"
+        "collected_at": "2026-11-26T20:48:09+00:00"
       }
     },
     {
@@ -89,8 +89,8 @@
       "name": "Georgia Power Company",
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
-      "count": 1083,
-      "new_mentions_this_run": 9,
+      "count": 1084,
+      "new_mentions_this_run": 6,
       "latest_mention": {
         "id": "55dd8bfce79820c0",
         "title": "Advocates Call to End Georgia’s Reliance on Coal - Southern Alliance for Clean Energy",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 77,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 4,
       "latest_mention": {
         "id": "6fafa278a3b282d6",
         "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",
