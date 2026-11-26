@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-25T16:38:46+00:00",
+  "last_updated": "2026-11-26T01:26:38+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
-      "count": 148,
-      "new_mentions_this_run": 4,
+      "count": 149,
+      "new_mentions_this_run": 15,
       "latest_mention": {
         "id": "e04332a97328ab8f",
         "title": "American Electric Power Company (AEP) Stock Price, News & Analysis - Stock Titan",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 762,
-      "new_mentions_this_run": 25,
+      "count": 766,
+      "new_mentions_this_run": 24,
       "latest_mention": {
-        "id": "b3ec42fd688e3940",
-        "title": "ALDOT files motion to join Alabama Power in eminent domain dispute with property owner - wvtm",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONERteGsyN3BVMjExeVVHckVJbmZ3NHdWc3J0aWVFVGdOdTdFNnc3LXNDZkxhSnJabmNQNEpWbzhiZmRNT1FLVDFEYXo0dG1maHQ1ajg2dzZ1R2JXVG93VnZFSGhoQ2ZMVS1JQ3kwT3hBR1ZmR2hLTjdDMVFMSlVoTF9NVzA5XzlOX1h2Ul9OSjdRVENYNmVUY01n?oc=5",
+        "id": "11d3b7fff0a875e4",
+        "title": "ALDOT backs Alabama Power in Fenn Church dispute, citing concerns for future road projects - WBMA",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNampDaXp4T2NvLWRmVDJBUUtxZW5qU25qdW1xamJZSWV5YmpyNTNuVzJCeFd5NmdWUGtKdHYySVoxQXlsQXpicWF4R3MxTVkyUlBqdDY0d2F0SzhuNjAtYnpSb2lSNHlyc2I2NnFfRlpDU1Y3ZkVlckNzTWJWSUplR3FaSzc1Q3AyOUxFVEtXNUQyWE1zbVVEUEhpYm96SUQ5N0hvbEluNW5FbXd2TUNpRWlzaFdPWkxHemVvVnNLZnNWNFdNcDgtOFlWd0cyU0k?oc=5",
         "domain": "news.google.com",
-        "source": "wvtm",
+        "source": "WBMA",
         "language": "English",
-        "published_at": "2026-11-25T03:49:00+00:00",
-        "summary": "ALDOT files motion to join Alabama Power in eminent domain dispute with property owner wvtm",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONERteGsyN3BVMjExeVVHckVJbmZ3NHdWc3J0aWVFVGdOdTdFNnc3LXNDZkxhSnJabmNQNEpWbzhiZmRNT1FLVDFEYXo0dG1maHQ1ajg2dzZ1R2JXVG93VnZFSGhoQ2ZMVS1JQ3kwT3hBR1ZmR2hLTjdDMVFMSlVoTF9NVzA5XzlOX1h2Ul9OSjdRVENYNmVUY01n?oc=5\" target=\"_blank\">ALDOT files motion to join Alabama Power in eminent domain dispute with property owner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wvtm</font>",
+        "published_at": "2026-11-25T23:54:12+00:00",
+        "summary": "ALDOT backs Alabama Power in Fenn Church dispute, citing concerns for future road projects WBMA",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNampDaXp4T2NvLWRmVDJBUUtxZW5qU25qdW1xamJZSWV5YmpyNTNuVzJCeFd5NmdWUGtKdHYySVoxQXlsQXpicWF4R3MxTVkyUlBqdDY0d2F0SzhuNjAtYnpSb2lSNHlyc2I2NnFfRlpDU1Y3ZkVlckNzTWJWSUplR3FaSzc1Q3AyOUxFVEtXNUQyWE1zbVVEUEhpYm96SUQ5N0hvbEluNW5FbXd2TUNpRWlzaFdPWkxHemVvVnNLZnNWNFdNcDgtOFlWd0cyU0k?oc=5\" target=\"_blank\">ALDOT backs Alabama Power in Fenn Church dispute, citing concerns for future road projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-25T04:44:04+00:00"
+        "collected_at": "2026-11-26T01:26:12+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1081,
-      "new_mentions_this_run": 8,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "b466202efb9f9768",
         "title": "Georgia power tops Kamehameha - Honolulu Star-Advertiser",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 77,
-      "new_mentions_this_run": 4,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "6fafa278a3b282d6",
         "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",
