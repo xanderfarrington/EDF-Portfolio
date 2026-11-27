@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-27T03:53:59+00:00",
+  "last_updated": "2026-11-27T13:24:06+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 149,
-      "new_mentions_this_run": 12,
+      "new_mentions_this_run": 11,
       "latest_mention": {
         "id": "e04332a97328ab8f",
         "title": "American Electric Power Company (AEP) Stock Price, News & Analysis - Stock Titan",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 774,
+      "count": 775,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "ed72564c3cef3283",
-        "title": "Alabama Power Rate Cut | Cullman Today Shorts - The Cullman Tribune",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1dIUGlIX05na09QZ2FmUVRDR01tak5lUVZZSGZTQjJQSU1DWGkxem1BRzVQblRldzN3aWEySG1jb21adFFuNDRsN3lOS2xiUlh2WUVWSkR3dVFkWEFjQmpqUl9BNzJDVFZBbmhUZGlJbkNwZENJZ1lLR3lhVXozUk5namM4Uk9GX1E?oc=5",
+        "id": "cb2c186d8c9c1c08",
+        "title": "Alabama Power has encroached on one landowner’s property, and he’s shrugging off their payout - MoneyWise.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3VFNDJlRmkyQWV6a1pWYkhFbkk0RjVUNTQta3E1YVpmcFBTM2lYaXRjOS1LdndSWGgtMzgzLTJvdjNnWjlFZUl1ckFhRUVZS1VkbDg3UWN4dzVlU1hweEdTMEloaFF2UGZTeHZyMElBbWFPNE4xaVd3ZE5McmZPUTRIT2tDcjZ3ck90VFppTVlDdmFNUi05ak9jaVhieVhx?oc=5",
         "domain": "news.google.com",
-        "source": "The Cullman Tribune",
+        "source": "MoneyWise.com",
         "language": "English",
-        "published_at": "2026-11-26T18:00:00+00:00",
-        "summary": "Alabama Power Rate Cut | Cullman Today Shorts The Cullman Tribune",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1dIUGlIX05na09QZ2FmUVRDR01tak5lUVZZSGZTQjJQSU1DWGkxem1BRzVQblRldzN3aWEySG1jb21adFFuNDRsN3lOS2xiUlh2WUVWSkR3dVFkWEFjQmpqUl9BNzJDVFZBbmhUZGlJbkNwZENJZ1lLR3lhVXozUk5namM4Uk9GX1E?oc=5\" target=\"_blank\">Alabama Power Rate Cut | Cullman Today Shorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cullman Tribune</font>",
+        "published_at": "2026-11-27T12:00:19+00:00",
+        "summary": "Alabama Power has encroached on one landowner’s property, and he’s shrugging off their payout MoneyWise.com",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3VFNDJlRmkyQWV6a1pWYkhFbkk0RjVUNTQta3E1YVpmcFBTM2lYaXRjOS1LdndSWGgtMzgzLTJvdjNnWjlFZUl1ckFhRUVZS1VkbDg3UWN4dzVlU1hweEdTMEloaFF2UGZTeHZyMElBbWFPNE4xaVd3ZE5McmZPUTRIT2tDcjZ3ck90VFppTVlDdmFNUi05ak9jaVhieVhx?oc=5\" target=\"_blank\">Alabama Power has encroached on one landowner’s property, and he’s shrugging off their payout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MoneyWise.com</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-26T20:48:09+00:00"
+        "collected_at": "2026-11-27T13:23:40+00:00"
       }
     },
     {
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1084,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 24,
       "latest_mention": {
         "id": "55dd8bfce79820c0",
         "title": "Advocates Call to End Georgia’s Reliance on Coal - Southern Alliance for Clean Energy",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 77,
-      "new_mentions_this_run": 6,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "6fafa278a3b282d6",
         "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",

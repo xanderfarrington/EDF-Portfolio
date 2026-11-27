@@ -2,10 +2,24 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-27T03:53:32+00:00",
+  "last_updated": "2026-11-27T13:23:40+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 774,
+  "count": 775,
   "mentions": [
+    {
+      "id": "cb2c186d8c9c1c08",
+      "title": "Alabama Power has encroached on one landowner’s property, and he’s shrugging off their payout - MoneyWise.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3VFNDJlRmkyQWV6a1pWYkhFbkk0RjVUNTQta3E1YVpmcFBTM2lYaXRjOS1LdndSWGgtMzgzLTJvdjNnWjlFZUl1ckFhRUVZS1VkbDg3UWN4dzVlU1hweEdTMEloaFF2UGZTeHZyMElBbWFPNE4xaVd3ZE5McmZPUTRIT2tDcjZ3ck90VFppTVlDdmFNUi05ak9jaVhieVhx?oc=5",
+      "domain": "news.google.com",
+      "source": "MoneyWise.com",
+      "language": "English",
+      "published_at": "2026-11-27T12:00:19+00:00",
+      "summary": "Alabama Power has encroached on one landowner’s property, and he’s shrugging off their payout MoneyWise.com",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3VFNDJlRmkyQWV6a1pWYkhFbkk0RjVUNTQta3E1YVpmcFBTM2lYaXRjOS1LdndSWGgtMzgzLTJvdjNnWjlFZUl1ckFhRUVZS1VkbDg3UWN4dzVlU1hweEdTMEloaFF2UGZTeHZyMElBbWFPNE4xaVd3ZE5McmZPUTRIT2tDcjZ3ck90VFppTVlDdmFNUi05ak9jaVhieVhx?oc=5\" target=\"_blank\">Alabama Power has encroached on one landowner’s property, and he’s shrugging off their payout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MoneyWise.com</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-27T13:23:40+00:00"
+    },
     {
       "id": "ed72564c3cef3283",
       "title": "Alabama Power Rate Cut | Cullman Today Shorts - The Cullman Tribune",
