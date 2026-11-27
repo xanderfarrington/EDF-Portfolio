@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-27T13:24:06+00:00",
+  "last_updated": "2026-11-27T22:27:13+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
       "slug": "aep-transmission",
       "file": "data/companies/aep-transmission.json",
       "count": 149,
-      "new_mentions_this_run": 11,
+      "new_mentions_this_run": 2,
       "latest_mention": {
         "id": "e04332a97328ab8f",
         "title": "American Electric Power Company (AEP) Stock Price, News & Analysis - Stock Titan",
@@ -26,21 +26,21 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 775,
+      "count": 776,
       "new_mentions_this_run": 25,
       "latest_mention": {
-        "id": "cb2c186d8c9c1c08",
-        "title": "Alabama Power has encroached on one landowner’s property, and he’s shrugging off their payout - MoneyWise.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3VFNDJlRmkyQWV6a1pWYkhFbkk0RjVUNTQta3E1YVpmcFBTM2lYaXRjOS1LdndSWGgtMzgzLTJvdjNnWjlFZUl1ckFhRUVZS1VkbDg3UWN4dzVlU1hweEdTMEloaFF2UGZTeHZyMElBbWFPNE4xaVd3ZE5McmZPUTRIT2tDcjZ3ck90VFppTVlDdmFNUi05ak9jaVhieVhx?oc=5",
+        "id": "c02f96823a522b44",
+        "title": "Alabama Power files for $160M rate cut starting in January - The Cullman Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1d3RTA1R21CejcyYjZrWXJkdHVvY3pXcUt5NEZDLUNTZktRaEQybG5xaS1BN2VzeUhRUmxkeGNRdml5R09tSkFXYnZrbE1rdEViWlZnYUgtelBtbjduaERiLUhpSFhySTEzcFdxUHRaSnhUSHFVV21KeHRXZFlWQUdNX016SWQ0d19XaU8yeUEtR3lwb3VQbVJPdGF2cFpZSUE?oc=5",
         "domain": "news.google.com",
-        "source": "MoneyWise.com",
+        "source": "The Cullman Tribune",
         "language": "English",
-        "published_at": "2026-11-27T12:00:19+00:00",
-        "summary": "Alabama Power has encroached on one landowner’s property, and he’s shrugging off their payout MoneyWise.com",
-        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3VFNDJlRmkyQWV6a1pWYkhFbkk0RjVUNTQta3E1YVpmcFBTM2lYaXRjOS1LdndSWGgtMzgzLTJvdjNnWjlFZUl1ckFhRUVZS1VkbDg3UWN4dzVlU1hweEdTMEloaFF2UGZTeHZyMElBbWFPNE4xaVd3ZE5McmZPUTRIT2tDcjZ3ck90VFppTVlDdmFNUi05ak9jaVhieVhx?oc=5\" target=\"_blank\">Alabama Power has encroached on one landowner’s property, and he’s shrugging off their payout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MoneyWise.com</font>",
+        "published_at": "2026-11-27T15:29:29+00:00",
+        "summary": "Alabama Power files for $160M rate cut starting in January The Cullman Tribune",
+        "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1d3RTA1R21CejcyYjZrWXJkdHVvY3pXcUt5NEZDLUNTZktRaEQybG5xaS1BN2VzeUhRUmxkeGNRdml5R09tSkFXYnZrbE1rdEViWlZnYUgtelBtbjduaERiLUhpSFhySTEzcFdxUHRaSnhUSHFVV21KeHRXZFlWQUdNX016SWQ0d19XaU8yeUEtR3lwb3VQbVJPdGF2cFpZSUE?oc=5\" target=\"_blank\">Alabama Power files for $160M rate cut starting in January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cullman Tribune</font>",
         "image": null,
         "source_api": "google_news_rss",
-        "collected_at": "2026-11-27T13:23:40+00:00"
+        "collected_at": "2026-11-27T22:26:46+00:00"
       }
     },
     {
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 77,
-      "new_mentions_this_run": 3,
+      "new_mentions_this_run": 5,
       "latest_mention": {
         "id": "6fafa278a3b282d6",
         "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",
