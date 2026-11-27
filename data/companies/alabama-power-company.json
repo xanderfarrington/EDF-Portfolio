@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-26T20:48:09+00:00",
+  "last_updated": "2026-11-27T03:53:32+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 773,
+  "count": 774,
   "mentions": [
     {
       "id": "ed72564c3cef3283",
@@ -243,6 +243,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-24T21:49:22+00:00"
+    },
+    {
+      "id": "81e2e7435f392f07",
+      "title": "Alabama landowner uses semi-truck trailers to block power company access - WVTM Channel 13",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1pTbV9jZmI3Vnptc0ExNUxpdE43Y1NQeUFHT0YyVDgtaEdzbElNaGVFbktycmZpblNQSDZpc2RQNDU0WTRmaXVjd2dmSW9CU3BDRWsyU0puT0lpNW05TkVvQVpOaVBBWEpVdjVLdGRsN2hYTTlGTDdieWNnckNCWnh6QnlHa2dYdzE4Q2RWcmJGTlpZUGthT2xEaDB3ZDVROTVzT0JmOA?oc=5",
+      "domain": "news.google.com",
+      "source": "WVTM Channel 13",
+      "language": "English",
+      "published_at": "2026-11-24T15:15:00+00:00",
+      "summary": "Alabama landowner uses semi-truck trailers to block power company access WVTM Channel 13",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1pTbV9jZmI3Vnptc0ExNUxpdE43Y1NQeUFHT0YyVDgtaEdzbElNaGVFbktycmZpblNQSDZpc2RQNDU0WTRmaXVjd2dmSW9CU3BDRWsyU0puT0lpNW05TkVvQVpOaVBBWEpVdjVLdGRsN2hYTTlGTDdieWNnckNCWnh6QnlHa2dYdzE4Q2RWcmJGTlpZUGthT2xEaDB3ZDVROTVzT0JmOA?oc=5\" target=\"_blank\">Alabama landowner uses semi-truck trailers to block power company access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM Channel 13</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-27T03:53:32+00:00"
     },
     {
       "id": "7e3ada03eded01bf",
