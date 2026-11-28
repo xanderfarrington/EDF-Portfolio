@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T22:27:13+00:00",
+  "last_updated": "2026-11-28T05:52:40+00:00",
   "companies": [
     {
       "name": "AEP Transmission",
@@ -26,7 +26,7 @@
       "name": "Alabama Power Company",
       "slug": "alabama-power-company",
       "file": "data/companies/alabama-power-company.json",
-      "count": 776,
+      "count": 777,
       "new_mentions_this_run": 25,
       "latest_mention": {
         "id": "c02f96823a522b44",
@@ -90,7 +90,7 @@
       "slug": "georgia-power-company",
       "file": "data/companies/georgia-power-company.json",
       "count": 1084,
-      "new_mentions_this_run": 24,
+      "new_mentions_this_run": 8,
       "latest_mention": {
         "id": "55dd8bfce79820c0",
         "title": "Advocates Call to End Georgia’s Reliance on Coal - Southern Alliance for Clean Energy",
@@ -111,7 +111,7 @@
       "slug": "energy-dominance-financing",
       "file": "data/companies/energy-dominance-financing.json",
       "count": 77,
-      "new_mentions_this_run": 5,
+      "new_mentions_this_run": 3,
       "latest_mention": {
         "id": "6fafa278a3b282d6",
         "title": "Bridging Regional Grids: DOE's Energy Dominance Financing Commits $2.8B for 106-Mile Wyoming Intertie Transmission Project - TD World",

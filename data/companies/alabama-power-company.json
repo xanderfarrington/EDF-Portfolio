@@ -2,9 +2,9 @@
   "company": "Alabama Power Company",
   "slug": "alabama-power-company",
   "query": "\"Alabama Power\" OR \"Alabama Power Company\"",
-  "last_updated": "2026-11-27T22:26:46+00:00",
+  "last_updated": "2026-11-28T05:52:13+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 776,
+  "count": 777,
   "mentions": [
     {
       "id": "c02f96823a522b44",
@@ -1461,6 +1461,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-11T17:37:33+00:00"
+    },
+    {
+      "id": "e78c3670d5abbcdc",
+      "title": "Alabama Power says it will not charge customers for most advertising costs - Alabama Reflector",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRTV0Z0JnbFBxaEFNbkZDdUtsNFkwc3NYT2dGUnJTcHRTMGNYQUhfTjNvcFhQNTNTeXFncXEwU0hlMzZJRlRKSmEzOG8xYVZ4NHJDQ2pYTFVtNzRkY0YtOHVLS1BtUkI1SEZkZWg5ME9hendZbkR3TTI3b3RMdlhWMEtuLUp3amVsWjk0T3FWYWlqcm1rYXZPS3ZxREhVTks0TUlTTTZjR2VTX01zUWxaWC1SZFlDZw?oc=5",
+      "domain": "news.google.com",
+      "source": "Alabama Reflector",
+      "language": "English",
+      "published_at": "2026-11-11T08:00:00+00:00",
+      "summary": "Alabama Power says it will not charge customers for most advertising costs Alabama Reflector",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNRTV0Z0JnbFBxaEFNbkZDdUtsNFkwc3NYT2dGUnJTcHRTMGNYQUhfTjNvcFhQNTNTeXFncXEwU0hlMzZJRlRKSmEzOG8xYVZ4NHJDQ2pYTFVtNzRkY0YtOHVLS1BtUkI1SEZkZWg5ME9hendZbkR3TTI3b3RMdlhWMEtuLUp3amVsWjk0T3FWYWlqcm1rYXZPS3ZxREhVTks0TUlTTTZjR2VTX01zUWxaWC1SZFlDZw?oc=5\" target=\"_blank\">Alabama Power says it will not charge customers for most advertising costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alabama Reflector</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-28T05:52:13+00:00"
     },
     {
       "id": "df5f419f0d86f5ec",
