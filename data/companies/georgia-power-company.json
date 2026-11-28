@@ -2,9 +2,9 @@
   "company": "Georgia Power Company",
   "slug": "georgia-power-company",
   "query": "\"Georgia Power\" OR \"Georgia Power Company\"",
-  "last_updated": "2026-11-28T05:52:30+00:00",
+  "last_updated": "2026-11-28T14:54:01+00:00",
   "archive_policy": "append_only_no_deletion",
-  "count": 1084,
+  "count": 1085,
   "mentions": [
     {
       "id": "55dd8bfce79820c0",
@@ -75,6 +75,20 @@
       "image": null,
       "source_api": "google_news_rss",
       "collected_at": "2026-11-26T20:48:25+00:00"
+    },
+    {
+      "id": "d3424908e7fe463b",
+      "title": "Georgia Power celebrates 100 years of Network Underground service in communities across Georgia - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZkx1S1gtQm01aFhUWEtkWmQ5ZWdscHlpam5Xekt1aUZZS2libl9qaHh3RXpkeUJJMi1QNDJJcXhiZjRoN0MyT2ZwZTBHSDFFaWZ6bzdLak5pMFR5VFpKdXliRGhlWl9UenNSUmVpMk9TdHBkQjBWTzJWVzQyb2lzbXZWRks0Ym02akxpNElXRGcyejdGWXFnNl9MeW0xUjRoN1dtNEptakRicHlyY25Pb1ludjBDOURnWVJlbGJQbGxHSWpZZzE3MHVqUmxFVjJmRXBxWFRDS3lCTHZBNUt3bzRmUG1qSGxWV1VFcA?oc=5",
+      "domain": "news.google.com",
+      "source": "Morningstar",
+      "language": "English",
+      "published_at": "2026-11-24T17:57:00+00:00",
+      "summary": "Georgia Power celebrates 100 years of Network Underground service in communities across Georgia Morningstar",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZkx1S1gtQm01aFhUWEtkWmQ5ZWdscHlpam5Xekt1aUZZS2libl9qaHh3RXpkeUJJMi1QNDJJcXhiZjRoN0MyT2ZwZTBHSDFFaWZ6bzdLak5pMFR5VFpKdXliRGhlWl9UenNSUmVpMk9TdHBkQjBWTzJWVzQyb2lzbXZWRks0Ym02akxpNElXRGcyejdGWXFnNl9MeW0xUjRoN1dtNEptakRicHlyY25Pb1ludjBDOURnWVJlbGJQbGxHSWpZZzE3MHVqUmxFVjJmRXBxWFRDS3lCTHZBNUt3bzRmUG1qSGxWV1VFcA?oc=5\" target=\"_blank\">Georgia Power celebrates 100 years of Network Underground service in communities across Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "image": null,
+      "source_api": "google_news_rss",
+      "collected_at": "2026-11-28T14:54:01+00:00"
     },
     {
       "id": "97cdf873f03ad84c",
